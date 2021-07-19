@@ -119,8 +119,8 @@ screen say(who, what):
                     button:
                         padding (0, 0)
                         text who id "who"
-                        action Show("name_input", prompt="Please input your name:", prefix="I'm ", suffix=".", rt=False)
-                        hovered ShowTransient("player_panel_hover", content="Click to change your name.")
+                        action Show("name_input", prompt="请输入你的名字:", prefix="我叫", suffix=".", rt=False)
+                        hovered ShowTransient("player_panel_hover", content="点击更改你的名字.")
                         unhovered Hide("player_panel_hover")
                 else:
                     text who id "who"
@@ -233,15 +233,14 @@ screen quick_menu():
             xalign 0.5
             yalign 1.0
 
-            textbutton _("Hide") action HideInterface()
-            textbutton _("Rollback") action Rollback()
-            textbutton _("History") action ShowMenu('history')
-            textbutton _("Forward") action Skip() alternate Skip(fast=True, confirm=True)
-            textbutton _("Auto") action Preference("auto-forward", "toggle")
-            textbutton _("Save") action ShowMenu('save')
-            textbutton _("Load") action QuickSave()
-            textbutton _("QuickLoad") action QuickLoad()
-            textbutton _("Settings") action ShowMenu('preferences')
+            textbutton _("隐藏") action HideInterface()
+            textbutton _("回档") action Rollback()
+            textbutton _("历史") action ShowMenu('history')
+            textbutton _("前进") action Skip() alternate Skip(fast=True, confirm=True)
+            textbutton _("自动") action Preference("auto-forward", "toggle")
+            textbutton _("读档") action ShowMenu('save')
+            textbutton _("快速读档") action QuickLoad()
+            textbutton _("设置") action ShowMenu('preferences')
 
 
 
@@ -279,43 +278,43 @@ screen navigation():
 
         if main_menu:
 
-            textbutton _("New Game") action Start()
+            textbutton _("新的开始") action Start()
 
         else:
 
-            textbutton _("History") action ShowMenu("history")
+            textbutton _("历史") action ShowMenu("history")
 
-            textbutton _("Save") action ShowMenu("save")
+            textbutton _("保存") action ShowMenu("save")
 
-        textbutton _("Load") action ShowMenu("load")
+        textbutton _("载入") action ShowMenu("load")
 
-        textbutton _("Settings") action ShowMenu("preferences")
+        textbutton _("设置") action ShowMenu("preferences")
 
-        textbutton _("Gallery") action ShowMenu("gallery"):
+        textbutton _("画廊") action ShowMenu("gallery"):
             sensitive not _in_replay
 
         if _in_replay:
 
-            textbutton _("End Replay") action EndReplay(confirm=True)
+            textbutton _("结束回放") action EndReplay(confirm=True)
 
         elif not main_menu:
 
-            textbutton _("Main Menu") action MainMenu()
+            textbutton _("主菜单") action MainMenu()
 
-        textbutton _("About") action ShowMenu("about")
+        textbutton _("简介") action ShowMenu("about")
 
         if renpy.variant("mobile"):
-            textbutton _("Escape") action Call("escape")
+            textbutton _("脱离") action Call("escape")
 
         if renpy.variant("pc"):
 
 
-            textbutton _("Help") action ShowMenu("help")
+            textbutton _("帮助") action ShowMenu("help")
 
         if renpy.variant("pc") or renpy.variant("android"):
 
 
-            textbutton _("Quit") action Quit(confirm=not main_menu)
+            textbutton _("退出") action Quit(confirm=not main_menu)
 
 
 
@@ -493,7 +492,7 @@ screen about():
 
 
             if gui.about:
-                text "Thanks for playing our game!"
+                text "感谢游玩我们的游戏！"
                 add seperator
                 text "[gui.about!t]"
                 add seperator
@@ -530,14 +529,14 @@ screen save():
     tag menu
 
 
-    use file_slots(_("Save"))
+    use file_slots(_("存档"))
 
 
 screen load():
     tag menu
 
 
-    use file_slots(_("Load"))
+    use file_slots(_("读档"))
 
 
 
@@ -551,7 +550,7 @@ screen preferences():
     tag menu
 
 
-    use game_menu(_("Settings"), scroll="viewport"):
+    use game_menu(_("设置"), scroll="viewport"):
 
         vbox:
             xalign 0.5
@@ -563,27 +562,27 @@ screen preferences():
 
                     vbox:
                         style_prefix "radio"
-                        label _("Display")
-                        textbutton _("Window") action Preference("display", "window")
-                        textbutton _("Fullscreen") action Preference("display", "fullscreen")
+                        label _("显示")
+                        textbutton _("窗口") action Preference("display", "window")
+                        textbutton _("全屏") action Preference("display", "fullscreen")
 
                 vbox:
                     if renpy.variant("small"):
                         xsize 390
                     style_prefix "radio"
-                    label _("Rollback Side")
-                    textbutton _("Disable") action Preference("rollback side", "disable")
-                    textbutton _("Left") action Preference("rollback side", "left")
-                    textbutton _("Right") action Preference("rollback side", "right")
+                    label _("回滚")
+                    textbutton _("禁用") action Preference("rollback side", "disable")
+                    textbutton _("左侧") action Preference("rollback side", "left")
+                    textbutton _("右侧") action Preference("rollback side", "right")
 
                 vbox:
                     if renpy.variant("small"):
                         xsize 390
                     style_prefix "check"
-                    label _("Skip")
-                    textbutton _("Unseen Text") action Preference("skip", "toggle")
-                    textbutton _("After Choices") action Preference("after choices", "toggle")
-                    textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
+                    label _("跳过")
+                    textbutton _("未读") action Preference("skip", "toggle")
+                    textbutton _("选项") action Preference("after choices", "toggle")
+                    textbutton _("转场") action InvertSelected(Preference("transitions", "toggle"))
 
 
 
@@ -597,25 +596,25 @@ screen preferences():
 
                 vbox:
 
-                    label _("Text Speed")
+                    label _("文本速度")
 
                     bar value Preference("text speed")
 
-                    label _("Auto-Forward Time")
+                    label _("自动阅读速度")
 
                     bar value Preference("auto-forward time")
 
                 vbox:
 
                     if config.has_music:
-                        label _("Music Volume")
+                        label _("音乐音量")
 
                         hbox:
                             bar value Preference("music volume")
 
                     if config.has_sound:
 
-                        label _("Sound Volume")
+                        label _("背景音量")
 
                         hbox:
                             bar value Preference("sound volume")
@@ -625,7 +624,7 @@ screen preferences():
 
 
                     if config.has_voice:
-                        label _("Voice Volume")
+                        label _("语音音量")
 
                         hbox:
                             bar value Preference("voice volume")
@@ -636,7 +635,7 @@ screen preferences():
                     if config.has_music or config.has_sound or config.has_voice:
                         null height gui.pref_spacing
 
-                        textbutton _("Mute All"):
+                        textbutton _("全部静音"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
 
@@ -743,7 +742,7 @@ screen history():
 
     predict False tag menu
 
-    use game_menu(_("History"), scroll=("vpgrid" if gui.history_height else "viewport"), yinitial=1.0):
+    use game_menu(_("历史"), scroll=("vpgrid" if gui.history_height else "viewport"), yinitial=1.0):
 
         style_prefix "history"
 

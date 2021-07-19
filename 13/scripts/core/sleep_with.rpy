@@ -20,14 +20,14 @@ label sleep_A:
 
     if rdc(1):
         scene sleep_a_1 with tstmgr
-        player "Oww... Vera... you are so good at this..."
+        player "Oww...薇拉...你很擅长这个..."
         narrator "... ... ... ..."
     elif rdc(2):
         scene sleep_a_2 with tstmgr
-        a "I have work to do tomorrow, [P.name]. Don't... make it too long."
-    else:
+        a "我明天还要上班,[P.name].别...做太久了."
+    elif True:
         scene sleep_a_3 with tstmgr
-        a "Stop... I want to sleep..."
+        a "差不多了...我想睡觉..."
         "... ... ... ..."
 
     $ new_day()
@@ -43,15 +43,15 @@ label sleep_C:
 
     if rdc(1):
         scene sleep_c_1 with tstmgr
-        c "(Talking in the dream) Irene... I'm not doing your homework for you... ..."
+        c "(梦呓)艾琳...我没有帮你做作业......"
         "... ... ... ..."
     elif rdc(2):
         scene sleep_c_2 with tstmgr
-        c "Wait~~ Don't play with my nipple!~~~"
+        c "等等~~不要玩我的乳头!~~~"
         "... ... ... ..."
-    else:
+    elif True:
         scene sleep_c_3 with tstmgr
-        c "Have a good night, my little virgin~"
+        c "晚安,我的小处男~"
         "... ... ... ..."
 
     $ new_day()
@@ -67,15 +67,15 @@ label sleep_G:
 
     if rdc(1):
         scene sleep_g_1 with tstmgr
-        g "Wait, wait, don't sleep yet~ The night is still young~"
+        g "等待,等等,别睡~夜晚才刚开始~"
         "... ... ... ..."
     elif rdc(2):
         scene sleep_g_2 with tstmgr
-        g "Awwwwwwww~~~~~ yes, yes, keep fucking me like that~~"
+        g "Awwwwwwww~~~~~yes,yes,继续这样操我~~"
         "... ... ... ..."
-    else:
+    elif True:
         scene sleep_g_3 with tstmgr
-        g "(Talking in the dream) chicken... ... fried chicken... ..."
+        g "(梦呓)鸡......炸鸡......"
         "... ... ... ..."
 
     $ new_day()
@@ -92,11 +92,11 @@ label sleep_ACG:
         "... ... ... ..."
     elif rdc(2):
         scene sleep_acg_2 with tstmgr
-        player "Awww~ It's so good to have a harem~"
+        player "Awww~ 有一个后宫真是太好了~"
         "... ... ... ..."
     else:
         scene sleep_acg_3 with tstmgr
-        c "This time... I will hold longer than Vera~"
+        c "这一次... 我会比薇拉坚持得更久~"
         "... ... ... ..."
 
     $ new_day()

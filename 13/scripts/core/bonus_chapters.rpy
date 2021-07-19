@@ -5,7 +5,7 @@ screen bonus_chapters():
 
 
 
-    use game_menu(_("Bonus Chapters"))
+    use game_menu(_("额外章节"))
 
     style_prefix "about" tag menu
 

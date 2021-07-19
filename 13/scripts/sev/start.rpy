@@ -5,10 +5,10 @@ label start:
     "What's your name again?"
     window hide
 
-    $ P_state.name = "Agang" if renpy.variant("pc") else "Leo"
-    call screen name_input(prompt=_(""), prefix="I'm ", suffix=".")
+    $ P_state.name = "夜尽天明" if renpy.variant("pc") else "Leo"
+    call screen name_input(prompt=_(""), prefix="我叫", suffix=".")
 
-    $ hotel_room_rent = Attr(500.0, name=_("Room Rent"))
+    $ hotel_room_rent = Attr(500.0, name=_("租金"))
     $ P.ie_suffix = _("/Day")
     $ P.ie_short_suffix = _("/D")
     $ P.expanses.append(hotel_room_rent)
@@ -16,9 +16,9 @@ label start:
 
 
     menu:
-        "Start from the beginning" if True:
+        "从头开始" if True:
             $ run_event('d1_1')
-        "Skip the prologues" if True:
+        "跳过序章" if True:
 
             $ fake_run('d4_1_bLine', 'd4_4_bLine', 'd5_2_bLine', 'd5_4_bLine')
             $ fake_run('d4_3', 'A_dgsjhx', 'd8_1', 'A_daily_1', 

@@ -105,12 +105,12 @@ screen file_slots(title):
                         action FileAction(slot, confirm=True)
                     else:
                         action FileAction(slot)
-                    if title == "Save":
+                    if title == "存档":
                         alternate Show("save_input", slot=slot)
-                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Right Click{/color} to save with description.")
+                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}右键点击{/color}给存档添加描述.")
                     else:
                         alternate FileDelete(slot)
-                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Right Click{/color} to delete the save.")
+                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}右键点击{/color}以删除存档.")
                     unhovered HideMenuNotify(), SetLocalVariable("desc", False)
                     add "fileslot_hover_border"
 
@@ -124,7 +124,7 @@ screen file_slots(title):
                             at normal_t(0.3)
                             style "slot_name_text"
 
-                text FileTime(slot, format=_("{#file_time}%Y-%m-%d %H:%M"), empty=_("Empty Slot")):
+                text FileTime(slot, format=_("{#file_time}%Y-%m-%d %H:%M"), empty=_("空存档槽")):
                     style "slot_time_text"
                     yalign 1.0 xoffset 6
 
@@ -161,9 +161,9 @@ screen file_slots(title):
         textbutton _(">") action FilePageNext()
 
 
-    if renpy.variant("touch") and title == "Load":
-        if title == "Load":
-            use game_menu_notify("{color=#e8888a}Long Press{/color} to delete the save.", size=32)
+    if renpy.variant("touch") and title == "读档":
+        if title == "读档":
+            use game_menu_notify("{color=#e8888a}长按{/color}删除存档.", size=32)
     else:
         use game_menu_notify
 
@@ -216,7 +216,7 @@ screen save_input(slot):
         has vbox:
             xalign 0.5
             yalign 0.5
-        text "{color=#f0eee9}Save Description: {/color}":
+        text "{color=#f0eee9}存档描述:{/color}":
             style "name_input_input"
         input:
             style "name_input_input"

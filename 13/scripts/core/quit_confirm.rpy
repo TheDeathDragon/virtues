@@ -29,7 +29,7 @@ screen quit_confirm():
             add "qcb"
             vbox:
                 align .5, .5
-                label "Are you sure you want to quit?":
+                label "你确定要退出吗?":
                     style "confirm_prompt"
                     xalign 0.5
                 null height 90
@@ -42,7 +42,7 @@ screen quit_confirm():
         vbox:
             align .5, .95
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
-            text "To find out more about this game, take a look at our homepage:"
+            text "想了解更多关于这个游戏的信息,请前往Patreon支持我们:"
             button:
                 text "{u}https://www.patreon.com/NoMeme{/u}" style "link"
                 action OpenURL("https://www.patreon.com/NoMeme")

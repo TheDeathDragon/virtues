@@ -45,41 +45,43 @@ screen main_menu():
 
             if main_menu:
 
-                textbutton _("New Game") action [Hide("main_menu"), Show("timed_start")]
+                textbutton _("新游戏") action [Hide("main_menu"), Show("timed_start")]
 
             else:
-                textbutton _("History") action ShowMenu("history")
+                textbutton _("历史") action ShowMenu("history")
 
-                textbutton _("Save") action ShowMenu("save")
+                textbutton _("保存") action ShowMenu("save")
 
-            textbutton _("Load") action ShowMenu("load")
+            textbutton _("读档") action ShowMenu("load")
 
-            textbutton _("Settings") action ShowMenu("preferences")
+            textbutton _("加群") action OpenURL ("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
 
-            textbutton _("Gallery") action ShowMenu("gallery")
+            textbutton _("设置") action ShowMenu("preferences")
+
+            textbutton _("画廊") action ShowMenu("gallery")
 
             if _in_replay:
 
-                textbutton _("End Replay") action EndReplay(confirm=True)
+                textbutton _("结束回放") action EndReplay(confirm=True)
 
             elif not main_menu:
 
-                textbutton _("Main Menu") action MainMenu()
+                textbutton _("主菜单") action MainMenu()
 
-            textbutton _("About") action ShowMenu("about")
+            textbutton _("关于") action ShowMenu("about")
 
-            textbutton _("Bonus Chapters") action ToggleScreen("bonus_chapters")
+            textbutton _("额外章节") action ToggleScreen("bonus_chapters")
 
             if renpy.variant("pc"):
 
 
-                textbutton _("Help") action ShowMenu("help")
+                textbutton _("帮助") action ShowMenu("help")
 
 
 
             if renpy.variant("pc") or renpy.variant("android"):
 
-                textbutton _("Quit") action Quit(confirm=not main_menu)
+                textbutton _("退出") action Quit(confirm=not main_menu)
 
         hbox:
             xalign .0 yalign 1.0
@@ -173,7 +175,7 @@ style navigation_frame_style:
     xpos 140
     ypos 970
 
-define gui.special_thanks = _('''{size=-4}Special thanks to our key plegeing patrons:
+define gui.special_thanks = _('''{size=-4}特别感谢我们的重要赞助者:
 {color=#ffcd5c}{/color}''')
 
 screen thanks():
