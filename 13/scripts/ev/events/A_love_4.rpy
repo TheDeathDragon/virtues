@@ -3,221 +3,221 @@ label A_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Vera and I walked back home together from the restaurant as usual. "
+    "今晚晚些时候,薇拉和我像往常一样一起从餐厅回家."
 
-    "The house is quiet and empty. Seems like all the guests have gone to sleep."
+    "此时的房子寂静而空旷.看起来客人们已经睡着了."
 
     scene a_love_4_2 with tstmgr
 
-    player "God, I'm exhausted..."
+    player "天啊,累死我了..."
 
     scene a_love_4_1 with tstmgr
 
-    a "Shh... ..."
+    a "嘘......"
 
-    a "(Speaking in a low voice) Don't wake the people."
+    a "(小声说)不要吵醒别人."
 
-    player "Oh... sorry, my fault."
+    player "Oh...对不起,我的错."
 
-    player "I'm going to take a quick shower before bed, and you?"
+    player "我要在睡觉前冲个澡,你呢?"
 
-    a "I need to do the laundry first. See you tomorrow."
+    a "我需要先洗衣服.明天见."
 
-    player "See you tomorrow."
+    player "明天见."
 
     scene a_love_4_2 with tstmgr
 
-    player "(On the second thought, maybe I should grab a beer before shower...)"
+    player "(再想想,也许我应该在淋浴前喝杯啤酒...)"
 
-    "I went to the kitchen, and took a beer out from the refrigerator. "
+    "我走到厨房,从冰箱里拿出一瓶啤酒."
 
-    "And suddenly, I heard Vera scream. It's not very loud but still audible even in the kitchen."
+    "突然,我听到薇拉在洗衣房尖叫.声音不是很大,但我仍然能从30英尺外清楚地听到."
 
-    player "(And she asked me not to wake people up...)"
+    player "(她还让我不要吵醒别人...)"
 
-    "I went to the laundry room and opened the door."
+    "我去洗衣房,打开了门."
 
     scene a_love_4_3 with fade
 
-    player "Oh, dear. What happened?"
+    player "Oh,亲爱的.发生了什么事?"
 
     a "Emm... ... ... ..."
 
-    "It seems like that she just fell on the ground."
+    "她好像刚刚摔倒在地了."
 
-    player " Are you alright? Are you hurt?"
+    player "你还好吗?受伤了没?"
 
     scene a_love_4_4 with tstmgr
 
-    a "I... I think I'm fine... maybe I'm just too tired."
+    a "我...我想我没什么事...也许我只是太累了."
 
-    a "My left foot hurts... "
+    a "我左脚受伤了..."
 
-    player "Let me take a look."
+    player "让我看看."
 
     scene a_love_4_5 with tstmgr
 
-    "I sat on the ground, and carefully held her left foot with my hands."
+    "我坐在地上,小心地用手抓住她的左脚."
 
-    player "It didn't swell up, might just be a minor sprain. "
+    player "它没有肿起来,可能只是轻微扭伤."
 
     scene a_love_4_6 with tstmgr
 
-    a "I... I didn't allow you to touch my foot..."
+    a "我...我没有允许你碰我的脚..."
 
-    player "Oh... Uh... sorry..."
+    player "Oh...Uh...抱歉..."
 
     a "... ... ... ..."
 
     scene a_love_4_7 with tstmgr
 
-    a "Nevermind... it doesn't feel bad though..."
+    a "...不过感觉还不错..."
 
-    player "That's good to hear."
+    player "很高兴听你这么说."
 
-    player "Do you want a foot massage? It can reduce the pain and may even release your pressure. "
+    player "你想做足底按摩吗?它可以减轻疼痛,甚至可能释放你的压力."
 
-    player "And I'm actually quite confident with my massaging skill."
+    player "我对自己的按摩技巧很有信心."
 
     scene a_love_4_6 with tstmgr
 
-    a "I don't think... ..."
+    a "我觉得不......"
 
     scene a_love_4_9 with tstmgr
 
-    a "(Moaning) Awwww... ... ... ..."
+    a "(呻吟)Aw............"
 
-    "She moaned out when I pressed her sole."
+    "我按压她的脚掌时,她呻吟起来."
 
-    player "does it hurt?"
+    player "疼吗?"
 
-    a "(Nodding) Em... ..."
+    a "(点头)Em......"
 
-    player "Well, you know, Senning once told me that each part of your foot actually reflects one vital organ of your body, so the pain of your sole means that one of your organs is in trouble."
+    player "Well,你知道,森柠曾经告诉我,你脚的每一部分都反映了你身体的一个重要器官,所以你脚底的疼痛意味着你的一个器官出了问题."
 
     scene a_love_4_8 with tstmgr
 
-    a "What? Are you serious? Which organ is it?"
+    a "什么?你是认真的吗?是哪个器官?"
 
     player "... ... ... ..."
 
-    player "Forget it, I can't remember what she said. And I don't believe her, either."
+    player "算了吧,我记不起她说了什么.我也不相信她."
 
-    player "I mean, my entire foot was hurting as hell when I tried to press it myself, so I went for a body check in a hospital, but turned out I was perfectly healthy."
+    player "我的意思是,当我试着自己按它的时候,我的整只脚疼得要命,所以我去医院检查身体,结果发现我非常健康."
 
     scene a_love_4_10 with tstmgr
 
-    a "... That's funny."
+    a "...有意思."
 
     scene a_love_4_9 with tstmgr
 
-    a "(Moaning) Aw... ... ... ..."
+    a "(呻吟)Aw............"
 
-    a "(Moaning) Ahh... Just, just make it lighter, please..."
+    a "(呻吟)Ahh...请...轻一点..."
 
-    player "Roger that, Ma'am."
+    player "收到,女士."
 
-    "I kept massaging her foot and her moaning became louder and shorter."
+    "我不停地按摩她的脚,她的呻吟声越来越大,越来越急促."
 
     scene a_love_4_11 with tstmgr
 
     a "Ah, ah... Uhh... ... ..."
 
-    "Well, it starts to sound... erotic."
+    "Well,开始听起来...有些色情了."
 
-    "Did I just turn her on by touching her foot?... That's surprising."
+    "我是不是只碰了她的脚就让她兴奋了?真令人惊讶."
 
-    "And I soon realized that her moaning has turned me on as well. My penis is swelling up every second."
+    "我很快意识到她的呻吟也让我兴奋起来.我的鸡儿每时每刻都在膨胀."
 
-    "Then finally, I again, let my lust get the better of me."
+    "最后,我再一次,让我的欲望战胜了我."
 
     scene a_love_4_12 with tstmgr
 
-    player "Vera... ..."
+    player "薇拉......"
 
-    "I got closer to her. She looked at me, and I saw the fire of desire is in her eyes, too."
+    "我离她更近了.她看着我,我也看到了她眼中燃烧的欲望之火."
 
-    player "I can't control it anymore..."
+    player "我再也忍不住了..."
 
-    a "What... are you doing?"
+    a "你...你在干什么?"
 
-    player "Vera..."
+    player "薇拉..."
 
     scene a_love_4_13 with tstmgr
 
-    "I went closer, spread her legs, and she didn't stop me."
+    "我靠近她她,拉开她的腿,她没有阻止我."
 
     a "[P]..."
 
     scene a_love_4_14 with tstmgr
 
-    "She nervously avoided my gaze. How adorable."
+    "她不敢看我的眼睛,多么可爱啊."
 
     scene a_love_4_15 with tstmgr
 
-    "I picked her up on my legs. "
+    "我把她抱在腿上."
 
     a "... ... ... ..."
 
     scene a_love_4_16 with tstmgr
 
-    a "We shouldn't..."
+    a "我们不应该..."
 
     scene a_love_4_17 with tstmgr
 
-    "I answered by pulling her even closer."
+    "我把她抱的离我更近了,"
 
-    "Close enough to for our mouths to meet. Her trembling breath mingling with mine."
+    "离我的嘴够近."
 
     scene a_love_4_18 with tstmgr
 
-    "I guess she has already figured out what I am trying to do, otherwise why is she looking at me with such an expectation?"
+    "我想她已经知道我在做什么了,不然她干嘛那么期待地看着我?"
 
     scene a_love_4_19 with tstmgr
 
     "... ... ... ..."
 
-    "And here comes a wonderful kiss."
+    "一个美妙的吻."
 
-    "Her lips pressed against mine felt like soft, heavenly clouds. It feels so good... ..."
+    "她的嘴尝起来像最好的樱桃.我可以一整天都这样吻她!"
 
     scene a_love_4_19 with tstmgr
 
-    a "(Slightly Moaning) Ammm... hum... ..."
+    a "(轻微的呻吟)Ammm...hum......"
 
     scene a_love_4_20 with tstmgr
 
     player "??????"
 
-    "She started using her tongue on her own and made this kiss a wet one."
+    "她故意伸出舌头,把这个吻弄湿了."
 
-    "This is... beyond my expectations...her tongue dancing against mine is...heaven..."
+    "这真是...超出我的预想."
 
-    a "(Erotically Moaning) Mmmm... Ah... Wmm... ..."
+    a "(放浪的呻吟)Mmmm...Ah...Wmm......"
 
     "... ... ... ..."
 
     scene a_love_4_18 with tstmgr
 
-    "We left each other's mouth after a 1-minute long kiss."
+    "我们接吻一分钟后就离开了对方的嘴."
 
-    player "I never knew you were such a horny girl."
+    player "我从来不知道你是这么饥渴的女孩."
 
-    a "I'm not... ..."
+    a "我不是......"
 
     scene a_love_4_21 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ..."
+    a "(愉快地呻吟)Ah......"
 
-    a "(He is kissing my neck... and...)"
+    a "(他在吻我的脖子...而且...)"
 
     scene a_love_4_22 with tstmgr
 
-    a "(I can feel... something really hard between his legs...)"
+    a "(我能感觉到...他两腿之间有个硬硬的东西...)"
 
     scene a_love_4_23 with tstmgr
 
-    a "(Something... hard and... hot...)"
+    a "(一个...又硬又热...的东西...)"
 
     scene a_love_4_24 with tstmgr
 
@@ -225,19 +225,19 @@ label A_love_4:
 
     scene a_love_4_25 with tstmgr
 
-    "The door suddenly opened."
+    "门突然开了."
 
     scene a_love_4_26 with tstmgr
 
-    "Female Guest" "Oh my goodness... "
+    "女住客""我的天..."
 
-    "Female Guest" "Sorry!!! I didn't know!!!"
+    "女住客""对不起!!!我不知道!!!"
 
-    "The woman immediately shut the door and ran away."
+    "那个女人立刻关上门跑掉了."
 
-    player "(Ahh... damn it...)"
+    player "(Ahh...该死...)"
 
-    "That woman just ruined the moment. Fuck! "
+    "那个女人毁了这一刻.操!"
 
     "... ... ... ..."
 
@@ -245,35 +245,35 @@ label A_love_4:
 
     a "[P]... ..."
 
-    a "I guess... we went too far..."
+    a "我猜...我们走得太远了..."
 
     player "... ... ... ..."
 
-    "I sadly realized that Vera had returned to normal. The fire of desire had disappeared from her eyes."
+    "我悲伤地意识到薇拉又恢复了正常.欲望的火焰在她的眼睛里消失了."
 
-    "Damn, I was so close!"
+    "该死,我就差那么一点点了!"
 
-    a "All of this... was not supposed to happen."
+    a "所有的这一切...都不应该发生."
 
     player "... ... ... ..."
 
-    a "Can you put me down? I think my foot is fine now."
+    a "你能把我放下吗?我想我的脚现在好了."
 
-    player "If that is what you want... ..."
+    player "嗯......"
 
     scene a_love_4_28 with tstmgr
 
     "... ... ... ..."
 
-    a "Good night... [P]."
+    a "晚安...[P]."
 
     scene void with tstmgr
 
-    "She left the room real quick and forgot about the laundry thing."
+    "她很快离开了房间,忘记了洗衣服的事."
 
     player "Shit!"
 
-    "I'm going to charge that goddamned woman for extra 100 dollars for ruining my time. I don't care if she is going to sue me or not."
+    "我要向那个该死的女人多收100美元,因为她毁了我这么美妙的一刻.我不在乎她是否会起诉我."
 
     "... ... ... ..."
 
@@ -281,21 +281,21 @@ label A_love_4:
 
     scene home_livingroom_day_background with tstmgr
 
-    "The next morning. Vera was doing housework in the livingroom."
+    "第二天早上.薇拉正在客厅里做家务."
 
-    player "Hi, Vera. You got up so early today."
+    player "嗨,薇拉.你今天起得真早."
 
-    player "And, eh... about last night..."
+    player "eh...关于昨晚..."
 
     a "... ... ... ..."
 
-    "She didn't talk with me as she always did, instead, she ran away from the room immediately after seeing me."
+    "她不像往常那样和我说话,相反,她一看见我就跑开了."
 
     player "... ... ... ..."
 
-    "After what happened last night, now she is too shy to face me. I need to fix this."
+    "发生了昨晚的事之后,她现在不好意思见我了.我需要解决这个问题."
 
-    "I should find her at her workplaces more often, even if she doesn't want to talk with me. "
+    "我应该经常去她工作的地方找她,即使她不想和我说话."
 
     stop music fadeout 1.0
 

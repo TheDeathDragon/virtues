@@ -3,15 +3,15 @@ label A_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "The next morning..."
+    "第二天早上..."
 
 
 
-    "*Bird cheeps* ... ... ... ..."
+    "*鸟叫声*............"
 
 
 
-    "*Bird cheeps* ... ... ... ... ... ... ... ..."
+    "*鸟叫声*........................"
 
 
 
@@ -21,21 +21,21 @@ label A_daily_11:
 
 
 
-    a "It is morning already?... ..."
+    a "已经是早上了?......"
 
 
 
-    "Vera sat up on the bed."
+    "薇拉在床上坐了起来."
 
 
 
     scene a_daily11_5 with tstmgr
 
-    a "The weather looks great today."
+    a "今天天气看起来很好."
 
 
 
-    player "(Snoring) Zzzzzzzz... ... Zzzzzzz... ..."
+    player "(鼾声)Zzzzzzzz......Zzzzzzz......"
 
 
 
@@ -47,11 +47,11 @@ label A_daily_11:
 
     scene a_daily11_4 with tstmgr
 
-    a "That was... quite a night."
+    a "那真是一个...美妙的夜晚."
 
 
 
-    a "He came... twice inside of me. Such a beast... ..."
+    a "他...在我里面射了两次.像一个野兽一样......"
 
 
 
@@ -61,7 +61,7 @@ label A_daily_11:
 
     scene a_daily11_6 with tstmgr
 
-    a "And the beast has a cute sleeping face."
+    a "野兽有一张可爱的熟睡的脸."
 
 
 
@@ -71,31 +71,31 @@ label A_daily_11:
 
     scene a_daily11_5 with tstmgr
 
-    a "What's happened in these past few months...it all feels like a dream."
+    a "过去几个月发生了什么...一切就像一场梦."
 
 
 
-    a "I feels like only yesterday I was living in a slum...desperately trying to support myself and my mother..."
+    a "几个月前,我还住在那个贫民窟里,一切似乎都很绝望."
 
 
 
     scene a_daily11_4 with tstmgr
 
-    a "But now... I am here at this big house, waking up on a big bed everyday with... ..."
+    a "但现在...我在这个大房子里,每天在一张大床上醒来和......"
 
 
 
-    a "With the first man in my life... ..."
+    a "和我生命中的第一个男人......"
 
 
 
-    a "Life is really fantastic. You never know what is going to happen next... or who you will meet... ..."
+    a "生活真的很奇妙.你永远不知道接下来会发生什么."
 
 
 
     scene a_daily11_9 with tstmgr
 
-    a "But will he leave me someday in the future?"
+    a "但是他会在将来的某一天离开我吗?"
 
 
 
@@ -121,11 +121,11 @@ label A_daily_11:
 
     scene a_daily11_8 with tstmgr
 
-    player "Morning, V."
+    player "早上好,薇."
 
 
 
-    a "Ah, you are awake. I’m going to prepare the breakfast right now."
+    a "Ah,你醒了.我现在就去准备早餐."
 
 
 
@@ -135,37 +135,37 @@ label A_daily_11:
 
     scene a_daily11_10 with tstmgr
 
-    player "Hey, forget about the breakfast. Let’s have some fun."
+    player "Hey,忘了早餐吧.我们做点有意思的事儿."
 
 
 
-    a "Stop... I need to go to work later."
+    a "别...我晚点要去上班."
 
 
 
-    player "I’ll be quick..."
+    player "我会很快的..."
 
 
 
     scene a_daily11_11 with tstmgr
 
-    a "Don’t you ever get tired?"
+    a "你不会累吗?"
 
 
 
-    a "What if I get pregnant?"
+    a "如果我怀孕了怎么办?"
 
 
 
     if A.relation == "girlfriend":
 
-        player "Then we will raise the baby together."
+        player "那我们就一起抚养孩子."
 
 
 
     if A.relation == "sexpartner":
 
-        player "You don’t need to worry about the future. The only thing we should do is to enjoy the present."
+        player "你不必担心未来.我们唯一应该做的就是享受现在."
 
 
 
@@ -175,7 +175,7 @@ label A_daily_11:
 
 
 
-    a "(Kissing) Wummmm... ... ... ..."
+    a "(亲吻)Wummmm............"
 
 
 
@@ -187,17 +187,17 @@ label A_daily_11:
 
     scene a_daily11_13 with tstmgr
 
-    player "We haven’t made love during the day before, have we?"
+    player "我们白天还没做过爱,对吧?"
 
 
 
-    player "So this is going to be the first time... ..."
+    player "这将是第一次......"
 
 
 
     scene a_daily11_14 with tstmgr
 
-    player "Do you feel uncomfortable with the window? I can draw the curtains if you want."
+    player "这玻璃让你感觉不舒服吗?如果你需要,我可以把窗帘拉上."
 
 
 
@@ -207,31 +207,31 @@ label A_daily_11:
 
     scene a_daily11_15 with tstmgr
 
-    a "People can't see through from outside, right?"
+    a "人们从外面看不到里面,对吗?"
 
 
 
-    player "Yep. It is a mirror if you look from the outside."
+    player "Yep.从外面看,它是一面镜子."
 
 
 
     scene a_daily11_16 with tstmgr
 
-    a "Then... I’m okay with it."
+    a "嗯...我没关系."
 
 
 
-    player "But will it make you more excited when imagining people seeing us from outside?"
+    player "但是当你想象人们从外面看到我们时,你会更兴奋吗?"
 
 
 
     scene a_daily11_17 with tstmgr
 
-    a "Oh my God, are you a pervert?"
+    a "OhmyGod,你是个变态吗?"
 
 
 
-    player "I’m just saying... ..."
+    player "我就说说......"
 
 
 
@@ -241,21 +241,21 @@ label A_daily_11:
 
     scene a_daily11_16 with tstmgr
 
-    a "I wish I will never become a pervert like you."
+    a "我希望我永远不会成为一个像你一样的变态."
 
 
 
-    a "Now just finish the thing quickly. I don’t want to be late for work."
+    a "现在赶快把事情做完.我不想上班迟到."
 
 
 
     scene a_daily11_18 with tstmgr
 
-    player "Alright... ... ... ..."
+    player "好吧............"
 
 
 
-    a "Stop, it itches~~"
+    a "停,好痒~~"
 
 
 
@@ -265,23 +265,23 @@ label A_daily_11:
 
 
 
-    a "(Moaning with restraint) Hmmmmm... hmmmm... hmmmm... ... ... ..."
+    a "(克制的呻吟)Hmmmmm...hmmmm...hmmmm............"
 
 
 
-    a "Oh... ... you don’t need to... ... move... so fast... ..."
+    a "Oh......你不需要......动的...这么快......"
 
 
 
-    player "Hah, but you were the one who just said 'finish it quickly'."
+    player "Hah,但你不是说要'赶快做完'吗."
 
 
 
-    a "Awwwww... ... but... ..."
+    a "Awwwww......但是......"
 
 
 
-    a "This is... so intense... ..."
+    a "这...太强烈了......"
 
 
     stop sound
@@ -295,15 +295,15 @@ label A_daily_11:
 
 
 
-    "Her bouncing tits keep hitting my arms in a nasty way. Shit, I really like this feeling."
+    "她那跳动的乳房以一种羞耻的方式不停地打着我的手臂.妈的,我真的很喜欢这种感觉."
 
 
 
-    "I don’t think I can hold any longer... ..."
+    "我想我撑不住了......"
 
 
 
-    player "I’m cuming, Vera!~~~"
+    player "我要射了,薇拉!~~~"
 
 
     stop sound
@@ -316,29 +316,29 @@ label A_daily_11:
 
 
 
-    "I pulled my dick out of her body at the last second and came outside."
+    "我在最后一秒从她的身体里抽出我的鸡儿,射在了外面."
 
 
 
     scene a_daily11_22 with tstmgr
 
-    a "(Breathing harshly) Huh... huh... huh... huh... ..."
+    a "(呼吸急促)Huh...huh...huh...huh......"
 
 
 
-    a "That was... amazing... ..."
+    a "这太...妙了......"
 
 
 
-    a "But [P]... ... ... ..."
+    a "但是[P]............"
 
 
 
-    a "Why didn’t you cum... inside me?"
+    a "为什么你不射在...我里面?"
 
 
 
-    player "Because I don’t want you to go to work with a sticky pussy. Aren't I sweet?"
+    player "因为我不想让你带着黏黏的小穴去上班.我是不是很贴心?"
 
 
 
@@ -346,15 +346,15 @@ label A_daily_11:
 
 
 
-    a "But now I've got a sticky belly. What's the difference? I still need to go to a shower anyway."
+    a "但现在我有一个黏糊糊的肚子.有什么区别呢?我还得去洗个澡."
 
 
 
-    a "You... blockhead... ..."
+    a "你这个...笨蛋......"
 
 
 
-    player "Oh, sorry... ... ... ..."
+    player "Oh,抱歉............"
 
 
 
@@ -365,6 +365,20 @@ label A_daily_11:
 
 
     stop music fadeout 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

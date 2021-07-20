@@ -3,19 +3,19 @@ label found_outdoors:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Uno and I are on the way home after a movie."
+    "今晚晚些时候,乌诺和我看完电影正在回家的路上."
 
 
 
     scene found_outdoors_1 with dissolve
 
-    g "Why did you lead me to this dark alley?"
+    g "你为什么把我带到这条黑暗的小巷?"
 
 
 
     scene found_outdoors_2 with tstmgr
 
-    player "It is a shortcut to home, we will walk at least 1 mile less~"
+    player "这是回家的捷径,我们可以少走1英里~"
 
 
 
@@ -25,31 +25,31 @@ label found_outdoors:
 
     scene found_outdoors_3 with tstmgr
 
-    g "I thought you brought me here to do something bad to me~"
+    g "我以为你带我来这里是为了对我做坏事~"
 
 
 
     scene found_outdoors_4 with tstmgr
 
-    player "Something bad? You mean outdoor sex?"
+    player "坏事吗?你是说户外做爱吗??"
 
 
 
     scene found_outdoors_3 with tstmgr
 
-    player "Don’t be silly~ I’m not that thirsty yet~ What if someone sees us?"
+    player "别傻了~我还没那么饥渴~要是有人看见我们怎么办?"
 
 
 
     scene found_outdoors_5 with tstmgr
 
-    g "Wouldn't that make it even better?"
+    g "那不是更令人兴奋吗?"
 
 
 
     scene found_outdoors_6 with tstmgr
 
-    player "And dangerous too."
+    player "也很危险."
 
 
 
@@ -61,35 +61,35 @@ label found_outdoors:
 
     scene found_outdoors_8 with tstmgr
 
-    g "*Pulling down the zipper* ... ... ... ..."
+    g "*拉下拉链*............"
 
 
 
-    player "What... are you doing?"
+    player "你...在干什么?"
 
 
 
-    g "I’m embracing the excitement~"
+    g "我正在拥抱这种兴奋~"
 
 
 
     scene found_outdoors_9 with tstmgr
 
-    player "Okay, I did have noticed that you are kinda into exhibitionism before, but isn’t this a little too much? Are you really not afraid of being seen by others?"
+    player "Okay,我确实注意到你以前有点裸露癖,但这是不是有点过分了?你真的不怕被别人看见吗?"
 
 
 
-    g "There are no others here~"
+    g "这里没有其他人了~"
 
 
 
-    player "How can you tell? Someone may hide in the dark."
+    player "你怎么知道?有人可能躲在黑暗中."
 
 
 
     scene found_outdoors_10 with tstmgr
 
-    g "You will protect me anyway~"
+    g "无论如何你都会保护我的~"
 
 
 
@@ -101,33 +101,33 @@ label found_outdoors:
 
     $ flashlight()
 
-    "Suddenly, we heard someone moaning in the dark..."
+    "突然,我们听到有人在黑暗中呻吟..."
 
 
 
-    "Unknown girl" "Emmm... ... ahhh~~ yes... hhhh~~~ owww~~~"
+    "未知女孩""Emmm... ... ahhh~~ yes... hhhh~~~ owww~~~"
 
 
 
-    g "Two people are fucking around that corner..."
+    g "有两个人在附近乱搞..."
 
 
 
-    player "A drunk couple, I guess."
+    player "我猜是一对喝醉的情侣."
 
 
 
-    g "Ha~ I know people would do bad things in the dark alley~"
+    g "Ha~我知道人们会在黑暗的巷子里做坏事~"
 
 
 
     scene found_outdoors_12 with tstmgr
 
-    g "Maybe we should do the same thing as them~ Please~~"
+    g "也许我们也应该和他们做同样的事~拜托~~"
 
 
 
-    player "Not today, girl, and not here... ..."
+    player "今天不行,女孩,现在也不行......"
 
 
 
@@ -137,7 +137,7 @@ label found_outdoors:
 
     scene found_outdoors_13 with tstmgr
 
-    player "Maybe... another time when we are sure about that there are no other people nearby, okay?"
+    player "也许...下一次,当我们确定附近没有其他人的时候,okay?"
 
 
 
@@ -151,11 +151,11 @@ label found_outdoors:
 
 
 
-    call screen hint("From now on, you can bring your girls outdoors and do something exciting with them whose shamelessness have reached certain level.")
+    call screen hint("从现在开始,你可以带你那些羞耻值到2级的女孩到户外和她们一起做一些令人兴奋的事情.")
 
 
 
-    call screen hint("You can do that by finding girls in their rooms and using the ‘Take her to’ button.")
+    call screen hint("你可以通过在女孩的房间里找到她们,并使用“带她去”按钮来做到这一点.")
 
     stop music fadeout 1.0
 

@@ -3,25 +3,25 @@ label C_daily_2:
     scene rcsj_c1 with tstmgr
     play music happy
 
-    player "Manager, there is a file that needs your signature on."
+    player "经理,有个文件需要你签字."
 
-    c "Just leave it on the table. I'll sign it later."
+    c "把它放在桌子上.我待会签."
 
-    player "Alright."
+    player "好的."
 
     scene rcsj_c2 with tstmgr
 
-    c "Hold a moment, don't go yet."
+    c "等一下,先别走."
 
-    player "What's the matter?"
+    player "怎么了?"
 
     scene rcsj_c3 with tstmgr
 
-    c "Go bring me a cup of coffee, half sugar, triple cream."
+    c "给我来杯咖啡,半糖,三倍奶油."
 
     player "... ... ... ..."
 
-    c "What are you waiting for?"
+    c "你还在等什么?"
 
     player "... ... ... ..."
 
@@ -29,21 +29,21 @@ label C_daily_2:
 
     c "[P.name]?"
 
-    player "(Suddenly realized)Oh, I'll bring it for you right away."
+    player "(突然惊醒)Oh,我马上给你拿来."
 
     player "... ... ... ..."
 
     c "... ... ... ..."
 
-    player "To be honest, I'm still not getting used to responding to your orders."
+    player "老实说,我还是不习惯听你的命令."
 
     scene rcsj_c4 with tstmgr
 
-    c "I know it is a hard change for you. Take your time."
+    c "我知道这对你来说是一个艰难的改变.赶紧的."
 
-    c "And I'm still waiting for my coffee."
+    c "我还在等咖啡呢."
 
-    player "Oh, sure, I'm... I'll be right back..."
+    player "Oh,当然,我...我马上回来..."
 
     c "... ... ... ..."
 

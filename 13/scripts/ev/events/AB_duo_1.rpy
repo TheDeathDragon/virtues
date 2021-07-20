@@ -6,33 +6,33 @@ label AB_duo_1:
 
 
 
-    "Later today, Senning and Lady Minna came to my house together while I wasn’t there."
+    "今天晚些时候，森柠和米娜趁我不在，一起来到我家."
 
 
 
     scene ab_duo_1_1 with dissolve
 
-    a "Welcome, Sen, and this is... ...?"
+    a "欢迎你，森，这就是... ...?"
 
 
 
     scene ab_duo_1_2 with tstmgr
 
-    b "This is my mom. She just arrived in this country some days ago~"
+    b "这是我妈妈.她几天前刚到这个国家~"
 
 
 
-    "Lady Minna" "It’s so nice to finally meet you, Vera. Senning has told me a lot about you~"
+    "米娜女士" "真高兴终于见到你了，维拉。森柠告诉了我很多关于你的事情~"
 
 
 
-    "Lady Minna" "You can call me Lady Minna if you like."
+    "米娜女士" "如果你愿意，你可以叫我米娜女士."
 
 
 
     scene ab_duo_1_1 with tstmgr
 
-    a "It’s so nice to meet you too, Lady Minna~"
+    a "It’s so nice to meet you too, 米娜女士~"
 
 
 
@@ -64,13 +64,13 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "... ... ... ..."
+    "米娜女士" "... ... ... ..."
 
 
 
     scene ab_duo_1_6 with tstmgr
 
-    "Lady Minna" "Be careful, daughter, don’t be fooled by her smile. That’s your another opponent."
+    "米娜女士" "Be careful, daughter, don’t be fooled by her smile. That’s your another opponent."
 
 
 
@@ -80,13 +80,13 @@ label AB_duo_1:
 
     scene ab_duo_1_7 with tstmgr
 
-    "Lady Minna" "Oh of course she is. They are living together, for God’s sake."
+    "米娜女士" "Oh of course she is. They are living together, for God’s sake."
 
 
 
     scene ab_duo_1_8 with tstmgr
 
-    "Lady Minna" "That girl might not be as lascivious as that Theodora, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
+    "米娜女士" "That girl might not be as lascivious as that Theodora, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
 
 
 
@@ -96,7 +96,7 @@ label AB_duo_1:
 
     scene ab_duo_1_9 with tstmgr
 
-    "Lady Minna" "Observe, girl, observe. This house is extraordinary clean so someone must do the cleaning every day. Who would it be? [P], that white-haired rich princess, or this brown-skin Cinderella?"
+    "米娜女士" "Observe, girl, observe. This house is extraordinary clean so someone must do the cleaning every day. Who would it be? [P], that white-haired rich princess, or this brown-skin Cinderella?"
 
 
 
@@ -112,7 +112,7 @@ label AB_duo_1:
 
     scene ab_duo_1_11 with tstmgr
 
-    "Lady Minna" "Does she cook well too?"
+    "米娜女士" "Does she cook well too?"
 
 
 
@@ -120,11 +120,11 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Oh dear, that’s even worse. Have you heard that? ‘The way to a man’s heart is through his stomach.’"
+    "米娜女士" "Oh dear, that’s even worse. Have you heard that? ‘The way to a man’s heart is through his stomach.’"
 
 
 
-    "Lady Minna" "She might be an even stronger opponent than that Theodora... ..."
+    "米娜女士" "She might be an even stronger opponent than that Theodora... ..."
 
 
 
@@ -138,7 +138,7 @@ label AB_duo_1:
 
     scene ab_duo_1_12 with tstmgr
 
-    "Lady Minna" "Naive girl, it’s not that simple. You can never avoid the competition in a harem."
+    "米娜女士" "Naive girl, it’s not that simple. You can never avoid the competition in a harem."
 
 
 
@@ -148,7 +148,7 @@ label AB_duo_1:
 
     scene ab_duo_1_13 with tstmgr
 
-    "Lady Minna" "For example, your man’s first ejaculation everyday is the thickest and contains the most semens. Whoever of you girls get it will have the higher possibility to be fertilized. You have to fight for that chance everyday, girl!"
+    "米娜女士" "For example, your man’s first ejaculation everyday is the thickest and contains the most semens. Whoever of you girls get it will have the higher possibility to be fertilized. You have to fight for that chance everyday, girl!"
 
 
 
@@ -156,7 +156,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Humph, have I told you that you have to get pregnant within a year in order to stay with him after your graduation? You don’t have time to waste and you have to take every chance!"
+    "米娜女士" "Humph, have I told you that you have to get pregnant within a year in order to stay with him after your graduation? You don’t have time to waste and you have to take every chance!"
 
 
 
@@ -176,7 +176,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Me? No, I know nothing about those things... ..."
+    "米娜女士" "Me? No, I know nothing about those things... ..."
 
 
 
@@ -190,7 +190,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Hah? Why would you ask your enemy for help?"
+    "米娜女士" "Hah? Why would you ask your enemy for help?"
 
 
 
@@ -204,17 +204,17 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Huh... ... ... ..."
+    "米娜女士" "Huh... ... ... ..."
 
 
 
     scene ab_duo_1_18 with tstmgr
 
-    "Lady Minna" "Whatever, girl, maybe I was a little too sensitive after all. You can do whatever you want, just be careful, okay? Sometimes woman can be the most vicious creature in the world."
+    "米娜女士" "Whatever, girl, maybe I was a little too sensitive after all. You can do whatever you want, just be careful, okay? Sometimes woman can be the most vicious creature in the world."
 
 
 
-    "Lady Minna" "Find me in my hotel room if you need any help. I’m leaving now~"
+    "米娜女士" "Find me in my hotel room if you need any help. I’m leaving now~"
 
 
 
@@ -224,7 +224,7 @@ label AB_duo_1:
 
     scene ab_duo_1_19 with tstmgr
 
-    "Lady Minna" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Theodora’s mother, that blonde lady. That’s a really interesting woman~"
+    "米娜女士" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Theodora’s mother, that blonde lady. That’s a really interesting woman~"
 
 
 
@@ -234,7 +234,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "See you, daughter~"
+    "米娜女士" "See you, daughter~"
 
 
 
@@ -246,7 +246,7 @@ label AB_duo_1:
 
     scene ab_duo_1_22 with tstmgr
 
-    "Lady Minna left the house..."
+    "米娜女士 left the house..."
 
 
 
@@ -258,7 +258,7 @@ label AB_duo_1:
 
     scene ab_duo_1_24 with tstmgr
 
-    a "Hmmmm? Senning, where is your mother?"
+    a "Hmmmm? 森柠, where is your mother?"
 
 
 
@@ -374,7 +374,7 @@ label AB_duo_1:
 
 
 
-    "*Vera and Senning have came to an agreement on the relationship with you.*"
+    "*Vera and 森柠 have came to an agreement on the relationship with you.*"
 
     stop music fadeout 1.0
     jump event_post

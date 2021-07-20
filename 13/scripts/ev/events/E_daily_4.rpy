@@ -3,35 +3,35 @@ label E_daily_4:
     scene void with tstmgr
     play music sorrow
 
-    "I am very concerned about Aunt Elisa recently."
+    "我最近很担心伊莉莎阿姨."
 
 
 
-    "Irene is going to graduate from highschool and she may eventually move out from this mansion. By that time Aunt Elisa will be the only one who lives in that place."
+    "艾琳即将从高中毕业,她可能最终会搬出这所豪宅.到那时,伊莉莎阿姨将是唯一住在那个地方的人."
 
 
 
-    "That will be... tragic, isn’t it? A lonely woman in a big empty house. It must will be hard for her."
+    "这将是...悲剧,不是吗?一个在空荡荡的大房子里孤独的女人.这对她来说一定很难."
 
 
 
-    "I wonder why she stays single for so many years. Damn, I wish I am 10 years older so I can go pursue her rightly."
+    "我想知道她为什么单身这么多年.妈的,我真希望自己再大10岁,这样我就可以好好地追求她了."
 
 
 
     scene e_daily4_1 with tstmgr
 
-    player "Aunt Elisa, can I ask you a question?"
+    player "伊莉莎阿姨,我能问你个问题吗?"
 
 
 
     scene e_daily4_2 with tstmgr
 
-    e "Yeah, of course."
+    e "Yeah,当然."
 
 
 
-    player "It has been 15 years since you got divorced. I can feel your loneliness growing every time when I see you."
+    player "你离婚已经15年了.每次见到你,我都能感觉到你越来越孤独."
 
 
 
@@ -41,117 +41,117 @@ label E_daily_4:
 
 
 
-    e "Is it that obvious?"
+    e "有那么明显吗?"
 
 
 
-    player "So... why didn’t you get married again? There must be a lot of men trying to pursue you."
+    player "所以...你为什么不再婚?一定有很多男人在追求你."
 
 
 
-    e "Why... would you want to know that?"
+    e "为什么...你想知道?"
 
 
 
-    player "I am worried about you..."
+    player "我担心你..."
 
 
 
-    e "Ohh... sweetie... ..."
+    e "Ohh...甜心......"
 
 
 
-    e "Okay, I will tell you the truth."
+    e "Okay,我来告诉你真相."
 
 
 
     scene e_daily4_4 with tstmgr
 
-    e "Firstly, I don’t trust any man who tries to get along with me. I’m afraid that they would love my money more than they would love me."
+    e "首先,我不相信任何试图与我相处的人.我担心他们会爱我的钱胜过爱我."
 
 
 
-    "Well... ... that’s reasonable."
-
-
-
-    scene e_daily4_5 with tstmgr
-
-    e "And the second thing is... I always felt inferior for myself, so I am afraid to... keep an intimate relationship with a man."
-
-
-
-    player "What? No way, you are the most perfect woman I have ever known in my life. You are so beautiful, so gentle, and so... eh, rich. Why on earth would you feel inferior?"
-
-
-
-    scene e_daily4_2 with tstmgr
-
-    e "Ohhh... I’m so happy to hear you saying that."
+    "Well......这是合理的."
 
 
 
     scene e_daily4_5 with tstmgr
 
-    e "But... actually... I have a physical defect."
+    e "第二件事是...我总是感到自卑,所以我害怕...和男人保持亲密的关系."
 
 
 
-    player "Physical... defect?"
-
-
-
-    scene e_daily4_3 with tstmgr
-
-    e "It’s not a big deal. You don’t need to worry about me at all."
-
-
-
-    player "But... have you gone to see a doctor?"
-
-
-
-    e "I haven't. It was a very private problem, so... ..."
-
-
-
-    e "I'd rather not talk about it now. Sorry, [P]."
-
-
-
-    player "Oh, okay, sorry, Aunt Elisa, I asked too much."
+    player "什么?不可能,你是我这辈子见过的最完美的女人.你是那么美丽,那么温柔,那么...嗯,有钱.你究竟为什么会感到自卑呢?"
 
 
 
     scene e_daily4_2 with tstmgr
 
-    e "Anyway, thanks for caring, [P]. You are such a sweet young man."
+    e "Ohhh...我很高兴听到你这么说."
 
 
 
-    player "I just want you to be happy, Aunt Elisa. I don’t want you to be alone after Irene goes to college."
+    scene e_daily4_5 with tstmgr
+
+    e "但是...实际上...我有生理缺陷."
+
+
+
+    player "生理...缺陷?"
 
 
 
     scene e_daily4_3 with tstmgr
 
-    e "I’ll be fine... ..."
+    e "没什么大不了的.你根本不需要为我担心."
+
+
+
+    player "但是...你去看医生了吗?"
+
+
+
+    e "没有.这是一个非常私人的问题......"
+
+
+
+    e "我现在不想谈这个.对不起,[P]."
+
+
+
+    player "Oh,okay,对不起,伊莉莎阿姨,我问得太多了."
+
+
+
+    scene e_daily4_2 with tstmgr
+
+    e "不管怎样,谢谢你的关心,[P].你真是个可爱的年轻人."
+
+
+
+    player "我只是想让你开心,伊莉莎阿姨.艾琳上大学后,我不想让你一个人呆着."
+
+
+
+    scene e_daily4_3 with tstmgr
+
+    e "我会没事的......"
 
 
 
     scene e_daily4_6 with tstmgr
 
-    e "Just... remember to stop by and pay me a visit with Theodora when you are free."
+    e "只是...记得有空和狄奥多拉来看看我."
 
 
 
-    player "Oww, Aunt Elisa..."
+    player "Oww,伊莉莎阿姨..."
 
 
 
     scene e_daily4_7 with tstmgr
 
-    "I suddenly stepped up and hugged her tightly."
+    "我突然走上前,紧紧地抱住了她."
 
 
 
@@ -159,19 +159,19 @@ label E_daily_4:
 
 
 
-    e "(Oh my God! His arms are so strong~)"
+    e "(我的天!他的胳膊很强壮~)"
 
 
 
     scene e_daily4_8 with tstmgr
 
-    e "(And he is pressing my chest so hard... ...)"
+    e "(他把我的胸口压得很紧......)"
 
 
 
     scene e_daily4_7 with tstmgr
 
-    e "I... ... [P]... ..."
+    e "我......[P]......"
 
 
 
@@ -183,29 +183,29 @@ label E_daily_4:
 
 
 
-    player "(Her giant soft breasts are close against me!)"
+    player "(她巨大柔软的胸紧贴着我!)"
 
 
 
-    player "(Man... I swear I just wanted to give her a warm little hug. But now things are getting weird...)"
+    player "(伙计...我发誓我只是想给她一个温暖的拥抱.但现在事情变得越来越奇怪...)"
 
 
 
-    player "(Wait... ...)"
+    player "(等等......)"
 
 
 
-    player "(There is an amazing scent I can smell on her body... It’s like a milk fragrance that you can smell from every little baby.)"
+    player "(我能在她身上闻到一种奇妙的香味...它就像牛奶的香味,你可以从每个小婴儿身上闻到.)"
 
 
 
-    player "(It smells... so good...)"
+    player "(它闻起来...太棒了...)"
 
 
 
     scene e_love_3_30 with flashback
 
-    player "(I can’t help recall that night... ...)"
+    player "(我情不自禁地回想起那个夜晚......)"
 
 
 
@@ -215,17 +215,17 @@ label E_daily_4:
 
 
 
-    player "Ah? Oh, sorry!"
+    player "Ah?Oh,抱歉!"
 
 
 
     scene e_daily4_3 with tstmgr
 
-    player "Sorry, Aunt Elisa. Did I clasp you too hard? I was just trying to... ..."
+    player "抱歉,伊莉莎阿姨.我把你抱得太紧了吗?我只是想......"
 
 
 
-    e "It’s... nothing..."
+    e "这...没什么..."
 
 
 
@@ -237,21 +237,21 @@ label E_daily_4:
 
 
 
-    "She looks upset. I think I need to say something right now to make her feel better."
+    "她看上去很沮丧.我想我现在得说点什么让她好受点."
 
 
 
-    player "Hey, Aunt Elisa. I think we should hang out together sometime. We can go to the beach, or hold another picnic party."
+    player "Hey,伊莉莎阿姨.我想我们应该找个时间一起出去玩.我们可以去海滩,或者举行另一个野餐派对."
 
 
 
     scene e_daily4_10 with tstmgr
 
-    e "What? You mean, only the two of us?"
+    e "什么?你是说,只有我们两个人?"
 
 
 
-    player "Oh, no, I mean, it will be great if Theodora and Irene can come as well."
+    player "Oh,不,我是说,如果狄奥多拉和艾琳也能来,那就太好了."
 
 
 
@@ -261,13 +261,13 @@ label E_daily_4:
 
 
 
-    "She looked even more upset for some reason. Did I say something wrong?"
+    "不知什么原因,她看上去更加沮丧.我说错了什么吗?"
 
 
 
     scene e_daily4_11 with tstmgr
 
-    e "Alright, [P]. I’ll talk to the girls."
+    e "好吧,[P].我会和女孩们谈谈的."
 
 
 

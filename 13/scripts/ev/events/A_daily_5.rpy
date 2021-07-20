@@ -3,107 +3,107 @@ label A_daily_5:
     scene a_room_night_smile with tstmgr
     play music sorrow
 
-    a "You want to join me with the housekeeping?"
+    a "你想和我一起做家务吗?"
 
-    player "In fact, I would like you to have a rest. I can handle it alone."
+    player "事实上,我想让你休息一下.我一个人能行."
 
-    player "You are already exhausted from your other jobs. I don't want you to overwork."
+    player "其他工作已经让你筋疲力尽了.我不希望你工作过度."
 
     scene a_room_night_normal with tstmgr
 
     a "... ... ... ..."
 
-    a "I don't mean to doubt you, but do you still remember the last time when you cleaned the living room, you broke a vase by accident?"
+    a "我并不想打击你,但你还记得上次你打扫客厅时不小心打破了花瓶吗?"
 
-    player "... ... Yes, I still remember that."
+    player "......是的,我还记得."
 
     scene a_room_night_smile with tstmgr
 
-    a "So... I think we'd better do the cleaning together in case something happens again, don't you think?"
+    a "所以...我想我们最好一起打扫卫生,以防再发生什么事,你说呢?"
 
-    player "You sound like I'm a three-year-old kid..."
+    player "你让我听起来像个三岁小孩..."
 
-    player "Nevermind, fine. Let's do this together. I promise that I won't make mistakes again."
+    player "行吧,我们一起做.我保证我不会再弄砸了."
 
-    a " I'm sure that you will be a great help."
+    a "我相信你会帮大忙的."
 
-    a "Let's try not to wake the guests. We need to be careful and quiet."
+    a "我们尽量不要吵醒客人.我们需要小心和安静."
 
-    player "No problem, madam."
+    player "没问题,女士."
 
     scene home_livingroom_night_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Vera and I started to do the housekeeping work together."
+    narrator "薇拉和我开始一起做家务."
 
-    narrator "But soon, I realized it was not a good idea. My work efficiency became very low after I teamed up with her."
+    narrator "但很快,我意识到这不是一个好主意.我和她合作后,我的工作效率变得很低."
 
-    narrator "As for the reason..."
+    narrator "至于原因..."
 
-    narrator "It was because I had put all my attention on her body instead of working."
+    narrator "这是因为我把所有的注意力都放在了她的身体上,而不是工作."
 
     scene gssj_a1 with tstmgr
 
-    narrator "Just take a look at her when she is cleaning the table. Her breasts look so marvelous at this angle, and they are jiggling along with her action."
+    narrator "当她在擦桌子的时候,从这个角度看,她的胸部看起来妙极了,它们随着她的动作而抖动."
 
     scene gssj_a2 with tstmgr
 
-    narrator "She must feel very tired when doing this. Her shoulder must be sore from supporting those huge tits."
+    narrator "她做这件事时一定很累.她的肩膀一定很疼,因为她得支撑着那些巨大的乳房."
 
     narrator "... ... ... ..."
 
-    narrator "I should definitely suggest her not to do this in front of the guests."
+    narrator "我一定要建议她不要在客人面前这样做."
 
     narrator "... ... ... ..."
 
     scene gssj_a5 with tstmgr
 
-    narrator "She then started to sweep the floor after finished cleaning the table."
+    narrator "她打扫完桌子后就开始扫地."
 
     scene gssj_a6 with tstmgr
 
-    narrator "Well, that's hell of two legs."
+    narrator "Well,真是两条好腿."
 
-    narrator "I would like to see her wearing stockings."
+    narrator "我想看她穿长筒袜."
 
-    narrator "Ah, damn it, how am I able to do my work under such a temptation."
+    narrator "Ah,该死,我怎么能在这样的诱惑下工作."
 
     narrator "... ... ... ..."
 
     scene gssj_a3 with tstmgr
 
-    narrator "A few moments later, she came to the bathroom and started to clean the bathtub."
+    narrator "过了一会儿,她来到浴室,开始清洗浴缸."
 
-    narrator "Ah... That sitting posture is sexy as well, not to mention those cute white socks."
+    narrator "Ah...那种坐姿也很性感,更不用说那些可爱的白袜子了."
 
     scene gssj_a4 with tstmgr
 
-    narrator "Let's change an angle and take a closer look at it."
+    narrator "我们换个角度仔细看看."
 
     narrator "... ... ... ..."
 
     scene gssj_a7 with tstmgr
 
-    a "Why are you staring at me?"
+    a "你为什么盯着我看?"
 
-    a "And... your face looks weird."
+    a "而且...你的脸看起来怪怪的."
 
     scene gssj_a8 with tstmgr
 
-    a "Aren't you supposed to be cleaning the toilet now?"
+    a "你现在不是应该在打扫厕所吗?"
 
-    player "Oh, I..."
+    player "Oh,我..."
 
-    player " I'm on my way."
+    player "我马上就去."
 
-    player "I was just... Eh, I was just observing your cleaning technique."
+    player "我只是...我只是在观察你的清洁技巧."
 
-    narrator "I left the bathroom in a hurry."
+    narrator "我匆忙离开浴室."
 
     a "... ... ... ..."
 
-    a "Cleaning... technique?"
+    a "清洁...技巧?"
 
     scene void with tstmgr
 

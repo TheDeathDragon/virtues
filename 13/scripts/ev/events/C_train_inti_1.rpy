@@ -3,53 +3,53 @@ label C_train_inti_1:
     scene void with tstmgr
     play music happy
 
-    "A few days later, in Theodora’s office..."
+    "几天后,在狄奥多拉的办公室里..."
 
 
 
     scene c_train_inti_1_1 with dissolve
 
-    player "... ... And that is the end of my report."
+    player "......以上就是我的报告."
 
 
 
-    c "(Nodding) Very well..."
+    c "(点头)非常好..."
 
 
 
-    player "Is there anything else you want me to do?"
+    player "你还有什么事要我做吗?"
 
 
 
-    c "I... no, you can go back to your work now."
+    c "我...no,你现在可以回去工作了."
 
 
 
     scene c_train_inti_1_2 with tstmgr
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
     scene void with tstmgr
 
-    "I turned around and moved to the door, but suddenly..."
+    "我转身向门口走去,但突然..."
 
 
 
     scene c_train_inti_1_3 with tstmgr
 
-    c "Wait..."
+    c "等等..."
 
 
 
-    player "(Turning back) Emmm?"
+    player "(转身)Emmm?"
 
 
 
     scene c_train_inti_1_4 with tstmgr
 
-    c "Come here."
+    c "过来."
 
 
 
@@ -59,37 +59,37 @@ label C_train_inti_1:
 
     scene c_train_inti_1_5 with tstmgr
 
-    player "(Walked to Theo) What is it?"
+    player "(走向狄奥)怎么了?"
 
 
 
-    c "Squat down."
+    c "蹲下."
 
 
 
     scene c_train_inti_1_6 with tstmgr
 
-    player "Eh... ... so?"
+    player "Eh......所以?"
 
 
 
     scene c_train_inti_1_7 with tstmgr
 
-    c "Now kiss me."
+    c "现在吻我."
 
 
 
-    "She looked at me with those soul-taking emerald pupils and smiled so teasingly."
+    "她用那翠绿色的瞳人望着我,笑得那么开心."
 
 
 
     scene c_train_inti_1_8 with tstmgr
 
-    player "Theo... ..."
+    player "狄奥......"
 
 
 
-    "How could I reject such a request?"
+    "我怎么能拒绝这样的请求呢?"
 
 
 
@@ -99,33 +99,33 @@ label C_train_inti_1:
 
 
 
-    c "(Greedily sought for my lips) Ah~~~ wummm~~~~ hummm~~~~"
+    c "(贪婪地寻找我的嘴唇)Ah~~~wummm~~~~hummm~~~~"
 
 
 
-    player "Theo... ..."
+    player "狄奥......"
 
 
 
     scene c_train_inti_1_10 with tstmgr
 
-    c "Al... alright... ..."
+    c "好...好了......"
 
 
 
-    c "I am satisfied now. You can leave."
+    c "我现在很满意.你可以走了."
 
 
 
-    player "What? That’s it? So what was that kiss for?"
+    player "什么?就这些吗?这个吻是为了什么?"
 
 
 
-    c "Nothing~ That was just a sexual harassment that your superior committed to you. Deal with it, rookie~"
+    c "没什么,这只是你上司对你的性骚扰.面对现实吧,小老弟~"
 
 
 
-    c "And report me to the boss if you like~ I’m sure mom will take it seriously..."
+    c "如果你喜欢,可以向老板举报我~我相信妈妈会认真对待的..."
 
 
 
@@ -136,34 +136,34 @@ label C_train_inti_1:
     label C_train_inti_1_choice_1:
 
     menu:
-        "Deal with it":
+        "面对现实":
 
 
             scene c_train_inti_1_19 with tstmgr
 
-            player "Alright. I’m leaving..."
+            player "Alright.那我走了..."
 
             c "... ... ... ..."
 
             scene c_train_inti_1_20 with tstmgr
 
-            c "You are not angry, are you?"
+            c "你没有生气吧?"
 
-            player "Hmm? Why would I be angry?"
+            player "Hmm?我为什么要生气?"
 
             scene c_train_inti_1_21 with tstmgr
 
-            c "I don’t know. I was just... ..."
+            c "我不知道.我只是......"
 
             scene c_train_inti_1_22 with tstmgr
 
-            player "Wait, have you started to care about my feelings?"
+            player "等等,你现在开始在乎我的感受了?"
 
-            c "I... ... ... ..."
+            c "我............"
 
             scene c_train_inti_1_23 with tstmgr
 
-            player "The iceberg is melting, ha~"
+            player "冰山正在融化,ha~"
 
             scene c_train_inti_1_24 with tstmgr
 
@@ -171,81 +171,81 @@ label C_train_inti_1:
 
             scene c_train_inti_1_25 with tstmgr
 
-            c "Get out of my office!"
+            c "滚出我的办公室!"
 
             scene c_train_inti_1_26 with tstmgr
 
-            player "Alright, see you tonight~"
+            player "Alright,今晚见~"
 
-            "[P] left the room..."
+            "[P]离开了房间..."
 
             scene c_train_inti_1_27 with tstmgr
 
             c "... ... ... ..."
-        "Make her pay":
+        "让她得到教训":
 
 
 
 
             scene c_train_inti_1_12 with tstmgr
 
-            player "Well, I won’t report you, but you are not going to get away with this easily... ..."
+            player "Well,我不会告发你,但你也别想就这样了事......"
 
-            c "What are you talking about?"
+            c "你在说什么?"
 
-            player "I will make you pay~"
+            player "我会让你尝尝教训的~"
 
             scene c_train_inti_1_11 with tstmgr
 
             c "Wummmm~~~~~"
 
-            c "What... is... this?... ..."
+            c "这...?......"
 
-            c "This is~~ how you want to~~~ make me pay?~~ With more kissing?~~"
+            c "这是~~你想怎样~~~让我得到教训?~~用更多吻?~~"
 
-            c "You are~~ funny~~~ wummmmmmm~~~~"
+            c "你真~~有趣~~~wummmmmmm~~~~"
 
-            player "You will know... what I am capable of soon... ..."
+            player "你会知道的...我很快......"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Three minutes later..."
+            "三分钟后..."
 
             scene c_train_inti_1_13 with tstmgr
 
-            c "Haven’t you... ... kissed enough?... ... It’s been so fucking long... ..."
+            c "你...吻够了吗?...已经他妈的三分钟了......"
 
             c "Wummmm~~~~ wummmm~~~~ wummmm~~~~~"
 
             scene c_train_inti_1_14 with tstmgr
 
-            c "(Breathing heavily) Aummmm... ... give me a break... ..."
+            c "(喘着粗气)Aummmm......让我休息一下......"
 
             scene c_train_inti_1_15 with tstmgr
 
-            c "(Didn’t even realize that her bra just be taken off) Move~~~ your~~~ tongue away~~~"
+            c "(甚至没有意识到她的胸罩刚刚被脱掉了)拿开~~~你的~~~舌头~~~"
 
-            c "Hum~~~ you jerk~~~ wummmmm~~~~"
+            c "Hum~~~你这混球~~~wummmmm~~~~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Three more minutes later..."
+            "又过了三分钟..."
 
             scene c_train_inti_1_16 with tstmgr
 
-            c "(Has given up on resisting and immersed into the kiss) Hummmmmm~~~~~ [P]~~~ hummmm~~~~~"
+            c "(放弃了拒绝而沉浸在亲吻中)Hummmmmm~~~~~[P]~~~hummmm~~~~~"
 
-            c "Kiss~~~ wummmm~~~ like~~~ wummm~~~ love~~~"
+            c "吻我~~~wummmm~~~就像~~~wummm~~~爱人~~~"
 
             scene c_train_inti_1_17 with tstmgr
 
-            "I've never kissed anyone for this long before. My tongue is sore and my lips are numb, but the only thing that matters to me is her sweet, moist mouth."
+            "我以前从来没有吻过这么久.我的舌头酸痛,我的嘴唇发麻,但现在对我唯一重要的是她那甜润的嘴巴.."
 
-            "I wish I could kiss her like this forever... ..."
+            "我希望我能永远这样吻她......"
 
             scene void with tstmgr
 
@@ -253,13 +253,13 @@ label C_train_inti_1:
 
             scene c_train_inti_1_18 with tstmgr
 
-            "A minute later, this long kiss finally came to an end. She has lost consciousness and can't stop moaning. It’s like she just had an orgasm or something. I never knew kissing could be this... effective."
+            "一分钟后,这个漫长的吻终于结束了.她失去了知觉,不停地呻吟.就像她刚刚高潮了一样.我从来不知道吻可以是这样...有用"
 
-            c "[P]... ... kiss... ... more... ..."
+            c "[P]......更多的......吻......"
 
             player "... ... ... ..."
 
-            "Maybe I went too far?"
+            "也许我做得太过分了?"
 
             scene void with tstmgr
 

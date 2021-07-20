@@ -3,17 +3,17 @@ label D_train_sexskill_1:
     scene void with tstmgr
     play music happy
 
-    "The next afternoon, when I went to Aunt Elisa’s house for tutoring Irene..."
+    "第二天下午,我去伊莉莎阿姨家给艾琳辅导..."
 
 
 
     scene d_train_sexskill_1_1 with dissolve
 
-    d "[P], [P], look, look! My boobs have got a little bigger!"
+    d "[P],[P],快看,快看!我的胸大了一点!"
 
 
 
-    player "Oh, okay, good to hear."
+    player "Oh,okay,很高兴听到这个."
 
 
 
@@ -23,53 +23,53 @@ label D_train_sexskill_1:
 
 
 
-    d "That’s it? You are not excited at all?"
+    d "就这些吗?你一点也不兴奋?"
 
 
 
-    player "I... no, I mean, wow, congratulation, Irene!"
+    player "我...不,我是说,哇,恭喜你,艾琳!"
 
 
 
     scene d_train_sexskill_1_3 with tstmgr
 
-    d "Ahhhhhhh! Stop pretending being excited!"
+    d "Ahhhhhhh!别假装兴奋了!"
 
 
 
     scene d_train_sexskill_1_4 with tstmgr
 
-    d "It’s all Theo’s fault! You stared at her huge tits everyday and now you don’t care about mine at all!"
+    d "都是西奥的错!你每天盯着她的大乳房看,现在你一点也不关心我的!"
 
 
 
-    player "No no no, that’s not true... ..."
+    player "Nonono,不是这样的......"
 
 
 
     scene d_train_sexskill_1_5 with tstmgr
 
-    d "Humph! I’m going to prove to you that my boobs are as sexy as hers!"
+    d "Humph!我要向你证明我的胸和她的一样性感!"
 
 
 
-    "She opened her skirt and her cute breasts just popped out."
+    "她一拉开衣服,可爱的乳房就冒了出来."
 
 
 
     scene d_train_sexskill_1_6 with tstmgr
 
-    d "Now you go sit on my bed."
+    d "现在你去我床上坐着."
 
 
 
-    player "But... ... the tutoring... ..."
+    player "但是......辅导......"
 
 
 
     scene d_train_sexskill_1_7 with tstmgr
 
-    d "Tutoring can wait! My boobs are more important!"
+    d "辅导可以等等!我的胸更重要!"
 
 
 
@@ -77,7 +77,7 @@ label D_train_sexskill_1:
 
 
 
-    "I’d better listen to her now."
+    "我现在最好听她的."
 
 
 
@@ -87,33 +87,33 @@ label D_train_sexskill_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene d_train_sexskill_1_8 with tstmgr
 
-    d "Alright, now I’m going to show you what I learned from Uno~"
+    d "Alright,现在我要向你展示我从乌诺那学到了什么~"
 
 
 
-    d "About... doing a titjob~"
+    d "就是...乳交~"
 
 
 
-    player "Uno? Damn... what has she taught you?"
+    player "乌诺?Damn...她教了你什么?"
 
 
 
     scene d_train_sexskill_1_9 with tstmgr
 
-    d "Quiet! Just let me hold my boobs... ..."
+    d "安静!让我抱着我的胸部......"
 
 
 
     scene d_train_sexskill_1_10 with tstmgr
 
-    d "And lock your dick into my cleavage~"
+    d "把你的鸡巴锁在我的乳沟里~"
 
 
 
@@ -131,35 +131,35 @@ label D_train_sexskill_1:
 
     scene d_train_sexskill_1_13 with tstmgr
 
-    d "Ahhhhhhh!!!!!! They are too small! I can’t do that!"
+    d "Ahhhhhhh!!!!!!它们太小了!我做不到!"
 
 
 
     scene d_train_sexskill_1_14 with tstmgr
 
-    player "I... I think you just haven’t found the correct way yet. Do you... need some help?"
+    player "我...我想你只是还没有找到正确的方法.你...需要一些帮助?"
 
 
 
-    d "Help?"
+    d "帮助?"
 
 
 
     scene d_train_sexskill_1_15 with tstmgr
 
-    player "Yeah, I’ll show you... the right way."
+    player "Yeah,我来给你演示...正确的方式."
 
 
 
-    "I took her lovely boobs in my hands. Oh my... I don’t even know how to describe this feeling. This pair of tender spirits doesn’t belong to this world!"
+    "我把她可爱的胸捧在手里.Ohmy...我甚至不知道如何描述这种感觉.这一对温柔的精灵不属于这个世界!"
 
 
 
-    player "See... Don’t press them so hard, just give them a little pull. Your soft breasts are like plasticine. You can easily turn them into different shapes..."
+    player "看...不要压得太紧,稍微用力一下就可以了.你柔软的乳房就像橡皮泥.你可以很容易地把它们变成不同的形状..."
 
 
 
-    player "And now, let’s try push them together~"
+    player "现在,让我们试着把它们挤在一起~"
 
 
 
@@ -175,21 +175,21 @@ label D_train_sexskill_1:
 
 
 
-    d "You made it! Wow! You know more about my boobs than I do!"
+    d "你成功了!哇!你比我更了解我的胸!"
 
 
 
-    player "Ehhhh... ... Was that supposed to be a compliment... ..."
+    player "Ehhhh......你是在恭维我吗......"
 
 
 
     scene d_train_sexskill_1_18 with tstmgr
 
-    d "Alright, I can take over from here~"
+    d "Alright,现在我会了~"
 
 
 
-    player "Okay, here you go... ..."
+    player "Okay,你来......"
 
 
 
@@ -199,23 +199,23 @@ label D_train_sexskill_1:
 
 
 
-    d "Up and down~ Up and down~ Up and down~~"
+    d "上上下下~上上下下~上上下下~~"
 
 
 
-    d "Wow... Your dick is hard like an iron stick... ... You must be really excited right now~"
+    d "Wow...你的鸡巴硬得像根铁棒......你现在一定很兴奋~"
 
 
 
-    d "See, my tits can make you excited just like Theo’s~"
+    d "看,我的胸同西奥的一样能让你兴奋~"
 
 
 
-    player "I... I never doubted that... ..."
+    player "我...我从未怀疑过......"
 
 
 
-    d "Ha~ And there is another trick I can do~"
+    d "Ha~还有一个技巧~"
 
 
 
@@ -225,39 +225,39 @@ label D_train_sexskill_1:
 
 
 
-    d "How about this? How about this?"
+    d "这个怎么样?这个怎么样?"
 
 
 
-    player "Wow... This is... awesome!"
+    player "Wow...这...太棒了!"
 
 
 
-    d "Right? I have practiced this with mommy’s dildo for many times~"
+    d "对吧?我已经用妈妈的假鸡巴练习过很多次了~"
 
 
 
-    player "Aunt Elisa’s... dildo?"
+    player "伊莉莎阿姨的...假鸡巴?"
 
 
 
-    d "Shhhh... don’t tell her about that~"
+    d "Shhhh...不要告诉她这件事~"
 
 
 
-    d "I’m going to buy a dildo myself and practice harder~ Uno said it is a great exercise to do and it may even make my boobs bigger~"
+    d "我要自己去买一个假鸡巴,然后努力练习~乌诺说这是一个很好的练习,它甚至可以让我的胸变大~"
 
 
 
-    player "I... don't think... ..."
+    player "我...不这么认为......"
 
 
 
-    d "Hmmm?... ... Your face looks weird. Are you not comfortable?"
+    d "Hmmm?......你的脸看起来怪怪的.你觉得不舒服吗??"
 
 
 
-    player "I... am... comfortable. It’s just... ..."
+    player "我...很...舒服.只是......"
 
 
 
@@ -265,7 +265,7 @@ label D_train_sexskill_1:
     play sound cumshot
     $ flashlight()
 
-    player "I’m cumming!!~~"
+    player "我要射了!!~~"
 
 
 
@@ -273,31 +273,31 @@ label D_train_sexskill_1:
 
 
 
-    "A blast of my hot cum burst out and all splashed into her face."
+    "我的一股灼热的精液喷了出来,全都溅到她的脸上."
 
 
 
     scene d_train_sexskill_1_22 with tstmgr
 
-    d "Awwwww... ... My face is burning... ..."
+    d "Awwwww......我的脸现在好烫......"
 
 
 
-    player "Sorry, Irene. I should have warned you before I came... ... But I was just too hyped to do that."
+    player "对不起,艾琳.我射之前应该警告你的...但我太兴奋了,一下子忘记了."
 
 
 
     scene d_train_sexskill_1_23 with tstmgr
 
-    d "See? My boobs... can do everything~"
+    d "看到了吗?我的胸...可以做任何事~"
 
 
 
-    player "You know, Irene, you don’t need to buy any dildo for practicing this. You can... practice those tricks with my dick everyday~"
+    player "艾琳,你不需要买假鸡巴来练习.你可以...每天用我的鸡巴练习这些技巧~"
 
 
 
-    player "During the break of the tutoring class, of course~"
+    player "当然是在辅导课的休息时间~"
 
 
 

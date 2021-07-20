@@ -3,9 +3,9 @@ label C_daily_4:
     scene rcsj_c6 with tstmgr
     play music happy
 
-    narrator "I came to Theodora's office to return a file."
+    narrator "我到狄奥多拉的办公室去还文件."
 
-    c "Thanks, just leave it on table and you can go."
+    c "谢谢,把它放在桌子上,你就可以走了."
 
     player "Okay."
 
@@ -13,33 +13,33 @@ label C_daily_4:
 
     scene rcsj_c7 with tstmgr
 
-    narrator "I noticed something on her table."
+    narrator "我注意到她桌子上有东西."
 
-    player "A gift box?"
+    player "一个礼物盒?"
 
     c "Uh-huh..."
 
-    player "From who? Man or woman?"
+    player "谁送的?男人还是女人?"
 
     scene rcsj_c8 with tstmgr
 
-    c "Why do you care?"
+    c "你为什么这么在意?"
 
-    player "I... ..."
+    player "我......"
 
-    player "am Just curious..."
+    player "只是好奇..."
 
     c "... ... ... ..."
 
     scene rcsj_c9 with tstmgr
 
-    c "It's from a pursuer of mine. "
+    c "是我的一个追求者寄来的."
 
-    player "And you... accepted it?"
+    player "你...收下了?"
 
     scene rcsj_c8 with tstmgr
 
-    c "Yes, why not? I receive a lot of gifts from a lot of people everyday. Don't underestimate my popularity."
+    c "是的,为什么不呢?我每天都从很多人那里收到很多礼物.不要低估我的受欢迎程度."
 
     player "Oh... okay..."
 
@@ -47,41 +47,41 @@ label C_daily_4:
 
     scene rcsj_c10 with tstmgr
 
-    c "You know what, I'm going to give you a task."
+    c "你知道吗,我要给你一个任务."
 
-    player "Sure, what is it?"
+    player "当然,什么任务?"
 
-    c "I want a gift from you."
+    c "我想要你的礼物."
 
-    player "Eh, what?"
+    player "Eh,什么?"
 
-    c "You never sent any gift to me before."
+    c "你从来没有送过礼物给我."
 
-    player "I don't think that's true. I once gave you some... handmade cookies."
+    player "我想你错了.我曾经给过你一些...手工制作的饼干."
 
     scene rcsj_c8 with tstmgr
 
-    c "You mean those overcooked cinders? I thought that was a prank."
+    c "你是说那些烧得太久的煤渣吗?我以为那是恶作剧."
 
     player "... ... ... ..."
 
-    player "Yeah, that was indeed a prank..."
+    player "Yeah,那确实是个恶作剧..."
 
     c "... ... ... ..."
 
-    player "But why do you want a gift from me anyway?"
+    player "但你为什么要我送你礼物呢?"
 
     scene rcsj_c9 with tstmgr
 
-    c "Isn't that a normal thing to ask my fiance for a gift?"
+    c "问我未婚夫要礼物不是很正常吗?"
 
     player "... ... ... ..."
 
-    player "Fine... You will have your gift."
+    player "好...你会得到一个的."
 
     scene rcsj_c10 with tstmgr
 
-    c "Don't keep me waiting too long. "
+    c "别让我等太久."
 
     scene void with tstmgr
 

@@ -3,73 +3,73 @@ label E_daily_5:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Elisa’s perspective*"
+    "*下面的情节是伊莉莎的视角*"
 
 
 
     scene e_daily5_1 with tstmgr
 
-    f "Hi ma’m, are you here to exercise?"
+    f "嗨,妈妈,你是来锻炼的吗?"
 
 
 
-    e "Eh... yeah. What’s the matter?"
+    e "Eh...yeah.怎么回事儿?"
 
 
 
     scene e_daily5_2 with tstmgr
 
-    f "Great! Everybody who works out in this park is my friend! I’m Rachel, what’s your name?"
+    f "太棒了!在这个公园锻炼的每个人都是我的朋友!我是瑞秋,你叫什么名字?"
 
 
 
-    e "(Wow, such an energetic young girl she is.)"
+    e "(Wow,她真是个精力充沛的年轻女孩.)"
 
 
 
     scene e_daily5_3 with tstmgr
 
-    e "You can call me Elisa."
+    e "你可以叫我伊莉莎."
 
 
 
     scene e_daily5_4 with tstmgr
 
-    f "Okay, Elisa. Do you want to run with me?"
+    f "Okay,伊莉莎.你想和我一起跑步吗?"
 
 
 
-    e "It’s my pleasure, Rachel..."
+    e "这是我的荣幸,瑞秋..."
 
 
 
     scene void with tstmgr
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
     scene e_daily5_5 with tstmgr
 
-    e "Oh... oh my God... ... this is too hard. I can't even keep running for 5 minutes..."
+    e "Oh...ohmyGod......这太难了.我5分钟就跑不动了..."
 
 
 
-    e "I need a break... give me a break..."
+    e "我需要休息...饶了我吧..."
 
 
 
-    f "That doesn't sound good, Elisa. Do you have any lung problems?"
+    f "听起来不妙,伊莉莎.你有肺病吗?"
 
 
 
-    e "No... I am just... too tired... ..."
+    e "不...我只是...太累了......"
 
 
 
     scene e_daily5_6 with tstmgr
 
-    e "My breasts are too heavy."
+    e "我的胸太重了."
 
 
 
@@ -79,39 +79,39 @@ label E_daily_5:
 
     scene e_daily5_7 with tstmgr
 
-    e "Emmm? What are you doing?"
+    e "Emmm?你在干什么?"
 
 
 
-    f "Wow, they are indeed... super heavy... ..."
+    f "Wow,它们确实...超级重......"
 
 
 
     scene e_daily5_8 with tstmgr
 
-    f "But don’t find yourself any excuses. Come on, Elisa! You have to push yourself to the limit, otherwise you won’t be able to reduce the weight of your breasts!"
+    f "但是不要给自己找任何借口.加油,伊莉莎!你必须把自己逼到极限,否则你将无法减轻胸部的重量!"
 
 
 
     scene e_daily5_9 with tstmgr
 
-    f "Let's keep running! Go Go GO!"
+    f "让我们继续!GoGoGO!"
 
 
 
     scene e_daily5_10 with tstmgr
 
-    e "Reducing... the weight of breasts... by running? I never heard of such a theory before... ..."
+    e "通过跑步...减轻乳房的...重量吗?我以前从未听说过这样的理论......"
 
 
 
-    e "This girl... is really strange..."
+    e "这个女孩...真奇怪..."
 
 
 
     scene e_daily5_11 with tstmgr
 
-    e "Wait... wait for me, Rachel!"
+    e "等...等等我,瑞秋!"
 
 
 
@@ -121,7 +121,7 @@ label E_daily_5:
 
 
 
-    "Elisa and Rachel have become friends..."
+    "伊莉莎和瑞秋成了好朋友..."
 
 
 

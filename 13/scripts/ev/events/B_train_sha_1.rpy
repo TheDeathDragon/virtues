@@ -3,87 +3,87 @@ label B_train_sha_1:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, when I found Senning in her room..."
+    "几天后,我发现森柠在她的房间里..."
 
 
 
     scene b_train_sha_1_1 with dissolve
 
-    b "[P]! A professor just agreed to write a recommendation letter for me if I apply for a master degree."
+    b "[P]!一位教授刚刚同意为我写一封推荐信,如果我申请硕士学位的话."
 
 
 
-    player "Wow, cool, we should celebrate it, right?"
+    player "Wow,cool,我们应该庆祝一下,对吗?"
 
 
 
-    b "It is indeed something that is worth a celebration. Let’s go to a movie tonight~"
+    b "这确实是值得庆祝的事情.我们今晚去看电影吧~"
 
 
 
-    player "A movie? Nah, that’s boring."
+    player "电影?Nah,有点无聊."
 
 
 
     scene b_train_sha_1_2 with tstmgr
 
-    b "Oh, okay... so what’s on your mind?"
+    b "Oh,okay...所以你想干嘛"
 
 
 
-    player "I suggest we go to a nightclub and have some fun."
+    player "我建议我们去夜店玩一玩."
 
 
 
     scene b_train_sha_1_3 with tstmgr
 
-    b "What? Nightclub? No, no, no, I will never go to a nightclub."
+    b "什么?夜店?No,no,no,我不可能去夜店的."
 
 
 
-    player "Why do you hate it so much?"
+    player "你为什么这么讨厌它?"
 
 
 
-    b "Because... only bad students go to nightclubs... ..."
+    b "因为...只有坏学生才会去夜店......"
 
 
 
     scene b_train_sha_1_4 with tstmgr
 
-    player "That was... ... a classic stereotype, and no, it’s not true. Look, I am a nightclub guy myself, am I a bad student?"
+    player "这真是...传统思想,不,不是这样的.听着,我自己就是个常去夜店的人,但我是个坏学生吗?"
 
 
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    player "Come on, you should at least give it a try. It is just a place for dancing."
+    player "来吧,你至少应该试一试.那只是一个跳舞的地方."
 
 
 
-    player "You never danced before, am I right?"
+    player "你以前没跳过舞,对吗?"
 
 
 
     scene b_train_sha_1_5 with tstmgr
 
-    b "No, I learned ballet for 5 years when I was a kid."
+    b "No,我小时候学过5年芭蕾舞."
 
 
 
-    player "Oh, eh... ... But you never danced for fun, right?"
+    player "Oh,eh......但你从来没有为了好玩而跳舞,对吧?"
 
 
 
     scene b_train_sha_1_6 with tstmgr
 
-    b "Dancing... for fun?"
+    b "跳舞...为了好玩吗?"
 
 
 
-    player "Yeah, like dancing in a place where no one would judge your dancing skill and you can release all your stress along the way."
+    player "Yeah,就像在一个没有人会评判你的舞蹈技巧的地方跳舞,你可以在这个过程中释放所有的压力."
 
 
 
@@ -93,21 +93,21 @@ label B_train_sha_1:
 
 
 
-    b "That sounds... actually not bad... ..."
+    b "这听起来...还行......"
 
 
 
-    player "Right? And I will be with you the entire time. There is nothing to be afraid of."
+    player "对吧?我会一直陪着你.没什么好害怕的."
 
 
 
     scene b_train_sha_1_8 with tstmgr
 
-    b "You promised that you will stay with me all the time?"
+    b "你答应我会一直陪着我吗?"
 
 
 
-    player "Yeah, I promise."
+    player "Yeah,我保证."
 
 
 
@@ -117,11 +117,11 @@ label B_train_sha_1:
 
     scene b_train_sha_1_9 with tstmgr
 
-    b "Okay... then... ... I can go with you tonight... but only for one night."
+    b "Okay...then......我今晚可以和你一起去...但只有今晚."
 
 
 
-    player "Nice! It will be so fun!"
+    player "Nice!会很有趣的!"
 
 
 
@@ -131,37 +131,37 @@ label B_train_sha_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene b_train_sha_1_10 with dissolve
 
-    b "Alright, I’m ready. Let’s go."
+    b "Alright,我准备好了.我们走吧."
 
 
 
-    player "Emm? Are you kidding? You can’t dress like this in a club."
+    player "Emm?你在开玩笑吧?你不能在夜店穿成这样."
 
 
 
     scene b_train_sha_1_11 with tstmgr
 
-    b "What’s wrong with my dress?"
+    b "有什么问题吗?"
 
 
 
-    player "It just doesn’t suit that place. It’s not like we are going to a high-class restaurant."
+    player "它就是不适合那个地方.我们又不是要去高级餐厅."
 
 
 
     scene b_train_sha_1_12 with tstmgr
 
-    b "Okay... so what I should wear?"
+    b "Okay...那我该穿什么呢?"
 
 
 
-    player "Don't worry, I have planned this for a long time. Just leave it to me~"
+    player "别担心,我已经计划很久了.交给我吧~"
 
 
 
@@ -171,11 +171,11 @@ label B_train_sha_1:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
-    player "Alright, Senning, you can open your eyes now~"
+    player "Alright,森柠,你现在可以睁开眼睛了~"
 
 
 
@@ -201,33 +201,33 @@ label B_train_sha_1:
 
     scene b_train_sha_1_16 with tstmgr
 
-    b "This is... me?"
+    b "这是...我?"
 
 
 
-    b "I can’t believe it... ..."
+    b "我简直不敢相信......"
 
 
 
-    b "How long have you bought this dress for me?"
+    b "你给我买这件衣服有多久了?"
 
 
 
-    player "Ha, longer than you imagined. Do you like it? You look absolutely marvelous right now."
+    player "Ha,比你想象的要长.你喜欢吗?你现在看起来棒极了."
 
 
 
-    b "I... like it because it’s indeed beautiful, but... it’s really not my style..."
+    b "我...喜欢它是因为它确实很美,但是...这真的不是我的风格..."
 
 
 
     scene b_train_sha_1_17 with tstmgr
 
-    b "And it’s too... revealing, I guess."
+    b "而且它太...暴露了,我想."
 
 
 
-    player "It's not wrong to show your attractiveness to the public, Sen. You will stun everyone with this new look~"
+    player "森,向别人展示你的魅力并没有错.你的新面貌会让所有人震惊的~"
 
 
 
@@ -237,17 +237,17 @@ label B_train_sha_1:
 
 
 
-    b "Maybe you are right..."
+    b "也许你是对的..."
 
 
 
     scene b_train_sha_1_19 with tstmgr
 
-    b "Should we go now?"
+    b "我们现在该走了吗?"
 
 
 
-    player "Sure, let’s go! It will be a wonderful night~"
+    player "当然,我们走吧!这将是一个美妙的夜晚~"
 
 
 
@@ -257,35 +257,35 @@ label B_train_sha_1:
 
 
 
-    "Sometime later, in a nightclub..."
+    "一段时间后,在一家夜店..."
 
 
 
     scene b_train_sha_1_20 with tstmgr
 
-    b "This place... is thrilling. Why is there so many people?"
+    b "这个地方...好喧闹.为什么会有这么多人?"
 
 
 
-    b "And the light is so dark and keeps flashing, I can’t see anyone’s face."
+    b "灯光好暗,不停的闪烁,我看不清任何人的脸."
 
 
 
-    player "I’ll hold your hand all the time, don’t worry, Sen."
+    player "我会一直牵着你的手,别担心,森."
 
 
 
     scene b_train_sha_1_21 with tstmgr
 
-    b "Okay... ..."
+    b "嗯......"
 
 
 
-    b "So... what should we do now?"
+    b "所以...我们现在该怎么办?"
 
 
 
-    player "Let’s dance with the music like everyone else does!"
+    player "让我们像其他人一样随着音乐跳舞吧!"
 
 
 
@@ -297,13 +297,13 @@ label B_train_sha_1:
 
     scene b_train_sha_1_22 with dissolve
 
-    "Although Senning was very unaccustomed to dance in a place like this, I could see that she was trying her best. She kept her eyes closed nervously and jumped up and down like a frightened rabbit."
+    "虽然森柠很不习惯在这样的地方跳舞,但我看得出她在尽力尝试.她一直紧张地闭着眼睛,像一只受惊的兔子一样跳上跳下."
 
 
 
     scene b_train_sha_1_23 with tstmgr
 
-    "That dance looked very funny... and cute."
+    "那支舞看起来很滑稽...和可爱."
 
 
 
@@ -313,7 +313,7 @@ label B_train_sha_1:
 
 
 
-    player "You don’t need to be so nervous. Just relax, okay?~"
+    player "你不必这么紧张.放轻松,okay?~"
 
 
 
@@ -325,7 +325,7 @@ label B_train_sha_1:
 
     scene b_train_sha_1_26 with tstmgr
 
-    "Senning then calmed down and leaned her head in my arms. We moved softly like we were at a formal dance party."
+    "森柠平静下来,把头靠在我的怀里.我们动作轻柔,就像在一个正式的舞会上一样."
 
 
 
@@ -335,27 +335,27 @@ label B_train_sha_1:
 
 
 
-    "Sometime later, we rested on a couch after getting a little tired of dancing."
+    "过了一段时间,跳舞有点累了,我们就在沙发上休息."
 
 
 
     scene b_train_sha_1_27 with tstmgr
 
-    b "That was... quite fun, at least funner than I thought it would be."
+    b "这...很有趣,至少比我想象的有趣."
 
 
 
-    player "We should come here more often, right?"
+    player "我们应该经常来这里,对吗?"
 
 
 
     scene b_train_sha_1_28 with tstmgr
 
-    b "Hmmmmm... ... that still needs further discussion."
+    b "Hmmmmm......这还需要进一步讨论."
 
 
 
-    player "Fine... ..."
+    player "好吧......"
 
 
 
@@ -367,59 +367,59 @@ label B_train_sha_1:
 
     scene b_train_sha_1_30 with tstmgr
 
-    player "Hey, Sen. I think I just had too many juices. I have to go to the restroom now."
+    player "Hey,森.我想我果汁喝多了.我现在得去躺洗手间."
 
 
 
-    player "Can you stay here alone for just a moment? I’ll be back in less than a minute."
+    player "你能单独在这里呆一会儿吗?我不到一分钟就回来."
 
 
 
-    b "What? No no no no, you said you won’t leave me here alone!"
+    b "什么?Nononono,你说过你不会把我一个人留在这里的!"
 
 
 
-    player "But... I have to pee, and this is not a dangerous place. Everything will be fine..."
+    player "但是...我要尿尿,这里又不是危险的地方.没事的..."
 
 
 
     scene b_train_sha_1_31 with tstmgr
 
-    b "But... but... you can’t just leave me here. I’m scared... ... please... ..."
+    b "但是...但是...你不能就这样把我丢在这里.我很害怕......拜托......"
 
 
 
-    "Shit, she is right, I promised her that I will stay by her side the entire time and I can’t break my words just because the need of peeing. That will be ridiculous."
+    "Shit,她是对的,我答应她我会一直陪在她身边,我不能因为想尿尿就失信.那就太荒谬了."
 
 
 
     scene b_train_sha_1_32 with tstmgr
 
-    player "Alright, Sen, let’s go together."
+    player "Alright,森,我们一起去吧."
 
 
 
-    b "Where... are we going?"
+    b "一起...去哪?"
 
 
 
-    player "The restroom, of course."
+    player "当然是洗手间了."
 
 
 
-    b "Wait, what? But... ..."
+    b "等等,什么?但......"
 
 
 
-    player "Don’t worry, there are women in the men’s restroom all the time, no one will care about it."
+    player "别担心,男厕有女的很正常,没人会在意的."
 
 
 
-    b "What? Why would women be in the men’s restroom?"
+    b "什么?为什么女人要去男厕?"
 
 
 
-    player "Ah... it’s hard to explain, come on, my bladder is about to explode."
+    player "Ah...这很难解释,拜托,我的膀胱快要爆炸了."
 
 
 
@@ -429,37 +429,37 @@ label B_train_sha_1:
 
     scene void with tstmgr
 
-    "A few moments later, we got inside the men’s restroom. There were several men smoking at the basins and they saw us coming in."
+    "过了一会儿,我们进了男厕.有几个人在洗手盆旁抽烟,他们看见我们进来."
 
 
 
     scene b_train_sha_1_33 with dissolve
 
-    "Man A" "Wow, lucky for you, dude."
+    "男人A""Wow,你真走运,伙计."
 
 
 
-    "Man B" "Can’t even wait till you get home?"
+    "男人B""都忍不住回家就来了吗?"
 
 
 
     scene b_train_sha_1_34 with tstmgr
 
-    player "Eh... yeah, we are kind of in a hurry~"
+    player "Eh...yeah,我们有点赶时间~"
 
 
 
-    "Man A" "Have a good round then..."
+    "男人A""那就好好玩一轮吧..."
 
 
 
     scene b_train_sha_1_35 with tstmgr
 
-    b "What are they talking about?"
+    b "他们在说什么?"
 
 
 
-    player "Eh... don’t worry about them. Let’s get inside."
+    player "Eh...别管他们.我们进去吧."
 
 
 
@@ -469,7 +469,7 @@ label B_train_sha_1:
 
 
 
-    "Man A" "What a lucky bastard. When will I ever get a chance to fuck a gorgeous like that in a restroom cell?"
+    "男人A""真是个幸运的混蛋.我什么时候才能有机会在厕所里跟这么漂亮的女的做爱?"
 
 
 
@@ -483,11 +483,11 @@ label B_train_sha_1:
 
 
 
-    b "You said that women are in the men’s restroom all the time here..."
+    b "你说在这里女人在男厕很正常..."
 
 
 
-    b "Are they here for... sex?"
+    b "他们来是为了...做爱吗?"
 
 
 
@@ -495,15 +495,15 @@ label B_train_sha_1:
 
 
 
-    b "(Swallowing hard) So... those men in the restroom who just talked with you, they thought we are here for... sex, too?"
+    b "(使劲吞咽)所以...刚才在洗手间里跟你说话的那些人,他们以为我们是来...做爱的吗?"
 
 
 
-    player "Eh, yeah, I guess so."
+    player "Eh,yeah,我想是吧."
 
 
 
-    player "Ha, have you noticed their jealous faces? You stunned them so good back there."
+    player "Ha,你注意到他们嫉妒的表情了吗?你把他们惊呆了."
 
 
 
@@ -513,65 +513,65 @@ label B_train_sha_1:
 
 
 
-    player "Alright, I’m done, let’s get out of here."
+    player "Alright,我完事了,我们走吧."
 
 
 
     scene b_train_sha_1_38 with tstmgr
 
-    b "Wait, wait, we can’t just go. It’s... it’s too soon. Those men... may mock you."
+    b "等等,等等,我们不能就这么走了...时间还早.那些人...可能会嘲笑你的."
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
     scene b_train_sha_1_37 with tstmgr
 
-    b "They may... think that we finished so fast."
+    b "他们可能...没想到我们做得这么快."
 
 
 
-    player "... ... ... ... Oh, I see, yeah... ..."
+    player "............Oh,我明白了,yeah......"
 
 
 
-    b "I think... we should stay here for at least 5 minutes before we leave."
+    b "我认为...在我们离开之前,我们至少要在这里呆5分钟."
 
 
 
-    "Damn, she is so thoughtful."
+    "Damn,她真是太体贴了."
 
 
 
     scene b_train_sha_1_39 with tstmgr
 
-    "I can’t help holding her in my arms and kissing her forehead."
+    "我情不自禁地把她抱在怀里,吻了吻她的额头."
 
 
 
-    player "What do you say we have sex for real this time?"
+    player "我们这次真的做爱怎么样?"
 
 
 
     scene b_train_sha_1_40 with tstmgr
 
-    b "(Shaking head) Hmmmmmmmmm... ... ... ..."
+    b "(摇头)Hmmmmmmmmm............"
 
 
 
-    "Oh, okay, she doesn’t like the idea."
+    "Oh,okay,她不喜欢这个主意."
 
 
 
     scene b_train_sha_1_41 with tstmgr
 
-    b "But... maybe I can do something else for you~"
+    b "但是...也许我能为你做点别的~"
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
@@ -583,11 +583,11 @@ label B_train_sha_1:
 
     scene b_train_sha_1_42 with tstmgr
 
-    "She kneeled down and took out my penis like a professional. Damn, when did she get so good at this?"
+    "她跪下来,像专业人士一样把我的鸡巴掏了出来.妈的,她什么时候变得这么擅长这个了?"
 
 
 
-    b "I have watched hundreds of videos these days about how to please... a lover. Maybe... now it’s the time to see if they were telling the truth."
+    b "我已经看了上百个关于如何取悦...爱人的视频了.也许...现在是时候看看他们讲的是不是真的了."
 
 
 
@@ -601,39 +601,39 @@ label B_train_sha_1:
 
 
 
-    b "How do you feel?~"
+    b "你感觉如何?~"
 
 
 
-    player "Ohhhhhh... ... it feels... amazing... ..."
+    player "Ohhhhhh......感觉...太爽了......"
 
 
 
-    player "But... you know, Sen, you don’t have to do this. You don’t have to... force yourself to do something you don’t like just to please me."
+    player "但是...你知道,森,你没必要这么做.你不必...强迫自己去做一些你不喜欢的事情来取悦我."
 
 
 
-    b "Who told you I don’t like doing this?"
+    b "谁告诉你我不喜欢做这个的?"
 
 
 
-    b "This big dick... has such a strong scent of yours. I really love to smell it... ..."
+    b "这个大鸡鸡...有你身上很强烈的味道.我真的很喜欢闻它......"
 
 
 
-    b "And lick it... ..."
+    b "和舔它......"
 
 
 
-    b "Your scent... can drive me crazy... ..."
+    b "你的气味...能让我疯狂......"
 
 
 
-    "This girl has a strong fetish of scent. That was quite... unusual."
+    "这个女孩对气味有强烈的迷恋.这真是相当...不寻常."
 
 
 
-    "But... I guess it’s a good thing, right? My scent is like the natural philtre to her. She would become so shameless when she immersed in my scent. I don’t need to do anything else to turn her on."
+    "但是...我想这是件好事,对吧?我的气味对她来说就像天然的春药.当她沉浸在我的气息中时,她会变得很放荡.我不需要做任何事就能让她兴奋起来."
 
 
 
@@ -641,7 +641,7 @@ label B_train_sha_1:
 
 
 
-    player "Ahh... Sen, I’m about to cum!"
+    player "Ahh...森,我要射了!"
 
 
 
@@ -651,7 +651,7 @@ label B_train_sha_1:
 
     scene b_train_sha_1_45 with tstmgr
 
-    "She suddenly put my dick in her mouth, and... ..."
+    "她突然把我的鸡巴放进她嘴里,然后......"
 
 
 
@@ -663,33 +663,33 @@ label B_train_sha_1:
 
 
 
-    b "(Swallowing) Aumm~~~ aumm~~~ aumm~~~"
+    b "(吞下)Aumm~~~aumm~~~aumm~~~"
 
 
 
     scene b_train_sha_1_46 with tstmgr
 
-    "She drank up my cum without hesitation. It’s like she was drinking a fine soup or something..."
+    "她毫不犹豫地喝光了我的精液.就像她好像喝了一碗好汤似的..."
 
 
 
-    player "Sen... ... ... ..."
+    player "森............"
 
 
 
     scene b_train_sha_1_47 with tstmgr
 
-    b "Thanks for hosting~~~"
+    b "多谢款待~~~"
 
 
 
-    "This horny girl... man, she acted like a total different person when she smelled my scent."
+    "这个好色的女孩...当她闻到我的气味时,表现得完全不一样了."
 
 
 
     scene void with tstmgr
 
-    "We then came out of the cell and left the room under the jealous gaze of all the other men in this room."
+    "然后我们走出洗手间,在房间里所有其他人嫉妒的目光下离开了."
 
 
 

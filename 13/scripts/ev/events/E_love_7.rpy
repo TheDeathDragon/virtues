@@ -3,7 +3,7 @@ label E_love_7:
     scene void with tstmgr
     play music sorrow
 
-    "I decided to stay in Aunt Elisa’s mansion for tonight..."
+    "我决定今晚住在伊莉莎阿姨家..."
 
 
 
@@ -13,7 +13,7 @@ label E_love_7:
 
 
 
-    "It’s the third time this week that I come and spend a night here. Am I expecting something?"
+    "这是我这周第三次来这里过夜了.我在期待什么吗??"
 
 
 
@@ -21,11 +21,11 @@ label E_love_7:
 
 
 
-    "Yeah, of course I’m expecting something. I’m expecting that she could show up again and fuck me just like the last time."
+    "Yeah,我当然期待.我希望她能再次出现,像上次那样上我."
 
 
 
-    "That video... ..."
+    "那个视频......"
 
 
 
@@ -37,21 +37,21 @@ label E_love_7:
 
     scene e_love_7_1 with flashback
 
-    "Man, that was probably one of the best porn videos I ever watched in my life. It’s good to know that I was the man of that video, but it’s sad that I couldn’t remember anything of it."
+    "老兄,那可能是我这辈子看过的最好的色情视频之一了.很高兴知道我是那个视频的主角,但遗憾的是我什么都不记得了."
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎......"
 
 
 
-    "She didn’t come to my room tonight, either."
+    "她今晚也没来我的房间."
 
 
 
     scene void with tstmgr
 
-    "I tossed about for hours and still couldn’t sleep, so I decide to get up and get something to drink downstairs."
+    "我辗转反侧了好几个小时,还是睡不着,所以我决定起床去楼下弄点喝的."
 
 
 
@@ -59,7 +59,7 @@ label E_love_7:
 
 
 
-    "It seems like someone is in the swimming pool. Could that be... ..."
+    "好像有人在游泳池里.这可能是......"
 
 
 
@@ -73,21 +73,21 @@ label E_love_7:
 
 
 
-    "It is really her!"
+    "真的是她!"
 
 
 
-    player "Ah, hi, Aunt Elisa..."
+    player "Ah,hi,伊莉莎阿姨..."
 
 
 
-    player "I heard some noises over here, so I just... came and check around."
+    player "我听到这边有声音,所以我...来看看."
 
 
 
     scene e_love_7_3 with tstmgr
 
-    e "That’s nice of you~"
+    e "你真好~"
 
 
 
@@ -95,27 +95,27 @@ label E_love_7:
 
 
 
-    player "What are you doing here, Aunt Elisa?"
+    player "你在这里做什么,伊莉莎阿姨?"
 
 
 
     scene e_love_7_4 with tstmgr
 
-    e "I couldn’t sleep... ..."
+    e "我睡不着......"
 
 
 
-    "I could see the sorrow in her eyes. What happened that night is definitely haunting her."
+    "我能看到她眼中的悲伤.那天晚上发生的事情一定让她很困扰."
 
 
 
     scene e_love_7_5 with tstmgr
 
-    e "What about you?"
+    e "你呢?"
 
 
 
-    player "I couldn’t sleep, either...."
+    player "我也睡不着...."
 
 
 
@@ -127,87 +127,87 @@ label E_love_7:
 
     scene e_love_7_5 with tstmgr
 
-    e "Do you want to... sit with me for a while?"
+    e "你想...陪我坐一会吗?"
 
 
 
-    player "I... yeah, sure."
+    player "我...yeah,当然."
 
 
 
     scene e_love_7_6 with tstmgr
 
-    "I then took a seat next to Aunt Elisa."
+    "然后我在伊莉莎阿姨旁边坐下."
 
 
 
     scene e_love_7_7 with tstmgr
 
-    e "I still remember the time when you were only 8 years old and almost drowned in this pool. Time flies so fast... ..."
+    e "我还记得你8岁的时候,在这个池子里差点被淹死.时间过得真快......"
 
 
 
     scene e_love_7_8 with tstmgr
 
-    player "Oh, I remember that, too. I was trying to help Theo find her toy in the bottom of the pool, but... I overestimated my diving skill."
+    player "Oh,我也记得.我想帮狄奥在池底找到她的玩具,但是...我高估了自己的潜水技术."
 
 
 
-    player "That was awkward... ..."
+    player "太尴尬了......"
 
 
 
-    e "Theo started to learn swimming after that day, and it soon became her favorite sport. I once asked her ‘why swimming?’, and she said..."
+    e "从那天起,狄奥开始学习游泳,游泳很快成为她最喜欢的运动.我曾经问她“为什么游泳?”她说..."
 
 
 
     scene e_love_7_9 with tstmgr
 
-    e "‘So I can save his ass the next time when he tries to kill himself in the water again.’"
+    e "‘这样下次他再想在水里自杀的时候,我就可以救他了.’"
 
 
 
     scene e_love_7_10 with tstmgr
 
-    player "The reason Theo likes swimming is because of... me?"
+    player "狄奥喜欢游泳的原因是因为...我?"
 
 
 
-    e "Yeah~ She is adorable, isn’t she?"
+    e "Yeah~她很可爱,不是吗?"
 
 
 
     scene e_love_7_11 with tstmgr
 
-    e "You two will be a great couple, I’m sure you will..."
+    e "你们俩会是很般配的一对,我相信你们会..."
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
     scene e_love_7_12 with tstmgr
 
-    e "And, you know, I was thinking recently, that... ..."
+    e "你知道,我最近在想......"
 
 
 
-    e "Maybe it’s time for me to change my lifestyle."
+    e "也许是我改变生活方式的时候了."
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
     scene e_love_7_13 with tstmgr
 
-    e "I mean, like... leaving the city and moving to the countryside, having a farm or something, like a recluse."
+    e "我的意思是,像...离开城市,搬到农村,拥有一个农场或其他什么,像一个隐士."
 
 
 
-    player "Why... do you want to do that?"
+    player "你为什么...想这么做?"
 
 
 
@@ -219,43 +219,43 @@ label E_love_7:
 
     scene e_love_7_14 with tstmgr
 
-    e "I once thought that I was a woman with a strong heart, but... ... it turned out I was wrong."
+    e "我曾经以为我是一个有一颗坚强的心的女人,但是...结果证明我错了."
 
 
 
-    e "I have messed up something recently and it is driving me crazy. Sometimes I don’t even know myself anymore."
+    e "我最近把事情搞砸了,快把我逼疯了.有时我甚至不认识自己了."
 
 
 
     scene e_love_7_15 with tstmgr
 
-    e "I’m afraid that things will go worse if I can’t find peace in my heart. I think I have to go to a place where I can relax and clear my mind... alone."
+    e "我担心如果我不能找到内心的平静,事情会变得更糟.我想我必须去一个能让我放松和理清思绪的地方.独自一人."
 
 
 
-    player "Aunt Elisa... ... ... ..."
+    player "伊莉莎阿姨............"
 
 
 
-    "I know she is struggling in the guiltiness of having sex with me that night, but I have to pretend like I don’t know anything about it. Man, this is suffering..."
+    "我知道她在为那晚和我做爱而内疚,但我必须假装我什么都不知道.伙计,这太痛苦了..."
 
 
 
-    player "Do you want to talk about it? What have you messed up?"
+    player "你想谈谈吗?你搞砸了什么?"
 
 
 
     scene e_love_7_16 with tstmgr
 
-    e "Sorry, [P], but I... really can’t tell you."
+    e "对不起,[P],但我...我真的不能告诉你."
 
 
 
-    e "(I don’t want you to hate me... ...)"
+    e "(我不想让你恨我......)"
 
 
 
-    player "I see... It’s okay, you don’t need to feel sorry."
+    player "我明白了...没关系,你不需要感到抱歉."
 
 
 
@@ -263,27 +263,27 @@ label E_love_7:
 
 
 
-    e "I have already bought a Japanese-style bungalow in the suburb of the city and I’ll move there after Irene goes to college."
+    e "我已经在郊区买了一栋日式平房,等艾琳上大学后我就会搬到那里去."
 
 
 
     scene e_love_7_17 with tstmgr
 
-    player "What? But... what about your company?"
+    player "什么?但是...你的公司怎么办??"
 
 
 
     scene e_love_7_18 with tstmgr
 
-    e "It's time for Theodora to take more responsibility. I’ll gradually hand my power to her in the next few years. I’m sure she will do better than me."
+    e "狄奥多拉该承担更多的责任了.在接下来的几年里,我会逐渐把我的权力交给她.我相信她会做得比我好."
 
 
 
-    player "And... what about Irene?"
+    player "那...艾琳呢?"
 
 
 
-    e "My little girl has grown up. I might have spoiled her a little, but I know deep down inside she is an independent strong girl just like her sister. She will take care of herself in college."
+    e "我的小女儿已经长大了.我可能有点溺爱她,但我知道在内心深处她是一个独立坚强的女孩,就像她的姐姐.她能在大学里照顾好自己."
 
 
 
@@ -293,23 +293,23 @@ label E_love_7:
 
 
 
-    player "And... what about me?"
+    player "那...我呢?"
 
 
 
     scene e_love_7_20 with tstmgr
 
-    e "W... what?"
+    e "什...什么?"
 
 
 
-    "She obviously didn’t expect that I would ask such a question. She surprisingly looked at me and almost lost her calmness."
+    "她显然没想到我会问这样的问题.她吃惊地看着我,几乎失去了镇静."
 
 
 
     scene e_love_7_21 with tstmgr
 
-    player "I... I will miss you so much if you leave."
+    player "我...如果你离开了,我会非常想念你."
 
 
 
@@ -319,39 +319,39 @@ label E_love_7:
 
     scene e_love_7_22 with tstmgr
 
-    "She then moved closer to me in silence and gently leaned her head on my shoulder."
+    "然后她默默地靠近我,轻轻地把头靠在我的肩上."
 
 
 
-    e "I will miss you, too, but... ..."
+    e "我也会想你的,但是......"
 
 
 
     scene e_love_7_23 with tstmgr
 
-    e "(You are the reason that I have to leave. I have to... stay away from you before I get overwhelmed by my lust.)"
+    e "(你就是我不得不离开的原因.我必须...在我被欲望征服之前,离你远点.)"
 
 
 
-    e "I wish I could meet a man like you 20 years earlier. My life would have been so different."
+    e "我真希望20年前能遇到像你这样的人.我的人生将会完全不同."
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
-    "That was almost like a love confession."
+    "这几乎是一种爱的表白."
 
 
 
     scene e_love_7_24 with tstmgr
 
-    e "Forgive me if I said something weird... and please... just let me have your shoulder for a little while."
+    e "如果我说了些奇怪的话,请原谅我...还有请...让我借你的肩膀一会儿."
 
 
 
-    e "I really need it now... ..."
+    e "我现在真的需要它......"
 
 
 
@@ -361,25 +361,25 @@ label E_love_7:
 
 
 
-    "I never saw Aunt Elisa expressing her sorrow like this before. She is so eager to be loved. The void in her heart is tearing her apart."
+    "我以前从未见过伊莉莎阿姨这样表达她的悲伤.她是如此渴望被爱.她内心的空虚将她撕裂."
 
 
 
-    "She is a great woman who raised two daughters on her own and made them live in great wealth. But she never got a chance to pursue her own happiness."
+    "她是一个伟大的女人,独自抚养了两个女儿,让她们衣食无忧.但是她从来没有机会去追求自己的幸福."
 
 
 
-    "That’s... not fair, not fair at all."
+    "这是...不公平的,很不公平."
 
 
 
-    "I want to... change this. I want to give her a happy life that she deserves because... ..."
+    "我想...改变这种情况.我想给她一个幸福的生活,她值得的,因为......"
 
 
 
     scene e_love_7_26 with tstmgr
 
-    "I love her. Yeah, I think I have fallen in love with her. Life has made her suffer enough, now it’s time for me to step up and make up for her."
+    "我爱她.是的,我想我已经爱上她了.生活已经让她够痛苦的了,现在是我站出来帮助她的时候了."
 
 
 

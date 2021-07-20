@@ -2,33 +2,33 @@ label gysj_night:
 
     scene park_night_background with tstmgr
 
-    narrator "Why am I here again at night? What am I expecting?"
+    narrator "为什么我晚上还在这里?我在期待什么?"
 
-    narrator "The last time I was here, I heard some creepy voices. Well, I have to say that it was quite unforgettable."
+    narrator "我上次来这里的时候,听到了一些令人毛骨悚然的声音.嗯,我不得不说,这是非常难忘的."
 
-    narrator "Will I hear those voices again?"
+    narrator "我还会听到那些声音吗?"
 
-    "Woman" "(Groaning) Arf, arf, arf... Ah, master..."
+    "女人""(呻吟)Arf,arf,arf...Ah,主人..."
 
-    "Man" "Louder, bitch, louder!"
+    "男人""大声点,婊子,大声点!"
 
     player "... ... ... ..."
 
-    player "You can't be serious."
+    player "这一定是在开玩笑."
 
     label gysj_night_choices:
 
     menu:
-        "Go back home":
+        "回家":
 
-            player "I don't wanna see this."
+            player "我不想看到这个."
 
-            player "It is just way too creepy. I should probably go home."
-        "Take a peek":
+            player "太恐怖了.我该回家了."
+        "偷看":
 
 
-            narrator "(Virtue level needs to be less than 30)"
+            narrator "(美德需要小于30)"
 
-            narrator "You can expect it in the future updates."
+            narrator "你可以期待它在未来的更新."
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

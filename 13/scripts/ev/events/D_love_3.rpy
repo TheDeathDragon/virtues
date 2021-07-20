@@ -7,19 +7,19 @@ label D_love_3:
 
     player "... ... ... ... ... ..."
 
-    narrator "Irene told me to wait in her room for a few minutes while she was on her way home. But how long have I waited? 30 minutes? I don't know."
+    narrator "艾琳告诉我她在回家的路上,让我在她的房间等几分钟.但我已经等了多久?30分钟吗?我不知道."
 
-    narrator "This girl has absolutely no notion of time."
-
-    narrator "... ... ... ..."
-
-    narrator "I'm so bored..."
-
-    narrator "Maybe I should just take a nap on her bed. Don't know if she is going to like me lying on her bed or not... "
+    narrator "这个女孩完全没有时间观念."
 
     narrator "... ... ... ..."
 
-    narrator "I think she'll be fine with it. Let's do this."
+    narrator "我太无聊了..."
+
+    narrator "也许我应该在她的床上小睡一会儿.不知道她会不会介意我躺在她的床上..."
+
+    narrator "... ... ... ..."
+
+    narrator "我想她不会介意的.就这样."
 
     scene d_love3_1 with tstmgr
 
@@ -27,25 +27,25 @@ label D_love_3:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "After a while..."
+    narrator "过了一会儿..."
 
-    d "I'm home, mom!"
+    d "妈妈,我回来了!"
 
-    d "Is [P] here?"
+    d "[P]在吗?"
 
-    e "Yes, he is in your room. You should apologize to him for letting him wait for so long. "
+    e "是的,他在你的房间里.你应该向他道歉,让他等了这么久."
 
-    d "Don't worry, [P] won't blame me."
+    d "不要紧,[P]不会怪我的."
 
     narrator "... ... ... ..."
 
-    d "(Openning door) Hi, [P], I'm home..."
+    d "(打开门)Hi,[P],我回来..."
 
     scene d_love3_2 with tstmgr
 
     d "Emm?... ..."
 
-    d "(Speaking in a low voice) [P], [P]?"
+    d "(小声说)[P],[P]?"
 
     d "... ... ... ..."
 
@@ -53,7 +53,7 @@ label D_love_3:
 
     d "... ... ... ... ... ..."
 
-    d "[P], [P], are you asleep?"
+    d "[P],[P],你睡着了吗?"
 
     narrator "... ... ... ..."
 
@@ -65,43 +65,43 @@ label D_love_3:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Some time later... ..."
+    narrator "一段时间后......"
 
     scene d_love3_5 with tstmgr
 
-    player "(Why do I feel my chest is getting heavier?)"
+    player "(为什么我觉得我的胸部越来越重?)"
 
     scene d_love3_6 with tstmgr
 
     player "En? ... ... ..."
 
-    player "When did this happen?"
+    player "什么时候发生的?"
 
     scene d_love3_7 with tstmgr
 
-    narrator "I saw a little animal sleeping on my body. I can feel her chest rising and falling, and hear her soft snores."
+    narrator "我看见一只小动物趴在我身上睡觉.我能感觉到她的胸脯起伏,听到她轻柔的鼾声."
 
-    narrator "She is so cute..."
+    narrator "她真可爱..."
 
     scene d_love3_8 with tstmgr
 
-    narrator "I put my hand on her shoulder. I'm not sure why I am doing this, maybe it's just a sign of protection, I guess? I mean, she looks vulnerable when she is asleep."
+    narrator "我把手放在她的肩上.我不知道我为什么要这么做,我猜也许这只是一种保护?我是说,她睡着的时候看起来很脆弱."
 
     narrator "... ... ... ..."
 
-    narrator "Why is she doing this?... "
+    narrator "她为什么要这么做?..."
 
     scene d_love3_9 with tstmgr
 
-    narrator " Nevermind... Let's just... keep this position for a little time."
+    narrator "不管了...我们就...保持这个姿势一段时间."
 
-    narrator "I wish she is my real sister... I always want to have a real sister like her..."
+    narrator "我希望她是我的亲妹妹...我一直想有一个像她一样的亲妹妹..."
 
-    narrator "But luckily, she is not my real sister..."
+    narrator "但幸运的是,她不是我的亲妹妹..."
 
     scene d_love3_10 with tstmgr
 
-    narrator "Yeah, I'm so lucky that she is not my real sister."
+    narrator "Yeah,我很幸运,她不是我的亲妹妹."
 
     narrator "... ... ... ..."
 
@@ -109,11 +109,11 @@ label D_love_3:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Some time later..."
+    narrator "一段时间后..."
 
     scene e_droom_smile with tstmgr
 
-    e "Hi you two, how does the tutoring go?"
+    e "嗨,你们两个,进行的怎么样了?"
 
     scene d_love3_11 with tstmgr
 
@@ -123,15 +123,15 @@ label D_love_3:
 
     e "Oh... ..."
 
-    e "Well, that's... unexpected."
+    e "Well,这真是...意想不到."
 
     e "... ... ... ..."
 
     scene void with tstmgr
 
-    narrator "Aunt Elisa then left the room quietly and closed the door."
+    narrator "然后,伊莉莎阿姨悄悄地离开了房间,关上了门."
 
-    narrator "Me and Irene sleeped together till the sunset."
+    narrator "我和艾琳睡在一起直到日落."
 
     narrator "... ... ... ..."
 

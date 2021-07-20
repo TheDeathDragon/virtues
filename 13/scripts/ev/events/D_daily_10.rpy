@@ -3,13 +3,13 @@ label D_daily_10:
     scene void with tstmgr
     play music sorrow
 
-    "Theodora came back to Aunt Elisa’s house tonight."
+    "狄奥多拉今晚回到了伊莉莎阿姨的家."
 
 
 
     scene d_daily10_1 with tstmgr
 
-    d "Ah, Theo, you came home today!"
+    d "Ah,狄奥,你今天回来了!"
 
 
 
@@ -21,7 +21,7 @@ label D_daily_10:
 
     scene d_daily10_3 with tstmgr
 
-    "Irene jumped at Theodora and hugged her intimately like they are best friends."
+    "艾琳跳到狄奥多拉身上,紧紧地抱住她,就像她们是最好的朋友一样."
 
 
 
@@ -29,25 +29,25 @@ label D_daily_10:
 
 
 
-    c "Wait a minute... ... What’s wrong with you?"
+    c "等一下......你有点不对劲?"
 
 
 
-    c "You never welcomed me like this before..."
+    c "你从来没有这样欢迎过我..."
 
 
 
     scene d_daily10_4 with tstmgr
 
-    d "I just want to improve the relationship with my beloved sister~"
+    d "我只是想改善和我亲爱的姐姐的关系~"
 
 
 
-    c "Ha ha, very funny."
+    c "Haha,很好笑."
 
 
 
-    c "You must have done something bad and feared to let me find out."
+    c "你一定做了什么坏事,不敢让我知道."
 
 
 
@@ -57,13 +57,13 @@ label D_daily_10:
 
 
 
-    c "Now tell me, what are you hiding from me?"
+    c "现在告诉我,你对我隐瞒了什么?"
 
 
 
     scene d_daily10_6 with tstmgr
 
-    d "(Swallowing hard) No... nothing... ... Why would I ever hide anything from my big sister?"
+    d "(使劲吞咽)没...没什么......我为什么要对我姐姐隐瞒什么?"
 
 
 
@@ -73,11 +73,11 @@ label D_daily_10:
 
     scene d_daily10_7 with tstmgr
 
-    "Theodora turned to look at me."
+    "狄奥多拉转过头来看着我."
 
 
 
-    c "Suspicious..."
+    c "可疑..."
 
 
 
@@ -87,11 +87,11 @@ label D_daily_10:
 
     scene d_daily10_8 with tstmgr
 
-    c "Did you two fuck?"
+    c "你们俩上床了吗?"
 
 
 
-    player "What? Eh, no... ... You are being ridiculous..."
+    player "什么?Eh,没有......你怕不是在开玩笑..."
 
 
 
@@ -101,23 +101,23 @@ label D_daily_10:
 
     scene d_daily10_9 with tstmgr
 
-    c "Nevermind. Now I need to talk with mom. You two have fun."
+    c "别介意.现在我要和妈妈谈谈.你们两个玩吧."
 
 
 
     scene d_daily10_10 with tstmgr
 
-    "Theodora then left and headed to Aunt Elisa’s room."
+    "狄奥多拉随后离开了,朝伊莉莎阿姨的房间走去."
 
 
 
     scene d_daily10_11 with tstmgr
 
-    d "Wow... do you think she has noticed something?"
+    d "Wow...你觉得她注意到什么了吗?"
 
 
 
-    player "I... I don’t know... ..."
+    player "我...我不知道......"
 
 
 
@@ -127,7 +127,7 @@ label D_daily_10:
 
     scene void with tstmgr
 
-    "Meanwhile..."
+    "与此同时..."
 
 
 
@@ -137,27 +137,27 @@ label D_daily_10:
 
 
 
-    c "Something has definitely happened between those two... ..."
+    c "他们之间肯定发生了一些事情......"
 
 
 
-    c "Could it be that... ...?"
+    c "难道说......?"
 
 
 
     scene void with tstmgr
 
-    "Several months ago..."
+    "几个月前..."
 
 
 
     scene d_daily10_13 with flashback
 
-    c "Seriously, are you suffering in a malnutrition problem? How can you be so thin and so... small?"
+    c "说真的,你营养不良吗?你怎么能这么瘦...小呢?"
 
 
 
-    c "Like nothing has changed on you since you were 13."
+    c "好像你从13岁起就没变过一样."
 
 
 
@@ -167,23 +167,23 @@ label D_daily_10:
 
 
 
-    d "Stop mocking me, Cow-like monster!"
+    d "别嘲笑我了,像牛一样的怪物!"
 
 
 
     scene d_daily10_15 with tstmgr
 
-    d "I may be small, but I can be as sexy as you!"
+    d "我可能很小,但我可以像你一样性感!"
 
 
 
-    c "I doubt that though."
+    c "我对此表示怀疑."
 
 
 
     scene d_daily10_16 with tstmgr
 
-    d "Just watch! I’m going to take [P] away from you in a breeze!"
+    d "走着瞧!我将轻而易举地把[P]从你身边抢走!"
 
 
 
@@ -199,15 +199,15 @@ label D_daily_10:
 
     scene d_daily10_18 with tstmgr
 
-    c "You know you are talking about a guy who worships big breasts, right?"
+    c "你知道你说的是一个喜欢大胸的男人,对吧?"
 
 
 
-    c "How do you think you can seduce him with your miserable body?"
+    c "你想怎么用你那可怜的身体去勾引他?"
 
 
 
-    d "Ahhhhhhh!!! I hate you!!!"
+    d "Ahhhhhhh!!!我恨你!!!"
 
 
 
@@ -217,7 +217,7 @@ label D_daily_10:
 
 
 
-    c "Irene... ... ... ..."
+    c "艾琳............"
 
 
 

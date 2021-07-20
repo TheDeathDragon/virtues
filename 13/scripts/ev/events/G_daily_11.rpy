@@ -3,25 +3,25 @@ label G_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is from Uno’s perspective*"
+    "*下面的情节是从乌诺的视角展开的*"
 
 
 
-    "Later today, while Uno was working in the bookstore, there were two men observing her from a distance..."
+    "今天晚些时候,当乌诺在书店工作时,有两个男人在远处观察她..."
 
 
 
     scene g_daily11_1 with dissolve
 
-    "Man A" "Is that really her?"
+    "男人A""那真的是她吗?"
 
 
 
-    "Man B" "Yeah, she didn’t even change the haircut, look..."
+    "男人B""Yeah,她甚至都没换发型,你看..."
 
 
 
-    "The man took out his phone there was a screenshot on it."
+    "这名男子拿出了他的手机上面的一张截图."
 
 
 
@@ -33,21 +33,21 @@ label G_daily_11:
 
     scene g_daily11_1 with tstmgr
 
-    "Man A" "Yep, that is definitely her. She dresses like a nerd girl that knows nothing about sex, but deep down... damn... ..."
+    "男人A""Yep,那绝对是她.她穿得像个对性一无所知的书呆子女孩,但内心深处...damn......"
 
 
 
-    "Man A" "*Stopped Uno* Excuse me, Miss."
+    "男人A""*打断乌诺*小姐你好."
 
 
 
     scene g_daily11_2 with tstmgr
 
-    g "Hmm? Can I help you?"
+    g "Hmm?需要帮忙吗?"
 
 
 
-    "Man A" "We know who you are. You are Uno, right? That Uno, the rising amateur pornstar."
+    "男人A""我们知道你是谁.你是乌诺,对吧?那个乌诺,冉冉升起的素人色情明星."
 
 
 
@@ -59,95 +59,95 @@ label G_daily_11:
 
     scene g_daily11_4 with tstmgr
 
-    g "Are you here for autographs? I’m happy to... ..."
+    g "你是来要签名的吗?我很高兴......"
 
 
 
-    "Man A" "Don’t joke around, bitch! You’d better do what we ask if you don’t want us to expose your secret identity to the public."
+    "男人A""别开玩笑了,婊子!如果你不想让我们把你的秘密身份暴露给公众,你最好按我们说的去做."
 
 
 
     scene g_daily11_5 with tstmgr
 
-    g "Do what you ask... ... huh... ..."
+    g "照你说的做......huh......"
 
 
 
-    g "So you are... bad guys."
+    g "所以你是...坏人."
 
 
 
     scene g_daily11_6 with tstmgr
 
-    g "Unfortunately, I already have a master and I will only do what he asks, sorry~"
+    g "不幸的是,我已经有一个主人了,我只能按他说的做,抱歉~"
 
 
 
-    "Man A" "Well, you have to, because otherwise we will let everyone knows your secret side on the internet! Your life will be ruined!"
+    "男人A""Well,你必须这么做,否则我们会在网上让所有人都知道你的秘密!你的生活将被毁掉!"
 
 
 
     scene g_daily11_7 with tstmgr
 
-    g "So I will be likely to lose my job, oh no... ..."
+    g "所以我可能会失去我的工作,ohno......"
 
 
 
-    "Man A" "That’s right, now you know... ... ... ..."
+    "男人A""没错,现在你知道了............"
 
 
 
     scene g_daily11_4 with tstmgr
 
-    g "*Interrupting* Just kidding~ I don’t really care if I’m going to lose that bookstore clerk job."
+    g "*打断*开个玩笑~我真的不在乎我是否会失去这个书店职员的工作."
 
 
 
-    g "And Uno is not even my real name~ So... suit yourself~"
+    g "乌诺甚至不是我的真名~所以...随便你~"
 
 
 
-    "Man A" "Wh... ... what... ..."
+    "男人A""什......什么......"
 
 
 
-    "Man B" "*Asking in a low voice* Shit, do we have anything else that can threat her?"
+    "男人B""*低声问*Shit,我们还有什么能威胁她的吗?"
 
 
 
-    "Man A" "I... I don’t know... Oh, wait!"
+    "男人A""我...我不知道...Oh,等等!"
 
 
 
-    "Man A" "We have the picture of your uncovered face now. If we post it online, one day your parents and family will eventually find it! Is it okay for you too?"
+    "男人A""我们现在有了你那张没有遮脸的照片.如果我们把它放到网上,总有一天你的父母和家人会发现它的!这你也无所谓吗?"
 
 
 
     scene g_daily11_7 with tstmgr
 
-    "Uno suddenly stiffened at the man’s words..."
+    "听到这个人的话,乌诺突然僵住了..."
 
 
 
-    g "My... parents?"
+    g "我的...父母?"
 
 
 
-    "Man A" "Yeah, your parents! I’m sure they will be so disappointed at you when they find out what a whore you are!"
+    "男人A""Yeah,你的父母!我相信当他们发现你是个妓女的时候一定会对你很失望!"
 
 
 
-    "Man A" "But don’t worry, we won’t post it online if you do as we want. Come to room 3504, XXX hotel tonight alone and don’t let your so called master know, will you?"
+    "男人A""但别担心,如果你照我们说的做,我们不会把它放到网上.今晚你一个人来XXX酒店3504房间,别让你所谓的主人知道,好吗?"
 
 
 
     scene g_daily11_8 with tstmgr
 
-    g "I... ... ... ..."
+    g "我............"
 
 
 
-    "Man B" "*Speaking in a low voice* Ah-ha! She is hesitating!"
+    "男人B""*发出像低语的声音*Ah-ha!她很犹豫!"
 
 
 
@@ -157,49 +157,49 @@ label G_daily_11:
 
     scene g_daily11_9 with tstmgr
 
-    g "I’m not afraid of you."
+    g "我不怕你."
 
 
 
     scene g_daily11_10 with tstmgr
 
-    "Uno took out one little black thing from her pocket."
+    "乌诺从她的口袋里拿出一个黑色的小东西."
 
 
 
-    "Man B" "What... what is that?"
+    "男人B""什么...这是什么?"
 
 
 
     scene g_daily11_11 with tstmgr
 
-    g "*Pressing the play button* A recording pen, sirs."
+    g "*按下播放键*录音笔,先生们."
 
 
 
-    "Recording pen" "*But don’t worry, we won’t post it online if you do as we want. Come to room 1804, XXX hotel tonight alone and don’t tell others, will you?*"
+    "录音笔""*但别担心,如果你照我们说的做,我们不会把它放到网上.今晚你一个人来XXX饭店3504房间,不要告诉别人,好吗?*"
 
 
 
-    "Man A" "Shit... ..."
+    "男人A""Shit... ..."
 
 
 
     scene g_daily11_12 with tstmgr
 
-    g "Now I got the evidence of your threat and your hotel room number. I believe the police can easily find your real name by asking the hotel."
+    g "现在我有了你威胁的证据还有你的酒店房间号.我相信警察通过询问酒店就能很容易地找到你的真实姓名."
 
 
 
-    g "I’ll call the police if you keep harassing me or expose my personal information online, so, do we have a deal now?"
+    g "如果你继续骚扰我或者在网上泄露我的个人信息,我就报警,所以,我们现在达成协议了?"
 
 
 
-    "Man A" "... ... ... ..."
+    "男人A""... ... ... ..."
 
 
 
-    "The two men walked away in a huff."
+    "那两个人怒气冲冲地走开了."
 
 
 
@@ -211,13 +211,13 @@ label G_daily_11:
 
     scene void with tstmgr
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene g_daily11_14 with dissolve
 
-    player "Hey, Uno~ I’m here to take you home~"
+    player "Hey,乌诺~我是来带你回家的~"
 
 
 
@@ -229,25 +229,25 @@ label G_daily_11:
 
 
 
-    player "Oh, wow, such a warm welcome~"
+    player "Oh,wow,如此热烈的欢迎~"
 
 
 
-    player "Babe, did anything happen?"
+    player "宝贝,发生什么事了吗?"
 
 
 
-    g "Nothing... ... ... ..."
+    g "没什么............"
 
 
 
-    g "Let’s go home now..."
+    g "我们现在回家吧..."
 
 
 
     scene g_daily11_16 with tstmgr
 
-    player "Wanna go have some crispy chicken together?~"
+    player "我们一起去吃脆皮鸡吧?~"
 
 
 
@@ -255,7 +255,7 @@ label G_daily_11:
 
 
 
-    g "Love you~"
+    g "爱你~"
 
 
 

@@ -7,91 +7,91 @@ label B_daily_18:
 
 
 
-    "In the afternoon, I went to Lady Minna's hotel room for the test sha mentioned yesterday..."
+    "下午,我去了明娜夫人的酒店房间做她昨天提到的测试..."
 
 
 
-    player "Hi, Lady Minna. I’m here for the next test."
+    player "Hi,明娜夫人.我是来参加下一个测试的."
 
 
 
     scene b_daily18_1 with dissolve
 
-    "Lady Minna" "Ah, you made it on time. Great, have a seat with me."
+    "明娜夫人""Ah,你准时到了.太好了,过来坐吧."
 
 
 
     scene b_daily18_4 with tstmgr
 
-    player "So... ... what is this test exactly about?"
+    player "所以...这个测试到底是关于什么的?"
 
 
 
-    "Lady Minna" "Don’t worry, just some simple questions."
+    "明娜夫人""别担心,只是一些简单的问题."
 
 
 
     scene b_daily18_5 with tstmgr
 
-    "Lady Minna" "Ah, wait, let me get the laptop first."
+    "明娜夫人""Ah,等等,我先去拿笔记本电脑."
 
 
 
     scene b_daily18_2 with tstmgr
 
-    "Lady Minna" "Just a few seconds~"
+    "明娜夫人""就几秒钟~"
 
 
 
-    player "*Swallowing hard* ... ... ... ..."
+    player "*使劲吞咽*............"
 
 
 
     scene b_daily18_3 with tstmgr
 
-    player "(Is she... revealing that to me on purpose?)"
+    player "(她是...故意展示给我看的?)"
 
 
 
-    player "(Maybe this is also part of the test. I should stop looking at that ass... ...)"
+    player "(也许这也是测试的一部分.我不该再看她的屁股了......)"
 
 
 
     scene b_daily18_6 with tstmgr
 
-    "Lady Minna" "Ah~ Sorry to keep you waiting~"
+    "明娜夫人""Ah~很抱歉让你久等了~"
 
 
 
-    player "Eh... Why do we need a laptop?"
+    player "Eh...为什么我们需要一台笔记本电脑?"
 
 
 
     scene b_daily18_7 with tstmgr
 
-    "Lady Minna" "Oh, I was a journalist before I got married so I’d like to... you know, take some notes. Is it okay for you?"
+    "明娜夫人""Oh,我结婚前是个记者,所以我想...你知道的,做些笔记.可以吗?"
 
 
 
-    player "Oh, of course."
+    player "Oh,当然."
 
 
 
     scene b_daily18_8 with tstmgr
 
-    "Lady Minna" "Great, let’s begin~ First question, when was the last time you did a health check?"
+    "明娜夫人""很好,让我们开始~第一个问题,你上次做健康检查是什么时候?"
 
 
 
     scene b_daily18_9 with tstmgr
 
-    player "Health check? I did it once before I came to college."
+    player "健康检查吗?我上大学前做过一次."
 
 
 
     scene b_daily18_10 with tstmgr
 
-    "Lady Minna" "So that was three years ago..."
+    "明娜夫人""那是三年前的事了..."
 
 
 
@@ -99,7 +99,7 @@ label B_daily_18:
 
 
 
-    "Lady Minna" "Do you have a family history of any disease?"
+    "明娜夫人""你有什么家族病史吗?"
 
 
 
@@ -109,7 +109,7 @@ label B_daily_18:
 
     scene b_daily18_11 with tstmgr
 
-    "Lady Minna" "Not even baldness?"
+    "明娜夫人""秃顶也没有?"
 
 
 
@@ -119,111 +119,111 @@ label B_daily_18:
 
     scene b_daily18_10 with tstmgr
 
-    "Lady Minna" "*Taking notes* No... family... history... ... Done."
+    "明娜夫人""*做笔记*没有...家庭...病史...好了."
 
 
 
-    "Lady Minna" "Are you confident to satisfy my daughter in bed?"
+    "明娜夫人""你有信心在床上满足我女儿吗?"
 
 
 
-    player "Wait, what?"
+    player "等等,什么?"
 
 
 
     scene b_daily18_12 with tstmgr
 
-    "Lady Minna" "The quality of sex is an important variable to speculate the stability of a relationship or a marriage. I need to know about it before you two move on to the next step."
+    "明娜夫人""性的质量是判断一段关系或婚姻是否稳定的重要变量.在你们进行下一步之前,我需要知道这件事."
 
 
 
     scene b_daily18_13 with tstmgr
 
-    player "Oh, okay, I get it, eh... ... I think I am confident, but we haven’t even tried sex for once, so... I can’t be sure of that, right?"
+    player "Oh,okay,我懂了,eh......我觉得我很有信心,但我们一次都没做过爱,所以...我不能确定,对吧?"
 
 
 
     scene b_daily18_14 with tstmgr
 
-    "Lady Minna" "Well, but we can’t wait until you have sex for the first time because that will be too late. Don’t worry, I have more questions to help us get a rough idea~"
+    "明娜夫人""Well,但我们不能等到你第一次做爱的时候因为那就太晚了.别担心,我还有一些问题可以帮助我们得到一个大致的答案~"
 
 
 
-    "Lady Minna" "First, how long is your penis during an erection?"
+    "明娜夫人""首先,你的鸡巴勃起时有多长?"
 
 
 
     scene b_daily18_15 with tstmgr
 
-    player "It’s about... ... Wait, this is getting so weird."
+    player "大概...等等,这太奇怪了."
 
 
 
     scene b_daily18_13 with tstmgr
 
-    "Lady Minna" "Answer the question of the test, boy. Don’t be shy. "
+    "明娜夫人""回答测试的问题,孩子.不要害羞."
 
 
 
-    player "I... ... But I have never measured it before."
+    player "我...但我从来没有量过."
 
 
 
     scene b_daily18_14 with tstmgr
 
-    "Lady Minna" "Hmmmmmmmm... ... Fine, let’s skip that for now."
+    "明娜夫人""Hmmmmmmmm......好吧,我们现在跳过这个."
 
 
 
-    "Lady Minna" "How long can you hold before cumming during sex?"
+    "明娜夫人""做爱的时候,你能坚持多久在射之前?"
 
 
 
     scene b_daily18_15 with tstmgr
 
-    player "I... I don’t know. I have never counted before... ..."
+    player "我...我不知道.我以前从来没有数过多久......"
 
 
 
     scene b_daily18_16 with tstmgr
 
-    "Lady Minna" "This is not good. I won’t be able to come up with an useful conclusion if you don’t know the answers of those questions."
+    "明娜夫人""这可不太行.如果你不知道这些问题的答案,我就无法得出有用的结论."
 
 
 
     scene b_daily18_17 with tstmgr
 
-    player "Look, I don’t think your questionnaire is gonna work. No one can have accurate answers for those questions, no one."
+    player "听着,我觉得你的调查问卷没用.没有人能准确回答这些问题,没有人."
 
 
 
-    "Lady Minna" "... ... ... ..."
+    "明娜夫人""... ... ... ..."
 
 
 
     scene b_daily18_18 with tstmgr
 
-    "Lady Minna" "You are right, it is my mistake. I have prepared those questions for a long time, trying to evaluate every aspect of my daughter’s boyfriend. I thought it was a perfect questionnaire, but... ... ... ..."
+    "明娜夫人""你是对的,这是我的错.我为这些问题准备了很长时间,试图评估我女儿男友的各个方面.我觉得这是个完美的调查问卷,但是............"
 
 
 
-    "Lady Minna" "It seems like I have messed it up."
+    "明娜夫人""我好像把事情搞砸了."
 
 
 
     scene b_daily18_19 with tstmgr
 
-    player "You and Senning are really alike. She likes to make a perfect plan before doing everything too, but things just always go beyond her plans~"
+    player "你和森柠很像.她也喜欢在做每件事之前做一个完美的计划,但事情总是超出她的计划~"
 
 
 
-    "Lady Minna" "Yeah... ... ... ..."
+    "明娜夫人""Yeah... ... ... ..."
 
 
 
     scene b_daily18_20 with tstmgr
 
-    "Lady Minna" "But the test isn’t over yet. I have to be responsible for my daughter’s future happiness and there is only one way left. I will need you to masturbate in front of me so I can find out how capable you really are."
+    "明娜夫人""但测试还没有结束.我必须为我女儿未来的幸福负责,现在只有一条路可走了.我要你在我面前手淫,这样我才能知道你到底有多厉害."
 
 
 
@@ -231,53 +231,53 @@ label B_daily_18:
 
 
 
-    player "You are... serious?"
+    player "你是...认真的?"
 
 
 
     scene b_daily18_21 with tstmgr
 
-    "Lady Minna" "You think I’m willing to watch you jerking off? I’m doing this for Senning. So come on, show me what you got."
+    "明娜夫人""你以为我愿意看你打飞机吗?我这么做是为了森柠.来吧,让我看看你有什么本事."
 
 
 
-    player "But, right here? Right now? I’m not sure if I can... ..."
+    player "但是,在这里吗?就现在?我不确定我能不能做到......"
 
 
 
     scene b_daily18_22 with tstmgr
 
-    "Lady Minna" "E.D.?"
+    "明娜夫人""阳痿?"
 
 
 
-    player "What the... ... NO!"
+    player "什么......NO!"
 
 
 
     scene b_daily18_23 with tstmgr
 
-    "Lady Minna" "Oh, I see, you need some material in order to get an erection."
+    "明娜夫人""Oh,我明白了,你需要一些素材才能勃起."
 
 
 
-    player "Ehhh... ... yeah, if you say so... ..."
+    player "Ehhh......yeah,如果你这么说的话......"
 
 
 
-    "Lady Minna" "Alright then~ I will be your material~"
+    "明娜夫人""好吧,我来做你的素材~"
 
 
 
     scene b_daily18_24 with tstmgr
 
-    player "What... are you doing?"
+    player "你...你在干什么?"
 
 
 
     scene b_daily18_25 with tstmgr
 
-    "Lady Minna" "I hope this body of a 40s woman can still be some kind of a stimulation for you."
+    "明娜夫人""我希望这个40多岁女人的身体还能给你带来刺激."
 
 
 
@@ -287,13 +287,13 @@ label B_daily_18:
 
 
 
-    player "Oh my... ... But... this is not right... ..."
+    player "我的天......但是...这是不对的......"
 
 
 
     scene b_daily18_27 with tstmgr
 
-    "Lady Minna" "Relax, this is just a test~"
+    "明娜夫人""别紧张,这只是个测试~"
 
 
 
@@ -304,26 +304,26 @@ label B_daily_18:
     label B_daily_18_choice_1:
 
     menu:
-        "Masturbate":
+        "手淫":
 
 
-            player "Okay... I will do it."
+            player "Okay...我可以的."
 
             scene b_daily18_36 with tstmgr
 
-            "I slowly took my penis out of pants and couldn’t move my eyes away from her body."
+            "我慢慢地把我的鸡巴从裤子里拿出来,我的眼睛都无法从她的身体上离开了."
 
-            "Lady Minna" "Oh dear, what the hack? Your size is ridiculous!"
+            "明娜夫人""哪,这是怎么回事?你的尺寸太离谱了!"
 
-            "Lady Minna" "*Swallowing hard* ... ... ... ..."
+            "明娜夫人""*使劲吞咽*............"
 
             scene b_daily18_27 with tstmgr
 
-            "Lady Minna" "And now, just... play it like you always do."
+            "明娜夫人""现在,就...和你平常一样做."
 
-            "Her soft accented voice is like the song from a siren. I can’t do anything except obeying her."
+            "她那柔和的声音就像海妖的歌声.除了服从她,我什么都做不了."
 
-            player "Lady Minna... ..."
+            player "明娜夫人......"
 
             scene b_daily18_36 with tstmgr
 
@@ -351,49 +351,49 @@ label B_daily_18:
 
             scene b_daily18_38 with tstmgr
 
-            "Lady Minna" "Good boy... ..."
+            "明娜夫人""好孩子......"
 
-            "Lady Minna" "Now... move faster and harder, imagine I am Senning... ..."
+            "明娜夫人""现在...快一点,用力一点,把我想象成森柠......"
 
-            player "Senning... ..."
+            player "森柠......"
 
             scene b_daily18_39 with flashback
 
-            b "[P]~ you are doing such a great job~ Keep it up~"
+            b "[P]~你做得很好,继续~"
 
-            player "I... love you, Sen... ..."
+            player "我...爱你,森......"
 
-            b "I know, I know~"
+            b "我知道,我知道~"
 
             scene b_daily18_40 with tstmgr
 
-            b "Now, let me give you a little help~"
+            b "现在,让我给你一点帮助~"
 
-            player "Ohhhhhh... ... Sen... ..."
+            player "Ohhhhhh......森柠......"
 
-            b "I can feel the wild pulse of this little one~ You want me really bad, don’t you?"
+            b "我能感觉到这个小家伙狂野的脉搏~你真的很想要我,不是吗?"
 
             scene b_daily18_41 with flashback
 
             player "Simmmm~~ ziiiip~~~~ simmmmmmm~~~"
 
-            player "Sen... ... wummmmm~~~ so good... ..."
+            player "森......wummmmm~~~好棒......"
 
-            "Lady Minna" "(Ohh... ... this kid... how could he... ... ohhhh... ...)"
+            "明娜夫人""(Ohh......这个孩子...他怎么能......ohhhh......)"
 
-            "Lady Minna" "(He must has done this for a lot of times. He is... ... so good at this~)"
+            "明娜夫人""(他肯定干过很多次.他...非常擅长这个~)"
 
             scene b_daily18_50 with tstmgr
 
-            player "Tits... wuuuummmmmm~~~ More tits... ..."
+            player "乳头...wuuuummmmmm~~~更多的乳头......"
 
-            "Lady Minna" "(Awwww~~~ What's wrong with him?)"
+            "明娜夫人""(Awwww~~~他怎么了?)"
 
             scene b_daily18_51 with tstmgr
 
-            player "They are mine... ..."
+            player "它们是我的......"
 
-            "Lady Minna" "(Wooooow~~~~ this is the best tongue I have ever seen in my life~)"
+            "明娜夫人""(Wooooow~~~~这是我这辈子见过的最棒的舌头~)"
 
             scene b_daily18_50 with tstmgr
 
@@ -413,7 +413,7 @@ label B_daily_18:
 
             scene b_daily18_43 with tstmgr
 
-            player "Sen... ... Lady Minna... ..."
+            player "森......明娜夫人......"
 
             scene b_daily18_42 with tstmgr
 
@@ -431,21 +431,21 @@ label B_daily_18:
 
             pause
 
-            player "I’m... about to... ..."
+            player "我...要......"
 
             scene b_daily18_44 with tstmgr
 
-            "Lady Minna" "Yes, yes, just cum as you want~"
+            "明娜夫人""Yes,yes,你想怎么射就怎么射~"
 
-            "Lady Minna" "(Thank God, I will be the one who cums if he holds up for another 2 minutes... ...)"
+            "明娜夫人""(谢天谢地,如果他再坚持两分钟,我就会是那个高潮的人......)"
 
-            "Lady Minna" "(Those three bitches will laugh at me so bad if I really cum by only boobs-sucking~)"
+            "明娜夫人""(如果我只被吸乳头就高潮了那三个贱人会笑死我的~)"
 
-            "Lady Minna" "(They have... no idea what this kid is capable of... ...)"
+            "明娜夫人""(她们...不知道这孩子有多猛......)"
 
             scene b_daily18_43 with tstmgr
 
-            player "I’m cumming!!!!"
+            player "我要射了!!!!"
 
             scene b_daily18_45 with tstmgr
 
@@ -453,62 +453,62 @@ label B_daily_18:
 
             pause
 
-            "This is definitely... by far the most amazing jerk-off experience in my life... ..."
+            "这绝对是...这是我这辈子最爽的一次打飞机经历......"
 
             scene b_daily18_46 with tstmgr
 
-            "Lady Minna" "Good job, young man~"
+            "明娜夫人""干得好,年轻人~"
 
-            player "Lady Minna, I... ... sorry..."
+            player "明娜夫人,我...对不起..."
 
             scene b_daily18_47 with tstmgr
 
-            "Lady Minna" "*Took some of the cum with a finger* ... ... ... ..."
+            "明娜夫人""*用手指蘸了点精液放进嘴里*............"
 
             scene b_daily18_48 with tstmgr
 
-            "Lady Minna" "Hmmmmmmm~~~~"
+            "明娜夫人""Hmmmmmmm~~~~"
 
-            "Lady Minna" "It tasted... thick, and healthy~"
+            "明娜夫人""它尝起来...很腥而且很健康~"
 
             scene b_daily18_49 with tstmgr
 
-            "Lady Minna" "Congratulation, you have proved yourself a capable man. Now I can finally leave Senning to you without worrying~"
+            "明娜夫人""恭喜你,你证明了自己是个很有能力的人.现在我终于可以放心地把森柠交给你了~"
 
-            player "Eh... okay, thanks... ..."
+            player "Eh...okay,谢谢......"
 
-            "Lady Minna" "But don’t tell Senning about this test, okay?"
+            "明娜夫人""但不要告诉森柠这个测试,okay?"
 
             player "... ... ... ..."
 
-            player "You said you are from a conservative family, but you look even opener than a western woman, ma’am... ..."
+            player "你说你来自一个保守的家庭,但你看起来比西方女人还要开放,夫人......"
 
             scene b_daily18_32 with tstmgr
 
-            "Lady Minna" "Well, I am indeed the special one in the family. Senning’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
+            "明娜夫人""Well,我确实是家里最特别的一个.森柠的父亲和她的三个...“阿姨们”总是批评我的“不当行为”,但我真的不在乎~"
 
-            player "Yet Senning is not so... open like you, why is that?"
+            player "然而森柠并非...像你那样开放,又是为什么?"
 
             scene b_daily18_35 with tstmgr
 
-            "Lady Minna" "Maybe she inherited more of the character from her dad than from me~"
+            "明娜夫人""也许她更随她父亲~"
 
-            player "I see... ... ... ..."
+            player "我明白了............"
 
-            player "So... eh, if I have passed your final test, does that mean you won't object to Senning and I having sex anymore?"
+            player "所以...eh,我通过了你的最终测试,是不是意味着你不会反对我和森柠做爱了?"
 
             scene b_daily18_31 with tstmgr
 
-            "Lady Minna" "Of course~ I'm counting on you to make me a grandkid in one year, remember?"
+            "明娜夫人""当然了,我还指望你在一年内给我生个外孙呢,记得吗?"
 
-            "Lady Minna" "Come here sometime later and there will be a present for you~"
+            "明娜夫人""以后你来这里,我会给你一份礼物的~"
 
-            player "Eh... okay, thanks, Lady Minna..."
+            player "Eh...okay,谢谢,明娜夫人..."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Don’t do it":
+        "不要这样做":
 
 
 
@@ -521,67 +521,67 @@ label B_daily_18:
 
             scene b_daily18_30 with tstmgr
 
-            player "No, ma’am, I really can’t do this. I can’t betray Sen."
+            player "No,夫人,我真的不能这么做.我不能背叛森."
 
             scene b_daily18_28 with tstmgr
 
-            "Lady Minna" "She would never know if you don’t tell her~"
+            "明娜夫人""如果你不告诉她,她永远不会知道~"
 
             scene b_daily18_29 with tstmgr
 
-            player "Okay, this starts to sound even weirder. I’m not doing this, ma’am. We just met two days ago and now you want me to cheat with you?"
+            player "Okay,这听起来更奇怪了.我不会这么做的,夫人.我们才认识两天,你就想让我跟你出轨?"
 
             scene b_daily18_31 with tstmgr
 
-            "Lady Minna" "I wouldn’t call this as cheating, but... ... hummm... ... whatever~"
+            "明娜夫人""不认为这是出轨,但是......hummm......算了~"
 
-            "Lady Minna" "This is surprising... ... Seems like you are a better man than I thought~"
+            "明娜夫人""真是令人惊讶......看起来你比我想象的要正直~"
 
-            "Lady Minna" "Okay then, the final test for you is over. Congratulation, you have proved yourself a trusty man. Now I can finally leave Senning to you without worrying~"
+            "明娜夫人""好吧,你的最终测试结束了.恭喜你,你证明了自己是一个值得信赖的人.现在我终于可以放心地把森柠交给你了~"
 
-            player "Wait, so... that was part of the test too?"
+            player "等等,所以...这也是测试的一部分?"
 
             scene b_daily18_32 with tstmgr
 
-            "Lady Minna" "Everything happens between you and me would be a test~"
+            "明娜夫人""你我之间发生的每件事都是一次测试~"
 
             player "... ... ... ..."
 
-            player "I will... forget what I saw today, I promise."
+            player "我会...忘了我今天看到的吧,我保证."
 
             scene b_daily18_33 with tstmgr
 
-            "Lady Minna" "What do you mean?"
+            "明娜夫人""什么意思?"
 
             scene b_daily18_34 with tstmgr
 
-            "Lady Minna" "*Looking at her breasts* Oh, you mean this?"
+            "明娜夫人""*看着她的乳房*Oh,你的意思是这个?"
 
-            "Lady Minna" "Don’t worry about it~ I used to have a part-time job as a nude model in an art college when I was young so it is not really a big deal for me~"
+            "明娜夫人""别担心,我年轻的时候曾在一所艺术学院兼职过裸体模特,所以这对我来说并不是什么大事~"
 
-            player "You said you are from a conservative family, but you look even opener than a western woman, ma’am... ..."
+            player "你说你来自一个保守的家庭,但你看起来比西方女人还要开放,夫人......"
 
             scene b_daily18_32 with tstmgr
 
-            "Lady Minna" "Well, I am indeed the special one in the family. Senning’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
+            "明娜夫人""Well,我确实是家里最特别的一个.森柠的父亲和她的三个...“阿姨们”总是批评我的“不当行为”,但我真的不在乎~"
 
-            player "Yet Senning is not so... open like you, why is that?"
+            player "然而森柠并非...像你那样开放,又是为什么?"
 
             scene b_daily18_35 with tstmgr
 
-            "Lady Minna" "Maybe she inherited more of the character from her dad than from me~"
+            "明娜夫人""也许她更随她父亲~"
 
-            player "I see... ... ... ..."
+            player "我明白了............"
 
-            player "So... eh, if I have passed your final test, does that mean you won't object to Senning and I having sex anymore?"
+            player "所以...eh,我通过了你的最终测试,是不是意味着你不会反对我和森柠做爱了?"
 
             scene b_daily18_31 with tstmgr
 
-            "Lady Minna" "Of course~ I'm counting on you to make me a grandkid in one year, remember?"
+            "明娜夫人""当然了,我还指望你在一年内给我生个外孙呢,记得吗?"
 
-            "Lady Minna" "Come here sometime later and there will be a present for you~"
+            "明娜夫人""以后你来这里,我会给你一份礼物的~"
 
-            player "Eh... okay, thanks, Lady Minna..."
+            player "Eh...okay,谢谢,明娜夫人..."
 
             scene void with tstmgr
 

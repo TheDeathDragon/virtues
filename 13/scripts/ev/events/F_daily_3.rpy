@@ -3,17 +3,17 @@ label F_daily_3:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Rachel’s perspective.*"
+    "*下面的情节是瑞秋的视角.*"
 
 
 
-    "Later today, in the public bathroom of the college apartment."
+    "今天晚些时候,在大学公寓的公共浴室里."
 
 
 
     scene f_daily3_1 with dissolve
 
-    f "Ah... hot water is the best."
+    f "Ah...热水感觉很棒."
 
 
 
@@ -23,7 +23,7 @@ label F_daily_3:
 
     scene f_daily3_2 with tstmgr
 
-    f "Hmm? I’m out of shampoo."
+    f "Hmm?我的洗发露用完了."
 
 
 
@@ -33,7 +33,7 @@ label F_daily_3:
 
     scene f_daily3_3 with tstmgr
 
-    f "Hey, sis, can I borrow your shampoo, please?"
+    f "Hey,姐妹儿,能借用一下你的洗发露吗?"
 
 
 
@@ -41,31 +41,31 @@ label F_daily_3:
 
 
 
-    f "Don’t worry, I won't use much of it."
+    f "别担心,我不会用太多的."
 
 
 
     scene f_daily3_4 with tstmgr
 
-    f "Wait a minute..."
+    f "等一下..."
 
 
 
-    f "Oh my... You are so beautiful."
+    f "天啊...你真漂亮."
 
 
 
-    f "How... how could I never see you before? Are you new here?"
+    f "我...我以前怎么没见过你?你是新来的?"
 
 
 
-    "???" "Eh, me?"
+    "???" "Eh,我?"
 
 
 
     scene f_daily3_5 with tstmgr
 
-    "???" "Yeah, I just moved in this apartment this semester."
+    "???" "Yeah,我这学期刚搬进这个公寓."
 
 
 
@@ -77,45 +77,45 @@ label F_daily_3:
 
 
 
-    f "You are definitely the prettiest girl I have ever seen in this school. I wish I was a man so I can pursue you."
+    f "你绝对是我在这所学校见过的最漂亮的女孩了.我真希望我是个男生,这样我就可以追求你了."
 
 
 
     scene f_daily3_6 with tstmgr
 
-    "???" "Eh, thank you for saying that."
+    "???" "Eh,谢谢你的夸奖."
 
 
 
-    f "What is your name?"
+    f "你叫什么名字?"
 
 
 
-    b "Senning... ..."
+    b "森柠......"
 
 
 
-    f "I’m Rachel, nice to meet you."
+    f "我是瑞秋,很高兴认识你."
 
 
 
-    b "Nice to meet you, too."
+    b "我也很高兴认识你."
 
 
 
-    b "([P] once told me about a Rachel in the track team)"
+    b "([P]曾经跟我说过一个叫瑞秋的女生)"
 
 
 
-    b "Are you in the track team of our school?"
+    b "你是我们学校的田径队吗?"
 
 
 
-    f "No way! You knew who I am?"
+    f "哇!你知道我是谁?"
 
 
 
-    b "Not really, but... I think we have a mutual friend."
+    b "不知道,但是...我想我们有共同的朋友."
 
 
 
@@ -123,17 +123,17 @@ label F_daily_3:
 
 
 
-    f "Oh yeah! [P] and I are very close."
+    f "Oh,yeah![P]和我关系很好."
 
 
 
     scene f_daily3_7 with tstmgr
 
-    b "Very close?..."
+    b "关系很好?..."
 
 
 
-    f "A friend of my friend is a friend of mine. Do you want to be my friend?"
+    f "我朋友的朋友就是我的朋友.你想成为我的朋友吗?"
 
 
 
@@ -143,41 +143,41 @@ label F_daily_3:
 
     scene f_daily3_6 with tstmgr
 
-    b "Yeah, I’d like to."
+    b "Yeah,很乐意."
 
 
 
-    f "Great!"
+    f "棒!"
 
 
 
-    f "Now let’s have shower together!"
+    f "现在我们一起洗澡吧!"
 
 
 
     scene f_daily3_7 with tstmgr
 
-    b "Wait, what?"
+    b "等等,什么?"
 
 
 
-    f "Friends need to be frank with each other, don’t you think?"
+    f "你不认为朋友之间应该坦诚相待吗?"
 
 
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    f "Oh, you don’t like it?"
+    f "Oh,你不喜欢这样?"
 
 
 
-    f "I’m sorry, didn’t mean to bother you. I just want to be closer with you."
+    f "对不起,我不是故意冒犯你的.我只是想和你更亲近一些."
 
 
 
-    b "I... I’m not trying to... ..."
+    b "我...我不想这样......"
 
 
 
@@ -187,11 +187,11 @@ label F_daily_3:
 
     scene f_daily3_6 with tstmgr
 
-    b "Fine... we can have shower together."
+    b "好吧...我们一起洗吧."
 
 
 
-    f "For real? Great!"
+    f "真的?棒!"
 
 
 
@@ -201,37 +201,37 @@ label F_daily_3:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene f_daily3_8 with tstmgr
 
-    f "You know, I always have shower with my friends, but none of them is as beautiful as you."
+    f "我总是和我的朋友一起洗澡,但是她们没有一个像你一样漂亮."
 
 
 
-    b "Eh... thanks for your compliment."
+    b "Eh...谢谢夸奖."
 
 
 
     scene f_daily3_9 with tstmgr
 
-    f "But why are you covering your breasts?"
+    f "但你为什么要遮住你的胸?"
 
 
 
-    f "Don't be shy, girl. Let me see those tities!"
+    f "别害羞,女孩.让我看看那些乳头!"
 
 
 
     scene f_daily3_10 with tstmgr
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    f "Come on. How can you wash your body if you cover your breasts with hands all the time?"
+    f "拜托.如果你一直用手捂着你的胸,你怎么洗澡?"
 
 
 
@@ -241,29 +241,29 @@ label F_daily_3:
 
     scene f_daily3_11 with tstmgr
 
-    b "I guess... you are right."
+    b "我猜...你是对的."
 
 
 
-    b "So... ... ... ..."
+    b "所以............"
 
 
 
-    f "Wow, such a lovely chest you have."
+    f "Wow,你的胸真漂亮."
 
 
 
     scene f_daily3_12 with tstmgr
 
-    f "And so soft... ..."
+    f "而且很软......"
 
 
 
-    b "Wait, wait, wait... You are too close."
+    b "等等,等等,等等...你离我太近了."
 
 
 
-    f "What’s the matter? We are both girls."
+    f "有什么问题吗?我们都是女孩."
 
 
 
@@ -271,43 +271,43 @@ label F_daily_3:
 
 
 
-    b "Okay... ..."
+    b "嗯......"
 
 
 
     scene f_daily3_13 with tstmgr
 
-    b "Your breasts are soft, too... ..."
+    b "你的胸也很软......"
 
 
 
-    f "What is your room number, by the way? I live in 302."
+    f "顺便问一下,你的房间号是多少?我住在302号."
 
 
 
-    b "My room is... 318."
+    b "我的房间是...318."
 
 
 
     scene f_daily3_14 with tstmgr
 
-    f "Great. I’ll go pay you a visit when I have time."
+    f "太好了.我一有时间就去拜访你."
 
 
 
-    b "You are... very welcome."
+    b "很...欢迎."
 
 
 
-    f "Now let’s put shower gel on each other. I want to put all of them on your delicate ivory skin!"
+    f "现在我们帮对方抹沐浴露吧.我想把它们都抹在你娇嫩白皙的皮肤上!"
 
 
 
-    b "... ...That sounds pretty weird."
+    b "......听起来怪怪的."
 
 
 
-    b "But okay... ... ... ..."
+    b "但是行吧............"
 
 
 
@@ -317,7 +317,7 @@ label F_daily_3:
 
 
 
-    "Rachel and Senning have become friends."
+    "瑞秋和森柠成了朋友."
 
 
 

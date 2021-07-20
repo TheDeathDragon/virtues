@@ -3,45 +3,45 @@ label B_daily_11:
     scene void with tstmgr
     play music happy
 
-    "Another day at school, heading to class right now, normal as usual, nothing special."
+    "又是上学的一天,马上就要去上课了,一切如常,没什么特别的."
 
 
 
-    "Except that..."
+    "除了这个..."
 
 
 
     scene b_daily11_1 with tstmgr
 
-    b "Can you... slow down for a little bit?"
+    b "你能...慢一点吗?"
 
 
 
-    "Except that I’m holding Senning’s hand the first time in my life."
+    "除了我这辈子第一次牵着森柠的手."
 
 
 
     scene b_daily11_2 with tstmgr
 
-    b "We still have time, no need to rush."
+    b "我们还有时间,不着急."
 
 
 
-    player "Oh... sorry."
+    player "Oh...抱歉."
 
 
 
     scene b_daily11_3 with tstmgr
 
-    b "And is it necessary to hold my hand all the way?"
+    b "有必要一路上牵着我的手吗?"
 
 
 
-    b "I feel... a little embarrassed."
+    b "我觉得...有点尴尬."
 
 
 
-    player "I think you will have to get used to this, since now we are together."
+    player "我想你会习惯的,既然我们在一起了."
 
 
 
@@ -51,21 +51,21 @@ label B_daily_11:
 
     scene b_daily11_4 with tstmgr
 
-    b "Okay... ..."
+    b "嗯......"
 
 
 
     if B.relation == "girlfriend":
 
-        player "I want every people to see that you are my girlfriend now."
+        player "我想让每个人都看到你现在是我的女朋友."
 
     if B.relation == "sexpartner":
 
-        player "I want every people to see that you are mine now."
+        player "我想让每个人都看到你现在是我的了."
 
 
 
-    b "Is that a showing off?"
+    b "这是在炫耀吗?"
 
 
 
@@ -73,15 +73,15 @@ label B_daily_11:
 
 
 
-    player "You don’t like it?"
+    player "你不喜欢?"
 
 
 
-    b "I... ... ... ..."
+    b "我............"
 
 
 
-    b "Just... do whatever you want..."
+    b "...你喜欢就好..."
 
 
 

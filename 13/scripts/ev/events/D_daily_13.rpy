@@ -3,27 +3,27 @@ label D_daily_13:
     scene d_daily13_1 with tstmgr
     play music happy
 
-    e "Good afternoon, [P], are you here for the tutoring?"
+    e "下午好,[P],你是来辅导的吗?"
 
 
 
-    player "Ehh... yeah, Auntie."
+    player "Ehh...yeah,阿姨."
 
 
 
     scene d_daily13_2 with tstmgr
 
-    e "Thank you so much for helping Irene, honey~"
+    e "非常感谢你对艾琳的帮助,亲爱的~"
 
 
 
     scene d_daily13_3 with tstmgr
 
-    e "Wmmmm... ... Irene’s grades went down a little recently. I am a little worried about that. Could you please be harder on her?"
+    e "Wmmmm......艾琳的成绩最近下降了一点.我有点担心.你能不能对她再严厉点?"
 
 
 
-    player "Oh, sure, that’s... eh, that’s my duty."
+    player "Oh,当然,这...这是我的职责."
 
 
 
@@ -31,15 +31,15 @@ label D_daily_13:
 
 
 
-    "Ah damn, I feel so guilty right now. Ever since I established the intimate relationship with Irene, the tutoring class was not about tutoring anymore."
+    "Ahdamn,我现在感到很内疚.自从我和艾琳有了亲密的关系后,辅导课就不再是关于辅导了."
 
 
 
-    "We spent most of time on caressing, teasing, playing during the tutoring class. I am totally responsible for the drop of her grades."
+    "在辅导课上,我们花了大部分时间在爱抚,逗弄,玩耍上.她成绩的下降完全是我的责任."
 
 
 
-    "I need to change this... ..."
+    "我需要改变这种情况了......"
 
 
 
@@ -49,13 +49,13 @@ label D_daily_13:
 
 
 
-    "I walked in Irene’s room and she was already waiting for me..."
+    "我走进艾琳的房间,她已经在等我了..."
 
 
 
     scene d_daily13_4 with dissolve
 
-    d "Meow meow~~ Welcome, master~"
+    d "Meowmeow~~欢迎回家,主人~"
 
 
 
@@ -63,13 +63,13 @@ label D_daily_13:
 
 
 
-    "Ahh... here she goes again, trying to tease me and make me do something lewd with her so she can have less time on studying. What a bad student..."
+    "Ahh...她又来了,想挑逗我,让我和她做一些色色的事,这样她就能少花点时间在学习上.真是个坏学生..."
 
 
 
     scene d_daily13_5 with tstmgr
 
-    d "Meow~ What do you want to do with me today, master?~"
+    d "Meow~你今天想对我做什么,主人?~"
 
 
 
@@ -80,26 +80,26 @@ label D_daily_13:
     label D_daily_13_choice_1:
 
     menu:
-        "Do the right thing":
+        "做正确的事":
 
 
-            player "Oh you have no idea~ I think you are going to regret for being my kitty..."
+            player "Oh你不知道~我想你会后悔做了我的猫咪..."
 
             scene d_daily13_10 with tstmgr
 
-            d "Are you going to do something kinky to me? Meow~"
+            d "你要对我做一些古奇怪的事吗?Meow~"
 
-            player "Hmmmm... ... yeah, I guess so... ..."
+            player "Hmmmm......yeah,我想是的......"
 
             scene d_daily13_11 with tstmgr
 
-            d "Awwww~~~ I’m so excited!~"
+            d "Awwww~~~我好兴奋!~"
 
             scene d_daily13_12 with tstmgr
 
-            d "I’m ready! I’m ready! Tell me your order please, master!~"
+            d "我准备好了!我准备好了!请告诉我你要做什么,主人!~"
 
-            player "Okay, I want you to go doing your homework right now and don’t leave your chair until you finish everything."
+            player "Okay,我要你现在就去做作业,做完所有的事之前不要离开你的椅子."
 
             scene d_daily13_11 with tstmgr
 
@@ -113,29 +113,29 @@ label D_daily_13:
 
             scene d_daily13_14 with tstmgr
 
-            d "Wait, are you serious?"
+            d "等等,你是认真的吗?"
 
-            player "Uh-huh. Every student needs to do its homework."
+            player "Uh-huh.每个学生都需要做家庭作业."
 
             scene d_daily13_15 with tstmgr
 
-            d "But we are supposed to have fun! That is the most boring order ever!"
+            d "我们应该好好的玩玩!这是有史以来最无聊的事!"
 
-            player "Your grades have gone down, girl, and you should be vigilant about that. Now stop complaining and do as I said, kitty, otherwise I’m not going to play this master-pet game with you anymore."
+            player "你的成绩下降了,女孩,你应该保持警惕.小猫咪,别抱怨了,照我说的去做,否则我不会再和你玩这种宠物游戏了."
 
             scene d_daily13_16 with tstmgr
 
-            d "Awwwwwwww... ... Fine, I’ll do it... ..."
+            d "Awwwwwwww......好吧,我做......"
 
-            "Irene then went to her desk and began doing her homework."
+            "然后艾琳走到她的书桌前开始做作业."
 
             scene d_daily13_17 with tstmgr
 
             "... ... ... ..."
 
-            d "[P] is an idiot... ..."
+            d "[P]是个傻子......"
 
-            player "Stop talking! Concentrate on your homework!"
+            player "别说话!专注于你的作业!"
 
             scene d_daily13_18 with tstmgr
 
@@ -145,8 +145,8 @@ label D_daily_13:
 
             "... ... ... ..."
 
-            "I then spent the next three hours on tutoring and successfully restricted myself from doing anything lewd with Irene~"
-        "Ahhh... fuck the tutoring!":
+            "然后,我花了三个小时的时间辅导,并成功地忍住不与艾琳做任何色色的事情~"
+        "Ahhh...去他妈的辅导!":
 
 
 
@@ -155,23 +155,23 @@ label D_daily_13:
 
             d "Yaaaahhhh~~~"
 
-            player "Trying to avoid studying again, bad kitty?"
+            player "又在逃避学习了,坏猫咪?"
 
             scene d_daily13_6 with tstmgr
 
-            d "I just want to... have fun with my master, meow~"
+            d "我只是想...和我的主人玩得开心,meow~"
 
-            player "Sigh... ... Alright, kitty, forget about the tutoring. I’m going to pet you for the next three hours~"
+            player "唉......好了,小猫咪,忘了辅导吧.在接下来的三个小时里我要好好疼爱你~"
 
             scene d_daily13_8 with tstmgr
 
-            d "Yes, yes, that is exactly what I want~"
+            d "Yes,yes,这正是我想要的~"
 
             scene d_daily13_9 with tstmgr
 
             "... ... ... ..."
 
-            "I let my lust get the better of me again... Damn, I must be the worst private teacher ever... ..."
+            "我又一次让欲望控制了我...Damn,我一定是史上最糟糕的私人教师......"
 
             scene void with tstmgr
 

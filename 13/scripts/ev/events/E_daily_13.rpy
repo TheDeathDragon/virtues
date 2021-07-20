@@ -3,37 +3,37 @@ label E_daily_13:
     scene void with tstmgr
     play music happy
 
-    "It seems like Vera is talking with someone in the hallway. I should probably go take a look..."
+    "薇拉好像在走廊上和别人说话.我应该去看看..."
 
 
 
     scene e_daily13_1 with dissolve
 
-    player "Elis... ... Aunt Elisa?"
+    player "伊莉......伊莉莎?"
 
 
 
     scene e_daily13_2 with tstmgr
 
-    e "Hi, [P]. This is the first time I visit your house. What a nice place~"
+    e "Hi,[P].这是我第一次来你家.这地方真棒~"
 
 
 
-    e "And you got a really nice roommate here... ..."
+    e "你有个很好的室友......"
 
 
 
     scene e_daily13_3 with tstmgr
 
-    a "You are too kind, Mrs. Shinyrost~"
+    a "你太好了,新光夫人~"
 
 
 
-    a "I’m going to prepare for the lunch now, see you later~"
+    a "我现在要准备午饭了,再见~"
 
 
 
-    e "See you, honey~"
+    e "待会见,亲爱的~"
 
 
 
@@ -43,7 +43,7 @@ label E_daily_13:
 
 
 
-    player "So... what brings you here, Aunt Elisa?"
+    player "所以...什么风把你吹来了,伊莉莎阿姨?"
 
 
 
@@ -53,63 +53,63 @@ label E_daily_13:
 
 
 
-    e "I still can’t believe I’m doing this, but... ..."
+    e "我还是不敢相信我要这么做,但是......"
 
 
 
     scene e_daily13_6 with tstmgr
 
-    e "Here... ..."
+    e "给......"
 
 
 
-    "She handed me a key."
+    "她递给我一把钥匙."
 
 
 
-    e "It is... the key to that bungalow. I think you should have it..."
+    e "这是...那间平房的钥匙.我觉得你应该要有一把..."
 
 
 
     scene e_daily13_7 with tstmgr
 
-    e "*Murmuring* So... when you want to spend sometime with me... alone... again, we can... ... meet there... ..."
+    e "*喃喃语*所以...当你想再次和我独处的...时候,我们可以......在那儿见......"
 
 
 
-    "Elisa’s face was red like a teenage girl who finally mustered up the courage to talk with her first crush. I have never seen this strong lady being so shy like this before."
+    "伊莉莎的脸涨得通红,就像一个终于鼓起勇气和初恋对象说话的十几岁的女孩.我以前从未见过这位坚强的女士如此害羞."
 
 
 
-    player "Thanks, Auntie, I’ll take it."
+    player "谢谢,阿姨,我收下了."
 
 
 
     scene e_daily13_8 with tstmgr
 
-    e "And... don’t tell others about that place. That is... a secret between us."
+    e "还有...不要告诉别人那个地方.这是...我们之间的秘密."
 
 
 
-    player "I’m sure I won’t... ..."
+    player "我肯定不会的......"
 
 
 
     scene e_daily13_9 with tstmgr
 
-    e "*Relieved smiling* ... ... ... ..."
+    e "*欣慰的笑*............"
 
 
 
-    e "Okay, that’s it. I should go now..."
+    e "Okay,就这些了.我该走了..."
 
 
 
-    player "Don’t you want to stay here for the lunch? Vera is really good at cooking..."
+    player "你不想待在这里吃午饭吗?薇拉做的菜很棒..."
 
 
 
-    e "I need to go to meet with Theodora now. So... ..."
+    e "我现在要去见狄奥多拉.所以......"
 
 
 
@@ -117,7 +117,7 @@ label E_daily_13:
 
 
 
-    e "Bye, honey~"
+    e "拜,亲爱的~"
 
 
 

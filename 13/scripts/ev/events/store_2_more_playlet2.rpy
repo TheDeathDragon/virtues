@@ -8,45 +8,45 @@ label store_2_more_playlet2:
 
     scene store_2_more_playlet2_1 with dissolve
 
-    player "Seriously, Lady Minna, the armpit? Your fetishes are really weird... ..."
+    player "说真的,明娜夫人,腋窝?你的癖好真奇怪......"
 
 
 
-    "Lady Minna" "Well, you don’t have to do this if you think this is too kinky~"
+    "明娜夫人""Well,如果你觉得这太变态了,你不需要这么做~"
 
 
 
     scene store_2_more_playlet2_2 with tstmgr
 
-    player "Nope~ I think it is important to please my future mom-in-law."
+    player "Nope~我觉得取悦我未来的丈母娘很重要."
 
 
 
     scene store_2_more_playlet2_3 with tstmgr
 
-    player "*Licking armpit* ... ... ... ..."
+    player "*舔腋下*............"
 
 
 
-    "Lady Minna" "Ahhhhhh~ Yes, yes~ Just like that~"
+    "明娜夫人""Ahhhhhh~Yes,yes~就像这样~"
 
 
 
-    player "Lady Minna... has no body odor at all, instead, I can only smell the similar body fragrance as Sen has... ... This is... amazing~"
+    player "明娜夫人...完全没有体味,相反,我只能闻到和森相似的体香......这太...令人惊异了~"
 
 
 
-    "Lady Minna" "Of course. We Asian girls... don’t even need any perfume at all~ We are very proud of our body scent."
+    "明娜夫人""当然.我们亚洲女孩...我们甚至不需要任何香水,我们为自己的体香感到骄傲."
 
 
 
     scene store_2_more_playlet2_4 with tstmgr
 
-    player "Minna... ... Lady Minna... ... I want to taste... more of your scent... ..."
+    player "明娜......明娜夫人......我想尝尝...更多你的气味......"
 
 
 
-    "Lady Minna" "Ohhhhhhh~~~ Yes, yes, lick me like a good puppy~ Ohhhhhhh~~~"
+    "明娜夫人""Ohhhhhhh~~~Yes,yes,像听话的小狗一样舔我~Ohhhhhhh~~~"
 
 
 

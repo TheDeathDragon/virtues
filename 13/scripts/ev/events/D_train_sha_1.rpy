@@ -7,43 +7,43 @@ label D_train_sha_1:
 
 
 
-    "The next morning, in Irene’s highschool."
+    "第二天早上,在艾琳的高中."
 
 
 
     scene d_train_sha_1_1 with dissolve
 
-    "Girl A" "Irene, let’s go to the dining hall together~"
+    "女孩A""艾琳,我们一起去食堂吧~"
 
 
 
     scene d_train_sha_1_2 with tstmgr
 
-    d "Sorry, but I’m not hungry."
+    d "抱歉,我还不饿."
 
 
 
-    "Girl A" "Are you okay? Your face looks redder than normal. Are you having a fever?"
+    "女孩A""你还好吗?你的脸看起来比平常更红.你发烧了吗?"
 
 
 
-    d "No... I’m fine... ..."
+    d "No...我很好......"
 
 
 
-    "Girl A" "You sure you don’t need to go to the infirmary?"
+    "女孩A""你确定你不需要去医务室?"
 
 
 
-    d "I’m sure. Don’t worry about me..."
+    d "我确定.别为我担心..."
 
 
 
-    "Girl A" "Okay then... ... See you later."
+    "女孩A""那好吧......回头见."
 
 
 
-    d "See you later."
+    d "回头见."
 
 
 
@@ -55,61 +55,61 @@ label D_train_sha_1:
 
     scene void with tstmgr
 
-    "Later, when Irene was on the way to a class..."
+    "后来,艾琳在去上课的路上..."
 
 
 
     scene d_train_sha_1_4 with dissolve
 
-    "Boy A" "(Talking to another boy) Don’t you think that something is wrong with Shinyrost today?"
+    "男孩A""(和其他男孩交谈)你不觉得今天新光出了什么问题吗?"
 
 
 
-    "Boy B" "Yeah, I noticed it... She doesn’t look good."
+    "男孩B""Yeah,我注意到了...她看起来不太好."
 
 
 
     scene d_train_sha_1_5 with tstmgr
 
-    "Boy A" "And... did you see her face? That face looks... horny..."
+    "男孩A""还有...你看到她的脸了吗?那张脸看起来很...淫荡..."
 
 
 
-    "Boy B" "Wait, are you serious? Dude, you sound like a pervert."
+    "男孩B""等等,你是认真的吗?老兄,你听起来像个变态."
 
 
 
-    "Boy A" "Maybe I think too much... ..."
+    "男孩A""也许是我想多了......"
 
 
 
-    "Boy B" "... ... ... ..."
+    "男孩B""... ... ... ..."
 
 
 
     scene void with tstmgr
 
-    "Later, when the school is finally over..."
+    "后来,当学校终于放学..."
 
 
 
     scene d_train_sha_1_6 with tstmgr
 
-    player "Irene, are you okay? Your mother said that you didn’t feel well and asked me to pick you up."
+    player "艾琳,你没事吧?你妈妈说你不舒服,让我来接你."
 
 
 
-    d "I’m... okay... ..."
+    d "我...没事......"
 
 
 
-    d "Let’s talk about it later."
+    d "我们待会再说这个吧."
 
 
 
     scene d_train_sha_1_7 with tstmgr
 
-    player "Alright, girl, let’s take you home..."
+    player "好吧,女孩,让我送你回家..."
 
 
 
@@ -117,23 +117,23 @@ label D_train_sha_1:
 
 
 
-    "Girl A" "Wait, who is that guy with Irene?"
+    "女孩A""等等,那个和艾琳在一起的人是谁?"
 
 
 
-    "Girl B" "I don’t know, but some people said that they once saw Irene and that guy kissing."
+    "女孩B""我不知道,但有些人说他们见过艾琳和那个家伙接吻."
 
 
 
-    "Girl A" "But that guy looks way older than her... ..."
+    "女孩A""但是那个家伙看起来比她大得多......"
 
 
 
-    "Girl A" "A college student maybe?"
+    "女孩A""也许是个大学生?"
 
 
 
-    "Girl B" "Who knows... He is quite handsome though..."
+    "女孩B""谁知道呢...不过他很帅..."
 
 
 
@@ -143,7 +143,7 @@ label D_train_sha_1:
 
 
 
-    "And later, in a quiet alley..."
+    "后来,在一个安静的巷子里..."
 
 
 
@@ -153,75 +153,75 @@ label D_train_sha_1:
 
 
 
-    d "I can’t... walk anymore... ..."
+    d "我...走不动了......"
 
 
 
-    player "What’s going on, Irene? You look awful. Do you need me to take you to a hospital?"
+    player "怎么了,艾琳?你看起来糟透了.你需要我送你去医院吗?"
 
 
 
-    d "No... ... ... ..."
+    d "不............"
 
 
 
     scene d_train_sha_1_9 with tstmgr
 
-    d "I’ll tell you... what’s going on... ..."
+    d "我告诉你...发生了什么......"
 
 
 
     scene d_train_sha_1_10 with tstmgr
 
-    "She took off her underwear in front of me."
+    "她在我面前脱下内衣."
 
 
 
-    d "I have put this in my anus the whole day... ..."
+    d "我已经把它放在我的肛门里一整天了......"
 
 
 
-    player "Shit, is that anal beads? What the... ... Why did you do this?"
+    player "Shit,是肛门珠吗?这...你为什么要这么做?"
 
 
 
     scene d_train_sha_1_11 with tstmgr
 
-    d "It’s... fun... ..."
+    d "这...很有趣......"
 
 
 
-    d "Since the last time you put your penis inside my... ... I realized that I really like that feeling..."
+    d "自从上次你把你的鸡儿放进我的...我意识到我真的很喜欢这种感觉..."
 
 
 
-    d "The feeling when my anus is filled by something... big... ..."
+    d "这种我的肛门被某种大东西...填满的感觉."
 
 
 
-    player "Oh, Irene... ..."
+    player "Oh,艾琳......"
 
 
 
     scene d_train_sha_1_12 with tstmgr
 
-    d "Can you please... take it out for me? Otherwise I won’t be able to walk home..."
+    d "你能...帮我拿出来吗?不然我就不能走路回家了..."
 
 
 
-    player "(Swallowing hard) ... ... ... ..."
+    player "(用力吞咽)............"
 
 
 
     scene d_train_sha_1_13 with tstmgr
 
-    player "If you say so..."
+    player "如果你这么说的话..."
 
 
 
     scene d_train_sha_1_14 with tstmgr
 
-    "I hooked the ring with a finger and slowly pulled the thing out of that little meat hole..."
+    "我用一根手指勾住了环,慢慢地把它从肉洞里拉了出来..."
 
 
 
@@ -239,7 +239,7 @@ label D_train_sha_1:
 
     scene d_train_sha_1_17 with tstmgr
 
-    d "It's... almost out~~~"
+    d "快出来了~~~"
 
 
 
@@ -253,17 +253,17 @@ label D_train_sha_1:
 
     scene d_train_sha_1_19 with tstmgr
 
-    d "(Satisfied breathing) Huh... huh... huh... huh... ..."
+    d "(满足的喘息)Huh...huh...huh...huh......"
 
 
 
     scene d_train_sha_1_20 with tstmgr
 
-    d "Thank you... [P]... ..."
+    d "谢谢你...[P]......"
 
 
 
-    d "Let’s go home... now... ..."
+    d "我们回家吧...现在......"
 
 
 
@@ -275,7 +275,7 @@ label D_train_sha_1:
 
     scene d_train_sha_1_22 with tstmgr
 
-    d "Wait, what are you doing?"
+    d "等等,你在干什么?"
 
 
 
@@ -285,19 +285,19 @@ label D_train_sha_1:
 
     scene d_train_sha_1_23 with tstmgr
 
-    "I took my dick out of my pants and put it on her tender butt."
+    "我从裤子里掏出我的鸡儿,放在她柔嫩的屁股上."
 
 
 
-    d "Are you... going to put your penis in my ass... here?"
+    d "你...是要把你的鸡儿塞进我的后门里...在这里?"
 
 
 
-    player "You are the one who exposed her expanded butt hole in front of me, girl. Now get ready for it..."
+    player "是你把大屁股在我面前露出来的,女孩.现在准备好..."
 
 
 
-    d "But, wait... ..."
+    d "但是,等等......"
 
 
 
@@ -307,15 +307,15 @@ label D_train_sha_1:
 
 
 
-    d "This is... so much bigger... than anal beads."
+    d "这...比肛珠...大多了."
 
 
 
-    player "Ah... shit... your ass is still so damn tight... ..."
+    player "Ah...shit...你的屁股还是他妈的那么紧......"
 
 
 
-    player "But at least... smoother than the last time."
+    player "但至少...比上次还要顺利."
 
 
 
@@ -325,23 +325,23 @@ label D_train_sha_1:
 
 
 
-    d "(Moaning with lust) Ahhh~~~ Ahhh~~~ Ahhhh~~~~"
+    d "(欲望的呻吟)Ahhh~~~Ahhh~~~Ahhhh~~~~"
 
 
 
-    d "What... are you thinking? People will find us!"
+    d "你...你在想什么?我们会被看到的!"
 
 
 
-    player "Don’t worry. No one will come to this alley at this time."
+    player "别担心.这个时候没有人会来这条巷子."
 
 
 
-    d "You can’t be sure of that!"
+    d "你不能保证!"
 
 
 
-    player "I will make it quick, Irene. Don’t panic~"
+    player "我会尽快的,艾琳.不要惊慌~"
 
 
 
@@ -352,11 +352,11 @@ label D_train_sha_1:
 
 
 
-    "Oh God... I’m fucking a highschool student in uniform and with her backpack on! I start to feel guilty about this."
+    "OhGod...我在操的是个穿着制服背着背包的高中生!我开始为此感到内疚."
 
 
 
-    "But at least it’s legally fine. I mean, she is over 18, so..."
+    "但至少在法律上是合法的.我是说,她已经18岁了..."
 
 
 
@@ -364,15 +364,15 @@ label D_train_sha_1:
 
 
 
-    d "Yes, yes... Keep messing with my ass!~~~~"
+    d "Yes,yes...继续搞我的屁股!~~~~"
 
 
 
-    player "Keep your voice low, Irene. Someone may really hear us."
+    player "小声点,艾琳.待会可能真被人听到了."
 
 
 
-    d "But... but... but... I just can't control~"
+    d "但是...但是...但是...我就是控制不了~"
 
 
 
@@ -382,7 +382,7 @@ label D_train_sha_1:
 
     scene d_train_sha_1_27 with tstmgr
 
-    player "I said, stop groaning so loud!"
+    player "我说,别那么大声地叫!"
 
 
 
@@ -392,21 +392,21 @@ label D_train_sha_1:
 
 
 
-    "I covered her mouth roughly to stop her voice, but it seemed to make her even more excited. I can feel her anus is contracting dramatically and squeezing my dick really hard."
+    "我粗暴地捂住她的嘴,不让她说话,但这似乎使她更加激动.我能感觉到她的肛门在剧烈地收缩,紧紧地挤压着我的老二."
 
 
 
-    "Yeah... this girl kinda likes to be mistreated... ..."
+    "Yeah...这个女孩有点喜欢被虐待......"
 
 
 
-    player "Shit, I, I’m cuming!"
+    player "Shit,我,我要射了!"
 
 
 
     scene d_train_sha_1_29 with tstmgr
 
-    d "Wait, I have to... ..."
+    d "等等,我......"
 
 
 
@@ -420,15 +420,15 @@ label D_train_sha_1:
 
 
 
-    d "Something hot is coming into my stomach!~~~~~~"
+    d "有东西烫到我的胃了!~~~~~~"
 
 
 
-    d "(Harsh breathing) Hah... Hahhh... ... Hahhh... ... ... ..."
+    d "(急促的呼吸)Hah...Hahhh......Hahhh............"
 
 
 
-    "Damn... the little, warm, moist butthole of a 18-year-old girl is really the best... I think I am going to enjoy the aftertaste of it for an entire week..."
+    "Damn...18岁女孩的小小,温暖,湿润的屁眼真的太棒了...我能回味一整个星期..."
 
 
 
@@ -440,23 +440,23 @@ label D_train_sha_1:
 
     scene d_train_sha_1_30 with tstmgr
 
-    d "You came... too much... inside..."
+    d "你...在里面...射的太多了..."
 
 
 
     scene d_train_sha_1_31 with tstmgr
 
-    d "It can’t stop leaking out~~"
+    d "不住的往外流~~"
 
 
 
-    player "Sorry about that..."
+    player "抱歉..."
 
 
 
     scene d_train_sha_1_30 with tstmgr
 
-    d "We are so lucky that no one saw us here..."
+    d "我们太幸运了,没有人发现我们..."
 
 
 
@@ -466,21 +466,21 @@ label D_train_sha_1:
 
 
 
-    d "On the second thought, it actually feels exciting to do such a thing outdoors."
+    d "再一想,在户外做这样的事情真的很令人兴奋."
 
 
 
-    d "It's like we are doing a prank. And I like pranks~"
+    d "就像我们在恶作剧一样.我喜欢恶作剧~"
 
 
 
     scene d_train_sha_1_34 with tstmgr
 
-    d "Maybe we should try it again sometime."
+    d "也许我们应该找个时间再试一次."
 
 
 
-    player "You really think of it that way?"
+    player "你真的这么想?"
 
 
 
@@ -490,11 +490,11 @@ label D_train_sha_1:
 
 
 
-    d "Let’s go home now! I haven’t eaten for the entire day and I am starving to death~"
+    d "我们现在回家吧!我一整天都没吃东西,快饿死了~"
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 

@@ -8,67 +8,67 @@ label F_love_8:
 
 
 
-    "*Doorbell ringing* Ding-dong... Ding-dong... ..."
+    "*门铃响起*叮咚......叮咚......"
 
 
 
-    a "Coming~"
+    a "来啦~"
 
 
 
     scene f_love_8_1 with dissolve
 
-    a "*Opened the door* Ah, Rachel?"
+    a "*开了门*啊，瑞秋?"
 
 
 
-    f "Hi, Vera... ..."
+    f "嗨，薇拉......"
 
 
 
-    a "It’s so good to see you. Is there anything I can help?"
+    a "见到你真好.有什么我可以帮忙的吗?"
 
 
 
-    f "A... Actually... ... I am here to confess."
+    f "实际上... ... 我是来忏悔的."
 
 
 
-    a "Confess? About what?"
+    a "忏悔?关于什么?"
 
 
 
     scene f_love_8_2 with tstmgr
 
-    f "It’s... about [P]... ..."
+    f "这是......关于[P]......"
 
 
 
-    a "[P]? Did he make you unhappy? Don’t worry, just tell me about it and I will let him apologize to you~"
+    a "[P]? 他让你不高兴了吗?别担心，只要告诉我这件事，我会让他向你道歉的~"
 
 
 
     scene f_love_8_3 with tstmgr
 
-    f "It’s not about that... ... It’s... ..."
+    f "不是这个问题......是......"
 
 
 
-    f "He actually... ... He has actually... ch... ch... chea... ..."
+    f "他实际.......他实际上已经......出......出......出......"
 
 
 
-    a "Hmmmm? Why are you nervous? Is everything okay?"
+    a "嗯?你为什么紧张?一切都好吗?"
 
 
 
     scene f_love_8_4 with tstmgr
 
-    f "Yeah, I mean, no, [P]... I... he... ..."
+    f "是的，我是说，不，[P]... 我...他... ..."
 
 
 
-    "And at this moment... ..."
+    "而在这一刻......"
 
 
 
@@ -76,35 +76,35 @@ label F_love_8:
 
     $ flashlight()
 
-    player "We are home~"
+    player "我们到家了~"
 
 
 
     scene f_love_8_6 with tstmgr
 
-    a "Ah~ [P], we were just talking about you."
+    a "啊~[P]，我们只是在谈论你."
 
 
 
-    player "Rachel? What are you doing here?"
+    player "瑞秋?你在这里做什么?"
 
 
 
-    a "She said she has something to tell me and it is about you~"
+    a "她说她有事情要告诉我，是关于你的~"
 
 
 
-    player "Oh, can I hear it too?"
+    player "哦，我也能听到吗?"
 
 
 
-    g "Ah~ Hello, Rachel, we have met in the bookstore before, do you still remember?~"
+    g "啊~你好，瑞秋，我们以前在书店见过，你还记得吗?"
 
 
 
     scene f_love_8_8 with tstmgr
 
-    f "Oh, yeah, hi, Uno... ..."
+    f "哦，是的，你好，乌诺......"
 
 
 
@@ -112,41 +112,41 @@ label F_love_8:
 
 
 
-    f "What are you... doing here? Why are you holding [P]’s arm?"
+    f "你......在这里做什么?你为什么抓着[P]的胳膊?"
 
 
 
-    g "Where else can I be? This is my home~"
+    g "我还能在哪里?这里是我的家~"
 
 
 
-    f "Your... your home?"
+    f "你的......你的家?"
 
 
 
     scene f_love_8_10 with tstmgr
 
-    g "And I hold [P]’s arm because [P] is my maste... ... I mean, my favorite person!~"
+    g "我抱着[P]的手臂，因为[P]是我的母亲.......我是说，我最喜欢的人！~"
 
 
 
-    f "(Oh, so Uno is [P]’s girlfriend, and Vera is the cheater?)"
+    f "（哦，所以乌诺是[P]的女朋友，而薇拉是骗子?)"
 
 
 
     scene f_love_8_9 with tstmgr
 
-    f "(Wuuuuuummmm... ... So Vera is the bad guy!)"
+    f "(Wuuuuummmm... ...所以薇拉是坏人！)"
 
 
 
     scene f_love_8_11 with tstmgr
 
-    f "*Frowning* ... ... ... ..."
+    f "*皱眉头*............"
 
 
 
-    f "(I’m going to tell Uno everything and if she wants, I will help her kick this adulterous couple’s asses!)"
+    f "（我要告诉乌诺一切，如果她愿意，我会帮她干爆这对奸夫淫妇的屁股！）"
 
 
 
@@ -158,7 +158,7 @@ label F_love_8:
 
     scene f_love_8_13 with tstmgr
 
-    g "Anyway, I’m going to have a shower now, see you guys later~"
+    g "先不说了，我现在要去洗个澡，回头见~"
 
 
 
@@ -166,23 +166,23 @@ label F_love_8:
 
 
 
-    player "(Uno really became much more outgoing than the first time I saw her...)"
+    player "（乌诺真的变得比我第一次见到她时更外向了......）"
 
 
 
     scene f_love_8_14 with tstmgr
 
-    g "Remember to come to me tonight, mast... ... [P], it’s time to make a new video~"
+    g "今晚记得来找我，桅子.......[P]，是时候制作一个新的视频了~"
 
 
 
-    player "I will~"
+    player "我会的~"
 
 
 
     scene f_love_8_15 with tstmgr
 
-    player "And before you go... ..."
+    player "你走之前... ..."
 
 
 
@@ -192,21 +192,21 @@ label F_love_8:
 
 
 
-    g "Huuuuhhh~~ wuuuuummmm~~ Master... ..."
+    g "Huuuuhhh~~ wuuuuummmm~~ 主人... ..."
 
 
 
-    g "... ... Rachel is... watching~"
+    g "... ... 瑞秋... 再看~"
 
 
 
     scene f_love_8_17 with tstmgr
 
-    player "Don’t worry about it, I think she wants to learn about how people kiss too~"
+    player "别担心，我想她也想了解人们如何接吻~"
 
 
 
-    g "Learn?... ... ... ..."
+    g "学习?... ... ... ..."
 
 
 
@@ -214,17 +214,17 @@ label F_love_8:
 
 
 
-    g "[P]... ... Master... ... so bad... wuummm~~~"
+    g "[P]... ... 主人... ... 真坏... wuummm~~~"
 
 
 
     scene f_love_8_18 with tstmgr
 
-    f "*Swallowing hard* ... ... ... ..."
+    f "*用力吞咽* ... ... ... ..."
 
 
 
-    a "It’s so not fair~~"
+    a "不公平~"
 
 
 
@@ -234,13 +234,13 @@ label F_love_8:
 
 
 
-    a "I want kiss too~"
+    a "我也想要亲亲~"
 
 
 
     scene f_love_8_20 with tstmgr
 
-    player "Come here, Vera... ..."
+    player "过来吧, 薇拉... ..."
 
 
 
@@ -250,87 +250,87 @@ label F_love_8:
 
     scene f_love_8_35 with tstmgr
 
-    f "What are you guys doing? Isn’t he cheating on you?"
+    f "你在搞什么?这难道不是出轨吗?"
 
 
 
     scene f_love_8_21 with tstmgr
 
-    player "Cheating?"
+    player "出轨?"
 
 
 
-    g "This is not cheating..."
+    g "这不是出轨..."
 
 
 
     scene f_love_8_22 with tstmgr
 
-    a "This is... sharing~"
+    a "这是分享~"
 
 
 
     scene f_love_8_23 with tstmgr
 
-    a "We are willing to share [P] with each other, because... ..."
+    a "我们愿意分享 [P] , 因为... ..."
 
 
 
     scene f_love_8_24 with tstmgr
 
-    g "[P] is our master~"
+    g "[P]是我们的主人~"
 
 
 
     scene f_love_8_25 with tstmgr
 
-    a "That was not what I was trying to say!"
+    a "这不是我想说的！"
 
 
 
     scene f_love_8_26 with tstmgr
 
-    g "Oh, you were not? Sorry... ..."
+    g "哦，你不是吗?对不起......."
 
 
 
     scene f_love_8_27 with tstmgr
 
-    a "Cough, cough, again, we are willing to share [P] together because... ..."
+    a "咳，咳，还是那句话，我们愿意一起分享[P]，因为......"
 
 
 
     scene f_love_8_28 with tstmgr
 
-    g "We all love him and [P] loves us too~"
+    g "我们都爱他，[P]也爱我们~"
 
 
 
     scene f_love_8_29 with tstmgr
 
-    a "That’s right!"
+    a "没错!"
 
 
 
     scene f_love_8_30 with tstmgr
 
-    player "Babes... ..."
+    player "宝贝们... ..."
 
 
 
     scene f_love_8_36 with tstmgr
 
-    f "Oh my... ... This is crazy! No one has ever told me that a man can love multiple women at the same time!"
+    f "哦，我的.......这真是太疯狂了! 从来没有人告诉我，一个男人可以同时爱上多个女人！"
 
 
 
     scene f_love_8_31 with tstmgr
 
-    player "Actually the vast majority of people can’t accept this kind of thing, but we are kinda... special."
+    player "实际上，绝大多数人都不能接受这种事情，但我们有点......特殊."
 
 
 
-    f "Are you okay to share Vera and Uno’s love with other men?"
+    f "你可以和其他男人分享薇拉和乌诺的爱情吗?"
 
 
 
@@ -342,29 +342,29 @@ label F_love_8:
 
     scene f_love_8_37 with tstmgr
 
-    f "Oh, I get it, only a man can love multiple women but a woman can’t love multiple men!"
+    f "哦，我明白了，只有男人可以爱多个女人，但女人不能爱多个男人！"
 
 
 
     scene f_love_8_32 with tstmgr
 
-    player "No no no I don’t think you get it. This is definitely not a man’s prerogative. There must be some people who are okay with polyandry, but... ..."
+    player "No no no我认为你不明白.这绝对不是一个男人的特权.一定有一些人可以接受一夫多妻制，但是......"
 
 
 
     scene f_love_8_33 with tstmgr
 
-    player "I’m not. Unlike my girls, I am a selfish man. I don’t want to share my treasures with any other man."
+    player "我不是.与我的女孩们不同，我是一个自私的人.我不想与任何其他男人分享我的宝藏."
 
 
 
     scene f_love_8_34 with tstmgr
 
-    a "Humph~ That’s a good answer~"
+    a "Humph~ 好答案~"
 
 
 
-    g "Master is the best~"
+    g "主人最棒了~"
 
 
 
@@ -376,17 +376,16 @@ label F_love_8:
 
     scene f_love_8_39 with tstmgr
 
-    f "Treasures... ..."
+    f "宝藏... ..."
 
 
 
-    f "(I feel envy at Vera and Uno when he said they are his treasures... ...)"
-
+    f "（当薇拉和乌诺说他们是他的珍宝时，我对她们感到羡慕......）"
 
 
     scene f_love_8_40 with tstmgr
 
-    f "(Will I become someone’s treasure someday too?)"
+    f "（有一天我也会成为别人的宝藏吗）"
 
 
 
@@ -396,25 +395,25 @@ label F_love_8:
 
     scene f_love_8_41 with tstmgr
 
-    f "Sorry for interrupting you guys. I’m leaving now... ..."
+    f "对不起，打扰你们了.我现在要走了......"
 
 
 
-    a "Hmmmmm? Don’t you have something to tell me about [P]?"
+    a "嗯嗯?你没有关于[P]的东西要告诉我吗?"
 
 
 
-    f "Not anymore... ..."
+    f "没了... ..."
 
 
 
-    f "Bye, guys... ... ... ..."
+    f "Bye, 大家... ... ... ..."
 
 
 
     scene f_love_8_42 with tstmgr
 
-    "Rachel left the house..."
+    "瑞秋离开了房子......"
 
 
 
@@ -424,17 +423,17 @@ label F_love_8:
 
     scene f_love_8_43 with tstmgr
 
-    a "That girl... seems to be in love with you too."
+    a "那个女孩......似乎也爱上了你."
 
 
 
-    player "Huh? How do you know?"
+    player "Huh? 你怎么知道?"
 
 
 
     scene f_love_8_44 with tstmgr
 
-    a "Because... ..."
+    a "因为... ..."
 
 
 
@@ -450,35 +449,35 @@ label F_love_8:
 
     scene f_love_5_37 with tstmgr
 
-    a "Why would... ... oh no... ..."
+    a "为什么... ... oh no... ..."
 
 
 
     scene f_daily6_5 with flashback
 
-    f "So... would you mind if I ask... ..."
+    f "那么......你是否介意我问一下......"
 
 
 
     scene f_daily6_6 with tstmgr
 
-    f "What you did with [P] that day, was that... ... sex? Were you having sex with him?"
+    f "你那天和[P]做的事，是......性吗?你和他发生了关系吗?"
 
 
 
     scene f_love_8_1 with flashback
 
-    f "A... Actually... ... I am here to confess."
+    f "实际上... ... 我是来忏悔的."
 
 
 
-    a "Confess? About what?"
+    a "忏悔? 关于什么?"
 
 
 
     scene f_love_8_2 with tstmgr
 
-    f "It’s... about [P]... ..."
+    f "这是......关于[P]......"
 
 
 
@@ -488,27 +487,27 @@ label F_love_8:
 
 
 
-    a "I think she cares about you very much... ..."
+    a "我认为她非常关心你......."
 
 
 
     scene f_love_8_45 with tstmgr
 
-    player "Is that so?... ..."
+    player "这样吗?... ..."
 
 
 
-    player "But... I don’t think she even knows what love means yet. That girl is just too simple."
+    player "但是...... 我认为她甚至还不知道爱情的含义.那个女孩实在是太单纯了."
 
 
 
     scene f_love_8_46 with tstmgr
 
-    g "So what do you think about her?"
+    g "那么你对她有什么看法?"
 
 
 
-    player "I don’t know, she is cute and she is a good friend, but... I don’t know... ..."
+    player "我不知道，她很可爱，她是个好朋友，但是.......我不知道......"
 
 
 
@@ -518,7 +517,7 @@ label F_love_8:
 
     scene f_love_8_47 with tstmgr
 
-    g "But will you feel bad if you know that she is dating another boy?"
+    g "但是，如果你知道她在和另一个男孩约会，你会感到难过吗?"
 
 
 
@@ -528,7 +527,7 @@ label F_love_8:
 
 
 
-    player "Yeah... ... I think I will feel bad."
+    player "确实... ... 我应该会感到难过."
 
 
 
@@ -544,27 +543,27 @@ label F_love_8:
 
     scene f_love_8_50 with tstmgr
 
-    g "What do you say of making her a part of your harem too, master?"
+    g "主人，让她也成为你后宫的一部分，你觉得怎么样?"
 
 
 
     scene f_love_8_51 with tstmgr
 
-    a "We can... help~"
+    a "我们可以... 帮忙哦~"
 
 
 
     scene f_love_8_52 with tstmgr
 
-    player "Babes... ..."
+    player "宝贝们... ..."
 
 
 
-    player "What are you going to do?... ..."
+    player "你们准备做什么?... ..."
 
 
 
-    g "About that... ..."
+    g "关于这个... ..."
 
 
 
@@ -572,7 +571,7 @@ label F_love_8:
 
     "... ... ... ..."
 
-    "*To be continued in future updates.*"
+    "*将在今后的更新中继续进行.*"
 
     stop music fadeout 1.0
 

@@ -5,195 +5,195 @@ label A_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "Vera has officially moved into my house and the changes are already noticable. Although I am not living there, I will get a lot of opportunities to get closer with her."
+    narrator "薇拉搬到那所房子已经有一段时间了."
 
-    narrator "Our relationship has been improved a lot during these days. She has basically walked out of the unpleasant memory. Now she takes me as a friend. And in fact, I may be her only friend in this city."
+    narrator "这几天我们的关系改善了很多.她基本上已经走出了那段不愉快的回忆.现在她把我当作朋友.事实上,我可能是她在这个城市里唯一的朋友."
 
-    narrator "In fact, I think it's about time I pay her a visit."
+    narrator "我想现在是时候去找她了."
 
-    narrator "I know she has to work through Monday to Saturday, so I'll wait until Sunday."
+    narrator "我知道她星期一到星期六都要工作,所以我要等到星期天."
 
     narrator "... ... ... ..."
 
-    narrator "Sunday morning."
+    narrator "星期天早晨."
 
     narrator "... ... ... ..."
 
     scene home_background with tstmgr
 
-    narrator "I am here at the house gate."
+    narrator "我现在就在房子门口."
 
-    narrator "Actually, this is my first time visiting this house. My dad has owned it for over three years, but Vera is the first to actually live in it."
+    narrator "事实上,这是我第一次来到这所房子前.虽然我爸爸已经买了三年多了,但在薇拉之前没有人真正住过这所房子."
 
-    narrator "Obviously, my dad did not renovate this house. It looks a little bit out-of-style from outside, but I can take that."
+    narrator "很明显,我爸爸没有翻修这所房子.从外面看有点过时,但还可以接受."
 
     scene home_frontyard_day_background with tstmgr
 
-    narrator "I walked up to the front door and rang the doorbell."
+    narrator "我来到前院,按了门铃."
 
-    narrator "Ding-dong."
+    narrator "叮咚,叮咚,叮咚."
 
-    narrator "Ding-dong, ding-dong."
-
-    narrator "... ... ... ..."
-
-    narrator "Emm... She is not at home?"
-
-    narrator "That's weird. Where else would she be on a Sunday morning?"
-
-    narrator "I pressed the button for several more times, but still, no one answers."
+    narrator "叮咚,叮咚,叮咚."
 
     narrator "... ... ... ..."
 
-    narrator "Well, this is strange."
+    narrator "Emm...她不在家?"
 
-    narrator "I do have a duplicate key. Should I enter the house myself?"
+    narrator "这真奇怪.星期天早上她还会在哪里?"
 
-    narrator "But... is it proper to get in the house without her permission?"
+    narrator "我又按了几次,还是没有人回应."
+
+    narrator "... ... ... ..."
+
+    narrator "Well,这有点奇怪."
+
+    narrator "我有一把备用钥匙.我应该自己进屋吗?"
+
+    narrator "但是...没有得到她的允许就进屋合适吗?"
 
     scene void with tstmgr
 
-    narrator "Perhaps I should make her a phone call to figure out what happens."
+    narrator "也许我应该给她打个电话,弄清楚发生了什么事."
 
     narrator "... ... ... ..."
 
     narrator "Du... Du... Du... Du..."
 
-    narrator "She didn't answer the phone, either."
+    narrator "她没有接电话."
 
-    narrator "I started to get worried about her. What if she is now in the house and having some trouble, for example, a carbon monoxide poisoning?"
+    narrator "我开始担心她了.如果她现在在家里遇到了一些麻烦,比如一氧化碳中毒怎么办?"
 
-    narrator "Yeah, I should definitely go inside and check things out."
+    narrator "我一定要进去看看."
 
-    narrator "Thus I opened the door."
+    narrator "所以我打开了门."
 
     scene home_livingroom_day_background with tstmgr
 
-    narrator "Well, the furnishings and the decorations inside the house are clean and simple. Vera seems like a nice housekeeper."
+    narrator "Well,房子里的家具和装饰品干净而简单.薇拉看起来是个不错的管家."
 
     narrator "... ... ... ..."
 
-    narrator ".... What was that noise?"
+    narrator "...我听到什么声音了吗?"
 
-    narrator "It sounds like... flowing water."
+    narrator "这听起来像...流水."
 
-    narrator "I suddenly realized that the noise was coming from the bathroom."
+    narrator "我突然意识到这个声音来自浴室."
 
-    player "(??? She is at the shower?)"
+    player "(???她在洗澡?)"
 
-    player "(No wonder she didn't hear me knocking the door.)"
+    player "(难怪她听不见我敲门.)"
 
-    narrator "I approached bathroom door. Yes, someone is having a bath right now."
+    narrator "我走到浴室门口.是的,有人正在洗澡."
 
     narrator "... ... ... ..."
 
-    narrator "Well then, here comes the hard question."
+    narrator "那么,问题来了."
 
-    narrator "What should I do in this situation? Shall I take a peek or not?"
+    narrator "在这种情况下我该怎么办?我该不该偷看一眼?"
 
     menu:
-        "Take a peek":
-            narrator "A virtuous man like me should never do such thing, but... ..."
+        "偷看":
+            narrator "像我这样有美德的人决不会偷看这样的事.这是不道德的.但是..."
 
-            narrator "Sorry, Vera. I just can't fight it right now."
+            narrator "对不起,薇拉.我就是忍不住."
 
-            narrator "I quietly cracked the door open just a bit."
+            narrator "我轻轻地把门打开了一条小缝."
 
             scene a_love2_1 with tstmgr
 
-            narrator "Oh my God, what am I looking at?"
+            narrator "天啊,我看到什么了?"
 
-            narrator "Holy shit...I can't pull my eyes away. The way the water bounces off her supple tits...the water glistening against her golden wheat-colored skin...flowing along the contours of her gorgeous curves..."
+            narrator "我被她完美的身材,迷人的胸部和小麦色的皮肤惊呆了.天哪,她一定能成为电影明星."
 
-            narrator "That body worths a city..."
+            narrator "那对奶子真是千金不换..."
 
             scene a_love2_2 with tstmgr
 
-            narrator "She suddenly opened her eyes and sighed."
+            narrator "她突然睁开眼睛,叹了口气."
 
-            a "It has been such a long week..."
+            a "这是如此漫长的一周..."
 
-            narrator "Good, She didn't notice me."
+            narrator "很好,她没注意到我."
 
             a "... ... ... ..."
 
             scene a_love2_3 with tstmgr
 
-            a "Are they getting bigger again......"
+            a "是不是又变大了......"
 
-            narrator "She seemed to shift her attention on her breasts."
+            narrator "她似乎把注意力转移到胸上."
 
             scene a_love2_4 with tstmgr
 
-            a "I've felt my bra become tighter recently."
+            a "我觉得我的胸罩最近变紧了."
 
-            a "If I had smaller breasts, I may not be so tired at work. They've been making my shoulders so sore."
+            a "如果我有一个较小的胸,我工作可能就没那么累了.它们让我的肩膀负担太重了."
 
             scene a_love2_5 with tstmgr
 
-            a "I've noticed they have been drawing a lot of attention too..."
+            a "我知道客人的眼睛一直盯着它们."
 
-            a "Sometimes... I even see people staring...the look in their eyes is so...nasty"
+            a "有时...他们用一种下流的眼神..."
 
-            a "And people always hit my breasts by arms on the bus or metro, pretend like it was a coincidence..."
+            a "在公共汽车或地铁上,人们总是用胳膊撞击我的胸部,假装这是一个巧合..."
 
             scene a_love2_6 with tstmgr
 
             a "... ... ... ..."
 
-            a "Even [P.name] would peek at my breasts sometimes, too..."
+            a "我注意到[P.name]有时也会偷看我的胸部..."
 
-            a "Does... does he like them?"
+            a "他...他喜欢吗?"
 
             a "Eh... ..."
 
             scene a_love2_7 with tstmgr
 
-            a "Nipples... are getting harder..."
+            a "乳头...越来越硬了..."
 
-            a "Thinking of [P.name]...excites me?"
+            a "为什么?...我很兴奋吗?"
 
             scene a_love2_8 with tstmgr
 
-            a "You should be ashamed, Vera. You are so dirty..."
+            a "你应该感到羞耻,薇拉.你真不要脸..."
 
             a "... ... ... ..."
 
             scene a_love2_9 with tstmgr
 
-            a "Maybe... I can touch it for a second... only one second."
+            a "也许...我可以摸一下...就一秒钟."
 
-            narrator "She pinches one of her nipples."
+            narrator "她捏了一下自己的一个乳头."
 
-            a "Nnngh... I shouldn't... but it feels...mmmmm...nice. Ah! When did I become so... erotic?..."
+            a "不...我不应该...我什么时候变得这么...好色了?..."
 
-            a "I must be out of my mind. I have bathed for too long."
+            a "我一定是疯了.我洗澡太久了."
 
-            a "I should... get out..."
+            a "我应该...出去了..."
 
-            narrator "Ah, damn, I thought she was going to masturbate in the bathtub, but her self-control is way too strong."
+            narrator "Ah,妈的,我还以为她要在浴缸里自慰呢.但她的自制力太强了."
 
-            narrator "I'd better leave before she spots me."
+            narrator "我最好在她出浴缸之前离开."
 
             scene void with tstmgr
 
-            narrator "I carefully closed the door, and then quickly left the house."
+            narrator "我小心翼翼地关上门,然后迅速离开了房子."
 
             narrator "... ... ... ..."
-        "Don't take a peek":
+        "不要偷看":
 
 
-            narrator "How could that evil thought come into my mind?"
+            narrator "我怎么会有那种邪恶的想法呢?"
 
-            player "(I am a man of virtue. How could I peek at a bathing girl? That is not virtuous at all)."
+            player "(我是一个有美德的人.我怎么能偷看一个正在洗澡的女孩?这一点也不高尚)."
 
-            player "(I should leave before she comes out)."
+            player "(我应该在她出来之前离开)."
 
-            narrator "I left the house quietly."
+            narrator "我悄悄地离开了房子."
 
             narrator "... ... ... ..."
 
-            narrator "After that, I was happy all day long because I knew I have overcome my dark side. Now feel I'm a much more virtuous man."
+            narrator "从那以后,我一整天都很开心,因为我知道我已经克服了我的黑暗面.现在觉得我是一个更有美德的人."
 
     stop music fadeout 1.0
 

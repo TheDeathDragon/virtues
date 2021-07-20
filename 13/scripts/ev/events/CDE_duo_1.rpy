@@ -3,15 +3,15 @@ label CDE_duo_1:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is in Theodora and Irene’s perspective*"
+    "*下面的情节是狄奥多拉和艾琳的视角*"
 
 
 
-    "Theodora came to her mother’s mansion this evening since [P] said he had something urgent to deal with and couldn’t stay with her for tonight."
+    "狄奥多拉今天晚上在她母亲的别墅,因为[P]说他有急事要处理,今晚不能陪她."
 
 
 
-    "And she is having a bath with Irene right now... ..."
+    "她现在正和艾琳一起洗澡呢......"
 
 
 
@@ -21,7 +21,7 @@ label CDE_duo_1:
 
 
 
-    d "You know mommy is in love with someone, right?"
+    d "你知道妈妈爱上某人了吧?"
 
 
 
@@ -33,13 +33,13 @@ label CDE_duo_1:
 
     scene cde_duo_1_3 with tstmgr
 
-    c "Hmmmmmm... Yeah, I can sense it."
+    c "Hmmmmmm...Yeah,我能察觉到."
 
 
 
     scene cde_duo_1_4 with tstmgr
 
-    d "Are we getting a new dad?"
+    d "我们要有新爸爸了吗?"
 
 
 
@@ -49,31 +49,31 @@ label CDE_duo_1:
 
 
 
-    c "That’s... not really a bad thing, right? Mom can’t be alone forever."
+    c "这...也不是坏事,对吧?妈妈不可能永远一个人."
 
 
 
     scene cde_duo_1_6 with tstmgr
 
-    d "We don’t know that yet. What if it is a bad guy?"
+    d "我们还不知道.如果是个坏人呢?"
 
 
 
     scene cde_duo_1_7 with tstmgr
 
-    c "Haha, very funny."
+    c "Haha,很好笑."
 
 
 
     scene cde_duo_1_8 with tstmgr
 
-    d "What? You are not worried about that?"
+    d "什么?你不担心这个?"
 
 
 
     scene cde_duo_1_9 with tstmgr
 
-    c "A highschool girl is worrying about a successful business lady’s love life, how funny~"
+    c "一个高中女孩正在担心一个成功的商业女士的爱情生活,多么有趣~"
 
 
 
@@ -83,85 +83,85 @@ label CDE_duo_1:
 
 
 
-    c "You should have some faith in mom, she is the smartest woman I know, she won’t pick the wrong guy."
+    c "你应该相信妈妈,她是我认识的最聪明的女人,她不会选错人的."
 
 
 
     scene cde_duo_1_9 with tstmgr
 
-    d "Of course you would say that, you don’t care about mommy enough like I do. You don’t even live with her anymore!"
+    d "你当然会这么说,你不像我那么关心妈妈.你都不和她住一起了!"
 
 
 
     scene cde_duo_1_11 with tstmgr
 
-    c "Oh yeah, you love mom so much that you want her to babysit you forever. You must be the best daughter on this fucking planet."
+    c "Ohyeah,你太爱妈妈了,想让她永远照顾你.你一定是这个星球上最好的女儿."
 
 
 
     scene cde_duo_1_12 with tstmgr
 
-    d "Ahhhhhh!!! I hate you!"
+    d "Ahhhhhh!!!我讨厌你!"
 
 
 
     scene void with tstmgr
 
-    "Suddenly, someone opened the door from outside..."
+    "突然,有人从外面打开了门..."
 
 
 
     scene cde_duo_1_13 with tstmgr
 
-    e "Hi, angels~ I need to go out for a business trip right now and I will come back tomorrow~"
+    e "Hi,天使们~我现在需要出差,明天回来~"
 
 
 
     scene cde_duo_1_14 with tstmgr
 
-    e "Theo, could you please stay here tonight and take care of your little sister?"
+    e "西奥,你今晚能留下来照顾你的小妹妹吗?"
 
 
 
     scene cde_duo_1_15 with tstmgr
 
-    e "Hmmmm... ... What are you two doing?"
+    e "Hmmmm......你们俩在干什么?"
 
 
 
     scene cde_duo_1_16 with tstmgr
 
-    c "Eh... we are just... playing... ..."
+    c "Eh...我们只是...在玩......"
 
 
 
-    e "So... ... can I count on you for tonight, Theo?"
+    e "所以...我今晚能指望你吗,西奥?"
 
 
 
-    c "Yeah, of course... ..."
+    c "Yeah,当然......"
 
 
 
     scene cde_duo_1_13 with tstmgr
 
-    e "Oh I’m so happy to hear that, honey~ See you two tomorrow then~"
+    e "Oh听到这个我真高兴,亲爱的们,明天见~"
 
 
 
     scene cde_duo_1_14 with tstmgr
 
-    e "Be nice, Irene, don’t stay up too late tonight."
+    e "艾琳,乖点,今晚别熬夜了."
 
 
 
     scene cde_duo_1_16 with tstmgr
 
-    d "Oh... okay, mommy... ..."
+    d "Oh...okay,妈咪......"
 
 
 
-    "Elisa then closed the door and prepared to leave the house..."
+    "伊莉莎关上门准备离开..."
 
 
 
@@ -171,23 +171,23 @@ label CDE_duo_1:
 
     scene cde_duo_1_17 with tstmgr
 
-    d "See, women in love are all silly as hell. She doesn’t even have the intelligence to come up with a better excuse anymore! Business trip at late night, really?"
+    d "恋爱中的女人都傻得要命.她甚至没有脑子去想出一个更好的借口了!深夜出差,认真的?"
 
 
 
     scene cde_duo_1_18 with tstmgr
 
-    c "I... ... don’t know... ..."
+    c "我...也不知道......"
 
 
 
     scene cde_duo_1_19 with tstmgr
 
-    d "Mommy in such a silly mode will definitely be fooled by bad guys!"
+    d "妈妈在这种愚蠢的状态下肯定会被坏人欺负!"
 
 
 
-    c "But... ..."
+    c "但是......"
 
 
 
@@ -197,13 +197,13 @@ label CDE_duo_1:
 
 
 
-    c "Yeah, maybe you are right..."
+    c "Yeah,也许你是对的..."
 
 
 
     scene cde_duo_1_21 with tstmgr
 
-    d "I think we should follow her and see where she goes. What do you think?"
+    d "我觉得我们应该跟着她,看看她去哪了.你觉得呢?"
 
 
 
@@ -213,7 +213,7 @@ label CDE_duo_1:
 
     scene cde_duo_1_22 with tstmgr
 
-    c "Okay then, let’s go... ..."
+    c "那好吧,我们走吧......"
 
 
 
@@ -223,73 +223,73 @@ label CDE_duo_1:
 
 
 
-    "The two girls soon get dressed up and managed to track Elisa’s trail to the suburb area."
+    "两个女孩很快就打扮好,并设法跟着伊莉莎,来到郊区."
 
 
 
-    "They watched Elisa walking into the dark forest... ..."
+    "她们看着伊莉莎走进了黑暗的森林......"
 
 
 
     scene cde_duo_1_23 with tstmgr
 
-    c "O... ...kay, this is getting creepy. What is she doing in a suburban forest at such a late night?"
+    c "O......kay,这太诡异了.这么晚了,她在郊区的森林里干什么?"
 
 
 
-    d "She is dating... Tarzan?"
+    d "她在和...泰山约会?"
 
 
 
-    c "More like she is hosting an evil black magic ritual... ..."
+    c "更像是她在主持一个邪恶的黑魔法仪式......"
 
 
 
     scene cde_duo_1_25 with tstmgr
 
-    d "For real?"
+    d "认真的?"
 
 
 
-    c "Of course it's not real, you are as silly as mom now."
+    c "当然不是真的,你现在跟妈妈一样傻."
 
 
 
     scene cde_duo_1_24 with tstmgr
 
-    c "let’s just... go home for now."
+    c "我们就...先回家吧."
 
 
 
     scene cde_duo_1_25 with tstmgr
 
-    d "What? Wait, we are not going in?"
+    d "什么?等等,我们不进去?"
 
 
 
     scene cde_duo_1_26 with tstmgr
 
-    c "I’m not going into a forest at such a late night. We will lose the way in less than a minute."
+    c "我不会在这么晚的时候走进森林.不到一分钟我们就会迷路."
 
 
 
     scene cde_duo_1_27 with tstmgr
 
-    d "But... mommy... ..."
+    d "但...妈妈......"
 
 
 
-    c "Don't worry about her, she chooses to go in this forest herself so she must knows a way out."
+    c "别担心她,她选择自己去这片森林所以她一定知道出去的路."
 
 
 
     scene cde_duo_1_28 with tstmgr
 
-    c "Or... maybe she doesn’t... ..."
+    c "或者...也许她不......"
 
 
 
-    c "But anyway, there is nothing we can do for now. Let’s go home and wait for another chance. She won’t be able to hide her secret for long since now we have realized that she has a secret."
+    c "但无论如何,我们现在无能为力.我们回家吧,等待下一次机会.她不会永远地隐藏她的秘密,因为我们现在已经意识到她有一个秘密."
 
 
 

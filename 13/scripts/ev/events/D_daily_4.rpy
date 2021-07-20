@@ -3,55 +3,55 @@ label D_daily_4:
     scene void with tstmgr
     play music happy
 
-    narrator "During today's tutor lesson."
+    narrator "在今天的家教课上."
 
     narrator "... ... ... ..."
 
     scene rcsj_d13 with tstmgr
 
-    player "Have you considered which college you want to go?"
+    player "你考虑过要上哪所大学吗?"
 
     scene rcsj_d14 with tstmgr
 
-    d "Don't chat while doing my homework... That's what you said, remember?"
+    d "不要一边做作业一边聊天...你就是这么说的,记得吗?"
 
-    narrator "Oh, crap..."
+    narrator "Oh,废话..."
 
-    player "Eh... Yeah, that's right! That was just a test for you. And good work! You did well in reaction!"
+    player "Eh...Yeah,是的!我只是想试试你.干的不错!你的反应很好!"
 
     scene rcsj_d16 with tstmgr
 
-    d "...Ha ha... You are funny."
+    d "...Haha...你真有趣."
 
     scene rcsj_d13 with tstmgr
 
-    d "Honestly, I have never thought about the future. But I think I'm going to apply your college anyway."
+    d "说实话,我从来没有想过未来.但我还是想申请你们的大学."
 
     scene rcsj_d16 with tstmgr
 
-    d "Because it's near my home."
+    d "因为它离我家很近."
 
-    d "And we can have the same courses!"
+    d "我们可以上同样的课!"
 
-    player "Yeah, that sounds good."
+    player "Yeah,听起来不错."
 
     scene rcsj_d14 with tstmgr
 
-    d "Ah... But you are going to graduate soon after that..."
+    d "Ah...但是你很快就要毕业了..."
 
     scene rcsj_d13 with tstmgr
 
-    d "Life is so boring... "
+    d "生活太无聊了..."
 
-    player "Yes, it surely is. "
+    player "是的,的确."
 
-    player "And you still have a lot of work to do if you want to be in the same college with me."
+    player "如果你想和我上同一所大学,你还有很多事要做."
 
-    player "I mean, your math grade is still below the average. You should definitely spend more time on it."
+    player "我是说,你的数学成绩仍然低于平均水平.你绝对应该在这上面多花些时间."
 
     scene rcsj_d16 with tstmgr
 
-    d "Yes, yes, whatever. You sound like my grandpa."
+    d "是的,是的,随便了.你说话像我爷爷."
 
     scene void with tstmgr
 

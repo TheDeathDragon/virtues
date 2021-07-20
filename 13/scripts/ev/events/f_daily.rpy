@@ -3,57 +3,57 @@ label F_daily_1:
     scene park_woodpath_day_background with tstmgr
     play music happy
 
-    narrator "I have started doing exercise in the park for several days. I can feel that my strength is getting back. "
+    narrator "我已经在公园里锻炼了好几天了.我能感觉到我的体能正在恢复."
 
-    narrator "And today, I encountered with Rachel again. It seems like that she runs in this park every several days."
+    narrator "今天,我又遇到了瑞秋.她好像每隔几天就在这个公园里跑步."
 
-    player "Hi, Rachel."
+    player "Hi,瑞秋."
 
     scene f_wood_smile with tstmgr
 
-    f "Oh, hi, [P]. What are you doing here?"
+    f "Oh,hi,[P].你在这里干什么?"
 
-    player "Eh... I'm running... you know, just like you."
+    player "Eh...跑步...你知道,就像你一样."
 
     scene f_wood_smile2 with tstmgr
 
-    f "It's good to see you doing this. Runners are the best."
+    f "很高兴看到你这么做.跑步有益健康."
 
-    f "Just be careful, don't push yourself too hard. I don't want you to get the sunstroke again."
+    f "小心点,别把自己逼得太紧.我不想让你再中暑."
 
-    player "Can you... stop saying that? That's kind of embarrassing."
+    player "你能...别说那个吗?有点尴尬."
 
     scene f_wood_normal with tstmgr
 
-    f "Sorry, sorry. My fault."
+    f "对不起,对不起.我的错."
 
     scene f_wood_frown with tstmgr
 
-    f "People always say that I'm not good at making conversation... "
+    f "人们总是说我不擅长交谈..."
 
-    f "Please pardon me if I offend you somehow."
+    f "如果我冒犯了你,请原谅我."
 
-    player "Nah, you are fine. Being straightforwardly is never a bad thing. "
+    player "Nah,你很好.坦率从来都不是坏事."
 
     scene f_wood_smile with tstmgr
 
-    f "Thank you..."
+    f "谢谢你..."
 
     f "... ... ... ..."
 
     scene f_wood_smile2 with tstmgr
 
-    f "Do you want to join me? We can run together."
+    f "你想和我一起吗?我们可以一起跑步."
 
-    player "Oh, eh, yes, I'd love to."
+    player "Oh,eh,是的,我很乐意."
 
-    player "Just don't go too fast..."
+    player "只是不要跑的得太快..."
 
     scene park_woodpath_day_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time with Rachel in the park..."
+    narrator "我和瑞秋在公园里呆了一段时间..."
 
     stop music fadeout 1.0
 

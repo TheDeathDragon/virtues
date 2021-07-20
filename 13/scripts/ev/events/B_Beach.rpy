@@ -4,191 +4,191 @@ label B_Beach:
     scene map_day with dissolve
     play music happy
 
-    narrator "What a sunny weekend! I should ask Senning out for another beach trip."
+    narrator "多么晴朗的周末啊!我应该约森柠再去一次海滩旅行."
 
     narrator "... ... ... ..."
 
-    player "(Speaking on the phone) Hello, Senning, do you have time today?"
+    player "(打电话)你好,森柠,你今天有空吗?"
 
-    b "Today? I don't have many things to do. What's your plan?"
+    b "今天?我没有很多事情要做.你想做什么?"
 
-    player "Let's go to beeeeeeeach!"
+    player "让我们-去海滩吧!!!!"
 
-    player "I want to see you with a swiiiiiiiiiiimsuit on again!"
+    player "我想再次看到你穿泳衣!!!!"
 
-    b "You know you sound like a freak, right?"
+    b "你知道你听起来像个怪人,对吧?"
 
-    player "Oh, eh, I am just kinda excited."
+    player "Oh,eh,我只是有点兴奋."
 
-    player "Anyway, you coming? Today is really a good day for a beach trip."
+    player "无论如何,你要来吗?今天真是去海滩旅行的好日子."
 
     b "... ... ... ..."
 
-    b "Alright, let's go."
+    b "好吧,我们走."
 
-    player "Awesome! I'll go pick you up."
+    player "太棒了!我去接你."
 
-    narrator "I drove to her apartment and picked her up, then we went to the beach together."
+    narrator "我开车去她的公寓接她,然后我们一起去了海滩."
 
-    narrator "The weather is nice today with sunshine and moderate temperature. And there was no traffic problem at all. Everything seems wonderful."
+    narrator "今天天气很好,阳光明媚,温度适中.而且根本没有交通问题.一切都那么美好的."
 
     scene zmxd_beach_b1 with tstmgr
 
-    player "Don't you want to go swimming?"
+    player "你不想去游泳吗?"
 
     scene zmxd_beach_b2 with tstmgr
 
-    b "I can't swim. I always want to learn it, but I was scared every time when I got into water."
+    b "我不会游泳.我一直想学,但是每次下水我都很害怕."
 
-    player "Perhaps it was because you did not have a good teacher?"
+    player "也许是因为你没有一个好老师?"
 
-    b "Maybe you are right."
+    b "也许你是对的."
 
     scene zmxd_beach_b1 with tstmgr
 
-    b "So... are you willing to teach me?"
+    b "所以...你愿意教我吗?"
 
-    player "Well, I really would like to teach you that, but I'm not a good swimmer, either."
+    player "嗯,我真的很想教你,但我也不擅长游泳."
 
-    player "But I do know a girl who is good at swimming. I can introduce her to you someday. I'm sure she would be willing to teach you."
+    player "但是我认识一个擅长游泳的女孩.有一天我可以把她介绍给你.我肯定她会乐意教你的."
 
-    b "Really? That will be great."
+    b "真的吗?那太好了."
 
-    narrator "The girl I was talking about is Theodora. Although she always seems cold to me, she is actually friendly to everyone else. Maybe I should set a time to let them meet once."
+    narrator "我说的女孩是狄奥多拉.虽然她在我看来总是很冷淡,但实际上她对每个人都很友好.也许我应该定个时间让她们见一次面."
 
     narrator "... ... ... ..."
 
     scene zmxd_beach_b3 with tstmgr
 
-    b "Let's have a race. Whoever reaches the tree over there shall win, and the loser has to accept one request from the winner."
+    b "我们来赛跑吧.到达那边那棵树的人就是赢家,输家必须接受赢家的一个请求."
 
-    narrator "Wait, what?"
+    narrator "等等,什么?"
 
     scene zmxd_beach_b4 with tstmgr
 
-    narrator "She suddenly started running to that tree right after she finished her words. That's a false start!"
+    narrator "话音刚落,她就突然向那棵树跑去.这是一个错误的开始!"
 
-    narrator "Cheater! How could she do that!"
+    narrator "骗子!她怎么能那样做!"
 
-    narrator "Wait..."
+    narrator "等等..."
 
-    narrator "Did she just mention that the loser has to accept one request from the winner?"
+    narrator "她刚才是不是说输家必须接受赢家的一个请求?"
 
-    narrator "Which means..."
+    narrator "这意味着..."
 
-    narrator "If I win, I can make her do one thing I want?"
+    narrator "如果我赢了,我可以让她做一件我想做的事?"
 
-    narrator "God, I have to win this!"
+    narrator "天啊,我一定要赢!"
 
-    narrator "But I suddenly start to wonder what she is going to request me for if she wins this match."
+    narrator "但是我突然开始想,如果她赢了这场比赛,她会向我提出什么要求呢."
 
-    narrator "Should I catch her up or should I just let her win?"
+    narrator "我应该追上她还是让她赢?"
 
     label B_Beach_choices_2:
 
     menu:
-        "Catch her up":
+        "赶上她":
 
 
             scene zmxd_beach_b5 with tstmgr
 
-            narrator "I burst out like a rocket, and got close to her in a single flash. I never thought I can run so fast."
+            narrator "我像火箭一样冲了出去,一眨眼就接近了她.我从未想过我能跑得这么快."
 
             scene zmxd_beach_b6 with tstmgr
 
-            player "Caught you."
+            player "抓住你了."
 
-            b "Ah? How did you......"
+            b "Ah?你怎么......"
 
             scene zmxd_beach_b7 with tstmgr
 
-            b "Are you a superhero or something? You ran like The Flash himself."
+            b "你是超级英雄还是什么?你跑得像闪电侠一样快."
 
-            player "So, I win, right?"
+            player "所以,我赢了,对吧?"
 
             b "... ... ... ..."
 
-            b "Why are you cuddling me from behind?"
+            b "你为什么从后面抱住我?"
 
-            player "You said the loser has to obey one request that the winner asks. Well, my request is to let you be my girlfriend for one minute."
+            player "你说失败者必须服从胜利者的一个要求.我的要求是让你做我的女朋友一分钟."
 
             scene zmxd_beach_b8 with tstmgr
 
-            b "One miunte girlfriend?"
+            b "一分钟的女朋友?"
 
-            b "Such a childish wish. Are you playing a play-house game right now?"
+            b "多么幼稚要求.你现在在玩过家家吗?"
 
-            player "You can say whatever you want, but you have to obey the rules set by yourself."
+            player "你想说什么就说什么,但你必须遵守自己制定的规则."
 
             b "... ... ... ..."
 
-            b "Alright, fine."
+            b "好吧好吧."
 
-            b "I will be your girlfriend for 60 seconds. Take your time, but don't do anything strange."
+            b "我愿意做你60秒的女朋友.慢慢来,但不要做任何奇怪的事情."
 
             scene zmxd_beach_b9 with tstmgr
 
-            narrator "Great, so now I can keep her body in my arms for an entire minute."
+            narrator "太好了,现在我可以把她的身体抱在我怀里整整一分钟."
 
-            narrator "Under this circumstance, the “one-minute-girlfriend” request is undoubtedly a perfect request. It is erotic enough, but it does not cross the line yet. What even more important is, it's a romantic request, not a dirty one."
+            narrator "在这种情况下,“一分钟女友”的要求无疑是一个完美的要求.这已经够色情的了,但它还没有越界.更重要的是,这是一个浪漫的请求,而不是一个下流的请求."
 
-            narrator "Think about it. If I straightly ask her for “cuddling you from behind for one minute,\" it would make me sound like nothing but a dirty goat. She would not like it for sure."
+            narrator "想想.如果我直截了当地要求她“从背后拥抱你一分钟”,那会让我听起来就像一只脏兮兮的色鬼.她肯定不会喜欢的."
 
-            narrator "But now with this “one-minute-girlfriend” request, I can achieve my goal without offending her. Hail to the art of language."
+            narrator "但是现在有了这个“一分钟女友”的要求,我就可以在不冒犯她的情况下达到我的目的了.向语言艺术致敬."
 
-            narrator "My hands surrounded her flat belly like holding a pillow. I can smell her intoxicating scent behind her ears. It feels so wonderful."
+            narrator "我的手环绕着她平坦的腹部,就像抱着一个枕头.我能闻到她耳朵后面醉人的气味.感觉太棒了."
 
             narrator "... ... ... ..."
 
             scene zmxd_beach_b7 with tstmgr
 
-            b "Ho much time left?"
+            b "还剩多少时间?"
 
-            player "Still 20 seconds to go."
+            player "还有20秒."
 
-            narrator "Time flies so fast when one is enjoying it. It would be so nice if she is really my girlfriend, so I could enjoy this moment as long as I want."
+            narrator "当一个人享受它的时候,时间过得很快.如果她真的是我的女朋友那就太好了,这样我就可以尽情享受这一刻了."
 
             scene zmxd_beach_b10 with tstmgr
 
-            "A guy with camera" "Hey, excuse me. I am a photographer, currently working on a subject of shooting loving couples. Could you please let me take a picture of you?"
+            "拿着相机的人""嘿,打扰一下.我是一名摄影师,目前的工作主题是拍摄相爱的情侣.能让我给你们照张相吗?"
 
-            narrator "Well, I don't know who this guy is, but I truly appreciate his appearance."
+            narrator "我不知道这家伙是谁,但我真的很欣赏他的说辞."
 
-            b "We are not really... ..."
+            b "我们不是真的......"
 
-            player "Alright, we agreed. You can take a photo of us."
+            player "好的,我们同意了.你可以给我们照张相."
 
-            player "But we need to have a copy of it."
+            player "但是我们也需要一张."
 
-            "Photographer" "Of course, sure thing. I can even pay you some money if you want."
+            "摄影师""当然可以.如果你愿意,我甚至可以付你一些钱."
 
-            narrator "He took up the camera."
+            narrator "他拿起相机."
 
-            "Photographer" "Say cheese."
+            "摄影师""笑一笑."
 
-            b "Wait..."
+            b "等等..."
 
             scene zmxd_beach_b9 with tstmgr
 
-            player "The time is not up yet, you are still my formal girlfriend."
+            player "时间还没到,你还是我的正式女友."
 
-            b "Now I start to regret it..."
+            b "现在我开始后悔了..."
 
             b "... ... ... ..."
 
-            b "Fine, it's just a photo anyway."
+            b "好吧,反正只是张照片."
 
             scene zmxd_beach_b10 with tstmgr
 
-            player "You should make a cute gesture."
+            player "你应该做个可爱的手势."
 
             scene zmxd_beach_b11 with tstmgr
 
-            b "Like this?"
+            b "像这样?"
 
             narrator "... ... ... ..."
 
-            "[P.name] & [B.name]" "Cheeeeeese."
+            "[P.name] & [B.name]" "Cheeeeeese.(类似国人照相的茄子)"
 
             narrator "... ... ... ..."
 
@@ -196,90 +196,90 @@ label B_Beach:
 
             narrator "... ... ... ..."
 
-            narrator "Ah, what a lovely day~~~ :)"
-        "Let her win":
+            narrator "Ah,多么美妙的一天~~~:)"
+        "让她赢":
 
 
 
 
 
-            "I didn't do anything but watched her running."
+            "我什么也没做,只是看着她跑."
 
             scene zmxd_beach_b12 with tstmgr
 
-            b "Ha!~ I win!~"
+            b "Ha!~我赢了!~"
 
-            player "Come on, you were just cheating!"
+            player "拜托,你耍赖!"
 
             scene zmxd_beach_b13 with tstmgr
 
-            b "Nope~ That was strategy!~"
+            b "Nope~这是策略!~"
 
             scene zmxd_beach_b14 with tstmgr
 
-            player "Fine... whatever... ..."
+            player "好吧...无所谓了......"
 
-            player "But why did you want to win so bad? What do you want me to do exactly?"
+            player "但你为什么那么想赢呢?你到底想让我做什么?"
 
             b "Hmmmmm... ... ... ..."
 
             scene zmxd_beach_b15 with tstmgr
 
-            b "Can you... come closer?"
+            b "你能...靠近点吗?"
 
             scene zmxd_beach_b16 with tstmgr
 
             player "Eh... okay."
 
-            player "Is it enough?"
+            player "这样够了吗?"
 
-            b "No~ closer!"
+            b "No~再近点!"
 
             player "... ... ... ..."
 
             scene zmxd_beach_b17 with tstmgr
 
-            player "Alright, now tells me what’s on your mind."
+            player "Alright,现在告诉我你在想什么."
 
-            b "Close your eyes~"
+            b "闭上你的眼睛~"
 
             scene zmxd_beach_b18 with tstmgr
 
-            player "Hmmmm... fine... ..."
+            player "Hmmmm...好吧......"
 
             scene zmxd_beach_b19 with tstmgr
 
             $ flashlight()
 
-            b "(Kissing) Wummmmm~~~~"
+            b "(亲吻)Wummmmm~~~~"
 
             scene zmxd_beach_b20 with tstmgr
 
-            player "Wait, what? Sen?"
+            player "等等,什么?森?"
 
-            b "That was just a prank!~ Don't take it serious!"
+            b "那只是个恶作剧!别放在心上!"
 
-            "She ran away as fast as she could after that sneaky attack and shouted from distance. I could see how red her face has turned."
+            "在这次鬼鬼祟祟的袭击之后,她以最快的速度跑开了,并在远处大声喊叫.我可以看到她的脸变得多么红润."
 
-            "And I'm still feeling so unreal."
+            "我仍然觉得很不真实."
 
             scene zmxd_beach_b21 with tstmgr
 
-            player "That... ... really happened?"
+            player "这...真的发生了吗?"
 
-            player "She just kissed me on the lips?"
+            player "她吻了我?"
 
-            player "I... ... ... ..."
+            player "我............"
 
-            "The fragrance of her lips still left on my mouth. Was that really just a prank?"
+            "她的唇香还留在我的唇上.这真的只是个恶作剧吗?"
 
             player "... ... ... ..."
 
             scene void with tstmgr
 
-            "She didn't give me the chance to catch her up. She ran away from beach and went home directly. I guess she was too shy to face me after that kiss."
+            "她不给我赶上她的机会.她从海滩上跑掉了,直接回家了.我猜她在吻了我之后太害羞了,不敢面对我."
 
-            "Ah, what a lovely day~~~"
+            "Ah,多么美妙的一天~~~"
 
             "... ... ... ..."
 

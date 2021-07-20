@@ -7,15 +7,15 @@ label C_daily_7:
 
 
 
-    player "(This job is so boring... ...)"
+    player "(这份工作太无聊了......)"
 
 
 
-    player "(Just... keep doing these repetitive works everyday.)"
+    player "(就是...坚持每天做这些重复的工作.)"
 
 
 
-    player "(I feel like I’m a soulless bot.)"
+    player "(我觉得我是一个没有灵魂的机器人.)"
 
 
 
@@ -25,31 +25,31 @@ label C_daily_7:
 
     scene c_daily7_2 with tstmgr
 
-    player "Sigh... ..."
+    player "唉......"
 
 
 
-    player "(I think I should find an excuse and meet Theodora in her office, maybe she will allow me to give her another shoulder massage... ...)"
+    player "(我想我应该找个借口到狄奥多拉的办公室去见她,也许她会允许我再给她做一次肩部按摩......)"
 
 
 
     scene c_daily7_3 with tstmgr
 
-    player "(Or maybe she will kiss me again like the last time in the lift... ...)"
+    player "(或者她会再次吻我,就像上次在电梯里那样......)"
 
 
 
-    player "(I still remember that when I got here the first time, I was so afraid of meeting her due to the embarrassment. But now...)"
+    player "(我还记得当我第一次到这里的时候,因为尴尬我很害怕见到她.但现在...)"
 
 
 
-    player "(I wish I can stay in her office forever, damn...)"
+    player "(我希望我能永远呆在她的办公室里,damn...)"
 
 
 
     scene c_daily7_2 with tstmgr
 
-    player "(Oww... ... Theodora... ...)"
+    player "(Oww......狄奥多拉......)"
 
 
 
@@ -59,35 +59,35 @@ label C_daily_7:
 
 
 
-    "Colleague A" "Well, the dude is sleeping at work again."
+    "同事A""Well,这家伙又在上班时间睡觉了."
 
 
 
-    "Colleague A" "I think we should report it to Manager Shinyrost."
+    "同事A""我想我们应该向经理汇报."
 
 
 
-    "Colleague B" "Save it. He is Manager Shinyrost’s fiancee. He can do whatever he wants in this company."
+    "同事B""省省吧.他是经理的未婚夫.在这个公司里,他想干什么就干什么."
 
 
 
-    "Colleague A" "What? For real? Shit, what a lucky bastard."
+    "同事A""什么?真的吗?妈的,真是个幸运的混蛋."
 
 
 
-    "Colleague A" "But I think Manager Shinyrost is an impartial person. She treats everyone fairly."
+    "同事A""但是我认为经理是一个公正的人.她对每个人都很公平."
 
 
 
-    "Colleague A" "She will definitely punish that dude if she knows what he is doing right now."
+    "同事A""她肯定会惩罚那个家伙,因为她知道他现在在做什么."
 
 
 
-    "Colleague B" "Hmm... yeah, maybe, I don’t know."
+    "同事B""Hmm...yeah,也许吧,我不知道."
 
 
 
-    "Colleague B" "But we can find it out soon. Here she comes."
+    "同事B""但是我们很快就会知道了.她来了."
 
 
 
@@ -101,27 +101,27 @@ label C_daily_7:
 
 
 
-    c "How long has he been asleep?"
+    c "他睡了多久了?"
 
 
 
-    "Colleague B" "Eh, about... 5 minutes?"
+    "同事B""Eh,大概...5分钟?"
 
 
 
-    "Colleague A" "No, more than 1 hour! He is sleeping for more than 1 hour!"
+    "同事A""不,超过1个小时了!他已经睡了1个多小时了!"
 
 
 
-    "Colleague B" "Jesus, dude... ..."
+    "同事B""天哪,伙计......"
 
 
 
-    c "I see... ..."
+    c "我明白了......"
 
 
 
-    c "The air conditioner is on. He may get a cold if sleeping like this."
+    c "空调开着.如果这样睡觉,他可能会感冒."
 
 
 
@@ -131,47 +131,47 @@ label C_daily_7:
 
     scene c_daily7_6 with tstmgr
 
-    c "Give him a blanket. And don’t tell him that I was here."
+    c "给他一条毯子.别告诉他我来过."
 
 
 
-    "Colleague A" "What? But... won’t he get any punishment?"
+    "同事A""什么?但是...他不会受到惩罚吗?"
 
 
 
     scene c_daily7_7 with tstmgr
 
-    c "I’ll cut his pay for today. That’s it."
+    c "我会扣他今天的工资的.就是这样."
 
 
 
     scene c_daily7_6 with tstmgr
 
-    c "Now just let him sleep. He might be really tired."
+    c "现在就让他睡吧.他可能真的累了."
 
 
 
     scene c_daily7_8 with tstmgr
 
-    "Theodora then left the lobby to her office."
+    "随后狄奥多拉离开了大厅,回到她的办公室."
 
 
 
     scene c_daily7_4 with tstmgr
 
-    "Colleague A" "... ... ... ..."
+    "同事A""... ... ... ..."
 
 
 
-    "Colleague A" "I can’t believe it... ... She just acquiesced his boyfriend to take a nap during working hours..."
+    "同事A""我简直不敢相信...她默许了他的男朋友在工作时间打个盹..."
 
 
 
-    "Colleague A" "And a fucking blanket! She asked us to bring that dude a fucking blanket!"
+    "同事A""还有一条该死的毯子!她让我们给那家伙拿条该死的毯子!"
 
 
 
-    "Colleague B" "Told you."
+    "同事B""我早就和你说过了."
 
 
 

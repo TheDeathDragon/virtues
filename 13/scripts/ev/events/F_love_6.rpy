@@ -3,47 +3,47 @@ label F_love_6:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Rachel’s room..."
+    "深夜,在瑞秋的房间..."
 
 
 
-    "*The following plot is from Rachel’s perspective.*"
+    "*下面的情节是瑞秋的视角.*"
 
 
 
     scene f_love_6_1 with dissolve
 
-    f "I am supposed to sleep now... ... Athletes like me needs to sleep well. But... I just can’t stop recalling what I saw in that closet..."
+    f "我现在该睡觉了...像我这样的运动员需要睡好觉.但是...我就是不能停止想我在那个衣柜里看到的东西..."
 
 
 
-    f "Sex... seems really fun... ..."
+    f "做爱...似乎很有趣......"
 
 
 
-    f "That lady, Vera, is such a positive and gentle woman, but... ..."
+    f "那位女士,薇拉,是一个如此积极和温柔的女人,但是......"
 
 
 
     scene f_love_5_32 with flashback
 
-    f "She was like a totally different person during sex. How did it turn her into that?"
+    f "在做爱的时候,她就像一个完全不同的人.这是怎么把她变成那样的?"
 
 
 
-    f "Sex is such a magical thing... ..."
+    f "性是如此神奇的东西......"
 
 
 
     scene f_love_6_1 with flashback
 
-    f "I want to... learn more about it so bad. I have watched the DVD [P] gave me, I now know what they were doing that day, but I still have no idea about... ..."
+    f "我想...了解更多关于它.我看了[P]给我的DVD,现在我知道他们那天在做什么,但我仍然不知道......"
 
 
 
     scene f_love_6_2 with tstmgr
 
-    f "About the pleasure they had... ..."
+    f "为什么他们那么快乐......"
 
 
 
@@ -53,13 +53,13 @@ label F_love_6:
 
 
 
-    f "What if... ..."
+    f "是否......"
 
 
 
     scene f_love_6_3 with flashback
 
-    f "Will sex... make me a different person as well?"
+    f "性爱...也会让我变成一个不同的人?"
 
 
 
@@ -69,17 +69,17 @@ label F_love_6:
 
     scene f_love_6_4 with flashback
 
-    f "Maybe I can... figure it out myself? Yeah, there must be some descriptions or comments on the internet about how it feels to have sex with someone."
+    f "也许我可以...自己寻找答案?是啊,网上肯定有一些关于和某人做爱感觉的描述或评论."
 
 
 
-    f "But I don’t have a computer and my cellphone is not even a smartphone. How am I going to get online?"
+    f "但我没有电脑,我的手机也不是智能手机.我怎么上网?"
 
 
 
     scene f_love_6_5 with tstmgr
 
-    f "Oh, maybe I can go ask for help from my friend!"
+    f "Oh,也许我可以向我的朋友寻求帮助!"
 
 
 
@@ -89,41 +89,41 @@ label F_love_6:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene f_love_6_6 with dissolve
 
-    f "Good evening, Sen..."
+    f "晚上好,森..."
 
 
 
-    b "Rachel? You haven’t gone to sleep yet? Ah! Are you here to watch my favorite late night show with me?"
+    b "瑞秋吗?你还没睡吗?啊!你是来和我一起看我最喜欢的深夜秀的吗?"
 
 
 
-    f "Not... not today, sorry, Sen. Can I... ask you for something?"
+    f "不是...今天不行,抱歉,森,我能...问你一些事吗?"
 
 
 
     scene f_love_6_7 with tstmgr
 
-    b "Emm? Sure, anything~"
+    b "Emm?当然,任何事都行~"
 
 
 
-    f "Can I... borrow your laptop for tonight, please?"
+    f "我今晚可以...借用一下你的笔记本电脑吗?"
 
 
 
     scene f_love_6_8 with tstmgr
 
-    b "My laptop? Okay, but you have to return it to me tomorrow morning because I need to bring it to a class."
+    b "我的笔记本电脑?Okay,但是你明天早上必须把它还给我,因为我需要把它带到课堂上用."
 
 
 
-    f "Oh, I will, thank you very much."
+    f "Oh,我会的,非常感谢."
 
 
 
@@ -131,25 +131,25 @@ label F_love_6:
 
 
 
-    f "You don’t want to know why I need it?"
+    f "你不想知道我为什么需要它吗?"
 
 
 
     scene f_love_6_9 with tstmgr
 
-    b "No need~ We are friends, right? Friends don’t ask questions~"
+    b "没必要,我们是朋友,对吧?朋友之间没必要问~"
 
 
 
-    f "You are... so kind, thank you, Senning..."
+    f "你真是...太好了,谢谢你,森柠..."
 
 
 
-    b "You are very welcome~"
+    b "你太客气了~"
 
 
 
-    f "I... will see you tomorrow, good night, Sen. Now I’m going to... eh... work on my thing... ..."
+    f "我...明天见,晚安,森,现在我要...呃...做我的事......"
 
 
 
@@ -161,11 +161,11 @@ label F_love_6:
 
     scene f_love_6_11 with tstmgr
 
-    "Rachel then left Senning’s room..."
+    "然后瑞秋离开了森柠的房间..."
 
 
 
-    b "Hmmmm... ... Why do I feel like I forgot to tell her something?"
+    b "Hmmmm......为什么我觉得我忘了告诉她什么?"
 
 
 
@@ -175,7 +175,7 @@ label F_love_6:
 
     scene f_love_6_12 with tstmgr
 
-    b "Nevermind, now it’s the TV time~"
+    b "算了,现在是看电视的时间了~"
 
 
 
@@ -185,221 +185,221 @@ label F_love_6:
 
 
 
-    "Sometime later, in Rachel’s room..."
+    "一段时间后,在瑞秋的房间..."
 
 
 
     scene f_love_6_13 with dissolve
 
-    f "Alright, let's see... ..."
+    f "Alright,让我们看看......"
 
 
 
     scene f_love_6_14 with tstmgr
 
-    f "Huh?... ... ... ... Oh my dear... ..."
+    f "Huh?............哦我亲爱的......"
 
 
 
-    f "I forgot that Senning is an international student and English is not her first language! Her operating system is in Chinese. I can’t understand anything on her computer at all!"
+    f "我忘了森柠是国际学生,英语不是她的第一语言!她的操作系统是中文的.我都看不懂她的电脑!"
 
 
 
     scene f_love_6_15 with tstmgr
 
-    f "I should probably go find her again and ask for her help..."
+    f "我也许应该再去找她,请她帮忙..."
 
 
 
     scene f_love_6_16 with tstmgr
 
-    f "Or... maybe I can find the browser myself? Yeah, that shouldn’t be hard. I don’t need to read anything on her computer, I just need to find the right icon and then google will solve everything for me."
+    f "还是...也许我自己能找到浏览器?是的,这应该不难.我不需要看懂她电脑上的文字,我只需要找到正确的图标,然后谷歌将为我解决所有问题."
 
 
 
     scene f_love_6_17 with tstmgr
 
-    f "Awwww... but none of these icons is familiar to me."
+    f "Awwww...但这些图标我都不熟悉."
 
 
 
-    f "*Clicking* This looks like the one..."
+    f "*点击*这个看起来像..."
 
 
 
     scene f_love_6_18 with tstmgr
 
-    f "Oh, nope, not the browser, it’s a game calls Gacha Impact. The icon looks cute though~"
+    f "Oh,nope,不是浏览器,是一个叫做原神的游戏.不过,这个图标看起来很可爱~"
 
 
 
-    f "And there is a txt file next to it calls... Review For The Game? Ha, finally found something that was written in English. I’d like to see what she would comment on a video game~"
+    f "在它旁边有一个txt文件.游戏评论吗?哈,终于找到一些用英语写的东西了.我想看看她对电子游戏有什么评论~"
 
 
 
-    f "*Clicking* ... ... ... ..."
+    f "*点击*............"
 
 
 
-    "‘0/10, I spent 5 thousand dollars on this stupid game and still didn’t get that red-haired big-sworded handsome firebender I want! That’s it, this game is a fraud!’"
+    "‘0/10,我在这个愚蠢的游戏上花了5000美元,但还是没有抽到我想要的那个红头发,帅气的御火师!就是这样,这个游戏是个骗局!’"
 
 
 
     scene f_love_6_17 with tstmgr
 
-    f "Ehh... ... 5 thousand dollars for a video game? Is she even serious? That sounds like a fairy tale to me..."
+    f "Ehh......5000美元一个电子游戏?她是认真的吗?对我来说,这听起来像童话故事..."
 
 
 
-    f "Nevermind, now I should keep looking for the browser."
+    f "没关系,现在我应该继续寻找浏览器."
 
 
 
-    f "Browser~ browser~ where are you~~~"
+    f "浏览器~浏览器~你在哪里~~~"
 
 
 
     scene f_love_6_18 with tstmgr
 
-    f "Oh, yes, this must be the browser!"
+    f "Oh,yes,这一定是浏览器!"
 
 
 
-    f "*Clicking* ... ... ... ..."
+    f "*点击*............"
 
 
 
     scene f_love_6_17 with tstmgr
 
-    f "Hmmmmm... wrong again. It’s a video player."
+    f "Hmmmmm...又错了.这是一个视频播放器."
 
 
 
     scene f_love_6_14 with tstmgr
 
-    f "Wait, it automatically starts playing the last video on her playlist! I should probably turn it down."
+    f "等等,它会自动开始播放她播放列表上的最后一个视频!我应该把声音关小."
 
 
 
     scene f_love_6_19 with tstmgr
 
-    f "*Got attracted by the video* Emmmmmmmmmmm... ... ... ..."
+    f "*被视频吸引了*Emmmmmmmmmmm............"
 
 
 
-    f "Wait, is this... ..."
+    f "等等,这是......"
 
 
 
     scene f_love_6_20 with dissolve
 
-    "???" "Come on~ don’t be shy, take your hand away~"
+    "???" "来吧,别害羞,把手拿开~"
 
 
 
-    b "Do you promise that you won’t show it to others? My family will be furious if they see it..."
+    b "你能保证不把它拿给别人看吗?我的家人如果看到会很生气..."
 
 
 
-    "???" "I promise, Sen, just let me see your pretty face~"
+    "???" "我保证,森,让我看看你漂亮的脸蛋~"
 
 
 
     scene f_love_6_21 with tstmgr
 
-    b "Okay... ..."
+    b "嗯......"
 
 
 
     scene f_love_7_15 with tstmgr
 
-    f "Wait, Senning? In [P]’s bedroom? What are they doing?"
+    f "等等,森柠?在[P]的卧室?他们在干什么?"
 
 
 
     scene f_love_6_23 with tstmgr
 
-    b "Ahhhhh~~~ Such a smelly scent. My mind goes blank every time when I take a breath~"
+    b "Ahhhhh~~~好难闻的气味.每次我呼吸的时候,我的大脑都一片空白~"
 
 
 
     scene f_love_6_22 with tstmgr
 
-    b "*Licking* Sim... ... simm... ... [P]’s... delicious penis~~"
+    b "*舔*Sim......simm......[P]...美味的大鸡巴~~"
 
 
 
-    b "Simm~~~ simm~~~ love it~~~"
+    b "Simm~~~simm~~~爱死了~~~"
 
 
 
     scene f_love_7_15 with tstmgr
 
-    f "She is licking [P]’s genital... ... Wait, the DVD never told me anything about licking genital! Why would she do this?"
+    f "她在舔[P]的生殖器......等等,DVD根本没告诉我舔生殖器的事!她为什么要这么做?"
 
 
 
-    f "She seems... so enjoying. Is that scary thing really that tasty?"
+    f "她看起来...很享受.那可怕的东西真的那么好吃吗?"
 
 
 
     scene f_love_6_25 with dissolve
 
-    player "Are you masturbating right now? You are so horny... ..."
+    player "你现在在手淫吗?你太饥渴了......"
 
 
 
-    b "I... I can’t help... ... Simmm~~ simm~~~ Your scent made me so excited~"
+    b "我...我忍不住......Simmm~~simm~~~你的气味让我很兴奋~"
 
 
 
-    player "But you still won’t allow me to put my penis inside your pussy?"
+    player "但你还是不允许我把鸡巴放进你的小穴?"
 
 
 
-    b "It’s... not the time yet, sorry... ..."
+    b "这...对不起,还不是时候......"
 
 
 
-    player "It’s okay, I’ll wait~"
+    player "没关系,我会等的~"
 
 
 
     scene f_love_6_24 with tstmgr
 
-    b "Ahh~~~ my nipple~~~"
+    b "Ahh~~~我的乳头~~~"
 
 
 
-    player "Do you like me playing your nipple like this?"
+    player "你喜欢我这样玩弄你的乳头吗?"
 
 
 
-    b "I... don’t know... ... But... ... I think I’m going to cum very soon... ..."
+    b "我...不知道...但是...我想我很快就要泄了......"
 
 
 
-    player "Me too, Sen~"
+    player "我也是,森~"
 
 
 
-    f "*Swallowing hard* ... ... ... ..."
+    f "*使劲吞咽*............"
 
 
 
-    f "Senning... ... What happened to her?"
+    f "森...她怎么了?"
 
 
 
-    f "She is such an... elegant shy girl. She even got shy when we showered together! But in this video... ..."
+    f "她真是个...优雅害羞的女孩.当我们一起洗澡时,她甚至还不好意思!但是在这个视频中......"
 
 
 
-    f "She looks like a totally different person! Just like Vera!"
+    f "她看起来完全是另一个人!就像薇拉!"
 
 
 
-    f "It seems like... ... sex can really change a person... ..."
+    f "看起来好像...性真的可以改变一个人......"
 
 
 
@@ -407,13 +407,13 @@ label F_love_6:
 
 
 
-    f "I want to be changed like that, too. It looks so interesting... ..."
+    f "我也想被改变成那样.看起来很有趣......"
 
 
 
     scene f_love_6_26 with dissolve
 
-    player "Ah... yes, swallow it like that! I’m about to cum... ..."
+    player "Ah...yes,就是这样!我要射了......"
 
 
 
@@ -425,15 +425,15 @@ label F_love_6:
 
     $ flashlight()
 
-    player "I’m cumming!"
+    player "我射了!"
 
 
 
-    b "*Swallowing* Auuuummmmm~~~ mmmm~~~ gluuummm~~~"
+    b "*吞咽*Auuuummmmm~~~mmmm~~~gluuummm~~~"
 
 
 
-    b "Wummm... wummm... ... Immmm... I’m... ..."
+    b "Wummm...wummm......我...我......"
 
 
 
@@ -441,39 +441,39 @@ label F_love_6:
 
     $ flashlight()
 
-    b "Ahhhhhhhhhhhh! I’m cumming too~~~~~~"
+    b "Ahhhhhhhhhhhh!我也高潮了~~~~~~"
 
 
 
-    "Senning went into a convulsion and kept squirting water out from her pussy..."
+    "森柠开始抽搐,淫水不停地从她的小穴喷出..."
 
 
 
-    player "Wow... ... Sen, that was such a strong orgasm you had... ..."
+    player "Wow......森,你的高潮来的太强烈了......"
 
 
 
     scene f_love_6_29 with tstmgr
 
-    b "*Heavily breathing* Huh... huhh... huh... huhh... ... ... ..."
+    b "*沉重的呼吸*Huh...huhh...huh...huhh............"
 
 
 
     scene f_love_6_30 with tstmgr
 
-    b "I’m... getting better at eating your thick cum~"
+    b "我...越来越擅长吃你粘稠的精液了~"
 
 
 
-    b "I need... a rest now... ... Could you... shut the camera, please?"
+    b "我需要...现在休息一下...你能...请把照相机关上吗?"
 
 
 
-    player "Yeah, sure, Sen."
+    player "Yeah,当然,森."
 
 
 
-    b "Awww... ... I must be... the shame of my family... ... ... ..."
+    b "Awww......我肯定...是我家族的耻辱............"
 
 
 
@@ -483,21 +483,21 @@ label F_love_6:
 
 
 
-    "And that was the end of the video."
+    "这就是视频的结尾."
 
 
 
     scene f_love_6_31 with dissolve
 
-    f "Owwww... Senning... ..."
+    f "Owwww...森柠......"
 
 
 
-    f "This must be... the most shocking video I have ever watched in my life."
+    f "这一定是...我这辈子看过的最震撼的视频."
 
 
 
-    f "I feel so guilty right now. She doesn’t want others to watch this video and I just watched it by accident..."
+    f "我现在感到很内疚.她不想让别人看这个视频,我只是偶然看到的..."
 
 
 
@@ -507,13 +507,13 @@ label F_love_6:
 
 
 
-    f "I should... I should go to sleep right now and forget all this!"
+    f "我应该...我现在就该去睡觉,把这些都忘掉!"
 
 
 
     scene void with tstmgr
 
-    "Rachel then shut the computer down, fled to her bed, and buried her head in the pillow like she just watched a horror movie."
+    "瑞秋关掉电脑,逃到床上,把头埋在枕头里,就像在看恐怖电影一样."
 
 
 
@@ -521,55 +521,55 @@ label F_love_6:
 
 
 
-    "The next morning..."
+    "第二天早上..."
 
 
 
     scene f_love_6_33 with dissolve
 
-    f "Hi, Senning... ..."
+    f "Hi,森柠......"
 
 
 
-    b "Good morning, Rachel. Thanks for bringing my laptop back~ How is everything?"
+    b "早上好,瑞秋.谢谢你把我的电脑拿回来了,一切都还好吗?"
 
 
 
-    f "Things... went well. Thanks for... letting me use your computer."
+    f "很...顺利.谢谢你...让我用你的电脑."
 
 
 
-    b "Are you okay?"
+    b "你没事吧?"
 
 
 
-    f "Yeah... I’m fine. I just... didn’t sleep well last night."
+    f "Yeah...我很好.我只是...昨晚没睡好."
 
 
 
     scene f_love_6_34 with tstmgr
 
-    b "Oh, sorry to hear that..."
+    b "Oh,很抱歉听到这个消息..."
 
 
 
     scene f_love_6_33 with tstmgr
 
-    b "Anyway, I’m going for a class now, see you later, Rachel~"
+    b "不管怎样,我要去上课了,回头见,瑞秋~"
 
 
 
-    f "See you... later... ..."
+    f "回头...见......"
 
 
 
     scene void with tstmgr
 
-    f "(I still can’t believe that... the Senning in front of me and the Senning in that video... are the same person... ...)"
+    f "(我还是不敢相信...我面前的森柠和那个视频里的森柠...是同一个人......)"
 
 
 
-    f "(Sigh... ... I’d better go catch some sleep again.)"
+    f "(唉......我最好再去睡一会儿.)"
 
 
 

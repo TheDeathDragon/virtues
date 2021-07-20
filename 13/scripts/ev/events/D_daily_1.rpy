@@ -3,261 +3,261 @@ label D_daily_1:
     scene void with tstmgr
     play music happy
 
-    player "(Knocking the door)"
+    player "(敲门)"
 
-    player "Open it, your private tutor is here."
+    player "开门,你的私人教师来了."
 
-    narrator "The door suddenly opened."
+    narrator "门突然开了."
 
     scene rcsj_d1 with tstmgr
 
-    d "I've waited for a long time, [P.name]. Come inside, I have an exam tomorrow."
+    d "我等了很长时间,[P.name].进来吧,我明天有考试."
 
     scene rcsj_d2 with tstmgr
 
-    narrator "She turned around and walked to her desk."
+    narrator "她转身走向她的桌子."
 
-    player "(She only wears a vest and a pantie)."
+    player "(她只穿了一件背心和一条内裤)."
 
     scene rcsj_d3 with tstmgr
 
-    player "(Look at that little peachy butt)."
+    player "(看那个桃红色的小屁股)."
 
-    player "(So... cute.)"
+    player "(真是...可爱.)"
 
     scene rcsj_d4 with tstmgr
 
-    d "Emm... Why are you staring at me?"
+    d "Emm...你为什么盯着我看?"
 
-    narrator "She suddenly turned back. It gave me a scare."
+    narrator "她突然转过身来.它吓了我一跳."
 
-    player "(Flustered) Nothing, I was just in a daze."
+    player "(慌张)没什么,我只是发呆."
 
     d "... ... ... ..."
 
     scene rcsj_d5 with tstmgr
 
-    d "Were you staring at my butt?"
+    d "你在盯着我的屁股看吗?"
 
-    player "No, I'm a virtuous man. I won't do anything that is not consistent with propriety."
+    player "不,我是个有美德的人.我不会做任何不得体的事."
 
-    player "But... I do wonder why you only wear an underwear in your lower body."
+    player "但是...我真想知道你下面为什么只穿一条内裤."
 
-    d "I just took a shower."
+    d "我刚洗了个澡."
 
-    player "Well, don't you think it is a little bit of inappropriate to show your underwear to a... male?"
+    player "你不觉得让一个男性看到你内衣有点...不合适吗?"
 
     scene rcsj_d6 with tstmgr
 
-    d "Is it?"
+    d "是吗?"
 
     scene rcsj_d7 with tstmgr
 
-    d "What's the big deal? You are like my own brother."
+    d "有什么大不了的?你就像我的亲兄弟."
 
-    d "We even had showers together before."
+    d "我们以前甚至一起洗过澡."
 
-    narrator "Oh, fine, I'm kinda glad that she still remembered this, but that was something happened about 15 years ago."
-
-    scene rcsj_d8 with tstmgr
-
-    d "... ... ... ..."
-
-    d "I have a question for you."
-
-    scene rcsj_d9 with tstmgr
-
-    d "Have you ever seen Theodora's butt? I mean, without pants on?"
-
-    player "What kind of question is that? Why do you even ask?"
-
-    d "I'm just curious. You are her fiance. You two must have done a lot of... adult stuffs, right?"
-
-    narrator "Why does she have such a curiosity?"
-
-    player "... ... ... ..."
-
-    narrator "Theodora and I always pretend like a loving couple in front of people, even Aunt Elisa and Irene couldn't find the truth."
+    narrator "好吧,我很高兴她还记得这件事,但那是15年前的事了."
 
     scene rcsj_d8 with tstmgr
 
     d "... ... ... ..."
 
+    d "我有个问题要问你."
+
     scene rcsj_d9 with tstmgr
 
-    d "Have you ever touched her's butt?"
+    d "你见过狄奥多拉的屁股吗?我是说,不穿裤子?"
 
-    narrator "Her question is getting weirder and weirder."
+    player "这是什么问题?你为什么这么问?"
 
-    player "Why are you asking this?"
+    d "我只是有点好奇.你是她的未婚夫.你们俩一定做了很多...成人的东西,对吧?"
+
+    narrator "为什么她有这样的好奇心?"
 
     player "... ... ... ..."
 
-    player "Fine, I haven't yet."
+    narrator "狄奥多拉和我总是在人们面前假装成一对恩爱夫妻,就连伊莉莎阿姨和艾琳也不知道真相."
 
-    narrator "I chose to tell her the truth in the end."
+    scene rcsj_d8 with tstmgr
+
+    d "... ... ... ..."
+
+    scene rcsj_d9 with tstmgr
+
+    d "你摸过她的屁股吗?"
+
+    narrator "她的问题越来越奇怪."
+
+    player "你为什么问这个?"
+
+    player "... ... ... ..."
+
+    player "好吧,我还没有."
+
+    narrator "我最后选择告诉她真相."
 
     scene rcsj_d10 with tstmgr
 
-    narrator "On the next second, that weird smile came back at her face."
+    narrator "接着,她的脸上又出现了那个奇怪的微笑."
 
-    d "Why is that? You have every right to do that. You are her future husband, aren't you?"
+    d "这是为什么呢?你完全有权那样做.你是她未来的丈夫,是吗?"
 
-    player "Well... actually... eh... It's complicated."
+    player "嗯...实际上...呃...这很复杂."
 
     d "... ... ... ..."
 
     scene rcsj_d9 with tstmgr
 
-    d "Okay, listen."
+    d "Okay,听着."
 
-    d "If you can make me do better in tomorrow's exam, I will let you touch my butt for once."
+    d "如果你能让我在明天的考试中取得好成绩,我就会让你摸一次我的屁股."
 
-    narrator "?????? Is she kidding me right now???"
+    narrator "??????她在跟我开玩笑吗???"
 
     narrator "... ... ... ..."
 
     menu:
-        "Agree":
+        "同意":
 
 
-            player "Are you serious about that?"
+            player "你是认真的吗?"
 
             scene rcsj_d10 with tstmgr
 
             d "... ... ... ..."
 
-            narrator "Suddenly, I have a feeling that I am falling into her trap."
+            narrator "突然,我觉得我中了她的圈套."
 
-            d "You are such a hentai. What are you expecting? You disgust me."
+            d "你真变态.你在想什么?你让我感到恶心."
 
-            narrator "Alright, now I'm sure that it's a trap."
+            narrator "好吧,现在我确定这是个陷阱."
 
-            player "I, I'm just kidding around. Don't be silly, Irene."
+            player "我只是开个玩笑.别傻了,艾琳."
 
             scene rcsj_d9 with tstmgr
 
             d "Fu fu fu~~"
 
-            narrator "Ah, God. I feel so embarrassed."
+            narrator "Ah,天.我觉得很尴尬."
 
-            narrator "Eh? Wait a sec."
+            narrator "Eh?等一下."
 
-            player "Did you just say “hentai”? Where did you learn that word from?"
+            player "你刚才是说“变态(hentai)”吗?你从哪里学的这个词?"
 
-            d "From a friend on the internet. Why do you care?"
+            d "从网上的一个朋友那里.你关心这个干嘛?"
 
-            player " Are you sure that's a good guy? Because that's not a good word."
+            player "你确定他是个好人吗?因为这不是一个好词."
 
             scene rcsj_d6 with tstmgr
 
-            d "Emm... Her name's Uno."
+            d "Emm...她叫乌诺."
 
-            player "A her?"
+            player "她?"
 
             scene rcsj_d9 with tstmgr
 
-            d "Yes, and she is a coser. Have you heard of that name? She is kinda famous in the cosplay circle."
+            d "是的,她是一个coser.你听说过这个名字吗?她在cosplay圈子里有点名气."
 
-            player "A coser?"
+            player "一个coser?"
 
-            d "Yes. Her cosplay is so stunning. I can show you her picture."
+            d "是的.她的cosplay很棒.我可以给你看她的照片."
 
             d "... ... ... ..."
 
             scene rcsj_d11_1 with tstmgr
 
-            d "Here it is."
+            d "在这."
 
-            player "Oh my..."
+            player "Oh我的..."
 
-            player "I see why you said it's stunning."
+            player "我知道你为什么说她非常棒了."
 
-            player "She is... magnificant..."
+            player "她真是...太完美了..."
 
-            d "Of course she is. And She is also a sweet friend. You don't need to worry about me."
+            d "当然.她也是一个很好的朋友.你不用担心我."
 
             player "... ... ... ..."
 
-            player "Alright, fine."
+            player "好吧好吧."
 
-            player "Let's, let's get back to your homework now."
+            player "现在让我们把注意力回到你的作业上来."
 
             scene rcsj_d8 with tstmgr
 
             narrator "... ... ... ..."
 
-            player "(Uno, huh...)"
+            player "(乌诺,huh...)"
 
             narrator "... ... ... ..."
-        "Disagree":
+        "不同意":
 
 
-            narrator "Damn it, don't be manipulated by your desire, [P.name]. You are better than this."
+            narrator "该死,不要被你的欲望所左右."
 
-            player "Eh, please don't make fun of me."
+            player "Eh,请不要取笑我."
 
             scene rcsj_d11 with tstmgr
 
-            d "I didn't."
+            d "我没有."
 
             player "... ... ... ..."
 
-            narrator "I can't take advantage of a girl who takes me as a big brother. My job is to be her teacher, so that's it."
+            narrator "我不能占一个把我当大哥的女孩的便宜.我的工作就是做她的老师,仅此而已."
 
             narrator "... ... ... ..."
 
-            player "Why did you even ask me that in the first place? You know I won't do such thing to you."
+            player "你为什么一开始就问我这个?你知道我不会这样做的."
 
-            d "But I thought you are a hentai, just like all the other men."
+            d "但我以为你是变态,就像其他男人一样."
 
-            narrator "Eh? Wait a sec."
+            narrator "Eh?等一下."
 
-            player "Did you just say \"hentai\"? Where did you learn that word from?"
+            player "你刚才说\"变态\"?你从哪儿学的这个词?"
 
-            d "From a friend on the internet. Why do you care?"
+            d "从网上的一个朋友那里.你关心这个干嘛?"
 
-            player "Are you sure that's a good guy? Because that's not a good word."
+            player "你确定他是个好人吗?因为这不是一个好词."
 
             scene rcsj_d6 with tstmgr
 
-            d "Emm... Her name's Uno."
+            d "Emm...她叫乌诺."
 
-            player "A her?"
+            player "她?"
 
             scene rcsj_d9 with tstmgr
 
-            d "Yes, and she is a coser. Have you heard of that name? She is kinda famous in the cosplay circle."
+            d "是的,她是一个coser.你听说过这个名字吗?她在cosplay圈子里有点名气."
 
-            player "A coser?"
+            player "一个coser?"
 
-            d "Yes. Her cosplay is so stunning. I can show you her picture."
+            d "是的.她的cosplay很棒.我可以给你看她的照片."
 
             d "... ... ... ..."
 
             scene rcsj_d11_1 with tstmgr
 
-            d "Here it is."
+            d "在这."
 
-            player "Oh my..."
+            player "Oh我的..."
 
-            player "I see why you said it's stunning."
+            player "我知道你为什么说她非常棒了."
 
-            player "She is... magnificant..."
+            player "她真是...太完美了..."
 
-            d "Of course she is. And she is also a sweet friend. You don't need to worry about me."
+            d "当然.她也是一个很好的朋友.你不用担心我."
 
             player "... ... ... ..."
 
-            player "Alright, fine."
+            player "好吧好吧."
 
-            player "Let's, let's get back to your homework now."
+            player "现在让我们把注意力回到你的作业上来."
 
             scene rcsj_d8 with tstmgr
 
             narrator "... ... ... ..."
 
-            narrator "I spent some time on tutoring Irene."
+            narrator "我花了一些时间辅导艾琳."
 
     stop music fadeout 1.0
 

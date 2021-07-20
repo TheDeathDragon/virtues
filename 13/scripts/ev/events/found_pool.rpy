@@ -7,13 +7,13 @@ label found_pool:
 
 
 
-    "Late night..."
+    "深夜..."
 
 
 
     scene found_pool_1 with dissolve
 
-    c "I’m home."
+    c "我回来了."
 
 
 
@@ -23,11 +23,11 @@ label found_pool:
 
     scene found_pool_2 with tstmgr
 
-    c "Anyone?"
+    c "有人在家吗?"
 
 
 
-    "No one answers."
+    "无人应答."
 
 
 
@@ -37,13 +37,13 @@ label found_pool:
 
     scene found_pool_3 with tstmgr
 
-    c "This is just like the old time..."
+    c "像以前一样..."
 
 
 
     scene c_love_3_1 with flashback
 
-    c "I'm home."
+    c "我回来了."
 
 
 
@@ -53,13 +53,13 @@ label found_pool:
 
 
 
-    c "Uh, they must be in sleep by now."
+    c "Uh,他们现在一定在睡觉."
 
 
 
     scene c_love_3_3 with tstmgr
 
-    c "This mansion is... full with emptiness. I feel so lonely... ..."
+    c "这栋房子...空荡荡的.我感觉有点孤独......"
 
 
 
@@ -69,17 +69,17 @@ label found_pool:
 
 
 
-    c "I thought this place would be different, but it seems like nothing has changed... ... The loneliness is still there."
+    c "我以为这个地方会不一样,但好像什么都没变......孤独依然存在."
 
 
 
-    c "I should go to sleep now."
+    c "我现在该睡觉了."
 
 
 
     scene void with tstmgr
 
-    "And suddenly, Theodora heard a groan coming from the basement."
+    "突然,狄奥多拉听到地下室传来一声叫声."
 
 
 
@@ -89,7 +89,7 @@ label found_pool:
 
     scene found_pool_4 with tstmgr
 
-    c "Hmmmm? What was that? Someone is in the basement?"
+    c "Hmmmm?什么?有人在地下室?"
 
 
 
@@ -97,39 +97,39 @@ label found_pool:
 
 
 
-    c "I just realized that I have never been into that basement before. [P] said that he is transforming it into a swimming pool, but he doesn’t allow me to even take a look at it."
+    c "我才意识到我从没进过那个地下室.[P]说他要把它改造成一个游泳池,但他甚至不允许我看一眼."
 
 
 
-    c "Maybe... I should go check it out."
+    c "也许...我应该去看看."
 
 
 
     scene void with tstmgr
 
-    "Theodora walked to the basement, and she saw... ..."
+    "狄奥多拉走到地下室,然后看见......"
 
 
 
     scene found_pool_5 with dissolve
 
-    c "Are you... are you kidding me?"
+    c "你是...你在开玩笑吧?"
 
 
 
     scene found_pool_6 with tstmgr
 
-    player "Theo? Shit, I thought I have locked the door."
+    player "西奥?Shit,我以为我把门锁上了."
 
 
 
     scene found_pool_7 with tstmgr
 
-    c "Oh no, are you alright? What’s with your leg?"
+    c "Ohno,你还好吗?你的腿怎么了?"
 
 
 
-    player "I just tripped, not a big deal. You should be careful too, the ground is super slippery."
+    player "我绊倒了,没什么大不了的.你也要小心,地面超级滑."
 
 
 
@@ -139,47 +139,47 @@ label found_pool:
 
 
 
-    c "This... this room... ..."
+    c "这个...这个房间......"
 
 
 
     scene found_pool_9 with tstmgr
 
-    c "You really did it! You really turned this basement into a swimming pool!"
+    c "你真的做到了!你真的把地下室变成了游泳池!"
 
 
 
     scene found_pool_10 with tstmgr
 
-    player "Well, I didn’t do it myself. The construction team did the digging and piping, but... ... yeah, I did it."
+    player "Well,不是我一个人做的.施工队负责挖掘和铺设管道,但是......是的,我做到了."
 
 
 
-    player "It definitely needs some further works though. Hummmm... ... Maybe we should get a water bed here too?"
+    player "但它确实需要进一步的完善.Hummmm......也许我们也应该在这里弄个水床?"
 
 
 
     scene found_pool_11 with tstmgr
 
-    player "I planned to bring you here after I finish all the decorations. Sorry... ... it was supposed to be a bigger surprise."
+    player "我打算等我装修好了再带你来.对不起...这本来应该是个更大的惊喜."
 
 
 
-    c "You did all this... for me?"
+    c "这一切都是你做的...为了我?"
 
 
 
-    player "I just want to prove you that I have become a man that you can rely on."
+    player "我只是想向你证明,我已经成为一个你可以依靠的人."
 
 
 
     scene found_pool_12 with tstmgr
 
-    c "This is... the best gift I have gotten in my life."
+    c "这是...这是我一生中得到的最好的礼物."
 
 
 
-    player "That’s so good to know~"
+    player "很高兴知道这个~"
 
 
 
@@ -189,53 +189,53 @@ label found_pool:
 
     scene found_pool_13 with tstmgr
 
-    c "Now, if you don’t mind... ..."
+    c "如果你不介意的话......"
 
 
 
     scene found_pool_14 with tstmgr
 
-    "Theodora stood up and began to undress herself."
+    "狄奥多拉站起来,开始脱衣服."
 
 
 
-    c "The water... is clean, right?"
+    c "水...是干净的,对吧?"
 
 
 
-    player "Yeah, I think so. I just changed it today~"
+    player "Yeah,我想是的.我今天才换的~"
 
 
 
-    c "Very well then... ..."
+    c "很好......"
 
 
 
     scene found_pool_15 with tstmgr
 
-    c "You may have to... change it again later..."
+    c "你待会...可能得再换一次..."
 
 
 
-    c "I will... see you in the water~"
+    c "水里见~"
 
 
 
-    player "Theo... ..."
+    player "狄奥......"
 
 
 
-    "Theodora jumped into the water like a professional swimmer."
+    "狄奥多拉像专业游泳运动员一样跳进水里."
 
 
 
     scene found_pool_16 with tstmgr
 
-    c "Come on then, get in here."
+    c "来吧,进来."
 
 
 
-    player "I... I just fell on the ground and my foot got hurt, so... ... you know, maybe I should just stay here for safety~"
+    player "我...我刚摔了一跤,我的脚受伤了,所以......也许出于安全考虑,我就不下去了~"
 
 
 
@@ -243,7 +243,7 @@ label found_pool:
 
 
 
-    c "Are you fucking playing hard-to-get with me right now?"
+    c "你他妈是在跟我玩欲擒故纵吗?"
 
 
 
@@ -259,7 +259,7 @@ label found_pool:
 
 
 
-    player "Theo?"
+    player "狄奥多拉?"
 
 
 
@@ -267,7 +267,7 @@ label found_pool:
 
 
 
-    "I thought she was going to mock me and stimulate me with harsh words like she always does, but... ..."
+    "我以为她会像往常一样用刻薄的话嘲笑我刺激我,但是......"
 
 
 
@@ -275,23 +275,23 @@ label found_pool:
 
 
 
-    c "Don't be afraid, honey, I am here with you~"
+    c "别害怕,亲爱的,有我陪着你~"
 
 
 
-    c "You see these huge tities?~ They are natural floats. Just grab them when you are drowning~"
+    c "你看到这些巨大的乳房了吗?它们是天然的漂浮物.溺水的时候抓住它们就行了~"
 
 
 
-    c "Now get in here with me, will you, honey?"
+    c "现在跟我一起下来,好吗,亲爱的?"
 
 
 
-    "She... she has never spoken with me in such a soft voice before."
+    "她...她以前从未用如此温柔的声音和我说话."
 
 
 
-    player "I don’t... I don’t really think that theory makes any sense, but... ..."
+    player "我...你说的对,但是......"
 
 
 
@@ -299,7 +299,7 @@ label found_pool:
 
 
 
-    player "*Got into water* It’s so good to know that you have my back, Theo~"
+    player "*下水*听你这么说真是太好了,西奥~"
 
 
 
@@ -309,7 +309,7 @@ label found_pool:
 
     scene found_pool_21 with tstmgr
 
-    c "We have... never been in a pool only with each other since highschool, right?"
+    c "我们...从高中开始就没在泳池里只和彼此待过,对吧?"
 
 
 
@@ -317,39 +317,39 @@ label found_pool:
 
 
 
-    c "That was... I don’t know, 5 years ago?"
+    c "那是...我不知道,5年前吧?"
 
 
 
-    player "I think so..."
+    player "我想是吧..."
 
 
 
     scene found_pool_22 with tstmgr
 
-    c "*Holding [P] with arms* ... ... ... ..."
+    c "*用手臂抱住[P]*............"
 
 
 
-    c "5 years... ... huh~ We were at the same height back then~"
+    c "5年......huh~那时候我们还一样高~"
 
 
 
-    c "But now... you are much taller than me and... ..."
+    c "但现在...你比我高多了......"
 
 
 
-    c "Your shoulders have become so broad and so reliable... ..."
+    c "你的肩膀变得如此宽阔,如此可靠......"
 
 
 
-    player "Yeah, everything has changed after all these years."
+    player "Yeah,这么多年了,一切都变了."
 
 
 
     scene found_pool_23 with tstmgr
 
-    c "There is... one thing hasn’t changed yet, that I... ..."
+    c "有...有一件事还没变,那就是我......"
 
 
 
@@ -359,71 +359,71 @@ label found_pool:
 
     scene found_pool_22 with tstmgr
 
-    c "Whatever, it doesn’t really matter anymore."
+    c "不管怎样,这已经不重要了."
 
 
 
     scene found_pool_23 with tstmgr
 
-    c "Now~ it may not be enough, but... as a reward of this amazing gift you made for me..."
+    c "现在~可能还不够,但是...作为你为我做的礼物的回报..."
 
 
 
     scene found_pool_24 with tstmgr
 
-    c "Let’s have some fun, shall we?"
+    c "让我们找点乐子,好吗?"
 
 
 
-    player "Theo... ... ... ..."
+    player "狄奥............"
 
 
 
     scene found_pool_25 with tstmgr
 
-    c "Hmmmmm~ This position looks nice."
+    c "Hmmmmm~这个姿势看起来不错."
 
 
 
     scene found_pool_26 with tstmgr
 
-    c "Don’t keep me waiting, [P]~"
+    c "别让我等了,[P]~"
 
 
 
     scene found_pool_27 with tstmgr
 
-    c "There will definitely be... countless times of sex happening in this room between you and... me or other girls. And... ..."
+    c "肯定会有...无数次的性爱会发生在这里,你和...我或其他女孩.而且......"
 
 
 
-    c "I have to be the first one you fuck here~"
+    c "我必须是你在这里第一个操的人~"
 
 
 
     scene found_pool_28 with tstmgr
 
-    player "I have never tried to fuck anyone in the water yet..."
+    player "我还没试过在水里干别人..."
 
 
 
     scene found_pool_29 with tstmgr
 
-    c "Well, this will be your first time then~ little virgin~"
+    c "Well,这将是你的第一次~小处男~"
 
 
 
     scene found_pool_30 with tstmgr
 
-    player "Why are you still calling me that? I’m okay with having an ironic nickname, but that name doesn’t make any sense at all..."
+    player "你为什么还这么叫我?我不介意有个讽刺的绰号,但这个名字一点意义都没有..."
 
 
 
-    c "Well, that name always makes sense to me, because... ..."
+    c "Well,这个名字对我来说很有意义,因为......"
 
 
 
-    c "(I am the one who took your virginity... 5 years ago~)"
+    c "(我就是...5年前和你第一次做的人~)"
 
 
 
@@ -433,31 +433,31 @@ label found_pool:
 
 
 
-    "*Check extra chapter#2 for what happened 5 years ago*"
+    "*查看额外的第二章,看看5年前发生了什么*"
 
 
 
     scene found_pool_30 with flashback
 
-    player "Because what?"
+    player "因为什么?"
 
 
 
     scene found_pool_31 with tstmgr
 
-    c "Nevermind... I won’t call you that name anymore, as you wish..."
+    c "没什么...我不这么叫你了..."
 
 
 
     scene found_pool_30 with tstmgr
 
-    c "Now just... give me that cock~"
+    c "现在...给我你的鸡巴~"
 
 
 
     scene found_pool_32 with tstmgr
 
-    player "You don't even need to ask, Theo~"
+    player "这句话很多余,西奥~"
 
 
 
@@ -486,31 +486,31 @@ label found_pool:
 
 
 
-    c "Awwww~~~ Your cock... is pumping water inside me~~"
+    c "Awwww~~~你的鸡巴...在我体内抽水~~"
 
 
 
-    c "The cold water and the hot cock~ Wow... ..."
+    c "冰冷的池水和滚烫的大鸡巴~Wow......"
 
 
 
-    player "This is... different. It's nothing like fucking on the ground at all."
+    player "这...感觉不一样.跟在地上做爱完全不一样."
 
 
 
-    player "It feels like the flow of water is holding me back... but somehow pushing me forward at the same time..."
+    player "感觉就像水流在阻挡我...但同时也在推动我前进..."
 
 
 
-    player "And the cold water makes your skin tighter and softer than usual..."
+    player "冷水会让你的皮肤比平时更紧致,更柔软..."
 
 
 
-    c "Humph~ My skin is always that tight and soft~"
+    c "Humph~我的皮肤总是那么紧致柔软~"
 
 
 
-    player "Yeah, you are right, my fault~"
+    player "Yeah,你说得对,我说错了~"
 
 
     stop sound
@@ -521,31 +521,31 @@ label found_pool:
 
 
 
-    c "[P]~~ [P]~~ Ohhh... so hard~ Uhhhhhh~~~~ [P]~~"
+    c "[P]~~[P]~~Ohhh...好硬~Uhhhhhh~~~~[P]~~"
 
 
 
-    "I couldn’t really speed up in the water, everything I do is now in a slow motion, but I tried my best to keep my moves as powerful as normal."
+    "我无法在水中真正加速,现在我所做的一切都是慢动作,但我尽了最大努力让我的动作像往常一样有力."
 
 
 
-    "I can feel the ripple of her big hip every time I punch it with my crotch. That is... wow, just simply wow... ..."
+    "每次我用胯部猛击她的臀部时,我都能感觉到她臀部的波纹.这...wow,太wow......"
 
 
 
-    player "Theo, I love you! Can you feel my love now?"
+    player "西奥,我爱你!你现在能感受到我的爱吗?"
 
 
 
-    c "Huhhhh~~~ this is... ... ohhhhh~~~ yes, yes~~"
+    c "Huhhhh~~~这......ohhhhh~~~yes,yes~~"
 
 
 
-    c "Cock... underwater... ... hawwwwww~~~"
+    c "鸡巴...在水里......hawwwwww~~~"
 
 
 
-    c "I'mmmmm~~~ cummmmmmmmming~~~~~~~~"
+    c "我~~~要高潮了~~~~~~~~"
 
     stop sound
 
@@ -557,40 +557,40 @@ label found_pool:
 
 
 
-    c "So much fluids... are coming inside me... ..."
+    c "好多的液体...都进入了我的身体......"
 
 
 
-    c "Your sperms... and... ... the water... ... awwwww... ... I can’t tell... ..."
+    c "你的精子...还有...池水......awwwww......我......"
 
 
 
-    c "I... ..."
+    c "我......"
 
 
 
     scene found_pool_38 with tstmgr
 
-    "Theodora passed out under the great pleasure."
+    "狄奥多拉高兴得昏了过去."
 
 
 
-    player "So, Theo, how was your first time swimming here?"
+    player "西奥,你第一次来这里游泳感觉如何?"
 
 
 
     scene found_pool_39 with tstmgr
 
-    player "Theo?"
+    player "狄奥多拉?"
 
 
 
     "... ... ... ..."
 
 
-    call screen hint("From now on, you can bring your girls to the pool whose Intimacy have reached certain level.")
+    call screen hint("从现在起,你可以带你的亲密度达到二级的女孩去泳池了.")
 
-    call screen hint("You can do that by finding girls in their rooms and using the 'Take her to' button.")
+    call screen hint("你可以通过在女孩的房间里找到她们,并使用“带她去”按钮来做到这一点.")
 
     $ TRAINING["C"].inti += 1
 

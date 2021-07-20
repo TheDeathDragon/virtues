@@ -5,17 +5,17 @@ label store_2_sex_firstime:
 
     scene void with tstmgr
 
-    "Afternoon, in Lady Minna's hotel room..."
+    "下午,在明娜夫人的酒店房间..."
 
 
 
     scene store_2_sex_firstime_1 with dissolve
 
-    player "Ehhhh... ... Lady Minna, what are you going to do to me today?"
+    player "Ehhhh......明娜夫人,你今天要对我做什么?"
 
 
 
-    "Lady Minna" "No need to be hurry, kid, we still have plenty of time before Senning comes~"
+    "明娜夫人""不用着急,孩子,在森柠来之前我们还有很多时间~"
 
 
 
@@ -25,55 +25,55 @@ label store_2_sex_firstime:
 
 
 
-    "Shit... Don’t know how she is gonna torture me today... ..."
+    "Shit...不知道她今天会怎么折磨我......"
 
 
 
     scene store_2_sex_firstime_3 with tstmgr
 
-    "I mean, it’s not like I hate sadism or something, it’s just... ..."
+    "我不是说我讨厌虐待狂之类的,只是......"
 
 
 
-    "She always makes me look pathetic after teasing me constantly and she enjoys watching me being pathetic. She wants to hear me begging for sex but she won’t let me get what I want no matter how."
+    "她总是取笑我,让我看起来很可怜,她喜欢看我可怜.她想听我求她做爱但无论如何她都不让我得到我想要的."
 
 
 
     scene store_2_sex_firstime_4 with tstmgr
 
-    "Damn... I feel... so itchy... ... She is about to drive me crazy."
+    "Damn...我觉得...好痒...她快把我逼疯了."
 
 
 
     scene store_2_sex_firstime_5 with tstmgr
 
-    "I want to fuck her in the pussy so bad, but she just won’t let it happen. Ah... I guess I am just a toy for her. Why would she ever let a toy fuck her?"
+    "我很想和她上床,但她就是不让.Ah...我想我对她来说只是个玩具.她为什么要让一个玩具操她?"
 
 
 
-    "I should have just introduced my friends to her and got myself away from this if I was aware of her ‘weird fetishes’ before... ..."
+    "如果我之前就意识到她有“奇怪的癖好”,我就应该把我的朋友介绍给她,让自己远离这些......"
 
 
 
-    "And now it’s just too late... ..."
+    "现在一切都太晚了......"
 
 
 
     scene store_2_sex_firstime_6 with tstmgr
 
-    "But... ..."
+    "但是......"
 
 
 
-    "I know... ..."
+    "我知道......"
 
 
 
-    "If I can get my dick in her pussy just for one single time, I will be able to reverse the situation. By that time she will be the one who looks pathetic and begs me for sex!"
+    "如果我能把我的鸡巴插进她的小穴,哪怕只有一次,我就能扭转局面.到那时,她就会变成那个看起来很可怜,求我操她的人了!"
 
 
 
-    "But I can’t do anything without two free hands... ... Sigh... ..."
+    "但是没有两只自由的手,我什么也做不了......唉......"
 
 
 
@@ -81,101 +81,101 @@ label store_2_sex_firstime:
 
     $ flashlight()
 
-    "Hmmmmmmm... ... Wait, speaking of hands, it seems like she didn’t tie me up so tightly today. The ropes feel looser than usual."
+    "Hmmmmmmm......等等,说到手,看来她今天没把我绑得那么紧.绳子感觉比平时松."
 
 
 
-    "Is it possible to break myself free from the ropes?"
+    "我有可能从绳索中挣脱出来吗?"
 
 
 
-    "Lady Minna" "Ah~ Sorry for waiting~"
+    "明娜夫人""Ah~久等了~"
 
 
 
     scene store_2_sex_firstime_8 with tstmgr
 
-    player "Lady... Minna... ..."
+    player "明娜...夫人......"
 
 
 
     scene store_2_sex_firstime_9 with tstmgr
 
-    "Lady Minna" "You haven’t seen me completely naked before, have you? How do you like my body?"
+    "明娜夫人""你以前没见过我全裸吧?你喜欢我的身材吗?"
 
 
 
-    player "It is... gorgeous."
+    player "太...漂亮了."
 
 
 
     scene store_2_sex_firstime_10 with tstmgr
 
-    "Lady Minna" "Humph~ I’m not satisfied with only one adjective word. Come on, I want you to see it more clearly~"
+    "明娜夫人""Humph~我不满足于一个形容词.来吧,我想让你看得更清楚一点~"
 
 
 
-    player "Lady Minna... ..."
+    player "明娜夫人......"
 
 
 
-    player "You smell so good... and your tits are so... so... ..."
+    player "你闻起来好香...你的奶子好...好......"
 
 
 
     scene store_2_sex_firstime_11 with tstmgr
 
-    "Lady Minna" "So what?"
+    "明娜夫人""好什么?"
 
 
 
     scene store_2_sex_firstime_12 with tstmgr
 
-    player "So sweet... ..."
+    player "好甜......"
 
 
 
-    "Lady Minna" "Ohh~ You are sweet too~ Guess I’ll have to give you a little reward."
+    "明娜夫人""Ohh~你也很甜~我想我得给你一点奖励."
 
 
 
     scene store_2_sex_firstime_13 with tstmgr
 
-    "She gently pushed my head away."
+    "她轻轻地把我的头推开."
 
 
 
-    player "Eh... I will be fine if you just let me suck your nipple for another minute..."
+    player "Eh...如果你让我再吮吸你的乳头一分钟,我就没事了..."
 
 
 
     scene store_2_sex_firstime_14 with tstmgr
 
-    "She suddenly jumped up and squatted on top of me."
+    "她突然跳起来,蹲在我身上."
 
 
 
-    "Lady Minna" "I’m the one who decides what the reward is~"
+    "明娜夫人""我是决定奖励是什么的人~"
 
 
 
-    "Ah... yeah, she is not rewarding me for anything. She just want to have fun herself."
+    "Ah...yeah,她没有给我任何奖励.她只是想自己找点乐子."
 
 
 
     scene store_2_sex_firstime_15 with tstmgr
 
-    player "Are we finally having sex?"
+    player "我们终于要做爱了吗?"
 
 
 
-    "Lady Minna" "Not yet, son, not yet~ I will make you cum in another way~"
+    "明娜夫人""还不行,儿子,还不行,我会用另一种方式让你射精~"
 
 
 
     scene store_2_sex_firstime_17 with tstmgr
 
-    "She then sat on my body and began to rub my dick with her fat ass."
+    "然后她坐在我身上,开始用她的肥屁股摩擦我的鸡巴."
 
 
 
@@ -197,11 +197,11 @@ label store_2_sex_firstime:
 
 
 
-    "Ohhhh... Shit... ... I feel that my dick is almost slipping into her wet pussy."
+    "Ohhhh...Shit......我感觉我的鸡巴几乎要滑进她潮湿的小穴了."
 
 
 
-    "Just... just a little more... ..."
+    "再...再多一点......"
 
 
 
@@ -211,11 +211,11 @@ label store_2_sex_firstime:
 
 
 
-    "And she evaded it again, of course she would do that, what was I expecting?"
+    "她又回避了一次,当然她会那样做,这是我所期待的?"
 
 
 
-    "The more desperate I want to get in her pussy, the more pathetic I will look like, the more enjoyment she will get."
+    "我越不顾一切地想进入她的小穴,我就会看起来越可怜,她就会得到越多的乐趣."
 
 
 
@@ -223,27 +223,27 @@ label store_2_sex_firstime:
 
 
 
-    "*Choose the first option if you don’t want to go further with Lady Minna.*"
+    "*选择第一个选项如果你不想和明娜夫人更进一步.*"
 
 
 
     label store_2_sex_firstime_choice_1:
 
     menu:
-        "So be it":
+        "顺其自然":
 
 
-            "Ah, so be it then. I don’t really need a pussy to cum anyway."
+            "Ah,就这样吧.反正我也不需要小穴来射精."
 
-            "Actually I am about to cum already, thanks to her fat ass."
+            "其实我都快射出来了,多亏了她的大屁股."
 
-            player "Lady Minna, I think I’m about to... ..."
+            player "明娜夫人,我想我马上......"
 
-            "Lady Minna" "Already? Very well then~"
+            "明娜夫人""已经好了?那好吧~"
 
             scene store_2_sex_firstime_17 with tstmgr
 
-            "She then sat on my body and began to rub my dick with her fat ass."
+            "然后她坐在我身上,开始用她的肥屁股摩擦我的鸡巴."
 
             scene store_2_sex_firstime_18 with tstmgr
 
@@ -263,57 +263,57 @@ label store_2_sex_firstime:
 
             player "Ohhhhhhhhhh!!!!!~~~"
 
-            "I came under the great shame again... ..."
+            "我又感到羞耻了......"
 
             scene store_2_sex_firstime_32 with tstmgr
 
             player "Huh... huh... ... ... ..."
 
-            "Lady Minna" "*A little disappointed* ... ... ... ..."
+            "明娜夫人""*有点失望*............"
 
-            "Lady Minna" "This is not as fun as I thought it was."
+            "明娜夫人""这没我想的那么好玩."
 
-            "Lady Minna" "But anyway, Senning is about to come, let’s clean it up and don’t let her find out~"
+            "明娜夫人""但是不管怎样,森柠就要来了,我们收拾一下,别让她发现~"
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Fight back":
+        "反击":
 
 
 
 
-            "But this time things are different. This time... I have the power to fight back."
+            "但这一次情况有所不同.这一次...我有反击的能力."
 
             scene store_2_sex_firstime_21 with tstmgr
 
-            "I suddenly broker myself free from the ropes and controlled her in my arms."
+            "我突然挣脱了绳索,把她搂在怀里."
 
-            "Lady Minna" "Emmm? How did you... ..."
+            "明娜夫人""Emmm?你怎么......"
 
-            player "You are not going to treat me like a toy anymore, Lady Minna! The situation is reversed now, I am the one in charge!"
+            player "你不能再把我当玩具了,明娜夫人!现在情况颠倒了,我是主导者!"
 
-            "Lady Minna" "Oh dear, you are so manly~"
+            "明娜夫人""哦,亲爱的,你真男人~"
 
-            "Lady Minna" "Alright, big man, what are you going to do?"
+            "明娜夫人""好吧,大个子,你打算怎么办?"
 
-            player "I’m going to... ..."
+            player "我要......"
 
             scene store_2_sex_firstime_22 with tstmgr
 
-            "I suddenly got up and threw her on the chair."
+            "我突然站起来,把她扔到椅子上."
 
-            "Lady Minna" "Oh, wow~ So violent~ It seems like I have made this beast suffocate for too long... ..."
+            "明娜夫人""Oh,wow~好暴力~似乎我已经让这头野兽窒息太久了......"
 
-            player "Yes, and now the beast is taking a fucking revenge!"
+            player "Yes,现在那野兽要报复了!"
 
             scene store_2_sex_firstime_23 with tstmgr
 
-            "Lady Minna" "What are you waiting for then? Come on, let me show what you got~"
+            "明娜夫人""那你还在等什么?来吧,让我看看你有什么本事~"
 
-            "Emmmm... ... Why does it feel like she has seen it all coming? She is spreading her legs and waiting for the incoming penetration."
+            "Emmmm......为什么感觉她已经预见到一切的来临?她张开双腿,等待插入."
 
-            "Ah, shit, whatever! The beast is taking a fucking revenge!"
+            "Ah,shit,随你的便!野兽要复仇了!"
 
             scene store_2_sex_firstime_24 with tstmgr
 
@@ -327,86 +327,86 @@ label store_2_sex_firstime:
 
             $ flashlight()
 
-            "Ahhhhhh~ Yes, finally... Lady Minna’s wet warm pussy is now mine!"
+            "Ahhhhhh~Yes,终于...明娜夫人潮湿温暖的小穴现在是我的了!"
 
             scene store_2_sex_firstime_27 with tstmgr
             play sound store_2_sex_firstime_27 loop
             pause
 
-            player "Lady Minna... Lady Minna... ... You are finally mine now!"
+            player "明娜夫人...明娜夫人......你现在终于是我的了!"
 
-            "Lady Minna" "Ahhhhhh~ This... young energetic dick~ feels so good~~~"
+            "明娜夫人""Ahhhhhh~这个...年轻精力充沛的鸡巴~感觉好棒~~~"
 
-            "Lady Minna" "It seems that the efforts of the past few days have not been in vain."
+            "明娜夫人""看来这几天的努力并没有白费."
 
-            player "What? This is... part of your plan?"
+            player "什么?这是...你计划的一部分?"
 
-            "Lady Minna" "Of course~ Only thirst can bring out the full potential of a beast. I have kept you thirsty long enough, and look what I have created? A fucking machine~"
+            "明娜夫人""当然,只有饥渴才能激发出野兽的全部潜能.我已经让你饥渴够久了,看看我创造了什么?做爱机器~"
 
-            "Lady Minna" "And now, just let me enjoy it~"
+            "明娜夫人""现在,让我好好享受吧~"
 
             player "... ... ... ..."
 
-            player "You are playing with fire, my lady. Aren’t you afraid of creating a beast that cannot be controlled?"
+            player "你这是在玩火,夫人.你不怕创造出一个无法控制的野兽吗?"
 
-            "Lady Minna" "What are you talking about? To me, you are still just a naive kid and I know exactly how to control a kid~"
+            "明娜夫人""你在说什么?对我来说,你仍然只是一个天真的孩子,我很清楚如何控制一个孩子~"
 
-            player "Is... that... so... ..."
+            player "是...这样...吗......"
 
             stop sound
             scene store_2_sex_firstime_28 with tstmgr
             play sound store_2_sex_firstime_28 loop
 
-            "I suddenly sped up and increased the intensity of this piston movement..."
+            "我突然加速,加大了抽插的强度..."
 
-            "Lady Minna" "W... wait a moment. This is... a little... ... too... ..."
+            "明娜夫人""等等...这...有点......太......"
 
-            player "Can you still be as relaxed as you were just now, my lady?"
+            player "你还能像刚才那样放松吗,夫人?"
 
-            "Lady Minna" "How could you... awwwwwwww~~~~ This is not what I expected~~~"
+            "明娜夫人""你怎么能...awwwwwwww~~~~这不是我想要的~~~"
 
-            "Lady Minna" "Uhhh~~ Wait~~~ ohhhh~~ Too hard~ You are fucking me too hard~~~"
+            "明娜夫人""Uhhh~~等等~~~ohhhh~~太用力了...你操我太用力了~~~"
 
-            player "But your pussy is sucking me so tight~"
+            player "但你的小穴把我吸得很紧~"
 
-            "Lady Minna" "I have never been... fucked like this~~ Awwwwwwwwwww~~~~"
+            "明娜夫人""我从来没有...这样被操~~Awwwwwwwwwww~~~~"
 
-            player "Now you see what a big mistake you have done? You underestimated me so bad! I have told you that I am the fucking harem-game-protagonist type of man!"
+            player "现在你知道你犯了多大的错误了吧?你太低估我了!我跟你说过我是那种搞后宫游戏的男人!"
 
-            "Lady Minna" "I’m sorry!~~ I’m sorry!~~ Please forgive me~~~ Ohhhhhhhhh~~~"
+            "明娜夫人""我错了!~~对不起!请原谅我~~~Ohhhhhhhhh~~~"
 
-            "Lady Minna" "So strong~~ So powerful~~ If you don’t get it out now... I will... I will... ..."
+            "明娜夫人""太粗了~~太强烈了~~如果你现在不拔出来...我就要...我就要......"
 
-            "Lady Minna" "I will never be able to forget this feeling!!!~~~~ Ohhhhh~~~~"
+            "明娜夫人""我永远都无法忘记这种感觉!!!~~~~Ohhhhh~~~~"
 
-            player "So be it then, Lady Minna! I will make you a bitch that can’t cum without my dick as the punishment to you!"
+            player "就这样吧,明娜夫人!作为对你的惩罚,我会让你变成一个没有我鸡巴就不能高潮的婊子!"
 
-            "Lady Minna" "Ohhhhhhhhhhh!!!~~~ Nooooo~~~~"
+            "明娜夫人""Ohhhhhhhhhhh!!!~~~ Nooooo~~~~"
 
-            "Lady Minna" "I’m cumming!!!!!~~~~"
+            "明娜夫人""我高潮了!!!!!~~~~"
 
             stop sound
             scene store_2_sex_firstime_29 with tstmgr
             play sound cumshot
             $ flashlight()
 
-            "Lady Minna" "Ohhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!~~~~~~~~~~"
+            "明娜夫人""Ohhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!~~~~~~~~~~"
 
-            "Ahhhhhh, we came together and damn, I think it has been a while since the last time I came so much. She really made me a beast... ..."
+            "Ahhhhhh,我们同时高潮了,该死,我想我上次像这样已经有一段时间了.她把我变成了野兽......"
 
             scene store_2_sex_firstime_30 with tstmgr
 
-            "Lady Minna" "Dick... beast's dick... ... give me... more... dick... ..."
+            "明娜夫人""鸡巴...野兽的鸡巴......给我...鸡巴......"
 
-            "It seems like she just lost herself in that intensive orgasm. Ha, I think I have taught her a good lesson~"
+            "她好像在强烈的高潮中迷失了自己.哈,我想我给了她一个很好的教训~"
 
-            "But now... I’d better help her clean things up. Senning is about to come... ..."
+            "但现在...我最好帮她收拾好.森柠就要来了......"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "*More plots about Lady Minna will be out in the future updates.*"
+            "*更多关于明娜夫人的情节将在未来的更新中发布.*"
 
     stop music fadeout 1.0
 

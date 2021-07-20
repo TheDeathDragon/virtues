@@ -3,7 +3,7 @@ label C_daily_14:
     scene void with tstmgr
     play music happy
 
-    "I came to the beach with Theodora today because she wanted to swim."
+    "今天我和狄奥多拉来到海滩,因为她想游泳."
 
 
 
@@ -13,23 +13,23 @@ label C_daily_14:
 
 
 
-    "Well, I don’t swim well so the only thing I can do is to wait here for her while she is in the water."
+    "Well,我游泳游得不好,所以我唯一能做的就是等她当她游的时候."
 
 
 
     scene c_daily14_2 with tstmgr
 
-    player "Ah... it makes me sleepy... ..."
+    player "Ah...这让我昏昏欲睡......"
 
 
 
-    player "It seems like she is not going to get on land very soon. Maybe now I should go buy myself a drink... ..."
+    player "看来她还得一会儿.也许现在我该去给自己买杯饮料了......"
 
 
 
     scene void with tstmgr
 
-    "I then got up and went to the store nearby..."
+    "然后我起身去了附近的商店..."
 
 
 
@@ -39,7 +39,7 @@ label C_daily_14:
 
     scene c_daily14_3 with dissolve
 
-    player "Huh~~ Ice cold beer is always the best drink in a sunny day~"
+    player "Huh~~在阳光明媚的日子里,冰镇啤酒总是最好的饮料~"
 
 
 
@@ -51,19 +51,19 @@ label C_daily_14:
 
     scene c_daily14_5 with tstmgr
 
-    player "Hey man, what are in those red bottles?"
+    player "Hey伙计,那些红瓶子里装的是什么?"
 
 
 
-    "Store owner" "The aphrodisiac lotion."
+    "店主""催情乳液."
 
 
 
-    player "What? I... I don’t get it."
+    player "什么?我...我没太懂."
 
 
 
-    "Store owner" "Eh... well, you see, people on the beach like to rub sunscreen for each other. That’s the ultimate flirting, don’t you think? A man and a woman, touching each other’s naked body with oil... ..."
+    "店主""Eh...well,你看,海滩上的人们喜欢互相擦防晒霜.那是终极的调情,你不觉得吗?一个男人和一个女人,用油触摸对方的裸体......"
 
 
 
@@ -71,11 +71,11 @@ label C_daily_14:
 
 
 
-    "Store owner" "What they need now is just a little bit of a catalyst before going to sex, which is this, the aphrodisiac lotion that looks like exactly like sunscreen~"
+    "店主""他们现在需要的只是在做爱前的一点催化剂,就是这个,一种看起来像防晒霜的催情乳液~"
 
 
 
-    "Store owner" "Many people come to buy it and rub it on their mate’s back by pretending that it is sunscreen. And... you know what will happen next, right?"
+    "店主""许多人来买它,假装它是防晒霜,把它擦在伴侣的背上,然后...你知道接下来会发生什么,对吧?"
 
 
 
@@ -83,15 +83,15 @@ label C_daily_14:
 
 
 
-    player "Man... ... You are really a freaking commercial genius... ..."
+    player "伙计......你真是个商业天才......"
 
 
 
-    player "So how good your lotion is anyway? Can it really make people horny?"
+    player "那么你的乳液到底有多好呢?它真的能让人性欲上升吗?"
 
 
 
-    "Store owner" "Well, my friend, you will have to find out yourself. It is the bestselling product in my store. Do you need one?"
+    "店主""Well,我的朋友,你自己去找答案吧.这是我们店里最畅销的产品.你需要吗??"
 
 
 
@@ -101,13 +101,13 @@ label C_daily_14:
 
 
 
-    player "Okay, I’ll have one. I’m... quite curious."
+    player "Okay,来一瓶.我...很好奇."
 
 
 
     scene c_daily14_7 with tstmgr
 
-    "Store owner" "Here you are then, have a good time with your girl~"
+    "店主""给你,祝你和你的女孩玩得愉快~"
 
 
 
@@ -117,27 +117,27 @@ label C_daily_14:
 
     scene void with tstmgr
 
-    "I left the store with a bottle of the aphrodisiac lotion..."
+    "我带着一瓶催情乳液离开了商店..."
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene c_daily14_8 with dissolve
 
-    c "I’m back~"
+    c "我回来了~"
 
 
 
-    "Theodora seemed to be in a good mood after swimming."
+    "狄奥多拉游泳后心情似乎很好."
 
 
 
     scene c_daily14_9 with tstmgr
 
-    c "What’s that in your hand? Sunscreen?"
+    c "你手里拿的是什么?防晒霜?"
 
 
 
@@ -147,21 +147,21 @@ label C_daily_14:
 
     scene c_daily14_10 with tstmgr
 
-    c "Do you want to rub it on my body?"
+    c "你想把它擦在我身上吗?"
 
 
 
-    c "Well, you should have done that an hour ago. Now I don’t need it anymore since we are about to go home. But... ... I'll still allow you to do it for me, as a compensation for letting you wait me for so long~"
+    c "Well,你一小时前就该这么做了.现在我不需要了,因为我们就要回家了.但......我还是允许你替我做这件事,作为让你等了我这么久的补偿~"
 
 
 
     scene c_daily14_11 with tstmgr
 
-    c "Or maybe... I can do something to make it up for you tonight... in your room... ..."
+    c "或者...我今晚可以为你做些事情来弥补...在你的房间里......"
 
 
 
-    player "Theo... ..."
+    player "狄奥......"
 
 
 
@@ -171,11 +171,11 @@ label C_daily_14:
 
     scene c_daily14_12 with tstmgr
 
-    player "(What a fool I am. I don’t need this lotion at all. This lotion... is not for true lovers like Theodora and me. I’ll just ask her when I want to have sex with her.)"
+    player "(我真是个傻瓜.我根本不需要这种乳液.这个乳液...不是为像狄奥多拉和我这样的真心相爱的人准备的.我想做爱的时候会直接和她说.)"
 
 
 
-    player "Let’s go home, Theo. You must be tired now~"
+    player "我们回家吧,西奥.你现在一定累了~"
 
 
 
@@ -183,7 +183,7 @@ label C_daily_14:
 
 
 
-    c "Seriously, when are you going to let me teach you swimming?"
+    c "说真的,你什么时候才让我教你游泳呢?"
 
 
 

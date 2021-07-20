@@ -3,21 +3,21 @@ label CDE_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, in Theodora’s office..."
+    "今天晚些时候在狄奥多拉的办公室..."
 
 
 
     scene cde_duo_2_1 with dissolve
 
-    e "Theo~ can you go stay with Irene for tonight? I may not be able to go home tonight..."
+    e "西奥~你今晚能回家陪艾琳吗?我今晚可能回不了家了..."
 
 
 
-    c "Where are you going then?"
+    c "那你要去哪里?"
 
 
 
-    e "I... eh... ... need to go out for a business trip again~"
+    e "我...eh......我又要出差了~"
 
 
 
@@ -27,23 +27,23 @@ label CDE_duo_2:
 
 
 
-    c "Okay, mom, have fun."
+    c "Okay,妈妈,玩得开心."
 
 
 
-    e "I am... ehhh... ... going out for business, not for fun... ..."
+    e "我...ehhh......出去是为了工作,不是为了玩......"
 
 
 
-    c "Yeah, yeah, whatever~"
+    c "Yeah,yeah,无所谓了~"
 
 
 
-    e "Anyway, I... I’m leaving now..."
+    e "不管怎样,我...我现在要走了..."
 
 
 
-    "Elisa then left Theodora’s office."
+    "伊莉莎离开了狄奥多拉的办公室."
 
 
 
@@ -55,11 +55,11 @@ label CDE_duo_2:
 
     scene void with tstmgr
 
-    "Theodora soon got up and followed Elisa out of the company, of course, without getting her attention."
+    "狄奥多拉很快站了起来,跟着伊莉莎走出了公司,当然,没有引起她的注意."
 
 
 
-    "Sometime later, in the forest..."
+    "过了一会儿,在森林里..."
 
 
 
@@ -69,11 +69,11 @@ label CDE_duo_2:
 
 
 
-    e "Awww... I can’t wait... ... He will be so thrilled when he sees what I have prepared for him today~"
+    e "Awww...我等不及了......当他看到我今天为他准备的一切时,他会非常激动的~"
 
 
 
-    "The mature lady has planned out today for quite a long time, but she was too excited to notice that she was followed by someone along the way."
+    "这位成熟的女士为今天准备了很长时间,但她太兴奋了,没有注意到一路上有人跟着她."
 
 
 
@@ -85,31 +85,31 @@ label CDE_duo_2:
 
     scene void with tstmgr
 
-    "After Elisa entered the bangalow... ..."
+    "在伊莉莎进入平房之后......"
 
 
 
     scene cde_duo_2_6 with dissolve
 
-    c "So... this is the place... ... a bungalow in deep forest? Mom... ... why would you choose to spend hours to reach this place by foot just to meet a man?"
+    c "所以...这个地方是......森林深处的平房?妈妈...你为什么要花几个小时步行到这里来就为了见一个男人?"
 
 
 
-    c "I understand that she doesn’t want others to find out her secret relationship, but this is too much, isn’t it?"
+    c "我知道她不想让别人发现她的秘密关系,但这也太过分了,不是吗?"
 
 
 
     scene cde_duo_2_7 with tstmgr
 
-    "Theodora hesitated at the door for a long time and still couldn’t make up her mind to go inside."
+    "狄奥多拉在门口犹豫了很长时间,仍然拿不定主意要不要进去."
 
 
 
-    c "Okay, Theodora, calm down, don’t let your curiosity get better of you. Think carefully... ..."
+    c "Okay,狄奥多拉,冷静,别被你的好奇心冲昏了头脑.仔细想想......"
 
 
 
-    c "There must be a reason of why mom doesn’t want others to find out her secret. I may regret it for my life if I choose to go inside now... ..."
+    c "妈妈不想让别人发现她的秘密一定是有原因的.如果我现在选择进去,我可能会后悔一辈子......"
 
 
 
@@ -119,17 +119,17 @@ label CDE_duo_2:
 
 
 
-    c "But... ... ... ..."
+    c "但是............"
 
 
 
-    c "Shit, whatever, I really want to know what is going on in here!"
+    c "Shit,不管怎样,我真的很想知道这是怎么回事!"
 
 
 
     scene void with tstmgr
 
-    "She eventually decided to go inside and ask her mother directly."
+    "她最终决定进去直接问她妈妈."
 
 
 
@@ -139,75 +139,75 @@ label CDE_duo_2:
 
     scene cde_duo_2_9 with dissolve
 
-    e "Ah~ here you are, I have waited you for... ..."
+    e "Ah~你来了,我一直在等你......"
 
 
 
     scene cde_duo_2_10 with tstmgr
 
-    e "Uhh!!! Theo?!"
+    e "Uhh!!!西奥?!"
 
 
 
-    c "Hi, mom... ..."
+    c "Hi,妈妈......"
 
 
 
     scene cde_duo_2_11 with tstmgr
 
-    e "Theo... ... How did you get here?"
+    e "西奥...你怎么来的?"
 
 
 
-    c "By following you, of course. Business trip, huh?"
+    c "当然是跟着你.商务出差,huh?"
 
 
 
     scene cde_duo_2_12 with tstmgr
 
-    e "I... ... sorry for lying to you... ..."
+    e "我...对不起,我骗了你......"
 
 
 
     scene cde_duo_2_13 with tstmgr
 
-    c "It’s okay. Irene and I are all happy for you."
+    c "没关系.艾琳和我都为你感到高兴."
 
 
 
-    e "(Happy... for me? It looks like they don’t know who I am dating with yet...)"
+    e "(为我...感到高兴?看起来她们还不知道我在和谁约会...)"
 
 
 
-    c "But seriously, what is with this dress?"
+    c "但说真的,这条裙子有什么用?"
 
 
 
     scene cde_duo_2_14 with tstmgr
 
-    e "This is... eh... ... I am just... ... eh... ..."
+    e "这是...eh......我只是......eh......"
 
 
 
-    c "It’s very beautiful, mom, I am jealous of that man already~"
+    c "太漂亮了,妈妈,我已经嫉妒那个男人了~"
 
 
 
-    c "So... is he here yet?"
+    c "所以...他来了吗?"
 
 
 
     scene cde_duo_2_15 with tstmgr
 
-    e "Not... yet... ..."
+    e "还...没......"
 
 
 
-    e "([P] will be here in less than 30 minutes, I can't let her see him!)"
+    e "([P]30分钟内就到这里,我不能让她见到他!)"
 
 
 
-    e "(What... should I do?... ...)"
+    e "(我该怎么办?......)"
 
 
 
@@ -215,21 +215,21 @@ label CDE_duo_2:
 
 
 
-    e "(Wait, if I can make her drunk before [P] arrives... ...)"
+    e "(等等,如果我能在到[P]达之前把她灌醉......)"
 
 
 
     scene cde_duo_2_16 with tstmgr
 
-    e "Theo... do you want to... drink with me?"
+    e "西奥...你想要...跟我喝点酒吗?"
 
 
 
-    "Yep, women in love are all silly as hell... ..."
+    "Yep,恋爱中的女人都傻得要命......"
 
 
 
-    c "Yeah, why not? I have a lot of questions to ask you, mom~"
+    c "Yeah,为什么不呢?我有很多问题要问你,妈妈~"
 
 
 
@@ -239,7 +239,7 @@ label CDE_duo_2:
 
 
 
-    "Half an hour later... ..."
+    "半小时后......"
 
 
 
@@ -247,11 +247,11 @@ label CDE_duo_2:
 
 
 
-    player "Okay, this is weird, why is there two pairs of woman’s shoes in the hallway? Is there more than one person in the house?"
+    player "Okay,真奇怪,为什么走廊里有两双女鞋?房子里不止一个人吗?"
 
 
 
-    player "*Opening the room door* Eh, hi, Elisa, is there... ..."
+    player "*打开房门*Eh,hi,伊莉莎......"
 
 
 
@@ -263,35 +263,35 @@ label CDE_duo_2:
 
 
 
-    c "Mom... I really can’t drink anymore. I don’t want to... hic... get drunk before I see my future stepdad~"
+    c "妈妈...我真的不能再喝了.我不想...嗝...在我见到未来的继父之前喝个烂醉~"
 
 
 
-    "Well, Elisa has made it. She knows her daughter is a terrible drinker and she has successfully made her drunk before [P] arrives."
+    "Well,伊莉莎成功了.她知道她的女儿酒量很糟,她成功地在[P]]到来之前把她灌醉了."
 
 
 
-    "But the things is, she doesn’t realize that her daughter’s bad drinking was inherited from herself."
+    "但问题是,她没有意识到她女儿的酒量是遗传自她自己."
 
 
 
-    "And now... ..."
+    "那么现在......"
 
 
 
     scene cde_duo_2_18 with tstmgr
 
-    player "What’s going on here? Why are you dressed like this?"
+    player "这是怎么回事?你为什么穿成这样?"
 
 
 
-    e "Theo was clamoring for wearing this~ Adorable, right?"
+    e "西奥吵着要穿这个~很可爱,对吧?"
 
 
 
     scene cde_duo_2_19 with tstmgr
 
-    c "Yes, I... ... ... ..."
+    c "Yes,我............"
 
 
 
@@ -303,11 +303,11 @@ label CDE_duo_2:
 
     scene cde_duo_2_21 with tstmgr
 
-    c "This... this is my future stepdad?"
+    c "这...这是我未来的继父?"
 
 
 
-    c "Why does he look like... [P] so much?"
+    c "他为什么长得这么像...?"
 
 
 
@@ -315,19 +315,19 @@ label CDE_duo_2:
 
 
 
-    player "I am [P], silly."
+    player "我就是[P],傻瓜."
 
 
 
     scene cde_duo_2_22 with tstmgr
 
-    c "Hmmmmm... ... [P] is my future stepdad?"
+    c "Hmmmmm......[P]是我未来的继父吗?"
 
 
 
     scene cde_duo_2_23 with tstmgr
 
-    e "Haven’t you noticed it? We have exactly the same taste in men, honey~"
+    e "你没注意到吗?我们对男人的品味一模一样,亲爱的~"
 
 
 
@@ -337,21 +337,21 @@ label CDE_duo_2:
 
     scene cde_duo_2_24 with tstmgr
 
-    c "Ah, I get it, this must be a crazy dream..."
+    c "Ah,我懂了,这一定是个疯狂的梦..."
 
 
 
     scene cde_duo_2_25 with tstmgr
 
-    e "Yeah! This is all a dream!~~~ A dream!~"
+    e "Yeah!这一切都是一场梦!~~~一个梦!~"
 
 
 
-    player "Damn, how much did you drink?"
+    player "Damn,你喝了多少?"
 
 
 
-    c "If this is just a dream, then... ..."
+    c "如果这只是个梦,那么......"
 
 
 
@@ -359,27 +359,27 @@ label CDE_duo_2:
 
     $ flashlight()
 
-    c "Let’s just make it even crazier~"
+    c "让我们把它变得更疯狂~"
 
 
 
-    e "Crazier, yes~"
+    e "更疯狂,yes~"
 
 
 
-    player "I... I think you guys may need some further consideration at... whatever you are doing... ..."
+    player "我...我想你们可能需要进一步考虑...不管你在做什么......"
 
 
 
-    c "Take off your shirt, little virgin, can’t you feel how hot this place is?"
+    c "把衬衫脱了,小处男,你难道感觉不到这地方有多热吗?"
 
 
 
-    player "Eh... ... I... ..."
+    player "Eh......我......"
 
 
 
-    player "Fine, whatever, this is not my fault. You can’t blame me for this after you sober up!"
+    player "好吧,管他呢,这不是我的错.等你清醒了,你不能怪我!"
 
 
 
@@ -391,75 +391,75 @@ label CDE_duo_2:
 
     scene cde_duo_2_27 with dissolve
 
-    e "[P]~~~~~ Would you like to have some sake too?~"
+    e "[P]~~~~~要不要也来点清酒?~"
 
 
 
-    "Oh dear, this is... this is what I dream about everyday. The busty mother and daughter from the Shinyrost family are all in my arms now... ..."
+    "天啊,这...这就是我每天的梦想.新光家的丰满妈妈和女儿现在都在我的怀抱里......"
 
 
 
-    "Hmmm... if Irene can be here too... ..."
+    "Hmmm...如果艾琳也能来的话......"
 
 
 
-    "Shit, stop being so greedy, [P]! You are the fucking luckiest man in this world already!"
+    "Shit,别那么贪心,[P]!你已经是这个世界上最幸运的人了!"
 
 
 
     scene cde_duo_2_28 with tstmgr
 
-    c "*Licking [P]’s nipple* ... ... ... ..."
+    c "*舔[P]的乳头*............"
 
 
 
     scene cde_duo_2_29 with tstmgr
 
-    player "Emmmm, Theo?"
+    player "Emmmm,西奥?"
 
 
 
     scene cde_duo_2_30 with tstmgr
 
-    c "Mom is asking you, don’t keep her waiting."
+    c "妈妈在问你,别让她久等了."
 
 
 
     scene cde_duo_2_31 with tstmgr
 
-    player "Oh, damn, sorry, auntie, I... ..."
+    player "Oh,damn,对不起,阿姨,我......"
 
 
 
     scene cde_duo_2_32 with tstmgr
 
-    player "I won’t drink any alcohol today. You know what a bad drinker I am and I always forget things after drinking."
+    player "我今天不喝酒了.你知道我的酒量有多差,我喝完酒总是忘事."
 
 
 
-    player "I’m not gonna forget anything happens today. I will remember tonight for my life!"
+    player "我不会忘记今天发生的任何事.我将终生铭记今晚!"
 
 
 
     scene cde_duo_2_33 with tstmgr
 
-    e "Hip... ... Okay then~"
+    e "Hip......好吧那~"
 
 
 
-    e "If you don’t want to have any sake, then... ..."
+    e "如果你不想喝清酒,那......"
 
 
 
     scene cde_duo_2_34 with tstmgr
 
-    e "What do you say to having some auntie’s milk instead?~"
+    e "你觉得喝点阿姨的奶怎么样?~"
 
 
 
     scene cde_duo_2_35 with tstmgr
 
-    player "Elisa, that... will be so great... ..."
+    player "伊莉莎...这...会很棒的......"
 
 
 
@@ -467,7 +467,7 @@ label CDE_duo_2:
 
     $ flashlight()
 
-    "And~~~ my mouth was filled with a fragrance boob the next second~"
+    "And~~~我的嘴里立刻充满了香味~"
 
 
 
@@ -477,31 +477,31 @@ label CDE_duo_2:
 
 
 
-    e "Yes, yes, good baby, good baby~"
+    e "Yes,yes,乖宝宝,乖宝宝~"
 
 
 
     scene cde_duo_2_38 with tstmgr
 
-    player "Elisa... ziiip~~ gulum~~ siiiiip~~~~"
+    player "伊莉莎...ziiip~~gulum~~siiiiip~~~~"
 
 
 
-    player "So... gulum~~ delicious~~~"
+    player "好...gulum~~好吃~~~"
 
 
 
     scene cde_duo_2_39 with tstmgr
 
-    e "No need to suck that hard, sweetie~ It is all yours today~"
+    e "亲爱的,没必要那么用力~今天一切都是你的了~"
 
 
 
-    e "And try not to get drunk by my milk~"
+    e "别被我的牛奶灌醉了~"
 
 
 
-    player "Wuummm~~~ ziiipp~~~ Elisa... ... siiip~~~"
+    player "Wuummm~~~ziiipp~~~伊莉莎......siiip~~~"
 
 
 
@@ -511,11 +511,11 @@ label CDE_duo_2:
 
 
 
-    c "[P], you are bothering mom for too long."
+    c "[P],你打扰妈妈太久了."
 
 
 
-    player "*Immersing himself in the softness of Elisa’s boob and her delicious milk* Wummmmm~ wummm~ gulum~~~ gulum~~~ mmm... ..."
+    player "*沉浸在伊莉莎柔软的乳房和美味的奶里*Wummmmm~wummm~gulum~~~gulum~~~mmm......"
 
 
 
@@ -527,45 +527,45 @@ label CDE_duo_2:
 
     scene cde_duo_2_42 with tstmgr
 
-    c "Why can’t I have any milk?... ..."
+    c "为什么我不能喝奶?......"
 
 
 
-    "If I wasn’t paying too much attention to Elisa’s boob, I probably wouldn’t have missed the scene of Theo being cute and getting jealous at her mother... ... But whatever~ it will happen again in the future anyway~"
+    "如果我不把注意力放在伊莉莎的胸上,我可能就不会错过西奥的可爱和对她妈妈的嫉妒......但无论如何,这在未来还会发生~"
 
 
 
     scene cde_duo_2_43 with tstmgr
 
-    player "Elisa... ... that was... the best milk in this world... ..."
+    player "伊莉莎...这是...世界上最好喝的奶......"
 
 
 
-    e "Glad to see you like it, sweetie~"
+    e "很高兴看到你喜欢,亲爱的~"
 
 
 
     scene cde_duo_2_44 with tstmgr
 
-    e "And Theo, don't be upset, let mommy share some milk with you~"
+    e "西奥,别生气,让妈妈给你一起喝点牛奶~"
 
 
 
-    c "Hmmm? How could you share that?"
+    c "Hmmm?你怎么给?"
 
 
 
-    e "Just hold your tits up, honey~"
+    e "把你的胸抬起来,亲爱的~"
 
 
 
     scene cde_duo_2_45 with tstmgr
 
-    c "You mean like this?... ..."
+    c "你的意思是这样?......"
 
 
 
-    e "Perfect, and now... ... ... ..."
+    e "完美,现在............"
 
 
 
@@ -579,33 +579,33 @@ label CDE_duo_2:
 
 
 
-    "What am I looking at right now? Is this the fucking reality?"
+    "我现在看到的是什么?这是他妈的现实吗?"
 
 
 
-    c "Mom, this looks dumb..."
+    c "妈妈,这看起来很蠢..."
 
 
 
-    c "And so lewd... ... ... ..."
+    c "而且很淫荡............"
 
 
 
     scene cde_duo_2_47 with tstmgr
 
-    e "Shhhh, see, your nipples are covered in my milk now~"
+    e "Shhhh,看,你的乳头现在都被我的奶覆盖了~"
 
 
 
-    c "Now it is even lewder~~"
+    c "现在它甚至更下流~~"
 
 
 
-    c "Our boobs... are like cream bread... ..."
+    c "我们的乳房...就像奶油面包......"
 
 
 
-    e "Do you want to have a taste of Theo’s cream bread, [P]?"
+    e "你想尝尝西奥的奶油面包吗,[P]?"
 
 
 
@@ -615,29 +615,29 @@ label CDE_duo_2:
 
     scene cde_duo_2_48 with tstmgr
 
-    e "Come on then, Theo has been waiting~"
+    e "那来吧,西奥一直在等着呢~"
 
 
 
-    c "Mom... ... ... ..."
+    c "妈妈............"
 
 
 
-    c "We must be drunk, mom, otherwise... we would never do such a thing to please a man... ..."
+    c "我们一定是喝醉了,妈妈,否则...我们绝不会为了取悦一个人而做这种事......"
 
 
 
-    "Shit, is she sobering up?"
+    "Shit,她清醒了吗?"
 
 
 
     scene cde_duo_2_49 with tstmgr
 
-    c "You’d better hurry up before we get normal again~"
+    c "在我们恢复正常之前,你最好快点~"
 
 
 
-    player "Theo... ... ... ..."
+    player "西奥............"
 
 
 
@@ -649,25 +649,25 @@ label CDE_duo_2:
 
 
 
-    player "Theo’s hard nipple... ... is wet by Elisa’s milk... ... Unbelievable... ..."
+    player "西奥坚挺的乳头......被伊莉莎的奶弄湿了......简直难以置信......"
 
 
 
-    c "Awwww... ... You can’t... ... suck that hard~~~~"
+    c "Awwww......你不能...这样用力~~~~"
 
 
 
-    player "Zip~~ huuummmm~~~ Simmmmm~~ Theo... ... delicious... ... ... ..."
+    player "Zip~~huuummmm~~~Simmmmm~~西奥......好吃............"
 
 
 
     scene cde_duo_2_51 with tstmgr
 
-    c "You are... biting my nipple off~~~~~ Ohhhhhhh~~~~"
+    c "你...要把我的乳头咬掉了~~~~~Ohhhhhhh~~~~"
 
 
 
-    player "Theo... Elisa... ... mother and daughter... daughters... ... all belong to me... ..."
+    player "西奥...伊莉莎...母亲和女儿...女儿们...都属于我......"
 
 
 
@@ -677,21 +677,21 @@ label CDE_duo_2:
 
     scene cde_duo_2_52 with tstmgr
 
-    e "Don’t just concentrate on her breasts, honey. Theo will never have her own milk if you don’t make her pregnant~"
+    e "别只盯着她的胸部看,亲爱的.如果你不让西奥怀孕,她就不会有自己的奶水~"
 
 
 
-    player "I see, auntie... ..."
+    player "我明白了,阿姨......"
 
 
 
     scene cde_duo_2_53 with tstmgr
 
-    player "Aunt Elisa is rushing us to create a baby. What do you think, Theo?"
+    player "伊莉莎阿姨催着我们要个孩子.你觉得呢,西奥?"
 
 
 
-    c "What... whatever... ... you want... ... Nipples... numb... ... I can’t... think... ..."
+    c "随便......你......乳头...麻木了......我不能...思考了......"
 
 
 
@@ -703,7 +703,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_54 with dissolve
 
-    player "Alright, Theo, I’m going in~"
+    player "Alright,西奥,我要进去了~"
 
 
 
@@ -725,23 +725,23 @@ label CDE_duo_2:
 
 
 
-    c "Ohhhh~~ [P]... ... you... ... awwwww~~~"
+    c "Ohhhh~~[P]......你......awwwww~~~"
 
 
 
-    c "Are you... trying to show yourself in front of my mom?... ..."
+    c "你是...想在我妈妈面前展示自己?......"
 
 
 
-    c "Your cock... feels... even huger than before... ... Ohhhh~~"
+    c "你的鸡巴...感觉...甚至比以前还要大......Ohhhh~~"
 
 
 
-    player "No... I’m just too excited right now. I have been dreaming about this since highschool, and now the dream is coming true!"
+    player "不...我现在太激动了.我从高中开始就梦想着这个,现在这个梦想就要实现了!"
 
 
 
-    player "The mother and the daughter... ... ... ... Shit... ..."
+    player "母亲和女儿............Shit......"
 
 
     stop sound
@@ -751,19 +751,19 @@ label CDE_duo_2:
 
 
 
-    c "Fuck... fuck you~~~~"
+    c "去你妈的~~~~"
 
 
 
-    c "You have been wanting to fuck me and my mom together like fucking dogs for so long? You... pervert... ..."
+    c "你这么久以来一直想把我和我妈像狗一样一起操?你...真变态......"
 
 
 
-    c "Mom... ... He is a pervert, you should leave him~"
+    c "妈妈...他是个变态,你应该离开他~"
 
 
 
-    e "After you, darling, after you~"
+    e "你先离开,亲爱的,你先请~"
 
 
 
@@ -771,23 +771,23 @@ label CDE_duo_2:
 
 
 
-    c "I really don’t want mom to see this shameless side of mine~"
+    c "我真的不想让妈妈看到我羞耻的一面~"
 
 
 
-    c "But~~ Whatever~~ whatever~~~"
+    c "但是~~无所谓了~~无所谓了~~~"
 
 
 
-    c "This cock~~ is making me even more drunk~~"
+    c "这个鸡巴~~让我更醉了~~"
 
 
 
-    c "I’m... I’m cumming!~~~~~"
+    c "我...我要高潮了!~~~~~"
 
 
 
-    player "Me too!"
+    player "我也一样!"
 
 
 
@@ -805,29 +805,29 @@ label CDE_duo_2:
 
 
 
-    c "Cock~~ hot sperm~~~ [P]~~~ too much~~~ inside me... ..."
+    c "鸡巴~~滚烫的精液~~~[P]~~~太多了~~~在我身体里......"
 
 
 
-    c "Baby... ... We are going to have a baby... ..."
+    c "宝宝...我们就要有宝宝了......"
 
 
 
     scene cde_duo_2_60 with tstmgr
 
-    e "That’s my good girl~ Hip~"
+    e "这才是我的好女孩~Hip~"
 
 
 
     scene cde_duo_2_61 with tstmgr
 
-    player "And now it’s your turn, mom~"
+    player "现在轮到你了,妈妈~"
 
 
 
     scene cde_duo_2_62 with tstmgr
 
-    e "I thought you would never ask~~"
+    e "我还你为你不说这个了~~"
 
 
 
@@ -847,91 +847,91 @@ label CDE_duo_2:
 
 
 
-    c "Mom... ... ... ..."
+    c "妈妈............"
 
 
 
-    e "This is... so good~ Ha ha ha~~ awww~~"
+    e "这...太爽了~Hahaha~~awww~~"
 
 
 
-    e "I'm being fucked like a dog in front of my daughter!~~~"
+    e "我像狗一样在我女儿面前被操!~~~"
 
 
 
-    e "I am such a... bad slutty mom... ... but I just can't reject this. [P]'s dick can corrupt any woman in a minute~~~ Fuck~~~"
+    e "我真是个...坏坏的骚货妈妈......但我无法拒绝.[P]的鸡巴可以在一分钟内侵蚀任何女人~~~操~~~"
 
 
 
-    e "Oh, no, sorry, no bad words~"
+    e "Oh,no,对不起,不要说脏话~"
 
 
 
-    c "Mom... ..."
+    c "妈妈......"
 
 
 
     scene cde_duo_2_64 with tstmgr
 
-    c "I couldn’t even remember when the last time mom got so happy like this was..."
+    c "我都不记得上次妈妈这么开心是什么时候了..."
 
 
 
-    c "Thank you, [P]~"
+    c "谢谢你,[P]~"
 
 
 
-    player "Theo... ..."
+    player "西奥......"
 
 
 
     scene cde_duo_2_65 with tstmgr
 
-    player "I will do my best to make you happy, you, Elisa, and Irene."
+    player "我会尽我所能让你们幸福,你,伊莉莎和艾琳."
 
 
 
-    c "Irene?"
+    c "艾琳?"
 
 
 
-    c "... ... Whatever, this is just a crazy dream~"
+    c "......不管怎样,这只是个疯狂的梦~"
 
 
 
     scene cde_duo_2_66 with tstmgr
 
-    c "*Kissing* ... ... ... ..."
+    c "*吻*............"
 
 
 
-    c "Wuum~~ [P]~~ honey~~"
+    c "Wuum~~[P]~~亲爱的~~"
 
 
 
-    e "I’m... I’m about to cum~~"
+    e "我...我要泄了~~"
 
 
 
     scene cde_duo_2_67 with tstmgr
 
-    player "Wait, Elisa, hold another minute~"
+    player "等等,伊莉莎,再等一分钟~"
 
 
 
     scene cde_duo_2_68 with tstmgr
 
-    e "Awwwwwww~~~ What... I can’t hold... ..."
+    e "Awwwwwww~~~什么...我不忍不住了......"
 
 
 
     scene cde_duo_2_69 with tstmgr
 
-    player "Hang in there, I will let you have the ultimate orgasm~"
+    player "坚持住,我会让你达到终极高潮的~"
 
 
 
-    player "And... ..."
+    player "然后......"
 
 
     stop sound
@@ -939,7 +939,7 @@ label CDE_duo_2:
     play sound cumshot
     $ flashlight()
 
-    player "Now!"
+    player "就是现在!"
 
 
 
@@ -947,27 +947,27 @@ label CDE_duo_2:
 
 
 
-    "I squeezed Elisa’s milk bags so hard at the last second before she came. The result looks great~"
+    "在伊莉莎泄的最后一秒,我使劲挤了她的巨乳.结果看起来很好~"
 
 
 
     scene cde_duo_2_71 with tstmgr
 
-    "She kept trembling for a minute and her nipples were leaking milk like fountains. I have never seen her having such an intense orgasm before."
+    "她不停地颤抖了一分钟,她的乳头像喷泉一样流出奶来.我从没见过她有这么强烈的高潮."
 
 
 
     scene cde_duo_2_72 with tstmgr
 
-    c "Wow, mom... ..."
+    c "Wow,妈妈......"
 
 
 
-    player "Such a slutty cow you are, auntie~"
+    player "你真是个荡妇,阿姨~"
 
 
 
-    e "Yes, yes, keep milking me like that~ Awwwwww~~~~"
+    e "Yes,yes,一直这样挤我的奶~Awwwwww~~~~"
 
 
 
@@ -977,11 +977,11 @@ label CDE_duo_2:
 
 
 
-    e "I am... [P]'s cow... ..."
+    e "我是...[P]的奶牛......"
 
 
 
-    c "Oh my... ... mom... ..."
+    c "Ohmy......妈妈......"
 
 
 
@@ -995,7 +995,7 @@ label CDE_duo_2:
 
 
 
-    "We stayed in the bungalow for the entire night, and by the time when we got too tired to fuck and went to sleep, the room has long been filled with the smell of cum and milk... ..."
+    "我们在平房呆了一整晚,当我们太累了不得不睡觉的时候,房间已经充满了精液和乳液的味道......"
 
 
 
@@ -1003,7 +1003,7 @@ label CDE_duo_2:
 
 
 
-    "The next morning..."
+    "第二天早上..."
 
 
 
@@ -1015,35 +1015,37 @@ label CDE_duo_2:
 
     scene cde_duo_2_75 with tstmgr
 
-    c "*Waking up with a start* ... ... ... ..."
+    c "*突然惊醒*............"
 
 
 
-    c "Mom... [P]... more sake... ..."
+    c "妈妈...[P]...酒......"
 
 
 
     scene cde_duo_2_76 with tstmgr
 
-    c "*Sobering up* ... ... ... ..."
+    c "*醒酒*............"
 
 
 
-    c "Holy... fucking... shit... ..."
+    c "Holy...操...shit......"
 
 
 
     scene cde_duo_2_77 with tstmgr
 
-    c "What... the fuck have you done, mom... ..."
+    c "你...你都干了些什么,妈吗......"
+
+
+
+    "... ... ... ..."
 
 
 
     scene void with tstmgr
 
-    "... ... ... ..."
-
-
+    "*在版本v12中继续*......"
 
     stop music fadeout 1.0
 

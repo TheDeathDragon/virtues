@@ -3,215 +3,215 @@ label E_daily_2:
     scene void with tstmgr
     play music happy
 
-    narrator "I went to Aunt Elisa's mansion on foot this afternoon, but it began to rain on the halfway. "
+    narrator "今天下午我步行去了伊莉莎阿姨家,但半路上开始下雨了."
 
-    narrator "I got totally wet."
+    narrator "我全身湿透了."
 
     narrator "... ... ... ..."
 
     scene e_mansion_inside_frown with tstmgr
 
-    e "Oh, my, God. [P], you look terrible. "
+    e "Oh,我的天.[P],你看起来糟透了."
 
-    player "Yeah, I know... I forgot to watch today's weather forecast."
+    player "Yeah,我知道...我忘记看今天的天气预报了."
 
-    e "You should take a shower right now, otherwise you may get a fever. "
+    e "你应该现在就洗澡,否则你会发烧的."
 
     scene rcsj_e1 with tstmgr
 
-    e "And... fever is not good..."
+    e "而且...发烧不好..."
 
-    narrator "Her face suddenly turned red. "
+    narrator "她的脸突然变红了."
 
-    narrator "Well, that was... actually cute."
+    narrator "Well,那...其实很可爱."
 
-    player "Okay, Aunt Elisa. But I don't have any change of clothes."
+    player "好的,伊莉莎阿姨.但是我没有任何可换的衣服."
 
     scene e_mansion_inside_smile with tstmgr
 
-    e "Oh, don't worry. I have some of your father's old clothes. I think you will fit."
+    e "Oh,别担心.我有一些你爸爸的旧衣服.我想你应该穿得了."
 
     player "??? "
 
-    narrator "Why does she have my dad's old clothes? That's... ambiguous."
+    narrator "为什么她有我爸爸的旧衣服?这真是...让人捉摸不透."
 
     scene e_mansion_inside_laugh with tstmgr
 
-    e "He left them here a few years ago and forgot to take them back."
+    e "几年前他把它们落在这儿了,忘了拿回去."
 
-    e "Anyway, just get in the bathroom, and I will go prepare your change of clothes."
+    e "不管怎样,去浴室吧,我去给你准备换洗衣服."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "She seems not to want to explain that in more detail... Suspicious."
+    narrator "她似乎不想更详细地解释那件事.有点可疑."
 
-    narrator "But it's not a good time to dig into this. Aunt Elisa is right, I need to take a shower right now."
+    narrator "但现在不是深入研究的好时机.伊莉莎阿姨说得对,我现在就得洗澡."
 
-    narrator "I walked into the bathroom. "
+    narrator "我走进浴室."
 
     scene mansion_bathroom_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Well, this mansion has many bathrooms, and this one is definitely the most magnificent one. I think it is even larger than my bedroom."
+    narrator "Well,这栋别墅有许多浴室,这一间绝对是最豪华的.我想它甚至比我的卧室还大."
 
-    narrator "I haven't been in here for a shower ever since high school. It kinda brings back memories..."
+    narrator "我从高中后就没在这洗过澡.这让我想起了一些往事..."
 
-    narrator "5 years ago, when I was temporarily living in this mansion, there was a night..."
+    narrator "五年前,当我暂时住在这栋别墅的时候,有一个晚上..."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "5 years ago. Late night. In Elisa's mansion."
+    narrator "5年前.深夜.伊莉莎的豪宅."
 
     player "(... ... ... ...)"
 
-    player "(I want to pee...)"
+    player "(我想撒尿...)"
 
-    narrator "My bedroom has its private bathroom, but the closestool had some problems lately, so I have to go out and find another place to pee."
+    narrator "我的卧室有私人浴室,但是马桶最近出了点问题,我得出去找个地方小便."
 
-    narrator "I walked out of my room, and went to the nearest bathroom, which is also the biggest bathroom in this mansion. "
+    narrator "我走出我的房间,走到最近的浴室,这也是这栋别墅最大的浴室."
 
-    narrator "I reached that bathroom, but found that the door was closed."
+    narrator "我走到洗手间,却发现门是关着的."
 
-    player "(Is someone in it?)"
+    player "(里面有人吗?)"
 
-    player "(But I don't hear any voice, neither water flow or fan noise.)"
+    player "(但是我没有听到任何声音,既没有水流也没有其他的声音.)"
 
-    player "(And everyone should have been in asleep by now.)"
-
-    player "(... ... ... ...)"
-
-    player "(Maybe someone just forgot to keep the door open when she left the room.)"
-
-    narrator "I opened the door with a crack and saw the light coming out of it. "
-
-    player "(Shit! Someone is really in the room!)"
-
-    player "(Calm down, [P]. Just quietly close the door and pretend like nothing happened.)"
+    player "(现在每个人都应该睡着了.)"
 
     player "(... ... ... ...)"
 
-    player "(Wait... who is in it? There are only 3 people living in this place besides me. Aunt Elisa, Theodora, and Irene. So whoever in this room must be a girl.)"
+    player "(也许只是有人在离开时把门带上了.)"
 
-    narrator "I can feel that my face flushed. "
+    narrator "我把门打开一条缝,看见灯光从里面射出来."
 
-    player "(Should I take a look?...)"
+    player "(我去!真的有人!)"
 
-    player "(But what if it is Irene? I don't want to peep a 13-year-old girl.)"
+    player "(冷静下来,[P].静静地关上门,假装什么都没发生.)"
 
-    player "(I think I'll just close it.)"
+    player "(... ... ... ...)"
 
-    narrator "I was going to close the door, but suddenly, I heard a female's groan. "
+    player "(等等...谁在里面?除了我以外,只有3个人住在这个地方.伊莉莎阿姨,狄奥多拉和艾琳.所以这个房间里的人一定是个女性.)"
 
-    narrator "It was a groan in pleasure which sounded stirring and erogenous. I only heard this kind of voice in porn before."
+    narrator "我能感觉到我的脸变红了."
 
-    narrator "And I have recognized that voice. It was from Aunt Elisa."
+    player "(我应该去看看吗?...)"
 
-    player "(Is she...)"
+    player "(但如果是艾琳呢?我不想偷看一个13岁的女孩.)"
 
-    narrator "My body froze for half a minute, then I started to tremble due to the great excitement."
+    player "(我想我还是把它关了吧.)"
 
-    player "(God, I have to... see this...)"
+    narrator "我正准备关门,突然,我听到一个女人的呻吟声."
 
-    narrator "I got closer to the door... And I saw..."
+    narrator "那是一种愉快的呻吟,听起来激动而性感.我以前只在色情片里听到过这种声音."
+
+    narrator "我已经听出了那个声音.是伊莉莎阿姨."
+
+    player "(她...)"
+
+    narrator "我的身体愣了半分钟,然后我开始颤抖,因为强烈的兴奋."
+
+    player "(天啊,我必须...看这个...)"
+
+    narrator "我离门更近了...然后我看见..."
 
     scene rcsj_e2 with fade
 
     narrator "... ... ... ..."
 
-    player "(Oh, my, God...)"
+    player "(我的天...)"
 
-    player "(I have never seen a naked woman in the real life.)"
+    player "(我从来没在现实生活中见过裸体的女人.)"
 
-    player "(So that is how women masturbate?... Jeez)"
+    player "(这就是女性自慰的方式?...天哪)"
 
-    player "(She seems to... enjoy it...)"
+    player "(她似乎...很享受...)"
 
     player "... ... ... ..."
 
-    narrator "I held my breath and swallowed hard. I could feel that my penis is getting harder every second."
+    narrator "我屏住呼吸,使劲咽了口唾沫.我能感觉到我的鸡儿开始变硬."
 
     scene rcsj_e3 with tstmgr
 
     narrator "... ... ... ..."
 
-    player "(I never know Aunt Elisa can be so... erotic...)"
+    player "(我从来不知道伊莉莎阿姨会这么...色情...)"
 
-    player "(Look at those tits...)"
+    player "(看看那乳头...)"
 
-    player "(And I can even see her pussy from this angle.)"
+    player "(我甚至可以从这个角度看到她的小穴.)"
 
-    player "(I wish I can put my dick in it some day...)"
+    player "(我希望有一天我能把我的鸡儿放进去...)"
 
     player "(... ... ... ...)"
 
-    player "(Wait... what are you thinking, [P]? That's your aunt, not a blood-related one, but you started to call her your aunt since you were 5! Stop that dirty thought.)"
+    player "(等等...你在想什么,[P]?那是你的阿姨,虽然没有血缘关系,但是你从5岁开始就叫她阿姨了!停止这种肮脏的想法.)"
 
     scene rcsj_e4 with tstmgr
 
     e "Ahhh... ... ... ..."
 
-    narrator "Aunt Elisa made a loudly groan in all of a sudden. Her body quivered, her breasts jiggled, and I saw water coming out of her pussy."
+    narrator "伊莉莎阿姨突然大声地呻吟了一声.她的身体在颤抖,她的乳房在颤抖,我看到水从她的小穴流出来."
 
-    player "(Holy shit. Did she just have a orgasm?)"
+    player "(操.她刚高潮了吗?)"
 
-    player "(Is she... peeing?)"
+    player "(她在...撒尿?)"
 
     player "(... ... ... ...)"
 
-    player "(It must be really enjoyable.)"
+    player "(那一定很有趣.)"
 
-    player "(I think I'll have to jerk off tonight...)"
+    player "(我想我今晚要遗精了...)"
 
     scene rcsj_e5 with tstmgr
 
-    narrator "After the orgasm ended, Aunt Elisa seemed to lose all the strength. She breathe heavily and her eyes looked blearily."
+    narrator "高潮结束后,伊莉莎似乎失去了所有的力量.她喘着粗气,眼神迷离."
 
-    e "That was... quite a cuming."
+    e "好...好爽."
 
     scene rcsj_e6 with tstmgr
 
     e "Uh?..."
 
-    narrator "Suddenly, she turned her eyes to my direction. "
+    narrator "突然,她把目光转向我的方向."
 
-    player "(Shit, does she see me?)"
+    player "(妈的,她看见我了吗?)"
 
-    narrator "I didn't know if I was exposed or not. The light was dark and the door's crack was very slight. She was not supposed to see me."
+    narrator "我不知道我是否暴露了.光线很暗,门缝很小.她应该看不见我."
 
     e "... ... ... ..."
 
-    e "Weird. I thought I have closed that door."
+    e "奇怪.我记得我关了门."
 
-    player "(Seems like she didn't see me yet.)"
+    player "(好像她还没看见我.)"
 
-    player "(It's time to go... Otherwise she will find me in less than a minute.)"
+    player "(该走了...否则她马上就会看见我.)"
 
     scene void with tstmgr
 
-    narrator "I left quietly and walked back to my room."
+    narrator "我静静地离开,走回我的房间."
 
     narrator "... ... ... ..."
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Five years later. Now, in Elisa's mansion."
+    narrator "五年后.现在,在伊莉莎阿姨的别墅里."
 
     scene mansion_bathroom_background with tstmgr
 
-    player "(Well, I think I would never forget that night.)"
+    player "(Well,我想我永远不会忘记那个晚上.)"
 
-    e "[P], are you done yet? You have been in there for 20 minute."
+    e "[P],你洗完了吗?你在里面待了20分钟."
 
-    player "(Shit, I haven't even started.)"
+    player "(妈的,我还没开始呢.)"
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I took a shower in Aunt Elisa's mansion."
+    narrator "我在伊莉莎阿姨家洗了个澡."
 
     narrator "... ... ... ..."
 

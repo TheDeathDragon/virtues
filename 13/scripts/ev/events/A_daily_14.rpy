@@ -4,39 +4,39 @@ label A_daily_14:
 
     play music sorrow
 
-    "Later this afternoon, I am having a date with Vera, in the college library."
+    "今天下午晚些时候,我和薇拉有个约会,在大学图书馆."
 
 
 
     scene a_daily14_1 with dissolve
 
-    a "A real college library. Awwww... ... I have never been into such a place before."
+    a "一个真正的大学图书馆.Awwww......我以前从未到过这样的地方."
 
 
 
     scene a_daily14_2 with tstmgr
 
-    a "There are so many books! Can I borrow some?"
+    a "有这么多书!我能借一些吗??"
 
 
 
-    player "Only students are allowed to borrow books now, but it’s fine, I’ll do that for you. Just tell me what kind of books you like."
+    player "现在只有学生可以借书,不过没关系,我可以帮你借书.告诉我你喜欢什么样的书就行了."
 
 
 
     scene a_daily14_3 with tstmgr
 
-    a "Awwww... I envy you so much!~"
+    a "Awwww...我真羡慕你!~"
 
 
 
-    "It’s not the first time that Vera shows me her yearning towards the college life. And I feel kinda sorry for her every time I see the eagerness in her eyes."
+    "薇拉已经不是第一次向我表达她对大学生活的向往了.每次看到她眼中的渴望,我都有点为她感到难过."
 
 
 
     scene a_love3_6 with flashback
 
-    "Woman" "So what about you? You were the top student back in our middle school. How did you end up becoming a... salesperson?"
+    "女人""那你呢?你是我们中学的尖子生.你是怎么成为...一个售货员的?"
 
 
 
@@ -46,103 +46,103 @@ label A_daily_14:
 
 
 
-    "She didn’t have enough money to go to a college after she graduated from highschool. I think it is going to be a lifetime regret for her. But, maybe... ..."
+    "高中毕业后,她没有足够的钱上大学.我想这将是她一生的遗憾.但是,也许......"
 
 
 
     scene a_daily14_3 with tstmgr
 
-    a "I want to read something about criminal justice! I dreamed to be a D.A. when I was little~"
+    a "我想读一些关于刑事司法的东西!我小时候就梦想成为一名地方检察官~"
 
 
 
     scene a_daily14_4 with tstmgr
 
-    a "I know I don’t have the chance to be a real D.A. anymore, but... ..."
+    a "我知道我已经没有机会成为真正的地方检察官了,但是......"
 
 
 
-    player "A D.A.? That’s so cool!"
+    player "地方检察官?这太酷了!"
 
 
 
     scene a_daily14_5 with tstmgr
 
-    a "*Groaning sadly* It’s... embarrassing to even bring that up. That was just a childish dream. Sigh... ..."
+    a "*悲伤的叹气*这是...都有点不好意思说.这只是一个幼稚的梦.唉......"
 
 
 
     scene a_daily14_6 with tstmgr
 
-    a "On the second thought, I don’t need those books at all. Maybe we should just... leave here."
+    a "转念一想,我根本不需要那些书.也许我们应该...离开这里."
 
 
 
-    "Damn, I thought bringing her here would make her happy, but now she is even more upset than ever. I have to do something about it!"
+    "Damn,我以为带她来这里会让她开心,但现在她比以前更难过了.我得做点什么!"
 
 
 
     scene a_daily14_7 with tstmgr
 
-    player "You know, Vera, you can still choose to go to a college! You are only 22 years old. It’s not too late yet!"
+    player "薇拉,你还是可以选择上大学的!你才22岁.现在还不晚!"
 
 
 
     scene a_daily14_8 with tstmgr
 
-    a "Stop saying that~ You know I can’t afford it."
+    a "别再说了,你知道我付不起学费."
 
 
 
-    player "Well, don’t forget me. I will support you, you know I will. I have earned quite a lot money during these days and my dad will be out of jail soon. It won’t be a problem for me to pay for your tuition fees at all!"
+    player "Well,别忘了还有我.我会支持你的,你知道我会的.这些天我赚了不少钱,我爸爸很快就要出狱了.为你支付学费对我来说根本不是问题!"
 
 
 
     scene a_daily14_9 with tstmgr
 
-    a "[P]... I... ..."
+    a "[P]...我......"
 
 
 
-    a "I’m happy to hear that, I really do, but... ..."
+    a "听你这么说我很高兴,真的,但是......"
 
 
 
     scene a_daily14_10 with tstmgr
 
-    a "What if... we break up?"
+    a "如果...我们分手了呢?"
 
 
 
-    player "Wh... what?"
+    player "什...什么?"
 
 
 
-    a "We are from two different worlds. I lived in poverty for my entire life but you were born with a silver spoon."
+    a "我们来自两个不同的世界.我一生都过着贫穷的生活,而你出身富贵."
 
 
 
-    a "I really enjoy living with you. but... ..."
+    a "我真的很喜欢和你住在一起.但......"
 
 
 
     scene a_daily14_11 with tstmgr
 
-    a "But I always feel like... that everything I have right now doesn’t really belong to me. That house, friends, you... ... What happened in the last few months was like a super sweet dream to me."
+    a "但我总觉得...我现在拥有的一切其实并不属于我.那座房子,朋友们,你们......过去几个月发生的事对我来说就像一个超级甜蜜的梦."
 
 
 
-    a "And I am afraid that... one day I will wake up from this dream, on the hard bed of my apartment in the slums."
+    a "恐怕...总有一天,我会从这个梦中醒来,躺在贫民窟公寓坚硬的床上."
 
 
 
-    player "Vera... ..."
+    player "薇拉......"
 
 
 
     scene a_daily14_12 with tstmgr
 
-    a "Sorry, I am being crazy. Let’s just... get out of here, okay?"
+    a "对不起,我疯了.我们...离开这里吧,okay?"
 
 
 
@@ -150,25 +150,25 @@ label A_daily_14:
 
 
 
-    player "If that is what you want... ..."
+    player "嗯......"
 
 
 
     scene void with tstmgr
 
-    "Guess now I have finally found out the real reason of why she still chooses to work like crazy even though she doesn’t have to. It is all because of the lack of security. She feels so insecure when she is with me and damn... I have no idea how to solve it."
+    "我想现在我终于知道她为什么仍然疯狂地工作的真正原因了,即使她不需要.这都是因为缺乏安全感.当她和我在一起的时候,她觉得很没有安全感...我不知道如何解决这个问题."
 
 
 
-    "The more I try to do something for her, the more she will think ‘this life doesn’t really belong to her’ and the more insecure she will feel. Ahhh... shit, this is an endless loop!"
+    "我越想为她做点什么,她就越觉得“这种生活不属于她”,也就越没有安全感.啊...妈的,这真是个没完没了的循环!"
 
 
 
-    "Think, [P], think, there has to be a way..."
+    "想想,[P],快想一想,一定有办法的..."
 
 
 
-    "But right now... maybe I should just leave this place with her."
+    "但是现在...也许我应该和她一起离开这里."
 
 
 

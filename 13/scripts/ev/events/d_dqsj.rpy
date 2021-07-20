@@ -3,95 +3,95 @@ label D_dqsj:
     scene void with tstmgr
     play music happy
 
-    player "It's time to pay Irene a visit."
+    player "是时候去看看艾琳了."
 
     scene mansion_background with tstmgr
 
-    narrator " I drove across half the city to get to her home."
+    narrator "我开车穿过半个城市去她家."
 
-    narrator "That's truly a huge mansion, to be honest."
+    narrator "老实说,那真是座大房子."
 
-    player "(Doorbelling) Anybody home?"
-
-    narrator "... ... ... ..."
-
-    player "(Doorbelling) Is anybody home? It's [P.name]."
+    player "(按门铃)有人在家吗?"
 
     narrator "... ... ... ..."
 
-    narrator "I heard some footsteps."
+    player "(按门铃)有人吗?我是[P.name]."
+
+    narrator "... ... ... ..."
+
+    narrator "我听到一阵脚步声."
 
     scene e_mansiongate_day_normal with tstmgr
 
-    narrator " The door suddenly opened, and a mature lady showed up in my sight."
+    narrator "门突然开了,一位成熟的女士出现在我的眼前."
 
-    player "Hi, Aunt Elisa, good afternoon."
+    player "嗨,伊莉莎阿姨,下午好."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "[P.name]? Good afternoon."
+    e "[P.name]?下午好."
 
-    narrator "The lady's name is Elisa, she is Theodora and Irene's mother. Both three of them have a pair of beautiful emerald eyes. But unlike her daughters who inherited silver hair color from their father, Aunt Elisa is actually a blonde."
+    narrator "这位女士的名字叫伊莉莎,她是狄奥多拉和艾琳的母亲.他们三人都有一双美丽的翡翠色的眼睛.但与她从父亲那里继承了银发的女儿不同,伊利莎阿姨实际上是一头金发."
 
-    narrator "She is probably twice my age, you can see the slight wrinkles on her face. But her beauty is not affected by her age. I think she is still as beautiful as her daughters."
+    narrator "她可能是我年纪的两倍大,你可以看到她脸上轻微的皱纹.但她的美貌并不受年龄的影响.我认为她仍然和她的女儿一样漂亮."
 
     scene ddqsj_e1 with tstmgr
 
-    narrator "Apparently, Theodora's breast size was inherited from her mother. Look at those amazing tits. My God..."
+    narrator "显然,狄奥多拉的乳房尺寸是她妈妈遗传的.看看那迷人的胸.我的天..."
 
     scene e_mansiongate_day_normal with tstmgr
 
-    narrator "But don't be fooled by her sweet looking. She is actually more famous for her ability in business than her beauty."
+    narrator "但别被她甜美的外表所迷惑.事实上,她在商业上的能力比她的美貌更出名."
 
-    narrator "She raised two girls alone as a single mother and built a business empire by herself at the same time. What a lady."
+    narrator "作为一个单身妈妈,她独自抚养了两个女儿,同时自己建立了一个商业帝国.这该是什么样的一个女人."
 
-    narrator "Her smile seems kind and gentle, but you'll never know what she is like when she deals with her business competitors."
+    narrator "她的微笑似乎和蔼可亲,但你永远也不会知道她在和商业竞争对手打交道时是什么样子的."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "If you are looking for Theodora, she is in my company at this time."
+    e "你在找狄奥多拉吗,她现在和我在一起."
 
-    player "Oh no, in fact, Aunt Elisa, I am looking for Irene."
+    player "不,事实上,伊莉莎阿姨,我在找艾琳."
 
     scene e_mansiongate_day_normal2 with tstmgr
 
-    e "Irene? She just got home from school. You can come in and find her in her room."
+    e "艾琳?她刚从学校回来.你可以进来去她的房间里找她."
 
-    player "Thanks, Aunt Elisa."
+    player "谢谢,伊莉莎阿姨."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I got in the house with Aunt Elisa."
+    narrator "我和伊莉莎阿姨一起进了屋."
 
     narrator "... ... ... ..."
 
-    narrator "I came towards to Irene's bedroom door."
+    narrator "我朝艾琳卧室的门走去."
 
-    player "(Knocking) Irene, are you there?"
+    player "(敲门)艾琳,你在吗?"
 
     scene ddqsj_d1 with tstmgr
 
-    narrator " The door opens."
+    narrator "门开了."
 
-    d "[P.name], why are you here?"
+    d "[P.name],你怎么在这?"
 
-    player "May I come in?"
+    player "我能进来吗?"
 
     scene ddqsj_d2 with tstmgr
 
     d "... ... ... ..."
 
-    player "What?"
+    player "什么?"
 
-    d "I'm still mad at you."
+    d "我还在生你的气."
 
-    player "That's why I'm here, to apologize. Please let me in."
+    player "这就是我来这里的原因,为了道歉.请让我进去."
 
-    d "No way. I will never forgive you."
+    d "没门儿.我永远不会原谅你."
 
-    narrator "Wow? That serious? But I am not even sure about her reason yet."
+    narrator "Wow?这么严重吗?但我甚至不知道为什么她从一开始就生我的气."
 
-    player "(Taking out the gift) I bought you a gift..."
+    player "(拿出礼物)我给你买了一件礼物..."
 
     d "En?"
 
@@ -101,63 +101,63 @@ label D_dqsj:
 
     scene ddqsj_d4 with tstmgr
 
-    d "I like this gift..."
+    d "我喜欢这个礼物..."
 
-    d "Okay, I forgive you."
+    d "Okay,我原谅你了."
 
-    narrator "...? That's easier than I thought."
+    narrator "...?这比我想象的要容易."
 
-    narrator "Maybe she is not that angry after all."
+    narrator "也许她根本没有那么生气."
 
-    player "So, we are fine now?"
+    player "所以,我们现在和好了吗?"
 
-    d "Yes, we are fine. You can come in."
+    d "是的,你可以进来了."
 
     scene d_room_background with tstmgr
 
-    player "Thank you."
+    player "谢谢你."
 
-    player "What are you doing by the way?"
+    player "顺便问一下,你在做什么?"
 
     scene ddqsj_d5 with tstmgr
 
-    d "I'm doing my math assignment. It is just so hard."
+    d "我正在做数学作业.这太难了."
 
-    player "Math? I'm actually quite good at math. Maybe I can do some help?"
+    player "数学吗?事实上我数学很好.也许我能帮点忙?"
 
     scene ddqsj_d6 with tstmgr
 
-    d "Really?"
+    d "真的?"
 
-    player "Of course. My math grade was the best in our class when I was at your age."
+    player "当然.我在你这个年纪时,数学成绩是我们班最好的."
 
-    d "Then what are you waiting for? Come and take a look at this question."
+    d "那你还在等什么?来看看这个问题."
 
     scene d_room_background with tstmgr
 
-    narrator "I took a while to help Irene with her homework."
+    narrator "我花了一些时间帮助艾琳做家庭作业."
 
-    narrator "Soon afterward, Aunt Elisa came inside the room."
+    narrator "不久,伊莉莎阿姨走进了房间."
 
     scene ddqsj_e2 with tstmgr
 
-    e "Oh, I'm so happy to see you two get along with each other."
+    e "Oh,我很高兴看到你们两个相处得很好."
 
-    e "It is so nice of you to help Irene with her homework, [P.name]."
+    e "你帮助艾琳做家庭作业真是太好了,[P.name]."
 
-    player "No big deal, Aunt Elisa."
+    player "没什么大不了的,伊莉莎阿姨."
 
     scene ddqsj_d1 with tstmgr
 
-    d "Mom, [P.name] is a better tutor than Theo!"
+    d "妈妈,[P.name]是比狄奥多拉更好的老师!"
 
     scene ddqsj_e2 with tstmgr
 
-    e "Don't tell your sister that. She will be upset."
+    e "别当着你姐姐的面说.她会生气的."
 
-    e "By the way, [P.name], I really hope you can come more often and help Irene on studying."
+    e "顺便说一下,[P.name],我真的希望你能多来,帮助艾琳学习."
 
-    player "Sure thing, Aunt Elisa. I'm more than happy to do that."
+    player "当然可以,伊莉莎阿姨.我很乐意这么做."
 
     scene ddqsj_d3 with tstmgr
 
@@ -165,7 +165,7 @@ label D_dqsj:
 
     scene void with tstmgr
 
-    narrator "I stayed at Aunt Elisa's house for the rest of the afternoon."
+    narrator "整个下午我都呆在伊莉莎阿姨家."
 
     narrator "... ... ... ..."
 

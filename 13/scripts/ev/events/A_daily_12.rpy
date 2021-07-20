@@ -9,7 +9,7 @@ label A_daily_12:
 
     scene a_daily12_1 with tstmgr
 
-    "Vera didn’t have a shift this afternoon so she came to my room and watched TV while I was in the shower."
+    "薇拉今天下午没有上班,所以她来到我的房间,趁我洗澡的时候看电视."
 
 
 
@@ -19,7 +19,7 @@ label A_daily_12:
 
     scene a_daily12_2 with tstmgr
 
-    "*Phone ringing* Dududu Dududu Dududu... ... ... ..."
+    "*电话铃响*DududuDududuDududu............"
 
 
 
@@ -33,81 +33,81 @@ label A_daily_12:
 
 
 
-    a "Mom?"
+    a "妈妈?"
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "Hello mom. How’s everything?"
+    a "Hello妈妈.一切还好吧?"
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "Me? I’m watching TV right now. I don’t have a shift today."
+    a "我?我现在正在看电视.我今天不用上班."
 
 
 
-    a "Ah... I’m doing great. People are all nice here, the jobs are easy, and I get well-paid."
+    a "Ah...我过得很好.这里的人都很好,工作很轻松,我的薪水也很高."
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "So... yeah, you don’t need to worry about me at all."
+    a "所以...yeah,你根本不需要为我担心."
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "By the way, did you receive the money I sent to you? Just... tell me if you need more..."
+    a "顺便问一下,你收到我寄给你的钱了吗?只是...如果你还需要,就告诉我..."
 
 
 
     scene a_daily12_7 with tstmgr
 
-    player "(Asking loudly outside the room) Hey, V, did you see my white shirt? The one I always wear."
+    player "(在房间外面大声问)Hey,薇,你看到我的白衬衫了吗?我经常穿的那件."
 
 
 
     scene a_daily12_8 with tstmgr
 
-    a "I just ironed it. It's in the laundry room."
+    a "我刚在洗衣房熨过."
 
 
 
-    player "Oh, thanks, V, love you."
+    player "Oh,谢谢,薇,爱你."
 
 
 
     scene a_daily12_9 with tstmgr
 
-    a "Love you too~"
+    a "我也爱你~"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "Sorry mom, where were we?"
+    a "抱歉,妈妈,我们刚才说到哪儿了?"
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "Oh, you want to know who I was talking to?"
+    a "Oh,你想知道我在跟谁说话?"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "That was my boyfriend. We are now... living together."
+    a "那是我的男朋友.我们现在...住在一起."
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "How did we meet?"
+    a "我们是怎么认识的?"
 
 
 
@@ -119,65 +119,65 @@ label A_daily_12:
 
     scene a_daily12_6 with tstmgr
 
-    a "That... was a long story. Let’s talk about it sometime later."
+    a "这......说来话长.我们以后再谈吧."
 
 
 
-    a "Just relax, he is a good man."
+    a "放轻松,他是个好人."
 
 
 
-    a "I mean, he is definitely way better than the guy you set me up with for that blind date."
+    a "我是说,他绝对比上次你给我安排的相亲的那个人好多了."
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "He picks me up and walks home with me when I have shifts at night, He comes to my workplaces and buys a lot of things just to get the opportunity to chat with me while my managers are around..."
+    a "当我晚上下班时,他会来接我,然后陪我走回家.他会来到我的工作场所,买很多东西,只是为了有机会在经理们在场的时候和我聊天."
 
 
 
     scene a_daily12_11 with tstmgr
 
-    a "And he protects me when I am in danger... ..."
+    a "当我遇到危险的时候,他会保护我......"
 
 
 
     scene a_daily12_12 with tstmgr
 
-    a "Oh, I mean, not the real danger. It was just a trope. Don’t worry about me. There is no danger at all. This city is extremely safe."
+    a "Oh,我是说,不是真正的危险.这只是一个比喻.别为我担心.根本没有危险.这个城市非常安全."
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "You want to see a picture of him? Hmm... okay."
+    a "你想看他的照片?Hmm...okay."
 
 
 
     scene a_daily12_13 with tstmgr
 
-    a "I’m sending it to you right now... and... ... done!"
+    a "我现在就发给你.......好了!"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "Did you receive it? He is cute, isn’t he?"
+    a "你收到了吗?他很可爱,不是吗?"
 
 
 
     scene a_daily12_12 with tstmgr
 
-    a "Huh? What do you mean I’m lying?"
+    a "Huh?你说我说谎是什么意思?"
 
 
 
-    a "You saw him on the news earlier?"
+    a "你之前在新闻上看到过他?"
 
 
 
-    a "Yeah, I know he is kind of a celebrity and he has a rich father. But I am not lying! We are really living together!"
+    a "Yeah,我知道他是个名人,他有个有钱的父亲.但我没有撒谎!我们真的生活在一起!"
 
 
 
@@ -187,7 +187,7 @@ label A_daily_12:
 
 
 
-    a "Fine, let’s facetime."
+    a "好吧,我们来视频聊天."
 
 
 
@@ -197,33 +197,33 @@ label A_daily_12:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene a_daily12_14 with dissolve
 
-    player "Emmmm, V? What’s up?"
+    player "Emmmm,薇?怎么了?"
 
 
 
     scene a_daily12_15 with tstmgr
 
-    a "See, mom? I was not lying. This is a real person~"
+    a "看,妈妈?我没有撒谎.这是一个真实的人~"
 
 
 
-    player "Your mom?"
+    player "你的妈妈?"
 
 
 
     scene a_daily12_16 with tstmgr
 
-    player "Hi there, Ma’m. It’s so good to see you..."
+    player "Hi,妈妈.很高兴见到你..."
 
 
 
-    "And I saw a middle-age woman screaming in the camera."
+    "我看到一个中年妇女在镜头前尖叫."
 
 
 
@@ -235,27 +235,27 @@ label A_daily_12:
 
     scene a_daily12_18 with tstmgr
 
-    a "She is kind of your fan, so... ..."
+    a "她是你的粉丝,所以......"
 
 
 
-    player "Ha, I have fans?"
+    player "Ha,我有粉丝?"
 
 
 
     scene a_daily12_19 with tstmgr
 
-    a "Stop screaming, mom, you are embarrassing me."
+    a "别喊了,妈妈,你让我好尴尬."
 
 
 
-    a "Let’s... let’s talk later, bye, mom, love you..."
+    a "我们...我们以后再聊,再见,妈妈,爱你..."
 
 
 
     scene a_daily12_20 with tstmgr
 
-    "She cut the facetime off."
+    "她挂掉了视频."
 
 
 
@@ -265,13 +265,13 @@ label A_daily_12:
 
     scene a_daily12_21 with tstmgr
 
-    player "Were you just showing me off to your mother?"
+    player "你只是在你妈妈面前炫耀我吗?"
 
 
 
     scene a_daily12_22 with tstmgr
 
-    a "Yep~~ and it feels good~"
+    a "Yep~~而且感觉很好~"
 
 
 
@@ -279,19 +279,6 @@ label A_daily_12:
 
 
     stop music fadeout 1.0
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     jump event_post

@@ -3,25 +3,25 @@ label D_love_4:
     scene void with tstmgr
     play music happy
 
-    "I am worrying about Irene. She doesn’t seem to care about her studies lately."
+    "我在担心艾琳.她最近似乎不关心她的学习了."
 
 
 
     scene d_daily6_7 with tstmgr
 
-    "She had a party with Uno the other day, didn’t do her homework on time, and skipped her tutoring class the next day due to the hangover."
+    "前几天她和乌诺开了个派对,没按时做作业,第二天又因为宿醉没上辅导课."
 
 
 
     scene void with tstmgr
 
-    "And right now... ..."
+    "而现在......"
 
 
 
     scene d_love_4_1 with dissolve
 
-    player "Irene, we don’t have time for this. You should start doing your homework right now."
+    player "艾琳,我们没时间了.你应该现在就开始做作业."
 
 
 
@@ -29,19 +29,19 @@ label D_love_4:
 
 
 
-    d "(Keep playing cellphone) ... ... ... ..."
+    d "(继续玩手机)............"
 
 
 
-    player "Hello? Are you listening?"
+    player "Hello?你在听我说话吗?"
 
 
 
-    d "Hold on a second."
+    d "等一下."
 
 
 
-    d "Let me finish this tweet."
+    d "让我把这条推文发出去."
 
 
 
@@ -49,11 +49,11 @@ label D_love_4:
 
 
 
-    player "Okay, two more minutes."
+    player "Okay,两分钟."
 
 
 
-    d "Thanks, [P]."
+    d "谢谢,[P]."
 
 
 
@@ -63,17 +63,17 @@ label D_love_4:
 
 
 
-    "10 minutes later..."
+    "十分钟后..."
 
 
 
     scene d_love_4_1 with tstmgr
 
-    player "I’m still waiting... ..."
+    player "我还在等......"
 
 
 
-    d "One more minute."
+    d "再多一分钟."
 
 
 
@@ -81,62 +81,62 @@ label D_love_4:
 
 
 
-    "Alright, that’s enough. She is going too far. I have to be tough on her otherwise she won’t listen to me anymore."
+    "好了,够了.她太过分了.我得对她严厉点,否则她不会再听我的."
 
 
 
-    "It’s time to let her know the importance of respecting her teacher."
+    "是时候让她知道尊重老师的重要性了."
 
 
 
     scene d_love_4_2 with tstmgr
 
-    d "Emm? What are you doing? Why are you touching my butt?"
+    d "Emm?你在干什么?你为什么摸我的屁股?"
 
 
 
-    d "Stop, you are too heavy. I cannot feel my legs."
+    d "停,你太重了.我的腿麻了."
 
 
 
-    player "I am very upset about you, Irene."
+    player "我对你很失望,艾琳."
 
 
 
     scene d_love_4_3 with tstmgr
 
-    d "What?"
+    d "什么?"
 
 
 
-    player "As your private teacher, I feel like it’s my duty to give you some punishments when you have bad behaviors."
+    player "作为你的私人老师,当你有不好的行为时,我觉得我有责任给你一些惩罚."
 
 
 
-    d "Oh, so you want to punish me? How?"
+    d "Oh,所以你想惩罚我?做什么?"
 
 
 
     scene d_love_4_4 with tstmgr
 
-    player "Like this!"
+    player "像这样!"
 
 
 
-    d "Wait, what is this?"
+    d "等等,这是什么?"
 
 
 
     scene d_love_4_5 with tstmgr
 
-    player "I’m doing my job!"
+    player "我在做我的工作!"
 
 
 
     label D_love_4_choice_1:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             pass
@@ -152,7 +152,7 @@ label D_love_4:
     scene d_love_4_7 with tstmgr
     play sound spank
 
-    player "This is for you ignoring your teacher!"
+    player "这是因为你无视你的老师!"
 
 
 
@@ -165,7 +165,7 @@ label D_love_4:
     label D_love_4_choice_2:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             pass
@@ -181,7 +181,7 @@ label D_love_4:
     scene d_love_4_7 with tstmgr
     play sound spank
 
-    player "This is for you failing your mom’s expectation!"
+    player "这是因为你辜负了你妈妈的期望!"
 
 
 
@@ -194,7 +194,7 @@ label D_love_4:
     label D_love_4_choice_3:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             pass
@@ -210,7 +210,7 @@ label D_love_4:
     scene d_love_4_7 with tstmgr
     play sound spank
 
-    player "This is for you wasting time on Your cellphone and not studying hard!"
+    player "这是因为你浪费时间在你的手机上而不努力学习!"
 
 
 
@@ -227,7 +227,7 @@ label D_love_4:
     label D_love_4_choice_4:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_6 with tstmgr
@@ -238,10 +238,10 @@ label D_love_4:
             play sound spank
             pause
 
-            d "Noooo, not again!!~~~"
+            d "Noooo,别打了!!~~~"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -253,7 +253,7 @@ label D_love_4:
     label D_love_4_choice_5:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_6 with tstmgr
@@ -264,10 +264,10 @@ label D_love_4:
             play sound spank
             pause
 
-            d "Sorry, sorry, [P], please forgive me... ..."
+            d "对不起,对不起,[P],请你原谅我吧......"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -279,7 +279,7 @@ label D_love_4:
     label D_love_4_choice_6:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_6 with tstmgr
@@ -295,7 +295,7 @@ label D_love_4:
             d "Owwwwwww~~~~~~~~~"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -307,7 +307,7 @@ label D_love_4:
     label D_love_4_choice_7:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_8 with tstmgr
@@ -318,10 +318,10 @@ label D_love_4:
             play sound spank
             pause
 
-            d "(Moaning with lust) My butt feels hot... ... ... ..."
+            d "(充满欲望的呻吟)我的屁股火辣辣的............"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -333,7 +333,7 @@ label D_love_4:
     label D_love_4_choice_8:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_8 with tstmgr
@@ -346,10 +346,10 @@ label D_love_4:
 
             scene d_love_4_14 with tstmgr
 
-            d "(Moaning with lust) [P]... ..."
+            d "(充满欲望的呻吟)[P]......"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -361,7 +361,7 @@ label D_love_4:
     label D_love_4_choice_9:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_8 with tstmgr
@@ -372,10 +372,10 @@ label D_love_4:
             play sound spank
             pause
 
-            d "(Moaning with lust) Ahhhhhhhhhhh~~~~~~~"
+            d "(充满欲望的呻吟)Ahhhhhhhhhhh~~~~~~~"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -387,7 +387,7 @@ label D_love_4:
     label D_love_4_choice_10:
 
     menu:
-        "Slap her ass":
+        "打她的屁股":
 
 
             scene d_love_4_8 with tstmgr
@@ -398,10 +398,10 @@ label D_love_4:
             play sound spank
             pause
 
-            d "(Moaning with lust) Wummmmmmm... ... ... ..."
+            d "(充满欲望的呻吟)Wummmmmmm............"
 
             player "... ... ... ..."
-        "Release her":
+        "放开她":
 
 
 
@@ -412,19 +412,19 @@ label D_love_4:
 
     scene d_love_4_15 with tstmgr
 
-    d "Mr. [P]... ... spare me... ..."
+    d "[P]老师......饶了我吧......"
 
 
 
-    d "I will... never disobey you anymore..."
+    d "我再...也不会违抗你了..."
 
 
 
-    d "Please... ..."
+    d "拜托......"
 
 
 
-    d "(Moaning with lust) Awwwww... ... ... ..."
+    d "(充满欲望的呻吟)Awwwww............"
 
 
 
@@ -442,23 +442,23 @@ label D_love_4:
 
 
 
-        player "Alright, that’s it. Now get up and let’s start today’s tutoring class."
+        player "好了,就是这样.现在起来,让我们开始今天的辅导课."
 
 
 
         scene d_love_4_16 with tstmgr
 
-        d "Huh? You are not going to punish me further?"
+        d "Huh?你不打算进一步惩罚我吗?"
 
 
 
-        player "Ehh... I think you have learned your lesson."
+        player "Ehh...我想你已经得到教训了."
 
 
 
         scene d_love_4_17 with tstmgr
 
-        d "(Slightly disappointed) Aww... ... ... ..."
+        d "(有点失望)Aww............"
 
 
 

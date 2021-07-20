@@ -11,19 +11,19 @@ label B_daily_21:
 
     scene b_daily21_1 with dissolve
 
-    "Lady Minna" "Hmmm? Isn’t this my dearest boy?"
+    "明娜夫人""Hmmm?这不是我最亲爱的孩子吗?"
 
 
 
-    player "Lady Minna? Good afternoon, and... ..."
+    player "明娜夫人?下午好......"
 
 
 
-    "I noticed there is a head hiding behind Lady Minna."
+    "我注意到明娜夫人后面藏着一个人头."
 
 
 
-    player "Sen?"
+    player "森?"
 
 
 
@@ -33,11 +33,11 @@ label B_daily_21:
 
     scene b_daily21_2 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜夫人""... ... ... ..."
 
 
 
-    "Lady Minna" "Why don’t you just go give your man a hug, little lemon?"
+    "明娜夫人""你为什么不给你的男人一个拥抱,小柠檬?"
 
 
 
@@ -47,75 +47,75 @@ label B_daily_21:
 
 
 
-    "It looks like Senning is being shy when her mother is around."
+    "看起来森柠在她妈妈身边的时候很害羞."
 
 
 
-    "Lady Minna" "Western boys prefer girls to be more outgoing. [P] will get tired of you soon if you keep being so inactive."
+    "明娜夫人""西方男孩喜欢女孩更外向.如果你再这样不活跃的话,[P]很快就会对你感到厌倦的."
 
 
 
     scene b_daily21_4 with tstmgr
 
-    b "No way, [P] won't get tired of me~"
+    b "不可能,[P]不会厌倦我的~"
 
 
 
     scene b_daily21_5 with tstmgr
 
-    "Lady Minna" "Ha... you won’t be so confident once you see your opponents."
+    "明娜夫人""Ha...一旦你看到你的对手,你就不会那么自信了."
 
 
 
     scene b_daily21_6 with tstmgr
 
-    b "Opponents?"
+    b "对手?"
 
 
 
     scene b_daily21_7 with tstmgr
 
-    e "Ah-rah, what a coincidence~"
+    e "Ah-rah,真巧~"
 
 
 
-    c "[P]... and Senning?"
+    c "[P]...和森柠?"
 
 
 
-    "Lady Minna" "Here we go... ..."
+    "明娜夫人""开始了......"
 
 
 
     scene b_daily21_8 with tstmgr
 
-    e "*Noticing Minna* Hmmmmm?"
+    e "*注意到明娜*Hmmmmm?"
 
 
 
     scene b_daily21_9 with tstmgr
 
-    e "We have... met before, right, ma’am?"
+    e "我们...以前见过,对吧,女士?"
 
 
 
-    "Lady Minna" "Yeah, five years ago on a fashion week. You bought a cheongsam from me, remember now?"
+    "明娜夫人""Yeah,五年前的一个时装周上.你从我这里买了一件旗袍,现在记起来了吗?"
 
 
 
     scene b_daily21_10 with tstmgr
 
-    e "Oh yeah! You are Lady Minna, the Cheongsam Queen!"
+    e "Ohyeah!你是明娜女士,旗袍女王!"
 
 
 
     scene b_daily21_11 with tstmgr
 
-    "Lady Minna" "Glad to see you still remember my name, Elisa~"
+    "明娜夫人""很高兴你还记得我的名字,伊莉莎~"
 
 
 
-    "The two ladies hit it off straight away and soon acted like they are best friends..."
+    "这两位女士一见面就很投缘,很快就表现得像最好的朋友一样..."
 
 
 
@@ -127,35 +127,35 @@ label B_daily_21:
 
     scene b_daily21_12 with dissolve
 
-    player "I can’t tell if they are really that close or they are just acting to be... ..."
+    player "我不知道她们是真的那么亲密还是她们只是装出来的......"
 
 
 
-    "Theodora answered with a shrug."
-
-
-
-    scene b_daily21_13 with tstmgr
-
-    e "Oh~~ look at you, so young and so beautiful, just like 5 years ago. I’m so jealous~"
-
-
-
-    scene b_daily21_14 with tstmgr
-
-    "Lady Minna" "Shut up~ I am somebody’s grandaunt now~"
+    "狄奥多拉耸了耸肩."
 
 
 
     scene b_daily21_13 with tstmgr
 
-    e "That doesn’t mean anything. People will mistake you as my daughter if we walk together~"
+    e "Oh~~看看你,那么年轻,那么漂亮,就像五年前一样.我很嫉妒~"
 
 
 
     scene b_daily21_14 with tstmgr
 
-    "Lady Minna" "Nope, I’m not going to walk with you. You will take all the limelight away from me~"
+    "明娜夫人""瞎说~我现在已经是是某人的祖母了~"
+
+
+
+    scene b_daily21_13 with tstmgr
+
+    e "那不代表什么.如果我们走在一起,人们会误以为你是我女儿~"
+
+
+
+    scene b_daily21_14 with tstmgr
+
+    "明娜夫人""Nope,我不会跟你一起走的.你会抢走我所有的风头~"
 
 
 
@@ -165,11 +165,11 @@ label B_daily_21:
 
     scene b_daily21_15 with tstmgr
 
-    player "Wanna go for some ice cream?"
+    player "想去吃点冰淇淋吗?"
 
 
 
-    c "Yeah, why not."
+    c "Yeah,有何不可."
 
 
 
@@ -180,38 +180,38 @@ label B_daily_21:
     label B_daily_21_choice_1:
 
     menu:
-        "Take Senning’s hand":
+        "牵森柠的手":
 
 
             scene b_daily21_16 with tstmgr
 
-            player "*Taking Senning’s hand* Let’s go then~"
+            player "*牵森柠的手*我们走吧~"
 
             b "[P]~~~"
 
             c "Huh... ... ... ..."
-        "Take Theodora’s hand":
+        "牵狄奥多拉的手":
 
 
 
 
             scene b_daily21_17 with tstmgr
 
-            player "*Taking Theodora’s hand* Let’s go then~"
+            player "*牵狄奥多拉的手*我们走吧~"
 
-            c "*Being slightly surprised* Huh... ..."
+            c "*有点惊讶*Huh......"
 
-            b "*Murmuring* Opp... opponent... ... ... ..."
-        "Take their hands at the same time":
+            b "*嘟囔*对...对手............"
+        "同时握住她们的手":
 
 
 
 
             scene b_daily21_18 with tstmgr
 
-            player "Alright, let’s go then~"
+            player "Alright,我们走吧~"
 
-            c "*Being slightly surprised* Huh... ..."
+            c "*有点惊讶*Huh......"
 
             b "O... okay~~"
 

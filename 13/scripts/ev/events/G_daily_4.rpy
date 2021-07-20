@@ -3,51 +3,51 @@ label G_daily_4:
     scene void with tstmgr
     play music happy
 
-    "The bookstore was closed due to a national holiday so Senning decided to pay a visit to my house."
+    "由于放假,书店关门了,所以森柠决定来我家看看."
 
 
 
     scene g_daily4_1 with tstmgr
 
-    b "Hi~ my friends~~"
+    b "Hi~我的朋友们~~"
 
 
 
     scene g_daily4_5 with tstmgr
 
-    a "Welcome to the house, Senning."
+    a "欢迎光临,森柠."
 
 
 
-    g "(Nodding) ... ... ... ..."
+    g "(点头)............"
 
 
 
     scene g_daily4_2 with tstmgr
 
-    b "I’m so happy to see you! Miss Vera and Miss Uno!"
+    b "真高兴见到你们!薇拉小姐和乌诺小姐!"
 
 
 
     scene g_daily4_3 with tstmgr
 
-    b "Emm? Where is [P]?"
+    b "Emm?[P]去哪了?"
 
 
 
     scene g_daily4_6 with tstmgr
 
-    a "He is in a shower. Forget about him, let’s go to the livingroom and have some girl’s talk!!"
+    a "他正在洗澡.忘了他吧,我们到客厅去来个女孩聊天时间!!"
 
 
 
-    g "(Nodding) ... ... ... ..."
+    g "(点头)............"
 
 
 
     scene g_daily4_4 with tstmgr
 
-    b "Sounds great, let’s go!"
+    b "听起来不错,我们走吧!"
 
 
 
@@ -61,39 +61,39 @@ label G_daily_4:
 
 
 
-    "Later in the livingroom, Senning and Uno were talking with each other while Vera was making snacks."
+    "在客厅里,森柠和乌诺正在交谈,薇拉在做点心."
 
 
 
     scene g_daily4_7 with dissolve
 
-    b "What? Uno, you are a real coser?"
+    b "什么?乌诺,你真是coser?"
 
 
 
-    g "(Nodding) ... ... ... ..."
+    g "(点头)............"
 
 
 
-    b "Wow... that’s so cool. You must be really brave. I mean, you are not afraid of showing yourself in the public."
+    b "Wow...这太酷了.你必须非常勇敢.我是说,你不怕在公众面前露脸."
 
 
 
     scene g_daily4_8 with tstmgr
 
-    b "I wish I can be as brave as you one day..."
+    b "我希望有一天我能像你一样勇敢..."
 
 
 
     scene g_daily4_9 with tstmgr
 
-    g "Do you want to see my photos?"
+    g "你想看我的照片吗?"
 
 
 
     scene g_daily4_10 with tstmgr
 
-    b "Yeah, I’d love to, please let me see them!"
+    b "Yeah,我很乐意,请让我看看!"
 
 
 
@@ -103,7 +103,7 @@ label G_daily_4:
 
 
 
-    g "Look..."
+    g "看..."
 
 
 
@@ -113,11 +113,11 @@ label G_daily_4:
 
 
 
-    b "Wow, a succubus? That’s crazy!"
+    b "Wow,一个女妖?难以置信!"
 
 
 
-    b "And God... You look like a completely different person with that make-up~"
+    b "天哪...你化了这个妆,看起来完全是另一个人~"
 
 
 
@@ -127,15 +127,15 @@ label G_daily_4:
 
 
 
-    b "A bunny girl? Oh my God, so cute, and so sexy~"
+    b "一个兔子女孩吗?天啊,好可爱,好性感~"
 
 
 
-    b "I've always wanted to wear a pair of fishnets like that..."
+    b "我一直想穿这样的渔网袜..."
 
 
 
-    b "What’s next? What’s next?"
+    b "接下来是什么?接下来是什么?"
 
 
 
@@ -151,29 +151,29 @@ label G_daily_4:
 
     scene void with tstmgr
 
-    "Uno scrolled past that photo immediately."
+    "乌诺立即划过这张照片."
 
 
 
     scene g_daily4_17 with tstmgr
 
-    b "Hmm? What was that? I didn’t see it clearly."
+    b "Hmm?这是什么?我没看清楚."
 
 
 
-    g "That was... a private photo, sorry, Senning... ..."
+    g "这是...一张私人照片,抱歉,森柠......"
 
 
 
     scene g_daily4_18 with tstmgr
 
-    b "Oh, I understand. Don’t worry about it."
+    b "Oh,我明白了.没关系."
 
 
 
     scene g_daily4_19 with tstmgr
 
-    a "Tea is ready, ladies."
+    a "茶好了,女士们."
 
 
 
@@ -183,37 +183,37 @@ label G_daily_4:
 
 
 
-    a "What are you girls watching?"
+    a "你们在看什么?"
 
 
 
     scene g_daily4_21 with tstmgr
 
-    b "Miss Vera, did you know that Uno is a famous coser?"
+    b "薇拉小姐,你知道乌诺是个有名的coser吗?"
 
 
 
     scene g_daily4_22 with tstmgr
 
-    a "What? For real?"
+    a "什么?真的?"
 
 
 
-    a "You never told me that, Uno!"
+    a "你从没告诉过我,乌诺!"
 
 
 
-    g "Sorry... ..."
+    g "抱歉......"
 
 
 
-    a "So that's why you get so many packages everyday..."
+    a "所以这就是为什么你每天都有很多包裹..."
 
 
 
     scene g_daily4_23 with tstmgr
 
-    a "Humph, I won’t forgive you unless you show me your photos. Quick, quick~~"
+    a "Humph,除非你把你的照片给我看,否则我是不会原谅你的.快点,快点~~"
 
 
 
@@ -225,33 +225,33 @@ label G_daily_4:
 
     scene g_daily4_24 with tstmgr
 
-    a "Wow, how could you dress like that in front of so many people?"
+    a "Wow,你怎么能在那么多人面前穿成这样?"
 
 
 
     scene g_daily4_25 with tstmgr
 
-    b "Ahh! That was my favorite anime character!"
+    b "Ahh!这是我最喜欢的动漫人物!"
 
 
 
     scene g_daily4_26 with tstmgr
 
-    "I got out from the bathroom and saw the three gorgeous ladies sitting on the couch."
+    "我从浴室出来,看到三个漂亮的女士坐在沙发上."
 
 
 
-    player "Senning? Nice to see you here..."
+    player "森柠?很高兴在这里见到你..."
 
 
 
-    "These three cuties... I wish I could go over and hold all of them in my arms... ..."
+    "这三个小可爱...我希望我能走过去,把她们都抱在我的怀里......"
 
 
 
     scene g_daily4_27 with tstmgr
 
-    b "[P], did you know that Uno is a coser?"
+    b "[P],你知道乌诺是coser吗?"
 
 
 
@@ -261,23 +261,23 @@ label G_daily_4:
 
     scene g_daily4_28 with tstmgr
 
-    a "You knew? Why didn’t you tell me?"
+    a "你知道?你为什么不告诉我?"
 
 
 
-    player "Eh... you didn’t ask... ..."
+    player "Eh...你没有问......"
 
 
 
-    b "Do you want to join us and see Uno’s cosplay pictures?"
+    b "你想和我们一起看乌诺的COSPLAY图片吗?"
 
 
 
-    player "Can I?"
+    player "我可以吗?"
 
 
 
-    b "Of course, come on~"
+    b "当然,来吧~"
 
 
 
@@ -289,11 +289,11 @@ label G_daily_4:
 
     scene g_daily4_29 with tstmgr
 
-    "Man, this is fantastic. I’m going to enjoy this moment."
+    "伙计,这太棒了.我要享受这一刻."
 
 
 
-    "I wish one day I can hold all three of them in my bed... ..."
+    "我希望有一天我能把他们三个都放在我的床上......"
 
 
 

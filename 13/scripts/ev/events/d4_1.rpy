@@ -4,25 +4,25 @@ label d4_1:
 
     narrator "... ... ... ..."
 
-    narrator "I slept very well last night. It seemed like I was not resting on my bed. This bed was way harder than mine, but it didn't affect my sleeping quality."
+    narrator "我昨晚睡得很好.我好像没有在我的床上休息.这张床比我的硬得多,但它没有影响我的睡眠质量."
 
-    narrator "I also had a wet dream while sleeping."
+    narrator "我在睡觉的时候做了一个春梦."
 
     scene day3_a12 with tstmgr
 
-    narrator "In that dream, I had an incredible sexual experience with a girl, a Cinderella type girl."
+    narrator "在那个梦里,我和一个女孩有了一段不可思议的性经历,一个灰女孩式的女孩."
 
     scene day3_a19 with tstmgr
 
-    narrator "She was pretty, and I was crazy for her. I fucked her so hard, like a beast in season."
+    narrator "她很漂亮,我为她疯狂.我对她太粗暴了,就像发情期的野兽."
 
     scene day3_fix_27 with tstmgr
 
-    narrator "I came my load in her body as a total conqueror. It doesn't like what a man of virtue would do, but I don't care."
+    narrator "我作为一个完全的征服者进入到了她的身体里.它不像一个有美德的人会做的事,但我不在乎."
 
     scene void with tstmgr
 
-    narrator "It's nothing but a dream, no one cares."
+    narrator "这只是一个梦,没有人在乎."
 
     narrator "Zzzzzz, zzzzzzz, zzzzzzzz..."
 
@@ -30,175 +30,175 @@ label d4_1:
 
     a "AHHHHHHHHHHHHHHH!!!!!!!!!!!!"
 
-    narrator "What kind of wake up service is that? That scream is like a knife stabbing in my hangovered head."
+    narrator "这是什么叫醒服务?那尖叫声就像一把刀刺进我宿醉的脑袋."
 
-    narrator "Ah... Shit, my head hurts like hell..."
+    narrator "Ah...妈的,我头疼死了..."
 
-    a "Who the fuck are you!?!?!?!?!?!?!"
+    a "你他妈的是谁!?!?!?!?!?!?!"
 
-    player "What... What are you... What happens?"
+    player "什么...你是谁...发生了什么?"
 
     scene a_initial_background with tstmgr
 
-    narrator "I painfully opened my eyes, found out that I am lying in an unfamiliar bed. The room looks unfamiliar, too. Where am I? It's not like any place I know..."
+    narrator "我痛苦地睁开眼睛,发现自己躺在一张陌生的床上.这个房间看起来也很不熟悉.我在哪儿?这跟我认识的任何地方都不一样..."
 
-    narrator "Ew... It's like a slum shithole... How did I end up being here?"
+    narrator "Ew...就像贫民窟的粪坑...我是怎么来到这里的?"
 
     player "... ... ... ..."
 
-    player "Oh, shit..."
+    player "Oh,操..."
 
     scene day4_a1 with tstmgr
 
-    narrator "A naked girl is standing in front of me. She has a pretty face, and her skin is in wheat color. Maybe she has Latin American or Mideast descent?"
+    narrator "一个裸体的女孩站在我面前.她有一张漂亮的脸,她的皮肤是小麦色的.也许她有拉丁美洲或中东血统?"
 
-    narrator "She is now covering her private part with one hand and her breasts with another. But her breasts are too huge to cover. It makes her look even more erotic."
+    narrator "她现在一只手捂着私处,另一只手捂着胸.但她的胸部太大,无法遮掩.这让她看起来更加性感."
 
-    narrator "Why does she look... exactly like the girl I dreamed last night?"
+    narrator "为什么她看起来...就像我昨晚梦到的那个女孩?"
 
-    narrator "Wait..."
+    narrator "等等..."
 
-    narrator "Fuck!"
+    narrator "操!"
 
-    narrator "So that was not a fucking dream at all! I truly did sleep with this girl last night."
+    narrator "所以那他妈的根本不是梦!我昨晚真的和这个女孩上床了."
 
     scene day4_a2 with tstmgr
 
-    a "You... You... You demon! What did you do to me!?"
+    a "你...你...你混蛋!你对我做了什么!?"
 
-    narrator "What did I do to you? How the hell could I remember! I was drunk last night, right?"
+    narrator "我对你做了什么?我怎么会记得!我昨晚喝醉了,对吧?"
 
-    player "Sorry... Hey... Listen, Miss. We don't seem to know each other. There might be some mistakes..."
+    player "抱歉...Hey...听着,小姐,我们好像不认识.可能会有一些误会..."
 
-    narrator "Mistakes? No no no, I don't even buy that myself..."
+    narrator "误会吗?不不不,我自己都不信.我的精液还在她身上!"
 
     scene day4_a3 with tstmgr
 
-    a "I will kill you! I will kill you!"
+    a "我要杀了你!我要杀了你!"
 
-    narrator "She rushed over to me. But this attack had no threat at all. I was actually enjoying this, you know, the strengthless punch from a naked beauty."
+    narrator ":她向我冲过来.但是这次袭击没有任何威胁.我其实很享受这个,你知道,一个裸体美女的粉拳."
 
-    narrator "But... I have to calm her down now."
+    narrator "但是...我现在得让她冷静下来."
 
     scene day4_a4 with tstmgr
 
-    player "Listen, Miss, you need to calm down. We were both drunk last night, remember? I want to figure out what happened last night the same as you do. So let's figure it out together, okay?"
+    player "听着,小姐,你需要冷静下来.我们昨晚都喝醉了,记得吗?我和你一样想弄清楚昨晚发生了什么,我们一起捋一下,okay?"
 
-    player "And... it's quite imapproriate for you to... be like this, don't you think? You'd better get some clothes on."
+    player "还有...你现在...你最好穿上衣服."
 
     scene day4_a5 with tstmgr
 
     a "Huh?... ..."
 
-    narrator "She suddenly realized that she was exposing all her private parts to me."
+    narrator "她突然意识到她把她所有的私密位置都暴露给我看了."
 
     scene void with tstmgr
 
     a "AHHHHHHHHHHHHHHH!!!!!!!"
 
-    narrator "She then jumped away from me to a corner of the room like a rabbit."
+    narrator "然后她像兔子一样从我身边跳开,躲到房间的一个角落里."
 
     narrator "... ... ... ..."
 
-    narrator "Sometime later..."
+    narrator "一段时间后..."
 
     scene day4_a6 with tstmgr
 
     player "... ... ... ..."
 
-    player "To be honest, Miss, I can barely remember anything last night. But it seems like we had a good time in the nightclub."
+    player "老实说,小姐,我昨晚什么都不记得了.但是看起来我们在夜总会玩得很开心."
 
-    player "I suggest we start over now and introduce ourselves."
+    player "我建议我们现在重新开始,自我介绍一下."
 
-    player "My name is [P.name], and you are?"
+    player "我叫[P.name],你呢?"
 
     scene day4_a7 with tstmgr
 
-    a "Vera..."
+    a "薇拉..."
 
-    player "Nice to meet you, Vera."
+    player "很高兴见到你,薇拉."
 
-    narrator "She responded me with only a humph."
+    narrator "她只嗯了一声作为回应."
 
     scene day4_a6 with tstmgr
 
-    a "I wish we never met... ..."
+    a "我希望我们从未见过面......"
 
-    player "Look, Miss. I was deeply sorry for what happened last night, but both of us have the responsibility. You can't blame it all on me."
+    player "听着,小姐,我对昨晚发生的事深感抱歉,但我们都有责任.你不能全赖我."
 
     scene day4_a8 with tstmgr
 
-    narrator "Vera suddenly cries out."
+    narrator "薇拉突然大叫起来."
 
-    a "Then what do you want me to do? You took my virginity! You, a nightclubbing playboy, took my virginity!"
+    a "那你要我怎么做?你夺走了我的第一次!你,一个夜总会的花花公子,夺走了我的第一次!"
 
-    narrator "Wait, I took her virginity?"
+    narrator "等等,我夺走了她的第一次?"
 
     scene day4_a9 with tstmgr
 
-    a "I shouldn't go to that party in the beginning. I should have realized that there will be a demon like you hiding in that place. Gods... Now it's too late."
+    a "我一开始就不应该去那个聚会.我应该意识到在那个地方会有一个像你一样的恶魔.天啊...现在已经太迟了."
 
-    a "I should have listened to my mom and never come to this city. This place is... this place is... this place is full of traps..."
+    a "我应该听妈妈的话,永远不要来这个城市.这个地方是...这个地方是...这个地方充满了陷阱..."
 
-    narrator "Her emotion became very unstable again."
+    narrator "她的情绪又变得很不稳定."
 
-    player "Okay, Vera. I understand your feeling. Believe me, I will make up for you."
+    player "Okay,薇拉.我理解你的感受.相信我,我会补偿你的."
 
     scene day4_a10 with tstmgr
 
-    a "How could you possibly make up for me? You know nothing about me!"
+    a "你要怎么补偿我?你什么都不知道!"
 
-    player "How about this? I will give you money, a lot of money. You can use this money to buy anything you want. Let's just... move on, alright?"
+    player "这个怎么样?我会给你钱,很多很多钱.你可以用这些钱买任何你想要的东西.我们就...翻篇,好吧?"
 
     scene day4_a11 with tstmgr
 
-    a "Do I look like a prostitute to you?"
+    a "你觉得我像妓女吗?"
 
-    player "You know that's not what I mean. Come on, just look around."
+    player "你知道我不是这个意思.来吧,看看周围."
 
     scene day4_a12 with tstmgr
 
-    player "You are living in a room even worse than a jail cell, that is because you can't afford to live in a better place, right?"
+    player "你住的房间比牢房还差,那是因为你住不起更好的地方,对吧?"
 
-    player "Just admit it, You need money pretty bad."
+    player "承认吧,你急需钱."
 
     scene day4_a11 with tstmgr
 
-    a "It's none of your business!"
+    a "与你无关!"
 
-    a "I would rather die than trade my virginity for money..."
+    a "我宁死也不愿用我的身体去换钱..."
 
-    player "But..."
+    player "但是..."
 
-    a "Stop using your dirty money to insult me. Haven't you insulted me enough?"
+    a "别用你的脏钱来侮辱我.你侮辱我的还不够吗?"
 
-    player "Sorry..."
+    player "抱歉..."
 
     scene day4_a13 with tstmgr
 
-    a "My life is a piece of shit..."
+    a "我的生活就是一坨屎..."
 
-    player "There must be a way for me to make up for you. Please tell me, please. I am willing to do anything to make you feel better."
+    player "一定有办法让我来弥补你.请告诉我.我愿意做任何事让你感觉好点."
 
     scene day4_a11 with tstmgr
 
-    a "You don't need to pretend like a good man. Get out of my house. I don't want to see you anymore."
+    a "你没必要装得像个好人.滚出我的房子.我再也不想见到你了."
 
     narrator "... ... ... ..."
 
-    narrator "Maybe it is better to leave her alone for now. I will try to do something later after she calms down."
+    narrator "也许现在最好让她一个人呆着.等她平静下来后,我再想办法弥补她."
 
-    player "Fine, I'll leave. If you need anything or any help, please just call me. Here is my number..."
+    player "好,我会离开.如果你需要任何东西或任何帮助,请打电话给我.这是我的电话号码..."
 
     scene day4_a10 with tstmgr
 
-    a "Shut up! Shut up! GO AWAY!! GET OUT OF MY HOUSE!!!"
+    a "闭嘴!闭嘴!走开!!滚出我的房子!!!"
 
     player "... ... ... ..."
 
     scene void with tstmgr
 
-    narrator "She drove me out of her apartment."
+    narrator "她把我赶出了她的公寓."
 
     narrator "... ... ... ..."
 
@@ -213,25 +213,25 @@ label d4_1_bLine:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "The next day, morning..."
+    narrator "第二天,早上..."
 
-    narrator "I slept very well last night. It seemed like I didn't rest on my own bed. This bed was way harder than mine, but it didn't affect my sleeping quality."
+    narrator "我昨晚睡得很好.我好像没有在自己的床上休息.这张床比我的硬多了,但它并没有影响我的睡眠质量."
 
-    narrator "I also had a wet dream while sleeping."
+    narrator "我在睡觉的时候做了一个春梦."
 
     scene day3_fix_14 with tstmgr
 
-    narrator "In that dream, I had an incredible sexual experience with a girl, a Cinderella type girl."
+    narrator "在那个梦里,我和一个女孩有了一段不可思议的性经历,一个灰女孩式的女孩."
 
     scene day3_fix_27 with tstmgr
 
-    narrator "She was pretty, and I was crazy for her. I fucked her so hard like a beast in season."
+    narrator "她很漂亮,我为她疯狂.我对她太粗暴了,就像发情期的野兽."
 
-    narrator "Well, quite a dream, wasn't it? The best dream that a guy could ever have in his life."
+    narrator "Well,真是个好梦,不是吗?这应该是一个男人一生中做过的最好的梦."
 
     $ closeeyes()
 
-    narrator "But still, it's only a dream..."
+    narrator "但这仍然只是一个梦..."
 
     narrator "... ... ... ..."
 
@@ -239,9 +239,9 @@ label d4_1_bLine:
 
     player "Zzz... ... ... ..."
 
-    player "(Gradually waking up) Hmm... ..."
+    player "(逐渐醒来)Hmm......"
 
-    narrator "Shit... my back hurts... This bed really sucks. Where am I lying at?..."
+    narrator "操...我的背痛...我躺的这张床可真烂..."
 
     $ openeyes("day4_fix_1")
 
@@ -249,139 +249,139 @@ label d4_1_bLine:
 
     a "Hi... ... ... ..."
 
-    narrator "Wait, WTF? Who is this girl?"
+    narrator "等等,WTF?这个女孩是谁?"
 
     scene day4_fix_2 with tstmgr
 
-    narrator "A naked wheat-skin girl is sitting in front of me. She is covering her private part with one hand and her breasts with another. But her breasts are too huge to cover. It makes her look even more erotic."
+    narrator "一个裸体的小麦皮肤的女孩正坐在我的前面.她一只手遮着私处,另一只手遮着胸.但她的胸太大了,无法完全遮住.这让她看起来更加性感."
 
-    narrator "Why does she look... exactly like the girl I dreamed last night?"
+    narrator "为什么她看起来...就像我昨晚梦到的那个女孩?"
 
-    narrator "Wait..."
+    narrator "等等..."
 
-    narrator "So that was not a dream at all! I truly did sleep with this girl last night."
+    narrator "所以那根本不是梦!我昨晚真的和这个女孩睡了."
 
-    narrator "Damn, why can't I remember anything?"
+    narrator "Damn,为什么我什么都不记得了?"
 
-    player "Hi... Miss."
+    player "Hi...小姐."
 
-    a "You are... awake..."
+    a "你...醒了..."
 
-    a "Do you remember... what happened?"
+    a "你还记得...发生了什么事吗?"
 
-    narrator "Well, I don't remember a thing, but I think I can have a solid guess. I mean, a man and a woman, both naked, sharing the same bed, what else could it be?"
+    narrator "Well,我什么都不记得了,但我想我可以有一个大概的猜测.我是说,一个男人和一个女人,都光着身子,睡在一张床上,还能是什么?"
 
-    player "Nothing but a few fragments... But..."
+    player "有点模糊...但是..."
 
-    player "We had a good night, right?"
+    player "我们有一个美妙的夜晚,不是吗?"
 
     scene day4_fix_3 with tstmgr
 
-    narrator "She flushed."
+    narrator "她满脸通红."
 
-    a "I... I don't know... I don't remember anything clearly, either."
+    a "我...我不知道...我也记不清楚了."
 
     a "... ... ... ..."
 
     scene day4_fix_4 with tstmgr
 
-    a "That was my... first time..."
+    a "那是我的...第一次..."
 
     scene day4_fix_5 with tstmgr
 
-    a "I lost my virginity in an one-night-stand and I can't even remember what happened. I'm such a failure..."
+    a "我在一夜情中失去了第一次,我甚至不记得发生了什么.我真是个失败者..."
 
-    narrator "Wait, I took her virginity?"
+    narrator "等等,我夺走了她的第一次?"
 
     scene day4_fix_6 with tstmgr
 
-    a "I shouldn't have gone to that party. All of these are not supposed to happen and you are not supposed to be here."
+    a "我不应该去那个聚会的.所有这些都不应该发生,你也不应该在这里."
 
     player "... ... ... ..."
 
     scene day4_fix_7 with tstmgr
 
-    a "You... I'm sorry, what's your name again?"
+    a "你...对不起,请再说一遍你的名字?"
 
     player "[P]..."
 
     scene day4_fix_3 with tstmgr
 
-    a "Ah... Nevermind... We won't meet again anyway."
+    a "Ah...无所谓了...反正我们也不会再见面了."
 
     a "... ... ... ..."
 
     scene day4_fix_4 with tstmgr
 
-    a "I'm Vera."
+    a "我叫薇拉."
 
-    player "It's... nice to meet you."
+    player "很...很高兴见到你."
 
-    a "I wouldn't say that to you... but thanks..."
+    a "我不会这样对你说...但是谢谢..."
 
-    a "I think you should go. I'm about to go to work."
+    a "我想你应该要离开了.我要去上班了."
 
-    player "O... Okay. I'm leaving right now, just give me a minute to find my underwear."
+    player "O...Okay.我马上走,给我一分钟去找我的内衣."
 
-    narrator "I got up from bed and started to dress up."
+    narrator "我从床上起来,开始穿衣服."
 
     scene day4_fix_8 with tstmgr
 
-    a "Wait, can you do me a favor?"
+    a "等等,你能帮我个忙吗?"
 
-    player "Sure, what's that?"
+    player "当然,什么忙?"
 
     scene day4_fix_8 with tstmgr
 
     a "... ... ... ..."
 
-    narrator "She seems a little bit embarrassed to tell me what she wants."
+    narrator "她似乎有点不好意思告诉我她想要什么."
 
-    a "Can you hand me a bath toweI?... I... I can't get up."
+    a "能给我一个浴巾吗?...我...我起不来."
 
-    a "My waist and belly... hurt as hell."
+    a "我的腰和肚子...疼的要命."
 
-    narrator "I froze for a second, didn't really get what she means by \"waist and belly hurt as hell\". And soon I realized what is going on."
+    narrator "我愣了一下,不明白她说的“腰和肚子疼得要命”是什么意思.很快我意识到发生了什么."
 
-    narrator "Some girls would suffer in pain after their hymen got broken. It seems like Vera is one of them."
+    narrator "有些女孩在处女膜破裂后会感到疼痛.薇拉似乎就是这样."
 
-    narrator "God, I should be guilty about this since I was the one who made her suffer in pain. I should make up for her."
+    narrator "天啊,我应该为此感到内疚.我在一个喝醉的夜晚夺走了她的第一次,让她痛苦不堪.我应该补偿她."
 
     scene day4_fix_10 with tstmgr
 
-    narrator "I found a bath towel in her closet and handed it to her. She then used it to cover up her body."
+    narrator "我在她的壁橱里找到一条浴巾,把它递给了她.然后她用它来遮住她的身体."
 
-    a "Thanks..."
+    a "谢谢..."
 
-    player "It's nothing... And..."
+    player "小事情...而且..."
 
-    player "I'm sorry for what happened last night. Is there anything I can do to make up for you?"
+    player "对于昨晚发生的事我很抱歉.我能为你做点什么吗?"
 
-    player "I can give you money if you want. Just tell me a number and I will..."
+    player "如果你愿意,我可以给你钱.只要告诉我一个数字,我会..."
 
     scene day4_fix_11 with tstmgr
 
-    a "(Interrupting) What do you think I am? A prostitute? I won't accept your money."
+    a "(打断)你以为我是什么人?妓女吗?我不会要你的钱."
 
-    a "Just... leave, please. And forget about me, forget about last night. "
+    a "你...走吧,拜托了.忘记我,忘记昨晚."
 
-    a "We all need to move on..."
+    a "我们都需要继续生活..."
 
-    a "Now if you don't mind... I want to stay alone for a while."
+    a "如果你不介意...我想一个人呆一会儿."
 
-    narrator "She tried to pretend like she was calm and dispassionate. But her sorrowful eyes have sold her out. She must be very sad. "
+    narrator "她竭力装出镇静,冷静的样子.但是她悲伤的眼睛出卖了她.她一定很伤心."
 
-    narrator "That's not what I want to see. One-night-stand should be relaxing, not distressing. I must find a way to make her happy."
+    narrator "那不是我想看到的.一夜情应该是放松的,而不是痛苦的.我得想个办法让她高兴."
 
-    player "Can we exchange phone numbers? I really want to make up for you."
+    player "我们可以交换电话号码吗?我真的很想弥补你."
 
     a "... ... ... ..."
 
     scene day4_fix_12 with tstmgr
 
-    a "Please, just leave, please."
+    a "求你了,离开吧,求你了."
 
-    a "Let's just... forget all these things, okay?"
+    a "我们就...忘了这些吧?"
 
     player "... ... ... ..."
 
@@ -389,7 +389,7 @@ label d4_1_bLine:
 
     scene void with tstmgr
 
-    narrator "I'll figure a way later. Right now it might be best to just leave her alone."
+    narrator "我以后会想办法的.现在最好让她一个人呆着."
 
     narrator "... ... ... ..."
 

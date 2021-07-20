@@ -4,19 +4,19 @@ label store_2_more_firstime:
     scene store_2_more_firstime_1 with tstmgr
     play music happy
 
-    "Lady Minna" "Okay, seriously, why are you keeping visiting me these days?"
+    "明娜夫人""Okay,说真的,你这几天为什么总来看我?"
 
 
 
-    "Lady Minna" "Is there something you want from me?"
+    "明娜夫人""你想从我这里得到什么吗?"
 
 
 
-    player "Eh... ... no... I’m just trying to... being nice."
+    player "Eh......no...我只是想...表示友善."
 
 
 
-    "Lady Minna" "Is that all?"
+    "明娜夫人""就这样?"
 
 
 
@@ -26,65 +26,65 @@ label store_2_more_firstime:
 
     scene store_2_more_firstime_2 with tstmgr
 
-    "Lady Minna" "Hum~~"
+    "明娜夫人""Hum~~"
 
 
 
-    "Lady Minna" "Alright then, actually, can I ask you for a favor?"
+    "明娜夫人""好吧,我能请你帮个忙吗?"
 
 
 
-    player "Ehhh... sure... ..."
+    player "Ehhh...当然......"
 
 
 
     scene store_2_more_firstime_3 with tstmgr
 
-    "Lady Minna" "Well, I was not supposed to ask my future son-in-law for this, but you are the only male I know in this country, so... ..."
+    "明娜夫人""Well,我不应该问我未来的女婿这件事,但你是我在这个国家认识的唯一的男性,所以......"
 
 
 
-    player "I feel like you are going to bring up something super weird... ..."
+    player "我觉得你要提一些超级奇怪的事......"
 
 
 
     scene store_2_more_firstime_4 with tstmgr
 
-    "Lady Minna" "Don't be afraid, it’s just a little favor."
+    "明娜夫人""别害怕,这只是个小忙."
 
 
 
-    "Lady Minna" "I want you to introduce some friends of yours to me."
+    "明娜夫人""想让你给我介绍几个你的朋友."
 
 
 
-    player "Friends of mine? I don’t get it..."
+    player "我的朋友吗?我不明白..."
 
 
 
     scene store_2_more_firstime_5 with tstmgr
 
-    "Lady Minna" "Cough, cough, let me be more specific..."
+    "明娜夫人""咳,咳,让我说得更具体一些..."
 
 
 
     scene store_2_more_firstime_6 with tstmgr
 
-    "Lady Minna" "I want you to introduce some male friends to me, young strong handsome males, just like you~"
+    "明娜夫人""我想让你介绍一些男性朋友给我,年轻强壮英俊的男性,就像你一样~"
 
 
 
-    "Lady Minna" "You must know a lot of them, right?"
+    "明娜夫人""你肯定认识很多人,对吧?"
 
 
 
-    player "Yeah... ... but this has already sounded super weird now. Why do you want to know them?"
+    player "Yeah......但现在听起来已经很奇怪了.你为什么想认识他们?"
 
 
 
     scene store_2_more_firstime_7 with tstmgr
 
-    "Lady Minna" "Eh, fuck them. What else can it be?"
+    "明娜夫人""Eh,操他们.还能是什么呢?"
 
 
 
@@ -92,89 +92,89 @@ label store_2_more_firstime:
 
 
 
-    "Lady Minna" "You see, I didn’t come here only to see my daughter, I’m also seeking for a lovely romance with a young handsome boy in this foreign land."
+    "明娜夫人""你看,我来这里不只是为了看我的女儿,我也在这片异国的土地上寻找一个可爱的浪漫与年轻英俊的男孩."
 
 
 
-    player "You want to cheat on Senning’s dad?"
+    player "你想背叛森柠的爸爸?"
 
 
 
-    "Lady Minna" "Nope, we are in an open relationship. I’m okay with him having three other wives and he is okay with me to have my own fun, very fair, isn’t it?"
+    "明娜夫人""Nope,我们是开放型夫妻关系.我不介意他有另外三个妻子他也不介意我自娱自乐,很公平,不是吗?"
 
 
 
     scene store_2_more_firstime_8 with tstmgr
 
-    player "Yeah, sure, why am I not even surprised anymore... ..."
+    player "Yeah,当然,我怎么一点都不惊讶了......"
 
 
 
     scene store_2_more_firstime_9 with tstmgr
 
-    player "Does Senning know this?"
+    player "森柠知道这些吗?"
 
 
 
-    "Lady Minna" "What are you thinking? Of course not. We attach great importance to children’s education. Senning has been brought up with both oriental traditional virtues and western etiquettes of being a lady. She is perfection~"
+    "明娜夫人""你在想什么?当然不知道.我们非常重视孩子的教育.森柠从小就受到了东方传统美德和西方淑女礼仪的熏陶.她是完美的~"
 
 
 
-    player "So basically she is the only one in your family who has a conservative concept of love?"
+    player "所以基本上她是你家里唯一一个对爱有保守观念的人?"
 
 
 
-    "Lady Minna" "Uh-huh~"
+    "明娜夫人""Uh-huh~"
 
 
 
-    player "Ah... ... I start to feel sorry for her... ..."
+    player "Ah......我开始为她感到难过......"
 
 
 
     scene store_2_more_firstime_10 with tstmgr
 
-    "Lady Minna" "Anyway, now tell me, do you have any good candidates?"
+    "明娜夫人""不管怎样,现在告诉我,你有合适的人选吗?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    "Choose the first answer if you want to go further with Lady Minna; Choose the second one if you don’t want to."
+    "如果你想和明娜夫人更进一步,选择第一个答案;如果你不想,就选第二个吧."
 
 
 
     label store_2_more_firstime_choice_1:
 
     menu:
-        "What about me?":
+        "我怎么样?":
 
             $ what_about_me = True
-            player "Unfortunately, almost all of my male friends had left me after I went broke."
+            player "不幸的是,在我破产后,几乎所有的男性朋友都离开了我."
 
-            "Lady Minna" "Ah, is that so? Such a pity... ..."
+            "明娜夫人""Ah,是这样吗?真遗憾......"
 
             scene store_2_more_firstime_11 with tstmgr
 
-            player "But... you know, maybe... ... ... ..."
+            player "但是...你知道,也许............"
 
             scene store_2_more_firstime_14 with tstmgr
 
-            player "I can do the job too~"
+            player "我也能做这份工作~"
 
             scene store_2_more_firstime_15 with tstmgr
 
-            "Lady Minna" "Oh?... ... ... ..."
+            "明娜夫人""Oh?... ... ... ..."
 
             scene store_2_more_firstime_14 with tstmgr
 
-            "Lady Minna" "I see~"
+            "明娜夫人""我明白了~"
 
             scene store_2_more_firstime_16 with tstmgr
 
-            "Lady Minna" "Senning did has told me that you have a remarkable performance in sex. I guess you are exactly the one I need..."
+            "明娜夫人""森柠告诉过我你在性方面的表现非常出色.我想你正是我需要的人..."
 
             scene b_daily19_37 with flashback
 
@@ -182,83 +182,83 @@ label store_2_more_firstime:
 
             scene store_2_more_firstime_18 with flashback
 
-            "Lady Minna" "It will be... such a waste if I just let my daughter enjoy this delicious body alone~"
+            "明娜夫人""这将是...如果我让我女儿一个人享受这美妙的身体,那真是浪费~"
 
             scene store_2_more_firstime_19 with tstmgr
 
-            player "Yeah, and just let you know that I have almost infinite energy in bed. Sometimes I would even suspect that I am a protagonist of a harem game or something."
+            player "Yeah,让你知道我在床上几乎有无限的能量.有时我甚至会怀疑自己是一个后宫游戏的主角."
 
             scene store_2_more_firstime_20 with tstmgr
 
-            "Lady Minna" "Wow, that was... a weird suspicion."
+            "明娜夫人""Wow,这是...一个奇怪的怀疑."
 
             scene store_2_more_firstime_19 with tstmgr
 
-            "Lady Minna" "But don’t get too cocky yet~ I haven’t even mentioned anything about sex."
+            "明娜夫人""但是不要太得意~我甚至没有提到任何关于性的事情."
 
-            player "Eh... ... So no sex?"
+            player "Eh......所以没有性?"
 
-            "Lady Minna" "Not yet."
+            "明娜夫人""还没有."
 
-            "Lady Minna" "You see, I’m not a woman that can be easily satisfied in sex. Regular sex can only bring me very limited pleasure."
+            "明娜夫人""你看,我不是那种能轻易满足于性的女人.有规律的性爱只能给我带来非常有限的快乐."
 
-            "Lady Minna" "I have some... weird fetishes~"
+            "明娜夫人""我有一些...奇怪的癖好~"
 
-            player "What... do you exactly mean by that?"
+            player "什么...你能说的更准确些吗?"
 
-            "Lady Minna" "Let me show you now~"
+            "明娜夫人""现在让我展示给你看~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "一段时间后..."
 
-            player "Emmmmmm... ... Lady Minna..."
+            player "Emmmmmm......明娜夫人..."
 
             scene store_2_more_firstime_21 with dissolve
 
-            player "What are we exactly doing right now? Why did you tie my arms up?"
+            player "我们现在到底在做什么?你为什么把我的胳膊绑起来?"
 
             scene store_2_more_firstime_36 with tstmgr
 
-            "Lady Minna" "Awww~ Are you terrified now? Poor little boy~ I just want to observe better at your juicy body~"
+            "明娜夫人""Awww~你现在害怕了吗?可怜的小男孩~我只是想更好地观察你多汁的身体~"
 
             scene store_2_more_firstime_22 with tstmgr
 
-            "Lady Minna" "Look at these abs... ..."
+            "明娜夫人""看看这些腹肌......"
 
             scene store_2_more_firstime_23 with tstmgr
 
-            "Lady Minna" "And these cute nipples~"
+            "明娜夫人""还有这些可爱的乳头~"
 
-            player "Lady... ... Minna... ..."
+            player "明娜......夫人......"
 
             scene store_2_more_firstime_24 with tstmgr
 
-            "Lady Minna" "Ohh~ Yes, let me feel your hard chest with these boobs~"
+            "明娜夫人""Ohh~Yes,让我用我的胸感受一下你的胸~"
 
-            "Lady Minna" "Young male’s body... is the best~"
+            "明娜夫人""年轻男性的身体...是最好的~"
 
-            player "Lady Minna... I don’t... feel right... ..."
+            player "明娜夫人...我感觉...不太对......"
 
             scene store_2_more_firstime_26 with tstmgr
 
-            "Lady Minna" "You always do this to girls, don’t you? Pushing them against the wall and caressing their bodies like treating artworks."
+            "明娜夫人""你总是这样对女孩,不是吗?把她们推到墙上,爱抚她们的身体,就像对待艺术品一样."
 
-            "Lady Minna" "You must be proud of yourself when hearing their lusty moanings, right? And now..."
+            "明娜夫人""听到她们大声的呻吟,你一定为自己感到骄傲,对吧?现在..."
 
-            "Lady Minna" "I’m just letting you feel what those girls felt~"
+            "明娜夫人""我只是让你感受她们的感受~"
 
             player "Awwww... ... ... ..."
 
-            "Ah, damn, now I moan like a girl too... ..."
+            "Ah,damn,现在我也像个女孩一样呻吟......"
 
             scene store_2_more_firstime_27 with tstmgr
 
-            "Lady Minna" "Look at what this is, wow~ such a filthy cock~"
+            "明娜夫人""看看这是什么,哇~这么脏的鸡巴~"
 
-            player "Minnnna... ..."
+            player "明娜......"
 
             scene store_2_more_firstime_25 with tstmgr
 
@@ -266,25 +266,25 @@ label store_2_more_firstime:
 
             player "Ohhhhhhhhhh~~~~~~"
 
-            "She is... holding my balls... ohhhhh... This feels so damn shameful... but why the fuck is my dick getting so hard?"
+            "她...拿着我的蛋蛋...噢...这感觉太可耻了...但为什么我的鸡巴这么硬?"
 
             scene store_2_more_firstime_28 with tstmgr
 
-            "Lady Minna" "Yes, yes, keep moaning like that. I am so horny by hearing your moaning~"
+            "明娜夫人""Yes,yes,继续那样呻吟.听到你的呻吟我就欲火中烧~"
 
             scene store_2_more_firstime_29 with tstmgr
 
-            "Lady Minna" "And now... ... ... ..."
+            "明娜夫人""那么现在............"
 
             scene store_2_more_firstime_30 with tstmgr
 
-            "Lady Minna" "Let’s give this hard cock a little treat~"
+            "明娜夫人""让我们给这硬鸡巴点甜头~"
 
-            "She put my dick inside her crotch..."
+            "她把我的鸡巴塞进她的裆下..."
 
             scene store_2_more_firstime_31 with tstmgr
 
-            "And began to rub it with her pussy meat and fishnet... ..."
+            "然后开始用她的嫩肉和网袜摩擦它......"
 
             scene store_2_more_firstime_30 with tstmgr
 
@@ -304,25 +304,25 @@ label store_2_more_firstime:
 
             scene store_2_more_firstime_32 with tstmgr
 
-            "Lady Minna" "You want to put your filthy dick into my wet pussy so bad, right? But you just can’t~"
+            "明娜夫人""你这么想把你的脏鸡巴插进我的小穴,对吧?但你就是做不到~"
 
             scene store_2_more_firstime_37 with tstmgr
 
-            "Lady Minna" "You want to put your mouth on my huge tits and such them, lick them, bite them, abuse them, right? But you just can’t~"
+            "明娜夫人""你想把你的嘴放在我的大奶子上,舔它们,咬它们,虐待它们,对吧?但你就是做不到~"
 
             scene store_2_more_firstime_38 with tstmgr
 
-            "Lady Minna" "There is nothing you can do here. You can only do whatever I want you to do~"
+            "明娜夫人""你在这里什么都做不了.你只能按我说的做~"
 
-            "Lady Minna" "Pathetic boy~"
+            "明娜夫人""可怜的男孩~"
 
-            "Okay, now I get it, she is a fucking sadist. Damn... ..."
+            "Okay,现在我明白了,她是个该死的虐待狂.Damn......"
 
-            "No one has ever humiliated me so much. I swear I will revenge her when I get a chance..."
+            "从来没有人这么羞辱过我.我发誓一有机会一定要报仇..."
 
-            "But now... ..."
+            "但现在......"
 
-            "Just let me... ..."
+            "就让我......"
 
             scene store_2_more_firstime_33 with tstmgr
             play sound cumshot
@@ -330,22 +330,22 @@ label store_2_more_firstime:
 
             player "Ohhhhhhhhhhh!!~~~~~"
 
-            "Just let me have a good cum first... ..."
+            "就让我射个痛快......"
 
             scene store_2_more_firstime_34 with tstmgr
 
-            "Lady Minna" "Wow, Such an impressive orgasm~"
+            "明娜夫人""Wow,真是令人印象深刻的射精~"
 
             scene store_2_more_firstime_35 with tstmgr
 
-            "Lady Minna" "Okay, this is enough for today. I’m satisfied with your performance~"
+            "明娜夫人""Okay,今天就到这里吧.我对你的表现很满意~"
 
-            "Lady Minna" "Meet me again sometime, and we will do something more together~"
+            "明娜夫人""改天再来找我,我们会一起做更多的事情~"
 
             scene void with tstmgr
 
             player "... ... ... ..."
-        "I do have a few friends...":
+        "我确实有几个朋友...":
 
 
 
@@ -354,25 +354,25 @@ label store_2_more_firstime:
 
             scene store_2_more_firstime_11 with tstmgr
 
-            player "I do know a few people... ..."
+            player "我确实认识一些人......"
 
-            "Lady Minna" "Great~ Do you have any pictures of them?"
+            "明娜夫人""Great~你有他们的照片吗?"
 
             scene store_2_more_firstime_12 with tstmgr
 
-            player "*Taking out cellphone* ... ... ... ..."
+            player "*拿出手机*............"
 
-            player "I feel like I am a pimp, oh man... ..."
+            player "我觉得自己像个老鸨,好家伙......"
 
             scene store_2_more_firstime_13 with tstmgr
 
-            "Lady Minna" "You are just doing your future mother-in-law a little favor, there is no dishonor in doing so~"
+            "明娜夫人""你只是帮了你未来岳母一个小忙,这么做没有什么不光彩的~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "*You choose not to go further with Lady Minna.*"
+            "*你选择不跟明娜夫人更进一步.*"
 
     stop music fadeout 1.0
 

@@ -2,51 +2,51 @@ label A_wsdgsj:
 
     scene void with tstmgr
 
-    narrator "Eh, I don't have assignments due tonight. What should I do to spend my evening?"
+    narrator "Eh,我今晚没有作业要交.我该做些什么来度过此良宵呢?"
 
-    narrator "I wonder if Vera has gone to the restaurant I recommended or not. Perhaps I should go there and check out."
+    narrator "我不知道薇拉是否去了我推荐的餐馆.也许我应该去那里看看."
 
     narrator "... ... ... ..."
 
     scene bar_background with tstmgr
 
-    narrator "I entered the resturaunt and found my manager friend at the bar."
+    narrator "我去了那家餐馆."
 
-    player "Hey, Bob, Did the girl I mentioned earlier come to you?"
+    player "Hey,鲍勃,我之前说的那个女孩来找你了吗?"
 
-    "Restaurateur" "That brown-skin sweetheart? She is already at work. Right there, look."
+    "餐厅老板""棕色皮肤的小可爱吗?她已经开始工作了.在这里,看."
 
     scene wsdg_a1 with tstmgr
 
-    narrator "I looked at the direction he pointed out and saw Vera's slender figure bending over and delicately pouring a glass of wine."
+    narrator "我看了看他指的方向,发现薇拉的背影.她就在那里,端着酒."
 
     scene wsdg_a2 with tstmgr
 
-    narrator "Nice butts, by the way."
+    narrator "顺便说一句,屁股不错."
 
-    "Restaurateur" "(Whistling) She really is a stunner, isn't she? I believe she will attract a lot of new guests to my restaurant."
+    "餐厅老板""(吹口哨)她真是个尤物,不是吗?我相信她会吸引很多新客人来我的餐厅."
 
-    narrator "Should I be happy about her being popular? I'm not sure, but it is making me worry."
+    narrator "我应该为她受欢迎而高兴吗?不,相反,我突然开始担心起来."
 
     scene wsdg_a1 with tstmgr
 
-    narrator "She is very charming, but she doesn't seem to know how to protect herself from some of the unsavory types that frequent this city."
+    narrator "她很有魅力,但她似乎还不知道如何保护自己不受那些痴迷于这种魅力的人的伤害."
 
-    narrator "She is vulnerable. What she runs into the wrong people on her way home from work?"
+    narrator "她是脆弱的.要是她下班后有坏人来找她怎么办?"
 
     player "... ... ... ..."
 
-    player "When will she get off duty?"
+    player "她什么时候下班?"
 
-    "Restaurateur" "11:30 pm, why do you ask?"
+    "餐厅老板""11点半,你问这个做什么?"
 
-    player "I will be here to pick her up."
+    player "到时我开车送她回家."
 
-    "Restaurateur" "Ha, such a gentleman you are. So what's she to you anyway? Are you courting her?"
+    "餐厅老板""Ha,你真是一位绅士.那她和你有什么关系吗?你在追求她吗?"
 
-    player "Eh, no. It's hard to explain. Let's just say I owe her one."
+    player "Eh,no.这很难解释.就当是我欠她一个人情."
 
-    "Restaurateur" "Okay, I get it."
+    "餐厅老板""Okay,我懂了."
 
     scene void with tstmgr
 
@@ -54,59 +54,59 @@ label A_wsdgsj:
 
     scene wsdg_a3 with tstmgr
 
-    narrator "Alright it's 11:30. Vera should be done any second now."
+    narrator "11:30.我在饭店外面等着."
 
-    narrator "It took a few minutes, but there she is. She seems to be in a good mood too."
+    narrator "过了一会儿薇拉出来了.她看起来心情很好."
 
-    player "Hi, Vera."
+    player "Hi,薇拉."
 
     scene wsdg_a6 with tstmgr
 
-    narrator "She noticed me with a little bit of surprise."
+    narrator "她注意到我,有点惊讶."
 
-    a "Why are you here?"
+    a "你怎么在这?"
 
-    player "It's not safe for a girl like you to go home alone in such a late night. I'll give you a ride."
+    player "像你这样的女孩这么晚独自回家是不安全的.我开车送你."
 
     a "Oh..."
 
     scene wsdg_a7 with tstmgr
 
-    a "That's very kind of you. Thank you."
+    a "你真是太好了.谢谢你!."
 
-    player "So how was your first day at work?"
+    player "你第一天上班怎么样?"
 
-    a "I like this place. The guests are polite, my colleagues are friendly, everything seems good. Thanks for letting me know about this job."
+    a "我喜欢这个地方.客人们都很有礼貌,我的同事们都很友好,一切似乎都很好.谢谢你让我找到这份工作."
 
-    player "No problem. I'm happy for you."
+    player "不客气.我为你感到高兴."
 
-    player "Eh... Also..."
+    player "Eh...另外..."
 
     player "... ... ... ..."
 
-    a "What are you trying to say?"
+    a "你想说什么?"
 
-    player "If you don't mind, I can drive you home every day after your work."
+    player "如果你不介意,我可以每天下班开车送你回家."
 
     scene wsdg_a6 with tstmgr
 
-    a "I... I don't want to bother you that much."
+    a "我...我不想太麻烦你."
 
-    player "I insist."
+    player "我就要呢."
 
-    a "But..."
+    a "但是..."
 
-    player "It's my duty to ensure your safety after work since I am the one who recommended you here."
+    player "既然是我把你推荐到这里来的,我就有责任保证你下班后的安全."
 
-    player "I am a responsible person. You should have known that by now."
+    player "我是一个有责任心的人.你现在应该知道了."
 
     a "... ... ... ..."
 
-    a "Yes, you are."
+    a "是的,你是."
 
     scene wsdg_a7 with tstmgr
 
-    a "Fine, if that's what you really want, I'll accept your kindness. Thank you..."
+    a "好吧,如果你真想这么做的话,我接受你的好意.谢谢你!..."
 
     scene void with tstmgr
 

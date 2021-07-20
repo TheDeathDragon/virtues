@@ -2,25 +2,25 @@ label d4_4:
 
     scene void with tstmgr
 
-    narrator "Later, I went back to my hotel suite after leaving school."
+    narrator "随后,我离开学校回到我的酒店套房."
 
-    narrator "I went back to my hotel suite after leaving school."
+    narrator "离开学校后,我回到我的酒店套房."
 
-    narrator "I took a shower, lay in bed, felt exhausted, but couldn't sleep anymore."
+    narrator "我冲了个澡,躺在床上,觉得很累,但是怎么也睡不着了."
 
     scene day3_a19 with tstmgr
 
-    narrator "I hate to hurt girls' feelings, but I did hurt Vera last night. Every time when I close my eyes, the picture of Vera's crying would come to my mind. Maybe she'll never forgive me on that."
+    narrator "我不想伤害女孩们的感情,但我昨晚确实伤害了薇拉.每当我闭上眼睛,薇拉哭泣的画面就会浮现在我的脑海里.也许她永远不会原谅我."
 
-    narrator "From my perspective, sex is only a game, a game that both players would enjoy. It can happen anytime, in any place, with anybody. And alcohol is a perfect catalyst for it. But... Vera obviously doesn't think that way. She is too pure and too innocent to live in this city."
+    narrator "在我看来,性只是一种游戏,一种双方都喜欢的游戏.它可以发生在任何时间,任何地点,任何人身上.酒精是一个完美的催化剂.但是...薇拉显然不这么想.她太纯洁,太天真,她不适合这个城市."
 
     scene void with tstmgr
 
-    narrator "What happened the last night might haunted her forever."
+    narrator "对我来说,昨晚发生的事情是一场美妙的一夜情.这只是一次愉快的经历.我已经和很多女孩做过很多次了.但对薇拉来说,这是一场可能永远困扰她的噩梦."
 
-    narrator "God damn it! What have I done!"
+    narrator "该死的!我做了什么!"
 
-    narrator "A well-educated young elite like me would never make happy on others' suffering. I must find a way to make up for her."
+    narrator "像我这样受过良好教育的年轻精英绝不会为别人的痛苦而高兴.我必须想办法补偿她."
 
     scene void with tstmgr
 
@@ -32,23 +32,23 @@ label d4_4_bLine:
 
     scene void with tstmgr
 
-    narrator "Later, I went back to my hotel suite after leaving school."
+    narrator "随后,我离开学校回到我的酒店套房."
 
-    narrator "I took a shower, lay in bed, felt exhausted, but couldn’t sleep anymore."
+    narrator "我冲了个澡,躺在床上,感到筋疲力尽,但再也睡不着了."
 
     scene day4_fix_3 with tstmgr
 
-    narrator "That girl, Vera, I just cannot forget her. "
+    narrator "那个女孩,薇拉,我就是忘不了她."
 
-    narrator "Pretty face, attractive body, amazing breasts, the personality seems nice as well. How can any man forget such a girl?"
+    narrator "漂亮的脸蛋,有吸引力的身体,惊人的胸,性格似乎也不错.一个男人怎么能忘记这样一个女孩呢?"
 
-    narrator "And the most important thing is, she didn't sleep with me because of my money. She is suffering in poverty, but she didn't try to get the advantage of me even when she found out that I took her virginity."
+    narrator "最重要的是,她和我上床不是因为我的钱.她很穷,但当她发现我夺走了她的第一次时,她并没有占我的便宜.这让我我印象深刻."
 
     scene void with tstmgr
 
-    narrator "I think I have to find her again and get to know more of her. Yeah, I should definitely do that."
+    narrator "我想我得再去找她,多了解她一些.是的,我绝对应该这么做."
 
-    narrator "Well, I'm not saying that I have a feeling on her. I'm just saying that, you know, she is a girl that is worth making friend with."
+    narrator "Well,我不是说我对她有感觉.我只是说,你知道,她是一个值得结交的女孩."
 
     narrator "... ... ... ..."
 

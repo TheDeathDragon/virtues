@@ -44,7 +44,7 @@ label store_1_cl_playlet1:
 
 
 
-    "Posia" "Wummmmmmmmm!~~~~~~"
+    "波西亚""Wummmmmmmmm!~~~~~~"
 
 
 
@@ -52,11 +52,11 @@ label store_1_cl_playlet1:
 
     scene store_1_cl_firstime_21 with tstmgr
 
-    "Posia" "Huhh... ... huh... ... awum... ..."
+    "波西亚""Huhh... ... huh... ... awum... ..."
 
 
 
-    "Posia" "Your... bad luck... has gone... ..."
+    "波西亚""你的...坏运气...已经走了......"
 
 
 

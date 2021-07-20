@@ -3,21 +3,21 @@ label B_train_sha_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, late night, I just had dinner with Senning and took her back to her apartment."
+    "几天后的一个深夜,我和森柠一起吃了晚饭,然后把她送回了公寓."
 
 
 
     scene b_train_sha_2_1 with dissolve
 
-    b "Thanks for bringing me back... ..."
+    b "谢谢你送我回来......"
 
 
 
-    player "Alright, Sen, I’ll see you tomorrow~"
+    player "小事,森,明天见~"
 
 
 
-    player "Have a good night."
+    player "好梦."
 
 
 
@@ -29,23 +29,23 @@ label B_train_sha_2:
 
     scene b_train_sha_2_3 with tstmgr
 
-    b "Actually, would you like to... stay with me for tonight?"
+    b "其实,你想不想...今晚和我待在一起?"
 
 
 
-    b "We can... sleep together..."
+    b "我们可以...一起睡..."
 
 
 
-    player "Wait, you mean... ..."
+    player "等等,你的意思是......"
 
 
 
-    b "I mean... no sex, just sleep together... ..."
+    b "我的意思是...不做爱,只是睡在一起......"
 
 
 
-    b "I want to... fall in sleep with your scent surrounding me."
+    b "我想...伴着你的气味入睡."
 
 
 
@@ -53,17 +53,17 @@ label B_train_sha_2:
 
 
 
-    "Well, I can’t reject such a request."
+    "Well,我不能拒绝这样的要求."
 
 
 
-    player "Okay, girl, I’ll be with you tonight~"
+    player "Okay,女孩,今晚我就和你睡一起~"
 
 
 
     scene b_train_sha_2_4 with tstmgr
 
-    b "Really? I’m so happy!~"
+    b "真的吗?我好高兴!~"
 
 
 
@@ -73,45 +73,45 @@ label B_train_sha_2:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene b_train_sha_2_5 with tstmgr
 
-    player "Wow... ... I have never been in your apartment at such a late time before."
+    player "Wow......我从来没有在这么晚的时候来过你的公寓."
 
 
 
-    player "This is... so beautiful."
+    player "好...美."
 
 
 
     scene b_train_sha_2_6 with tstmgr
 
-    player "Do you fall in sleep under this star sky everyday? I’m so jealous... ..."
+    player "你每天都在星空下睡觉吗?羡慕死我了......"
 
 
 
-    b "Sorry... ... I should have invited you earlier. I was just a little afraid..."
+    b "对不起...我应该早点邀请你的.我只是有点害怕..."
 
 
 
     scene b_train_sha_2_7 with tstmgr
 
-    player "What were you afraid of?"
+    player "你在害怕什么?"
 
 
 
-    b "I... was afraid that... during the night, I may not be able to reject you if you insist to... have sex with me."
+    b "我...害怕...夜里,如果你坚持...我可能无法拒绝你.和我做爱."
 
 
 
-    player "But now you are not afraid anymore?"
+    player "但现在你不害怕了?"
 
 
 
-    b "Yes, because... ... Hmmmmmmm... ... ... ..."
+    b "Yes,因为......Hmmmmmmm............"
 
 
 
@@ -122,34 +122,34 @@ label B_train_sha_2:
     label B_train_sha_2_choice_1:
 
     menu:
-        "Because you have fully trusted me?":
+        "因为你完全信任我?":
 
 
-            player "Because you have fully trusted me now?"
+            player "因为你现在完全信任我了?"
 
             scene b_train_sha_2_8 with tstmgr
 
-            b "Hmmm... It's not because of you, it’s because of me. I didn’t trust myself. I don’t think I can reject any request from you."
+            b "Hmmm...不是因为你,而是因为我.我不相信自己.我想我不能拒绝你的任何要求."
 
             scene b_train_sha_2_9 with tstmgr
 
             player "... ... ... ..."
 
-            player "Don’t worry, Sen. I won’t force you to do anything you don’t want to do."
-        "Because you know we don’t really have to fuck?":
+            player "别担心,森,我不会强迫你做任何你不想做的事."
+        "因为你知道我们不需要真的做爱?":
 
 
 
 
-            player "Because you know we don’t really have to fuck?"
+            player "因为你知道我们不需要真的做爱?"
 
             scene b_train_sha_2_8 with tstmgr
 
-            b "Yes, You have made me know that vaginal sex is not the only way for... ... adult joy."
+            b "Yes,你让我知道了做爱并不是......寻求刺激的唯一途径."
 
             scene b_train_sha_2_9 with tstmgr
 
-            player "Adult joy, I like that name~"
+            player "寻求刺激,我喜欢这个词~"
 
             b "... ... ... ..."
 
@@ -157,17 +157,17 @@ label B_train_sha_2:
 
     scene b_train_sha_2_10 with tstmgr
 
-    b "Let’s... let’s get to bed now, shall we? I’m tired."
+    b "让我们...我们现在上床睡觉吧,好吗?我累了."
 
 
 
     scene b_train_sha_2_6 with tstmgr
 
-    player "Already? I just want to take another look at this sky night~"
+    player "现在?我还想再看一眼夜空~"
 
 
 
-    b "Emmmmm... okay, maybe another 5 minutes~"
+    b "Emmmmm...okay,那就再等五分钟~"
 
 
 
@@ -181,35 +181,35 @@ label B_train_sha_2:
 
 
 
-    "Sometime later, on the bed..."
+    "过了一会儿,在床上..."
 
 
 
     scene b_train_sha_2_11 with tstmgr
 
-    b "So this is how it feels when... lying with a man on the same bed."
+    b "这就是...和一个男人睡在同一张床上的感觉."
 
 
 
     scene b_train_sha_2_12 with tstmgr
 
-    b "Your... armpit... ..."
+    b "你的...腋窝......"
 
 
 
-    b "So smelly~~ and makes me so relieved~~"
+    b "味道好浓~~让我好舒服~~"
 
 
 
-    player "You must be the most perverted girl I have ever seen..."
+    player "你一定是我见过最变态的女孩了..."
 
 
 
-    b "Good night, [P]~"
+    b "晚安,[P]~"
 
 
 
-    player "Have a nice dream, Sen."
+    player "做个好梦,森."
 
 
 
@@ -231,17 +231,17 @@ label B_train_sha_2:
 
 
 
-    player "Uh? What was that sound?"
+    player "Uh?什么声音?"
 
 
 
-    b "Oh no... not today... ..."
+    b "Ohno...别在今天......"
 
 
 
     scene b_train_sha_2_15 with tstmgr
 
-    player "What are you talking about? What is happening now?"
+    player "你在说什么?发生了什么?"
 
 
 
@@ -251,19 +251,19 @@ label B_train_sha_2:
 
 
 
-    player "Someone... is knocking the wall?"
+    player "有人...在敲墙壁?"
 
 
 
-    b "It’s... ... ... ..."
+    b "是............"
 
 
 
-    "Girl’s sound" "*From behind the wall* Awwwwww... ... yes, yes, just fuck me like that~~"
+    "女人的声音""*从墙的后面*Awwwwww......yes,yes,就这样操我~~"
 
 
 
-    "Girl’s sound" "*From behind the wall* Uhh~~~ ahhhh~~~ Fuck... ... Ohhhhhh... fuck~~~"
+    "女人的声音""*从墙的后面*Uhh~~~ahhhh~~~Fuck......Ohhhhhh...fuck~~~"
 
 
 
@@ -277,39 +277,39 @@ label B_train_sha_2:
 
 
 
-    b "Teresa is having sex with her new boyfriend again."
+    b "特蕾莎又和她的新男友在做爱了."
 
 
 
     scene b_train_sha_2_18 with tstmgr
 
-    player "It... happens a lot?"
+    player "很...经常吗?"
 
 
 
-    b "Yeah, sometimes I have to sleep with earplugs. Do you want me to bring you some?"
+    b "Yeah,有时我不得不戴着耳塞睡觉.你要吗?"
 
 
 
-    "Girl’s sound" "*From behind the wall* Awwwww... ... baby you are so good~~~"
+    "女人的声音""*从墙的后面*Awwwww......宝贝,你太棒了~~~"
 
 
 
-    "Girl’s sound" "*From behind the wall* Uhhh~~~ fuck, fuck~~~ hhhh~~~~"
+    "女人的声音""*从墙的后面*Uhhh~~~fuck,fuck~~~hhhh~~~~"
 
 
 
-    b "It sounds like they are having so much fun... ..."
+    b "听起来他们玩得很开心......"
 
 
 
-    b "*Looking at you with expectation* ... ... ... ..."
+    b "*期待的看着你*............"
 
 
 
     scene b_train_sha_2_19 with tstmgr
 
-    player "Don’t look at me, girl. You are the one who doesn’t want to have sex with me."
+    player "别看我,女孩.是你不想和我做爱的."
 
 
 
@@ -319,39 +319,39 @@ label B_train_sha_2:
 
 
 
-    "Girl’s sound" "*From behind the wall* Fuck!~~~ Owwwwww~~~~ Fuck!!~~~~"
+    "女人的声音""*从墙的后面*Fuck!~~~Owwwwww~~~~Fuck!!~~~~"
 
 
 
     scene b_train_sha_2_21 with tstmgr
 
-    b "This is getting more and more annoying... ..."
+    b "这真是越来越烦人了......"
 
 
 
     scene b_train_sha_2_22 with tstmgr
 
-    b "Ahhhhhh! I can’t stand it anymore! How are we supposed to sleep with that noise?"
+    b "Ahhhhhh!我再也受不了了!这么吵我们怎么睡觉啊?"
 
 
 
     scene b_train_sha_2_23 with tstmgr
 
-    b "[P]~~ Can you do something about it?"
+    b "[P]~~你能做点什么吗?"
 
 
 
-    player "Like go knock her door and ask them to lower their voice? Spare me... ... That will be so awkward."
+    player "比如去敲她的门,让他们小声点?是我的话...那会很尴尬的."
 
 
 
-    b "Awwwww... You are right."
+    b "Awwwww...你说得对."
 
 
 
     scene b_train_sha_2_24 with tstmgr
 
-    "Girl’s sound" "*From behind the wall* AHhhhh!~~ Yes~~ Yes~~~"
+    "女人的声音""*从墙的后面*AHhhhh!~~Yes~~Yes~~~"
 
 
 
@@ -361,23 +361,23 @@ label B_train_sha_2:
 
     scene b_train_sha_2_25 with tstmgr
 
-    b "This is so impolite! Do they even have any idea about how loud their voices are?"
+    b "这太不礼貌了!他们知道自己的声音有多大吗?"
 
 
 
-    player "Hmmmmm... ... Maybe they don’t. You have never made noises out like they do, so maybe they don’t know how bad the sound insulation the room has."
+    player "Hmmmmm......也许他们不知道.你从来没有像他们那样发出噪音,所以他们可能不知道房间的隔音效果有多差."
 
 
 
     scene b_train_sha_2_26 with tstmgr
 
-    b "Oh, yeah, I guess you are right."
+    b "Oh,yeah,我猜你是对的."
 
 
 
     scene b_train_sha_2_27 with tstmgr
 
-    b "We should let them hear some noise too! It is going to be a moaning competition!"
+    b "我们也应该让他们听到一些声音!这将是一场激烈的竞争!"
 
 
 
@@ -385,21 +385,21 @@ label B_train_sha_2:
 
     $ flashlight()
 
-    b "*Shouting loudly* Ahhhhhhhh! [P]!!!!!!"
+    b "*大声的喊叫*Ahhhhhhhh![P]!!!!!!"
 
 
 
-    player "What the hell?"
+    player "什么鬼?"
 
 
 
-    b "*Shouting loudly* I love you!!!!!!"
+    b "*大声的喊叫*我爱你!!!!!!"
 
 
 
     scene b_train_sha_2_29 with tstmgr
 
-    b "*Shouting loudly* Ahhhhhhhh!!!!!"
+    b "*大声的喊叫*Ahhhhhhhh!!!!!"
 
 
 
@@ -407,23 +407,23 @@ label B_train_sha_2:
 
 
 
-    player "What are you doing, dear?... ..."
+    player "亲爱的,你在干什么?......"
 
 
 
     scene b_train_sha_2_30 with tstmgr
 
-    b "A moaning competition! I am overwhelminmg her with a louder voice!"
+    b "呻吟的竞争!我用更大的声音盖过她!"
 
 
 
-    player "That’s not really moaning. You were just... shouting..."
+    player "这不是真正的呻吟.你只是...大喊大叫..."
 
 
 
     scene b_train_sha_2_32 with tstmgr
 
-    player "But I’m happy to see that your sense of shame has allowed you to do such a thing~ You have really changed a lot."
+    player "但是我很高兴看到你这样~你真的改变了很多.."
 
 
 
@@ -437,7 +437,7 @@ label B_train_sha_2:
 
     scene b_train_sha_2_31 with tstmgr
 
-    player "Fine, let me help you with it~"
+    player "Fine,让我来帮你吧~"
 
 
 
@@ -447,31 +447,31 @@ label B_train_sha_2:
 
     scene b_train_sha_2_33 with tstmgr
 
-    player "If we are going to improve your shamelessness, you should take off the nightgown first."
+    player "如果你想浪叫的话,你应该先把睡衣脱掉."
 
 
 
     scene b_train_sha_2_34 with tstmgr
 
-    b "I didn’t ask for that... ... but okay..."
+    b "这不是我想要的......但好吧..."
 
 
 
     scene b_train_sha_2_35 with tstmgr
 
-    player "Ahh, this is what I’m talking about~ Do you have any idea about how sexy you are right now under the moonlight?"
+    player "Ahh,这就是我想说的~你知道你现在在月光下有多性感吗?"
 
 
 
-    b "But... no sex, remember?"
+    b "但是...不做爱,记得吗?"
 
 
 
-    player "I know, I know~"
+    player "我知道,我知道~"
 
 
 
-    player "We don’t need to have sex to make you moan. There are plenty of other things we can do, such as..."
+    player "我们不需要做爱来让你叫床.还有很多其他的事情我们可以做,比如..."
 
 
 
@@ -479,23 +479,23 @@ label B_train_sha_2:
 
     $ flashlight()
 
-    player "This~"
+    player "这个~"
 
 
 
-    b "Awwwwwwwwww~~~~~ Wait, my clitoris~~~"
+    b "Awwwwwwwwww~~~~~等一下,我的阴蒂~~~"
 
 
 
-    player "Yes, just like that, now try it louder~"
+    player "Yes,就像这样,现在大声点~"
 
 
 
-    b "I... I can’t... ... Too shameful... ..."
+    b "我...我做不到...太羞耻了......"
 
 
 
-    player "Well girl, you were the one who brought up this moaning competition, now there is no turning back~"
+    player "Well女孩,现在没有回头路了~"
 
 
 
@@ -505,11 +505,11 @@ label B_train_sha_2:
 
 
 
-    b "[P]!~ [P]!~ Your fingers... ... Ohhhhhhh~~~~"
+    b "[P]!~[P]!~你的手指......Ohhhhhhh~~~~"
 
 
 
-    player "This is more like it. Make it louder, girl~"
+    player "这还差不多.大声点,女孩~"
 
 
 
@@ -519,77 +519,77 @@ label B_train_sha_2:
 
 
 
-    player "Wummm~~ This fragrance E-cup cheesecake~"
+    player "Wummm~~这香气十足的E罩杯芝士蛋糕~"
 
 
 
-    b "Awwwwww~~~~ Don't bite~~~~"
+    b "Awwwwww~~~~不要咬~~~~"
 
 
 
     scene b_train_sha_2_39 with tstmgr
 
-    player "Zip~ zipp~~ simmmm~~ Sen... ... so delicious~"
+    player "Zip~zipp~~simmmm~~森......真好吃~"
 
 
 
     scene b_train_sha_2_40 with tstmgr
 
-    b "I... I can’t... I can’t moan out loud~ Sorry, I just can’t... Awwwww~~~~"
+    b "我...我不能...我不能大声呻吟~对不起,我就是做不到...Awwwww~~~~"
 
 
 
     scene b_train_sha_2_41 with tstmgr
 
-    player "Hmmmm... I told you your sense of shame would intervene... ..."
+    player "Hmmmm...我告诉过你,你会不好意思的......"
 
 
 
-    player "But I think this will help~"
+    player "但我认为这会有所帮助~"
 
 
 
     scene b_train_sha_2_42 with tstmgr
 
-    "I took my left hand to cover her mouth..."
+    "我用左手捂住她的嘴..."
 
 
 
-    b "Awwww... this scent... ..."
+    b "Awwww...这气味......"
 
 
 
-    player "Do you like it? This hand just got wet from your pussy. Now it has both my body scent and the scent of your wet pussy~"
+    player "你喜欢吗?这只手刚刚被你的小穴弄湿了.现在它既有我的体味又有你潮湿小穴的味道~"
 
 
 
     scene b_train_sha_2_43 with tstmgr
 
-    b "I... I... Awwwww... yes... This scent... I love it... ..."
+    b "我...我...Awwwww...yes...这气味...我喜欢......"
 
 
 
-    b "It makes me... ... so horny... ..."
+    b "它让我......变得好淫荡......"
 
 
 
     scene b_train_sha_2_44 with tstmgr
 
-    b "*Licking* I want to... taste more... ..."
+    b "*舔*我想...尝更多......"
 
 
 
-    player "Seems like your sense of shame has gone away already~ Do you think you can moan out loud now?"
+    player "看来你的羞耻感已经消失了~你觉得你现在可以大声呻吟了吗?"
 
 
 
     scene b_train_sha_2_45 with tstmgr
 
-    b "We... we can have a try~"
+    b "我们...我们可以试一下~"
 
 
 
-    player "Okay~ Let’s try it in another way..."
+    player "Okay~让我们用另一种方法试试..."
 
 
 
@@ -601,17 +601,17 @@ label B_train_sha_2:
 
     scene b_train_sha_2_46 with dissolve
 
-    b "You... promise you won’t put it... inside?"
+    b "你...答应我你不会...放进去?"
 
 
 
-    b "Because... you know, in this position... ... I won’t be able to... stop you if you do so... ..."
+    b "因为...你知道,在这个位置......我阻止不了你......"
 
 
 
     player "... ... ... ..."
 
-    player "Are you implying me that I can... ..."
+    player "你是在暗示我可以......"
 
 
 
@@ -621,7 +621,7 @@ label B_train_sha_2:
 
 
 
-    b "Not really~"
+    b "不完全是~"
 
 
 
@@ -629,15 +629,15 @@ label B_train_sha_2:
 
 
 
-    "As she said, I can choose to stick my dick into her pussy right now and she won’t be able to stop me, but no, I can’t betray her trust. This is the first time that she allows me to stay here for a night, I can’t mess it up."
+    "就像她说的,我现在可以选择把我的鸡巴插进她的小穴而她不会阻止我的,但不,我不能背叛她的信任.这是她第一次允许我在这里住一晚,我不能搞砸了."
 
 
 
-    "I can tell that she is about to lose the grip very soon. Maybe she will ask me herself for sex in just a week or two. I should just keep waiting until that day... ..."
+    "我能看出来她很快就要忍不住了了.也许一两周后她会亲自求我要做爱.我应该一直等到那天......"
 
 
 
-    "And now, I just need to... ..."
+    "现在,我只需要......"
 
 
 
@@ -647,77 +647,77 @@ label B_train_sha_2:
 
 
 
-    b "Uwwwwww~~~ Your penis is... rubbing my pussy... so hard~~~"
+    b "Uwwwwww~~~你的鸡巴在...摩擦我的小穴...好硬~~~"
 
 
 
-    b "Adult joy... yes... this is exactly what I was talking about!!~~"
+    b "...yes...这就是我说的!!~~"
 
 
 
-    b "I don’t envy Teresa anymore. Awwww~~~~~"
+    b "我不再嫉妒特蕾莎了.Awwww~~~~~"
 
 
 
-    player "You... envied Teresa?"
+    player "你...羡慕特蕾莎?"
 
 
 
-    b "She brings his boyfriend to have sex in her room all the time... and I could only... listen to her moaning and masturbate myself while imagining that you are fucking me in the same way as her boyfriend does to her~"
+    b "她带他的男朋友在她的房间做爱的所有时间...我只能...听着她的呻吟自慰,同时想象着你和我做爱就像她的男朋友对她做的一样~"
 
 
 
-    b "Oh no, did I just say a F-word?"
+    b "Ohno,我刚才说脏话了吗?"
 
 
 
-    b "Awwwwwww... ... You were right. My sense of shame has gone away after I... smelled your scent~"
+    b "Awwwwwww......你是对的.我的羞耻感在我...闻到你的气味之后就消失了~"
 
 
 
-    player "Owwww... Senning... ..."
+    player "Owwww...森柠......"
 
 
 
     scene b_train_sha_2_49 with tstmgr
 
-    player "Sen, I promise you, from now on, Teresa will be the one who masturbates! She will be the one who envies us at all the adult joys we have!"
+    player "森,我向你保证,从现在起,特蕾莎才要自慰!她会是那个羡慕我们的人!"
 
 
 
-    b "[P]~~~ I am so happy~"
+    b "[P]~~~我真高兴~"
 
 
 
-    b "*Moaning louder intentionally* Uhhh!!~~ [P]!!~~ Please f... f... fuck me harder!~ Please... fill me with your love and... hmmm... ... sperm!"
+    b "*故意的呻吟声*Uhhh!!~~[P]!!~~请......用力操我!~请...用你的爱和...hmmm......精子填满我!"
 
 
 
-    player "Wow, that was epic~"
+    player "Wow,难得一见~"
 
 
 
-    "Senning is pretending like we are having sex and she is trying to let Teresa hear it. This is really adorable. I guess she has really suffered from Teresa’s moaning for a long time."
+    "森柠假装我们在做爱她想让特蕾莎听到.这真是太可爱了.我猜她真的受了特蕾莎的呻吟很久了."
 
 
 
-    b "*Moaning louder intentionally* I like the way you f... f... fuck me from behind!~ I am... totally dominated by your strength~~"
+    b "*故意的呻吟声*我喜欢你从...从背后操我!~我已经无力反抗了~~"
 
 
 
-    b "*Moaning louder intentionally* Please~~ I... ... I... ..."
+    b "*故意的呻吟声*求你了~~我......我......"
 
 
 
-    b "Awwww... ... I can’t think of any more good lines... ..."
+    b "Awwww......我想不出更多好的词了......"
 
 
 
-    b "But... I am almost... ... wuuuuuuu~~~~~"
+    b "但是...我要......wuuuuuuu~~~~~"
 
 
 
-    player "I’m... cumming too, Sen!"
+    player "我要...射了,森!"
 
 
 
@@ -744,21 +744,21 @@ label B_train_sha_2:
 
     scene b_train_sha_2_50 with tstmgr
 
-    "We had the orgasms at the same time though we didn’t even copulate."
+    "我们同时达到了高潮,尽管我们甚至没有做爱."
 
 
 
-    player "Sen... ... That was so great."
+    player "森...太棒了."
 
 
 
     scene b_train_sha_2_53 with tstmgr
 
-    b "Yes~~~ awwww~~~ best night ever~~~"
+    b "Yes~~~awwww~~~史上最棒的夜晚~~~"
 
 
 
-    b "Do you think if Teresa has heard it all?"
+    b "你觉得特蕾莎听到了吗?"
 
 
 
@@ -766,11 +766,11 @@ label B_train_sha_2:
 
 
 
-    player "You really still care about that?"
+    player "你还真的在乎这个?"
 
 
 
-    "Girl’s sense of competition... ... man... ..."
+    "女孩的竞争意识......男人......"
 
 
 
@@ -780,7 +780,7 @@ label B_train_sha_2:
 
 
 
-    "The next day, both Senning and Teresa were reported by all the other people living in this floor for the noise they made last night..."
+    "第二天,森柠和特蕾莎都被住在这层楼的其他人投诉了,因为她们昨晚的噪音..."
 
 
 

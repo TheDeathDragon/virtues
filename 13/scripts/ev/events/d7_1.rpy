@@ -2,221 +2,221 @@ label d7_1:
 
     $ closeeyes()
 
-    narrator "The next morning..."
+    narrator "第二天早上..."
 
     narrator "... ... ... ..."
 
-    c_qm "Wake up."
+    c_qm "醒一醒."
 
-    c_qm "Waaake uuup."
+    c_qm "醒一醒."
 
     player "Zzz Zzz Zzz..."
 
-    c_qm "Waaaaaaake uuuuuuuup."
+    c_qm "起~~~来~~~啦."
 
     player "Hmm?!?"
 
-    narrator "What the hell? Who's there? Is Theodora in my room again? This is the second time this week. Damn it, I can't stand it anymore. I swear I will..."
+    narrator "这到底是怎么回事?这又是谁?狄奥多拉又来我房间里了吗?这是本周第二次了.该死,我再也受不了了.我发誓我会..."
 
     $ openeyes("day7_d1")
 
     player "Eh?"
 
-    narrator "I opened my eyes."
+    narrator "我睁开眼睛."
 
-    narrator "I didn't find Theodora in my sight. Instead, I saw a different girl lying on my bed. She looks just like Theodora's younger version. They both have emerald pupils and silver hair, but they are not the same person."
+    narrator "我没有看到狄奥多拉.相反,我看到另一个女孩躺在我的床上.她看起来就像狄奥多拉更小时候的样子.她们都有翠绿色的瞳孔和银色的头发,但她们不是同一个人."
 
-    narrator "I know who she is."
+    narrator "我知道她是谁."
 
-    player "Irene?"
+    player "艾琳?"
 
-    d "Ah! You are finally awake, [P.name]."
+    d "Ah!你终于醒了,[P.name]."
 
-    narrator "This is Irene, Theodora's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Irene seems sweet and cute. She and I are very close since we were kids."
+    narrator "这是艾琳,狄奥多拉的妹妹.她们看起来很像,但她们的性格却截然不同.艾琳不像她脾气不好的姐姐,她看起来很可爱.她和我从小就很亲密."
 
-    narrator "Maybe... a little bit too close? I mean, she is now lying on the same bed with me and acts like nothing happened."
+    narrator "也许...有点太亲密了?我是说,她现在和我躺在同一张床上,好像什么都没发生过."
 
-    player "Eh, why are you on my bed?"
+    player "Eh,你在我床上干嘛?"
 
     scene day7_d2 with tstmgr
 
-    d "Just like what we did when we were small. Don't you miss it?"
+    d "就像我们小时候一样.你忘了吗?"
 
     player "... ... ... ..."
 
-    narrator "When we were young, she loved to come to my home and play with me. Sometimes we would share the same bed at night, and I would scare her with ghost stories. That was really a splendid memory."
+    narrator "在我们小的时候,她喜欢来我家和我玩.有时候我们晚上睡在一张床上,我会用鬼故事吓她.那真是一段美好的回忆."
 
-    narrator "But now things have become weird. I mean, both of us have grown up. It is inappropriate for us to sleep together anymore, not to mention that I have already engaged with her sister."
+    narrator "但现在事情变得奇怪了.我是说,我们都长大了.我们再睡在一起有点不合适,更何况我已经和她姐姐订婚了."
 
     scene day7_d1 with tstmgr
 
-    d " What's wrong?"
+    d "怎么了?"
 
-    player "You see, Irene, sharing bed is kind of inappropriate for us now since we are not kids anymore."
+    player "你看,艾琳,睡一张床对我们来说有点不合适,因为我们都不再是孩子了."
 
-    narrator "Do I really think that is inappropriate? Ha, not at all. No man would ever refuse to sleep on the same bed with an adorable girl like Irene."
+    narrator "我真的觉得这是不合适的吗?哈,一点也不.没有男人会拒绝和像艾琳这样可爱的女孩睡在同一张床上."
 
-    narrator "But I took her as my own sister. I have to say what I have to say."
+    narrator "但我把她当成自己的妹妹.这种话我必须得说."
 
     scene day7_d3 with tstmgr
 
-    d "What? You don't like me being with you?"
+    d "什么?你不喜欢我和你在一起?"
 
-    player "No, absolutely no. But you have grown up..."
+    player "No,绝对没有.但是你已经长大了..."
 
     scene day7_d2 with tstmgr
 
-    d "No, I haven't yet."
+    d "不,我还没有."
 
     player "... ... ... ..."
 
     scene day7_d4 with tstmgr
 
-    narrator "Well, no matter how she denies it, her increasing breast size has proved everything. Although her tits are not as marvelous as her sister yet, I am still optimistic about her potential."
+    narrator "不管她怎么否认,她越来越大的胸部已经证明了一切.虽然她的奶子还没有姐姐那么好看,但我对她的潜力还是很乐观的."
 
-    narrator "These two adorable titties are right in front of my hands. If I touch them now..."
+    narrator "这两只可爱的咪咪就在我面前.如果我现在摸它们..."
 
-    narrator "Irene has never said no to my requests before. And for God's sake, she is now lying on my bed without any protection."
+    narrator "艾琳以前从未拒绝过我的要求.看在上帝的份上,她现在躺在我的床上,没有任何防范."
 
     player "... ... ... ..."
 
     scene day7_d1 with tstmgr
 
-    player "(Nope, I can't do such things.)"
+    player "(Nope,我不能做这样的事.)"
 
-    player "(She lies on my bed because she trusts me and still takes me as a reliable big brother. I can't let her down.)"
+    player "(她躺在我的床上,因为她相信我,仍然把我当作一个可靠的哥哥.我不能让她失望.)"
 
     player "(... ... ... ...)"
 
-    player "(And now, let's take this as a test of my endurance...)"
+    player "(现在,让我们来测试一下我的耐力...)"
 
     narrator "... ... ... ..."
 
-    narrator "Ah... those pretty legs and that cute panty..."
+    narrator "Ah...那漂亮的腿和可爱的内裤..."
 
     narrator "... ... ... ..."
 
-    narrator "Wait, something is not right."
+    narrator "等等,有点不对劲."
 
-    narrator "My penis is getting harder every second..."
+    narrator "我的鸡儿越来越硬了..."
 
-    narrator "It's not my fault. This girl is lying on my bed and revealing her underwear. Every healthy man would have an erection in this situation."
+    narrator "这不是我的错.这个女孩正躺在我的床上,露出她的内裤.每个健康的男人在这种情况下都会勃起."
 
     scene day7_d2 with tstmgr
 
     d "Hah?"
 
-    narrator "Oh, no. She noticed it."
+    narrator "Oh,不.她注意到了."
 
-    narrator "Irene came near me like a little snake. She seems to be curious about the change in my body."
+    narrator "艾琳像一条小蛇一样靠近我.她似乎对我身体的变化很好奇."
 
     scene day7_d6 with tstmgr
 
-    d "Why does it swell up..."
+    d "为什么鼓起来了..."
 
-    d "Are you sick?"
+    d "你病了吗?"
 
-    player "(Awkward) Ha... No, I can... I can explain..."
+    player "(尴尬)Ha...不,我可以...我可以解释..."
 
     d "... ... ... ..."
 
     scene day7_d7 with tstmgr
 
-    d "Are you heating up because of me?"
+    d "你不是因为我而变性奋了?"
 
-    player "Eh, well, about that... That's just a regular physiological change calls “Morning Wood.” Haven't you heard of it at your phsiology class?"
+    player "Eh,嗯,这个...这只是一种被称为“晨勃”的常规生理变化.你在你的生理学课上没听说过吗?"
 
-    narrator "Morning wood? How did I come up with that so quickly? I'm such a genius."
+    narrator "晨勃?我怎么这么快就想到了?我真是个天才."
 
     scene day7_d8 with tstmgr
 
-    d "Morning... wood?"
+    d "晨...勃?"
 
-    player "Yes. Every grown male would get his morning wood every day. It's a signal of being healthy. That's all."
+    player "是的.每一个成年的男性早上都会晨勃.这是健康的信号.就这样."
 
-    d "So... It's not because of me?"
+    d "所以...不是因为我?"
 
-    narrator "Great, she believed in what I told."
+    narrator "太好了,她相信我的话."
 
-    player "No, of course not."
+    player "不,当然不是."
 
     d "... ... ... ..."
 
     scene day7_d9 with tstmgr
 
-    d "Are you sure of that?"
+    d "你确定吗?"
 
-    player "Yes, I'm absolutely sure. There is no way for me to have sexual responses to you."
+    player "Yes,我绝对肯定.我不可能对你有性反应."
 
     d "... ... ... ..."
 
     scene day7_d10 with tstmgr
 
-    d "I hate you! I don't want to talk to you anymore!!!"
+    d "我讨厌你!我不想再和你说话了!!!"
 
     scene hotelroom1_background with tstmgr
 
-    narrator "She got up from the bed of a sudden, and then stormed out of my room."
+    narrator "她突然从床上站起来,然后怒气冲冲地走出我的房间."
 
-    player "(What just happened?)"
+    player "(怎么回事?)"
 
-    player "(Why did she piss off? I was just trying to act like a virtuous big brother.)"
+    player "(她为什么生气?我只是想表现得像个正直的老大哥.)"
 
     player "... ... ... ..."
 
-    player "(I don't even know why she showed up in my room in the first place.)"
+    player "(我甚至不知道她为什么会出现在我的房间.)"
 
-    player "Weird..."
+    player "奇怪..."
 
-    player "That was the third girl I pissed off this week. Ah... I'm getting used to it now."
+    player "那是我这周惹怒的第三个女孩.啊...我现在已经习惯了."
 
     scene hoteldoor_background with tstmgr
 
-    narrator "Suddenly, I heard someone is opening the door."
+    narrator "突然,我听到有人在开门."
 
-    player "(Is she coming back?)"
+    player "(她又回来了?)"
 
-    player "Hey, listen, Irene. I am sorry about......"
+    player "嘿,听着,艾琳.我很抱歉......"
 
     player "Oh..."
 
     scene day2_c1 with tstmgr
 
-    narrator "The person who stands at the door is not Irene, but Theodora."
+    narrator "站在门口的不是艾琳,而是狄奥多拉."
 
-    c "What did you do to that little imp? She looks angry."
+    c "你对那个小恶魔做了什么?她看起来生气."
 
-    player "There was a minor mistake..."
+    player "这是个小误会..."
 
-    c "Ah, I don't even want to know. Just get on your clothes and go with me."
+    c "Ah,我不想知道.穿上你的衣服和我一起去."
 
-    player "go where?"
+    player "去哪?"
 
-    c "My mom is holding a family picnic today, and she wants you to come, too."
+    c "我妈妈今天要举办家庭野餐,她想让你也来."
 
-    c "I texted you about this last night, didn't you receive it?"
+    c "我昨晚发短信告诉你了,你没收到吗?"
 
-    player "(Awkward) Oh..."
+    player "(尴尬)Oh..."
 
-    narrator "I didn’t get her text, because I had already put her number on my blacklist since the last time when we had a quarrel. Now I can't receive anything from her."
+    narrator "我没有收到她的短信,因为自从我们上次吵架以来,我已经把她的号码拉黑了.现在我收不到她的任何消息."
 
-    c "Did you put me on the blacklist?"
+    c "你把我拉黑了吗?"
 
-    player "How did you... Shit..."
+    player "你怎么...操..."
 
-    player "Sorry."
+    player "抱歉."
 
-    c "It doesn't matter. Your number was on my blacklist, too. And I just removed it from that list yesterday to text you."
+    c "没关系.你的号码也在我的黑名单上.我昨天才把它从名单上移除然后给你发短信."
 
-    player "(Awkward) Ha..."
+    player "(尴尬)Ha..."
 
-    c "Anyway, hurry up. You don't want to let my mom wait too long."
+    c "不管怎样,快点.我不想让我妈妈等太久."
 
     player "Okay, okay."
 
     narrator "... ... ... ..."
 
-    narrator "I stayed with Theodora's family for the rest of today."
+    narrator "今天余下的时间,我一直和狄奥多拉的家人待在一起."
 
     narrator "... ... ... ..."
 
