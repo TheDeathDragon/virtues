@@ -2,19 +2,19 @@ label bnb_livingroom_latenight_A_1:
 
     scene a_love_4_1 with tstmgr
 
-    a "I'm so tired today... Let me get in the shower first."
+    a "我今天好累...让我先洗个澡."
 
 
 
-    player "We can have shower together if you don't mind."
+    player "如果你不介意的话,我们可以一起洗."
 
 
 
-    a "Ha ha, very funny."
+    a "Haha,很好笑."
 
 
 
-    a "See you tomorrow."
+    a "明天见."
 
 
 
@@ -22,7 +22,7 @@ label bnb_livingroom_latenight_A_1:
 
 
 
-    player "Good night."
+    player "晚安."
 
 
 

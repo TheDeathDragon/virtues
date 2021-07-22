@@ -2,23 +2,23 @@ label park_exercise_morning_F_2:
 
     scene go_to_sports with tstmgr
 
-    f "Oh, hi, what a coincidence."
+    f "Oh,hi,真巧."
 
 
 
-    f "Do you want to go to breakfast with me?"
+    f "你想和我一起去吃早餐吗?"
 
 
 
-    player "Yeah, why not?"
+    player "Yeah,为什么不呢?"
 
 
 
-    f "Great! Let's do that after a running match!"
+    f "太棒了!让我们在跑步比赛后一起去吃饭吧!"
 
 
 
-    player "Wait, what?"
+    player "等等,什么?"
 
 
 

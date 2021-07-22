@@ -2,21 +2,21 @@ label mansion_tutor_afternoon_D_3:
 
     scene mansion_tutor_afternoon_d_3_1 with tstmgr
 
-    player "Do you understand the concept now?"
+    player "你现在明白这个概念了吗?"
 
 
 
-    d "Meow!~"
+    d "喵呜!~"
 
 
 
-    player "Eh... Is that a yes or no?"
+    player "Eh...明白还是没明白?"
 
 
 
     scene mansion_tutor_afternoon_d_3_2 with tstmgr
 
-    d "Meow!~ Meow!~"
+    d "喵呜!~喵呜!~"
 
 
 
@@ -24,13 +24,13 @@ label mansion_tutor_afternoon_D_3:
 
 
 
-    d "Meow~ Meow~ Meow~"
+    d "喵呜~喵呜~喵呜~"
 
 
 
     scene mansion_tutor_afternoon_d_3_3 with tstmgr
 
-    player "Uh... ... That's enough, come here, you naughty kitty..."
+    player "Uh......够了,过来,你这淘气的小猫..."
 
 
 

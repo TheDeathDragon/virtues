@@ -2,33 +2,33 @@ label bnb_frontyard_morning_B_1:
 
     scene void with tstmgr
 
-    "*Knock, knock, knock*"
+    "*咚咚咚*"
 
 
 
-    player "Coming right now."
+    player "来了."
 
 
 
-    "I opened the door."
+    "我开了门."
 
 
 
     scene bnb_frontyard_morning_b_1_1 with tstmgr
 
-    player "Hmm? Good morning, Sen."
+    player "Hmm?早上好,森."
 
 
 
-    b "Morning, [P]."
+    b "早上好,[P]."
 
 
 
-    b "Do you want to... go to school with me?"
+    b "你想...和我一起去学校吗?"
 
 
 
-    player "I... I'd love to."
+    player "我...我很乐意."
 
 
 

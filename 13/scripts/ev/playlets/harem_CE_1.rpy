@@ -4,35 +4,35 @@ label harem_CE_1:
 
     scene harem_ce_1_1 with tstmgr
 
-    c "Mom, do you know how heavy your breasts are?"
+    c "妈妈,你知道你的乳房有多重吗?"
 
 
 
     scene harem_ce_1_2 with tstmgr
 
-    e "Wummmmm... ... 5 pounds, maybe?"
+    e "Wummmmm......5磅,或许?"
 
 
 
     scene harem_ce_1_3 with tstmgr
 
-    c "Sigh... why do we have to carry such a burden with us all the time?"
+    c "唉...为什么我们要一直带着这样的负担呢?"
 
 
 
-    c "Being a woman is so tired..."
+    c "做女人太累了..."
 
 
 
     scene harem_ce_1_4 with tstmgr
 
-    e "Yeah... but it's not that bad~"
+    e "Yeah...但也没那么糟~"
 
 
 
     scene harem_ce_1_5 with tstmgr
 
-    "Suddenly, [P] opened the door and entered the room... ..."
+    "突然,[P]打开门,走进房间......"
 
 
 
@@ -40,27 +40,27 @@ label harem_CE_1:
 
 
 
-    player "Oh, I... ... sorry, I didn't know there are people inside. I'll leave right away!"
+    player "Oh,我...对不起,我不知道里面有人.我马上就走!"
 
 
 
-    player "*Left in a hurry* ... ... ... ..."
+    player "*匆忙离开*............"
 
 
 
     scene harem_ce_1_6 with tstmgr
 
-    "Girls" "... ... ... ..."
+    "女孩们""... ... ... ..."
 
 
 
-    e "Did you see his face? It was like his soul would be taken away only by staring at our... at your breasts~"
+    e "你看到他的脸了吗?好像他的魂儿都被我们...你的胸勾走了~"
 
 
 
     scene harem_ce_1_7 with tstmgr
 
-    c "*Flushed* Yeah... guess it's not that bad to carry such a burden after all~"
+    c "*脸红*Yeah...我想背负这样的负担也不是那么糟糕~"
 
 
 

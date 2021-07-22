@@ -2,29 +2,29 @@ label harem_CG_2:
 
     scene void with tstmgr
 
-    "Late night, Theodora and Uno encountered outside [P]'s room..."
+    "深夜,狄奥多拉和乌诺在[P]的房间门外相遇了..."
 
 
 
     scene harem_cg_2_1 with dissolve
 
-    g "Yaaah! Theodora?"
+    g "Yaaah!狄奥多拉?"
 
 
 
-    c "Humph~ Seems like you just had a good time in his room~"
+    c "Humph~看来你在他房间玩得很开心~"
 
 
 
     scene harem_cg_2_2 with tstmgr
 
-    g "I... I... ..."
+    g "我...我......"
 
 
 
     scene harem_cg_2_3 with tstmgr
 
-    c "Did he treat you with passion and love? Did you satisfy with his touching?"
+    c "他用热情和爱招待你了吗?你对他的爱抚满意吗?"
 
 
 
@@ -34,31 +34,31 @@ label harem_CG_2:
 
     scene harem_cg_2_4 with tstmgr
 
-    g "Yes, I enjoyed it so much~"
+    g "Yes,我非常喜欢~"
 
 
 
     scene harem_cg_2_5 with tstmgr
 
-    c "*Got a little surprised at Uno's calmness* Oh, okay... ..."
+    c "*对乌诺的冷静有点惊讶*Oh,okay......"
 
 
 
     scene harem_cg_2_6 with tstmgr
 
-    g "You are here... for spending some time with him too, right?"
+    g "你来这里...也想花一些时间和他待在一起,对吗?"
 
 
 
-    g "I hope you can have a good time, just as I did~"
+    g "我希望你能像我一样玩得开心~"
 
 
 
-    g "See you tomorrow, Theo... ..."
+    g "明天见,西奥......"
 
 
 
-    c "Ehh... See you... ..."
+    c "Ehh...明天见......"
 
 
 
@@ -70,11 +70,11 @@ label harem_CG_2:
 
     scene harem_cg_2_8 with tstmgr
 
-    c "Interesting... I thought I was the only girl in this house who accepts to share him with others... ..."
+    c "有趣...我以为我是这个房子里唯一一个愿意和别人分享他的女孩......"
 
 
 
-    c "That red-haired girl... is really something."
+    c "这个红头发的女孩.有点东西."
 
 
 

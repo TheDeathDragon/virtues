@@ -2,7 +2,7 @@ label school_campus_forenoon_B_1:
 
     scene b_school_day_unhappy with tstmgr
 
-    player "Hi, Sen."
+    player "Hi,森."
 
 
 
@@ -10,11 +10,11 @@ label school_campus_forenoon_B_1:
 
 
 
-    b "I don't want to talk with you."
+    b "我不想和你说话."
 
 
 
-    "Seems like she is still mad at me."
+    "她好像还在生我的气."
 
 
 

@@ -2,7 +2,7 @@ label cafe_forenoon_A_1:
 
     scene a_cafe_normal1 with tstmgr
 
-    player "Hi, Vera."
+    player "Hi,薇拉."
 
 
 
@@ -10,11 +10,11 @@ label cafe_forenoon_A_1:
 
 
 
-    a "What would you like to eat today?"
+    a "你今天想吃点什么?"
 
 
 
-    player "Nothing but two large hot chocolate. One is for you."
+    player "两份大杯热巧克力.一份是给你的."
 
 
 
@@ -24,11 +24,11 @@ label cafe_forenoon_A_1:
 
     scene a_cafe_smile2 with tstmgr
 
-    a "Thanks..."
+    a "谢谢..."
 
 
 
-    a "Just go have a seat and I will be there soon."
+    a "请坐,我马上就好."
 
 
 

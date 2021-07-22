@@ -2,31 +2,31 @@ label company_afternoon_C_2:
 
     scene void with tstmgr
 
-    player "Here is your milk tea."
+    player "这是你的奶茶."
 
 
 
     scene rcsj_c3 with tstmgr
 
-    c "Thank you. You can go back to your work now."
+    c "谢谢你.你现在可以回去工作了."
 
 
 
-    player "Is there anything else you want me to buy for you? A sandwich? An icecream? Or maybe a magazine?"
+    player "你还要我给你买别的东西吗?一个三明治?一个冰淇淋?或者是一本杂志?"
 
 
 
     scene rcsj_c5 with tstmgr
 
-    c "That's not like you. What happened?"
+    c "这可不像你.发生了什么事?"
 
 
 
-    player "Eh... you know, I just realized that being your servant is not that bad."
+    player "Eh...你知道,我刚意识到做你的仆人并没有那么糟糕."
 
 
 
-    player "At least I can escape from my job for a little while."
+    player "至少我可以暂时逃离我的工作."
 
 
 
@@ -34,11 +34,11 @@ label company_afternoon_C_2:
 
 
 
-    c "It's not wise to tell that to your manager."
+    c "把这种事告诉你的经理是不明智的."
 
 
 
-    c "But nevermind. You can buy me some chocolate in the Walmart nearby. I'll give you 20 minutes."
+    c "但无所谓.你可以在附近的沃尔玛给我买些巧克力.我给你20分钟."
 
 
 

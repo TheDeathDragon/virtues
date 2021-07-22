@@ -2,37 +2,37 @@ label bnb_frontyard_forenoon_B_1:
 
     scene bnb_frontyard_forenoon_b_1_1 with tstmgr
 
-    b "These flowers in your yard are really beautiful! Did you plant them yourself?"
+    b "你院子里的这些花真漂亮!你自己种的吗?"
 
 
 
-    player "Ehh... ... I didn't do anything about it. Vera did all this."
+    player "Ehh......我什么都没做.薇拉种的."
 
 
 
-    b "Miss Vera is such a great person!"
+    b "薇拉小姐真是个了不起的人!"
 
 
 
-    b "Do you have more places in your yard? Can I plant something else?"
+    b "你的院子里还有更多的地方吗?我可以种别的东西吗?"
 
 
 
-    player "Eh... sure, what do you want to plant?"
+    player "Eh...当然,你想种什么?"
 
 
 
-    player "(This could be a good chance to know what flowers she likes~)"
+    player "(这可能是了解她喜欢什么花的好机会~)"
 
 
 
     scene bnb_frontyard_forenoon_b_1_2 with tstmgr
 
-    b "Chives, onions, cabbages, tomatos... ... I have a list of them!~"
+    b "韭菜,洋葱,大白菜,西红柿...我有一个清单!~"
 
 
 
-    player "What the... ... ... ..."
+    player "这他妈............"
 
 
 

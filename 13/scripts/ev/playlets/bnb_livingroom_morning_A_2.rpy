@@ -2,7 +2,7 @@ label bnb_livingroom_morning_A_2:
 
     scene void with tstmgr
 
-    player "Hey, Vera, can we talk about that night?"
+    player "Hey,薇拉,我们能谈谈那晚的事吗?"
 
 
 
@@ -12,11 +12,11 @@ label bnb_livingroom_morning_A_2:
 
 
 
-    a "Sorry, I don't have time for this."
+    a "对不起,我没有时间."
 
 
 
-    a "I... I have to go to work, bye."
+    a "我...我得去上班了,拜."
 
 
 

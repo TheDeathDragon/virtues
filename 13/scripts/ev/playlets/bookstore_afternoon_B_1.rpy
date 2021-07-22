@@ -2,31 +2,31 @@ label bookstore_afternoon_B_1:
 
     scene g_daily2_9 with tstmgr
 
-    b "Good afternoon, [P]."
+    b "下午好,[P]."
 
 
 
-    player "Hello, Sen, how's your work here?"
+    player "Hello,森,你在这儿工作得怎么样?"
 
 
 
-    b "Not bad. People are all friendly here. I can feel that my English speaking skill is improving fast."
+    b "还行.这里的人都很友好.我可以感觉到我的英语口语能力正在迅速提高."
 
 
 
-    player "I'm happy to hear that, Sen."
+    player "我很高兴听到这个,森."
 
 
 
-    b "So... ... do you want to buy a book?"
+    b "所以......你想买一本书吗?"
 
 
 
-    b "Comics, Mangas, Novels... ... Everything you want."
+    b "连环画,漫画,小说......所有你想要的."
 
 
 
-    player "Why don't you give me a tour?"
+    player "你为什么不带我参观一下呢?"
 
 
 

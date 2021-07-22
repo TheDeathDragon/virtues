@@ -2,23 +2,23 @@ label downtown_afternoon_B_1:
 
     scene downtown_afternoon_b_1_1 with tstmgr
 
-    b "Wow! Look at that dress in that shop window!"
+    b "Wow!看橱窗里的那件连衣裙!"
 
 
 
-    b "It is so beautiful!"
+    b "它太漂亮了!"
 
 
 
     scene downtown_afternoon_b_1_2 with tstmgr
 
-    b "Oh my Goddess! That dress over there is also amazing!"
+    b "OhmyGoddess!那边的裙子也很棒!"
 
 
 
     scene downtown_afternoon_b_1_3 with tstmgr
 
-    b "I'm going to buy them all!"
+    b "我要把它们都买下来!"
 
 
 
@@ -28,7 +28,7 @@ label downtown_afternoon_B_1:
 
     scene void with tstmgr
 
-    "She left me here and ran to the stores like a happy rabbit."
+    "她把我留在这里,像只快乐的兔子一样跑向商店."
 
 
 

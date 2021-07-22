@@ -2,11 +2,11 @@ label cafe_forenoon_A_4:
 
     scene a_daily6_3 with tstmgr
 
-    a "Welcome... ..."
+    a "欢迎......"
 
 
 
-    "Server A" "(Gossipping with others) Look, Vera's boyfriend is here again."
+    "服务员A""(与他人的流言蜚语)看,薇拉的男朋友又来了."
 
 
 
@@ -14,11 +14,11 @@ label cafe_forenoon_A_4:
 
 
 
-    a "You should come here less often... People are talking about us."
+    a "你应该少来点儿...大家都在谈论我们."
 
 
 
-    player "But it doesn't seem to bother you."
+    player "但你似乎不介意."
 
 
 
@@ -28,15 +28,15 @@ label cafe_forenoon_A_4:
 
     scene cafe_forenoon_a_4_1 with tstmgr
 
-    a "Yeah... I am proud of it, actually."
+    a "Yeah...事实上,我为此感到自豪."
 
 
 
-    player "Proud of what?"
+    player "自豪什么?"
 
 
 
-    a "You know what I mean."
+    a "你懂我的意思."
 
 
 

@@ -4,11 +4,11 @@ label mansion_tutor_evening_D_4:
 
     scene mansion_tutor_evening_d_4_1 with tstmgr
 
-    d "*Licking penis* Sip~~~ siiip~~~ sip~~~"
+    d "*舔鸡巴*Sip~~~siiip~~~sip~~~"
 
 
 
-    player "Eh... ... you are supposed to do your homework now."
+    player "Eh......你现在应该做作业了."
 
 
 
@@ -18,13 +18,13 @@ label mansion_tutor_evening_D_4:
 
 
 
-    d "Your kitty wants to play with her cat wand~"
+    d "你的小猫想玩她的猫魔杖~"
 
 
 
     scene mansion_tutor_evening_d_4_3 with tstmgr
 
-    player "But... your homework... ..."
+    player "但是...你的家庭作业......"
 
 
 
@@ -34,17 +34,17 @@ label mansion_tutor_evening_D_4:
 
 
 
-    player "Sigh... ... you are such a bad kitty."
+    player "唉......你真是个坏猫咪."
 
 
 
     scene mansion_tutor_evening_d_4_5 with tstmgr
 
-    d "You know, you can command me to stop if you want. I have my collar on so you are my master now and I will obey everything you say."
+    d "你知道,如果你想,你可以命令我停下来.现在你是我的主人了,我将服从你所说的一切."
 
 
 
-    d "But you didn't make that command, which means you like me doing this, ha! You are such a bad master!~"
+    d "但你没有下达那个命令,这意味着你喜欢我这样做,哈!你真是个坏主人!~"
 
 
 
@@ -54,11 +54,11 @@ label mansion_tutor_evening_D_4:
 
     scene mansion_tutor_evening_d_4_6 with tstmgr
 
-    player "Naughty kitty, are you making fun of your master now?"
+    player "顽皮的小猫,你在取笑你的主人吗?"
 
 
 
-    d "Sor... sorry?"
+    d "抱...抱歉?"
 
 
 
@@ -70,11 +70,11 @@ label mansion_tutor_evening_D_4:
 
     scene mansion_tutor_evening_d_4_8 with tstmgr
 
-    d "Cough~~~ Wuummm~~~ Ewwwwmmmmm~~~~"
+    d "咳~~~Wuummm~~~Ewwwwmmmmm~~~~"
 
 
 
-    player "Yeah, drink them all, you bad kitty!"
+    player "Yeah,把它们全喝了,你这只坏猫咪!"
 
 
 
@@ -88,7 +88,7 @@ label mansion_tutor_evening_D_4:
 
     scene mansion_tutor_evening_d_4_9 with tstmgr
 
-    d "Huh... huh... ... master's cum... ... so much~~~"
+    d "Huh...huh......主人的精液......好多~~~"
 
 
 

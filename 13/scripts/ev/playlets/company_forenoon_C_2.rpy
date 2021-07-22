@@ -2,11 +2,11 @@ label company_forenoon_C_2:
 
     scene company_afternoon_c_1_1 with tstmgr
 
-    c "[P], fill up these files and bring them to my office."
+    c "[P],把这些档案填好,拿到我的办公室来."
 
 
 
-    player "Eh, okay, manager, will do it right away."
+    player "Eh,okay,经理,我马上就去做."
 
 
 
@@ -14,11 +14,11 @@ label company_forenoon_C_2:
 
 
 
-    player "Eh... ... Anything else?"
+    player "Eh......还有什么吗?"
 
 
 
-    c "No, nothing. Keep working."
+    c "No,没什么.继续工作吧."
 
 
 

@@ -6,17 +6,17 @@ label bnb_livingroom_latenight_G_2:
 
 
 
-    player "Oh my... What are you doing here?"
+    player "Oh我的天...你在这里干什么?"
 
 
 
-    g "I dropped my phone under the refrigerator by an accident..."
+    g "我不小心把手机掉在冰箱下面了..."
 
 
 
     scene bnb_livingroom_latenight_g_2_2 with tstmgr
 
-    g "Ah! Here it is!"
+    g "Ah!在这里!"
 
 
 
@@ -26,11 +26,11 @@ label bnb_livingroom_latenight_G_2:
 
     scene bnb_livingroom_latenight_g_2_3 with tstmgr
 
-    g "Got you~~"
+    g "找到你了~~"
 
 
 
-    g "Yes, the screen didn’t break! How lucky I am~"
+    g "是的,屏幕没有碎!我真幸运~"
 
 
 

@@ -2,21 +2,21 @@ label harem_CD_2:
 
     scene harem_cd_2_1 with tstmgr
 
-    "Hmmm? This is rare to see... Theo and Irene are sleeping together."
+    "Hmmm?这是很罕见的...狄奥和艾琳睡在一起了."
 
 
 
-    "It seems like they are getting along with each other pretty well lately."
+    "最近她们相处得好像很好."
 
 
 
-    "Maybe I should join them?"
+    "也许我应该加入她们?"
 
 
 
     scene harem_cd_2_2 with tstmgr
 
-    "Yep, why shouldn't I? I'm the only man who can do this~"
+    "Yep,我为什么不能?我是唯一能做这件事的人~"
 
 
 
@@ -26,7 +26,7 @@ label harem_CD_2:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
@@ -38,7 +38,7 @@ label harem_CD_2:
 
     scene harem_cd_2_5 with tstmgr
 
-    d "(Seemed happy) Ha~~~~"
+    d "(似乎很开心)Ha~~~~"
 
 
 
@@ -48,7 +48,7 @@ label harem_CD_2:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
@@ -60,11 +60,11 @@ label harem_CD_2:
 
     scene harem_cd_2_7 with tstmgr
 
-    c "(Seemed unhappy) Ehh... ..."
+    c "(似乎不开心)Ehh......"
 
 
 
-    c "(Coughing) Hem, hem... ..."
+    c "(咳嗽)Hem,hem......"
 
 
 
@@ -80,13 +80,13 @@ label harem_CD_2:
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
     scene void with tstmgr
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
@@ -104,7 +104,7 @@ label harem_CD_2:
 
     scene harem_cd_2_12 with tstmgr
 
-    d "(Seemed unhappy) Hmmmmmmmmmmmmmmmmmmmmm... ... ... ..."
+    d "(似乎不开心)Hmmmmmmmmmmmmmmmmmmmmm............"
 
 
 

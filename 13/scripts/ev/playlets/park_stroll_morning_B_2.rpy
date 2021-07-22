@@ -2,7 +2,7 @@ label park_stroll_morning_B_2:
 
     scene park_stroll_morning_b_2_1 with tstmgr
 
-    player "Senning? I didn't expect to see you here so early in the morning."
+    player "森柠?我没想到这么早能在这里见到你."
 
 
 
@@ -10,25 +10,25 @@ label park_stroll_morning_B_2:
 
 
 
-    b "I didn't sleep well last night, so... decide to have a walk in the park."
+    b "我昨晚没睡好,所以...决定去公园散步."
 
 
 
-    player "What happened last night?"
+    player "昨晚发生了什么事?"
 
 
 
     scene park_stroll_morning_b_2_2 with tstmgr
 
-    b "It's my neighbor, Teresa. Her boyfriend was in her room last night..."
+    b "是我的邻居特蕾莎.她的男朋友昨晚在她的房间里..."
 
 
 
-    b "And I could hear her groaning for the entire night."
+    b "我能听到她整夜的呻吟."
 
 
 
-    b "Sigh... ..."
+    b "唉......"
 
 
 

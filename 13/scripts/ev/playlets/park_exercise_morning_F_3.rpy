@@ -2,29 +2,29 @@ label park_exercise_morning_F_3:
 
     scene void with tstmgr
 
-    player "Wait... wait a minute... ... I can't run anymore... ..."
+    player "等等...等等...我跑不动了......"
 
 
 
     scene park_exercise_morning_f_3_1 with dissolve
 
-    f "Already? But we just ran for like 10 minutes."
+    f "真的?但我们只跑了10分钟."
 
 
 
-    player "Just... just... give me a break... ..."
+    player "就...就...饶了我吧......"
 
 
 
     scene park_exercise_morning_f_3_2 with tstmgr
 
-    f "Hummmm... That's not good."
+    f "Hummmm...这样不好."
 
 
 
     scene park_exercise_morning_f_3_3 with tstmgr
 
-    f "Ah, I know what can cheer you up!~"
+    f "Ah,我知道什么能使你振作起来!~"
 
 
 
@@ -34,17 +34,17 @@ label park_exercise_morning_F_3:
 
 
 
-    player "What the hell!?"
+    player "什么鬼!?"
 
 
 
-    player "Shit, I felt a great strength coming out from my body!"
+    player "Shit,我感到一股强大的力量从我的身体里涌现出来!"
 
 
 
     scene park_exercise_morning_f_3_5 with tstmgr
 
-    f "Great! Let's keep running!"
+    f "Great!让我们继续跑!"
 
 
 

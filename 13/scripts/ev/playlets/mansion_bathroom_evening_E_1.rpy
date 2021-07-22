@@ -2,35 +2,35 @@ label mansion_bathroom_evening_E_1:
 
     scene void with tstmgr
 
-    "Aunt Elisa was calling me in the bathroom."
+    "伊莉莎阿姨在浴室里叫我."
 
 
 
     scene mansion_bathroom_evening_e_1_1 with tstmgr
 
-    e "[P], would you bring my towel to me, please? It was on the doorknob."
+    e "[P],请把我的毛巾拿来好吗?它在门把手上."
 
 
 
-    player "Eh, sure, Aunt Elisa."
+    player "Eh,当然,伊莉莎阿姨."
 
 
 
-    e "Thanks, [P]. You are so sweet."
+    e "谢谢,[P].你真贴心."
 
 
 
     scene mansion_bathroom_evening_e_1_2 with tstmgr
 
-    e "Do you want to join me in the bathtub?"
+    e "你想来浴缸加入我吗?"
 
 
 
-    player "What? I... ... ... ..."
+    player "什么?我............"
 
 
 
-    e "Relax, I was just kidding."
+    e "放松点,我只是开个玩笑."
 
 
 

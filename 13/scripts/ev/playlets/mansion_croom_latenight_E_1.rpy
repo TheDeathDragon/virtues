@@ -2,11 +2,11 @@ label mansion_croom_latenight_E_1:
 
     scene void with tstmgr
 
-    player "Emm? Why does Theodora's room have lights on? Is she home tonight?"
+    player "Emm?狄奥多拉的房间为什么开着灯?她今晚在家吗?"
 
 
 
-    "I opened a crack and looked inside..."
+    "我打开一条裂缝,往里面看..."
 
 
 
@@ -16,33 +16,33 @@ label mansion_croom_latenight_E_1:
 
 
 
-    "Hmmm? It seems like Aunt Elisa is looking at a picture."
+    "Hmmm?伊莉莎阿姨好像在看照片."
 
 
 
     scene mansion_croom_latenight_e_1_2 with tstmgr
 
-    player "What are you looking at, Aunt Elisa?"
+    player "你在看什么,伊莉莎阿姨?"
 
 
 
     scene ec2_73 with tstmgr
 
-    e "It’s an old photo, a photo of you and Theo at the prom night. Such a lovely couple you are~~"
+    e "这是一张旧照片,你和狄奥在舞会上的照片.你们真是可爱的一对~~"
 
 
 
-    "*The story of this photo is included in the extra chapter 2.*"
+    "*这张照片的故事包含在额外的第二章.*"
 
 
 
     scene mansion_croom_latenight_e_1_3 with tstmgr
 
-    e "I really missed that time... when you and Theo all lived in here. You were so young... ..."
+    e "我真的很怀念那段时间...当你和狄奥都住在这里的时候.你们那么年轻......"
 
 
 
-    player "Aunt Elisa..."
+    player "伊莉莎阿姨..."
 
 
 

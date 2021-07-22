@@ -2,25 +2,25 @@ label bnb_livingroom_forenoon_G_1:
 
     scene void with tstmgr
 
-    "I found Uno in the livingroom."
+    "我发现乌诺在客厅里."
 
 
 
     scene bnb_livingroom_forenoon_g_1_1 with tstmgr
 
-    player "Morning."
+    player "早上好."
 
 
 
     scene bnb_livingroom_forenoon_g_1_2 with tstmgr
 
-    g "(Nodding) ... ... ... ..."
+    g "(点头)............"
 
 
 
     scene bnb_livingroom_forenoon_g_1_3 with tstmgr
 
-    player "What are you looking at?"
+    player "你在看什么?"
 
 
 
@@ -28,11 +28,11 @@ label bnb_livingroom_forenoon_G_1:
 
 
 
-    g "You don't seem to really care."
+    g "你似乎并不是真正的想知道."
 
 
 
-    g "Remember you only have 30 seconds."
+    g "记住你只有30秒."
 
 
 

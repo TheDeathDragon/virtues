@@ -2,39 +2,39 @@ label beach_forenoon_B_1:
 
     scene beach_afternoon_b_1_1 with tstmgr
 
-    b "Wow, look, a baby crab just digged into the sand! So cute!"
+    b "Wow,看,一只小螃蟹刚钻进沙子里了!太可爱了!"
 
 
 
-    player "Well, I am looking at something cuter right now~"
+    player "Well,我现在看到的是更可爱的东西~"
 
 
 
     scene beach_afternoon_b_1_2 with tstmgr
 
-    b "Yah! What are you doing?"
+    b "Yah!你在干什么?"
 
 
 
-    b "You you you can't touch me like this in the public!"
+    b "你,你,你不能在公众场合这样碰我!"
 
 
 
-    player "But... I can't help. Your butt is too pretty~"
+    player "但是...我控制不住.你的屁股太漂亮了~"
 
 
 
-    player "Did you gain some weight recently? I think your butt feels... meatier than before."
+    player "你最近增肥了吗?我觉得你的屁股...肉比以前多了."
 
 
 
     scene beach_afternoon_b_1_3 with tstmgr
 
-    b "What! Really!?"
+    b "什么!真的!?"
 
 
 
-    b "Wummmmmmm... ... I'm not going to eat dinner anymore!"
+    b "Wummmmmmm......我不想再吃晚饭了!"
 
 
 

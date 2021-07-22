@@ -2,7 +2,7 @@ label park_stroll_morning_B_1:
 
     scene park_stroll_morning_b_1_1 with tstmgr
 
-    player "Senning? I didn't expect to see you here so early in the morning."
+    player "森柠?我没想到这么早能在这里见到你."
 
 
 
@@ -10,11 +10,11 @@ label park_stroll_morning_B_1:
 
 
 
-    "Seems like she is still mad at me."
+    "她好像还在生我的气."
 
 
 
-    "But at least I can take a walk with her together and ask for her forgiveness along the way."
+    "但至少我可以和她一起散步,一路上请求她的原谅."
 
 
 

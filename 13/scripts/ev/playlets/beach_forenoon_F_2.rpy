@@ -4,25 +4,25 @@ label beach_forenoon_F_2:
 
     scene beach_forenoon_f_2_1 with tstmgr
 
-    f "*Flushed* ... ... ... ..."
+    f "*脸红*............"
 
 
 
-    player "Wow, look, a dolphin!"
+    player "Wow,看,一只海豚!"
 
 
 
-    f "*Flushed* ... ... ... ..."
+    f "*脸红*............"
 
 
 
     scene beach_forenoon_f_2_2 with tstmgr
 
-    player "Wait, no, is that a fucking whale?"
+    player "等等,不,那是他妈的鲸鱼吗?"
 
 
 
-    f "*Flushed* ... ... ... ..."
+    f "*脸红*............"
 
 
 
@@ -32,19 +32,19 @@ label beach_forenoon_F_2:
 
 
 
-    "I noticed that Rachel is peeping at me all the time."
+    "我注意到瑞秋一直在偷窥我."
 
 
 
     scene beach_forenoon_f_2_3 with tstmgr
 
-    player "Rachel? What's the matter?"
+    player "瑞秋?出什么事了吗?"
 
 
 
     scene beach_forenoon_f_2_5 with tstmgr
 
-    f "Nothing... ..."
+    f "没什么......"
 
 
 
@@ -52,7 +52,7 @@ label beach_forenoon_F_2:
 
 
 
-    "Rachel became so hard to understand after I gave her that DVD..."
+    "我送她DVD后,瑞秋变得让人难以捉摸了..."
 
 
 

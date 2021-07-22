@@ -2,17 +2,17 @@ label mansion_bathroom_latenight_C_1:
 
     scene void with tstmgr
 
-    "I encountered Theodora in the bathroom by an accident."
+    "我在浴室偶然遇到狄奥多拉."
 
 
 
     scene mansion_bathroom_latenight_c_1_1 with tstmgr
 
-    player "Ah, Theo, sorry, I didn't know you were in here."
+    player "Ah,狄奥,抱歉,我不知道你在这里."
 
 
 
-    c "Doesn't matter. I'm going out."
+    c "没关系.我正要出去."
 
 
 
@@ -22,11 +22,11 @@ label mansion_bathroom_latenight_C_1:
 
     scene mansion_bathroom_latenight_c_1_2 with tstmgr
 
-    c "You are quite stronger than before."
+    c "你比以前强壮多了."
 
 
 
-    player "Oh, eh, thanks. And you are more beautiful than before as well..."
+    player "Oh,eh,谢谢.你也比以前更漂亮了..."
 
 
 
@@ -36,11 +36,11 @@ label mansion_bathroom_latenight_C_1:
 
     scene mansion_bathroom_latenight_c_1_3 with tstmgr
 
-    c "I'm leaving. See you tomorrow."
+    c "我走了.明天见."
 
 
 
-    player "Bye... ... ... ..."
+    player "拜............"
 
 
 

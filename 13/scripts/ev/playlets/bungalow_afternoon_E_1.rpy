@@ -4,19 +4,19 @@ label bungalow_afternoon_E_1:
 
     scene bungalow_afternoon_e_1_1 with tstmgr
 
-    e "This place is a great place to meditate. Just let your mind flow away with the song of birds..."
+    e "这个地方是冥想的好地方.就让你的思绪随着鸟儿的歌声而流动吧..."
 
 
 
     scene bungalow_afternoon_e_1_2 with tstmgr
 
-    player "Emmmmm... ... I can't feel anything... ... It's just boring~"
+    player "Emmmmm......我什么也感觉不到...太无聊了~"
 
 
 
     scene bungalow_afternoon_e_1_3 with tstmgr
 
-    e "Ha, young man, you will feel what I feel when you are at my age."
+    e "Ha,年轻人,当你到了我这个年纪的时候,你会有和我一样的感受."
 
 
 
@@ -24,27 +24,27 @@ label bungalow_afternoon_E_1:
 
 
 
-    e "Maybe I should buy some video games so you won't be boring the next time?"
+    e "也许我应该买一些电子游戏,这样下次你就不会无聊了?"
 
 
 
     scene bungalow_afternoon_e_1_4 with tstmgr
 
-    player "No need~ I will be fine as long as I am with you~"
+    player "不需要~只要和你在一起,就够了~"
 
 
 
-    e "Humph~ Save your sweet tongue to Theo. Old ladies like me are immune to that~"
+    e "Humph~把甜言蜜语留给西奥吧.像我这样的老夫人可不吃这套~"
 
 
 
     scene bungalow_afternoon_e_1_5 with tstmgr
 
-    e "The only thing you can do to please me is to... satisfy me on the bed~"
+    e "你唯一能做的就是让我高兴.在床上满足我~"
 
 
 
-    player "I'll try my best, auntie... ..."
+    player "我会尽力的,阿姨......"
 
 
 

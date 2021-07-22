@@ -4,19 +4,19 @@ label harem_DE_1:
 
     scene harem_de_1_1 with tstmgr
 
-    "Passerby A" "Is that... ... a family?"
+    "路人A""那是......一家人吗?"
 
 
 
-    "Passerby B" "I don't know, he seemed too young to be the father."
+    "路人B""我不知道,他看起来太年轻,不适合做爸爸."
 
 
 
-    "Passerby A" "He might be the brother?"
+    "路人A""他可能是她的兄弟?"
 
 
 
-    "Passerby B" "Yeah, I guess so. Man... I wish I could have such a hot mom and sister, too."
+    "路人B""Yeah,我想是这样.伙计.我希望我也能有这么性感的妈妈和妹妹."
 
 
 
@@ -24,29 +24,29 @@ label harem_DE_1:
 
 
 
-    e "[P], you can put her down if you feel tired."
+    e "[P],如果你觉得累了,可以把她放下."
 
 
 
     scene harem_de_1_2 with tstmgr
 
-    player "I can carry Irene like this for the whole day~"
+    player "我可以这样带着艾琳一整天~"
 
 
 
-    d "Yeah!~ [P] is the best."
+    d "Yeah!~[P]最好了."
 
 
 
     scene harem_de_1_3 with tstmgr
 
-    d "Mommy, do you want to sit on [P]'s arm, too? I can give you my seat~"
+    d "妈咪,你也想坐在[P]的胳膊上吗?我可以给你让座~"
 
 
 
     scene harem_de_1_4 with tstmgr
 
-    e "Stop making fun of me. His arm will be broken if I do that~"
+    e "别拿我开玩笑了.如果我那样做,他的胳膊会断的~"
 
 
 

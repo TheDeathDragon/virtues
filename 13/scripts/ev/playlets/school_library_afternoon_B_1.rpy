@@ -2,13 +2,13 @@ label school_library_afternoon_B_1:
 
     scene void with tstmgr
 
-    "Senning is helping me review course materials."
+    "森柠帮我复习课程资料."
 
 
 
     scene school_library_afternoon_b_1_1 with tstmgr
 
-    b "Have you understood what I just tought you?"
+    b "你明白我刚才对你说的话了吗?"
 
 
 
@@ -16,11 +16,11 @@ label school_library_afternoon_B_1:
 
 
 
-    b "Hello? What are you looking at?"
+    b "Hello?你在看什么?"
 
 
 
-    player "Can you please take your glasses off?"
+    player "请把眼镜摘下来好吗?"
 
 
 
@@ -30,15 +30,15 @@ label school_library_afternoon_B_1:
 
 
 
-    b "What's wrong?"
+    b "怎么了?"
 
 
 
-    player "You are just stunning... ... ... ..."
+    player "你真是太美了............"
 
 
 
-    b "Huh? Are you even listening?"
+    b "Huh?你在听吗?"
 
 
 
