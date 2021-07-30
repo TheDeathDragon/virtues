@@ -2,23 +2,23 @@ label C_action_sexskill_1:
 
     scene void with tstmgr
 
-    "Afternoon, in Theodora’s office. I was doing her a massage as usual..."
+    "下午,在狄奥多拉的办公室.我像往常一样给她按摩..."
 
 
 
     scene c_action_sexskill_1_1 with tstmgr
 
-    c "Ah... yes... this feels so good~"
+    c "Ah...yes...这种感觉真好~"
 
 
 
-    player "Can I get something in return of my service this time?"
+    player "这次我能得到点什么来回报我的服务吗?"
 
 
 
     scene c_action_sexskill_1_2 with tstmgr
 
-    c "Hmmm? What do you want?"
+    c "Hmmm?你想要什么?"
 
 
 
@@ -29,18 +29,18 @@ label C_action_sexskill_1:
     label C_action_sexskill_1_choice_1:
 
     menu:
-        "A tits job, please" if True:
+        "请帮我乳交" if True:
 
 
             scene c_action_sexskill_1_3 with tstmgr
 
-            c "Just like the last time?"
+            c "就像上次一样?"
 
             scene c_action_sexskill_1_4 with tstmgr
 
-            c "I don’t like it. It will make my breasts sticky for the entire day."
+            c "我不喜欢.它会让我的胸一整天都黏黏的."
 
-            player "Okay... just forget what I said then."
+            player "Okay...当我没说."
 
             scene c_action_sexskill_1_5 with tstmgr
 
@@ -48,75 +48,75 @@ label C_action_sexskill_1:
 
             scene c_action_sexskill_1_6 with tstmgr
 
-            c "Ah, nevermind, take your dick out, now."
+            c "Ah,算了,现在把你小弟弟拿出来吧."
 
-            player "But you said... ..."
+            player "但你说......"
 
             scene c_action_sexskill_1_7 with tstmgr
 
-            c "Do you really want to do it or not?"
+            c "你真的想做还是不想做?"
 
-            player "I... ... Okay, thanks, Theo..."
+            player "我......Okay,谢谢,狄奥..."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "A few moments later..."
+            "不一会儿..."
 
             scene c_action_sexskill_1_8 with dissolve
 
-            c "This monstrous dick... ... No matter how many times I saw it, I would still be surprised when you show it out."
+            c "这个怪物鸡巴......不管我看了多少遍,当你把它拿出来的时候,我还是会很惊讶."
 
-            c "Let's see if I can calm this thing down with my tits~"
+            c "看看我能不能用我的奶子让它平静下来~"
 
             scene c_action_sexskill_1_9 with tstmgr
 
-            player "Theo... ..."
+            player "狄奥......"
 
-            c "Ah... yes, thrust it into my cleavage~"
+            c "Ah...yes,把它插进我的乳沟~"
 
             scene c_action_sexskill_1_10 with tstmgr
 
-            c "And now, let’s see how long you can hold yourself under my tits pressure~~"
+            c "现在,看看你能在我的奶子里坚持多久~~"
 
             scene c_action_sexskill_1_11 with tstmgr
 
-            c "Oh, look, your glans disappeared. Where is it?~"
+            c "Oh,你的龟头不见了.在哪里?~"
 
-            player "Owwwww... this feels so good!"
+            player "Owwwww...这感觉太棒了!"
 
-            c "You are going to cum, aren’t you? Your dick is pulsing so fast~"
+            c "你要射了,对吗?你的小弟弟跳得太快了~"
 
             scene c_action_sexskill_1_12 with tstmgr
 
-            player "I... can’t hold it anymore!"
+            player "我...再也憋不住了!"
 
             scene c_action_sexskill_1_13 with tstmgr
 
-            "I held her tits in my hands and took off her bra."
+            "我双手抱着她的胸,脱下她的胸罩."
 
-            c "What are you doing?"
+            c "你在做什么?"
 
             scene c_action_sexskill_1_14 with tstmgr
 
-            player "Theo, your tits are so wonderful!~~"
+            player "狄奥,你的胸太棒了!~~"
 
             scene c_action_sexskill_1_15 with tstmgr
 
-            player "I... I can’t help myself!"
+            player "我...我控制不了自己!"
 
             scene c_action_sexskill_1_14 with tstmgr
 
-            c "Wait, stop... this is not your flip hole!"
+            c "等等,停...这不是你的飞机杯!"
 
             scene c_action_sexskill_1_15 with tstmgr
 
-            player "I... can’t... stop!~~~~"
+            player "我...停不下...来!~~~~"
 
             scene c_action_sexskill_1_14 with tstmgr
 
-            player "I’m cuming!!!!!"
+            player "我泄了!!!!!"
 
             scene c_action_sexskill_1_15 with tstmgr
 
@@ -132,12 +132,12 @@ label C_action_sexskill_1:
 
             scene c_action_sexskill_1_17 with tstmgr
 
-            c "It is sticky as hell now... ... just as I imagined..."
+            c "现在黏得要命......正如我所想象的..."
 
-            player "Sorry... ... ... ..."
+            player "抱歉............"
 
             c "Humph~"
-        "A massage from you, please" if True:
+        "请给我按摩" if True:
 
 
 
@@ -146,29 +146,29 @@ label C_action_sexskill_1:
 
             scene c_action_sexskill_1_3 with tstmgr
 
-            c "That was... an interesting proposal."
+            c "这真是...一个有趣的提议."
 
             scene c_action_sexskill_1_7 with tstmgr
 
-            c "Okay, I’ll do it."
+            c "Okay,来吧."
 
-            c "Now you should be the one who sits here."
+            c "现在坐在这里的应该是你."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "A few moments later..."
+            "不一会儿..."
 
             scene c_action_sexskill_1_18 with tstmgr
 
-            player "Ehh... okay, I’m ready now."
+            player "Ehh...okay,我准备好了."
 
             scene c_action_sexskill_1_19 with tstmgr
 
             c "Great... ... ... ..."
 
-            player "Hmmmm? What are you doing, Theo?"
+            player "Hmmmm?你在干什么,狄奥?"
 
             scene c_action_sexskill_1_20 with tstmgr
 
@@ -176,43 +176,43 @@ label C_action_sexskill_1:
 
             scene c_action_sexskill_1_22 with tstmgr
 
-            c "Let me massage you in this position~"
+            c "让我用这个姿势给你按摩~"
 
-            player "Are you... seducing me?"
+            player "你是...勾引我吗?"
 
             scene c_action_sexskill_1_23 with tstmgr
 
-            c "Nope, I’m just rewarding you~"
+            c "Nope,我只是在奖励你~"
 
-            player "Theo... ... ... ..."
+            player "狄奥............"
 
-            "Some time later..."
+            "一段时间后..."
 
             scene c_action_sexskill_1_24 with tstmgr
 
             "... ... ... ..."
 
-            c "This is... not what I expected... ..."
+            c "这和我...想的不一样......"
 
-            c "I was supposed to... be the one in charge... ..."
+            c "我本应该...是那个主导的人......"
 
-            player "(Buried head in Theodora’s breasts and breathing heavily) Aummmmmmm~~~~~~~"
+            player "(把头埋在狄奥多拉的怀里,喘着粗气)Aummmmmmm~~~~~~~"
 
             scene c_action_sexskill_1_25 with tstmgr
 
-            c "Why the fuck... do you like breasts so much?"
+            c "为什么他妈的...你这么喜欢胸?"
 
             player "Aummmmmmm~~~~ aummmmmm~~~~~~"
 
             scene c_action_sexskill_1_26 with tstmgr
 
-            c "Ohhhhhhhh!~~~~~~~ Stop!~~~~~~"
+            c "Ohhhhhhhh!~~~~~~~停!~~~~~~"
 
-            player "(Lost in the world of tits and couldn’t hear anything else) Tits... tits... jelly tities... ... ... ..."
+            player "(迷失在奶子的世界里,什么也听不到)胸...胸...果冻胸............"
 
-            c "Fuck... ... you... ... brainless... idiot!!!... ..."
+            c "他妈的...你这个...愚蠢的...白痴!!!......"
 
-            c "I’m not going to reward you for anything... ever... again!!!... ..."
+            c "我不会再给你...任何...奖励!!!......"
 
     scene void with tstmgr
 

@@ -2,51 +2,51 @@ label C_action_sub_1:
 
     scene void with tstmgr
 
-    "In an afternoon, in the bathroom of my house..."
+    "下午,在我家的浴室里..."
 
 
 
     scene c_action_sub_1_1 with tstmgr
 
-    player "Thanks for inviting me to shower with you together, Theo. I thought you would prefer to shower alone."
+    player "谢谢你邀请我和你一起洗澡,西奥.我以为你更喜欢一个人洗澡."
 
 
 
-    c "I do prefer to shower alone, but... ..."
+    c "我确实喜欢一个人洗澡,但是......"
 
 
 
-    c "I want to test something with you~"
+    c "我想和你一起试一下~"
 
 
 
     scene c_action_sub_1_2 with tstmgr
 
-    c "This bottle, are you familiar with it?"
+    c "这个瓶子,你熟悉吗?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    c "I’m not sure what the lotion in this bottle is exactly, but I think I have figured out what it can do~"
+    c "我不确定这瓶药水到底是什么,但我想我已经知道它的作用了~"
 
 
 
-    c "Now I just need a simple test to tell whether my guess is right or wrong. Do you want to help me?"
+    c "现在我只需要一个简单的测试来判断我的猜测是对还是错.你想帮我吗?"
 
 
 
-    player "So... how can I help?"
+    player "所以...我能帮上什么忙?"
 
 
 
-    c "Easy, just put some of the lotion... on my body~"
+    c "简单,只要抹点乳液...在我身上~"
 
 
 
-    player "Ehhh... Are you sure you want me to do this?"
+    player "Ehhh...你确定要我这么做吗?"
 
 
 
@@ -60,7 +60,7 @@ label C_action_sub_1:
 
     scene c_action_sub_1_3 with tstmgr
 
-    c "So, which part of my body do you want to put the lotion on?~"
+    c "那么,你想把乳液涂在我身体的哪个部位?~"
 
 
 
@@ -71,18 +71,18 @@ label C_action_sub_1:
     label C_action_sub_1_choice_1:
 
     menu:
-        "Nipples" if True:
+        "乳头" if True:
 
 
             scene c_action_sub_1_4 with tstmgr
 
-            c "Are you... sure of that?"
+            c "你...确定吗?"
 
-            player "I can do it elsewhere if you don’t like it."
+            player "如果你不喜欢,我可以抹在别的地方."
 
-            c "No, I don’t mean that..."
+            c "No,我不是那个意思..."
 
-            c "Okay then, you can... put it on my nipples... ..."
+            c "Okay,你可以...把它抹在我的乳头上......"
 
             scene void with tstmgr
 
@@ -90,9 +90,9 @@ label C_action_sub_1:
 
             scene c_action_sub_1_5 with dissolve
 
-            player "Alright, I’m going to do it. Are you ready, Theo?"
+            player "Alright,我要开始了.准备好了吗,西奥?"
 
-            c "Just... bring it on~"
+            c "就...抹吧~"
 
             scene c_action_sub_1_6 with tstmgr
 
@@ -100,15 +100,15 @@ label C_action_sub_1:
 
             c "Awwwwwww~~~~~~"
 
-            player "First, let’s smear the lotion evenly on your breasts..."
+            player "首先,让我们把乳液均匀地涂在你的胸上..."
 
-            player "And then... ..."
+            player "然后......"
 
             scene c_action_sub_1_7 with tstmgr
 
-            player "Let's turn to focus on the nipple areas~"
+            player "我们来看看乳头区域~"
 
-            c "Ohhh... ... So... itchy... ..."
+            c "Ohhh......好...痒......"
 
             scene c_action_sub_1_8 with tstmgr
 
@@ -116,29 +116,21 @@ label C_action_sub_1:
 
             c "Ohhhhhhhhhhhh!!!!!~~~~~~"
 
-            player "Your nipples are getting so hard. Is that because of my hands or the lotion?"
+            player "你的乳头越来越硬了.是因为我的手还是乳液?"
 
-            c "I... don’t know~ I... can’t tell~"
+            c "我...不知道~我...不能说~"
 
-            c "My nipples... are still as sensitive as before. But now... ... they don’t reject to be touched anymore~"
+            c "我的乳头...仍然和以前一样敏感.但现在...它们不再抗拒被触摸~"
 
-            c "This lotion... is really effective~"
-
-            scene c_action_sub_1_9 with tstmgr
-
-            player "But I don’t think it is about the lotion. I think they don’t reject to be touched anymore because you have become so hornier than you used to be~"
-
-            scene c_action_sub_1_10 with tstmgr
-
-            c "Non... nonsense~~"
+            c "这个乳液...真的有效~"
 
             scene c_action_sub_1_9 with tstmgr
 
-            pause
+            player "但我不认为这是乳液的问题.我想它们不再抗拒被触摸,是因为你变得比以前更饥渴了.~"
 
             scene c_action_sub_1_10 with tstmgr
 
-            pause
+            c "不...不可能~~"
 
             scene c_action_sub_1_9 with tstmgr
 
@@ -150,11 +142,19 @@ label C_action_sub_1:
 
             scene c_action_sub_1_9 with tstmgr
 
-            c "Awwww... ... Maybe... you are right... ..."
+            pause
 
-            c "I have become... so much hornier than before... ..."
+            scene c_action_sub_1_10 with tstmgr
 
-            player "And now... ..."
+            pause
+
+            scene c_action_sub_1_9 with tstmgr
+
+            c "Awwww......也许...你是对的......"
+
+            c "我...比以前好色多了......"
+
+            player "那么现在......"
 
             scene c_action_sub_1_11 with tstmgr
 
@@ -162,49 +162,49 @@ label C_action_sub_1:
 
             scene c_action_sub_1_12 with tstmgr
 
-            c "You... you can’t do this! This is... so intense~"
+            c "你...你不能这么做!太...太刺激了~"
 
             scene c_action_sub_1_13 with tstmgr
 
-            c "I... I think I’m going to... ..."
+            c "我...我想我要......"
 
             scene c_action_sub_1_14 with tstmgr
 
             $ flashlight()
 
-            c "Cumming!!!!~~~~~~~"
+            c "高潮了!!!!~~~~~~~"
 
-            player "Wow, Theo, your pussy is like a fountain~"
+            player "Wow,西奥,你的小穴就像喷泉一样~"
 
             scene c_action_sub_1_15 with tstmgr
 
-            c "Nipples... ... [P]... ... love... ..."
+            c "乳头......[P]......爱......"
 
-            player "So... what is the result of your little test? Do you know what the lotion is now?~"
+            player "所以...你的测验结果如何?你知道现在的乳液是什么了吗?~"
 
             scene c_action_sub_1_16 with tstmgr
 
-            c "No... not yet... ... We have to... test for... many times more... in the future~"
+            c "No...notyet......我们必须...试...更多次...在以后~"
 
-            player "Alright then~ I’ll always be there to help you~"
+            player "那好吧~我会一直帮你的~"
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Pussy" if True:
+        "小穴" if True:
 
 
 
 
             scene c_action_sub_1_4 with tstmgr
 
-            c "Are you... sure of that?"
+            c "你...确定吗?"
 
-            player "I can do it elsewhere if you don’t like it."
+            player "如果你不喜欢,我可以抹在别的地方."
 
-            c "No, I don’t mean that..."
+            c "No,我不是那个意思..."
 
-            c "Okay then, you can... put it on my pussy... ..."
+            c "Okay,你可以...抹在我的小穴上......"
 
             scene void with tstmgr
 
@@ -212,9 +212,9 @@ label C_action_sub_1:
 
             scene c_action_sub_1_5 with dissolve
 
-            player "Alright, I’m going to do it. Are you ready, Theo?"
+            player "Alright,我要开始了.准备好了吗,西奥?"
 
-            c "Just... bring it on~"
+            c "就...抹吧~"
 
             scene c_action_sub_1_17 with tstmgr
 
@@ -222,43 +222,43 @@ label C_action_sub_1:
 
             c "Awwwwwww~~~~~~"
 
-            player "First, let’s smear the lotion evenly on your crotch..."
+            player "首先,我们把洗液均匀地涂在你的胯部..."
 
             scene c_action_sub_1_18 with tstmgr
 
-            c "Ohhh... ... So itchy... ..."
+            c "Ohhh......好痒......"
 
-            player "And then, I’ll stick a finger with full of the lotion in your pussy... ..."
+            player "然后,我用一根手指在你的小穴涂满乳液......"
 
             scene c_action_sub_1_19 with tstmgr
 
-            c "Huh... huh... This is... so amazing... ..."
+            c "Huh...huh...这太...奇妙了......"
 
-            c "My pussy... is burning~~~"
+            c "我的小穴...好热~~~"
 
             scene c_action_sub_1_20 with tstmgr
 
-            player "Can you open your legs a little so my finger can get in more smoothly?"
+            player "你能把你的腿张开一点吗?这样我的手指可以更顺畅地伸进去?"
 
             scene c_action_sub_1_21 with tstmgr
 
-            c "Like... this?"
+            c "像...这样?"
 
-            player "Yes, Theo, just like that~"
+            player "Yes,西奥,就像这样~"
 
             scene c_action_sub_1_22 with tstmgr
 
-            player "It seems like the lotion is really effective, don’t you think?"
+            player "这乳液似乎很有效,你不觉得吗?"
 
             c "Huh... huh... huh... huh... ..."
 
-            player "So... what is the result of your little test? Do you know what the lotion is now?~"
+            player "所以...你的测验结果如何?你知道现在的乳液是什么了吗?~"
 
             scene c_action_sub_1_23 with tstmgr
 
-            c "No... not yet... ... You have to... put your cock in my pussy... ..."
+            c "No...不知道......你必须...把你的鸡巴放进我的小穴......"
 
-            player "Alright then~ I’ll do everything you want~"
+            player "Alright~如你所愿~"
 
             scene void with tstmgr
 
@@ -270,17 +270,17 @@ label C_action_sub_1:
 
             c "Ahh~~ hhh~~~ [P]~~ yes~~~"
 
-            c "Love you~ Love you~ I love you so much~~"
+            c "爱你~爱你~我好爱你~~"
 
-            c "I don’t know what that lotion is... but I know it can make me take off my camouflage and be the real me~"
+            c "我不知道那乳液是什么...但我知道它能让我卸下伪装,做真正的自己~"
 
-            c "It makes me... not be hesitate to tell you my feeling anymore~"
+            c "它让我...不要再犹豫告诉你我的感受了~"
 
-            c "I love you~ always love you~ always~ alway~~~"
+            c "我爱你~永远爱你~永远~永远~~~"
 
-            player "Theo... ... I love you too!"
+            player "西奥...我也爱你!"
 
-            c "I’m cumming!~~~~~~"
+            c "我要高潮了!~~~~~~"
 
             scene c_action_sub_1_24 with tstmgr
 
@@ -288,15 +288,15 @@ label C_action_sub_1:
 
             c "Ahhhhhhhhhhhhhhhhhh~~~~~~~"
 
-            "We had the great orgasm at the same time."
+            "我们同时达到了剧烈的高潮."
 
             scene c_action_sub_1_25 with tstmgr
 
-            c "I didn’t... allow you to... bite... my nipple... ..."
+            c "我没有...允许你...咬...我的乳头......"
 
             scene c_action_sub_1_26 with tstmgr
 
-            c "Stop... biting... ..."
+            c "别...咬......"
 
             scene c_action_sub_1_25 with tstmgr
 
@@ -308,7 +308,7 @@ label C_action_sub_1:
 
             scene c_action_sub_1_27 with tstmgr
 
-            c "*Lost consciousness* Stop... ... ... ..."
+            c "*失去意识*停............"
 
             scene void with tstmgr
 

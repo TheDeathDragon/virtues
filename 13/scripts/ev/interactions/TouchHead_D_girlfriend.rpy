@@ -12,7 +12,7 @@ label TouchHead_D_girlfriend:
 
         scene d_gf_3_smile with tstmgr
 
-    bubble_d "Yeah, yeah! That sounds great!"
+    bubble_d "Yeah,yeah!这听起来不错!"
 
 
 
@@ -30,15 +30,15 @@ label TouchHead_D_girlfriend:
 
     if D.clothes in (1, 2):
 
-        d "Come on, come on. pat me with your hand... ..."
+        d "来嘛,来嘛.用你的手摸我......"
 
-        d "Don't keep me waiting, or I will bite you."
+        d "别让我等太久,不然我会咬你的."
 
     if D.clothes == 3:
 
-        d "Come on, come on. pat me with your hand... ..."
+        d "来嘛,来嘛.用你的手摸我......"
 
-        d "Don't keep the kitty waiting, or the kitty will bite you..."
+        d "别让我等太久,不然我会咬你的..."
 
     if D.clothes == 1:
 
@@ -56,19 +56,19 @@ label TouchHead_D_girlfriend:
 
         d "Wuuuuuuuu... ... ... ..."
 
-        d "Yes, yes, reward me for being a good little sister~~"
+        d "Yes,yes,奖励你可爱的小妹妹~~"
 
     if D.clothes == 2:
 
         d "Wuuuuuuuu... ... ... ..."
 
-        d "Yes, yes, reward me for being your good student~~"
+        d "Yes,yes,奖励你的好学生~~"
 
     if D.clothes == 3:
 
-        d "Ohhh... ... sorry, I said the wrong words. Cough~ cough~"
+        d "Ohhh......对不起,我用错词了.咳~咳~"
 
-        d "Please... forgive me... master... ..."
+        d "请...原谅我...主人......"
 
     if D.clothes == 1:
 
@@ -84,21 +84,21 @@ label TouchHead_D_girlfriend:
 
     if D.clothes == 1:
 
-        d "Now can you give your little sister a kiss?"
+        d "现在你能给你的小妹妹一个吻吗?"
 
-        d "Onii sama~~~~"
+        d "欧尼酱~~~~"
 
     if D.clothes == 2:
 
-        d "Now can you give your student a kiss?"
+        d "现在你能给你的学生一个吻吗?"
 
-        d "Mr. [P]~~~~"
+        d "[P]老师~~~~"
 
     if D.clothes == 3:
 
-        d "Yes, yes... ... Punish me~~ Play with my body as you want, master~~"
+        d "Yes,yes......惩罚我~~随你怎么玩弄我的身体,主人~~"
 
-        d "This is what the naughty kitty deserves~~~"
+        d "这是我这个淘气的猫咪应得的~~~"
 
     scene void with tstmgr
 

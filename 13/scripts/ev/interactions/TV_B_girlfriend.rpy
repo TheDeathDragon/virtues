@@ -12,9 +12,9 @@ label TV_B_girlfriend:
 
         scene b_gf_3_default with tstmgr
 
-    bubble_b "Watching TV together?"
+    bubble_b "一起看电视吗?"
 
-    bubble_b "Sounds like a good idea."
+    bubble_b "听起来不错."
 
 
 
@@ -44,9 +44,9 @@ label TV_B_girlfriend:
 
         scene b_gf_3_watchtv_2 with tstmgr
 
-    b "Sigh... here we go again."
+    b "唉...我们又开始了."
 
-    b "You really like girl’s breasts very much, don’t you?"
+    b "你真的很喜欢女孩子的胸,不是吗?"
 
     if B.clothes == 1:
 
@@ -60,7 +60,7 @@ label TV_B_girlfriend:
 
         scene b_gf_3_watchtv_3 with tstmgr
 
-    b "(Moaning) Wmmmm... ... ... ..."
+    b "(呻吟)Wmmmm............"
 
     b "Oww... [P]... ..."
 
@@ -78,19 +78,19 @@ label TV_B_girlfriend:
 
     if B.clothes in (1, 2):
 
-        b "Wait... don’t... ..."
+        b "等等...别......"
 
-        b "(Moaning) Owwww... ..."
+        b "(呻吟)Owwww......"
 
-        b "My parents will be pissed off if they know... what a bad girl I have become... ..."
+        b "如果我的父母知道我变成了一个这么...坏的女孩...他们会生气的......"
 
     if B.clothes == 3:
 
-        b "My parents will be pissed off if they know... what a dirty girl I have become... ..."
+        b "如果我的父母知道我变成了一个这么...脏的女孩...他们会生气的......"
 
-        b "You should... be responsible for this... ..."
+        b "你应该...对此负责......"
 
-        b "Uhh... ... my nipple... ..."
+        b "Uhh......我的乳头......"
 
     scene void with tstmgr
 

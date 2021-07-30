@@ -2,13 +2,13 @@ label G_action_sha_2_sexpartner:
 
     scene void with tstmgr
 
-    "Later tonight, in my room..."
+    "今晚晚些时候,在我的房间..."
 
 
 
     scene g_daily8_14 with tstmgr
 
-    g "[P]~~ It’s time to make another video. My... our fans are waiting~"
+    g "[P]~~是时候制作另一个视频了.我的...我们的粉丝在等着~"
 
 
 
@@ -19,88 +19,88 @@ label G_action_sha_2_sexpartner:
     label G_action_sha_2_sexpartner_choice_1:
 
     menu:
-        "Do it" if True:
+        "做" if True:
 
 
-            player "Alright, let’s do it."
+            player "好吧,来吧."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "一段时间后..."
 
             scene g_action_sha_2_10 with dissolve
 
-            player "Say hi to your fans, Uno."
+            player "向你的粉丝问好,乌诺."
 
-            g "Hi... people, this is... Uno the tits slave."
+            g "Hi...大家好,我是...奶子奴隶乌诺."
 
-            player "Don’t cover your body with hands, let people see how sexy you are~"
+            player "不要用手遮住身体,让人们看到你有多性感~"
 
             scene g_action_sha_2_11 with tstmgr
 
-            g "Okay... ..."
+            g "嗯......"
 
             scene g_action_sha_2_12 with tstmgr
 
-            g "Awwwwww~~ Master, did Uno do anything wrong?"
+            g "Awwwwww~~主人,乌诺做错什么了吗?"
 
-            player "Nope, but somehow I just want to punish you right now, because I’m your master and I can do anything I want to you, right?"
+            player "Nope,我现在只想惩罚你,因为我是你的主人,我可以对你做任何我想做的事,对吧?"
 
-            g "Right... ..."
+            g "好吧......"
 
             scene g_action_sha_2_13 with tstmgr
 
             g "Awwwwwwwwwww!~~~~~~"
 
-            g "Master~~ master~~ if you keep stimulating my clitoris, I will... ..."
+            g "主人~~主人~~如果你继续刺激我的阴蒂,我会......"
 
             scene g_action_sha_2_14 with tstmgr
 
-            player "Oh, I won’t let you cum so easily. Now beg me if you want me to continue~"
+            player "Oh,我不会让你这么轻易地高潮的.如果你想让我继续,求我吧~"
 
             scene g_action_sha_2_15 with tstmgr
 
-            g "Uno... Uno wants master to keep playing my body. Uno’s body is master’s exclusive toy~"
+            g "乌诺...乌诺要主人继续玩我的身体.乌诺的身体是主人的专属玩具~"
 
-            g "Could you please... make your Uno cum, master? Your shameless tits slave wants it so bad... ..."
+            g "你能让...你的乌诺高潮吗,主人?你那不知廉耻的奶子奴隶想要......"
 
-            "Oh, I didn’t teach her to say those. She is... ... so talented at this."
+            "Oh,我没教过她这么说.她...在这方面很有天赋."
 
-            player "Alright, Uno, now serve me like the last time and you can cum with your favorite dick~"
+            player "Alright,乌诺,像上次那样伺候我,然后你就会得到你想要的鸡巴~"
 
             scene g_action_sha_2_16 with tstmgr
 
-            g "Yes... master... ..."
+            g "Yes...主人......"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "A few moments later..."
+            "不一会儿..."
 
-            g "Ahh~~ Ahh~~ Master, master, Uno wants more~~~"
+            g "Ahh~~Ahh~~主人,主人,乌诺想要更多~~~"
 
             scene g_train_sha_2_38 with dissolve
 
             pause
 
-            g "Uno... Uno is so happy~~"
+            g "乌诺...乌诺很开心~~"
 
-            g "Uno can’t see anything, but... ..."
+            g "虽然我什么也看不见,但是......"
 
-            g "I know that I served master well because master’s penis is getting so big inside my body~"
+            g "乌诺知道自己伺候的很好,因为主人的鸡巴在我的身体里越来越大了~"
 
-            player "Uno... ... ... ..."
+            player "乌诺............"
 
             scene g_train_sha_2_37 with tstmgr
 
-            g "Ahh~~~ ahh~~~ ahh~~~ master~~~"
+            g "Ahh~~~ahh~~~ahh~~~主人~~~"
 
-            g "Uno... loves... you... ..."
+            g "乌诺...爱...你......"
 
-            g "Awwwww~~~~ I’m about to... ..."
+            g "Awwwww~~~~我要......"
 
             scene g_train_sha_2_39 with tstmgr
 
@@ -110,20 +110,20 @@ label G_action_sha_2_sexpartner:
 
             g "Ohhhhhhhhhhhhhhhhh!~~~~~~~~~~"
 
-            g "*Lost consciousness* ... ... ... ..."
+            g "*失去意识*............"
 
-            player "Eh... ... Uno?"
+            player "Eh......乌诺?"
 
-            "Damn, she passed out again..."
+            "Damn,她又晕过去了..."
 
             scene g_action_sha_2_17 with tstmgr
 
-            "Ahh... nevermind, I will just enjoy play with her tits until she wakes up~"
+            "Ahh...没关系,我会一直玩到她醒来~"
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Reject her" if True:
+        "拒绝她" if True:
 
 
 
@@ -134,77 +134,77 @@ label G_action_sha_2_sexpartner:
 
             scene g_daily8_15 with tstmgr
 
-            player "Why do we have to make a video every time when we have sex? Today I want to have your horny face all to myself~"
+            player "为什么我们每次做爱的时候都要拍个视频?今天我想把你那张饥渴的脸都留给我自己~"
 
-            g "Oh, you mean... ..."
+            g "Oh,你的意思是说......"
 
-            g "Okay~~ Let’s go to my room."
+            g "Okay~~我们去我的房间吧."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "一段时间后..."
 
             scene g_action_sha_2_7 with dissolve
 
             player "Hmmmmmm... ... ... ..."
 
-            player "Why did you choose to turn your back to me?"
+            player "你为什么选择背对着我?"
 
-            g "You don’t like it?"
+            g "你不喜欢?"
 
-            player "I... I’m okay with it, but I just said that I wanted to have your horny face all to myself, and now I can’t even see your face..."
+            player "我...我没有意见,但我只是说我想独享你那张饥渴的脸,现在我连你的脸都看不到了..."
 
             scene g_action_sha_2_8 with tstmgr
 
-            g "Don’t worry, you will see it~"
+            g "别担心,你会看到的~"
 
-            player "What do you mean?"
+            player "什么意思?"
 
             g "Hee hee~~"
 
-            player "... ... Nevermind."
+            player "......无所谓了."
 
-            player "You can... start moving now~"
+            player "你可以...开始动了~"
 
-            g "Okay... ..."
+            g "嗯......"
 
             scene g_action_sha_2_9 with tstmgr
 
             pause
 
-            g "*Restrained moaning* Mmmmm~~~ so... ... so strong~"
+            g "*克制的呻吟*Mmmmm~~~好...好粗~"
 
-            g "Master’s big dick... is so strong~~"
+            g "主人的大鸡巴...好粗~~"
 
-            player "Why are you calling me master? We are not doing any role play right now."
+            player "你为什么叫我主人?我们现在没有扮演任何角色."
 
             scene g_action_sha_2_2 with tstmgr
 
             g "Hee hee~~"
 
-            player "... ... Whatever."
+            player "......算了."
 
             scene g_action_sha_2_9 with tstmgr
             play sound g_action_sha_2_9 loop
             pause
 
-            g "*Restrained moaning* Hmmmmmmmmmm... ... ... ..."
+            g "*克制的呻吟*Hmmmmmmmmmm............"
 
-            g "Awwwww... ... master... hits me more~"
+            g "Awwwww......主人...用力操我~"
 
-            g "Make my body remember... this feel~"
+            g "让我的身体记住...这个感觉~"
 
-            g "Uno... loves master’s dick... so much... ..."
+            g "乌诺...好爱主人的...鸡巴......"
 
-            g "Uno is... is... ..."
+            g "乌诺要...要......"
 
             scene g_action_sha_2_3 with tstmgr
 
             $ flashlight()
 
-            g "Cuming!!!~~~~~"
+            g "高潮了!!!~~~~~"
 
             stop sound
             scene g_action_sha_2_4 with tstmgr
@@ -214,7 +214,7 @@ label G_action_sha_2_sexpartner:
 
             g "Ohhhhhhhhhhhhhhhh~~~~~"
 
-            player "Uno... ..."
+            player "乌诺......"
 
             scene g_action_sha_2_5 with tstmgr
 
@@ -224,9 +224,9 @@ label G_action_sha_2_sexpartner:
 
             scene g_action_sha_2_6 with tstmgr
 
-            player "What’s that ‘yeah’ for?"
+            player "“Yeah”是什么意思?"
 
-            player "Wait, is that a camera on your table? Did you just record everything? Oh... man... ..."
+            player "等等,你桌子上的是照相机吗?你把一切都录下来了吗?Oh...伙计......"
 
             g "Hee hee~"
 
