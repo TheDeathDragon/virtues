@@ -94,7 +94,7 @@ screen main_menu():
                 text "更新日志" size 20
                 action ShowTransient("update_note", transition=Dissolve(0.2))
 
-        text "在{font=[gui.name_text_font]}↑{/font}支持我们":
+        text "在Patreon上{font=[gui.name_text_font]}↑{/font}支持我们":
             xalign 1.0 yalign 1.0 size 24 xoffset -4
 
         button:

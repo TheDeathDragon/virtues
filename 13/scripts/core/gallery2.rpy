@@ -74,7 +74,7 @@ screen gallery():
 
     default tab = "Vera"
 
-    use game_menu("Gallery")
+    use game_menu("画廊")
 
     vbox:
         ypos 240 ysize 730
@@ -151,9 +151,9 @@ screen gallery_navigation():
         style_group "gallery"
         align (.98, .98)
 
-        textbutton _("prev")
-        textbutton _("next")
-        textbutton _("return") action Return()
+        textbutton _("上一个")
+        textbutton _("下一个")
+        textbutton _("返回") action Return()
 
 python:
     style.gallery = Style(style.default)

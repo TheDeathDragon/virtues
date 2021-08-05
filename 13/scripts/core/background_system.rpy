@@ -180,7 +180,7 @@ init python:
     BackgroundSystem.add("d_normal_1", None, ["学生制服"], [],
         "艾琳是一个好学生~艾琳是一个好学生~~"),
     BackgroundSystem.add("d_normal_2", None, ["猫制服"], ["D_love_6"],
-        "Meow~~ Meow~~ Meow meow meow~~~")
+        "喵~~ 喵~~ 喵 喵 喵~~~")
     BackgroundSystem.add("g_normal_1", None, ["coser制服"], [],
         "Hi,我的房东先生~")
 
@@ -219,13 +219,13 @@ init python:
         "跟上,牛仔.太阳就要落山了~")
 
 
-    BackgroundSystem.add("c_v11_10", password_for_10, ["[reward_str_for_10] Theodora 女仆装"], [],
+    BackgroundSystem.add("c_v11_10", password_for_10, ["[reward_str_for_10] 狄奥多拉女仆装"], [],
         "先别烦我，我还有工作要做...")
-    BackgroundSystem.add("d_v11_10", password_for_10, ["[reward_str_for_10] Irene 女仆装"], [],
+    BackgroundSystem.add("d_v11_10", password_for_10, ["[reward_str_for_10] 艾琳女仆装"], [],
         "艾琳把拖把放在哪里了?... ...")
-    BackgroundSystem.add("e_v11_20", password_for_20, ["[reward_str_for_20] Elisa 女皇"], [],
+    BackgroundSystem.add("e_v11_20", password_for_20, ["[reward_str_for_20] 女皇伊丽莎"], [],
         "欢迎回来，我的国王~")
-    BackgroundSystem.add("g_v11_20", password_for_20, ["[reward_str_for_20] 被俘的警察 Uno"], [],
+    BackgroundSystem.add("g_v11_20", password_for_20, ["[reward_str_for_20] 乌诺警察"], [],
         "Wuuuuuummmmmmmmmmm~~~~~~~~")
 
 

@@ -126,7 +126,7 @@ screen bnb():
                     text "${}/天".format(get_bnb_revenue())
                 vbox:
                     text "[bnb.expanse.name]"
-                    text "$[bnb.expanse.value]/Week"
+                    text "$[bnb.expanse.value]/周"
 
                 null height 20
 
@@ -346,7 +346,7 @@ init -1 python:
         @property
         def expanse(self):
             expanse = self.lease + self.maintenance_fee + Attr.sum([room.expanse for room in self.rooms])
-            expanse.name = "指出"
+            expanse.name = "支出"
             return expanse
         
         @property

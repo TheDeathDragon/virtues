@@ -481,7 +481,7 @@ screen about():
 
 
 
-    use game_menu(_("About"), scroll="viewport"):
+    use game_menu(_("关于"), scroll="viewport"):
 
         style_prefix "about"
 
@@ -1081,7 +1081,7 @@ screen skip_indicator():
         has hbox:
             spacing 6
 
-        text _("Skipping")
+        text _("快进中")
 
         text ">" at delayed_blink(0.0, 1.0)
         text ">" at delayed_blink(0.2, 1.0)
