@@ -6,7 +6,7 @@
       "cg": "a_livingroom_1",
       "period": ["LateNight"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Vera and Uno are having a good conversation.", "... ... ... ..."]
+      "text": ["薇拉和乌诺正在进行愉快的交谈.", "... ... ... ..."]
     },
     {
       "nz": "AG",
@@ -24,7 +24,7 @@
       "action": ["livingroom"],
       "cg": "a_livingroom_2",
       "period": ["LateNight"],
-      "text": ["Vera is having a nap on the couch. Maybe she is too tired.", "... ... ... ..."]
+      "text": ["薇拉正在沙发上打盹。也许她太累了.", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -32,7 +32,7 @@
       "action": ["livingroom"],
       "cg": "a_livingroom_3",
       "period": ["Morning", "LateNight"],
-      "text": ["Vera is watching TV and looks a little nervous. Perhaps a thriller movie", "... ... ... ..."]
+      "text": ["薇拉正在看电视，看起来有点紧张。也许是一部惊悚电影", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -50,7 +50,7 @@
       "cg": "g_livingroom_1",
       "period": ["Morning", "Evening"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is reading a book. I wonder what book that is...", "... ... ... ..."]
+      "text": ["乌诺正在看书。我想知道那是什么书...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -59,7 +59,7 @@
       "cg": "g_livingroom_2",
       "period": ["Morning", "Evening"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is having a conversation with a guest. She doesn't talk much, but everybody likes to talk with her.", "... ... ... ..."]
+      "text": ["乌诺正在与一位客人交谈。她话不多，但每个人都喜欢和她交谈.", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -68,7 +68,7 @@
       "cg": "g_livingroom_3",
       "period": ["Morning", "Evening", "LateNight"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is shooting another video about her breasts again. Shit, why is she doing this in the public livingroom", "... ... ... ..."]
+      "text": ["乌诺又在拍摄关于她的乳房的视频了。妈的，她为什么要在公共客厅里做这个？", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -76,7 +76,7 @@
       "action": ["bathroom"],
       "cg": "a_bathroom_night_1",
       "period": ["Morning", "LateNight"],
-      "text": ["Vera is taking a bath...", "... ... ... ..."]
+      "text": ["薇拉正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -84,7 +84,7 @@
       "action": ["bathroom"],
       "cg": "a_bathroom_night_2",
       "period": ["Morning", "LateNight"],
-      "text": ["Vera is taking a bath...", "... ... ... ..."]
+      "text": ["薇拉正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -92,7 +92,7 @@
       "action": ["bathroom"],
       "cg": "a_bathroom_night_3",
       "period": ["Morning", "LateNight"],
-      "text": ["Vera is taking a bath...", "... ... ... ..."]
+      "text": ["薇拉正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -101,7 +101,7 @@
       "cg": "g_bathroom_day_1",
       "period": ["Morning"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -110,7 +110,7 @@
       "cg": "g_bathroom_day_2",
       "period": ["Morning"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -119,7 +119,7 @@
       "cg": "g_bathroom_day_3",
       "period": ["Morning"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -128,7 +128,7 @@
       "cg": "g_bathroom_night_1",
       "period": ["Evening", "LateNight"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -137,7 +137,7 @@
       "cg": "g_bathroom_night_2",
       "period": ["Evening", "LateNight"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -146,7 +146,7 @@
       "cg": "g_bathroom_night_3",
       "period": ["Evening", "LateNight"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is taking a bath...", "... ... ... ..."]
+      "text": ["乌诺正在洗澡...", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -154,7 +154,7 @@
       "action": ["toilet"],
       "cg": "a_toilet_1",
       "period": ["LateNight"],
-      "text": ["Vera is in the restroom.", "... ... ... ..."]
+      "text": ["薇拉在洗手间里.", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -171,7 +171,7 @@
       "action": ["toilet"],
       "cg": "a_toilet_2",
       "period": ["LateNight"],
-      "text": ["Vera is sleeping in the toilet  Maybe she is too tired.", "... ... ... ..."]
+      "text": ["薇拉在厕所里睡觉 也许她太累了.", "... ... ... ..."]
     },
     {
       "nz": "A",
@@ -189,7 +189,7 @@
       "cg": "g_toilet_1",
       "period": ["Morning", "Evening"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is in the restroom.", "... ... ... ..."]
+      "text": ["乌诺在洗手间里.", "... ... ... ..."]
     },
     {
       "nz": "G",
@@ -199,7 +199,7 @@
       "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
       "period": ["Morning", "Evening"],
       "pre_event": ["G_MoveIn"],
-      "text": ["Uno is shooting another video about her breasts in the toilet. Fine...", "... ... ... ..."]
+      "text": ["乌诺正在拍摄另一个关于她在厕所的胸部的视频。好吧...", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -208,7 +208,7 @@
       "cg": "d_bathroom_1",
       "period": ["Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is taking a bath…", "... ... ... ..."]
+      "text": ["艾琳正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -217,7 +217,7 @@
       "cg": "d_bathroom_2",
       "period": ["Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is taking a bath… Wait, did she notice me?", "... ... ... ..."]
+      "text": ["艾琳正在洗澡… 等等，她是不是发现我了?", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -226,7 +226,7 @@
       "cg": "d_bathroom_3",
       "period": ["Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is taking a bath…", "... ... ... ..."]
+      "text": ["艾琳正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -235,7 +235,7 @@
       "cg": "e_bathroom_1",
       "period": ["Morning", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+      "text": ["艾莉莎正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -244,7 +244,7 @@
       "cg": "e_bathroom_2",
       "period": ["Morning", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+      "text": ["艾莉莎正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -253,7 +253,7 @@
       "cg": "e_bathroom_3",
       "period": ["Morning", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+      "text": ["艾莉莎正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -262,7 +262,7 @@
       "cg": "d_toilet_#_1",
       "period": ["Morning", "Afternoon", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is in the restroom...", "... ... ... ..."]
+      "text": ["艾琳在洗手间里...", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -271,7 +271,7 @@
       "cg": "d_toilet_#_2",
       "period": ["Morning", "Afternoon", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Well, this is quite a weird position...", "... ... ... ..."]
+      "text": ["嗯，这是个相当奇怪的位置...", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -280,7 +280,7 @@
       "cg": "e_toilet_#_1",
       "period": ["Forenoon", "Afternoon", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is in the restroom…", "... ... ... ..."]
+      "text": ["艾莉莎正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -289,7 +289,7 @@
       "cg": "e_toilet_#_2",
       "period": ["Forenoon", "Afternoon", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["What is she doing? Can't see it clearly from this location", "... ... ... ..."]
+      "text": ["她在做什么？从这个位置看不清楚", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -298,7 +298,7 @@
       "cg": "d_swimpool_1",
       "period": ["Afternoon"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is in the swimming pool…", "... ... ... ..."]
+      "text": ["艾琳在游泳池里…", "... ... ... ..."]
     },
     {
       "nz": "D",
@@ -307,7 +307,7 @@
       "cg": "d_swimpool_2",
       "period": ["Afternoon"],
       "pre_event": ["pcsj"],
-      "text": ["Irene is having a nap on the beach chair…", "... ... ... ..."]
+      "text": ["艾琳在沙滩椅上小憩…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -316,7 +316,7 @@
       "cg": "e_swimpool_1",
       "period": ["Afternoon"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is in the swimming pool…", "... ... ... ..."]
+      "text": ["艾莉莎在游泳池里…", "... ... ... ..."]
     },
     {
       "nz": "E",
@@ -325,7 +325,7 @@
       "cg": "e_swimpool_2",
       "period": ["Afternoon"],
       "pre_event": ["pcsj"],
-      "text": ["Aunt Elisa is smiling at me…", "... ... ... ..."]
+      "text": ["艾莉莎在对我微笑…", "... ... ... ..."]
     },
     {
       "nz": "B",
@@ -334,7 +334,7 @@
       "cg": "b_bathroom_1",
       "period": ["Morning", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Senning is having a shower…", "... ... ... ..."]
+      "text": ["森宁正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "B",
@@ -343,7 +343,7 @@
       "cg": "b_bathroom_2",
       "period": ["Morning", "Evening", "LateNight"],
       "pre_event": ["pcsj"],
-      "text": ["Senning is having a shower…", "... ... ... ..."]
+      "text": ["森宁正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "F",
@@ -352,7 +352,7 @@
       "cg": "f_bathroom_1",
       "period": ["Evening", "LateNight"],
       "pre_event": ["gysj_4"],
-      "text": ["Rachel is having a shower…", "... ... ... ..."]
+      "text": ["瑞秋正在洗澡…", "... ... ... ..."]
     },
     {
       "nz": "F",
@@ -361,6 +361,6 @@
       "cg": "f_bathroom_2",
       "period": ["Evening", "LateNight"],
       "pre_event": ["gysj_4"],
-      "text": ["Rachel is having a shower…", "... ... ... ..."]
+      "text": ["瑞秋正在洗澡…", "... ... ... ..."]
     }
   ]

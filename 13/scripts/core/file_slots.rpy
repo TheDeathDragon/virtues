@@ -73,7 +73,7 @@ screen file_slots(title):
     on "show" action Function(generate_save_time)
     on "replace" action Function(generate_save_time)
 
-    default page_name_value = FilePageNameInputValue(pattern=_("Page {}"), auto=_("Automatic saves"), quick=_("Quick saves"))
+    default page_name_value = FilePageNameInputValue(pattern=_("Page {}"), auto=_("自动保存"), quick=_("快速保存"))
 
     use game_menu(title)
 
@@ -228,11 +228,11 @@ screen save_input(slot):
             xalign 0.5
             button:
                 style "name_input_button"
-                text _("Confirm") style "name_input_button_text"
+                text _("确认") style "name_input_button_text"
                 action SetVariable("save_name", save_name+desc), FileAction(slot), Hide("save_input")
 
             button:
                 style "name_input_button"
-                text _("Cancel") style "name_input_button_text"
+                text _("取消") style "name_input_button_text"
                 action Hide("save_input")
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -3,9 +3,9 @@ init python:
         r = []
         
         if seen("found_pool") and get_findee_training_level("inti") >= 2 and findee.code not in ['A']:
-            r.append(("Basement Pool", "pool"))
+            r.append(("地下泳池", "pool"))
         if seen("found_dungeon") and get_findee_training_level("sub") >= 2 and findee.code not in ['A']:
-            r.append(("Dungeon", "dungeon"))        
+            r.append(("地牢", "dungeon"))        
         if seen("found_outdoors") and get_findee_training_level("shame") >= 2 and findee.code not in ['A']:
             r.append(("Outdoors", "outdoors"))
         

@@ -1,15 +1,15 @@
 {
     "null": {
-       "CDE_Picnic": "Picnic party - Elisa's family",
-       "AG_duo": "Laundry room - Vera, Uno",
-       "DE_duo": "Swimming pool - Irene, Elisa",
-       "DG_duo_1": "Pet training - Irene, Uno"
+       "CDE_Picnic": "野餐聚会--Elisa的家庭",
+       "AG_duo": "洗衣房--薇拉、乌诺",
+       "DE_duo": "游泳池 - 艾琳，伊莉莎",
+       "DG_duo_1": "宠物训练--艾琳，乌诺"
     },
     "B": {
-       "B_Beach": "Beach - Senning",
-       "B_daily_16": "Senning's room - Senning, Uno"
+       "B_Beach": "海滩 - 森宁",
+       "B_daily_16": "森宁的房间--森宁，乌诺"
     },
     "G": {
-       "G_daily_6": "Role play - Vera, Uno"
+       "G_daily_6": "角色扮演--薇拉、乌诺"
     }
  }

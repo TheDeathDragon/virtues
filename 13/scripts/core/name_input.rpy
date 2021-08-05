@@ -56,7 +56,7 @@ screen name_input(prompt, prefix, suffix, rt=True, **kwargs):
 
         button:
             style "name_input_button"
-            text _("Confirm") style "name_input_button_text"
+            text _("确认") style "name_input_button_text"
             if rt:
                 action Return()
             else:

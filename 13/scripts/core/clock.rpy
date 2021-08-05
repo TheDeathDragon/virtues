@@ -10,7 +10,7 @@ screen bigclock():
         has vbox:
             xalign 0.2 yalign 0.5
         text _("{}").format(DAY_PERIOD_NAME[t.period])
-        text _("Week {}, {}").format(t.week, str(t.day))
+        text _("第{}周, {}").format(t.week, str(t.day))
 
 style bigclock_text:
     size 40

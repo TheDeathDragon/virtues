@@ -54,8 +54,6 @@ screen main_menu():
 
             textbutton _("读档") action ShowMenu("load")
 
-            textbutton _("加群") action OpenURL ("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
-
             textbutton _("设置") action ShowMenu("preferences")
 
             textbutton _("画廊") action ShowMenu("gallery")
@@ -85,16 +83,16 @@ screen main_menu():
 
         hbox:
             xalign .0 yalign 1.0
-            text "( version: [gui.display_version] [gui.version_suffix])":
+            text "( 版本号: [gui.display_version] [gui.version_suffix])":
                 xoffset 18 size 20
                 xalign .0 yalign 1.0
             button:
                 background Solid("2e2e2cb3", xysize=(140, 28), xoffset=4, yoffset=4)
                 xoffset 24 yoffset 6
-                text "Update Notes" size 20
+                text "更新日志" size 20
                 action ShowTransient("update_note", transition=Dissolve(0.2))
 
-        text "Support us on {font=[gui.name_text_font]}↑{/font}":
+        text "在{font=[gui.name_text_font]}↑{/font}支持我们":
             xalign 1.0 yalign 1.0 size 24 xoffset -4
 
         button:

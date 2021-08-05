@@ -44,7 +44,7 @@ screen quit_confirm():
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
             text "想知道密码吗，请进群了解更多吧:"
             button:
-                text "{u}https://jq.qq.com/?_wv=1027&k=jKzi7gbm{/u}" style "link"
+                text "{u}点击加群{/u}" style "link"
                 action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
 
 

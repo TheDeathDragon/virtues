@@ -78,7 +78,7 @@ screen home():
                         action [Hide("home"), Function(run_label, name="sleep_%s" % nz)]
                 if seen("ACG_duo_5"):
                     button:
-                        text "Your housemates"
+                        text "你的室友们"
                         action [Hide("home"), Function(run_label, name="sleep_ACG")]
 
     use top(True)

@@ -5,17 +5,17 @@ default first_clean = True
 default clean_count = 0
 label clean:
     if first_clean:
-        "In order to attract guests, we didn't charge them for any cleaning fee. But if I can clean their bedrooms with permission, maybe they will tip me some."
+        "为了吸引客人,我们没有收取任何保洁费.但是如果我能在他们允许的情况下打扫他们的卧室,也许他们会给我一些小费."
         $ first_clean = False
 
     if is_day():
         scene home_livingroom_day_background with tstmgr
     elif True:
         scene home_livingroom_night_background with tstmgr
-    narrator "I cleaned the house for a little bit, and earned some tip from the guests."
+    narrator "我打扫了一会儿房间,从客人那里得到了一些小费."
 
     $ time_proceed(1)
-    $ P.earn (50.0, "Tip")
+    $ P.earn (50.0, "小费")
     $ clean_count += 1
     jump action_post
 
@@ -33,7 +33,7 @@ label new_facility:
 
 label frontyard:
     scene home_frontyard_day_background with tstmgr
-    "I checked around, everything seems fine."
+    "我检查了一下,一切正常."
     jump action_post
 
 label livingroom:
@@ -41,19 +41,19 @@ label livingroom:
         scene home_livingroom_day_background with tstmgr
     elif True:
         scene home_livingroom_night_background with tstmgr
-    "I checked around, everything seems fine."
+    "我检查了一下,一切正常."
     jump action_post
 
 label free_money:
     "... ... ... ..."
-    "Why is there a bag on the couch."
-    "And what inside it is..."
-    "A stack of cash?"
-    "And there is a note..."
-    "A little help from devs. Good luck on your life (*^▽^*)"
+    "为什么沙发上有一个袋子."
+    "里面是什么..."
+    "一叠现金?"
+    "还有个备注..."
+    "来自开发者的一点帮助.祝你好运(*^▽^*)"
     "... ... ... ..."
-    "What are devs? This is so weird."
-    "But... I think I'm going to take this money anyway."
+    "什么是开发者?这太奇怪了."
+    "但是...我想我还是收下这笔钱."
     "... ... ... ..."
     $ P.cash.add(2000)
     $ free_money = True
@@ -61,23 +61,23 @@ label free_money:
 
 label kitchen:
     scene home_kitchen_day_background with tstmgr
-    "I checked around, everything seems fine."
+    "我检查了一下,一切正常."
     jump action_post
 
 label bathroom:
     scene home_shower_day_background with tstmgr
-    "I checked around, everything seems fine."
+    "我检查了一下,一切正常."
     jump action_post
 
 label toilet:
 
-    "I checked around, everything seems fine."
+    "我检查了一下,一切正常."
     jump action_post
 
 default build_pool_count = 0
 label build_pool:
     scene void with tstmgr
-    "I spent some hours on building the pool... ..."
+    "我花了几个小时建游泳池......"
     $ build_pool_count += 1
     $ time_proceed(1)
     jump action_post

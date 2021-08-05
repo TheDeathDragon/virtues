@@ -230,7 +230,7 @@ label course:
     if not seen('B_love_1'):
         scene class_background with tstmgr
         "我去上课,花了一些时间学习."
-        "我试着和森柠说话,但她还是生我的气."
+        "我去上课,花了一些时间学习."
         "... ... ... ..."
     else:
         scene go_to_class with tstmgr

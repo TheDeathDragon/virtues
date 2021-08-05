@@ -13,7 +13,7 @@ init python:
 
     Room.type_names = {
         "basic": "客房",
-        "private": "主卧室",
+        "private": "主卧",
         "facility": "公共区域"
     }
 

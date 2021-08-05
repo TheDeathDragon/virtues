@@ -21,19 +21,19 @@ screen bonus_chapters():
                 spacing 16
                 button:
                     add "bonus1_thumbnail"
-                    action OpenURL('https://www.patreon.com/posts/32612707')
-                text "{a=https://www.patreon.com/posts/32612707}Bonus Chapter 1{/a}" yalign 0.5
+                    action OpenURL('https://jq.qq.com/?_wv=1027&k=jKzi7gbm')
+                text "{a=https://jq.qq.com/?_wv=1027&k=jKzi7gbm}Bonus Chapter 1{/a}" yalign 0.5
             hbox:
                 spacing 16
                 button:
                     add "bonus3_thumbnail"
-                    action OpenURL('https://www.patreon.com/posts/40351525')
-                text "{a=https://www.patreon.com/posts/40351525}Bonus Chapter 3{/a}" yalign 0.5
+                    action OpenURL('https://jq.qq.com/?_wv=1027&k=jKzi7gbm')
+                text "{a=https://jq.qq.com/?_wv=1027&k=jKzi7gbm}Bonus Chapter 3{/a}" yalign 0.5
 
         hbox:
             spacing 16
             button:
                 add "bonus2_thumbnail"
-                action OpenURL('https://www.patreon.com/posts/35693091')
-            text "{a=https://www.patreon.com/posts/35693091}Bonus Chapter 2{/a}" yalign 0.5
+                action OpenURL('https://jq.qq.com/?_wv=1027&k=jKzi7gbm')
+            text "{a=https://jq.qq.com/?_wv=1027&k=jKzi7gbm}Bonus Chapter 2{/a}" yalign 0.5
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -393,7 +393,7 @@ screen game_menu(title, scroll=None, yinitial=0.0):
 
                 transclude
 
-    textbutton _("Return"):
+    textbutton _("返回"):
         style "return_button"
 
         action Return()
@@ -492,7 +492,7 @@ screen about():
 
 
             if gui.about:
-                text "感谢游玩我们的游戏！"
+                text "感谢游玩！"
                 add seperator
                 text "[gui.about!t]"
                 add seperator
@@ -501,7 +501,7 @@ screen about():
                 text "[gui.about2!t]"
                 add seperator
 
-            text _("{size=-4}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]{/size}")
+            text _("{size=-4}此汉化由@那年雪落，@御坂，@琰SAMA制作，仅供交流学习使用 {a=https://jq.qq.com/?_wv=1027&k=jKzi7gbm/}点击加群{/a}{/size}")
 
 
 
@@ -770,7 +770,7 @@ screen history():
                     substitute False
 
         if not _history_list:
-            label _("The dialogue history is empty.")
+            label _("对话历史是空的.")
 
 
 
@@ -858,55 +858,55 @@ screen keyboard_help():
 
     hbox:
         label _("Enter")
-        text _("Advances dialogue and activates the interface.")
+        text _("推进对话并激活界面.")
 
     hbox:
         label _("Space")
-        text _("Advances dialogue without selecting choices.")
+        text _("推进对话而不作选择.")
 
     hbox:
         label _("Arrow Keys")
-        text _("Navigate the interface.")
+        text _("界面导航.")
 
     hbox:
         label _("Escape")
-        text _("Accesses the game menu.")
+        text _("打开游戏菜单.")
 
     hbox:
         label _("Ctrl")
-        text _("Skips dialogue while held down.")
+        text _("按住时跳过对话.")
 
     hbox:
         label _("Tab")
-        text _("Toggles dialogue skipping.")
+        text _("切换对话跳转.")
 
     hbox:
         label "H"
-        text _("Hides the user interface.")
+        text _("隐藏用户界面.")
 
     hbox:
         label "~"
-        text _("Quick save and immediately exit the game.")
+        text _("快速保存并立即退出游戏.")
 
     hbox:
         label "B"
-        text _("Minimize the game window.")
+        text _("将游戏窗口最小化.")
 
     hbox:
         label "Q"
-        text _("Quick save.")
+        text _("快速保存.")
 
     hbox:
         label _("Page Up")
-        text _("Rolls back to earlier dialogue.")
+        text _("回滚剧情.")
 
     hbox:
         label _("Page Down")
-        text _("Rolls forward to later dialogue.")
+        text _("后滚剧情.")
 
     hbox:
         label "S"
-        text _("Takes a screenshot.")
+        text _("截屏.")
 
     hbox:
         label "V"

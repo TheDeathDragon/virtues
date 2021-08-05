@@ -76,9 +76,9 @@ screen room_hover(room, message=None):
             spacing 4
         text "[room.name]"
         if room.revenue > 0:
-            text "收入: $[room.revenue] /天"
+            text "收入:$[room.revenue]/天"
         if room.expanse > 0:
-            text "支出: $[room.expanse]"
+            text "支出:$[room.expanse]"
         if message:
             text "[message]"
 
