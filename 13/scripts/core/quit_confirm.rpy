@@ -42,10 +42,10 @@ screen quit_confirm():
         vbox:
             align .5, .95
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
-            text "想了解更多关于这个游戏的信息,请前往Patreon支持我们:"
+            text "想知道密码吗，请进群了解更多吧:"
             button:
-                text "{u}https://www.patreon.com/NoMeme{/u}" style "link"
-                action OpenURL("https://www.patreon.com/NoMeme")
+                text "{u}https://jq.qq.com/?_wv=1027&k=jKzi7gbm{/u}" style "link"
+                action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
 
 
     key "game_menu" action Return(False)

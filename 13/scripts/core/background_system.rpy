@@ -153,8 +153,8 @@ init python:
             relation = nz.relation
         return "{}_{}_{}_{}".format(nz.code.lower(), relation, nz.clothes, "default") 
 
-    password_for_10 = "72072"
-    password_for_20 = "00841"
+    password_for_10 = "07578"
+    password_for_20 = "78351"
     password_forbit = "𗀀"
     reward_str_for_10 = "{color=#dd6574}{size=-3}$10 奖励{/size}{/color}"
     reward_str_for_20 = "{color=#f4cc6c}{size=-3}$20 奖励{/size}{/color}"
@@ -379,6 +379,6 @@ screen bg_unlocker(bg):
 
                 action Return()
 
-        textbutton "想知道密码吗？":
+        textbutton "想知道密码吗？ ":
             action OpenURL('https://www.patreon.com/posts/43901371')
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
