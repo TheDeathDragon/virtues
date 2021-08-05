@@ -6,35 +6,35 @@ label C_train_sub_2:
 
 
 
-    "Ever since that indoor swimming pool in the basement was built, Theodora has been going there for hours almost every day."
+    "自从地下室的那个室内游泳池建成后，狄奥多拉几乎每天都会去那里玩上几个小时."
 
 
 
     scene c_train_sub_2_1 with dissolve
 
-    player "I knew you really like swimming, but I didn’t know you like it so much. I mean, there is a pool in your mother’s house too, but you didn’t seem very keen on it."
+    player "我知道你真的喜欢游泳，但我不知道你这么喜欢。我的意思是，你母亲的房子里也有一个游泳池，但你似乎并不热衷于此."
 
 
 
-    c "Well, I like this one better."
+    c "嗯，我更喜欢这个."
 
 
 
-    player "You prefer indoor pools than outdoors?"
+    player "比起室外，你更喜欢室内游泳池?"
 
 
 
     scene c_train_sub_2_2 with tstmgr
 
-    c "No, I just like this one better~"
+    c "不，我只是更喜欢这个~"
 
 
 
-    player "Because I made it for you as a gift?"
+    player "因为我把它作为礼物送给你?"
 
 
 
-    c "Whatever you think~"
+    c "随便你怎么想了~"
 
 
 
@@ -44,29 +44,29 @@ label C_train_sub_2:
 
     scene c_train_sub_2_3 with tstmgr
 
-    player "By the way, you haven’t sent me any actual gift, right?"
+    player "顺便说一句，你还没有给我送过任何实际的礼物，对吗?"
 
 
 
     scene c_train_sub_2_4 with tstmgr
 
-    c "Haven’t I?"
+    c "难道我没有?"
 
 
 
     scene c_train_sub_2_5 with tstmgr
 
-    c "Okay, I see what you are implying. What do you want?"
+    c "好吧，我知道你在暗示什么了。你想要什么？"
 
 
 
-    player "Hmmmmm... ... I don’t have anything I want in particular."
+    player "Hmmmmm... ... 我没有特别想要的东西."
 
 
 
     scene c_train_sub_2_6 with tstmgr
 
-    player "But... I will be very happy if you are willing to do one thing for me~"
+    player "但是... 如果你愿意为我做一件事，我将会非常高兴~"
 
 
 

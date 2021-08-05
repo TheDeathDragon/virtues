@@ -1,5 +1,6 @@
 label TouchHead_D_girlfriend:
 
+
     if D.clothes == 1:
 
         scene d_gf_1_smile with tstmgr

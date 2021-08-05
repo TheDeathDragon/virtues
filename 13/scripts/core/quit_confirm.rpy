@@ -42,7 +42,7 @@ screen quit_confirm():
         vbox:
             align .5, .95
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
-            text "想知道密码吗，请进群了解更多吧:"
+            text "想知道解锁密码吗，加群了解更多吧:"
             button:
                 text "{u}点击加群{/u}" style "link"
                 action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")

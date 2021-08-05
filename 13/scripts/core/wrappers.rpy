@@ -414,7 +414,7 @@ init python:
             old = available_interactions.get(nz.code, set())
             new = set(get_nz_interaction_labels(nz.code))
             for label in (new - old):
-                Push('New interaction with {} "{}" unlocked.'.format(nz, get_interaction(label).name))
+                Push('新的互动与 {} "{}" 已解锁.'.format(nz, get_interaction(label).name))
             available_interactions[nz.code] = new
 
     def get_nz_clothes(nz_code):
@@ -426,7 +426,7 @@ init python:
             new = set(get_nz_clothes(nz.code))
             for clothes in (new - old):
                 if not clothes.startswith("Default"):
-                    Push('{}\'s new outfit "{}" unlocked.'.format(nz, clothes))
+                    Push('{} 的新装扮 "{}" 已解锁.'.format(nz, clothes))
             available_clothes[nz.code] = new
 
     def to_next_day():

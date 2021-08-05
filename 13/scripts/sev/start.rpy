@@ -2,7 +2,7 @@ label start:
     scene void with Dissolve(0.4)
 
     window show
-    "What's your name again?"
+    "你的名字是?"
     window hide
 
     $ P_state.name = "夜尽天明" if renpy.variant("pc") else "Leo"

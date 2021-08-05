@@ -45,7 +45,7 @@ screen main_menu():
 
             if main_menu:
 
-                textbutton _("新游戏") action [Hide("main_menu"), Show("timed_start")]
+                textbutton _("新的开始") action [Hide("main_menu"), Show("timed_start")]
 
             else:
                 textbutton _("历史") action ShowMenu("history")
@@ -55,6 +55,8 @@ screen main_menu():
             textbutton _("读档") action ShowMenu("load")
 
             textbutton _("设置") action ShowMenu("preferences")
+
+            textbutton _("加群") action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
 
             textbutton _("画廊") action ShowMenu("gallery")
 

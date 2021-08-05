@@ -551,7 +551,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_38 with tstmgr
 
-    "但至于另一个人"... ..."
+    "但至于另一个人... ..."
 
 
 

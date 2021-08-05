@@ -138,7 +138,7 @@ label C_train_inti_3:
 
 
 
-    player "再见"... ..."
+    player "再见... ..."
 
 
 
