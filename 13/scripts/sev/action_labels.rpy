@@ -590,7 +590,7 @@ label find_A_clothing:
 
         a "Hello, [P]."
 
-        a "Thanks for coming to see me. I'm bored to death right now."
+        a "谢谢你来见我。我现在无聊得要命."
 
         a "… … … …"
 
@@ -609,18 +609,18 @@ label find_A_restaurant:
     if seen("A_love_4") and not seen("A_love_5"):
         scene bar_background with tstmgr
         "... ... ... ..."
-        "Vera is not in the mood right now."
+        "维拉现在没什么心情."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
 
     scene a_restaurant_smile with tstmgr
     a "[P.name]?"
-    player "Hi, Vera."
-    a "What can I get for you?"
-    player "Nothing but a cup of beer, please. I'm just waiting for you getting off work."
+    player "嗨，维拉."
+    a "我能为你做些什么?"
+    player "请给我一杯啤酒，什么都不要。我只是在等你下班."
     scene a_restaurant_slight_surprise with tstmgr
-    a "Oh, okay..."
+    a "Oh, 好吧..."
     scene bar_background with tstmgr
     "... ... ... ..."
 
@@ -640,7 +640,7 @@ label hang_park:
         scene park_day_background with tstmgr
     else:
         scene park_night_background with tstmgr
-    "I took a walk at the park. Nothing special."
+    "我在公园里走了走。没有什么特别的."
 
     $ time_proceed(1)
     jump action_post

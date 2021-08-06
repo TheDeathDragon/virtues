@@ -5,7 +5,7 @@ label start:
     "你的名字是?"
     window hide
 
-    $ P_state.name = "夜尽天明" if renpy.variant("pc") else "Leo"
+    $ P_state.name = "夜尽天明" if renpy.variant("pc") else "夜尽天明"
     call screen name_input(prompt=_(""), prefix="我叫", suffix=".")
 
     $ hotel_room_rent = Attr(500.0, name=_("租金"))
