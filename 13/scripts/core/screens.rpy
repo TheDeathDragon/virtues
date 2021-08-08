@@ -501,7 +501,7 @@ screen about():
                 text "[gui.about2!t]"
                 add seperator
 
-            text _("{size=-4}此汉化由@那年雪落，@御坂，@琰SAMA制作，仅供交流学习使用～{/size}")
+            text _("{size=-4}此汉化由@夜尽天明发起，@御坂，@琰SAMA制作，仅供交流学习使用～{/size}")
 
 
 

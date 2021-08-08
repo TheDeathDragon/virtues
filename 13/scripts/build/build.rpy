@@ -4,8 +4,8 @@ define gui.version_suffix = ''
 define build.directory_name = 'VIRTUES-v13'
 
 
-define build_platform = "pc"
-define asset_type = "pc"
+define build_platform = "android"
+define asset_type = "android"
 define partial_build = False
 
 
