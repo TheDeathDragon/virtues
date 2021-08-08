@@ -2,37 +2,37 @@ label CDE_duo_5:
 
     scene void with tstmgr
     play music sorrow
-    "Late night, in the bathroom of Elisa’s house..."
+    "深夜，在伊丽莎家的浴室里..."
 
 
 
-    "There is a great porn show going on... ..."
+    "这里正在进行一个伟大的色情节目... ..."
 
 
 
     scene cde_duo_5_1 with dissolve
 
-    c "I... I can’t believe I’m really doing this with my mom... ..."
+    c "我... 不敢相信我真的和我妈这样做了... ..."
 
 
 
-    e "Come on, Theo, overcome the sense of embarrassment. We can do it~"
+    e "来吧，狄奥，克服尴尬的感觉.我们可以做到~"
 
 
 
-    c "Yeah, yeah... ... ... ..."
+    c "是的，是的... ... ... ..."
 
 
 
     scene cde_duo_5_3 with tstmgr
 
-    e "Do you like the way we serve, [P]?"
+    e "你喜欢我们的服务方式吗，[P]?"
 
 
 
     scene cde_duo_5_6 with tstmgr
 
-    player "Yeah... ... I feel like I am a king... ... No, even a king cannot enjoy this service."
+    player "是的... ... 我觉得我是一个国王... ... 不，即使是国王也不能享受这种服务."
 
 
 
@@ -72,17 +72,17 @@ label CDE_duo_5:
 
 
 
-    c "Sigh... ..."
+    c "唉... ..."
 
 
 
     scene cde_duo_5_7 with tstmgr
 
-    c "I have done... cleaning this leg of yours... ..."
+    c "我已经......清洁了你的这条腿... ..."
 
 
 
-    player "Thanks so much, Theo~"
+    player "非常感谢，狄奥~"
 
 
 
@@ -92,99 +92,99 @@ label CDE_duo_5:
 
 
 
-    e "Are you still feeling too embarrassing to do this with mom?"
+    e "你还在为和妈妈做这些事而感到尴尬吗?"
 
 
 
     scene cde_duo_5_9 with tstmgr
 
-    c "That’s... not actually the case."
+    c "这......实际上不是这样的."
 
 
 
-    c "I am a woman of pride. Why do I have to serve a man in such a humble way?"
+    c "我是一个骄傲的女人.为什么我必须以如此卑微的方式为一个男人服务呢?"
 
 
 
-    c "Cleaning his legs with my breasts... ... Am I a slave or what?"
+    c "用我的乳房清洁他的腿......我难道是一个奴隶吗?"
 
 
 
     scene cde_duo_5_10 with tstmgr
 
-    e "Serving the man we love is the meaning of our huge breasts’ existence. It has nothing to do with our pride~"
+    e "为我们所爱的人服务是我们巨大乳房存在的意义.这与我们的自豪感无关~"
 
 
 
-    c "Huh?"
+    c "是吗?"
 
 
 
     scene cde_duo_5_11 with tstmgr
 
-    e "These meats are nothing but burdens for us. Our back and shoulders are suffering from their weight everyday. And we don’t actually need them to be this big to feed the next generation."
+    e "这些肉类对我们来说不过是负担.我们的背部和肩部每天都在承受它们的重量.而且我们实际上不需要它们这么大来养活下一代."
 
 
 
-    e "So why women have big breasts if they have no use at all? This is not in accordance with the laws of biological evolution."
+    e "那么，如果女人的乳房没有任何用处，为什么还要有大乳房呢?这不符合生物进化的规律."
 
 
 
     scene cde_duo_5_12 with tstmgr
 
-    e "The answer is, there is only one use for them, which is to please males."
+    e "答案是，它们只有一个用途，那就是取悦男性."
 
 
 
     scene cde_duo_5_14 with tstmgr
 
-    c "Okay, that’s definitely chicanery. Don’t ever mention that in front of Irene, please, mom. She will really believe it because she is dumb."
+    c "好吧，这绝对是骗人的.永远不要在艾琳面前提到这一点，拜托，妈妈.她会真的相信的，因为她是傻瓜."
 
 
 
     scene cde_duo_5_13 with tstmgr
 
-    e "I have actually convinced myself with that ‘chicanery’ and it feels really great once you accept it~ Right now I don’t feel any embarrassed at all~"
+    e "实际上，我已经用这种 ‘诡术’ 说服了自己，一旦你接受了它，感觉真的很好~现在，我完全不觉得有任何尴尬~"
 
 
 
-    e "It’s like a self-hypnosis~"
+    e "这就像一种自我催眠f~"
 
 
 
     scene cde_duo_5_15 with tstmgr
 
-    c "Self... hypnosis... ..."
+    c "自我... 催眠... ..."
 
 
 
     scene cde_duo_5_16 with tstmgr
 
-    e "So, [P], just treat me as a server, a slave, a whatever-you-want. Serving the master of the house is my destined duty as a woman~"
+    e "所以，[P]，就把我当作一个玩物、一个奴隶、一个你想要的东西吧.为主人服务是我作为一个女人注定的职责~"
 
 
 
-    player "Elisa... ..."
+    player "伊丽莎... ..."
 
 
 
-    player "There is something I want to do for this entire time... ..."
+    player "在这整个过程中，我一直有一个想做的事情... ..."
 
 
 
-    player "I want to... ..."
+    player "我想要... ..."
 
 
 
     scene cde_duo_5_17 with tstmgr
 
-    player "Milk this meat bag like milking a real cow~~"
+    player "像给真正的牛挤奶一样给这个肉袋挤奶~~"
 
 
 
     scene cde_duo_5_18 with tstmgr
 
-    e "Awwwwwww~~~ Yes, yes~~~~"
+    e "Awwwwwww~~~ 是的, 是的~~~~"
 
 
 
@@ -214,17 +214,17 @@ label CDE_duo_5:
 
 
 
-    "Ahh~ Milking is definitely one of the best way to relieve stress, way better than crushing chip bags in a market. It’s just so good to see those white luxury liquid coming out from that nipple~"
+    "啊~挤奶绝对是缓解压力的最佳方式之一，比在市场上压碎薯片袋要好.看到那些白色的豪华液体从乳头中流出，真是太好了~"
 
 
 
     scene cde_duo_5_20 with tstmgr
 
-    e "[P]... You must be the best milker in this world~~~"
+    e "[P]... 你一定是这个世界上最好的挤奶员~~~"
 
 
 
-    player "It’s not over yet... ..."
+    player "还没结束呢... ..."
 
 
 
@@ -232,7 +232,7 @@ label CDE_duo_5:
 
     $ flashlight()
 
-    player "Now the milker wants to have a drink... ..."
+    player "现在，挤奶工想喝上一杯... ..."
 
 
 
@@ -244,31 +244,31 @@ label CDE_duo_5:
 
 
 
-    "I sucked greedily on one of Elisa’s nipples while pulling the other one wantonly."
+    "我贪婪地吮吸着伊丽莎的一个乳头，同时肆意地拉扯着另一个乳头"
 
 
 
     scene cde_duo_5_22 with tstmgr
 
-    c "Stop! You are humiliating my mom!"
+    c "住手，你在羞辱我妈妈!"
 
 
 
     scene cde_duo_5_21 with tstmgr
 
-    e "Not at all, Theo~ I’m enjoying this so much~"
+    e "一点也不，狄奥~我非常喜欢这个~"
 
 
 
     scene cde_duo_5_23 with tstmgr
 
-    c "Mom... ..."
+    c "妈... ..."
 
 
 
     scene cde_duo_5_24 with tstmgr
 
-    c "(Is it really that good to serve a man like that?)"
+    c "(为这样的人服务，真的有那么好吗?)"
 
 
 
@@ -278,11 +278,11 @@ label CDE_duo_5:
 
     scene cde_duo_5_25 with tstmgr
 
-    c "(But... I can’t do that. My nipples are too sensitive...)"
+    c "(但是... 我不能这样做.我的乳头太敏感了...)"
 
 
 
-    c "(I will just... stay here and wait until they are done... ...)"
+    c "(我将只是......留在这里，等待他们完成... ...)"
 
 
 
@@ -294,47 +294,47 @@ label CDE_duo_5:
 
 
 
-    player "Ah-huh~ I just found myself such an amazing armrest~"
+    player "啊哈~我刚刚为自己找到了这样一个神奇的扶手~"
 
 
 
-    c "Arm... armrest?"
+    c "扶... 扶手?"
 
 
 
     scene cde_duo_5_27 with tstmgr
 
-    c "How dare you... ... I am a woman of pride, you can’t humiliate me like this!"
+    c "你怎么敢......我是一个有尊严的女人，你不能这样羞辱我!"
 
 
 
     scene cde_duo_5_28 with tstmgr
 
-    c "(Armrest... ... My boobs are his armrest~~~~)"
+    c "(扶手......我的胸部是他的扶手~~~~)"
 
 
 
     scene cde_duo_5_29 with tstmgr
 
-    c "(So this is how it feels to serve a man... ... It’s so... satisfying~~~)"
+    c "(原来这就是为男人服务的感觉......它是如此......令人满意~~~)"
 
 
 
-    c "(I feel like I am now finally... useful~~~)"
+    c "(我觉得我现在终于......有用了.~~~)"
 
 
 
-    player "What makes you so happy, Theo?"
+    player "是什么让你如此快乐，狄奥?"
 
 
 
     scene cde_duo_5_30 with tstmgr
 
-    c "I am... not happy at all. I am... super angry right now... ..."
+    c "我......一点都不开心.我...现在超级生气... ..."
 
 
 
-    c "Take your hand off me, or I will... ..."
+    c "把你的手从我身上拿开，否则我就... ..."
 
 
 
@@ -346,49 +346,49 @@ label CDE_duo_5:
 
 
 
-    player "Or you will what?"
+    player "就要什么?"
 
 
 
     scene cde_duo_5_32 with tstmgr
 
-    c "I will... ... really start to enjoy being your armrest~~~~~"
+    c "我将......真正开始享受作为你的扶手的乐趣~~~~~"
 
 
 
     scene cde_duo_5_33 with tstmgr
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
-    "Theodora has never been so... submissive to me before. Is she doing the self-hypnosis thing as Elisa told her?"
+    "狄奥多拉以前从未对我如此......顺从.她在做伊丽莎告诉她的自我催眠的事情吗?"
 
 
 
     scene cde_duo_5_34 with tstmgr
 
-    "Nevermind, it doesn’t matter at all~"
+    "算了吧，这一点都不重要~"
 
 
 
     scene cde_duo_5_21 with tstmgr
 
-    "The mother and the daughter, both with the most lewdest bodies on earth, are now willing to make me happy in every humble way. They are really taking me as the master of the house."
+    "这对母女，都有地球上最淫荡的身体，现在都愿意以各种卑微的方式让我开心.她们真的把我当成了家里的主人."
 
 
 
-    "I am... so blessed."
+    "我是......如此有福."
 
 
 
-    "They gave up their dignity and pride just so they could be a part of my harem. I have to respond to their love stronger in the future... ..."
+    "他们放弃了自己的尊严和自尊，只是为了能成为我后宫的一部分.我必须在未来更有力地回应他们的爱... ..."
 
 
 
     scene void with tstmgr
 
-    "But now... just let me enjoy their service first. I wonder what else they are willing to do for me~"
+    "但现在......就先让我享受他们的服务吧.我想知道他们还愿意为我做什么~"
 
 
 
@@ -398,45 +398,45 @@ label CDE_duo_5:
 
     scene cde_duo_5_35 with dissolve
 
-    "Holy shit... ..."
+    "我的妈呀... ..."
 
 
 
-    "A double titsfuck? Oh my... this is really beyond my expectation!"
+    "双重乳交?哦，我的......这真的是超出了我的预期!"
 
 
 
-    e "We have practiced this for quite a while~"
+    e "我们已经练习了很长时间了~"
 
 
 
-    e "It’s so much harder than it looks. We have to rely on each other to hold your penis in place, and the stimulation we can give to your penis is actually weaker than a solo titjob."
+    e "这比看起来要难得多.我们必须依靠彼此来固定你的阴茎，而且我们能给你的阴茎带来的刺激实际上比单独的乳交要弱一些."
 
 
 
     scene cde_duo_5_36 with tstmgr
 
-    c "If your cock dares to get shrink... ... I will never talk to you again."
+    c "如果你的阴茎敢于收缩......我就再也不和你说话了."
 
 
 
-    player "It never will!"
+    player "永远不会!"
 
 
 
     scene cde_duo_5_35 with tstmgr
 
-    c "*Smiling* ... ... ... ..."
+    c "*微笑* ... ... ... ..."
 
 
 
     scene cde_duo_5_37 with tstmgr
 
-    c "Mom, shall we?"
+    c "妈妈，我们要不要?"
 
 
 
-    e "Yes, honey~"
+    e "是的, 宝贝~"
 
 
 
@@ -444,15 +444,15 @@ label CDE_duo_5:
 
     $ flashlight()
 
-    "Wow... ... The mother and the daughter are kissing together~ What a scene!"
+    "哇!.......这对母女在一起接吻~好一个场景!"
 
 
 
-    e "We must be... ... wummm~~~~ the most shameless mother and daughter in the world~~~ mmmmm~~~"
+    e "我们必须是......wummm~~~~ 世界上最无耻的母女~~~ mmmmm~~~"
 
 
 
-    c "Huummmm~~~ It doesn’t matter~~ at all~~~"
+    c "Huummmm~~~ 这并不重要~~根本不重要~~~"
 
 
 
@@ -466,7 +466,7 @@ label CDE_duo_5:
 
     $ flashlight()
 
-    "They suddenly pressed their tits up against each other’s. My dick was almost completely submerged by their soft meat."
+    "她们突然将她们的乳房压在对方的乳房上.我的小弟弟几乎完全被她们的软肉淹没了."
 
 
 
@@ -484,19 +484,19 @@ label CDE_duo_5:
 
     scene cde_duo_5_40 with tstmgr
 
-    "My dick was being battered by the horny meat waves like a lonely reef on the beach~ I am enjoying this so much!"
+    "我的小弟弟被淫荡的肉浪冲击着，就像海滩上的孤岛礁一样~我非常享受这种感觉!"
 
 
 
-    "It’s true that double titfuck is short at direct stimulation, but Elisa and Theo are pressing their tits as hard as they can to give me some more stimulation. Awww... these two lovely angels... ..."
+    "诚然，双重乳交在直接刺激上是贫瘠的，但伊丽莎和狄奥正在尽力按压她们的乳头，给我更多的刺激.Awww...这两个可爱的天使... ..."
 
 
 
-    "My dick is not shrinking like Theo was worried about, instead it was getting harder and harder every second."
+    "我的小弟弟并没有像狄奥担心的那样缩水，相反，它每秒钟都在变硬，变大."
 
 
 
-    "I mean, I actually don’t need any stimulation to maintain the erection at all. I’m hyped just looking at them serving me like this~"
+    "我的意思是，我实际上根本不需要任何刺激来维持勃起.看着她们这样为我服务，我就很亢奋了~"
 
 
 
@@ -538,11 +538,11 @@ label CDE_duo_5:
 
     scene cde_duo_5_43 with tstmgr
 
-    "Elisa and Theodora had to be extreme close to each other in order to press their tits as hard as they can. Their faces were almost clung together."
+    "伊丽莎和狄奥多拉不得不极力靠近对方，以便尽可能地压住她们的乳房.她们的脸几乎紧紧贴在一起."
 
 
 
-    "Thus they had to kiss each other for the entire time. Awwww~~~ They are so adorable~~~"
+    "因此，她们不得不在整个过程中互相亲吻.呜呜呜~~~她们是如此的可爱~~~"
 
 
 
@@ -554,11 +554,11 @@ label CDE_duo_5:
     play sound cumshot
     $ flashlight()
 
-    "Girls" "Awwwwwwwwwwwwww~~~~~~~~~~"
+    "女孩们" "Awwwwwwwwwwwwww~~~~~~~~~~"
 
 
 
-    "My sperm burst out and mercilessly polluting their faces and breasts."
+    "我的精子迸发出来，无情地污染了她们的脸和乳房."
 
 
 
@@ -570,11 +570,11 @@ label CDE_duo_5:
 
     scene cde_duo_5_46 with tstmgr
 
-    c "Your heart... is beating so fast, mom~"
+    c "你的心......跳得好快，妈妈~"
 
 
 
-    e "It’s always so exciting to embrace his cum on my face~"
+    e "拥抱他在我脸上的精液总是那么令人兴奋~"
 
 
 
@@ -582,27 +582,27 @@ label CDE_duo_5:
 
 
 
-    e "So, did our service please you well, our dearest master of the house?"
+    e "那么，我们的服务是否让你满意，我们最亲爱的主人?"
 
 
 
-    player "That must be... the best titjob I have ever had so far... ..."
+    player "这一定是......迄今为止我有过的最好的乳交了... ..."
 
 
 
-    e "It’s so glad to hear that~"
+    e "很高兴听到这个消息~"
 
 
 
-    e "Now that you are satisfied, you’d better dress up and leave the room now. We have been in here for too long. Irene will definitely notice something if we stay here for another 5 minutes~"
+    e "现在你满意了，你最好穿上衣服，现在就离开这个房间.我们已经在这里呆了太长时间了.如果我们在这里再呆5分钟，艾琳肯定会注意到一些东西~"
 
 
 
-    e "Theo and I will follow up after washing up ourselves quickly."
+    e "狄奥和我将在快速洗漱后跟进."
 
 
 
-    player "Sounds... good... ..."
+    player "听起来... 不错... ..."
 
 
 
