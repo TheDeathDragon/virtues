@@ -338,7 +338,7 @@ label C_train_sub_2:
 
             c "我的... 另一张嘴... ..."
 
-            player "狄奥"... ..."
+            player "狄奥... ..."
 
             scene c_train_sub_2_37 with tstmgr
 
@@ -854,7 +854,7 @@ label C_train_sub_2:
 
 
 
-    player "好吧"... ..."
+    player "好吧... ..."
 
 
 
