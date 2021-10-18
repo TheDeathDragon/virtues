@@ -5,17 +5,17 @@ label found_dungeon:
     scene void with tstmgr
     play music happy
 
-    "Early in the morning, I was cleaning the livingroom with Vera as usual..."
+    "一大早,我和薇拉像往常一样打扫客厅..."
 
 
 
     scene found_dungeon_1 with dissolve
 
-    a "[P], have you mopped the floor?"
+    a "[P],你拖地了吗?"
 
 
 
-    player "Oh, I’m on it."
+    player "Oh,我在拖."
 
 
 
@@ -25,23 +25,23 @@ label found_dungeon:
 
 
 
-    player "I’ll definitely buy a roomba for mopping..."
+    player "我一定要买个扫地机器人来拖地..."
 
 
 
     scene found_dungeon_3 with tstmgr
 
-    a "Just save some money, will you? We can handle this~"
+    a "省点钱,好吗?我们可以自己拖的~"
 
 
 
-    a "Besides, wouldn’t it make too much noise? We don’t want to wake people up at such an early time."
+    a "再说了,会不会太吵了?我们不想在这么早的时候把人们吵醒."
 
 
 
     scene found_dungeon_4 with tstmgr
 
-    player "Ehhh... ... Good point."
+    player "Ehhh......说得好."
 
 
 
@@ -53,47 +53,47 @@ label found_dungeon:
 
     scene found_dungeon_6 with tstmgr
 
-    player "Hmmmm? Why is there a scratch on the floor in front of the bookcase? Have you noticed it before?"
+    player "Hmmmm?为什么书柜前面的地板上有一道划痕?你以前注意过吗?"
 
 
 
     scene found_dungeon_7 with tstmgr
 
-    a "A scratch on the floor? Yeah, but I don’t know how to fix it."
+    a "地板上的划痕?Yeah,但我不知道该怎么修补."
 
 
 
-    player "No... it’s not about fixing... ..."
+    player "No...这不是修补的问题......"
 
 
 
     scene found_dungeon_8 with tstmgr
 
-    player "It seems like... the bookcase is a hidden door or something and the scratch was created by moving it."
+    player "似乎...书柜是一扇隐藏的门或什么东西,划痕是移动它造成的."
 
 
 
     scene found_dungeon_9 with tstmgr
 
-    a "What? A hidden door? Like in the movies?"
+    a "什么?一个隐藏的门?就像电影里一样?"
 
 
 
-    player "I don’t know... Let me check it... ..."
+    player "我不知道...让我检查一下......"
 
 
 
     scene void with tstmgr
 
-    "I groped blindly on the bookcase and tried to find if there is a switch."
+    "我在书柜上摸索着,想看看有没有开关."
 
 
 
-    a "Come on, [P], let’s just focus on the cleaning, shall we?"
+    a "拜托,[P],我们还是专心打扫吧,好吗?"
 
 
 
-    a "There is no such a thing in the real life~ You are being ridiculous."
+    a "在现实生活中根本没有这样的事情,你太荒唐了."
 
 
 
@@ -105,15 +105,15 @@ label found_dungeon:
 
 
 
-    a "What was that sound? Did you really... ..."
+    a "是什么声音?你真的......"
 
 
 
-    player "I... I guess so. There is really a switch button on the bookcase. Can you believe it?"
+    player "我...我想是这样.书架上确实有一个开关按钮.你敢信?"
 
 
 
-    "With a loud sound of gear moving, the bookcase moved itself and revealed a dark room to us."
+    "随着齿轮移动的一声巨响,书柜自己移动了,我们看到了一间黑暗的房间."
 
 
 
@@ -123,41 +123,41 @@ label found_dungeon:
 
     scene found_dungeon_10 with dissolve
 
-    a "What... is this place?"
+    a "这...是个什么地方?"
 
 
 
-    player "Oh my God. This is... this is... ..."
+    player "OhmyGod.这是...这是......"
 
 
 
     scene found_dungeon_11 with tstmgr
 
-    player "This is... a dungeon. I guess the previous owner of this house must be really into BDSM... ..."
+    player "这是...一个地牢.我猜这房子的前任主人一定很喜欢玩SM......"
 
 
 
     scene found_dungeon_12 with tstmgr
 
-    a "This is so creepy... ... Was he a criminal or something? I am scared."
+    a "这太恐怖了......他是罪犯还是什么?我害怕."
 
 
 
     scene found_dungeon_15 with tstmgr
 
-    player "Don’t worry. I will... eh... protect you."
+    player "别担心.我会...呃...保护你的."
 
 
 
     scene found_dungeon_16 with tstmgr
 
-    a "*Smiling* ... ... ... ..."
+    a "*微笑*............"
 
 
 
     scene found_dungeon_13 with tstmgr
 
-    player "And I don’t think he was a criminal. These things don’t look like the real devices of torture. See, there is a layer of sponge on the wooden horse to prevent people from getting hurt."
+    player "我不认为他是罪犯.这些东西看起来不像是真正的刑具.看,木马上有一层海绵,防止人们受伤."
 
 
 
@@ -167,11 +167,11 @@ label found_dungeon:
 
     scene found_dungeon_14 with tstmgr
 
-    a "Whatever, I’m not comfortable staying here. We should get out of this place as soon as possible and leave this place hidden as it was."
+    a "不管怎样,待在这里我觉得不舒服.我们应该尽快离开这个地方让这个地方保持原样."
 
 
 
-    player "Actually, I do have some interests in... ..."
+    player "实际上...我倒是有些兴趣......"
 
 
 
@@ -179,7 +179,7 @@ label found_dungeon:
 
 
 
-    player "Yeah, you are right, let’s go."
+    player "Yeah,你说得对,我们走吧."
 
 
 
@@ -189,11 +189,11 @@ label found_dungeon:
 
 
 
-    player "(A dungeon, huh... ... Maybe I can come up with some uses of it in the future...)"
+    player "(一个地牢,huh......也许将来我能想到它的一些用途...)"
 
-    call screen hint("From now on, you can bring your girls to the dungeon whose Submissiveness have reached level 2.")
+    call screen hint("从现在开始,你可以带你的服从度达到2级的女孩到地牢.")
 
-    call screen hint("You can do that by finding girls in their rooms and using the 'Take her to' button.")
+    call screen hint("你可以通过在女孩的房间里找到她们,并使用“带她去”按钮来做到这一点.")
 
 
     stop music fadeout 1.0

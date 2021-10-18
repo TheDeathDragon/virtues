@@ -3,19 +3,19 @@ label DE_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Elisa’s mansion..."
+    "深夜,在伊莉莎的别墅..."
 
 
 
     scene de_duo_2_1 with dissolve
 
-    "I am stuck here tonight due to the heavy rainstorm outside. It is the heaviest rainstorm in these years. The news said that the city may even be flooded tomorrow. How crazy..."
+    "由于外面下大雨,今晚我被困在这里.这是这些年来最大的一次暴雨.新闻说明天这座城市甚至可能被洪水淹没.太疯狂了..."
 
 
 
     scene de_duo_2_2 with tstmgr
 
-    "Damn, I hope my house is fine... ..."
+    "Damn,我希望我的房子没事......"
 
 
 
@@ -23,29 +23,29 @@ label DE_duo_2:
 
     $ flashlight()
 
-    "Suddenly, a deep roll of thunder crashed across the sky."
+    "突然,一声深沉的雷声划过天空."
 
 
 
     scene de_duo_2_3 with tstmgr
 
-    player "Oh, wow... ... That was scary."
+    player "Oh,wow......真可怕."
 
 
 
     scene void with tstmgr
 
-    "Soon after that, the door of my room was opened by a petite figure hurriedly and quietly."
+    "此后不久,一个娇小的身影匆匆而安静地打开了我房间的门."
 
 
 
     scene de_duo_2_4 with dissolve
 
-    player "Irene?"
+    player "艾琳?"
 
 
 
-    d "Can I... sleep with you tonight? It is thundering outside... ..."
+    d "我...今晚可以和你一起睡吗?外面在打雷......"
 
 
 
@@ -53,23 +53,23 @@ label DE_duo_2:
 
 
 
-    "Irene is that kind of person who is literally scared of thunder. I remember that she would cry at every rainy night when she was a kid."
+    "艾琳是那种真的怕雷的人.我记得她还是个孩子的时候,每个雨夜都会哭."
 
 
 
-    player "You are still afraid of thunder?"
+    player "你还是害怕打雷?"
 
 
 
     scene de_duo_2_5 with tstmgr
 
-    d "*Nodding* ... ... ... ..."
+    d "*点头*............"
 
 
 
     scene de_duo_2_6 with tstmgr
 
-    player "Alright, don’t worry, kitty, I got you here."
+    player "Alright,别担心,小猫咪,我在这儿."
 
 
 
@@ -79,85 +79,85 @@ label DE_duo_2:
 
     scene void with tstmgr
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene de_duo_2_7 with dissolve
 
-    d "I’m so glad that you are here tonight, [P]~"
+    d "我很高兴你今晚能来,[P]~"
 
 
 
-    player "So... just curious, what would you do at thunder nights if I’m not around? Will you go to your mom?"
+    player "所以...我只是好奇,打雷之夜如果我不在你会做什么?你会去找你妈妈吗?"
 
 
 
-    d "Sometimes, yeah~ But mommy always sleep very early and I don’t want to wake her up, so sometimes I would use earplugs~"
+    d "有时吧,yeah~但是妈妈总是睡得很早,我不想吵醒她,所以有时候我会戴上耳塞~"
 
 
 
-    player "Why would a 18-year-old still be afraid of thunder anyway?"
+    player "为什么一个18岁的年轻人还害怕打雷呢?"
 
 
 
     scene de_duo_2_8 with tstmgr
 
-    d "Hmmmm... ... Lack of security? You know, I never had a father in my life, so... ..."
+    d "Hmmmm......缺乏安全感吗?你知道,我没有爸爸,所以......"
 
 
 
-    player "Oh... ... sorry... ..."
+    player "Oh......抱歉......"
 
 
 
     scene de_duo_2_9 with tstmgr
 
-    d "Why sorry? I’m not really upset about that."
+    d "为什么抱歉?我并没有为此感到难过."
 
 
 
-    d "I don’t have a father, but I have you~ You are the only man that cares about me for all these years~"
+    d "我没有爸爸,但我有你~你是这些年来唯一关心我的男人~"
 
 
 
-    d "You are like a half-father half-brother figure to me. You are... ... the most important man in my life... ..."
+    d "你对我来说就像一个同父异母的兄弟.你是...我生命中最重要的人......"
 
 
 
     scene de_duo_2_10 with tstmgr
 
-    d "*Murmuring* That’s why... I can’t just let Theo have you all to herself... ..."
+    d "*喃喃语*这就是为什么...我不能让西奥独享你......"
 
 
 
-    player "Irene... ... ... ..."
+    player "艾琳............"
 
 
 
     scene de_duo_2_11 with tstmgr
 
-    player "I’ll always be there for you, little princess~"
+    player "我会永远在你身边,小公主~"
 
 
 
-    d "I know you will~"
+    d "我知道你会的~"
 
 
 
     scene de_duo_2_12 with tstmgr
 
-    player "Alright, just have a good sleep in my arms, princess. I’ll protect you from thunder~"
+    player "Alright,在我怀里睡个好觉,小公主.我会保护你不受雷击的~"
 
 
 
     scene de_duo_2_13 with tstmgr
 
-    d "Good night, [P]... ..."
+    d "晚安,[P]......"
 
 
 
-    player "Good night~"
+    player "晚安~"
 
 
 
@@ -167,11 +167,11 @@ label DE_duo_2:
 
     scene de_duo_2_14 with tstmgr
 
-    "Irene soon fell into sleep in my arms, soundly like a kitty. It seemed like my body has given her a great sense of security."
+    "艾琳很快就在我的怀里睡着了,像小猫一样沉沉睡去.似乎我的身体给了她很大的安全感."
 
 
 
-    "Ahhhh... ... She is just so adorable. I wish I can hold her like this every night in the future."
+    "Ahhhh......她真是太可爱了.我希望以后每天晚上都能这样抱着她."
 
 
 
@@ -181,7 +181,7 @@ label DE_duo_2:
 
     scene de_duo_2_15 with tstmgr
 
-    "*Door knocking sound* Knock... knock... ..."
+    "*敲门的声音*咚...咚......"
 
 
 
@@ -189,37 +189,37 @@ label DE_duo_2:
 
 
 
-    "My door was gently opened by someone at the next second. It was Aunt Elisa."
+    "下一秒钟,有人轻轻地打开了我的门.原来是伊莉莎阿姨."
 
 
 
     scene de_duo_2_16 with tstmgr
 
-    e "Ha, Irene is really here~"
+    e "Ha,艾琳真的在这~"
 
 
 
-    player "Aunt Elisa? You haven’t gone to bed yet?"
+    player "伊莉莎阿姨?你还没有睡觉?"
 
 
 
     scene de_duo_2_17 with tstmgr
 
-    e "The storm is so heavy today, I was worried about Irene... ..."
+    e "今天的暴风雨很大,我很担心艾琳......"
 
 
 
-    e "But I couldn’t find her in her room, thus I knew that she must be with you~"
+    e "但是我在她的房间里找不到她,所以我知道她一定和你在一起~"
 
 
 
-    e "Thank you for taking care of her, [P]..."
+    e "谢谢你对她的照顾,[P]..."
 
 
 
     scene de_duo_2_18 with tstmgr
 
-    d "*Talking in the dream* [P]... ... Love you... ..."
+    d "*梦呓*[P]......爱你......"
 
 
 
@@ -227,19 +227,19 @@ label DE_duo_2:
 
 
 
-    d "*Talking in the dream* Mommy... ... [P]... ... Theo... ... Irene... ... together forever... ..."
+    d "*梦呓*妈咪......[P]......西奥......艾琳......永远在一起......"
 
 
 
     scene de_duo_2_19 with tstmgr
 
-    e "Irene... ..."
+    e "艾琳......"
 
 
 
     scene de_duo_2_20 with tstmgr
 
-    player "I promise you, little princess, that I’ll be a part of this family and stay with you three together forever~"
+    player "我向你保证,小公主,我将一直是这个家庭的一员,永远和你们三个在一起~"
 
 
 
@@ -247,11 +247,11 @@ label DE_duo_2:
 
     $ flashlight()
 
-    e "[P]~ Auntie is so happy~"
+    e "[P]~阿姨太高兴了~"
 
 
 
-    player "Wait, wait, wait, I can’t breathe~~~"
+    player "等等,我喘不过气来了~~~"
 
 
 
@@ -261,7 +261,7 @@ label DE_duo_2:
 
 
 
-    "The next morning... ..."
+    "第二天早上......"
 
 
 
@@ -277,7 +277,7 @@ label DE_duo_2:
 
     scene de_duo_2_23 with tstmgr
 
-    d "*Waking up* ... ... ... ..."
+    d "*醒来*............"
 
 
 
@@ -287,7 +287,7 @@ label DE_duo_2:
 
 
 
-    d "Mommy?"
+    d "妈咪?"
 
 
 
@@ -299,7 +299,7 @@ label DE_duo_2:
 
     scene de_duo_2_22 with tstmgr
 
-    d "(It would be so great if I can wake up seeing this everyday~)"
+    d "(如果我每天醒来都能看到这些就太好~)"
 
 
 

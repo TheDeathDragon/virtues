@@ -3,21 +3,21 @@ label A_daily_10:
     scene a_daily10_1 with tstmgr
     play music happy
 
-    a "Welcome, [P]... ..."
+    a "欢迎光临,[P]......"
 
 
 
-    player "Vera? Why are you dressed like this?"
+    player "薇拉?你为什么穿成这样?"
 
 
 
     scene a_daily10_2 with tstmgr
 
-    a "My boss said that I should wear it several times a week... to attract consumers."
+    a "我的老板说我应该一周穿几次...为了吸引客人."
 
 
 
-    a "I think he's watched too much anime."
+    a "我觉得他动漫看多了."
 
 
 
@@ -27,115 +27,115 @@ label A_daily_10:
 
     scene a_daily10_1 with tstmgr
 
-    a "How do I look though?"
+    a "我看起来怎么样?"
 
 
 
-    player "Absolute marvelous."
+    player "妙不可言."
 
 
 
-    player "Did this truly attract more consumers?"
+    player "这真的吸引了更多的客人来到这里吗?"
 
 
 
     scene a_daily10_2 with tstmgr
 
-    a "I don’t think so. I mean, there were indeed more people coming in, but most of them came in just to take photos with me."
+    a "我不这么想.我的意思是,确实有更多的人来这里,但大多数人来这里只是为了和我拍照."
 
 
 
     scene a_daily10_3 with tstmgr
 
-    a "There was even a talent scout who asked me if I want to shoot a movie."
+    a "甚至还有一个星探问我是否想拍电影."
 
 
 
-    a "Probably porn, I guess."
+    a "可能是色情片,我猜."
 
 
 
-    player "So how did you reply to him?"
+    player "你是怎么回复他的?"
 
 
 
     scene a_daily10_4 with tstmgr
 
-    a "I... ... ... ..."
+    a "我............"
 
 
 
-    "Vera’s voice got extremely quiet."
+    "薇拉的声音变得非常安静."
 
 
 
     scene a_daily10_5 with tstmgr
 
-    a "I told him that I am married... and my husband wouldn’t allow me to do such things."
+    a "我告诉他我结婚了...我丈夫不允许我做这样的事."
 
 
 
-    player "Seems like you are a good liar."
+    player "看来你很擅长说谎."
 
 
 
     scene a_daily10_6 with tstmgr
 
-    player "So... who is that husband of yours?"
+    player "所以...那个丈夫是谁?"
 
 
 
-    a "Who do you think he is?"
+    a "你以为他是谁?"
 
 
 
     scene a_daily10_7 with tstmgr
 
-    player "Must be a super handsome guy, I guess... ..."
+    player "我猜他一定很帅吧......"
 
 
 
-    a "Stop... people will see... ..."
+    a "停...别人会看到的......"
 
 
 
     scene a_daily10_8 with tstmgr
 
-    a "I need to go back to work."
+    a "我得回去工作了."
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
-    player "But can you take this uniform home?"
+    player "但是你能把这套制服穿回家吗?"
 
 
 
     scene a_daily10_9 with tstmgr
 
-    a "Hmm... it should be fine, but why?"
+    a "Hmm...应该没问题,但为什么呢?"
 
 
 
-    player "So you can be my exclusive maid when you are home... ..."
+    player "这样你在家的时候就可以做我的专属女仆了......"
 
 
 
     scene a_daily10_10 with tstmgr
 
-    "Vera blushed and looked away."
+    "薇拉脸红,目光移开."
 
 
 
-    a "I’ll see what I can do."
+    a "我会试试的."
 
 
 
     scene a_daily10_11 with tstmgr
 
-    a "Now leave me alone. See you at home."
+    a "现在离我远点.回家见."
 
 
 

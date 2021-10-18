@@ -3,17 +3,17 @@ label E_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "I came to Aunt Elisa’s house this afternoon for the tutoring. The door is not locked, but no one seems at home."
+    "今天下午我去伊莉莎阿姨家做家教.门没锁,但似乎没人在家."
 
 
 
     scene mansion_inside_background with tstmgr
 
-    player "Weird... ..."
+    player "奇怪......"
 
 
 
-    player "Aunt Elisa? Irene? Are you there?"
+    player "伊莉莎阿姨?艾琳?有人吗?"
 
 
 
@@ -21,37 +21,37 @@ label E_love_5:
 
 
 
-    player "Irene may be on her way home right now. But where is Aunt Elisa?... ..."
+    player "艾琳现在可能正在回家的路上.可伊莉莎阿姨在哪儿?......"
 
 
 
     scene e_love_5_1 with tstmgr
 
-    "Her room is empty..."
+    "她的房间是空的..."
 
 
 
     scene mansion_swimpool_day_background with tstmgr
 
-    "And she is not at the pool, either."
+    "她也不在泳池边."
 
 
 
-    player "Hmmmmm... ... This is strange."
+    player "Hmmmmm......这很奇怪."
 
 
 
     scene void with tstmgr
 
-    player "Anyway, I’ll just go wait in the livingroom."
+    player "不管怎样,我还是去客厅等吧."
 
 
 
-    "I walked toward the livingroom, but suddenly, an urge to urinate came up so I decided to go to the toilet first."
+    "我朝客厅走去,但是突然,我有一种想小便的冲动,所以我决定先去厕所."
 
 
 
-    player "(Opening the toilet door) ... ... ... ..."
+    player "(打开厕所门)............"
 
 
 
@@ -63,47 +63,47 @@ label E_love_5:
 
 
 
-    player "What the... ... ... ..."
+    player "这他妈............"
 
 
 
     scene e_love_5_3 with tstmgr
 
-    e "Don’t look! Don’t look!"
+    e "不要看!不要看!"
 
 
 
     scene e_love_5_4 with tstmgr
 
-    player "Oh my... God... ... This is so... ..."
+    player "Oh我的...天......这太......"
 
 
 
-    player "How can you... ..."
+    player "你怎么......"
 
 
 
-    player "Are you pregnant?"
+    player "你怀孕了?"
 
 
 
     scene e_love_5_5 with tstmgr
 
-    e "No, it’s... ... ... ..."
+    e "不,这是............"
 
 
 
-    e "It is a physical defect. I once told you about it, remember?"
+    e "这是一种生理缺陷.记得吗,我曾经告诉过你?"
 
 
 
     scene e_daily4_5 with flashback
 
-    e "And I always felt inferior for myself so I am afraid to... keep an intimate relationship with a man."
+    e "我总是觉得很自卑,所以我害怕...和男人保持亲密的关系."
 
 
 
-    e "I have a physical defect..."
+    e "我有生理缺陷..."
 
 
 
@@ -115,41 +115,41 @@ label E_love_5:
 
     scene e_love_5_6 with tstmgr
 
-    e "Can you stop watching? You are embarrassing me!"
+    e "你能别看了吗?你让我好尴尬!"
 
 
 
-    player "I... I tried, but I can’t... Sorry, Aunt Elisa. I can’t move my eyes away from you."
+    player "我...我试过了,但是我做不到...对不起,伊莉莎阿姨.我的目光无法从你身上移开."
 
 
 
     scene e_love_5_7 with tstmgr
 
-    e "(Sighing) You think I am a freak, don’t you?"
+    e "(唉)你认为我是个怪人,是吗?"
 
 
 
-    player "No, definitely not... ... ... ..."
+    player "不,绝对没有............"
 
 
 
     scene e_love_5_8 with tstmgr
 
-    player "I think you look super attractive right now, Aunt Elisa."
+    player "我觉得你现在看起来很有魅力,伊莉莎阿姨."
 
 
 
-    player "I only saw women like this in hentai manga before... ..."
+    player "我以前只在变态漫画里见过这样的女人......"
 
 
 
     scene e_love_5_9 with tstmgr
 
-    e "Hentai... manga?"
+    e "变态...漫画?"
 
 
 
-    player "Oh, forget about it. What I’m trying to say is... ... Aunt Elisa, I really like the way you are right now."
+    player "Oh,当我没说.我想说的是...伊莉莎阿姨,我真的很喜欢你现在的样子."
 
 
 
@@ -159,21 +159,21 @@ label E_love_5:
 
 
 
-    e "Thank you... ..."
+    e "谢谢你......"
 
 
 
     scene e_love_5_11 with tstmgr
 
-    e "Now could you please give me some space so I can get it done quick? I have an online meeting in 10 minutes and I have to make my breasts stop leaking milk before that."
+    e "现在你能给我一点空间,让我快点完成吗?10分钟后我要参加一个网上会议,在那之前我必须让我的乳房停止泌乳."
 
 
 
-    e "Besides, it is extremely inappropriate to stare at a lady’s nude chest."
+    e "此外,盯着一个女人的裸露胸部是非常不合适的."
 
 
 
-    player "... ... Oh... sorry. I’m leaving now..."
+    player "......Oh...对不起.我现在就走..."
 
 
 
@@ -183,29 +183,29 @@ label E_love_5:
 
     scene e_love_5_12 with tstmgr
 
-    e "Wait, [P]... ..."
+    e "等等,[P]......"
 
 
 
     scene e_love_5_13 with tstmgr
 
-    e "I... I just want you to know that... ..."
+    e "我...我只是想让你知道......"
 
 
 
     scene e_love_5_14 with tstmgr
 
-    e "You are the only one besides my daughters who doesn’t discriminate this physical defect of mine. That means a lot to me, [P]."
+    e "除了我的女儿,你是唯一一个不歧视我身体缺陷的人.这对我来说意义重大,[P]."
 
 
 
-    player "There are others who... discriminate you?"
+    player "还有一些人...歧视你?"
 
 
 
     scene e_love_5_15 with tstmgr
 
-    e "(Sighing) Like my ex-husband."
+    e "(唉)就像我的前夫."
 
 
 
@@ -213,19 +213,19 @@ label E_love_5:
 
 
 
-    player "But... no matter how others think, being able to lactate is not a bad thing at all. It is a symbol of mother’s love and you should be proud of it."
+    player "但是...不管别人怎么想,能够分泌乳汁根本不是一件坏事.它是妈妈爱的象征,你应该为它感到骄傲."
 
 
 
     scene e_love_5_14 with tstmgr
 
-    e "You are so sweet... ... ... ..."
+    e "你真甜............"
 
 
 
     scene e_love_5_16 with tstmgr
 
-    e "But no, it is definitely a bad thing to me because now the milk just keeps coming out against my will. It’s so annoying..."
+    e "但不,这对我来说绝对是一件坏事,因为现在乳液总是违反我的意愿流出来.它是如此讨厌..."
 
 
 
@@ -233,95 +233,95 @@ label E_love_5:
 
 
 
-    player "Aunt Elisa... do you need my help?"
+    player "伊莉莎阿姨...你需要我帮忙吗?"
 
 
 
     scene e_love_5_12 with tstmgr
 
-    e "Your help? What do you mean?"
+    e "你帮忙?你什么意思?"
 
 
 
-    player "I mean... ... maybe I can help you do the milking..."
+    player "我的意思是...也许我可以帮你挤乳汁..."
 
 
 
     scene e_love_5_17 with tstmgr
 
-    e "What?... ..."
+    e "什么?......"
 
 
 
     scene e_love_5_18 with tstmgr
 
-    "She was shocked by my bold suggestion and her face turned red in a sudden like a teenage girl."
+    "她被我大胆的建议吓了一跳,脸一下子红了,就像一个十几岁的女孩."
 
 
 
     scene e_love_5_19 with tstmgr
 
-    e "That will be... so weird..."
+    e "这将会变得...很奇怪..."
 
 
 
-    player "Ehh... We are like family, right? Family... is supposed to help each other."
+    player "Ehh...我们就像一家人,对吧?家人...应该互相帮助."
 
 
 
-    player "I just want to help."
+    player "我只是想帮忙."
 
 
 
     scene e_love_5_18 with tstmgr
 
-    e "Okay... ..."
+    e "嗯......"
 
 
 
-    e "I guess you are right..."
+    e "我想你是对的..."
 
 
 
     scene e_love_5_20 with tstmgr
 
-    "She slightly nodded her head."
+    "她微微点了点头."
 
 
 
     scene e_love_5_21 with tstmgr
 
-    e "I’ll leave them to you, then... ..."
+    e "那我就交给你了......"
 
 
 
-    player "(Swallowing hard) Great... ... ... ..."
+    player "(使劲吞咽)好............"
 
 
 
     scene e_love_5_22 with tstmgr
 
-    "I moved behind her, and put my hands on those massive breasts."
+    "我走到她身后,把手放在她丰满的乳房上."
 
 
 
-    "Damn, these must be the biggest breasts I have ever touched in my life. They are huge, but not as saggy as they should be."
+    "Damn,这肯定是我这辈子摸过的最大的胸.它们太大了,但并不像它们应该的那样下垂."
 
 
 
-    "Somehow they maintained the delicate balance between the weight and the gravity. They still keep in a wonderful shape with good elasticity."
+    "它们在重量和重力之间保持着微妙的平衡.它们仍然保持在一个美妙的形状和良好的弹性."
 
 
 
-    "If I have to find an adjective word to describe these tits, the word will be..."
+    "如果我必须找一个形容词来形容这对奶子,这个词将是..."
 
 
 
-    "God-blessed."
+    "天赐的奶子."
 
 
 
-    "And these God-blessed tits can even lactate! Holy shit!"
+    "这些天赐的奶子甚至能分泌乳汁!Holyshit!"
 
 
 
@@ -331,61 +331,61 @@ label E_love_5:
 
 
 
-    e "(This feels... ... so comfortable...)"
+    e "(这感觉...好舒服...)"
 
 
 
-    e "(He is not trying to make me milk, he is... giving me a massage~)"
+    e "(他不是想给我挤奶,他是...给我按摩~)"
 
 
 
-    e "(And he is such an amazing massagist... ... Oh, I wish I can have it everyday.)"
+    e "(他是一个了不起的按摩师...噢,我希望每天都能这样.)"
 
 
 
-    e "(It is so tiring carrying these breasts that are so heavy and full of milk. A massage would be exactly what I need everyday.)"
+    e "(顶着这些又重又满是奶的乳房是很累人的.按摩正是我每天所需要的.)"
 
 
 
     scene e_love_5_24 with tstmgr
 
-    player "How do you feel? Aunt Elisa?"
+    player "感觉如何?伊莉莎阿姨?"
 
 
 
     scene e_love_5_25 with tstmgr
 
-    e "I feel... great... ..."
+    e "我感觉...很好......"
 
 
 
-    player "That’s good to hear. Your breasts should be fully relaxed by now. Now I’m going to start the milking."
+    player "很高兴听你这么说.你的胸现在应该完全放松了.现在我要开始挤奶了."
 
 
 
     scene e_love_5_26 with tstmgr
 
-    e "(Oh~~~ His voice is so gentle and reliable.)"
+    e "(Oh~~~他的声音是那么的温柔和可靠.)"
 
 
 
-    e "Okay... just... do whatever you need to do~"
+    e "Okay...只是...做你该做的事~"
 
 
 
-    player "It may hurt a little, Aunt Elisa."
+    player "可能会有点疼,伊莉莎阿姨."
 
 
 
     scene e_love_5_27 with tstmgr
 
-    e "Hurt?"
+    e "疼?"
 
 
 
     scene e_love_5_28 with tstmgr
 
-    "I suddenly pinched her nipples hard with my thumbs and indexfingers."
+    "我突然用拇指和食指使劲捏她的乳头."
 
 
 
@@ -393,13 +393,13 @@ label E_love_5:
 
 
 
-    e "(It hurts, but... why it made me feel even more comfortable?)"
+    e "(是有点疼,但是...为什么它让我感觉更舒服了?)"
 
 
 
     scene e_love_5_29 with tstmgr
 
-    e "The swelling pain of my breasts are getting worse. My milk... is coming out..."
+    e "我胸部的肿痛越来越严重了.我的乳汁...要出来了..."
 
 
 
@@ -409,7 +409,7 @@ label E_love_5:
 
 
 
-    "Oh my God... they are like two magnificent fountains!"
+    "OhmyGod...它们就像两个壮观的喷泉!"
 
 
 
@@ -417,121 +417,121 @@ label E_love_5:
 
 
 
-    e "You are driving me crazy!!!"
+    e "你快把我逼疯了!!!"
 
 
 
     scene e_love_5_31 with tstmgr
 
-    "She trembled hard along with the spraying of her milk. It’s like she is cuming with her nipples."
+    "随着乳汁的喷射,她剧烈地颤抖起来.就像她在用她的乳头泄了一样."
 
 
 
-    "This looks... so damn horny."
+    "这看起来...太他妈淫荡了."
 
 
 
     scene e_love_5_32 with tstmgr
 
-    e "You are... treating me... like a cow... ..."
+    e "你...对待我...像对待一头牛一样......"
 
 
 
-    player "And you seem to like me doing it, Aunt Elisa."
+    player "你似乎喜欢我这么做,伊莉莎阿姨."
 
 
 
-    e "You... bad... kid... ..."
+    e "你个...坏...孩子......"
 
 
 
-    e "(I have to... stop him, otherwise I will be addicted to his touching...)"
+    e "(我必须...阻止他,否则我会对他的抚摸上瘾...)"
 
 
 
-    e "Okay... [P]. You can release me now. I need to... join that online meeting now."
+    e "Okay...[P].你现在可以放开我了.我需要...去开会了."
 
 
 
     scene e_love_5_33 with tstmgr
 
-    player "But your milk hasn’t stopped spraying out yet."
+    player "但是你的乳汁还没有停止分泌."
 
 
 
-    e "Awwww~ but... business is business."
+    e "Awwww~但是...工作就是工作."
 
 
 
     label E_love_5_choice_1:
 
     menu:
-        "Let her go":
+        "让她走":
 
 
             scene e_love_5_43 with tstmgr
 
-            player "Well, if you say so..."
+            player "Well,如果你这么说的话..."
 
             e "Ah?"
 
-            "She seemed to be surprised at me letting her go so easily, and a little disappointed as well."
+            "她似乎对我如此轻易地让她走感到惊讶,也有点失望."
 
             scene e_love_5_44 with tstmgr
 
-            e "Okay... ..."
+            e "嗯......"
 
             scene e_love_5_45 with tstmgr
 
-            e "Irene will be home anytime. You should go wait her in her room."
+            e "艾琳随时都会回来.你应该去她的房间等她."
 
-            e "See you... later."
+            e "回头...见."
 
             scene void with tstmgr
 
-            "She left the room with embarrassment in a hurry."
+            "她尴尬地匆匆离开了房间."
 
             player "... ... ... ..."
 
             "... ... ... ... ... ..."
-        "Don’t let her go":
+        "别让她走":
 
 
 
 
             scene e_love_5_34 with tstmgr
 
-            player "Forget the meeting. You are the boss, you can do whatever you like."
+            player "忘掉会议.你是老板,你可以做任何你喜欢的事."
 
-            player "Let’s keep going until your milk runs out."
+            player "让我们继续,直到你的牛奶流完."
 
-            e "But... ..."
+            e "但是......"
 
             scene e_love_5_35 with tstmgr
 
             e "Ohhhhhhhhh~~~~~~"
 
-            e "It feels so good!~~~~~"
+            e "这感觉太棒了!~~~~~"
 
-            e "(He is... abusing my tits~ but... ...)"
+            e "(他在...玩弄我的胸~但是......)"
 
-            e "(I really love a man treating me in such a rough way~~)"
+            e "(我真喜欢一个男人这样粗暴地对待我~~)"
 
-            e "(How can I... live without his touching after today?... ...)"
+            e "(我今后离开了他的抚摸...要怎么活?......)"
 
-            e "(I... I can’t control myself anymore!~)"
+            e "(我...我再也控制不住自己了!~)"
 
             scene e_love_5_36 with tstmgr
 
-            e "Kiss me, [P]. I want you to kiss me!"
+            e "吻我,[P].我要你吻我!"
 
-            player "Aunt Elisa... ..."
+            player "伊莉莎阿姨......"
 
             scene e_love_5_37 with tstmgr
 
             e "Awwwwwwwwwwwwwwww~~~~~~~~~"
 
-            e "No one... has kissed me like this... in 15 years... ..."
+            e "没有人...像这样吻过我...在这15年里......"
 
             e "Yes, yes, yes, yes~~~"
 
@@ -541,43 +541,43 @@ label E_love_5:
 
             "... ... ... ..."
 
-            "20 minutes later..."
+            "20分钟后..."
 
             scene e_love_5_38 with tstmgr
 
-            d "Da-da-dala! I’m home!"
+            d "Da-da-dala!我回来了!"
 
             scene e_love_5_39 with tstmgr
 
-            d "Hmmmm? Hello? Anybody?"
+            d "Hmmmm?Hello?有人吗?"
 
             scene e_love_5_40 with tstmgr
 
-            e "Oh, hi, sweetie. How was your day?"
+            e "Oh,嗨,亲爱的.你今天过得怎么样?"
 
-            d "It was fine... ... Emmmm?"
+            d "还行......Emmmm?"
 
-            d "Why do you look so... sweaty?"
+            d "你怎么看起来...出这么多汗?"
 
-            e "I was... doing yoga... ..."
+            e "我刚在...做瑜伽......"
 
-            d "With this suit on?"
+            d "穿着这套衣服?"
 
             scene e_love_5_41 with tstmgr
 
-            e "(Laughing embarrassingly) Ha... ha... ha... ..."
+            e "(尴尬的笑)Ha...ha...ha......"
 
-            e "You came home late today. [P] is already waiting for you in your room."
+            e "你今天回家晚了.[P]已经在你房间等你了."
 
             d "Oh... okay... ..."
 
-            e "I'm going for a shower now. Good luck with your tutoring~"
+            e "我现在要去洗澡了.祝你家教顺利~"
 
             scene e_love_5_42 with tstmgr
 
             d "... ... ... ..."
 
-            d "Mommy looks weird today..."
+            d "妈妈今天看起来怪怪的..."
 
             scene void with tstmgr
 

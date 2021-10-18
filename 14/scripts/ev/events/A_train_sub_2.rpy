@@ -3,25 +3,25 @@ label A_train_sub_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later..."
+    "几天后..."
 
 
 
-    "Morning, Vera is working at the restaurant as always..."
+    "早上，薇拉像往常一样在餐厅工作..."
 
 
 
     scene a_train_sub_2_1 with tstmgr
 
-    a "Here is your receipt, mister, thanks for coming and have a nice day~"
+    a "这是您的收据，先生，感谢您的到来，祝您今天愉快~"
 
 
 
-    "Male Guest" "(Wow... ... Those boobs... ...)"
+    "男性客户" "(Wow... ... 这对奶子... ...)"
 
 
 
-    "Male Guest" "(I’m willing to give up everything just to get them in my hands and squeeze them hard... ...)"
+    "男性客户" "(我愿意放弃一切，只为把它们拿在手里，用力把玩... ...)"
 
 
 
@@ -31,21 +31,21 @@ label A_train_sub_2:
 
     scene a_train_sub_2_2 with tstmgr
 
-    a "(This man is staring at my breasts so blankly and it makes me uncomfortable...)"
+    a "(这个男人如此呆滞地盯着我的乳房，这让我很不舒服...)"
 
 
 
-    a "(Sigh... ... Why do I have to wear this revealing outfit and deal with these impolite guests everyday? Maybe it’s time to consider quitting this job... ...)"
+    a "(叹气... ... 为什么我必须穿上这身暴露的衣服，每天面对这些无礼的客人?也许是时候考虑辞掉这份工作了... ...)"
 
 
 
     scene a_train_sub_2_3 with tstmgr
 
-    a "(There is... ... only one man I want to serve~)"
+    a "(只有... ... 一个男人我愿意服务~)"
 
 
 
-    a "(These people... have no right to stare at his private property... ...)"
+    a "(这些人...没有权利盯着他的私人财产看... ...)"
 
 
 
@@ -53,17 +53,17 @@ label A_train_sub_2:
 
 
 
-    "Male Guest" "Wait a minute, girl..."
+    "男性客户" "等一等，小姐..."
 
 
 
     scene a_train_sub_2_4 with tstmgr
 
-    a "Anything else I can help?"
+    a "还有什么我可以帮忙的?"
 
 
 
-    "Male Guest" "Will a 30-dollar tip bring me your phone number?"
+    "男性客户" "30美元的小费能给我带来你的电话号码吗?"
 
 
 
@@ -75,111 +75,111 @@ label A_train_sub_2:
 
     scene a_train_sub_2_6 with tstmgr
 
-    a "Nope, sorry~"
+    a "不，对不起~"
 
 
 
-    "Male Guest" "How about 50?"
+    "男性客人" "How about 50?"
 
 
 
     scene a_train_sub_2_7 with tstmgr
 
-    a "It’s not about money. I am just not that kind of girl."
+    a "这不是钱的问题.我不是那种人."
 
 
 
-    a "Have a good day, mister~"
+    a "祝你有个愉快的一天，先生~"
 
 
 
     scene a_train_sub_2_8 with tstmgr
 
-    "Vera left the table and didn’t look back."
+    "薇拉离开了桌子，没有回头."
 
 
 
-    "Waitress A" "*Discussing with another waitress* Wow... ... The way Vera rejected that man was so cool!"
+    "服务员 A" "*与另一服务员讨论* Wow... ... 薇拉拒绝那个男人的方式太酷了!"
 
 
 
-    "Waitress B" "Yeah, I guess she is the only one here who has the ball to reject the asking from guests."
+    "服务员 B" "是啊，我想她是这里唯一一个有胆量拒绝客人要求的人."
 
 
 
-    "Waitress A" "Won't those guests get angry and complain to the manager?"
+    "服务员 A" "这些客人不会生气并向经理投诉吗?"
 
 
 
-    "Waitress B" "Some of them definitely will, but she won’t get any punishment at all because the manager knows how important she is to this restaurant."
+    "服务员 B" "有些人肯定会，但她根本不会受到任何惩罚，因为经理知道她对这家餐厅有多重要."
 
 
 
-    "Waitress B" "You know how bad the food is here, but a lot of people are still willing to come here everyday only to talk with Vera and get her service."
+    "服务员 B" "你知道这里的食物有多糟糕，但很多人仍然愿意每天来这里，只是为了和薇拉聊天，被她服务.."
 
 
 
     scene a_train_sub_2_9 with tstmgr
 
-    "Waitress B" "She is just... a little bit too beautiful as a server."
+    "服务员 B" "她只是... ...作为一个服务员有点太漂亮了."
 
 
 
-    "Waitress B" "Thus the manager won’t dare to punish her because he is afraid of she quiting the job. That will be such a great lose for the restaurant."
+    "服务员 B" "因此，经理不敢惩罚她，因为他担心她会辞职.这将是餐厅的一大损失.."
 
 
 
-    "Waitress A" "Wow... ... Vera is so cool!"
+    "服务员 A" "Wow... ... 薇拉太酷了!"
 
 
 
-    "Waitress A" "From now on Vera is my idol!"
+    "服务员 A" "从现在起，薇拉是我的偶像!"
 
 
 
-    "Waitress A" "Awww~~ I wish I could be as pretty as her~"
+    "服务员 A" "Awww~~ 我希望我可以像她一样漂亮~"
 
 
 
-    "Waitress A" "I wish I could have those pure pupils and that energetic smile. I wish I could stay calm and deal with every harassment properly... ..."
+    "服务员 A" "我希望我能够拥有那纯洁的瞳孔和那充满活力的笑容.我希望我能够保持冷静，妥善处理每一次骚扰.... ..."
 
 
 
-    "Waitress A" "She is like an independent princess from a Disney movie!"
+    "服务员 A" "她就像迪斯尼电影中的自强公主一样!"
 
 
 
-    "Waitress B" "Okay, this began to sound a little weird. Are you a lesbian?"
+    "服务员 B" "开始怪起来了，你是女同?"
 
 
 
-    "Waitress A" "I can be one if Vera agrees to be my girlfriend!"
+    "服务员 A" "如果薇拉同意做我的女朋友，我可以成为一个!"
 
 
 
-    "Waitress B" "Save it, I heard that she already has a boyfriend, a young rich handsome."
+    "服务员 B" "省省吧，我听说她已经有男朋友了，一个年轻的高富帅."
 
 
 
-    "Waitress A" "Oh, okay... ..."
+    "服务员 A" "Oh, 好吧... ..."
 
 
 
     scene a_train_sub_2_10 with tstmgr
 
-    "Waitress A" "I wonder how she behaves in front of her boyfriend... ... Would she stay independent and confident as she is right now, or... ..."
+    "服务员 A" "我好奇她在她男朋友面前的表现... ...她会像现在这样保持独立和自信，还是... ..."
 
 
 
-    "Waitress A" "Would she act more dirtily?... ..."
+    "服务员 A" "她会不会表现得更加淫荡?... ..."
 
 
 
-    "Waitress B" "... ... Who knows... ..."
+    "服务员 B" "... ... 谁知道呢... ..."
 
 
 
-    "Waitress A" "I think she is that kind of girl who has the sexiest body in town but surprisingly with a simple heart. She may still be a virgin!~~~"
+    "服务员 A" "我认为她是那种拥有全城最性感的身体，但出人意料地拥有一颗单纯的心的女孩.她可能仍然是一个处女!~~~"
 
 
 
@@ -189,7 +189,7 @@ label A_train_sub_2:
 
 
 
-    "Well, this little fan of Vera would be so surprised if she knows Vera’s dirty secret... ..."
+    "好吧，这个薇拉的小粉丝如果知道薇拉的肮脏秘密，一定会非常惊讶的... ..."
 
 
 
@@ -197,7 +197,7 @@ label A_train_sub_2:
 
 
 
-    "Later that night, in [P]’s room..."
+    "那天晚上，在[P]的房间里..."
 
 
 
@@ -225,67 +225,67 @@ label A_train_sub_2:
 
     scene a_train_sub_2_14 with tstmgr
 
-    "The beautiful wheat-skinned maid is standing in an extremely humiliating position and no one is coming to help her."
+    "这位美丽的麦色皮肤的女仆正处在一个极其屈辱的位置，没有人会来帮助她."
 
 
 
     scene a_train_sub_2_15 with tstmgr
 
-    "Both of her pussy and anus are penetrated by huge vibrators which are constantly vibrating in her body. She is trembling violently from this torture but still trying her best to maintain that standing position."
+    "她的小穴和后庭都被巨大的振动器插入，这些振动器在她的体内不断振动.她因这种折磨而剧烈颤抖，但仍尽力保持这种站立姿势."
 
 
 
     scene a_train_sub_2_16 with tstmgr
 
-    "The maid’s mouth is stuffed with a gag, which made her unable to speak at all. She could only let out beastly moans..."
+    "女仆的嘴里被塞上了口球，这使她根本无法说话.她只能发出野兽般的呻吟声..."
 
 
 
     scene a_train_sub_2_17 with tstmgr
 
-    "She carried a tray with her hands and held her own tits on it. She is going to dedicate this dish to her master..."
+    "她用手端着一个托盘，把自己的奶子托在上面.她要把这道菜献给她的主人..."
 
 
 
     scene a_train_sub_2_18 with tstmgr
 
-    "Which is me~"
+    "也就是我~"
 
 
 
-    "Let me be clear first, I don’t want to treat her in this way at all. She is already exhausted from work and I don’t want to bother her with any of my kinky fetish. I just want her to have a good rest."
+    "首先让我说清楚，我根本不想以这种方式对待她.她工作已经很累了，我不想用我的变态癖好来折磨她.我只是想让她好好休息一下."
 
 
 
-    "However, she found me tonight and told me that she wants to be treated badly for a night, said it was a way to reduce stress."
+    "然而，她今晚找到我，告诉我她想被狠狠地搞上一个晚上，说这是减轻压力的一种方式.."
 
 
 
-    "I felt I had no reason to reject her, so here we are... ..."
+    "我觉得我没有理由拒绝她，所以我们就变成这样了... ..."
 
 
 
-    player "Are you alright, Vera? Just shake your head if you think you can’t take it anymore."
+    player "你还好吗，薇拉?如果你觉得受不了，就摇摇头."
 
 
 
     scene a_train_sub_2_19 with tstmgr
 
-    a "*Nodding* ... ... ... ..."
+    a "*点头* ... ... ... ..."
 
 
 
-    player "Nodding instead of shaking? I see... ..."
+    player "点头而不是摇头?我明白了... ..."
 
 
 
     scene a_train_sub_2_20 with tstmgr
 
-    player "Come here, my maid, and let go of that tray~"
+    player "过来，我的女仆，放开那个托盘~"
 
 
 
-    "I pulled her a few steps closer to me, and she then broke out into a more violent shudder."
+    "我把她拉近了几步，她随即爆发出更剧烈的颤抖."
 
 
 
@@ -297,13 +297,13 @@ label A_train_sub_2:
 
 
 
-    "It seemed like she just had an orgasm by the vibrators~"
+    "她似乎刚刚在振动器里达到了高潮~"
 
 
 
     scene a_train_sub_2_22 with tstmgr
 
-    player "What a slutty maid~ How could you dare to cum before your master cums?"
+    player "淫荡的女仆！你怎么敢在你的主人射精之前高潮?"
 
 
 
@@ -313,17 +313,17 @@ label A_train_sub_2:
 
 
 
-    "The poor maid uttered two slurred syllables that no one can understand. I guess she was trying to say ‘sorry’."
+    "可怜的女佣说出了两个谁也听不懂的含糊不清的音节.我猜她是想说'对不起'."
 
 
 
     scene a_train_sub_2_24 with tstmgr
 
-    player "Nevermind, now let me take a look at the main dish tonight... ..."
+    player "算了，现在让我看看今晚的主菜吧... ..."
 
 
 
-    player "These... fun bags... ..."
+    player "这些... 有趣的包子... ..."
 
 
 
@@ -333,17 +333,17 @@ label A_train_sub_2:
 
 
 
-    player "I want you to use them to please me as you can, and if you cum again before I do, I will not have sex with you for an entire week."
+    player "我希望你能用它们来取悦我，如果你在我之前再次高潮，我将在一整个星期内不与你做爱."
 
 
 
-    player "Are you willing to do it?"
+    player "你愿意吗?"
 
 
 
     scene a_train_sub_2_26 with tstmgr
 
-    a "*Nodding* ... ... ... ..."
+    a "*点头* ... ... ... ..."
 
 
 
@@ -351,7 +351,7 @@ label A_train_sub_2:
 
 
 
-    player "Alright then, now take off the gag and do the job, my little maid."
+    player "好吧，现在摘下口球，做你的工作，我的小女仆."
 
 
 
@@ -363,7 +363,7 @@ label A_train_sub_2:
 
     scene a_train_sub_2_27 with dissolve
 
-    a "I am here to serve, master~"
+    a "主人，我为服务而生~"
 
 
 
@@ -371,29 +371,29 @@ label A_train_sub_2:
 
     $ flashlight()
 
-    a "Please relax yourself and let meeeeeeeee... ... Yihhhhhhhhhhh!!!~~~~~"
+    a "请放松自己，让我来来来来来... ... Yihhhhhhhhhhh!!!~~~~~"
 
 
 
     scene a_train_sub_2_29 with tstmgr
 
-    player "Did the vibrators just make you cum again?"
+    player "刚才振动器是不是又让你射了?"
 
 
 
     scene a_train_sub_2_30 with tstmgr
 
-    a "No... master... ... Not yet. I managed to... withhold it..."
+    a "不... 主人... ... 还没有. 我会试着... 压制住的..."
 
 
 
-    player "Huh... Then you’d better hurry up before you really do, otherwise you will have to stay with those vibrators for the next week~"
+    player "Huh... 那么你最好在你真的这样做之前抓紧时间，否则你将不得不在接下来的一周里与这些振动器呆在一起~"
 
 
 
     scene a_train_sub_2_31 with tstmgr
 
-    a "I’m on my way... ..."
+    a "正在... ..."
 
 
 
@@ -403,41 +403,41 @@ label A_train_sub_2:
 
 
 
-    a "Do you... like my service, my master?"
+    a "你... 喜欢我的服务吗, 我的主人?"
 
 
 
-    player "Ahhhh~~ You are really getting better at this... ..."
+    player "Ahhhh~~ 你在这方面真的越来越好了... ..."
 
 
 
-    a "I have been practicing it... with my mop... ..."
+    a "我有练习... 用我的拖把... ..."
 
 
 
-    a "In order to... give my master the best experience~"
+    a "为了... ...给我的主人最好的体验~"
 
 
 
-    player "Guess those people who come to your cafe everyday for you will be heart broken if they see this~"
+    player "我猜那些每天为你来咖啡馆的人如果看到这个，会心碎的~"
 
 
 
-    a "No one else... can see it. This is my secret service that only you can have~"
+    a "没有人...能看到它.这是我的秘密服务，只有你能拥有~"
 
 
 
-    a "Because... you are the real master of this humble maid~"
+    a "因为...你是这个卑微的女仆的真正主人~"
 
 
 
-    player "Vera... ... ... ..."
+    player "薇拉... ... ... ..."
 
 
 
     scene a_train_sub_2_32 with tstmgr
 
-    a "Are you going to cum very soon, my master? Because... because I feel I am almost... at my limit... ..."
+    a "你很快就会射了吗，我的主人?因为...因为我觉得我几乎...到了我的极限... ..."
 
 
 
@@ -448,44 +448,44 @@ label A_train_sub_2:
     label A_train_sub_2_choice_1:
 
     menu:
-        "Go harder on her":
+        "对她更狠一点":
 
 
             scene a_train_sub_2_33 with tstmgr
 
-            player "Are you rushing your master?"
+            player "你这是在催促你的主人吗?"
 
-            a "Awwwwwwwww~~~ Sorry, I didn’t mean to~~~"
+            a "Awwwwwwwww~~~ 对不起, 我并不是故意的~~~"
 
-            player "Bad maid... ..."
+            player "坏女仆... ..."
 
             scene a_train_sub_2_35 with tstmgr
 
             $ flashlight()
 
-            player "*Kicking on Vera's hip* ... ..."
+            player "*踢薇拉的屁股* ... ..."
 
             a "Ohhhhhhhhhh~~~"
 
             scene a_train_sub_2_33 with tstmgr
 
-            player "Just try better if you want my cum."
+            player "如果你想得到我的精液，就努力做得更好."
 
-            a "As you wish, my master~"
-        "Go easy on her":
+            a "如你所愿，我的主人~"
+        "对她宽容一点":
 
 
 
 
             scene a_train_sub_2_33 with tstmgr
 
-            player "I guess I am... ..."
+            player "或许吧... ..."
 
-            player "You are doing very well, Vera~"
+            player "你做得很好，薇拉~"
 
             scene a_train_sub_2_34 with tstmgr
 
-            a "As long as you like it, my master... ..."
+            a "只要你喜欢，我的主人... ..."
 
 
 
@@ -495,39 +495,39 @@ label A_train_sub_2:
 
 
 
-    a "Awwww~~ Please cum~~ Please cum, my master~~~ I don’t want to live without this dick for a week~~~"
+    a "Awwww~~ 请射吧~~请射吧，我的主人~~~我无法想象一周内没有这个鸡巴的生活~~~"
 
 
 
-    a "Hot dick... ... Big dick... ... My master’s mighty dick... ..."
+    a "火热的鸡巴... ... 巨大的鸡巴... ... 我的主人的强大的鸡巴... ..."
 
 
 
-    a "Please~ please~ please~ I can’t take it anymore~~"
+    a "求你了~求你了~求你了~我不能再忍受了~~"
 
 
 
-    a "The vibrators... are driving me crazy~~~"
+    a "震动器......让我抓狂~~~"
 
 
 
-    "Well, I’m definitely not really going to go a week without sex with her. I mean, what kind of punishment is that?"
+    "好吧，我肯定不会真的一周不和她做爱.有一说一，这算哪门子的惩罚?"
 
 
 
-    "I brought that up only to add some spice to this play. But... it seems like she is really taking it serious."
+    "我提出来只是为了给这出戏增加一些情趣.但是......看起来她真的在认真对待."
 
 
 
-    "She is so damn cute... ..."
+    "她真他妈的可爱... ..."
 
 
 
-    player "Alright, Vera, be prepare~"
+    player "好了，薇拉，准备好~"
 
 
 
-    player "I’m going to... ..."
+    player "我要... ..."
 
 
 
@@ -535,7 +535,7 @@ label A_train_sub_2:
     play sound cumshot
     $ flashlight()
 
-    player "Cumming!!!!!!~~~~~~"
+    player "射了!!!!!!~~~~~~"
 
 
 
@@ -553,17 +553,17 @@ label A_train_sub_2:
 
     scene a_train_sub_2_41 with tstmgr
 
-    a "Ahhhh~ So much... so hot... on my face... ..."
+    a "Ahhhh~ 这么多... ...这么热... ...在我脸上... ..."
 
 
 
     scene a_train_sub_2_42 with tstmgr
 
-    a "My master’s stinky cum... ... Finally... ..."
+    a "我主人的粘稠精液... ...终于... ..."
 
 
 
-    "And at this moment..."
+    "而此时此刻..."
 
 
 
@@ -577,7 +577,7 @@ label A_train_sub_2:
 
     scene a_train_sub_2_44 with tstmgr
 
-    "The vibrators finally made her cum..."
+    "震动器终于让她射了..."
 
 
 
@@ -595,27 +595,27 @@ label A_train_sub_2:
 
     scene a_train_sub_2_46 with tstmgr
 
-    a "That was... great... ..."
+    a "真是... 太棒了... ..."
 
 
 
     scene a_train_sub_2_47 with tstmgr
 
-    player "Did it really reduce your pressure?"
+    player "它真的能减轻你的压力吗?"
 
 
 
     scene a_train_sub_2_48 with tstmgr
 
-    a "Yes, I think so. I feel fresh now~"
+    a "是的，我想是的.我现在感觉很轻松~"
 
 
 
-    a "We should do that more often, my master~~"
+    a "我们应该更经常地这样做，我的主人~~"
 
 
 
-    player "As long as you like it, my slutty maid..."
+    player "只要你喜欢，我的淫荡女仆..."
 
 
 

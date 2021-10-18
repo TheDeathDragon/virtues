@@ -3,25 +3,25 @@ label AG_duo:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, in the laundry room."
+    "今晚晚些时候,在洗衣房."
 
 
 
     scene ag_duo1_1 with tstmgr
 
-    a "And then he said “I’m here to save my girl, you fatass prick. Let her go, I won't repeat again.”"
+    a "然后他说“我是来救我的女孩的,你这混蛋.放开她,别让我再说第二遍.”"
 
 
 
     scene ag_duo1_2 with tstmgr
 
-    g "Wow, that was epic, like something would only happen in a Visual novel game."
+    g "Wow,就像只有在视觉小说游戏中才会发生的事情一样."
 
 
 
     scene ag_duo1_3 with tstmgr
 
-    a "Yes, thank God he was there. I don't know what would have happened to me if he wasn't..."
+    a "是的,感谢上帝他在那里,否则我不知道会发生什么事."
 
 
 
@@ -31,43 +31,43 @@ label AG_duo:
 
     scene ag_duo1_4 with tstmgr
 
-    player "Hey, girls. What are you talking about?"
+    player "Hey,女孩.你在说什么?"
 
 
 
     scene ag_duo1_5 with tstmgr
 
-    g "Vera just told me about how you saved her from a bad man."
+    g "薇拉刚告诉我你是怎么把她从坏人手里救出来的."
 
 
 
-    player "Well, it’s nothing. Any gentleman would have done the same."
+    player "Well,那没什么.每个绅士都会和我做同样的事."
 
 
 
     scene ag_duo1_6 with tstmgr
 
-    player "Why are you two out here so late in only nightgowns? Aren't you worried the guests will see you?"
+    player "你们俩为什么这么晚还穿着睡衣?你不怕被客人看见吗?"
 
 
 
     scene ag_duo1_7 with tstmgr
 
-    a "We won't have any guests until next Tuesday. You should really check the reservation list. You are the boss here, after all."
+    a "我们要到下周二才会有客人.你应该花点时间查一下我们的预订单.毕竟,你是这个地方的老板."
 
 
 
-    player "Will do, ma’am. And I feel so lucky to have such a competent assistant like you."
+    player "好的女士.有你这样能干的助手,我感到很幸运."
 
 
 
     scene ag_duo1_8 with tstmgr
 
-    a "You better... ..."
+    a "我也很幸运......"
 
 
 
-    g "I always love to see Vera’s smiling face."
+    g "我总是喜欢看到薇拉的笑脸."
 
 
 
@@ -77,41 +77,41 @@ label AG_duo:
 
 
 
-    "Both of them look so damn sexy from this angle... I think I should do something."
+    "从这个角度看,她们俩都太性感了...我想我应该做点什么."
 
 
 
     label AG_duo_choice_1:
 
     menu:
-        "Touch Vera’s butt":
+        "摸薇拉的屁股":
 
 
             scene ag_duo1_10 with tstmgr
 
-            a "(Surprisedly moaning) Aww... ..."
+            a "(诧异地呻吟)Aww......"
 
             scene ag_duo1_11 with tstmgr
 
-            g "What’s wrong, Vera?"
+            g "怎么了,薇拉?"
 
             scene ag_duo1_10 with tstmgr
 
-            a "No... nothing... ... I was just... ... thinking of something."
+            a "没...没什么......我只是...在想一些东西."
 
             g "Oh, okay..."
 
             scene ag_duo1_12 with tstmgr
 
-            a "(Moaning in a slow voice) Ahh... Wmm... ..."
+            a "(缓慢的呻吟)Ahh...Wmm......"
 
-            a "Don’t... ..."
+            a "别......"
 
             scene ag_duo1_13 with tstmgr
 
-            a "(Moaning in a slow voice) No... ..."
+            a "(缓慢的呻吟)别......"
 
-            a "Stop... ... ... ..."
+            a "停下来............"
 
             scene ag_duo1_11 with tstmgr
 
@@ -119,177 +119,177 @@ label AG_duo:
 
             scene ag_duo1_14 with tstmgr
 
-            "That went very well. What should I do next?"
-        "Touch Uno’s butt":
+            "进展得很顺利.下一步我该做什么?"
+        "摸乌诺的屁股":
 
 
 
 
             scene ag_duo1_15 with tstmgr
 
-            g "(Surprisedly moaning) Aww... ..."
+            g "(诧异地呻吟)Aww......"
 
-            a "Are you okay, Uno?"
+            a "你没事吧,乌诺?"
 
             scene ag_duo1_17 with tstmgr
 
-            g "I’m fine. That was just a sneeze."
+            g "我很好.只是打了个喷嚏."
 
             a "Oh, okay..."
 
             scene ag_duo1_15 with tstmgr
 
-            g "(Moaning in a low voice) Ahh... Wmm... ..."
+            g "(低声呻吟)Ahh...Wmm......"
 
-            g "(Moaning in a low voice) Wait... a sec... ..."
+            g "(低声呻吟)等...等......"
 
             scene ag_duo1_16 with tstmgr
 
-            g "(Moaning in a low voice) Hnnng... ..."
+            g "(低声呻吟)Owwww......"
 
-            g "(Moaning in a low voice) This is not... part of our deal... ..."
+            g "(低声呻吟)这不是...我们交易的内容......"
 
             a "... ... ... ..."
 
             scene ag_duo1_18 with tstmgr
 
-            "That went very well. What should I do next?"
-        "Touch them both at the same time.":
+            "进展得很顺利.下一步我该做什么?"
+        "同时摸她们俩的屁股.":
 
 
 
 
             scene ag_duo1_19 with tstmgr
 
-            a "(Surprisedly moaning) Aww... ..."
+            a "(诧异地呻吟)Aww......"
 
-            g "(Surprisedly moaning) Wmmm... ..."
+            g "(诧异地呻吟)Wmmm......"
 
-            player "Are you guys okay?"
+            player "你们还好吗?"
 
             scene ag_duo1_20 with tstmgr
 
-            a "You... ... ... ..."
+            a "你............"
 
-            g "(Moaning) Wmmm... wmmm... ..."
+            g "(呻吟)Wmmm...wmmm......"
 
             scene ag_duo1_21 with tstmgr
 
-            a "(Moaning in a slow voice) Stop... doing this... ..."
+            a "(缓慢的呻吟)别...这样......"
 
-            g "(Moaning) Ahhh... huh... ... ..."
+            g "(呻吟)Ahhh...huh........."
 
             scene ag_duo1_22 with tstmgr
 
-            a "Uno... are you okay?..."
+            a "乌诺...你还好吗?..."
 
-            g "I'm... fine... ..."
+            g "我...很好......"
 
-            g "How about you?... You look... ... awful... ..."
+            g "你呢?...你看起来......不是很好......"
 
-            "They haven’t realized that I’m touching both of them at the same time. They are both trying to cover their lust in front of each other."
+            "她们没有意识到我同时摸了他们两个.她们都试图在对方面前掩饰自己的异常."
 
             scene ag_duo1_21 with tstmgr
 
-            "I think this went very well. What should I do next?"
-        "Do nothing":
+            "我觉得进展得很顺利.下一步我该做什么?"
+        "什么也不做":
 
 
 
 
-            "If I do anything to one of them, the other one may find out immediately. I should not take the risk."
+            "如果我对其中一个做了什么,另一个可能马上就会发现.我不应该冒这个险."
 
-            "But I think I can try something else."
+            "但我想我可以尝试不同的方法."
 
 
 
     label AG_duo_choice_2:
 
     menu:
-        "Find an excuse to stay with Vera alone":
+        "找个借口和薇拉独处":
 
 
-            player "Hey there, Uno."
+            player "嘿,乌诺."
 
-            player "Vera and I...need to discuss some business stuff right now. Can you give us a moment?"
+            player "薇拉和我...我们现在需要讨论一些生意上的事情.你能给我们一点时间吗?"
 
             scene ag_duo1_23 with tstmgr
 
-            g "(Looking at you oddly) Emm?"
+            g "(奇怪地看着你)Emm?"
 
-            g "(Looking at Vera) ... ... ... ..."
+            g "(看向薇拉)............"
 
             scene ag_duo1_24 with tstmgr
 
-            g "Okay, I’ll go."
+            g "Okay,我马上离开."
 
             scene ag_duo1_25 with tstmgr
 
-            a "Wait, you don’t have to... ... ... ..."
+            a "等等,你没必要............"
 
-            "Uno left the room with a strange smile."
+            "乌诺带着奇怪的微笑离开了房间."
 
             a "... ... ... ..."
 
             scene ag_duo1_26 with tstmgr
 
-            a "Okay, you have got what you want, what now?"
+            a "Okay,如你所愿了,现在呢?"
 
             scene ag_duo1_27 with tstmgr
 
-            player "Oh you know exactly what I want, Vera."
+            player "你知道我想要什么,薇拉."
 
             scene ag_duo1_28 with tstmgr
 
-            player "I want you... ..."
+            player "我想要你......"
 
-            a "Stop! Uno may hear us!"
+            a "停!乌诺可能会听到!"
 
             scene ag_duo1_29 with tstmgr
 
-            player "Then you’d better keep your voice down... ..."
+            player "那你最好保持沉默......"
 
-            a "No... ... Not here... please... ..."
+            a "不...别在这里...拜托......"
 
             scene ag_duo1_30 with tstmgr
 
-            a "Let’s move to your room, or my room, okay? Just... ... don’t do it here."
+            a "我们去你的房间,或者我的房间,好吗?只是...不要在这里做."
 
-            player "Sorry, but I can’t wait for any longer."
+            player "对不起,我等不了了."
 
             scene ag_duo1_31 with tstmgr
 
             a "Ahhhhh!... ... ... ..."
 
-            a "(Moaning with lust) Awww... no... ... Uh, uh, uh, uhh... ..."
+            a "(呻吟)Awww...别......Uh,uh,uh,uhh......"
 
-            player "If you keep making such perverted sounds, Uno may really notice us~"
+            player "如果你继续这样呻吟下去,乌诺可能会发现哦."
 
             scene ag_duo1_32 with tstmgr
 
-            a "But... ..."
+            a "但是......"
 
             scene ag_duo1_37 with tstmgr
             play sound ag_duo1_37 loop
             pause
 
-            player "Ahh... this is great."
+            player "Ahh...太棒了."
 
-            a "Your penis... is hitting so deep... ..."
+            a "你的...弄得太深了......"
 
-            a "It's... hurting me... ..."
+            a "你...弄疼我了......"
 
-            a "But why does it feel so... cozy?"
+            a "但为什么我感觉如此...舒服?"
 
             scene ag_duo1_33 with tstmgr
 
             g "... ... ... ..."
 
-            g "(Vera... seems to enjoy it.)"
+            g "(薇拉...似乎很享受.)"
 
             scene ag_duo1_34 with tstmgr
 
-            g "(I want to... be treated like her, too... ...)"
+            g "(我...也想要像她一样被对待......)"
 
             stop sound
             scene ag_duo1_35 with tstmgr
@@ -297,11 +297,11 @@ label AG_duo:
 
             a "Ohhhhh!! [P]!! Yeeeees!... ... ... ..."
 
-            a "I love you so much!! Yes! Yes!! Right there, right there right there!! Don't stop! Don't stop!!!"
+            a "我爱死你了!!就这样!......"
 
-            player "As you wish, Vera."
+            player "如你所愿,薇拉."
 
-            a "I’m about to cum... I’m about to cum... ..."
+            a "我要去了...我要去了......"
 
             stop sound
             scene ag_duo1_36 with tstmgr
@@ -311,79 +311,79 @@ label AG_duo:
 
             a "Ohhhhhhhhhhhh!!!... ... ... ..."
 
-            a "I’m cumming!!!"
+            a "我泄了!!!"
 
             scene ag_duo1_38 with tstmgr
 
-            player "Already lost yourself? Horny girl."
+            player "已经迷失自己了吗?淫荡的女孩."
 
-            a "I... ... ... ..."
+            a "我............"
 
-            a "Let me... take a rest."
+            a "让我...休息一下."
 
-            player "It's not over yet babe. It's my turn now."
+            player "但我还没爽呢.让我们继续."
 
             scene ag_duo1_33 with tstmgr
 
             a "Owwwww... ... [P]... ..."
 
-            a "I... ...feel... ...soooo....ohhhh"
+            a "我......Owww......"
 
             g "... ... ... ..."
 
-            g "They look so happy... ..."
+            g "他们看起来很开心......"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Some time later..."
-        "Find an excuse to stay with Uno alone":
+            "一段时间后..."
+        "找个借口和乌诺独处":
 
 
 
 
-            if G.love < 30:
-                "Further plot will be unlocked after you improve the relationship with Uno."
-                "You can always replay this event in the ‘subplay replay’ button located in your bedroom."
+            if not seen("G_love_6"):
+                "进一步的情节将在你提升与乌诺的关系后解锁."
+                "你可以在你卧室的“重播”按钮中重播这个事件."
                 jump AG_duo_choice_2
             else:
 
                 scene ag_duo1_39 with tstmgr
 
-                player "Hey, Vera, I just remembered. A guest just told me that he lost his wallet in the livingroom this afternoon. Did you find anything during cleaning?"
+                player "Hey,薇拉.一位客人刚刚告诉我,他今天下午把钱包丢在客厅了.你在打扫的时候发现什么了吗?"
 
                 scene ag_duo1_40 with tstmgr
 
-                a "Wallet? No... I haven't seen one."
+                a "钱包?No...我没看见."
 
-                a "But we should take this serious. I’m going to check the livingroom again right now."
+                a "但我们应该认真对待这个问题.我现在再去客厅看看."
 
                 scene ag_duo1_41 with tstmgr
 
-                "Vera left the room in a hurry..."
+                "薇拉匆忙地离开了房间..."
 
                 g "... ... ... ..."
 
                 scene ag_duo1_42 with tstmgr
 
-                g "You just made that up, didn’t you?"
+                g "那是你编的,对吧?"
 
-                player "How did you find out?"
+                player "你是怎么发现的?"
 
                 scene ag_duo1_43 with tstmgr
 
-                g "I was in the livingroom for the entire afternoon. No one lost anything there."
+                g "我整个下午都在客厅里.没有人丢什么东西."
 
-                player "Okay... ..."
+                player "嗯......"
 
                 scene ag_duo1_42 with tstmgr
 
                 g "... ... ... ..."
 
-                g "So... why did you want Vera to leave?"
+                g "所以...你为什么要薇拉离开?"
 
-                player "You can take a guess... ..."
+                player "你可以猜猜看......"
 
                 scene ag_duo1_44 with tstmgr
 
@@ -391,17 +391,17 @@ label AG_duo:
 
                 scene ag_duo1_45 with tstmgr
 
-                "She then removed her dress without a word. Damn...this girl expects sex more than I do"
+                "她什么也没说,只是毫不犹豫地脱下了衣服.Damn,这个女孩似乎比我更期待性爱."
 
-                player "Wow... Uno... ..."
+                player "Wow...乌诺......"
 
                 scene ag_duo1_46 with tstmgr
 
-                "I noticed that she is wearing a transparent lace underwear. It really suited her and made her even more sexier."
+                "我注意到她穿着透明的蕾丝内衣.这真的很适合她,让她更加性感."
 
                 scene ag_duo1_47 with tstmgr
 
-                g "Just make it quick, before Vera comes back."
+                g "快点,在薇拉回来之前."
 
                 player "Okay... ... ... ..."
 
@@ -409,35 +409,35 @@ label AG_duo:
 
                 "... ... ... ..."
 
-                "Five minutes later..."
+                "五分钟后..."
 
                 scene ag_duo1_48 with tstmgr
 
-                a "Wallet... wallet... wallet... wallet... ..."
+                a "钱包...钱包...钱包...钱包......"
 
-                a "No, nothing here."
+                a "No,没有在这里."
 
                 scene ag_duo1_49 with tstmgr
 
-                a "Awww... ... that’s bad. The guest must be very worried... ..."
+                a "Awww......这样不好.客人一定很担心......"
 
                 a "Hmmm... ... ... ..."
 
-                a "Wait a minute..."
+                a "等一下..."
 
                 scene ag_duo1_50 with tstmgr
 
-                a "There should be no guest in this house until next Tuesday. How could anyone lose a wallet here today?"
+                a "我记得昨天所有的客人都退房了.现在这个房子里没有客人."
 
                 a "Hmmmmmmmmmmmm... ... ... ..."
 
                 scene ag_duo1_51 with tstmgr
 
-                a "Huh... ... I think I know what’s going on here... ..."
+                a "Huh......我想我知道这是怎么回事了......"
 
                 scene void with tstmgr
 
-                "Meanwhile... ..."
+                "同时......"
 
                 scene ag_duo1_52 with dissolve
                 play sound ag_duo1_52 loop
@@ -445,17 +445,17 @@ label AG_duo:
 
                 g "Ahh~~~ ahh~~~ ahh~~~ ahh~~~"
 
-                g "So huge... so huge... ... your dick is so huge~~~"
+                g "好粗...好粗......你的鸡巴好粗~~~"
 
-                player "Vera is going to hear if you keep moaning so load~"
+                player "如果你继续这么叫薇拉会听到的~"
 
-                g "But... but... I feel... so good... ..."
+                g "但是...但是...我觉得...太棒了......"
 
                 scene ag_duo1_53 with tstmgr
 
-                g "Oh, yeah, maybe I can... ..."
+                g "Oh,yeah,或许我可以......"
 
-                "She put her braid in her mouth and bit down hard to keep quiet."
+                "她把辫子塞进嘴里,不让自己叫出声."
 
                 stop sound
                 scene ag_duo1_54 with tstmgr
@@ -464,11 +464,11 @@ label AG_duo:
 
                 g "Wmmmmmmm~~~~ wmmmmmmm~~~~ wmmmmmmmm~~~~~"
 
-                g "(Mumbling) My... pussy... is melting... ..."
+                g "(咕哝)我的...小穴...要化了......"
 
-                player "I’m going to cum, Uno!~"
+                player "我要射了,乌诺!~"
 
-                g "Me... too... ..."
+                g "我...也是......"
 
                 stop sound
                 scene ag_duo1_55 with tstmgr
@@ -477,7 +477,7 @@ label AG_duo:
 
                 g "Awwwwwwwwwwwww~~~~~~"
 
-                "Our love juices blended inside of her as we climaxed together."
+                "我们一起达到了高潮......"
 
                 scene void with tstmgr
 
@@ -485,13 +485,13 @@ label AG_duo:
 
                 scene ag_duo1_56 with tstmgr
 
-                g "My belly... is full of your cum now... ..."
+                g "我的腹部...现在满是你的精液......"
 
-                g "That was... amazing... ..."
+                g "这太...妙了......"
 
                 scene ag_duo1_57 with tstmgr
 
-                g "Vera will be so jealous if she knows what I just experienced~~~"
+                g "薇拉如果知道我刚才的经历会嫉妒的~~~"
 
                 scene void with tstmgr
 

@@ -3,7 +3,7 @@ label B_daily_10:
     scene void with tstmgr
     play music happy
 
-    player "Hi, Sen. Is my shirt ready?"
+    player "Hi,森.我的衬衫...?"
 
 
 
@@ -21,13 +21,13 @@ label B_daily_10:
 
 
 
-    player "Ehh... so, have you done washed my shirt?"
+    player "Ehh...所以,你洗完我的衬衫了吗?"
 
 
 
     scene b_daily10_2 with tstmgr
 
-    b "Oh, yeah, your shirt."
+    b "Oh,yeah,你的衬衫."
 
 
 
@@ -37,27 +37,27 @@ label B_daily_10:
 
     scene b_daily10_3 with tstmgr
 
-    b "Ehh... can I, can I keep it for a few more days?"
+    b "Ehh...我能...我能再借几天吗?"
 
 
 
-    player "Hah? What?"
+    player "Hah?什么?"
 
 
 
     scene b_daily10_4 with tstmgr
 
-    b "Oh, no, I mean, I am not able to handwash your shirt right now because... because I got a scratch on my hand. You may have to wait for a few more days."
+    b "Oh,不,我的意思是,我现在不能手洗你的衬衫,因为...因为我的手受伤了.你可能还得再等几天."
 
 
 
-    player "A scratch? Is it serious? Let me take a look."
+    player "受伤了?认真的吗?让我看看."
 
 
 
     scene b_daily10_5 with tstmgr
 
-    b "No no no no no no no! It’s just a super tiny wound. Don’t worry about me."
+    b "不不不不不不!只是个很小的伤口.别为我担心."
 
 
 
@@ -65,41 +65,41 @@ label B_daily_10:
 
 
 
-    player "But why are your face so red? Are you okay?"
+    player "但是为什么你的脸这么红?你还好吗?"
 
 
 
     scene b_daily10_4 with tstmgr
 
-    b "My... my face?"
+    b "我的...我的脸?"
 
 
 
     scene b_daily10_5 with tstmgr
 
-    b "Noth... Nothing..."
+    b "没...没什么..."
 
 
 
-    b "I need to go now. See you later."
+    b "我得走了.待会见."
 
 
 
     scene b_daily10_6 with tstmgr
 
-    "Senning ran away like a rabbit."
+    "森柠像兔子一样跑开了."
 
 
 
-    player "(Why did she act so strangely?)"
+    player "(为什么她的行为如此奇怪?)"
 
 
 
-    player "(I feel like she is hiding something?)"
+    player "(我觉得她在隐瞒什么?)"
 
 
 
-    player "(Did she lose my shirt?)"
+    player "(她把我的衬衫弄丢了吗?)"
 
 
 
@@ -107,7 +107,7 @@ label B_daily_10:
 
 
 
-    player "(Maybe I just think too much.)"
+    player "(也许我想太多了.)"
 
 
 

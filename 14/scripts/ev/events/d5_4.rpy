@@ -1,280 +1,280 @@
 label d5_4:
 
-    "A few hours later. At The Uzi bar."
+    "几个小时后.在Uzi酒吧."
 
     scene the_uzi_bar_background with tstmgr
 
     player "... ... ... ..."
 
-    player "(This place is even more fucked up than The Citidel.)"
+    player "(这地方比西蒂尔还乱.)"
 
-    player "(I still not believe that she would show up here.)"
+    player "(我还是不相信她会出现在这里.)"
 
-    "I looked around the bar and failed to find Vera. But suddenly, two servers who stand next to me start talking."
+    "我环顾了一下酒吧,没有找到薇拉."
 
-    "Girl A" "Where is that new girl? I couldn't find her anywhere."
+    "女孩A""那个新来的女孩在哪儿?我到处都找不到她."
 
-    "Girl B" "Shh..."
+    "女孩B""嘘..."
 
-    "Girl A" "What's wrong?"
+    "女孩A""怎么了?"
 
-    "Girl B" "She is in the back alley. The boss decided to deal with her himself."
+    "女孩B""她在后巷.老板决定亲自对付她."
 
-    "Girl A" "You mean... Oh my Godness."
+    "女孩A""你的意思是...,我的天啊."
 
-    player "(Eh... What are they talking about?)"
+    player "(Eh...她们在说什么?)"
 
-    player "(It doesn't feel right. I should go to that back alley to see what's going on.)"
+    player "(感觉不对.我应该去那条小巷看看发生了什么事.)"
 
     scene void with tstmgr
 
-    "I passed through the crowd quickly and soon reached the backdoor of this bar."
+    "我很快穿过人群,很快就到了这家酒吧的后门."
 
-    "Meanwhile, in the back alley."
+    "与此同时,在后巷."
 
     scene day5_a1 with tstmgr
 
-    "Bar Owner" "Such a gorgeous."
+    "酒吧老板""真漂亮."
 
-    "Bar Owner" "Those big shots will be crazy for you."
+    "酒吧老板""那些大人物会为你疯狂的."
 
     a "Hmmmmm Wmmm... ... ... ..."
 
     scene day5_a2 with tstmgr
 
-    "Bar Owner" "You don't feel any strength right now, do you? Poor girl, you should never drink anything from a stranger."
+    "酒吧老板""你现在一点力气都没有,是吗?可怜的女孩,你不应该喝陌生人的东西."
 
     scene day5_a3 with tstmgr
 
-    "Bar Owner" "Look at your pretty face."
+    "酒吧老板""看看你漂亮的脸."
 
-    "Bar Owner" "You were just hurt by a guy, right? I can tell that when I saw you in the first place."
+    "酒吧老板""你被一个男人伤过心了,对吧?当我第一次见到你的时候,我就知道了."
 
     scene day5_a4 with tstmgr
 
-    "Bar Owner" "Well... the good news is, you don't need to worry about that guy anymore."
+    "酒吧老板""Well...好消息是,你不用再担心那个家伙了."
 
-    "Bar Owner" "And the bad news is, I am going to make you my slave."
+    "酒吧老板""坏消息是,我要让你成为我的奴隶."
 
-    a "(Sobbing)... ... ... ..."
+    a "(啜泣)............"
 
-    player "(Finally arrived) Oh my... You gotta be kidding me."
+    player "(终于到了)我的...你不是在开玩笑吧."
 
-    player "That's enough, baldhead, let her go."
+    player "够了,光头,让她走."
 
     scene day5_a5 with tstmgr
 
-    "Bar Owner" "Wait, what?"
+    "酒吧老板""等等,什么?"
 
-    "Bar Owner" "Who do you think you are? No one dares to interrupt me!"
+    "酒吧老板""你以为你是谁?没有人敢打扰我!"
 
     scene day5_a6 with tstmgr
 
-    "Bar Owner" "Uh?... ..."
+    "酒吧老板""Uh?... ..."
 
-    "Bar Owner" "[P], sir?"
+    "酒吧老板""[P],先生?"
 
-    "Bar Owner" "What... What are you doing here?"
+    "酒吧老板""你...你怎么在这儿?"
 
-    player "To save my girl, you fatass prick. Let her go, I won't repeat again."
+    player "为了救我的女朋友,你这个混蛋.让她走吧,我不会再说第二遍."
 
-    "Bar Owner" "Wait, she is your girl? I thought your girlfriend is that silver-hair lady from the Shinyrost family."
+    "酒吧老板""等等,她是你的女朋友?我以为你女朋友是那个来自新光家族的银发女士."
 
-    player "It's none of your business. Release her, now!"
+    player "这不关你的事.放开她,现在!"
 
     scene day5_a7 with tstmgr
 
-    "Bar Owner" "Okay, okay. Man, I didn't know."
+    "酒吧老板""Okay,okay.伙计,我不知道."
 
-    "I held Vera in my arm."
+    "我把薇拉搂在怀里."
 
-    "Bar Owner" "Look, man, I'm sorry. It's a fucking mistake. If I have any idea... I would never... I swear to God..."
+    "酒吧老板""听着,兄弟,我很抱歉.这绝对是个误会.如果我有任何不好想法...我将天打五雷轰...我对天发誓..."
 
-    player "Now if you don't mind, I am taking her out of here."
+    player "如果你不介意,我要她带出去了."
 
-    "Bar Owner" "Of course, of course, you are the boss."
+    "酒吧老板""当然,当然,你是老板."
 
-    "Bar Owner" "I hope this mistake would not affect our friendship."
+    "酒吧老板""我希望这个误会不会影响我们的友谊."
 
     scene void with tstmgr
 
     "... ... ... ..."
 
-    "I took Vera out of this club."
+    "我把薇拉带出了酒吧."
 
     scene a_apartment_background_night with tstmgr
 
-    "I drove her to her apartment. She was trembling along the way. I wanted to say something, but didn't know where to start."
+    "我开车送她到她的公寓.她一路上都在发抖.我想说点什么,但不知从何说起."
 
-    "I parked my car in front of her apartment, but she did not leave. I knew she was too scared to go home alone after what happened earlier."
+    "我把车停在她的公寓前,但她没有下车.我知道在发生了之前的事之后,她不敢一个人回家."
     " "
-    player "Do you need me to... walk you home?"
+    player "你需要我...送你回家吗?"
     " "
-    "She thought for a while, then finally nodded her head. This poor girl is frightened. She needs someone to rely on. I'm definitely not her best choice, but I am the only one she can get for now."
+    "她想了一会儿,最后点了点头.这个可怜的女孩吓坏了.她需要有人依靠.我肯定不是她最好的选择,但现在我是她唯一的选择."
 
-    "I left the car with her, and walked alongside her to her room."
+    "我下了车,和她一起走到她的房间."
 
-    player "Do you need me to come in and stay with you for a while? I'm worried about you."
+    player "你需要我进来和你呆一会儿吗?我很担心你."
 
-    "She nodded once again."
+    "她又点了点头."
     " "
     scene day5_a9 with tstmgr
 
-    "After we got into her room, she curled her body up on the bed, looking vulnerable and helpless."
+    "我们进到她的房间后,她把身子蜷在床上,看上去既脆弱又无助."
 
-    player "So... Do you want to talk? "
+    player "所以...你想聊聊吗?"
     " "
     scene day5_a10 with tstmgr
 
     a "... ... ... ..."
     " "
-    "She opened her mouth and spoke in a tremulous voice:"
+    "她张开嘴,用颤抖的声音说:"
 
-    a "Okay... ..."
+    a "嗯......"
 
-    player "Why did you go to a place like that?"
+    player "你为什么要去那样的地方?"
 
-    a "I saw a want advertisement. That waitress job... earns a lot."
+    a "我看到一则招聘广告.那里服务员的工作...工资很高."
 
-    player "Do you have financial trouble? You can just talk to me if you need money. I am more than happy to help."
+    player "你有经济困难吗?如果你需要钱,可以找我.我很乐意帮忙."
 
     scene day5_a9 with tstmgr
 
-    a "I don't want your money."
+    a "我不想要你的钱."
 
-    player "You are so stubborn."
+    player "你还是那么固执."
 
-    "This girl has her own principles to stick to. It drives me crazy, but I started to appreciate her stubbornness in the meantime."
+    "这个女孩有她自己的原则要坚持.这让我抓狂,但同时我开始欣赏她的固执."
 
-    "But I have to find a way to help her."
+    "但我得想办法帮她."
 
-    player "May I ask, what do you need money for?"
+    player "请问,你需要钱做什么?"
 
     scene day5_a10 with tstmgr
 
     a "... ... ... ..."
 
-    "She is not sure about whether she should tell me the truth or not."
+    "她不确定是否应该告诉我真相."
 
-    a "I..."
+    a "我..."
 
-    a "I need to find a new place to live. This place is..."
+    a "我需要找个新地方住.这个地方..."
 
-    a "...not safe."
+    a "...不安全."
 
-    "She is right. Her apartment locates in the slum which is overrun by drugs, gangs, and prostitution. It is very dangerous for a pretty girl like her to live here alone."
+    "她说的没错.她的公寓位于毒品,帮派和卖淫泛滥的贫民窟.像她这样漂亮的女孩一个人住在这里是很危险的."
 
-    "Maybe I can do something to help. She said she would not accept my money, but what if..."
+    "也许我能帮点忙.她说她不会接受我的钱,但..."
 
-    player "What if I say that I can help you with it?"
+    player "如果我说我能帮你呢?"
 
     scene day5_a9 with tstmgr
 
-    a "I don't want your..."
+    a "我不要你的..."
 
-    player "For God's sake, come on. It's ok if you don't want my money, but at least you should let me help you in other ways."
+    player "看在上帝的份上,拜托.如果你不想要我的钱,没关系,但至少你应该让我在其他方面帮助你."
 
-    player "I am deeply sorry for What I did to you that night, you know I am. Otherwise I wouldn't come and save you from that pub tonight."
+    player "我为那晚对你所做的事深感抱歉,你知道的.否则我今晚就不会来救你了."
 
     a "... ... ... ..."
 
-    player "Sorry... I didn't mean to bring that up."
+    player "抱歉...我不是故意提起那件事的."
 
-    player "All I want is your forgiveness. Please let me do something for you."
+    player "我想要的只是你的原谅.请让我为你做点什么."
 
     scene day5_a10 with tstmgr
 
     a "... ... ... ..."
 
-    a "How... are you going to help me?"
+    a "你...要怎么帮我?"
 
-    "Finally, she doesn't refuse me again. Great."
+    "终于,她不再拒绝我了.太好了."
 
-    player "My dad bought a house in this city for investment three years ago. It is well decorated, and no one lives there now. You can move there if you want."
+    player "我爸爸三年前在这个城市买了一栋房子作为投资.它装修得很好,现在没有人住在那里.如果你愿意,你可以搬过去住."
 
-    a "You are offering me an empty house to live?"
+    a "你给一间房子我住?"
 
-    player "Yes, and I won't charge you for anything. It's totally free."
+    player "是的,我不收你任何费用.它是完全免费的."
 
-    player "Just take this as my apology. You can live in that house until you find a better place, as long as you want."
+    player "就当是表达我的歉意吧.只要你愿意,你可以一直住在那所房子里,直到你找到一个更好的地方."
 
-    a "Why don't you live there yourself?"
+    a "你为什么不自己住在那里呢?"
 
-    player "Me? Eh... I don't feel comfortable to live in such a big house alone. So I'm now living in a hotel suite."
+    player "我?Eh...我一个人住在这么大的房子里感到不舒服.所以我现在住在酒店套房."
 
-    a "You'd rather live in a hotel than live in your dad's house? You riches are unreasonable."
+    a "你宁愿住酒店也不愿住在你爸爸的房子里?你们富的真不合理."
 
-    player "Mock me as you like. Anyway, you are welcome to live there. No roommates, no house rent, no utility payments. The only thing you need to do is to keep that house clean."
+    player "随你怎么嘲笑我.不管怎样,欢迎你住在那里.没有室友,没有房租,没有水电费.你唯一需要做的就是保持房子干净."
 
-    a "It doesn't feel right..."
+    a "总感觉不太对..."
 
-    a "I don't trust you."
+    a "我不信任你."
 
     player "... ... ... ..."
 
-    player "I understand that."
+    player "我理解."
 
-    player "It's okay. I will find other ways to help you. I am a man of word, I won't give up until I have your forgiveness."
-
-    a "... ... ... ..."
-
-    a "Even if I trust you on that house..."
-
-    a "Will your dad agree with it? I mean, that's your dad's house, right?"
-
-    player "Don't worry, my dad will never reject me."
+    player "没关系.我会找到其他方法来帮助你.我是一个讲信用的人,我不会放弃直到我得到你的原谅."
 
     a "... ... ... ..."
 
-    player "So, do you accept my offer?"
+    a "就算我相信你..."
+
+    a "你爸爸会同意吗?我是说,那是你爸爸的房子,对吧?"
+
+    player "别担心,我爸爸永远不会拒绝我."
+
+    a "... ... ... ..."
+
+    player "那么,你接受我的提议了吗?"
 
     a "... ... ... ..."
 
     scene day5_a11 with tstmgr
 
-    a "(Relieved sighing)Okay, I accept it."
+    a "(叹息)Okay,我接受."
 
-    player "Great. I will hand you the key once I get it from my dad. It might take a few days."
+    player "太好了.一旦我从我爸爸那里拿到钥匙,我就把它交给你.这可能需要几天时间."
 
-    a "Thank you..."
+    a "谢谢你..."
 
-    player "You are welcome. Now you should get some rest. It's late."
+    player "你不用谢.现在你应该休息一下了.天色不早了."
 
-    player "I'm leaving right now."
+    player "我现在就走."
 
     scene day5_a10 with tstmgr
 
-    a "Wait."
+    a "等等."
 
     player "En?"
 
-    a "I am just wondering... why that pub boss obeys you so much?"
+    a "我只是想知道...为什么那个酒吧老板这么听你的话?"
 
-    player "He is aware of who I am and who my dad is. And he knows that my dad has the power to shut his place down in a single day. So why would he want to piss me off for a girl he doesn't even know?"
+    player "他知道我是谁,也知道我爸爸是谁.他知道我爸爸有能力在一天之内把他的店关掉.那他为什么要因为一个他不认识的女孩而惹我生气呢?"
 
     scene day5_a11 with tstmgr
 
-    a "That... makes sense..."
+    a "这...有道理..."
 
-    a "So... Who is your dad, exactly?"
+    a "所以...你爸爸到底是谁?"
 
     player "Well..."
 
-    player "He is a very powerful man in this country, that's all you need to know."
+    player "他在这个国家是个很有权势的人,你只需要知道这个就好了."
 
-    a "Fine..."
+    a "好吧..."
 
-    "I like the way she smiles. It's lovely."
+    "我喜欢她笑的样子.可爱."
 
-    player "I..."
+    player "我..."
 
     a "...?"
 
-    player "Nothing. I, I'm leaving. You take a good rest."
+    player "没什么.我马上就走.你好好休息一下."
 
-    a "...Goodnight."
+    a "...晚安."
 
-    player "Goodnight."
+    player "晚安."
 
     scene void with tstmgr
 
@@ -282,71 +282,71 @@ label d5_4:
 
     "... ... ... ... ... ..."
 
-    "Later tonight, in my hotel suite."
+    "今晚晚些时候,在我的酒店套房."
 
-    player "(Speaking on the phone) Hi dad, how are you?"
+    player "(打电话中)嗨,爸爸,你好吗?"
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    player "Hello? Anyone there?"
+    player "喂?有人吗?"
 
-    "Father" "(Breathing vigorously) Hi there, son. I'm, I'm quite busy right now. what's the matter?"
+    "爸爸""(有力的呼吸)你好,儿子.我现在很忙.出什么事了?"
 
-    player "Eh... Why are you wheezing?"
+    player "Eh...你为什么气喘?"
 
-    "Father" "I'm jogging."
+    "爸爸""我在慢跑."
 
-    player "Really, dad? You are jogging at midnight?"
+    player "爸爸,真的吗?你在午夜慢跑?"
 
     player "... ... ... ..."
 
-    player "You are fucking someone, aren't you?"
+    player "你在和别人上床,对吧?"
 
-    "Father" "For God's sake, son, just tell me what you call me for!"
+    "爸爸""看在上帝的份上,孩子,告诉我你找我干什么!"
 
-    player "Alright, alright."
+    player "好了,好了."
 
-    player "You see, dad. My birthday is about to come."
+    player "你看,爸爸.我的生日就要到了."
 
-    player "And I want a birthday gift."
+    player "我想要一份生日礼物."
 
-    "Father" "Correct me if I'm wrong, but I thought your birthday comes four months later."
+    "爸爸""如果我说错了请纠正我,我记得你的生日是四个月后."
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    "Father" "Nevermind, what do you want?"
+    "爸爸""算了,你想要什么?"
 
-    "See, my dad would never reject my requests."
+    "看,我爸爸从来不会拒绝我的要求."
 
-    player "I want the house you bought in Rosco City three years ago. I know it's empty."
+    player "我想要你三年前在罗斯科市买的房子.我知道它是空的."
 
-    "Father" "Do you and Theodora finally decide to live together?"
+    "爸爸""你和狄奥多拉终于决定住在一起了吗?"
 
     player "... ... ... ..."
 
     player "Nope..."
 
-    "Father" "Oh, so you decide to live with another girl? "
+    "爸爸""Oh,所以你决定和另一个女孩住在一起?"
 
     player "Nope..."
 
-    "Father" "You... with a boy? You know, I'm OK with..."
+    "爸爸""你...和一个男的?你知道,我不介意..."
 
-    player "Dad!"
+    player "爸爸!"
 
-    "Father" "Nevermind. You don't need to tell me the reason. I'll transfer the ownership of that house to you since that is your wish."
+    "爸爸""开玩笑的.你不需要告诉我原因.我将把那所房子的所有权转让给你,因为那是你想要的."
 
-    "Father" "You are indeed old enough to have your own estate."
+    "爸爸""你长大了,可以拥有自己的产业了."
 
-    player "Thank you very much, dad. You are the best dad in the world."
+    player "非常感谢,爸爸.你是世界上最好的爸爸."
 
-    "Father" "Alright, I'll go take care of the files and formalities tomorrow. Anything else?"
+    "爸爸""好的,我明天去处理文件和手续.还有事吗?"
 
-    player "Nothing, Dad. Have a good sex."
+    player "没什么了,爸爸.享受美好的性爱."
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    "Father" "Goodbye, son."
+    "爸爸""再见,儿子."
 
     jump event_post
 
@@ -359,285 +359,285 @@ label d5_4_bLine:
 
     player "... ... ... ..."
 
-    player "(This place is even more fucked up than The Citidel.)"
+    player "(这地方比西蒂尔还乱.)"
 
-    player "(I still not believe that she would show up here.)"
+    player "(我还是不相信她会出现在这里.)"
 
-    narrator "I looked around the bar and failed to find Vera. "
+    narrator "我环顾了一下酒吧,没有找到薇拉."
 
-    player "(It seems like her neighbor has lied to Jake.)"
+    player "(看起来她的邻居对杰克撒谎了.)"
 
-    narrator "I was about to leave this place, but suddenly, two servers who stand next to me start talking."
+    narrator "我正要离开这个地方,但是突然,站在我旁边的两个服务员开始说话了."
 
-    "Girl A" "Where is that new girl? I couldn’t find her anywhere."
+    "女孩A""那个新来的女孩在哪儿?我到处都找不到她."
 
-    "Girl B" "I don't know. Maybe the boss has taken her to the back alley. You know, he just can't resist those bitches with big boobs."
+    "女孩B""我不知道.也许老板把她带到了后面的小巷.你知道,他无法抗拒那些胸大的妹子."
 
-    "Girl A" "Lucky chick. I think she will get a promotion after today. God, I have been here for 3 months, why can't I get that chance?"
+    "女孩A""幸运的女孩.我想她今天之后会升职的.天啊,我来了3个月了,怎么就没遇上这样的机会?"
 
-    player "（Eh... What are they talking about?）"
+    player "(Eh...她们在说什么?)"
 
-    player "（It doesn’t feel right. I should go to that back alley to see what’s going on.）"
+    player "(感觉有点不对劲.我应该去那条小巷看看发生了什么事.)"
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Meanwhile, in the back alley."
+    narrator "与此同时,在后巷."
 
     scene day5_fix_1 with tstmgr
 
-    a "I'm sorry... sir. I can't accept that."
+    a "我很抱歉...先生,我不能接受这个."
 
-    "Bar Owner" "Are you sure of that? I am offering you a job that can make you rich."
+    "酒吧老板""你确定吗?我提供给你一份可以让你变得富有的工作."
 
     scene day5_fix_2 with tstmgr
 
-    "Bar Owner" "Just be my secretary, and you will be able to earn more money than every other girl here."
+    "酒吧老板""只要你做我的秘书,你就能比这里的其他女孩挣更多的钱."
 
-    "Bar Owner" "You can also move into my place, you know, I got a big house, enough for two people to live."
+    "酒吧老板""你也可以搬到我住的地方,我有一个大房子,足够两个人住."
 
-    "Bar Owner" "And I got a big bed, too..."
+    "酒吧老板""我也有一张大床..."
 
-    a "No... I'm not the kind of girl you think. "
+    a "不...我不是你想的那种女孩."
 
     scene day5_fix_3 with tstmgr
 
-    "Bar Owner" "What's the big deal? Who doesn't like money?..."
+    "酒吧老板""有什么大不了的?谁不喜欢钱?..."
 
     scene day5_fix_4 with tstmgr
 
-    a "Wait... you are getting too close."
+    a "等等...你靠得太近了."
 
-    a "Stop it..."
+    a "别这样..."
 
     scene day5_fix_5 with tstmgr
 
-    a "Why are you... No... Let me go!"
+    a "你为什么...不...让我走!"
 
-    a "I'm going to shout. Leave me alone!"
+    a "我要叫了.让我一个人待着!"
 
     scene day5_fix_6 with tstmgr
 
-    "Bar Owner" "Go on then, shout out. This is my place, no one is coming to bother us."
+    "酒吧老板""你叫吧,大声点.这是我的地盘,没人会来打扰我们."
 
-    "Bar Owner" "Ah... ... You smell delicious, I can't wait to make you one of my collection."
+    "酒吧老板""Ah......你闻起来很香,我迫不及待想把你列为我的收藏之一了."
 
     scene day5_fix_7 with tstmgr
 
-    a "What are you talking about? Please let me go, please!"
+    a "你在说什么?请让我走吧,求你了!"
 
-    "Bar Owner" "Keep crying, bitch. I like to hear women's cry."
+    "酒吧老板""继续哭,婊子.我喜欢听女人的哭泣."
 
-    a "Help... ... ... ..."
+    a "救命............"
 
     narrator "... ... ... ..."
 
-    player "(Finally arrived) Oh my... You gotta be kidding me."
+    player "(终于到了)我的...你不是在开玩笑吧."
 
-    player "That's enough, baldhead, let her go."
+    player "够了,光头,让她走."
 
     scene day5_fix_8 with tstmgr
 
-    "Bar Owner" "Wait, what?"
+    "酒吧老板""等等,什么?"
 
-    "Bar Owner" "Who do you think you are? No one dares to interrupt me!"
+    "酒吧老板""你以为你是谁?没有人敢打扰我!"
 
     scene day5_fix_9 with tstmgr
 
-    "Bar Owner" "Uh?... ..."
+    "酒吧老板""Uh?... ..."
 
-    "Bar Owner" "[P], sir?"
+    "酒吧老板""[P],先生?"
 
-    "Bar Owner" "What... What are you doing here?"
+    "酒吧老板""你...你怎么在这儿?"
 
-    player "To save my girlfriend, you fatass prick. Let her go, I won't repeat again."
+    player "为了救我女朋友,你这个狗东西.放开她,我不会再说第二遍."
 
     scene day5_fix_10 with tstmgr
 
-    a "Help me! [P]! Help me!"
+    a "救救我![P]!救救我!"
 
-    "Bar Owner" "Wait, she is really your girlfriend? I thought your girlfriend is that silver-hair lady from the Shinyrost family."
+    "酒吧老板""等等,她真的是你女朋友?我以为你女朋友是那个来自新光家族的银发女士."
 
-    player "It's none of your business. Release my girl, now!"
+    player "这不关你的事.放了我女朋友,马上!"
 
     scene day5_fix_11 with tstmgr
 
-    "Bar Owner" "Okay, okay. Man, I didn't know."
+    "酒吧老板""Okay,okay.伙计,我不知道."
 
-    narrator "The bar owner let Vera go. She then ran to me, hid behind me, and cried like a baby."
+    narrator "酒吧老板放了薇拉.然后她跑向我,躲在我后面,像个婴儿一样哭了起来."
 
-    "Bar Owner" "Look, man, I'm sorry. It’s a fucking mistake. If I have any idea... I would never... I swear to God..."
+    "酒吧老板""听着,伙计,我很抱歉.这是个他妈的误会.如果我事先知道...我绝不会...我向你发誓..."
 
-    player "Now if you don't mind, I am taking her out of here."
+    player "如果你不介意,我要她带出去了."
 
-    "Bar Owner" "Of course, of course, you are the boss."
+    "酒吧老板""当然,当然,你是老板."
 
-    "Bar Owner" "I hope this mistake would not affect our friendship."
+    "酒吧老板""我希望这个误会不会影响我们的友谊."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I took Vera out of this pub."
+    narrator "我把薇拉带出了酒吧."
 
     scene a_apartment_background_night with tstmgr
 
-    narrator "I drove her to her apartment. She was trembling along the way. I wanted to say something, but didn’t know where to start."
+    narrator "我开车送她到她的公寓.她一路上都在发抖.我想说点什么,但不知从何说起."
 
-    narrator "I parked my car in front of her apartment, but she did not leave. I knew she was too scared to go home alone after what happened earlier."
+    narrator "我把车停在她的公寓前,但她没有下车.我知道在发生了之前的事之后,她不敢一个人回家."
 
-    player "Do you need me to... walk you home?"
+    player "你需要我...送你回家吗?"
 
-    narrator "She thought for a while, then finally nodded her head. This poor girl is frightened. She needs someone to rely on. I’m definitely not her best choice, but I am the only one she can get for now. "
+    narrator "她想了一会儿,最后点了点头.这个可怜的女孩吓坏了.她需要有人依靠.我肯定不是她最好的选择,但现在我是她唯一的选择."
 
-    narrator "I left the car with her, and walked alongside her to her room."
+    narrator "我下了车,和她一起走到她的房间."
 
-    player "Do you need me to come in and stay with you for a while? I’m worried about you."
+    player "你需要我进来和你呆一会儿吗?我很担心你."
 
-    narrator "She nodded once again."
+    narrator "她又点了点头."
 
     scene day5_a9 with tstmgr
 
-    narrator "After we got into her room, she curled her body up on the bed, looking vulnerable and helpless. "
+    narrator "我们进到她的房间后,她把身子蜷在床上,看上去既脆弱又无助."
 
-    player "So... Do you want to talk? "
+    player "所以...你想聊聊吗?"
 
     scene day5_a10 with tstmgr
 
     a "... ... ... ... "
 
-    narrator "She opened her mouth and spoke in a tremulous voice:"
+    narrator "她张开嘴,用颤抖的声音说:"
 
-    a "Okay... ..."
+    a "嗯......"
 
-    player "Why did you go to a place like that?"
+    player "你为什么要去那样的地方?"
 
-    a "I saw a want advertisement. That waitress job... earns a lot."
+    a "我看到一则招聘广告.那里服务员的工作...工资很高."
 
-    player "Do you have financial trouble? You can just talk to me if you need money. I am more than happy to help."
+    player "你有经济困难吗?如果你需要钱,可以找我.我很乐意帮忙."
 
     scene day5_a9 with tstmgr
 
-    a "I don’t want your money."
+    a "我不要你的钱."
 
-    player "You are so stubborn."
+    player "你还是那么固执."
 
-    narrator "This girl has her own principles to stick to. That's good, I appreciate it. "
+    narrator "这个女孩有她自己的原则要坚持.很好,我尊重她."
 
-    narrator "But I have to find a way to help her. I can't just sit here and watch. What happened today may happen again anytime in the future!"
+    narrator "但我必须想办法帮助她.我不能只是坐在这里看.今天发生的事情将来任何时候都可能再次发生!"
 
-    player "May I ask, what do you need money for?"
+    player "请问,你需要钱做什么?"
 
     scene day5_a10 with tstmgr
 
     a "... ... ... ..."
 
-    narrator "She is not sure about whether she should tell me the truth or not."
+    narrator "她不确定是否应该告诉我真相."
 
-    a "I..."
+    a "我..."
 
-    a "I need to find a new place to live. This place is..."
+    a "我需要找个新地方住.这个地方..."
 
-    a "...not safe."
+    a "...不安全."
 
-    narrator "She is right. Her apartment locates in the slum which is overrun by drugs, gangs, and prostitution. It is very dangerous for a pretty girl like her to live here alone. "
+    narrator "她是对的.她的公寓位于毒品,黑帮和卖淫泛滥的贫民窟.像她这样漂亮的女孩一个人住在这里是很危险的."
 
-    narrator "Maybe I can do something to help. She said she would not accept my money, but what if..."
+    narrator "也许我能帮点忙.她说她不会接受我的钱,但..."
 
-    player "What if I say that I can help you with it?"
+    player "如果我说我能帮你呢?"
 
-    a "What do you mean?"
+    a "什么意思?"
 
-    player "My dad bought a house in this city for investment three years ago. It is well decorated, and no one lives there now. You can move there if you want."
+    player "我爸爸三年前在这个城市买了一栋房子作为投资.它装修得很好,现在没有人住在那里.如果你愿意,你可以搬过去住."
 
-    a "You are offering me an empty house to live?"
+    a "你给一间房子我住?"
 
-    player "Yes, and I won’t charge you for anything. It’s totally free. "
+    player "是的,而且我不收你任何费用.它是完全免费的."
 
-    player "Just take this as my apology. You can live in that house until you find a better place, as long as you want."
+    player "就当是表达我的歉意吧.只要你愿意,你可以一直住在那所房子里,直到你找到一个更好的地方."
 
     a "... ... ... ..."
 
-    a "But why don’t you live there yourself?"
+    a "但你为什么不自己住在那里呢?"
 
-    player "Me? Eh... I don’t feel comfortable to live in such a big house alone. I’m now living in a hotel suite."
+    player "我?Eh...我一个人住这么大的房子感觉不舒服.我现在住在酒店套房里."
 
-    a "You’d rather live in a hotel than live in your dad’s house? You riches are unreasonable."
+    a "你宁愿住酒店也不愿住你爸爸的房子?你真是富得不合理."
 
-    player "Mock me as you like. Anyway, you are welcome to live there. No roommates, no house rent, no utility payments. The only thing you need to do is to keep that house clean."
+    player "随你怎么嘲笑我.不管怎样,欢迎你住在那里.没有室友,没有房租,没有水电费.你唯一需要做的就是保持房子干净."
 
-    a "It doesn’t feel right... Why would I trust you?"
+    a "感觉不太对...我为什么要相信你?"
 
     player "... ... ... ..."
 
-    player "I understand that. "
+    player "我理解."
 
-    player "But, you know. I'm not a bad guy. I mean, I just save you from that bar owner. "
+    player "但是,你知道.我不是坏人.我是说,我刚把你从那个酒吧老板手里救出来."
 
-    a "Yes... And I am grateful for that."
+    a "是的...对此我很感激."
 
-    a "But... Why? Why are you providing me a house to live? We are not even friends."
+    a "但是...为什么?你为什么要给我提供房子住?我们甚至连朋友都算不上."
 
-    player "Well... Just... take that as my apology, for that night. "
-
-    a "... ... ... ..."
-
-    a "You should stop blaming yourself for that night, but... thanks... "
-
-    a "Let's say, even if I trust you on that house..."
-
-    a "Will your dad agree with it? I mean, that's your dad's house, right?"
-
-    player "Don't worry, my dad will never reject me."
+    player "Well...只是...就当是我为那晚的事道歉吧."
 
     a "... ... ... ..."
 
-    player "So, do you accept my offer?"
+    a "你不应该为那天晚上的事责备自己,但是...谢谢..."
+
+    a "就算我相信你那个房子..."
+
+    a "你爸爸会同意吗?我是说,那是你爸爸的房子,对吧?"
+
+    player "别担心,我爸爸永远不会拒绝我."
+
+    a "... ... ... ..."
+
+    player "那么,你接受我的提议了吗?"
 
     a "... ... ... ..."
 
     scene day5_a11 with tstmgr
 
-    a "（Relieved sighing）Okay, I accept it."
+    a "(叹息)好吧,我接受."
 
-    player "Great. I will hand you the key once I get it from my dad. It might take a few days."
+    player "太好了.一旦我从我爸爸那里拿到钥匙,我就把它交给你.这可能需要几天时间."
 
-    a "Thank you..."
+    a "谢谢你..."
 
-    player "You are welcome. Now you should get some rest. It's late."
+    player "你不用谢.现在你应该休息一下了.天色不早了."
 
-    player "I'm leaving right now."
+    player "我现在就走."
 
-    a "Wait."
+    a "等等."
 
     player "En?"
 
-    a "I am just wondering... why that pub boss obeys you so much?"
+    a "我只是想知道...为什么那个酒吧老板这么听你的话?"
 
-    player "He is aware of who I am and who my dad is. And he knows that my dad has the power to shut his place down in a single day. So why would he want to piss me off for a girl he doesn’t even know?"
+    player "他知道我是谁,也知道我爸爸是谁.他知道我爸爸有能力在一天之内关掉他的店.那他为什么要为了一个他都不认识的女孩而惹我生气呢?"
 
-    a "That... makes sense..."
+    a "这...有道理..."
 
-    a "So... Who is your dad, exactly?"
+    a "所以...你爸爸到底是谁?"
 
     player "Well..."
 
-    player "He is a very powerful man in this country, that's all you need to know."
+    player "他在这个国家是个很有权势的人,你只需要知道这个就好了."
 
-    a "Fine..."
+    a "好吧..."
 
-    narrator "I like the way she smiles. It’s lovely. "
+    narrator "我喜欢她笑的样子.真可爱."
 
-    player "I..."
+    player "我..."
 
     a "...?"
 
-    player "Nothing. I, I’m leaving. You take a good rest."
+    player "没什么.我,我要走了.你好好休息一下."
 
-    a "...Goodnight."
+    a "...晚安."
 
-    player "Goodnight."
+    player "晚安."
 
     scene void with tstmgr
 
@@ -645,71 +645,71 @@ label d5_4_bLine:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Later tonight, in my hotel suite."
+    narrator "今晚晚些时候,在我的酒店套房."
 
-    player "(Speaking on the phone) Hi dad, how are you?"
+    player "(打电话中)嗨,爸爸,你好吗?"
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    player "Hello? Anyone there?"
+    player "喂?有人吗?"
 
-    "Father" "(Breathing vigorously) Hi there, son. I'm, I'm quite busy right now. what's the matter?"
+    "爸爸""(有力的呼吸)你好,儿子.我现在很忙.出什么事了?"
 
-    player "Eh... Why are you wheezing?"
+    player "Eh...你为什么气喘?"
 
-    "Father" "I'm jogging."
+    "爸爸""我在慢跑."
 
-    player "Really, dad? You are jogging at midnight?"
+    player "爸爸,真的吗?你在午夜慢跑?"
 
     player "... ... ... ..."
 
-    player "You are fucking someone, aren't you?"
+    player "你在和别人上床,对吧?"
 
-    "Father" "For God's sake, son, just tell me what you call me for!"
+    "爸爸""看在上帝的份上,孩子,告诉我你找我干什么!"
 
-    player "Alright, alright."
+    player "好了,好了."
 
-    player "You see, dad. My birthday is about to come."
+    player "你看,爸爸.我的生日就要到了."
 
-    player "And I want a birthday gift."
+    player "我想要一份生日礼物."
 
-    "Father" "Correct me if I'm wrong, but I thought your birthday comes four months later."
+    "爸爸""如果我说错了请纠正我,我记得你的生日是四个月后."
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    "Father" "Nevermind, what do you want?"
+    "爸爸""算了,你想要什么?"
 
-    narrator "See, my dad would never reject my requests."
+    narrator "看,我爸爸从来不会拒绝我的要求."
 
-    player "I want the house you bought in Rosco City three years ago. I know it's empty."
+    player "我想要你三年前在罗斯科市买的房子.我知道它是空的."
 
-    "Father" "Do you and Theodora finally decide to live together?"
+    "爸爸""你和狄奥多拉终于决定住在一起了吗?"
 
     player "... ... ... ..."
 
     player "Nope..."
 
-    "Father" "Oh, so you decide to live with another girl? "
+    "爸爸""Oh,所以你决定和另一个女孩住在一起?"
 
     player "Nope..."
 
-    "Father" "You... with a boy? You know, I’m OK with..."
+    "爸爸""你...和一个男生?你知道,我不介意的..."
 
-    player "Dad!"
+    player "爸爸!"
 
-    "Father" "Nevermind. You don’t need to tell me the reason. I'll transfer the ownership of that house to you since that is your wish. "
+    "爸爸""无所谓了.你不必告诉我原因.我会把那所房子的所有权转让给你,因为那是想要的."
 
-    "Father" "You are indeed old enough to have your own estate."
+    "爸爸""你长大了,可以拥有自己的产业了."
 
-    player "Thank you very much, dad. You are the best dad in the world."
+    player "非常感谢,爸爸.你是世界上最好的爸爸."
 
-    "Father" "Alright, I’ll go take care of the files and formalities tomorrow. Anything else?"
+    "爸爸""好的,我明天去处理文件和手续.还有其他事吗?"
 
-    player "Nothing, Dad. Have a good sex."
+    player "没什么了,爸爸.享受美好的性爱."
 
-    "Father" "... ... ... ..."
+    "爸爸""... ... ... ..."
 
-    "Father" "Goodbye, son."
+    "爸爸""再见,儿子."
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

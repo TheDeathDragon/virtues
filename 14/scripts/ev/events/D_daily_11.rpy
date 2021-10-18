@@ -3,27 +3,27 @@ label D_daily_11:
     scene void with tstmgr
     play music happy
 
-    "Later this evening, during the tutoring... ..."
+    "今晚晚些时候,在辅导的时候......"
 
 
 
     scene d_daily11_1 with dissolve
 
-    d "You know, [P], I was wondering... .."
+    d "你知道,[P],我想知道....."
 
 
 
-    d "Do you know anything about my father?"
+    d "你知道我父亲的事吗?"
 
 
 
-    player "Your father? I think I saw him once or twice when I was very small."
+    player "你的父亲吗?我想我小时候见过他一两次."
 
 
 
     scene d_daily11_2 with tstmgr
 
-    d "What was he like then? I never saw him in my life and mommy never showed me his pictures, either."
+    d "他那时怎么样?我从来没有见过他,妈妈也从来没有给我看过他的照片."
 
 
 
@@ -31,51 +31,51 @@ label D_daily_11:
 
 
 
-    "Aunt Elisa got divorced even before Irene was born and that man never showed up again. My dad once said that he left the country."
+    "伊莉莎阿姨在艾琳出生之前就离婚了,那个男人再也没有出现过.我爸爸曾经说过他已经移居到另一个国家了."
 
 
 
-    player "I can only recall a rough picture. He was... tall, and his skin was so pale that made me believe he was a vampire or something when I was small."
+    player "我只能回忆起一幅粗略的画面.他...很高,他的皮肤很苍白,我相信他是一个吸血鬼或什么的时候,还是个小孩子."
 
 
 
     scene d_daily11_3 with tstmgr
 
-    player "And he has silver hair, too, just like you and Theo."
+    player "他也有银发,就像你和西奥一样."
 
 
 
-    d "Oh, yeah, mommy said that everyone from my father’s family has silver hair."
+    d "Oh,yeah,妈妈说我父亲家的人都是银发."
 
 
 
     scene d_daily11_4 with tstmgr
 
-    player "That was quite an awesome inherited character. Silver hair is so cool."
+    player "这是一个非常棒的遗传.银发很酷."
 
 
 
-    d "Yes~ I’m proud of my hair color!~"
+    d "Yes~我为我的头发颜色感到骄傲!~"
 
 
 
-    d "And you know, I had this weird dream last night..."
+    d "我昨晚做了个奇怪的梦..."
 
 
 
-    player "What dream?"
+    player "什么梦?"
 
 
 
     scene d_daily11_5 with tstmgr
 
-    d "That hundreds of years later, one of my descendant established a Shinyrost Empire. And all the members of its royal family have silver hair!"
+    d "几百年后,我的一个后裔建立了一个辉煌的帝国.王室成员都是银发!"
 
 
 
     scene d_daily11_6 with tstmgr
 
-    d "Just imagine how cool it will be! Silver-hair princes and princesses, all of them!"
+    d "想象一下那有多酷!银发的王子和公主,全都是!"
 
 
 
@@ -83,25 +83,25 @@ label D_daily_11:
 
 
 
-    "Teenager’s imagination, ridiculous but lovely. I always imagined about some crazy stuff when I was at her age, too."
+    "少女的想象力,可笑却可爱.当我在她这个年纪的时候,我也总是想象一些疯狂的事情."
 
 
 
     scene d_daily11_7 with tstmgr
 
-    player "Are all the princesses there naughty like you?"
+    player "那里所有的公主都像你一样调皮吗?"
 
 
 
-    d "I... don’t know, maybe they are~~"
+    d "我...不知道,也许是吧~~"
 
 
 
-    player "Then it must be a super lovely empire made of candies and lollipops~"
+    player "那它一定是一个由糖果和棒棒糖组成的超级可爱的帝国~"
 
 
 
-    player "Just like what you taste like..."
+    player "就像你的味道一样..."
 
 
 
@@ -109,13 +109,13 @@ label D_daily_11:
 
 
 
-    e "(Knocking the door) Kids~ I have made some snacks for you."
+    e "(敲门)孩子们~我为你们准备了一些零食."
 
 
 
     scene d_daily11_9 with tstmgr
 
-    d "Oh, mommy is here! You should get up before she comes in."
+    d "Oh,妈妈来了!你应该在她进来之前起来."
 
 
 
@@ -129,15 +129,15 @@ label D_daily_11:
 
 
 
-    "I spent the entire afternoon at tutoring Irene... ..."
+    "我整个下午都在给艾琳辅导......"
 
 
 
-    "*And... ... ... ...*"
+    "*还有............*"
 
 
 
-    "*Irene’s dream may not be just a dream.*"
+    "*艾琳的梦可能不仅仅是一个梦.*"
 
     stop music fadeout 1.0
 

@@ -1,20 +1,20 @@
 label d8_1:
 
-    narrator "The next morning."
+    narrator "第二天早上."
 
-    narrator "Irene is still angry at me. She was unhappy yesterday during the picnic. It made me awkward."
+    narrator "艾琳还在生我的气.昨天野餐时她不高兴.这让我很尴尬."
 
-    narrator "I have no idea how I offended her. But anyway, I believe I should go to her home and apologize to her in an afternoon."
+    narrator "我不知道我怎么得罪了她.但无论如何,我认为我应该在下午去她家向她道歉."
 
-    narrator "Perhaps I should buy a gift for her? Every girl loves a gift."
+    narrator "也许我应该给她买个礼物?每个女孩都喜欢礼物."
 
-    call screen hint("There is a gift store downtown, you can go there and buy gifts for girls.")
+    call screen hint("市中心有一家礼品店,你可以去那里给女孩买礼物.")
 
-    call screen hint("From now on, there will be more available locations showing on the map. Try to work out your daily schedule wisely.")
+    call screen hint("从现在开始,会有更多的地点显示在地图上.明智地制定你的每日计划.")
 
-    call screen hint("You can complete the prologue chapter by raising Vera and Senning's love to 5.")
+    call screen hint("你可以通过把薇拉和森柠的好感度提升到5来完成序章部分.")
 
-    call screen hint("You can raise Vera's love by visiting her at her workplaces, and raise Senning's by 'go to class'.")
+    call screen hint("你可以在薇拉工作的地方拜访她来提升她的好感度,也可以通过“去上课”来提升森柠的好感度.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

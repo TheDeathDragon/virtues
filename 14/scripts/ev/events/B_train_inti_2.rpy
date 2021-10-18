@@ -4,7 +4,7 @@ label B_train_inti_2:
 
     play music sorrow
 
-    "*The following plot is from Senning’s perspective.*"
+    "*下面的情节是森柠的视角.*"
 
 
 
@@ -12,61 +12,61 @@ label B_train_inti_2:
 
 
 
-    "Later this afternoon, in Senning’s room..."
+    "下午晚些时候,在森柠的房间..."
 
 
 
     scene b_train_inti_2_1 with dissolve
 
-    b "[P] will be here very soon. We will be... out for dinner together..."
+    b "[P]马上就到.我们要...一起出去吃饭..."
 
 
 
     scene b_train_inti_2_2 with tstmgr
 
-    b "But... I don’t really want to go out with him. There is something else... that I want to do... ..."
+    b "但是...我并不是真的想和他约会.我想做...其他事......"
 
 
 
     scene b_train_inti_2_3 with tstmgr
 
-    b "I want to tell him how much I love him and... ..."
+    b "我想告诉他我有多爱他......"
 
 
 
     scene b_train_inti_2_4 with tstmgr
 
-    b "I want him to take my virginity. I have restricted myself for so long and I can’t wait any longer!"
+    b "我想让他操我.我已经克制自己太久了,再也忍不住了!"
 
 
 
     scene b_train_inti_2_5 with tstmgr
 
-    b "But... ... the tradition... ..."
+    b "但是......我的家教不允许我......"
 
 
 
     scene b_train_inti_2_6 with tstmgr
 
-    b "Emmmmmm... ... Screw the tradition! I will... I will decide what’s best for me myself!"
+    b "Emmmmmm......去他妈的家教!我的事情我自己做主!"
 
 
 
     scene b_train_inti_2_7 with tstmgr
 
-    b "Mama will definitely understand. As for Papa... ... he may gets angry a little bit, but he will eventually understand. I believe he will."
+    b "妈妈一定会理解的.至于爸爸......他可能会有点生气,但他最终会理解的.我相信他会的."
 
 
 
     scene b_train_inti_2_8 with tstmgr
 
-    b "Awwwww... ... This is going to be a milestone of my life! I’m so anxious!"
+    b "Awwwww......这将成为我人生中的一个里程碑!我好焦虑!"
 
 
 
     scene b_train_inti_2_9 with tstmgr
 
-    b "I... I should practice first. Yeah, I should definitely do that!"
+    b "我...我应该先练习练习.是的,我得练习一下!"
 
 
 
@@ -76,7 +76,7 @@ label B_train_inti_2:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
@@ -86,17 +86,17 @@ label B_train_inti_2:
 
 
 
-    b "Hmmm~ This dress will do."
+    b "Hmmm~这件衣服可以."
 
 
 
-    b "So how should I talk to him?"
+    b "那我该怎么跟他说?"
 
 
 
     scene b_train_inti_2_11 with tstmgr
 
-    b "Hi, [P]. There is... something I want to tell you..."
+    b "Hi,[P].有...有些事我想告诉你..."
 
 
 
@@ -106,31 +106,31 @@ label B_train_inti_2:
 
     scene b_train_inti_2_12 with tstmgr
 
-    b "No, that looks dumb."
+    b "No,听起来很蠢."
 
 
 
     scene b_train_inti_2_10 with tstmgr
 
-    b "Hi, [P]. There is... something I want to tell you..."
+    b "Hi,[P].有...有些事我想告诉你..."
 
 
 
     scene b_train_inti_2_13 with tstmgr
 
-    b "*Revealing tits out* Wah-lah... ... ... ..."
+    b "*露出胸部*Wah-lah............"
 
 
 
     scene b_train_inti_2_14 with tstmgr
 
-    b "No, that’s... too slutty, and dumb too."
+    b "No,太...太骚了,也太蠢了."
 
 
 
     scene b_train_inti_2_15 with tstmgr
 
-    b "There is... something I want to tell you, [P]... ..."
+    b "有...有些事我想告诉你,[P]......"
 
 
 
@@ -140,7 +140,7 @@ label B_train_inti_2:
 
     scene b_train_inti_2_16 with tstmgr
 
-    b "Yes~ This looks like the right one~"
+    b "Yes~就是这样~"
 
 
 
@@ -148,29 +148,29 @@ label B_train_inti_2:
 
     $ flashlight()
 
-    "*Door bell sound* Ding-dong, ding-dong, ding-dong... ..."
+    "*门铃的声音*Ding-dong,ding-dong,ding-dong......"
 
 
 
-    b "Oh no, he is already here!"
+    b "Ohno,他已经来了!"
 
 
 
     scene b_train_inti_2_18 with tstmgr
 
-    b "Okay, girl, calm down, you can do it. This is not a big deal. It’s just... ... sex."
+    b "Okay,女孩,冷静点,你能行的.这没什么大不了的.就只是...做爱而已."
 
 
 
     scene void with tstmgr
 
-    "Senning went to open the door."
+    "森柠走过去开门."
 
 
 
     scene b_train_inti_2_19 with dissolve
 
-    b "Hi, [P], there is something I want to... ..."
+    b "Hi,[P],有件事我想......"
 
 
 
@@ -184,17 +184,17 @@ label B_train_inti_2:
 
     $ flashlight()
 
-    "???" "[P]? Who is that?"
+    "???" "[P]?谁?"
 
 
 
-    "A lady in red slowly stepped into the room. She looks just like a mature version of Senning but with a little bit more arrogance and elegance."
+    "一位穿红衣服的女士慢慢地走进了房间.她看起来就像成熟版的森柠,只是多了一点傲慢和优雅."
 
 
 
     scene b_train_inti_2_22 with tstmgr
 
-    b "Yaaaaaaaah!!! Mama! Why are you here!?"
+    b "Yaaaaaaaah!!!妈妈!你怎么在这儿?!?"
 
 
 
@@ -202,23 +202,23 @@ label B_train_inti_2:
 
 
 
-    "???" "I came a long way from the other side of the world to see my only daughter and this is what I got? ‘Why are you here?’"
+    "???" "我从世界的另一端远道而来就是为了见我唯一的女儿,而我得到的就是一句“你怎么在这儿?”"
 
 
 
     scene b_train_inti_2_23 with tstmgr
 
-    b "Awwww... ... Sorry, mama, I didn’t mean that."
+    b "Awwww......对不起,妈妈,我不是那个意思."
 
 
 
-    "???" "Why did you open the door with only a nightgown? I thought you didn’t like to wear revealing dresses."
+    "???" "你为什么只穿一件睡衣就开门?我以为你不喜欢穿暴露的裙子."
 
 
 
     scene b_train_inti_2_24 with tstmgr
 
-    b "I... I was just... ..."
+    b "我...我只是......"
 
 
 
@@ -228,7 +228,7 @@ label B_train_inti_2:
 
 
 
-    "???" "You are... waiting for a man, right? A ‘[P]’?"
+    "???" "你在...等人,对吧?一个叫‘[P]’的家伙?"
 
 
 
@@ -240,17 +240,17 @@ label B_train_inti_2:
 
     scene b_train_inti_2_27 with tstmgr
 
-    "???" "Oh my God, Senning, you got a boyfriend in college?!"
+    "???" "OhmyGod,森柠,你在大学有个男朋友?!"
 
 
 
-    b "Don’t... don’t let papa know, please, mama."
+    b "不要...别让爸爸知道,拜托了,妈妈."
 
 
 
     scene b_train_inti_2_28 with tstmgr
 
-    "???" "You are going to explain a lot of things to me, girl..."
+    "???" "我们得好好聊聊,女孩..."
 
 
 
@@ -264,107 +264,107 @@ label B_train_inti_2:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
-    player "*Knocking* Open the door, Sen~ I’m here."
+    player "*咚咚*开开门,森,我来了."
 
 
 
     scene b_train_inti_2_20 with dissolve
 
-    b "*Opened the door* Hi... ... [P]... ..."
+    b "*开门*Hi......[P]......"
 
 
 
     scene b_train_inti_2_29 with tstmgr
 
-    player "Oh... I missed you so much, come here, come here, your boy needs a kiss~"
+    player "Oh...我好想你,过来,过来,你的男孩需要一个吻~"
 
 
 
-    b "Wait, wait, wait... ..."
+    b "等等,等等,等等......"
 
 
 
-    player "What are we waiting for?"
+    player "等什么?"
 
 
 
-    b "Behind you!"
+    b "在你身后!"
 
 
 
-    player "Behind... me?"
+    player "在我...身后?"
 
 
 
     scene b_train_inti_2_30 with tstmgr
 
-    "???" "Huh... ... So you are the guy who captured my daughter’s heart~"
+    "???" "Huh......原来就是你俘获了我女儿的心~"
 
 
 
     scene b_train_inti_2_36 with tstmgr
 
-    "???" "*Sniffing, sniffing* Hum~ You do have a cool body scent."
+    "???" "*闻,闻*Hum~你的体味确实很酷."
 
 
 
-    player "Oh shit, what the... ..."
+    player "Ohshit,啊这......"
 
 
 
-    b "Mom!"
+    b "妈妈!"
 
 
 
     scene b_train_inti_2_30 with tstmgr
 
-    "???" "Relax, honey, just trying to say hello here~"
+    "???" "别紧张,亲爱的,我只是想打个招呼~"
 
 
 
     scene b_train_inti_2_31 with tstmgr
 
-    player "Wait, mom?"
+    player "等等,妈妈?"
 
 
 
     scene b_train_inti_2_32 with tstmgr
 
-    "???" "Hi there, [P]. You can call me Lady Minna~"
+    "???" "Hi,[P].你可以叫我明娜夫人~"
 
 
 
     scene b_train_inti_2_33 with tstmgr
 
-    player "I... ... It’s a pleasure to meet you, Lady Minna. I’m sorry... ..."
+    player "我...很高兴见到你,明娜夫人.我很抱歉......"
 
 
 
-    player "You are really Senning’s mother? You two look really alike but... ... I’d rather believe that you are her sister. You look so young... ..."
+    player "你真的是森柠的母亲吗?你们俩看起来很像,但是......我宁愿相信你是她妹妹.你看起来很年轻......"
 
 
 
     scene b_train_inti_2_34 with tstmgr
 
-    "Lady Minna" "Oh my, he is really adorable, just like you said~"
+    "明娜夫人""哇偶,他真的很可爱,就像你说的~"
 
 
 
     scene b_train_inti_2_35 with tstmgr
 
-    "Lady Minna" "Cough, cough, thank you for saying that~ You can never tell the age of an Asian woman by her face~"
+    "明娜夫人""咳,咳,谢谢你这么说~你是永远无法从一个亚洲女人的脸看出她的年龄的~"
 
 
 
-    "Lady Minna" "Now let’s sit down and talk, shall we? We have many things to discuss~"
+    "明娜夫人""现在我们坐下来谈谈,好吗?我有很多事想知道~"
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
@@ -374,175 +374,175 @@ label B_train_inti_2:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene b_train_inti_2_37 with dissolve
 
-    "Lady Minna" "So, tell me, young man, how long have you and Senning been together?"
+    "明娜夫人""告诉我,年轻人,你和森柠在一起多久了?"
 
 
 
-    player "Not very long, but we have been best friends for years. We know each other very much."
+    player "时间不长,但我们已经是多年的好朋友了.我们彼此非常了解."
 
 
 
     scene b_train_inti_2_38 with tstmgr
 
-    b "Yes, We are friends since the first day of my college."
+    b "Yes,从我上大学的第一天起,我们就成了好朋友."
 
 
 
-    "Lady Minna" "That’s a pretty long time. So you must know what her favorite color is?"
+    "明娜夫人""那可有段时间了.所以你一定知道她最喜欢的颜色是什么?"
 
 
 
     scene b_train_inti_2_39 with tstmgr
 
-    "Huh? Color?"
+    "Huh?颜色?"
 
 
 
-    player "It is... ..."
+    player "是......"
 
 
 
     label B_train_inti_2_choice_1:
 
     menu:
-        "Gray":
+        "灰色":
 
 
-            player "It’s gray, a modest color, very suits her character."
+            player "灰色,一种朴素的颜色,很适合她的性格."
 
             scene b_train_inti_2_40 with tstmgr
 
-            "Lady Minna" "Ho~ Correct answer. It looks like you really know her well. Good job, young man~"
-        "Green":
+            "明娜夫人""Ho~正确的答案.看来你很了解她啊.不错,年轻人~"
+        "绿色":
 
 
 
 
-            player "Ehh... ... I think it is green. ‘Sen’ means forest in Chinese, so... I think the color of forest should be her favorite."
+            player "Ehh......我想是绿色.“森”在中文里的意思是森林,所以...我觉得森林的颜色应该是她最喜欢的."
 
             scene b_train_inti_2_41 with tstmgr
 
-            "Lady Minna" "Humm~ Wrong answer, but I like that interpretation. I’ll give you a pass~"
+            "明娜夫人""Humm~错误的答案,但我喜欢这样的解释.我就当你答对了~"
 
 
 
-    "Lady Minna" "The next question, black tea or green tea, which is her favorite?"
+    "明娜夫人""下一个问题,红茶和绿茶,她最喜欢哪一个?"
 
 
 
-    player "Wait, what are we doing right now? Is this some sort of a test?"
+    player "等等,我们现在在做什么?这是测试吗?"
 
 
 
     scene b_train_inti_2_42 with tstmgr
 
-    "Lady Minna" "It is. I want to see if my girl's boyfriend cares about her enough. Is there a problem?"
+    "明娜夫人""是的.我想看看我女朋友的男朋友是否足够关心她.有什么问题吗??"
 
 
 
-    player "Oh, no, not at all... ..."
+    player "Oh,没,没问题......"
 
 
 
-    player "So... black tea or green tea, huh... ..."
+    player "所以...红茶或绿茶,huh......"
 
 
 
     label B_train_inti_2_choice_2:
 
     menu:
-        "Black tea":
+        "红茶":
 
 
-            player "I’m not really a man of tea, but she once told me about this ‘Jin Jun Mei’, the brows of golden steeds. That’s a black tea, right? So I guess the answer is black tea."
+            player "我不是一个爱喝茶的人,但她曾给我讲过这个“金骏马的眉毛”.那是红茶,对吧?所以我猜答案是红茶."
 
             scene b_train_inti_2_43 with tstmgr
 
-            "Lady Minna" "That was not correct, but I was impressed that you remember the name of that tea. It can’t be easy for you, good job."
+            "明娜夫人""你说的不对,但我很惊讶你还记得那种茶的名字.这对你来说不容易,也还行."
 
             b "Awwwwww... ... ... ..."
-        "Green tea":
+        "绿茶":
 
 
 
 
-            player "It's green tea. I don’t really like to drink tea, but I do know what kind of tea she drinks every time when we are together."
+            player "绿茶.我不是很喜欢喝茶,但我知道每次我们在一起的时候她都喝什么茶."
 
             scene b_train_inti_2_44 with tstmgr
 
-            "Lady Minna" "Impressive~ That’s the right answer."
+            "明娜夫人""不错不错~答对了."
 
-            b "Yeah! [P]! Love you!"
-
-
-
-    "Lady Minna" "It’s not over yet. I have another question for you."
+            b "Yeah![P]!爱你!"
 
 
 
-    "Lady Minna" "Tell me, young man, what do you dislike most about Sen?"
+    "明娜夫人""还没结束呢.我还有一个问题要问你."
 
 
 
-    player "Dislike?"
+    "明娜夫人""诉我,年轻人,你最不喜欢森的哪一点?"
+
+
+
+    player "最不喜欢?"
 
 
 
     scene b_train_inti_2_45 with tstmgr
 
-    b "Mama, what kind of question is that?"
+    b "妈妈,这算什么问题?"
 
 
 
     scene b_train_inti_2_46 with tstmgr
 
-    "Lady Minna" "No one is perfect, not even you, Sen. If he truly knows you well, then he must have been aware of your imperfections."
+    "明娜夫人""没有人是完美的,即使是你,森.如果他真的很了解你,那么他一定知道你的不完美."
 
 
-    "Lady Minna" "I want to see if love has made him blind."
+    "明娜夫人""我想知道是不是爱情使他盲目."
 
 
     scene b_train_inti_2_47 with tstmgr
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
     label B_train_inti_2_choice_3:
 
     menu:
-        "Sometimes she is... irritable":
+        "有时她...易怒":
 
 
-            player "Sen is one of the gentlest girls I know, but sometimes she would become... irritable if something doesn’t go as she planned."
-
-            scene b_train_inti_2_48 with tstmgr
-
-            b "What? I didn’t!"
-
-            scene b_train_inti_2_49 with tstmgr
-
-            "Lady Minna" "Humph~ he is not wrong about you. Maybe we have spoiled you too hard, Sen~"
-        "She is... a big spender":
-
-
-
-
-            player "Sometimes Sen would spend money recklessly... ..."
+            player "森是我认识的最温柔的女孩之一,但有时她会变成...如果事情不按她的计划进行,她就会生气."
 
             scene b_train_inti_2_48 with tstmgr
 
-            b "What? I didn’t!"
+            b "什么?我没有!"
 
             scene b_train_inti_2_49 with tstmgr
 
-            "Lady Minna" "Ah, come on, he is not wrong about you. You spend at least a thousand dollar on every game you have played on your cellphone."
+            "明娜夫人""Humph~他说的没有错.也许我们太溺爱你了,森~"
+        "她...花钱大手大脚":
+
+
+
+
+            player "有时,森会乱花钱......"
+
+            scene b_train_inti_2_48 with tstmgr
+
+            b "什么?我没有!"
+
+            scene b_train_inti_2_49 with tstmgr
+
+            "明娜夫人""Ah,别这样,他说的没有错.你在手机上玩过的每款游戏都至少要花费1000美元."
 
 
 
@@ -552,399 +552,399 @@ label B_train_inti_2:
 
 
 
-    "Lady Minna" "It seems like this young man really knows you well. I think you did find yourself a good boyfriend, Sen."
+    "明娜夫人""看来这个年轻人真的很了解你.我觉得你确实给自己找了个好男友,森."
 
 
 
     scene b_train_inti_2_51 with tstmgr
 
-    b "Wait, so you allow us to be together, mama?"
+    b "等等,所以你允许我们在一起了,妈妈?"
 
 
 
-    "Lady Minna" "Uh-huh~"
+    "明娜夫人""Uh-huh~"
 
 
 
     scene b_train_inti_2_52 with tstmgr
 
-    b "Yeah, mommy is the best!"
+    b "Yeah,妈妈最好了!"
 
 
 
     scene b_train_inti_2_53 with tstmgr
 
-    b "And... ... sex?"
+    b "那......做爱呢?"
 
 
 
     scene b_train_inti_2_54 with tstmgr
 
-    "Lady Minna" "Well, that’s a different thing."
+    "明娜夫人""Well,这是两码事."
 
 
 
-    "Lady Minna" "You know, girl. There are some conservative traditions in our family, such as ‘no sex before marriage’, but I am not a conservative person at all. I would support you to pursue your love and enjoy your life in your own ways."
+    "明娜夫人""你知道,女孩.我们家有一些保守的传统,比如“婚前禁止性行为”,但我一点也不保守.我会支持你追求你的爱,用你自己的方式享受你的生活."
 
 
 
-    "Lady Minna" "But still, I don’t think you should give your virginity to this young man."
+    "明娜夫人""但我还是觉得你不应该把你的第一次给这个年轻人."
 
 
 
     scene b_train_inti_2_55 with tstmgr
 
-    b "What? Why? That’s not fair!"
+    b "什么?为什么?这不公平!"
 
 
 
-    "Lady Minna" "Let’s be realistic, Sen, you will leave this country after you graduate from college. You know that, right?"
+    "明娜夫人""让我们现实一点吧,森,你大学毕业后就要离开这个国家.你知道的,对吧?"
 
 
 
-    player "Wait, what? Sen, you have never told me that!"
+    player "等等,什么?森,你从没跟我说过!"
 
 
 
     scene b_train_inti_2_56 with tstmgr
 
-    b "I... ... ... ..."
+    b "我............"
 
 
 
-    b "Do I... have to go home?"
+    b "我...必须回家吗?"
 
 
 
-    "Lady Minna" "Yeah, that’s not negotiable. The family needs you there."
+    "明娜夫人""Yeah,没有商量的余地.家里需要你."
 
 
 
     scene b_train_inti_2_57 with tstmgr
 
-    "Lady Minna" "By that time you will have to say farewell to Mr. [P] unless he agrees to move to China with you. But we both know that is not going to happen."
+    "明娜夫人""到那时你将不得不和[P]先生告别了,除非他同意和你一起搬到中国去.但我们都知道那是不可能的."
 
 
 
-    "Lady Minna" "His family needs him here too, right, Mr. [P]?"
+    "明娜夫人""他的家人也需要他,对吧,[P]先生?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    "Lady Minna" "And that will be the end of your relationship. It is unavoidable."
+    "明娜夫人""这样你们的关系就结束了.这不可避免."
 
 
 
     scene b_train_inti_2_58 with tstmgr
 
-    b "But... we love each other... ..."
+    b "但是...我们彼此相爱......"
 
 
 
     scene b_train_inti_2_59 with tstmgr
 
-    "Lady Minna" "Romeo and Juliet loved each other too."
+    "明娜夫人""罗密欧和朱丽叶也彼此相爱."
 
 
 
     scene b_train_inti_2_58 with tstmgr
 
-    "Lady Minna" "So please, you two, don’t get too immersed in this relationship. Let’s make it a happy memory of youth. You can kiss, hug, or even touch each other, but please don’t go any further, okay? It’s not about the tradition, it’s for your own good."
+    "明娜夫人""所以拜托,你们俩,别太沉浸在这段感情里.让它成为一个快乐的记忆的青春.你们可以亲吻,拥抱,甚至触摸对方,但请不要更进一步,好吗?这与传统无关,这是为了你好."
 
 
 
     scene b_train_inti_2_60 with tstmgr
 
-    b "I... I don’t understand... ..."
+    b "我...我不明白......"
 
 
 
-    "Lady Minna" "I know you so well, my daughter. You are such an emotional person. Once you have the deep intercourse with him, you will never be able to take this relationship out of your life easily. He will always have a place in your heart."
+    "明娜夫人""我很了解你,我的女儿.你是个情绪化的人.一旦你和他有了深刻的交流,你就不可能轻易地斩断这段关系."
 
 
 
-    "Lady Minna" "And it will break your heart on the day you leave him."
+    "明娜夫人""到你离开他的那一天,你会心碎的."
 
 
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    "Lady Minna" "You are going to graduate next year, which means you can only be with him for at most a year. You may have a wonderful year with him, but then you will be likely to regret it for all your life. Are you really willing to do that?"
+    "明娜夫人""你明年就要毕业了,这意味着你最多只能和他在一起一年.你可能和他度过了美好的一年,但之后你可能会后悔一辈子.你真的愿意这么做吗?"
 
 
 
-    b "Mama, please... ... We can deal with the long distance relationship."
+    b "妈妈,求你了...我们可以处理好异地恋."
 
 
 
-    "Lady Minna" "I don’t think so. There will be a 10-hour time difference and a 10-hour flight time between you two. Any relationship would become a tragedy or a joke at such a distance."
+    "明娜夫人""我不这么想.你们会有10个小时的时差和10个小时的飞行时间.距离这么远,任何关系都会变成悲剧或笑话."
 
 
 
     scene b_train_inti_2_61 with tstmgr
 
-    b "Then I’m not going back! I’m staying here and staying with him!"
+    b "那我就不回去了!我要留在这里和他在一起!"
 
 
 
-    "Lady Minna" "... ... ... ..."
+    "明娜夫人""... ... ... ..."
 
 
 
     scene b_train_inti_2_62 with tstmgr
 
-    "Lady Minna" "What do you say, Mr. [P]? You seem like a rational person."
+    "明娜夫人""你说呢,[P]先生?你看起来是个理性的人."
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
     label B_train_inti_2_choice_4:
 
     menu:
-        "I’m not giving up":
+        "我不会放弃的":
 
 
-            player "I’m not giving up! There must be something we can do. We are not Romeo and Juliet and this is not the bloody 14th century anymore!"
+            player "我不会放弃的!我们一定能做点什么.我们不是罗密欧与朱丽叶,也不再是血腥的14世纪了!"
 
-            player "Nothing will take us apart! If Sen has to go back to her country, then I’ll go find her there! As simple as that!"
+            player "没有什么能把我们拆散!如果森必须回她的国家,那我就去那里找她!就这么简单!"
 
             scene b_train_inti_2_63 with tstmgr
 
-            "Lady Minna" "Ho... ... guess I was wrong. Not a rational person at all~"
+            "明娜夫人""Ho......看来我错了.你根本不是一个理性的人~"
 
             scene b_train_inti_2_64 with tstmgr
 
             b "[P]... ... ... ..."
 
-            "Lady Minna" "But can it really be that simple? I heard your father is in deep trouble right now and it’s not likely he can get out of jail soon. He will need you here to take care of his estates and business."
+            "明娜夫人""但事情真的这么简单吗?我听说你父亲现在有大麻烦了,他不太可能很快出狱.他需要你在这里照顾他的财产和生意."
 
-            player "I can handle my love and my family at the same time!"
+            player "我能同时处理好我的爱和我的家人!"
 
             scene b_train_inti_2_65 with tstmgr
 
-            "Lady Minna" "I doubt that~"
+            "明娜夫人""对此我表示怀疑~"
 
             scene b_train_inti_2_66 with tstmgr
 
             b "[P]... ..."
 
-            player "Well, ma’am, you can definitely have your doubt, but what can you do about it? Are you going to force Senning to break up with me? You were the one who said you would support her to pursue her love in her own ways."
+            player "Well,女士,你当然可以怀疑,但你能做些什么呢?你要逼森柠跟我分手吗?是你说你会支持她用自己的方式追求她的爱."
 
             scene b_train_inti_2_67 with tstmgr
 
-            "Lady Minna" "... ... ... ..."
+            "明娜夫人""... ... ... ..."
 
-            "Lady Minna" "I won't force her to do anything. Sen is free to be with the boy she loves, besides... ... I actually kinda like you~"
+            "明娜夫人""我不会强迫她做任何事.森可以自由地和她爱的男孩在一起,另外......我其实挺喜欢你的~"
 
-            player "Then you should help us instead of restricting us! Restriction will not solve the problem! There must be a perfect way! Let’s work it out together!"
+            player "那你应该帮助我们,而不是限制我们!限制并不能解决问题!一定有一个完美的方法!让我们一起来解决吧!"
 
             scene b_train_inti_2_68 with tstmgr
 
-            b "[P]~~ I love you!!~~~"
+            b "[P]~~我爱你!!~~~"
 
             scene b_train_inti_2_69 with tstmgr
 
-            "Lady Minna" "... ... ... ..."
+            "明娜夫人""... ... ... ..."
 
             scene b_train_inti_2_70 with tstmgr
 
-            "Lady Minna" "Seriously, Sen, how did you find yourself such a good boy?"
+            "明娜夫人""说真的,森,你怎么发现这个宝藏男孩的?"
 
             scene b_train_inti_2_71 with tstmgr
 
-            "Lady Minna" "You just impressed me again, Mr. [P], and congratulations, you just passed that test~"
+            "明娜夫人""你又给我留下了深刻的印象,[P]先生,恭喜你,你刚刚通过了测试~"
 
             scene b_train_inti_2_72 with tstmgr
 
-            player "Wait, what? That was... a test?"
+            player "等等,什么?...一个测试?"
 
-            "Lady Minna" "Well, yes, that was a test, but I didn’t lie to you, Senning does need to leave your country after she graduates. However... ..."
+            "明娜夫人""Well,yes,是个测试,但我没骗你,森柠毕业后确实需要离开你的国家.然而......"
 
-            "Lady Minna" "You were right about one thing, that she won’t have to leave if I offer to help~"
+            "明娜夫人""有件事你说对了,如果我帮忙她就不用走了~"
 
-            b "Mama! You are going to help us, right? Right?"
+            b "妈妈!你会帮我们的,对吧?对吧?"
 
-            "Lady Minna" "Only on one condition..."
+            "明娜夫人""只有一个条件..."
 
-            "Lady Minna" "You have to promise that you will marry my daughter. Can you do that, Mr. [P]?"
+            "明娜夫人""你得答应我要娶我女儿.你能做到吗,[P]先生?"
 
-            player "I... ..."
+            player "我......"
 
             scene b_train_inti_2_73 with tstmgr
 
-            b "Mom... ... Isn’t it too early to talk about marriage?"
+            b "妈妈...现在谈婚姻是不是太早了?"
 
             scene b_train_inti_2_74 with tstmgr
 
-            "Lady Minna" "What are you talking about, silly girl? Why on earth should I help him stay with you if he doesn’t even want to marry you?"
+            "明娜夫人""你在说什么,傻女孩?如果他都不想和你结婚我为什么要帮他和你在一起?"
 
             scene b_train_inti_2_75 with tstmgr
 
             b "Awwwwww... ... ... ..."
 
-            player "I understand, ma’am. I will marry Sen... in the future."
+            player "我明白了,夫人.我会娶森...在将来."
 
             scene b_train_inti_2_76 with tstmgr
 
             b "Awwww... ... [P]... ..."
 
-            "Lady Minna" "Perfect~."
+            "明娜夫人""完美~."
 
-            "Lady Minna" "Come to my hotel room tomorrow and let’s talk more about the detail~"
+            "明娜夫人""明天到我的酒店房间来,我们再谈谈细节~"
 
-            "Lady Minna" "Now if you don’t mind, good boy, I would like to spend some time with my daughter alone. I haven’t seen her for three years."
+            "明娜夫人""如果你不介意的话,好孩子,我想和我女儿单独待一会儿.我有三年没见过她了."
 
             scene b_train_inti_2_77 with tstmgr
 
-            b "But we are supposed to have a date today~"
+            b "但我们今天应已经约好了的~"
 
             scene b_train_inti_2_78 with tstmgr
 
-            "Lady Minna" "Oh God... ... Tired of staying with your mama already? My heart hurts... ..."
+            "明娜夫人""OhGod......已经厌倦和你妈妈住一起了吗?我的心受伤了......"
 
-            b "Awwwww... ... Sorry, mama~~"
+            b "Awwwww......对不起,妈妈~~"
 
             player "... ... ... ..."
 
-            player "I will... come to you tomorrow. Have a nice night, ladies."
+            player "我...明天来找你.祝你们晚上过得愉快,女士们."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "You... you are right (Alternative end)":
+        "你...你是对的(选择结束)":
 
 
 
 
-            player "Do we... really have only one year to spend together?"
+            player "我们...真的只有一年的时间可以在一起?"
 
-            "Lady Minna" "Yeah, she has to get back home after graduation and join the family business. That’s her responsibility."
+            "明娜夫人""Yeah,她毕业后必须回家,加入家族企业.这是她的责任."
 
-            "Lady Minna" "As for you, young man, as far as I know, your father is in deep trouble right now and it’s not likely he can get out of jail soon. He will need you here to take care of his estates and business."
+            "明娜夫人""至于你,年轻人,据我所知,你父亲现在有大麻烦了,他不太可能很快出狱.他需要你在这里照顾他的财产和生意."
 
-            "Lady Minna" "And that means you and Senning will have to be apart..."
+            "明娜夫人""也就是说你和森柠必须分开..."
 
-            "Lady Minna" "It’s all about the responsibilities, you know. Both of you are from wealthy families. Your families provided you good lives and good educations, in return, you will have to take the responsibilities that the families need you to take."
+            "明娜夫人""这都是责任,你知道的.你们都出身于富裕的家庭.你们的家庭为你们提供了良好的生活和教育,作为回报,你们将不得不承担家庭需要你们承担的责任."
 
             player "... ... ... ..."
 
-            player "You are right... ..."
+            player "你是对的......"
 
             scene b_train_inti_2_79 with tstmgr
 
-            b "What? No! How could she be right? There must be a way we can... ..."
+            b "什么?No!她怎么可能是对的?一定有办法的......"
 
-            player "I... I don’t want to accept it either, Sen. One year... is too short. If I can, I want to be with you forever."
+            player "我...我也不想接受,森,一年...太短了.如果可以,我想永远和你在一起."
 
-            player "But... ... your mother is right. We are not kids anymore. We have to... take our responsibilities. You will go back to your home country, and I will stay here to deal with my dad’s mess."
+            player "但是...你妈妈是对的.我们不再是孩子了.我们必须...承担我们的责任.你回你的祖国去,我留在这里处理我爸爸的烂摊子."
 
             scene b_train_inti_2_80 with tstmgr
 
-            b "So... you are... breaking up with me?"
+            b "所以...你是...和我分手?"
 
-            player "No, I am not doing that. I just think your mom is right. If this is going to be the only year that we can be together, I wish you will remember me as someone who once brought you happiness. I wish you will smile instead of crying when you recall my face many years later."
+            player "No,我不会那样做的.我只是觉得你妈妈是对的.如果今年是我们唯一能在一起的一年,我希望你会记得我这个曾经给你带来幸福的人.我希望多年后当你想起我的脸时,你会笑而不是哭."
 
-            player "So maybe... like your mom said, our relationship should not go deeper."
+            player "所以也许...就像你妈妈说的,我们的关系不应该更进一步."
 
             scene b_train_inti_2_81 with tstmgr
 
-            b "So you are going to break up with me one year later, what’s the difference?!"
+            b "所以一年后你要和我分手,有什么区别呢?!"
 
-            b "Coward! I hate you!"
+            b "懦夫!我恨你!"
 
-            player "Sen... ..."
+            player "森......"
 
             scene b_train_inti_2_82 with tstmgr
 
-            "Senning buried her head in her mom's breasts and cried out loud. She must has been really disappointed at me. But... what else could I do? I can’t just elope with her. The responsibilities lie between us."
+            "森柠把头埋在妈妈的胸里大声哭了起来.她一定对我很失望.但是...我还能做什么?我不能就这么跟她私奔.我们之间有责任."
 
-            player "Sigh... ... ... ..."
+            player "唉............"
 
-            "Maybe she is right. I am really just a coward."
+            "也许她是对的.我真是个懦夫."
 
             scene b_train_inti_2_83 with tstmgr
 
-            "Lady Minna" "... ... ... ..."
+            "明娜夫人""... ... ... ..."
 
-            "Lady Minna" "You did the right thing. Now give us some space, I will talk to her."
+            "明娜夫人""你做得对.给我们点空间,我去跟她谈谈."
 
-            player "Okay... ..."
+            player "嗯......"
 
             scene void with tstmgr
 
-            "I walked out to the balcony and stood there staring blankly while Lady Minna was trying to comfort Senning."
+            "我走到阳台上,站在那里发呆而明娜夫人试图安慰森."
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "一段时间后..."
 
-            "Lady Minna" "Cigarette?"
+            "明娜夫人""抽烟吗?"
 
             scene b_train_inti_2_84 with dissolve
 
-            "I didn’t know how long I have stood here, in the end, the voice of Lady Minna brought me back to reality."
+            "我不知道我已经站在这里多久,最后,明娜夫人的声音把我带回现实."
 
-            player "Eh, no, thanks."
+            player "Eh,no,谢谢."
 
             scene b_train_inti_2_87 with tstmgr
 
-            "Lady Minna" "That’s good. Cigarette is bad."
+            "明娜夫人""很好.抽烟不好."
 
             scene b_train_inti_2_85 with tstmgr
 
-            "Lady Minna" "... ... ... ..."
+            "明娜夫人""... ... ... ..."
 
-            "Lady Minna" "To be honest, you impressed me again with your rationality. You made the right decision. It is best for both you and Senning."
+            "明娜夫人""老实说,你的理性又一次打动了我.你做了正确的决定.这样对你和森柠都好."
 
             scene b_train_inti_2_86 with tstmgr
 
-            "Lady Minna" "But... ..."
+            "明娜夫人""但是......"
 
-            "Lady Minna" "You care about her, but you don’t really love her, right?"
+            "明娜夫人""你在乎她,但你不是真的爱她,对吧?"
 
-            player "What? No, I love her very much, I was just... ..."
+            player "什么?No,我很爱她,我只是......"
 
-            "Lady Minna" "Your love to her faded after you heard that you two will be apart one year later. That’s not the true love, face it. You couldn't even make up your mind to stand out and fight the so-called ‘responsibilities’ to defend your love."
+            "明娜夫人""当你听说你俩将在一年后分开时,你对她的爱就消失了.那不是真爱,面对现实吧.你甚至不能下定决心站出来,与所谓的“责任”作斗争来捍卫你的爱."
 
             scene b_train_inti_2_87 with tstmgr
 
-            player "I... I don’t know... ..."
+            player "我...我不知道......"
 
             scene b_train_inti_2_88 with tstmgr
 
-            "Lady Minna" "Don’t get me wrong. I’m not blaming you. You did nothing wrong. I admire you and I thank you for showing up in Senning’s life."
+            "明娜夫人""别误会我.我不是在责怪你.你没做错什么.我钦佩你,也感谢你出现在森柠的生活中."
 
-            "Lady Minna" "I was always worried about her. I was afraid that she is not going to make a success in the adult world with that soft fragile character."
+            "明娜夫人""我一直很担心她.我担心她那柔弱的性格在成人世界里会很受伤."
 
-            "Lady Minna" "But thanks to you, now I don’t have that worry anymore. I’m sure She will become a real woman after this relationship with you, a woman with a bigger heart and a stronger mind."
+            "明娜夫人""但多亏了你,现在我不用再担心了.我相信和你在一起之后,她会成为一个真正的女人,一个有更宽广的心胸和更坚强的头脑的女人."
 
             player "... ... ... ..."
 
-            "Lady Minna is right. My feeling for Sen... is not the real love. I thought I love her, damn, I really thought I do. I enjoy to stay with her and everything. But... ..."
+            "明娜夫人是对的.我对森的感觉...不是真正的爱情.我以为我爱她,该死,我真的以为我爱她.我喜欢和她在一起.但......"
 
-            "I gave up on her as soon as I heard about the one year thing. The real love should be better than that."
+            "我一听说一年的事就放弃了她.真正的爱不应该是这样."
 
-            "Senning and I have been friends for years. Maybe I just mistook the friendship for love."
+            "森柠和我是多年的朋友.也许我把友谊当成了爱情."
 
             scene b_train_inti_2_90 with tstmgr
 
-            "Lady Minna" "Don’t doubt yourself, kid. You have the freedom to love or not to love. Again, you did nothing wrong."
+            "明娜夫人""不要怀疑自己,孩子.你有爱或不爱的自由.再说一遍,你没做错什么."
 
-            "Lady Minna" "But you’d better go now, Senning doesn’t want to see you at this moment."
+            "明娜夫人""但你最好现在就走,森柠这个时候不想见到你."
 
-            "Lady Minna" "Don’t worry, she will understand and she won’t hate you for the decision you made. You two can still be good friends for the next one year."
+            "明娜夫人""别担心,她会理解的,她不会因为你做的决定而恨你.你俩可以继续做一年的好朋友."
 
             player "... ... ... ..."
 
-            "I nodded slightly and left the room quietly. Senning was still crying, but she didn’t look at me when I left."
+            "我微微点了点头,悄悄地离开了房间.森柠还在哭,但我走的时候她都没看我一眼."
 
             scene void with tstmgr
 
@@ -952,37 +952,37 @@ label B_train_inti_2:
 
             "... ... ... ... ... ..."
 
-            "We didn’t really break up during Senning’s final year in this country, at least... no one has really said that out. We still studied together everyday and sometimes we would hang out like we used to."
+            "至少在森柠在这个国家的最后一年,我们并没有真正分手...还没有人提这一点.我们仍然每天在一起学习,有时还会像以前一样出去玩."
 
-            "However, she was not sensitive to my body scent anymore. I guess that meant I have lost her love. The disappointment is like a knife that cuts off her attachment to me."
+            "然而,她对我的体味已经不再敏感了.我想这意味着我失去了她的爱.失望像一把刀,割断了她对我的眷恋."
 
-            "We didn’t do any... intimate activity either. I once tried to kiss her but she shrank away. I apologized to her the next day and she accepted it with politeness, like normal friends would do."
+            "我们没有做任何...亲密活动.有一次我想吻她,但她退缩了.第二天我向她道歉,她礼貌地接受了,就像普通朋友会做的那样."
 
             "... ... ... ..."
 
-            "And finally, one year later, at the day she leaves..."
+            "终于,一年后,在她离开的那天..."
 
-            "At the airport..."
+            "在机场..."
 
             scene b_train_inti_2_91 with dissolve
 
-            player "So... ... I guess this is it."
+            player "所以...我想就是这样了."
 
-            b "Yes, this is it."
+            b "Yes,到此为止了."
 
-            "Senning has really grew a lot during the past year. Her mom was right, she has truly become a stronger and more independent woman after that day. She is not the soft fragile girl that she used to be anymore."
+            "森柠在过去的一年里成长了很多.她妈妈是对的,从那以后,她真的变成了一个更坚强,更独立的女人.她不再是过去那个柔弱的女孩了."
 
             scene b_train_inti_2_92 with tstmgr
 
-            b "Thank you for taking care of me for so long, [P], and... ..."
+            b "谢谢你照顾我这么久,[P],还有......"
 
             scene b_train_inti_2_93 with tstmgr
 
-            b "I will miss you... ..."
+            b "我会想你的......"
 
-            "She seems calm, but I can feel her trembling voice as she tried her best to keep some form of control over her emotions."
+            "她看起来很平静,但我能感觉到她的声音在颤抖,因为她在尽力控制自己的情绪."
 
-            player "I will miss you too, Sen."
+            player "我也会想念你的,森."
 
             scene b_train_inti_2_91 with tstmgr
 
@@ -990,7 +990,7 @@ label B_train_inti_2:
 
             scene b_train_inti_2_94 with tstmgr
 
-            b "Have you... ever regretted? For... not being more intimate with me?"
+            b "你...有没有后悔过?对...没有和我更进一步?"
 
             player "... ... ... ..."
 
@@ -1002,61 +1002,59 @@ label B_train_inti_2:
 
                     player "Yes... ..."
 
-                    player "If there is a second chance, I swear I will... ..."
+                    player "如果有第二次机会,我发誓我会......"
 
                     scene b_train_inti_2_95 with tstmgr
 
-                    "There was a sparkle in Senning’s eyes, but it soon faded away."
+                    "森柠的眼睛里闪烁着光芒,但很快就消失了."
 
                     scene b_train_inti_2_96 with tstmgr
 
-                    b "There is no second chance."
+                    b "没有第二次机会了."
                 "No":
 
 
-                    player "Sen, we did the right thing."
+                    player "森,我们做得对."
 
                     scene b_train_inti_2_96 with tstmgr
 
             b "... ... ... ..."
 
-            b "After all, I will always remember you... as the first man I ever loved In my life."
+            b "毕竟,我会永远记得你...作为我生命中第一个爱过的男人."
 
             scene b_train_inti_2_97 with tstmgr
 
-            b "But you won’t remember me, will you? I am just another sojourner in your life."
+            b "但你不会记得我,对吧?我只是你生命中的又一个过客."
 
             scene b_train_inti_2_98 with tstmgr
 
-            b "One among many... ..."
+            b "在众多的......"
 
-            player "Sen... ..."
+            player "森......"
 
             scene b_train_inti_2_99 with tstmgr
 
-            b "Farewell, [P]. I wish we will meet again someday in the future."
+            b "再见,[P].我希望将来有一天我们还能再见面."
 
             scene b_train_inti_2_100 with tstmgr
 
             b "... ... ... ..."
 
-            b "No, not really. I wish we will never meet again."
+            b "No,算了.我希望我们永远不要再见面."
 
             scene b_train_inti_2_101 with tstmgr
 
-            "Senning left without looking back. I watched her leaving until she disappeared in the gate beyond the security check."
+            "森柠没有回头就离开了.我看着她离开,直到她消失在安检口那边的大门里."
 
-            "And that was the last time I saw Senning."
+            "那是我最后一次见到森柠."
 
             scene void with tstmgr
 
-            "*Senning’s bad end achieved!*"
+            "*森柠的悲剧结局达成!*"
 
             stop music fadeout 1.0
 
-            if not _replaying_event:
-                "*Senning's bad end achieved!*"
-                $ MainMenu(confirm=False)()
+            $ MainMenu(confirm=False)()
 
 
     stop music fadeout 1.0

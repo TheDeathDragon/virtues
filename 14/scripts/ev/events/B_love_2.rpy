@@ -4,309 +4,309 @@ label B_love_2:
     scene school_day_background with tstmgr
     play music happy
 
-    narrator " What should I do on such a beautiful afternoon?"
+    narrator "在这样一个美丽的下午我应该做什么?"
 
-    narrator "I have no more class today. And there is no assignment due tonight. Now it's time to enjoy my life."
+    narrator "我今天没有课了.今晚没有作业要交.现在是享受生活的时候了."
 
     player "... ... ... ..."
 
-    player "I think I will just go find Senning. I know she doesn't have classes this afternoon, either."
+    player "我想我还是去找森柠吧.我知道她今天下午也没有课."
 
-    narrator "I picked up my phone and called her number."
+    narrator "我拿起电话打了她的号码."
 
     narrator "... ... ... ..."
 
     narrator "Du... Du... Du... Du..."
 
-    narrator "No one answers."
+    narrator "无人应答."
 
-    player "Weird..."
+    player "奇怪..."
 
-    player "Where would she be?"
+    player "她会在哪里?"
 
     player "... ... ... ..."
 
-    player "She always stays at the library when she is free. I'm going to take my chance there."
+    player "她有空的时候总是呆在图书馆.我要去那里碰碰运气."
 
     narrator "... ... ... ..."
 
     scene library_background with tstmgr
 
-    narrator " I went to the library."
+    narrator "我来到图书馆."
 
     scene b_love2_1 with tstmgr
 
-    narrator "As expected, I found her in a corner at the second floor. She is having a nap right now."
+    narrator "不出所料,我发现她在二楼的一个角落里.她现在正在午睡."
 
-    narrator "Wait..."
+    narrator "等等..."
 
     player "Hmm... ... ... ..."
 
-    narrator "She has a very special sleeping pose."
+    narrator "她的睡姿很特别."
 
     scene b_love2_2 with tstmgr
 
-    narrator "She puts her breast on the table, lowers her head and falls in sleep like this."
+    narrator "她把胸放在桌子上,低下头,就这样睡着了."
 
-    narrator "To be honest, Senning's breasts are not the biggest among the girls I know, but they are still undoubtedly super attractive."
+    narrator "说实话,在我认识的女孩中,森柠的胸部不是最大的,但毫无疑问,它们依旧非常迷人."
 
     scene b_love2_3 with tstmgr
 
-    narrator "Her dressing style is conservative. Although the weather is not cold, she still wears this long-sleeved shirt which hides every skin under her neck. But it doesn't matter, she is still sexy when she sleeps like this."
+    narrator "她的穿着风格很保守.虽然天气不冷,她仍然穿着这件长袖衬衫,把脖子下面的皮肤都藏了起来.但没关系,她这样睡觉的时候还是很性感."
 
-    player "(It looks like she is inducing men into committing crimes on her)."
+    player "(看来她是在引诱男人对她犯罪)."
 
-    player "(What if it's not me, but other people see her like this?)..."
+    player "(如果不是我,而是别人这样看她呢?)..."
 
-    narrator "I don't know the reason, but I feel bad when I imagine other people may see what I am seeing right now."
+    narrator "我不知道原因,但当我想象其他人可能会看到我现在看到的东西时,我感到很不舒服."
 
     scene b_love2_2 with tstmgr
 
-    player "(I should probably wake her up)."
+    player "(我应该把她叫醒)."
 
     narrator "... ... ... ..."
 
     scene b_love2_3 with tstmgr
 
-    player "On the second thought... I should probably not..."
+    player "再一想...我可能不应该..."
 
-    player "(Maybe I could... do something to her? I mean, she wouldn't notice a thing)."
+    player "(也许我可以...对她做点什么?我是说,她什么都不会注意到)."
 
-    narrator "I came closer to her."
+    narrator "我走近了她."
 
-    player "(For example)..."
+    player "(例如)..."
 
-    player "(I can touch her head)."
+    player "(我能摸到她的头)."
 
     scene b_love2_4 with tstmgr
 
-    narrator "I reached out with a hand and touch her hair softly."
+    narrator "我伸出一只手,轻轻地抚摸着她的头发."
 
     scene b_love2_5 with tstmgr
 
-    narrator "I can hear her slight snoring, it sounds like baby whimpering."
+    narrator "我能听到她轻微的鼾声,像是婴儿在呜咽."
 
-    narrator "Ah... that is lovely."
+    narrator "Ah...真可爱."
 
-    player "(Maybe...)"
+    player "(也许...)"
 
-    player "(I can do something even more invasive?)"
+    player "(我可以做一些更具侵略性的事情?)"
 
-    player "(But that's not right...)"
+    player "(但这是不对的...)"
 
     menu:
-        "Do it":
+        "做":
             $ B_love_2_done_it = True
 
-            narrator "But I can't stand it anymore."
+            narrator "但我再也无法忍受了."
 
             scene b_love2_6 with tstmgr
 
-            narrator "I put out a finger, and then used it to poke one side of her breasts. My finger suddenly felt something soft as a marshmallow."
+            narrator "我伸出一根手指,然后用它戳她一边的胸.我的手指突然摸到到一种软软的东西,像棉花糖一样."
 
-            narrator "Damn that feels good."
+            narrator "该死,感觉真好."
 
-            player "(Damn it, I can't take this anymore)."
+            player "(该死,我再也受不了了)."
 
             scene b_love2_7 with tstmgr
 
-            narrator "I changed the finger into an entire hand and grabbed her breast."
+            narrator "我把手指变成一只完整的手,抓住她的胸."
 
-            narrator "I feel like I am holding a heaven in my hand."
+            narrator "我觉得我的手里握着整个天堂."
 
-            player "(Hoho, I can do this all day.)"
+            player "(Hoho,我可以做一整天.)"
 
             scene b_love2_8 with tstmgr
 
-            b "(In a trance) Emm......"
+            b "(恍惚)Emm......"
 
-            narrator "She seemed to be roused by my actions."
+            narrator "她似乎被我的行为惊醒了."
 
-            player "(Damn, she is awaking.)"
+            player "(该死,她醒了.)"
 
-            narrator "I loosed my hand immediately."
+            narrator "我立刻松开了手."
 
             scene b_love2_5 with tstmgr
 
-            narrator "I don't know why I did this, but I put my hand on her head after loosed it from her breast. Maybe I just didn't enjoy her body enough yet."
+            narrator "我不知道我为什么这样做,我把手从她的胸部移到头上.也许我还意犹未尽."
 
-            narrator "But no need to worry, this is a safe action. She will only take this as a prank after she wakes."
+            narrator "但不用担心,这是一个安全的行为.她醒来后会把这当成恶作剧."
 
             scene b_love2_10 with tstmgr
 
             b "Emm... ..."
 
-            b "Em... What happened..."
+            b "Em...发生了什么..."
 
-            b "Why are you standing by my side?"
+            b "你为什么站在我旁边?"
 
-            b "And touching my head?..."
+            b "还摸我的头?..."
 
-            narrator "She woke up, but still in an unconscious mode."
+            narrator "她醒了,但仍处于无意识的状态."
 
-            player "You can't blame me on that. You look so cute when sleep."
+            player "你不能怪我.因为你睡觉的时候看起来真可爱."
 
             scene b_love2_11 with tstmgr
 
-            b "Really?"
+            b "真的?"
 
             b "... ... ... ..."
 
-            b "Move your hand away. It itches."
+            b "把手移开."
 
-            player "I can't. It is attracted by your head."
+            player "我做不到.它被你的头吸住了."
 
-            b "Is my head a magnet?"
+            b "我的头是磁铁吗?"
 
-            player "How would anyone say her head is a magnet? You are dumb."
+            player "怎么会有人说她的头是磁铁呢?你真是个傻子."
 
             scene b_love2_12 with tstmgr
 
-            b "But you said... whatever..."
+            b "但是你说...算了..."
 
             scene b_love2_13 with tstmgr
 
-            narrator "She closed her eyes again and continued to sleep. Maybe she is really tired."
+            narrator "她又闭上眼睛继续睡觉.也许她真的累了."
 
-            narrator "I still didn't move my hand away. She seemed to be comfortable with my touching. Sometimes she would even rub against my hand like a kitty."
+            narrator "我仍然没有把手移开.她似乎对我的抚摸感到很舒服.有时她甚至会像小猫一样蹭我的手."
 
-            narrator "And so my evil thought rose again."
+            narrator "于是我邪恶的念头又冒了出来."
 
-            narrator "Maybe I can raise her shirt up and see what kind of bra she is wearing?"
+            narrator "也许我可以把她的衬衫撩起来,看看她穿的是什么胸罩?"
 
-            narrator "I looked around. This entire building is quiet and empty. No one would notice me."
+            narrator "我环顾四周.整个建筑安静而空旷.没有人会注意到我."
 
             scene b_love2_14 with tstmgr
 
-            narrator "I carefully leaned her back in the chair. Good, she didn't feel a thing."
+            narrator "我小心翼翼地把她靠在椅背上.很好,她一点感觉都没有."
 
-            narrator "And now..."
+            narrator "那么现在..."
 
             scene b_love2_15 with tstmgr
 
             narrator "Uh huh!"
 
-            narrator "What a cute bra!"
+            narrator "多可爱的胸罩啊!"
 
             narrator "... ... ... ..."
 
-            narrator "But that is it. I want to do something more, but now it is not the time. She will wake up in any second, and if she finds out what I am doing right now, our friendship will go to an end, and she may even call the police. I don't wanna see that happen."
+            narrator "但仅此而已.我想做更多的事,但现在不是时候.她随时都会醒来,如果她发现我现在在做什么,我们的友谊就会结束,她甚至可能会报警.我不想看到这种事发生."
 
             scene b_love2_14 with tstmgr
 
-            narrator "I pulled down her clothes and sat next to her, pretended like nothing has happened."
+            narrator "我拉下她的衣服,坐在她旁边,假装什么也没发生."
 
             scene void with tstmgr
 
-            narrator "Sometime later... ... ... ..."
+            narrator "一段时间后..."
 
             scene b_library_awkward with tstmgr
 
-            b "I put my breasts on the table and slept for an hour?"
+            b "我把胸放在桌子上睡了一个小时?"
 
-            player "Yep. I took some photos. You wanna take a look?"
+            player "是的.我拍了一些照片.你想看看吗?"
 
-            b "How could I... God, that's so nasty."
+            b "我怎么能...天啊,太恶心了."
 
-            b "Wait..."
+            b "等等..."
 
             scene b_library_angry with tstmgr
 
-            b "You took my photos? How could you! Delete them now!"
+            b "你拍了我的照片?你怎么能这样!马上删了它们!"
 
-            player "I'm just joking with you. I am a man of virtue, how could I take advantage of a sleeping girl?"
+            player "我只是跟你开个玩笑.我是个有美德的人,怎么可能做这种事?"
 
-            player "You can check my cell phone if you want. I am perfectly clean."
+            player "如果你想的话,可以看看我的手机.我什么也没拍."
 
-            narrator "Eh... It's true that I didn't take her photos, but I have done something far more fucked up. She'll never know."
+            narrator "Eh...我确实没有给她拍照,但我做了一些更糟糕的事情.她永远不会知道."
 
-            player "Just relax, no one noticed you except me."
+            player "放松点,除了我没人看到."
 
             scene b_library_awkward with tstmgr
 
-            b "That doesn't help..."
+            b "没什么用..."
 
-            b "That was such a misbehavior."
+            b "那真是一种不当的行为."
 
-            b "I will be careful not to sleep in public again."
+            b "我要小心点不要再在公共场合睡觉."
 
             scene library_background with tstmgr
 
             narrator "... ... ... ..."
-        "Hold the line":
+        "不做":
 
 
-            narrator "Forget it. I'm a man of virtue. Touching head is enough."
+            narrator "算了吧.我是个有美德的人.摸摸头就足够了."
 
-            narrator "I continued to touch her head, just like touching a kitty."
+            narrator "我继续摸她的头,就像摸小猫一样."
 
             scene b_love2_10 with tstmgr
 
             b "Hmm... ... ... ..."
 
-            narrator "She is awaking."
+            narrator "她醒了."
 
-            b "Em... What happened..."
+            b "Em...发生了什么..."
 
-            b "Why are you standing by my side?"
+            b "你为什么站在我旁边?"
 
-            b "And touching my head?..."
+            b "还摸我的头?..."
 
-            narrator "She woke up, but still in an unconscious mode."
+            narrator "她醒了,但仍处于无意识的状态."
 
-            player "You can't blame me on that. You look so cute when sleep."
+            player "你不能怪我.因为你睡觉的时候看起来真可爱."
 
             scene b_love2_11 with tstmgr
 
-            b "Really?"
+            b "真的?"
 
-            b "But why don't you move your hand away since now I'm awake?"
+            b "但既然我醒了,你为什么不把你的手移开?"
 
-            player "It is attracted by your head."
+            player "它被你的头吸住了."
 
-            b "Is my head a magnet?"
+            b "我的头是磁铁吗?"
 
-            player "How would anyone say her head is a magnet? You are dumb."
+            player "怎么会有人说她的头是磁铁呢?你真是个傻子."
 
             scene b_love2_12 with tstmgr
 
-            b "But you said... whatever..."
+            b "但是你说...算了..."
 
             scene b_love2_13 with tstmgr
 
-            narrator "She closed her eyes again and continued to sleep. Maybe she is really tired."
+            narrator "她又闭上眼睛继续睡觉.也许她真的累了."
 
-            narrator "I still didn't move my hand away. She seemed to be comfortable with my touching. Sometimes she would even rub against my hand like a real kitty."
+            narrator "我仍然没有把手移开.她似乎对我的抚摸感到很舒服.有时她甚至会像一只真正的小猫一样蹭我的手."
 
             scene void with tstmgr
 
-            narrator "Sometime later... ... ... ..."
+            narrator "一段时间后..."
 
             scene b_library_awkward with tstmgr
 
-            b "I put my breasts on the table and slept for an hour?"
+            b "我把胸放在桌子上睡了一个小时?"
 
-            player "Yep. I took some photos. You wanna take a look?"
+            player "是的.我拍了一些照片.你想看看吗?"
 
-            b "How could I... God, that must be nasty."
+            b "我怎么能...天哪,那一定很恶心."
 
-            b "Wait..."
+            b "等等..."
 
             scene b_library_angry with tstmgr
 
-            b "You took my photos? How could you! Delete them now!"
+            b "你拍了我的照片?你怎么能这样!马上删了它们!"
 
-            player "I'm just joking with you. I am a man of virtue, how could I take advantage of a sleeping girl?"
+            player "我只是跟你开个玩笑.我是个有美德的人,怎么可能做这种事?"
 
-            player "Just relax, no one noticed you except me."
+            player "放松点,除了我没人看到."
 
             scene b_library_awkward with tstmgr
 
-            b "That doesn't help..."
+            b "没什么用..."
 
-            b "That was such a misbehavior."
+            b "那真是一种不当的行为."
 
-            b "I will be careful not to sleep in public again."
+            b "我要小心点不要再在公共场合睡觉."
 
             scene library_background with tstmgr
 

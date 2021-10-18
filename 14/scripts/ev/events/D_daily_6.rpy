@@ -3,11 +3,11 @@ label D_daily_6:
     scene void with tstmgr
     play music happy
 
-    player "*Knock, knock*"
+    player "*咚,咚*"
 
 
 
-    "And the door suddenly opened."
+    "门突然开了."
 
 
 
@@ -15,7 +15,7 @@ label D_daily_6:
 
     $ flashlight()
 
-    player "What the... ..."
+    player "这他妈......"
 
 
 
@@ -23,17 +23,17 @@ label D_daily_6:
 
 
 
-    player "Holy... ... ... ..."
+    player "我的天............"
 
 
 
     scene d_daily6_3 with tstmgr
 
-    g "I slept here last night with Irene. We had some wine and she is still asleep. Sorry, your tutoring class will have to wait."
+    g "我昨晚和艾琳睡在这里了.我们喝了点酒,她还在睡觉.对不起,你的辅导课要等一会了."
 
 
 
-    player "It’s fine... ... But why are you naked?"
+    player "没关系......但你为什么光着身子?"
 
 
 
@@ -43,27 +43,27 @@ label D_daily_6:
 
 
 
-    g "Oh, didn’t even realize it."
+    g "Oh,我甚至都没意识到."
 
 
 
-    g "I just woke up by your knocking, always sleeping in the nude, so... ..."
+    g "我刚被你的敲门吵醒,而且我总是裸睡,所以......"
 
 
 
     scene d_daily6_3 with tstmgr
 
-    g "Nevermind. You already have seen my nude breasts before. So it’s no big deal."
+    g "算了.你已经看过我的胸了.所以没什么大不了的."
 
 
 
-    g "Now I need to go for a pee, excuse me."
+    g "现在我要去尿尿了,失陪."
 
 
 
     scene d_daily6_4 with tstmgr
 
-    "She paseed me and went to the toilet directly."
+    "她从我身边经过,直接去了厕所."
 
 
 
@@ -71,11 +71,11 @@ label D_daily_6:
 
 
 
-    player "Damn... that was such a sexy view of the back."
+    player "Damn...那是多么性感的背影."
 
 
 
-    player "And she said Irene is still asleep?"
+    player "她说艾琳还在睡觉?"
 
 
 
@@ -85,7 +85,7 @@ label D_daily_6:
 
 
 
-    "I walked inside the room and found Irene on her bed."
+    "我走进房间,发现艾琳躺在床上."
 
 
 
@@ -95,11 +95,11 @@ label D_daily_6:
 
 
 
-    d "Butterflies... ..."
+    d "蝴蝶飞......"
 
 
 
-    player "Dear me, how much did you drink last night?"
+    player "天啊,你昨晚喝了多少?"
 
 
 
@@ -109,99 +109,99 @@ label D_daily_6:
 
 
 
-    player "You have not even reached the drinking age."
+    player "你甚至还没到喝酒的年龄."
 
 
 
-    d "Don’t worry, I only had a... a small cup... ..."
+    d "别担心,我只是喝了...一小杯......"
 
 
 
     scene void with tstmgr
 
-    "*Yesterday night.*"
+    "*昨天晚上.*"
 
 
 
     scene d_daily6_7 with flashback
 
-    d "Yeah! Best girl’s night ever!"
+    d "Yeah!史上最棒的女孩之夜!"
 
 
 
-    d "Mommy won’t be home tonight! We can drink as much as we want!"
+    d "妈妈今晚不在家!我们想喝多少就喝多少!"
 
 
 
     scene d_daily6_8 with flashback
 
-    d "Ahhh... ... My head hurts... ..."
+    d "Ahhh......我头痛......"
 
 
 
-    player "Do you need me to bring you some water?"
+    player "你需要我给你拿些水来吗?"
 
 
 
     scene d_daily6_9 with tstmgr
 
-    d "No... ... I’m fine."
+    d "No......我很好."
 
 
 
-    player "Hmm, well then, maybe we should start our tutoring lesson for today?"
+    player "Hmm,那么,也许我们该开始今天的辅导课了?"
 
 
 
     scene d_daily6_10 with tstmgr
 
-    d "What, noooooooo... ... ... ..."
+    d "什么,noooooooo............"
 
 
 
     scene d_daily6_11 with tstmgr
 
-    d "[P], can I have a break for today? I am not sober yet."
+    d "[P],今天我能休息一下吗?我还没清醒."
 
 
 
-    d "Pleeeeeeease... ..."
+    d "拜拜拜拜拜拜拜托......"
 
 
 
-    "Shit, how can I ever say no to this vulnerable creature?"
+    "Shit,我怎么能对这个可怜巴巴的小女孩说不呢?"
 
 
 
-    player "Okay, I see... ..."
+    player "Okay,我知道了......"
 
 
 
-    player "We can call it off for today."
+    player "我们今天可以取消辅导课."
 
 
 
     scene d_daily6_12 with tstmgr
 
-    d "Yeeeah! You are the best!"
+    d "Yeeeah!你最好了!"
 
 
 
-    d "Now I think I need to sleep for another few minutes."
+    d "现在我想我需要再睡几分钟."
 
 
 
-    d "Can you please hold me in your arms so I can have a better dream?"
+    d "你能把我抱在怀里,让我有一个更好的梦吗?"
 
 
 
-    "Huh? What theory is that?"
+    "Huh?这是什么逻辑?"
 
 
 
     scene d_daily6_13 with tstmgr
 
-    player "Ehh... sure, why not? Come here, girl."
+    player "Ehh...当然,为什么不呢?过来,女孩."
 
 
 
@@ -209,7 +209,7 @@ label D_daily_6:
 
 
 
-    d "Now I want a good night kiss."
+    d "现在我想要一个晚安吻."
 
 
 
@@ -219,47 +219,47 @@ label D_daily_6:
 
     scene d_daily6_14 with tstmgr
 
-    player "(Kissing her eyebrow) ... ... ... ..."
+    player "(亲吻她的眉毛)............"
 
 
 
-    d "Hmmm, I was thinking about a kiss on the mouth, but nevermind..."
+    d "Hmmm,我想吻你的嘴,不过没关系..."
 
 
 
     scene d_daily6_15 with tstmgr
 
-    "She closed her eyes and fell asleep very soon."
+    "她闭上眼睛很快就睡着了."
 
 
 
-    player "(Such a cute little face... ...)"
+    player "(真可爱的小脸......)"
 
 
 
     scene d_daily6_16 with tstmgr
 
-    player "(And she is sweating a lot. Is it because of the alcohol or the temperature?)"
+    player "(她出了很多汗.是因为酒精还是温度的原因?)"
 
 
 
-    player "(It makes her look so... lewd... ...)"
+    player "(这让她看起来很...淫荡......)"
 
 
 
     scene void with tstmgr
 
-    "Uno came back at this point."
+    "这时乌诺回来了."
 
 
 
     scene d_daily6_17 with tstmgr
 
-    g "Emm? Wow, it seems like you two are super close."
+    g "Emm?Wow,你们俩好像很亲密."
 
 
 
-    player "Eh, yeah, she is like my own little sister."
+    player "Eh,yeah,她就像我自己的小妹妹."
 
 
 
@@ -267,11 +267,11 @@ label D_daily_6:
 
 
 
-    g "I’m not sure if she would be happy to hear this or not."
+    g "我不确定她听到这个会不会高兴."
 
 
 
-    player "Huh? Did I say anything wrong?"
+    player "Huh?我说错了什么吗?"
 
 
 
@@ -285,15 +285,15 @@ label D_daily_6:
 
     scene d_daily6_18 with tstmgr
 
-    player "What? Why are you sitting on my lap all of a sudden?"
+    player "什么?你为什么突然坐在我的腿上?"
 
 
 
-    g "Irene and I are best friends, so you can take me as your own little sister as well."
+    g "艾琳和我是最好的朋友,所以你也可以把我当作你自己的小妹妹."
 
 
 
-    g "Now little sister No.2 needs a sleep, too."
+    g "现在小妹妹二号也需要睡觉了."
 
 
 
@@ -303,15 +303,15 @@ label D_daily_6:
 
 
 
-    player "(Oh my... ...)"
+    player "(我的天......)"
 
 
 
-    player "(Their bodies are so soft and fragrant...)"
+    player "(她的身体是如此的柔软和芳香...)"
 
 
 
-    player "(I will definitely be killed if any man see me holding two such beautiful girls like this.)"
+    player "(如果有人看到我抱着两个这样漂亮的女孩,我一定会被杀的.)"
 
 
 
@@ -319,7 +319,7 @@ label D_daily_6:
 
 
 
-    player "(And I'd better control myself from doing anything further to them... ...)"
+    player "(我最好控制自己不要再对她们做任何事......)"
 
 
 

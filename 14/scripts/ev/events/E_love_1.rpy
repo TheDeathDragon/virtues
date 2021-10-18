@@ -3,67 +3,67 @@ label E_love_1:
     scene mansion_background with tstmgr
     play music happy
 
-    narrator "(Knock, knock, knock.)"
+    narrator "(咚,咚,咚.)"
 
     scene e_mansiongate_day_smile with tstmgr
 
-    narrator "The door opened, and Aunt Elisa appeared in my sight."
+    narrator "门开了,伊莉莎阿姨出现在我的眼前."
 
-    e "Good afternoon, [P]. It's so nice to see you."
+    e "下午好,[P].很高兴见到你."
 
-    player "Hi, Aunt Elisa. You look absolutely marvelous today. "
+    player "Hi,伊莉莎阿姨.你今天看起来真漂亮."
 
     scene e_mansiongate_day_laugh with tstmgr
 
-    e "Stop it. I'm already old, save your sweet words for Theo."
+    e "别这么说.我已经老了,把你的甜言蜜语留给狄奥多拉吧."
 
-    narrator "Aunt Elisa is still happy to hear my praise, it's easy to tell. She is not young, but she still cares about her looks. "
+    narrator "很容易看出,伊莉莎阿姨还是很高兴听到我的赞美.她不年轻了,但她仍然在意自己的外表."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    player "I'm here to tutor Irene again. Is she home yet?"
+    player "我是来辅导艾琳的.她到家了吗?"
 
-    e "Not yet. You may have to wait her for a while. There is a basketball match at her school today, and she has to be there as a cheerleader."
+    e "还没有.你可能得等她一会儿.今天在她的学校有一场篮球赛,她必须去当啦啦队长."
 
-    player "Wait, Irene is a cheerleader?"
+    player "等等,艾琳是啦啦队长?"
 
     scene e_mansiongate_day_smile2 with tstmgr
 
-    e "Yes, and she is quite good at it. I was there last time, and I saw people screaming for her every time when she started to dance. I was so proud."
+    e "是的,她很擅长这个.我上次去的时候,每次她开始跳舞的时候,我都看到人们在尖叫.我太骄傲了."
 
     player "... ... ... ..."
 
-    player "(Irene with a cheerleading uniform on?)"
+    player "(艾琳穿着啦啦队制服?)"
 
     scene e_love1_1 with tstmgr
 
     player "... ... ... ... "
 
-    player "(Yeah, that must be adorable. I can tell why they scream.)"
+    player "(Yeah,那一定很可爱.我知道他们为什么尖叫.)"
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "She seems to enjoy to perform in front of the crowd, just like me when I was at her age."
+    e "她似乎很喜欢在观众面前表演,就像我在她这个年纪的时候一样."
 
     scene e_mansiongate_day_laugh with tstmgr
 
-    e "Ahhhh, it's so good to be young! "
+    e "Ahhhh,年轻真好!"
 
-    narrator "Hmm... That reaction was actually cute."
+    narrator "Hmm...这种反应其实很可爱."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "You must think I'm a silly old woman."
+    e "你一定认为我是个傻老太婆."
 
-    player "I don't... ..."
+    player "我不觉得......"
 
-    e "(Interrupted) Anyway, let's get inside. I made some cookies."
+    e "(打断)不管怎样,我们进去吧.我做了一些饼干."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I followed her inside the house. She then left me in the living room and went to the kitchen for the cookies."
+    narrator "我跟着她进了屋.然后她把我留在客厅,自己去厨房拿饼干."
 
-    narrator "So I decided to suit myself on the couch and wait for her."
+    narrator "所以我决定自己在沙发上等她."
 
     narrator "... ... ... ..."
 
@@ -71,23 +71,23 @@ label E_love_1:
 
     narrator "Emm?... ..."
 
-    narrator "Suddenly, something has grabbed my attention."
+    narrator "突然,有件东西引起了我的注意."
 
     scene e_love1_2 with tstmgr
 
-    narrator "It's a photo, lying on the bookrack. "
+    narrator "这是一张照片,放在书架上."
 
-    narrator "I walked closer and picked it up."
+    narrator "我走过去把它捡起来."
 
     scene e_love1_3 with tstmgr
 
-    narrator "It is an old photo, well, not that old, but it was shot at least 5 years ago. The woman in the photo is Aunt Elisa. She looks as demure as now, but obviously younger."
+    narrator "这是一张老照片,嗯,没那么老,但至少是5年前拍的.照片中的女人是伊莉莎阿姨.她看上去和现在一样端庄,但显然更年轻一些."
 
-    narrator "I think Aunt Elisa was looking at this photo just before I knocked the door. That's why she said \"it's so good to be young\"."
+    narrator "我想在我敲门之前,伊莉莎阿姨正在看这张照片.这就是为什么她说\"年轻真好\"."
 
     narrator "... ... ... ..."
 
-    narrator "Well, old photos can always bring us back to the memories. I actually start to miss Aunt Elisa with her old looks..."
+    narrator "好吧,老照片总能让我们回忆起往事.我真的开始想念伊莉莎阿姨以前的时候了..."
 
     scene void with tstmgr
 
@@ -95,87 +95,87 @@ label E_love_1:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "5 years ago, at Elisa's mansion."
+    narrator "五年前,在伊莉莎家."
 
     scene e_love1_4 with flashback
 
-    e "I am so disappointed at you two. How on earth could you run away from school just like that?"
+    e "我对你们两个太失望了.你怎么能就这样逃学呢?"
 
     scene e_love1_5 with tstmgr
 
-    c "That was [P]'s idea. I told him not to do that."
+    c "这是[P]的主意.我告诉他不要那样做."
 
     scene e_love1_4 with tstmgr
 
-    e "Then why did you follow him instead of stopping him? "
+    e "那你为什么不阻止他,反而跟着他一起逃学?"
 
     scene e_love1_5 with tstmgr
 
-    c "I don't know. Maybe I was just curious about why he was so obsessed with that football match."
+    c "我不知道.也许我只是好奇他为什么那么痴迷于那场足球赛."
 
     scene e_love1_6 with tstmgr
 
-    player "Sorry, Aunt Elisa. It won't happen again."
+    player "对不起,伊莉莎阿姨.不会再发生这种事了."
 
     scene e_love1_4 with tstmgr
 
-    e "You let me down so bad, [P]!"
+    e "你让我太失望了,[P]!"
 
-    e "Your father asked me to look after you while he is abroad on business. How am I gonna tell him? "
+    e "你爸爸出差时让我照顾你.我现在该怎么和他说?"
 
     scene e_love1_6 with tstmgr
 
-    player "Please don't tell my dad about this, please... I'm sorry..."
+    player "请不要把这件事告诉我爸爸,拜托...我很抱歉..."
 
-    c "I think he is gonna cry, mom."
+    c "我想他会哭的,妈妈."
 
     scene e_love1_4 with tstmgr
 
-    e "[P], you are grounded for the rest of the month. Now get back to your room!"
+    e "[P],你这个月剩下的时间都不准出门.现在回你的房间去!"
 
     scene e_love1_6 with tstmgr
 
-    player "(Ran away) Waah... ... ... ..."
+    player "(跑开)Waah............"
 
     scene e_love1_7 with tstmgr
 
-    c "Jeez, he really cried. What a baby..."
+    c "天啊,他真的哭了.像个婴儿一样..."
 
     scene e_love1_4 with tstmgr
 
-    e "And you too, Theodora, are grounded for the rest of the month! "
+    e "你也是,狄奥多拉,你也要被禁足一个月!"
 
     scene e_love1_8 with tstmgr
 
-    c "Wait, what? You can't just..."
+    c "等等,什么?你不能..."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "Suddenly, a little girl came inside the room."
+    narrator "突然,一个小女孩走进了房间."
 
     scene e_love1_9 with tstmgr
 
-    d "What are you doing? Let's play the maid game. Where is [P]?"
+    d "你在干什么?我们来玩女仆游戏吧.[P]在哪?"
 
     scene e_love1_10 with tstmgr
 
-    c "Stop playing that stupid game anymore! Can't you see that the grown ups are talking? Leave us alone!"
+    c "别再玩那个愚蠢的游戏了!你没看见大人在说话吗?别打扰我们!"
 
     scene e_love1_11 with tstmgr
 
-    d "Ahhhh... My sister is a biiiiiitch... ..."
+    d "Ahhhh...我姐姐是个臭婊子......"
 
     scene e_love1_8 with tstmgr
 
-    c "Mom, Irene said the b-word, deal with her!"
+    c "妈妈,艾琳说了脏话,快教训她!"
 
     scene e_love1_4 with tstmgr
 
-    e "Mind your own business, Theodora. Get back to your room, now!"
+    e "别管闲事,狄奥多拉.马上回你房间去!"
 
     scene e_love1_8 with tstmgr
 
-    c "Ehhh... Screw it!"
+    c "Ehhh...去他的!"
 
     scene void with tstmgr
 
@@ -183,23 +183,23 @@ label E_love_1:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Well... that was indeed some unforgettable memory. I was like 15 at that time. "
+    narrator "Well...那的确是一段难忘的回忆.那时我大概15岁."
 
     scene e_love1_12 with tstmgr
 
-    narrator "God, I really miss that period of time. My dad was abroad for half a year, and I was able to live in this mansion with Aunt Elisa's family for an entire semester. "
+    narrator "天啊,我真的很怀念那段时光.我爸爸在国外呆了半年,我得以和伊莉莎阿姨的家人在这栋别墅里住了整整一个学期."
 
-    narrator "And now many things have changed. Guess we will never be back again..."
+    narrator "现在很多事情都改变了.我想我们再也回不去那个时候了..."
 
     scene e_love1_2 with flashback
 
     narrator "... ... ... ..."
 
-    e "Cookies ready."
+    e "饼干准备好了."
 
-    player "Coming right now..."
+    player "来了..."
 
-    narrator "I left the photo at where it was and joined Aunt Elisa in the kitchen."
+    narrator "我把照片留在原地,和伊莉莎阿姨一起进了厨房."
 
     scene void with tstmgr
 

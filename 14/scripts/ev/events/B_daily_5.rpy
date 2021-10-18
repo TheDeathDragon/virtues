@@ -3,87 +3,87 @@ label B_daily_5:
     scene school_day_background with tstmgr
     play music happy
 
-    narrator "I was on my way to the classroom. Suddenly, a girl came out of nowhere and stopped me."
+    narrator "我在去教室的路上.突然,一个女孩不知从哪里冒出来,拦住了我."
 
     scene rcsj_b1 with tstmgr
 
-    f "Hi there. You must be [P.name], that bankrupted young rich dude. I saw your news on the internet."
+    f "嘿.你肯定是[P.name]吧,那个破产的有钱年轻人.我在网上看到了你的新闻."
 
-    player "Eh, yes, it's me."
+    player "Eh,是的,是我."
 
-    player "But technically, I am not bankrupted. My family's property is just temporarily frozen by the bank. It's not permanent."
+    player "但严格来说,我并没有破产.我家的财产被银行暂时冻结了.这不是永久的."
 
     scene f_school_day_wink with tstmgr
 
-    f "Oh, okay. Anyway, I am Rachel, glad to meet you."
+    f "Oh,好吧.不管怎样,我是瑞秋,很高兴见到你."
 
-    player "Me too, Rachel."
+    player "我也是,瑞秋."
 
     scene f_school_day_smile2 with tstmgr
 
-    narrator "Wait, have I seen her somewhere before?"
+    narrator "等等,我以前在什么地方见过她吗?"
 
     narrator "... ... ... ..."
 
-    narrator "Eh, forget it. I can't recall."
+    narrator "Eh,算了.我不记得了."
 
     scene f_school_day_frown with tstmgr
 
-    f " I'm sorry for your loss, but I'm sure you will get through it."
+    f "我为你的破产感到难过,但我相信你会度过难关的."
 
-    player "Thank you, but no need to worry. I'm doing well now."
+    player "谢谢你,但不用担心.我现在过得很好."
 
-    narrator "A short silence..."
+    narrator "短暂的沉默..."
 
-    player "Eh, what's your major?"
+    player "Eh,你的专业是什么?"
 
     scene f_school_day_smile1 with tstmgr
 
-    narrator "Asking major is always a good conversation topic in college when you have nothing else to talk."
+    narrator "在大学里,当你没什么可说的时候,问专业总是一个很好的话题."
 
-    f "Environmental science, and I am also in the school's track team."
+    f "环境科学,同时我也是学校的田径队的一员."
 
-    player "Wow, cool. That kicks ass."
+    player "Wow,cool.真是太棒了."
 
-    f "Thanks."
+    f "谢谢."
 
     f "... ... ... ..."
 
-    f "I suggest we exchange phone numbers, what you think?"
+    f "我建议我们交换一下电话号码,你觉得怎么样?"
 
-    player "Yeah, we should definitely do that."
+    player "Yeah,必须的."
 
     scene school_day_background with tstmgr
 
-    narrator "We exchanged the contract, and then she left in a rush. Is she going to a class? Or is she going to her track team? Who knows."
+    narrator "我们交换了码,然后她匆匆离开了.她要去上课吗?还是去她的田径队?谁知道."
 
-    narrator "Suddenly, I realized someone was pulling my shirt. So I turned around."
+    narrator "突然,我意识到有人在扯我的衬衫.所以我转过身来."
 
-    narrator "It was Senning."
+    narrator "是森柠."
 
     scene b_school_day_frown with tstmgr
 
-    b "Who was that girl?"
+    b "那个女孩是谁?"
 
-    player "Her name is Rachel. Does that ring the bell?"
+    player "她的名字叫瑞秋.你认识吗?"
 
-    b "No, never heard of it."
+    b "没有,从来没听说过."
 
-    player "She seems cool, doesn't she? She said she is in our school's track team."
+    player "她看起来很酷,不是吗?她说她在我们学校的田径队."
 
     scene b_school_day_surprise with tstmgr
 
-    b "Our school has a track team? I don't even know."
+    b "我们学校有田径队吗?我甚至不知道."
 
     scene b_school_day_smile with tstmgr
 
-    b "Anyway, no time to chat, the class is about to begin. We should hurry up."
+    b "无论如何,没有时间聊天了,课就要开始了.我们应该快点."
 
-    player "Yeah, you are right. Let's go."
+    player "是的,你说得对.我们走吧."
 
     scene school_day_background with tstmgr
 
-    narrator "I spent some time with Senning on campus... ... ... ..."
+    narrator "我在校园里和森柠相处了一段时间............"
 
     stop music fadeout 1.0
 

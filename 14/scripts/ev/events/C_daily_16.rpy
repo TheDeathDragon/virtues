@@ -9,87 +9,87 @@ label C_daily_16:
 
     scene c_daily16_1 with dissolve
 
-    player "You want to see me, Theo?"
+    player "你想见我,西奥?"
 
 
 
-    c "You know, you have been reported by some people for coming to my office too often and neglecting your own works."
+    c "你知道,有些人举报你经常来我的办公室,忽视自己的工作."
 
 
 
-    player "Oh... well, they do have a point."
+    player "Oh...well,他们说得有道理."
 
 
 
-    player "But why do I feel like they were reporting you as well?"
+    player "但为什么我觉得他们也在举报你?"
 
 
 
     scene c_daily16_2 with tstmgr
 
-    c "Yeah, people have noticed our relationship and they said we are taking my office as a, I quote, love hotel."
+    c "Yeah,人们已经注意到我们的关系,他们说我们把我的办公室当作,原话是,情侣套房."
 
 
 
-    player "Sorry... ..."
+    player "抱歉......"
 
 
 
-    player "But I am the only one who will get a punishment, right? So what will I get? Will I be transfered to another department?"
+    player "但我是唯一会受到惩罚的人,对吧?那么我会怎么样呢?我要被调到另一个部门吗?"
 
 
 
     scene c_daily16_3 with tstmgr
 
-    c "Yeah, you will get a new position... but not in another department."
+    c "Yeah,你会得到一个新职位...但不是在其他部门."
 
 
 
-    c "From now on, you will be my formal assistant~"
+    c "从现在起,你将是我的正式秘书~"
 
 
 
     scene c_daily16_4 with tstmgr
 
-    c "That means you can come to my office whenever you want and stay here as long as you like. No one will judge you anymore."
+    c "也就是说,你可以随时来我的办公室,想在这儿待多久就待多久.没人会再说你了."
 
 
 
-    player "What? That doesn’t sound like a punishment at all. It’s a fucking promotion! We can have fun all day long!"
+    player "什么?这听起来根本不像是惩罚.这他妈是升职!我们可以玩一整天!"
 
 
 
-    c "Hummmm? A promotion? You really think it that way?"
+    c "Hummmm?升职吗?你真这么想?"
 
 
 
-    c "Well, congratulation then~ but being my assistant may not be as good as you think. This place is not a real love hotel after all~"
+    c "Well,那么恭喜你了~但是当我的助理可能没有你想的那么好.这地方毕竟不是真正的情侣套房~"
 
 
 
-    player "Eh... what do you mean?"
+    player "Eh...你什么意思?"
 
 
 
     scene c_daily16_5 with tstmgr
 
-    c "You see these papers on my table? They belong to you now. Please finish them before lunch, Mr. Secretary~"
+    c "你看到我桌上的这些文件了吗?它们现在属于你了.请在午餐前完成,秘书先生~"
 
 
 
     scene c_daily16_6 with tstmgr
 
-    c "I’m going to take a nap on the couch. Let me know after you finish the job~"
+    c "我要去沙发上睡一会儿.工作做完后告诉我.~"
 
 
 
-    player "What? Wait... ... but... what about having fun?"
+    player "什么?等等......但是...我们不找乐子吗?"
 
 
 
     scene c_daily16_7 with tstmgr
 
-    c "Let’s talk about that after you finish the job, shall we? Now hurry up~"
+    c "你干完活我们再谈这个,好吗?现在快点~"
 
 
 
@@ -97,7 +97,7 @@ label C_daily_16:
 
 
 
-    player "Fine... ..."
+    player "好吧......"
 
 
 

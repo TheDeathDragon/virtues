@@ -3,16 +3,16 @@ label G_love_2:
     scene void with dissolve
     play music happy
 
-    "User ID: MissU."
-    "929 Followers."
-    "7 Videos."
-    "38117 Video Views."
+    "用户名:MissU."
+    "929个粉丝."
+    "7个视频."
+    "38117视频播放."
 
-    "Latest Video: first_video_in_my_new_room."
-    "2 days ago."
-    "2978 views."
+    "最新视频:新房间的第一个视频."
+    "2天前."
+    "2978的浏览量."
 
-    "Video begins."
+    "视频开始."
 
     scene g_love_2_1 with longdissolve
     pause
@@ -20,7 +20,7 @@ label G_love_2:
     g "... ... ... ..."
 
     scene g_love_2_2 with dissolve
-    pause 
+    pause
 
     scene g_love_2_3 with dissolve
     pause
@@ -57,15 +57,15 @@ label G_love_2:
     scene void with dissolve
     pause
 
-    "Video ends."
+    "视频结束."
 
-    "Comments" "\"That's it?\" -- from Anonymous."
+    "评论""\"就这?\"--fromAnonymous.(用户评论)"
 
-    "Comments" "\"The girl has perfect tits, but she doesn't know how to play with them.\" -- from J.P."
+    "评论""\"这个女孩有完美的乳房,但她不知道如何与它们玩耍.\" -- from J.P."
 
-    "Comments" "\"She doesn't even make a sound, for God's sake.\" -- from Pornlover123."
+    "评论""\"她连一点声音都没有.\" -- from Pornlover123."
 
-    "Comments" "\"I wish she could ride some big dicks.\" -- from Djon."
+    "评论""\"我希望她能骑几只大鸡巴.\" -- from Djon."
 
     scene g_love_2_11 with tstmgr
 
@@ -75,19 +75,19 @@ label G_love_2:
 
     scene g_love_2_12 with tstmgr
 
-    g "Sigh... ..."
+    g "唉......"
 
-    g "These men on the internet... they just can't get enough."
+    g "这些男人在网上...永远不满足."
 
     scene g_love_2_13 with tstmgr
 
-    g "How can I satisfy them?"
+    g "我怎样才能使他们满意呢?"
 
     g "... ... ... ..."
 
     scene g_love_2_14 with tstmgr
 
-    g "I need to ask somebody..."
+    g "我得问问别人..."
 
     scene void with tstmgr
 

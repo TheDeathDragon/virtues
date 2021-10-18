@@ -3,11 +3,11 @@ label ACG_duo_3:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, I came back home after work, but hesitated for a long time at the front door before I went in... ..."
+    "今晚晚些时候,我下班回家,但在前门犹豫了很久才进去......"
 
 
 
-    "Sigh... ... After what happened that night, it will be awkward to face the three girls now."
+    "唉......经过那晚发生的事,现在面对这三个女孩肯定会很尴尬."
 
 
 
@@ -19,11 +19,11 @@ label ACG_duo_3:
 
     scene void with flashback
 
-    "Should I apologize to Uno and Vera?"
+    "我应该向乌诺和薇拉道歉吗?"
 
 
 
-    "In the end, I opened the door anxiously, however, what awaits me there is... ..."
+    "最后,我忐忑地打开门,然而,等待我的是......"
 
 
 
@@ -31,57 +31,57 @@ label ACG_duo_3:
 
     $ flashlight()
 
-    "Girls" "Welcome home, master~"
+    "女孩们""欢迎回家,主人~"
 
 
 
-    player "Wow, what... what is this about?"
+    player "Wow,这...这是怎么回事?"
 
 
 
-    c "You have made us all your tits slaves last night, remember?"
+    c "你昨晚把我们都变成了你奶子奴隶,记得吗?"
 
 
 
-    g "And we are here to welcome master home~"
+    g "我们在这里欢迎主人回家~"
 
 
 
-    a "I didn’t want to do this. This is... this is ridiculous... ..."
+    a "我不想这么做.这...这太荒谬了......"
 
 
 
     scene acg_duo_3_2 with tstmgr
 
-    a "But I can’t be the only one left, so... ..."
+    a "但我不能落下,所以......"
 
 
 
-    "Oh God... ... This is really happening! My harem is finally a real thing!"
+    "OhGod......这是真的!我的后宫终于成立了!"
 
 
 
-    "I don’t know if they had a discussion about this or not... ... No, there must be a discussion about this. I don’t know how Theo convinced them, but anyway, now these girls have accepted to have intimate relationships with me together! From now on... ... Oh... ..."
+    "我不知道她们是否讨论过这个问题......不,这事一定得商量一下.我不知道西奥是怎么说服她们的,但不管怎样,现在这些女孩已经接受了和我一起建立亲密关系!从现在开始......Oh......"
 
 
 
-    "I can’t even imagine how happy my life will become~"
+    "我甚至无法想象我的生活将变得多么幸福~"
 
 
 
     scene acg_duo_3_3 with tstmgr
 
-    player "Ohhhhhhh... ... Boobs!!!! This is exactly what I need after work!"
+    player "Ohhhhhhh......奶子们!!!!这正是我下班后需要的!"
 
 
 
-    c "*Slightly surprised* ... ... ... ..."
+    c "*有点惊讶*............"
 
 
 
     scene acg_duo_3_4 with tstmgr
 
-    c "*Cueing others with eyes* ... ... ... ..."
+    c "*用眼睛暗示其他人*............"
 
 
 
@@ -91,7 +91,7 @@ label ACG_duo_3:
 
     scene acg_duo_3_5 with tstmgr
 
-    g "Don’t forget us, master~"
+    g "别忘了我们,主人~"
 
 
 
@@ -99,11 +99,11 @@ label ACG_duo_3:
 
 
 
-    "Ohhhhhh~~~ Boobs are everywhere!!~~~"
+    "Ohhhhhh~~~到处都是奶子!!~~~"
 
 
 
-    "I must be the luckiest man in the world!!!~~~"
+    "我一定是世界上最幸运的人了!!!~~~"
 
 
 

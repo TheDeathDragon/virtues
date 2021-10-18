@@ -3,17 +3,17 @@ label store_1_cj:
     scene void with tstmgr
     play music happy
 
-    "I don’t have many things to do this afternoon, so I decided to go downtown and do some shopping."
+    "今天下午我没有很多事情要做,所以我决定去市中心买些东西."
 
 
 
     scene store_1_cj_1 with dissolve
 
-    player "Vera once said that she wants a new bra... ... yeah, I can buy one for her."
+    player "薇拉曾经说过她想要一个新胸罩...是的,我可以给她买一个."
 
 
 
-    player "And I want to buy Senning a new handbag as a gift, but I’m not sure if I can afford it... ..."
+    player "我想买一个新的手提包作为礼物,但是我不确定我是否买得起......"
 
 
 
@@ -21,15 +21,15 @@ label store_1_cj:
 
 
 
-    player "Maybe I should buy something for myself, too. I haven’t really bought myself anything after my dad went to jail."
+    player "也许我也应该给自己买点东西.自从我爸入狱后,我就没给自己买过什么东西."
 
 
 
-    "I wandered around the street and tried to make up with a shopping list in my mind. I didn’t really pay any attention to the shops down the street because I have been here for hundreds of times and I am familiar with every shop in this street."
+    "我在街上逛来逛去,试着在脑海里列一份购物清单.我并没有真正注意街上的商店,因为我来过这里几百次了,我对这条街上的每一家商店都很熟悉."
 
 
 
-    "But suddenly..."
+    "但突然..."
 
 
 
@@ -37,25 +37,25 @@ label store_1_cj:
 
 
 
-    "I saw a strange little shop at the corner of the street. Is it a new one? I think I never saw it here before."
+    "我看见街角有一家奇怪的小商店.是新开的吗?我想我以前从没在这里见过."
 
 
 
-    "But this place has blended into the street so well. It doesn’t look like a new shop at all."
+    "但这个地方和街道浑然一体.它看起来一点也不像一家新商店."
 
 
 
-    "This is... strange. It feels like my memory is messing around with me. I am positive that I have been into every shop down this street before, how could I ignore this one for the entire time?"
+    "这...有点奇怪.我感觉我有点糊涂了.我肯定我以前去过这条街上的每一家商店,我怎么可能对这家店没有印象呢?"
 
 
 
-    "I walked closer, and found out there was a dusty sign at the front door of the shop. It said ‘Posia’s Astrologer shop’."
+    "我走近一点,发现商店前门有一块布满灰尘的牌子.上面写着‘波西亚占星店’."
 
 
 
     scene void with tstmgr
 
-    player "Astrologer shop?"
+    player "占星店?"
 
 
 
@@ -63,15 +63,15 @@ label store_1_cj:
 
 
 
-    player "Maybe I should get inside and take a look."
+    player "也许我应该进去看看."
 
 
 
-    "Thus I walked into the shop, and... ..."
+    "就这样,我走进了商店......"
 
 
 
-    "I was stunned at what I saw immediately when I got into this place... ..."
+    "当我进入这个地方的时候,我被我所看到的惊呆了......"
 
 
 
@@ -79,83 +79,83 @@ label store_1_cj:
 
     $ flashlight()
 
-    "There was a woman, a naked woman, catwalking in the room with a glass of wine in her hands and humming an unknown song."
+    "一个女人,一个裸体的女人,手里拿着一杯酒,在房间里走猫步,嘴里哼着一首不知名的歌."
 
 
 
     scene store_1_cj_3 with tstmgr
 
-    "Her chubby butt shakes every time when she takes a step. I couldn’t move my eyes away from it."
+    "她圆浑的屁股每次走路都会抖.我的目光无法从它上面移开."
 
 
 
-    "Damn, is this place a secret brothel or something?"
+    "Damn,这是秘密的妓院还是什么?"
 
 
 
     scene store_1_cj_4 with tstmgr
 
-    player "Eh... excuse me?"
+    player "Eh...打扰一下?"
 
 
 
     scene store_1_cj_5 with tstmgr
 
-    "???" "*Turned around* Hmmmm?"
+    "???" "*转身*Hmmmm?"
 
 
 
     scene store_1_cj_6 with tstmgr
 
-    "???" "Wait, are you a... real person?"
+    "???" "等等,你是...真人吗?"
 
 
 
-    player "What... what kind of question is that?"
+    player "什么...这算什么问题?"
 
 
 
     scene store_1_cj_7 with tstmgr
 
-    "The naked woman walked to me without any embarrassment and stared at me like I was an alien or something."
+    "那个裸体的女人毫无尴尬地向我走来,盯着我看,好像我是外星人一样."
 
 
 
-    "???" "Are you... a customer?"
+    "???" "你是...顾客?"
 
 
 
-    player "Eh... that, that depends on what kind of shop this is..."
+    player "Eh...那要看是什么样的商店了..."
 
 
 
     scene store_1_cj_8 with tstmgr
 
-    "???" "Didn’t you see the sign at the front door? This is Posia’s Astrology Shop~"
+    "???" "你没看见前门的牌子吗?这是波西亚的占星店~"
 
 
 
-    player "Yeah... I did see that sign, but I have never seen any naked astrologer before... ..."
+    player "Yeah...我确实看到过,但我以前从没见过裸体占星家......"
 
 
 
     scene store_1_cj_9 with tstmgr
 
-    "???" "Oh, sorry about it, it’s just... no one ever came in my shop in the past 3 years, so... ..."
+    "???" "Oh,很抱歉,只是...在过去的3年里没有人来过我的店,所以......"
 
 
 
-    player "Wait, what? I am your first customer in 3 years? How is that even possible?"
+    player "等等,什么?我是你们3年来的第一个客户?这怎么可能呢?"
 
 
 
     scene store_1_cj_10 with tstmgr
 
-    "???" "Only the chosen ones will step into my shop, so... yeah, you are the first one in 3 years."
+    "???" "只有被选中的人才会来我的店,所以...是的,你是三年来的第一个."
 
 
 
-    player "That doesn’t even make any sense..."
+    player "这根本说不通..."
 
 
 
@@ -163,17 +163,17 @@ label store_1_cj:
 
 
 
-    player "On the second thought, I came to this street almost every week but I never noticed your shop before."
+    player "再一想,我几乎每周都来这条街,但以前从没注意过你的店."
 
 
 
     scene store_1_cj_11 with tstmgr
 
-    "???" "But you noticed it today and chose to get inside. That makes you the chosen one~"
+    "???" "但你今天注意到了,选择进去了.这让你成为被选中的人~"
 
 
 
-    player "So... you mean that all the people on the street couldn’t notice your shop in the past 3 years?"
+    player "所以...你的意思是在过去的3年里街上的人都没有注意到你的店?"
 
 
 
@@ -181,59 +181,59 @@ label store_1_cj:
 
 
 
-    player "Does your shop have a magic shield or something that prevents people from seeing it?"
+    player "你的商店有魔法屏障或其他东西阻止人们看到它吗?"
 
 
 
     scene store_1_cj_12 with tstmgr
 
-    "???" "No, there is no magic in this world. It was just a cognitive science trick that could make most of people ignore my shop."
+    "???" "No,这个世界上没有魔法.这只是一个认知科学的把戏,可以让大多数人忽略我的商店."
 
 
 
-    player "It’s weird to hear an astrologer saying things about... science."
+    player "听到占星家说科学感觉...很奇怪."
 
 
 
-    player "So... why would you want to make most of people ignore your shop? I mean, no customer in 3 years? That was a tragedy."
+    player "所以...为什么你想让大多数人忽略你的商店?我是说,3年都没有客户?这是个悲剧."
 
 
 
-    "???" "As I said, my shop only welcomes the chosen ones."
+    "???" "正如我所说的,我的店只欢迎被选中的人."
 
 
 
-    player "But... you don’t worry about your income?"
+    player "但是...你不用担心你的收入?"
 
 
 
     scene store_1_cj_13 with tstmgr
 
-    "???" "Not at all~ I’m not a carnival’s charlatan who fools the kids for a living. I am Posia, the honorary president of the National Astrology Association. Money is never an issue to me."
+    "???" "一点也不~我不是一个以欺骗小孩子为生的江湖骗子.我是波西亚,国家占星术协会的名誉主席.钱对我来说从来不是问题."
 
 
 
     scene store_1_cj_14 with tstmgr
 
-    "Posia" "But you still have to pay for everything you buy here. Rules are rules~"
+    "波西亚""但是你在这里买东西还是要付钱的.规矩就是规矩~"
 
 
 
-    "Posia" "Don’t worry, I’ll give you a super sweet discount since you are the first chosen one who discovered my place~"
+    "波西亚""不用担心,既然你是第一个发现我店的人,我会给你一个超级甜蜜的折扣~"
 
 
 
-    player "The chosen one, huh... ... I still don’t know what that means..."
+    player "被选中的人,huh......我还是不知道那是什么意思..."
 
 
 
-    player "Anyway, do you want to show me what you sell?"
+    player "不管怎样,你想让我看看你卖什么吗?"
 
 
 
     scene store_1_cj_15 with tstmgr
 
-    "Posia" "Of course~ I’m sure you will find something you like~"
+    "波西亚""当然,我相信你一定会找到你喜欢的~"
 
 
 

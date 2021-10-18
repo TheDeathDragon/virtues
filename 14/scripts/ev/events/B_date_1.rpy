@@ -3,365 +3,365 @@ label B_date_1:
     scene map_day with dissolve
     play music happy
 
-    narrator "What a lovely weekend. Think about it, what should I do today?"
+    narrator "多么可爱的周末.想想看,我今天应该做什么?"
 
-    narrator "Stay at my room and play PS4? That's too nerdy."
+    narrator "呆在我房间玩PS4?那太乏味."
 
-    narrator "Reviewing course materials? Gods, that'll be... pathetic."
+    narrator "回顾课程材料吗?天,这太可怜了."
 
     narrator "... ... ... ..."
 
-    narrator "Maybe I should try ask Senning out to spend some time together."
+    narrator "也许我应该约森柠出去共度时光."
 
-    narrator "I made her a call."
+    narrator "我给她打了个电话."
 
-    b "Hello, [P.name]."
+    b "你好,[P.name]."
 
-    player "Hi, Sen. Do you have time today?"
+    player "嗨,森柠,你今天有空吗?"
 
-    b "Hmm... I do. What's the matter?"
+    b "Hmm...有空.怎么了?"
 
-    player "Do you want to take a ride with me? You haven't seen my new car yet, right? I just bought it two months ago."
+    player "你想和我一起去兜风吗?你还没有看到我的新车,对吗?我两个月前才买的."
 
-    b "Sounds great. When shall we go?"
+    b "听起来不错.我们什么时候去?"
 
-    player " I'll be at your apartment in half an hour."
+    player "我半小时后到你的公寓."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Half an hour later..."
+    narrator "半小时后..."
 
     scene b_date1_1 with tstmgr
 
-    player "Hi, Senning."
+    player "嗨,森柠."
 
     menu:
-        "You look great":
+        "你看起来很棒":
 
             scene b_date1_2 with tstmgr
-            b "Thanks."
+            b "谢谢."
             scene b_date1_4 with tstmgr
-            b "So this is your new car?"
-        "What took you so long?":
+            b "所以这是你的新车?"
+        "为什么这么久才来?":
 
             scene b_date1_3 with tstmgr
-            b "Sorry, I spent too much time on the makeup."
-            player "No big deal, it's worth the wait. You look beautiful."
+            b "对不起,我在化妆上花了太多时间."
+            player "没什么大不了的,值得等待.你看起来很漂亮."
             scene b_date1_2 with tstmgr
-            b "Thanks."
+            b "谢谢."
             scene b_date1_4 with tstmgr
-            b "So this is your new car?"
+            b "所以这是你的新车?"
 
-    player "Is it a nice one?"
+    player "如何?"
 
     scene b_date1_3 with tstmgr
 
-    b "It is nice indeed..."
+    b "非常棒..."
 
     if not seen('pcsj'):
 
-        b "But is it a little bit too flaunty?"
+        b "但这是不是有点太张扬了?"
 
         menu:
-            "That's the reason I bought her":
+            "这就是我买下她的原因":
                 pass
-            "I agree with you, but she is really nice":
+            "我同意你的看法,但她真的很好":
 
                 pass
     else:
 
-        b "But it must need a lot of money for maintenance. Can you afford it now?"
+        b "但是它一定需要很多钱来维护.你现在负担得起吗?"
 
-        player "Well, it's indeed a problem. So I rarely drive it now. Today is an exception."
+        player "这确实是个问题.所以我现在很少开车了.今天是个例外."
 
-        b "Why don't you just sell it?"
+        b "你为什么不把它卖了呢?"
 
-        player "I would never sell my car. She is my friend. Besides, I only bought her for two months."
+        player "我永远不会卖掉我的车.她是我的朋友.此外,我只买了她两个月."
 
 
-    b "So that's a \"she\"? ..."
+    b "为什么用\"她\"? ..."
 
-    b "Weird..."
+    b "奇怪..."
 
-    narrator "She got into my car. Then we drove away from school to Seaside Avenue."
+    narrator "她上了我的车.然后我们开车离开学校去海边大道."
 
     scene b_date1_5 with tstmgr
 
-    narrator "Which topic should I choose to start a conversation?"
+    narrator "我应该选择哪个话题开始对话?"
 
     menu:
-        "Talk about car":
+        "谈论汽车":
 
 
-            player "Can you feel the speed? Can you hear that engine's roaring? Such a fantastic symphony!"
+            player "你能感觉到速度吗?你能听到引擎轰鸣吗?如此美妙的交响乐!"
             scene b_date1_6 with tstmgr
 
-            b "Eh... I don't know much about cars."
-            b "But are you overspeeding right now? The speed limit is 70miles."
-            player "Oh, ah, shit."
-            player "I didn't mean to. I must be carried away."
+            b "Eh...我对汽车了解不多."
+            b "但是你现在超速了吗?车速限制是70英里."
+            player "Oh,ah,操."
+            player "我不是故意的.我一定是上头了."
             scene b_date1_5 with tstmgr
 
-            b "Nothing. I just hope you can be more careful when driving."
-            b "You know, one of my favorite movie stars was dead in a car accident."
-            player "Thanks for your concern..."
-            narrator "The moment is becoming awkward. I should probably change the topic."
-            narrator "She just said something about her favorite movie star. How about talking something about movie?"
+            b "没什么.我只是希望你开车时更小心些."
+            b "你知道,我最喜欢的电影明星之一死于车祸."
+            player "谢谢你的关心..."
+            narrator "这个时刻变得越来越尴尬.我应该换个话题."
+            narrator "她刚刚谈到了她最喜欢的电影明星.谈谈电影怎么样?"
             narrator "So... ..."
 
             menu:
-                "Talk about romantic movies":
+                "谈论浪漫电影":
 
-                    player "You know, our school's theatre will show some classic romantic films next week. Do you want to watch them?"
+                    player "你知道,我们学校的剧院下周将放映一些经典的浪漫电影.你想看吗?"
                     scene b_date1_8 with tstmgr
 
-                    b "What movies will be on showing exactly?"
-                    player "Titanic, Ghost, and some others I can't remember."
-                    b "I haven't seen Ghost before. Is it good?"
-                    player "It's one of the best romantic movie in the world. I can promise you that."
-                    player "You know, when it first released in Montreal, every female audience would get an envelope with some tissues inside in case they cried."
-                    b "No tissues for males?"
-                    player "Yep, only for the ladies."
+                    b "具体放映什么电影?"
+                    player "《泰坦尼克号》,《人鬼情未了》和其他一些我不记得的电影."
+                    b "我还从没看过人鬼情未了.好看吗?"
+                    player "这是世界上最浪漫的电影之一.我可以向你保证."
+                    player "你知道,当它第一次在蒙特利尔上映的时候,每个女观众都会收到一个信封,里面有一些纸巾,以防她们哭."
+                    b "男性没有吗?"
+                    player "Yep,只有女士有."
                     scene b_date1_6 with tstmgr
 
-                    b "That... sounds like sexism in today's view."
-                    player "Yeah, I don't think they would do that again anymore."
-                    player "But anyway, that movie is really amazing. You should definitely go watch it if you haven't done so."
+                    b "那在今天看来,这听起来像是性别歧视."
+                    player "Yeah,我认为他们不会再这样做了."
+                    player "但是不管怎样,那部电影真的很棒.如果你还没看过,你一定要去看."
                     scene b_date1_7 with tstmgr
 
-                    b "Fine. Let's watch it together next week."
-                    narrator "Watching a romantic movie with her together? Wow, how can I refuse that?"
-                    player "That will be great!"
-                "Talk about Chinese movies":
+                    b "很好.下周我们一起看."
+                    narrator "和她一起看浪漫电影?哇,我怎么能拒绝呢?"
+                    player "这将会很棒的!"
+                "谈论中国电影":
 
 
 
-                    player "I am unfamiliar with Chinese movies. Can you tell me something about it?"
-                    b "What would you want to know?"
-                    player "Like, the movie industry in China, how's it like?"
+                    player "我不熟悉中国电影.你能给我讲讲吗?"
+                    b "你想知道什么?"
+                    player "比如,中国的电影行业,怎么样?"
                     scene b_date1_7 with tstmgr
 
-                    b "Well, I'm not professional, so don't take my words seriously."
-                    b "The movie industry in China is extremely huge due to the market size and high purchasing power."
-                    b "Sometimes, the box office that China contributes to a hollywood movie may be even higher than the rest of the world do."
-                    player "That sounds... amazing."
-                    b "But sadly, although China produces more than 400 movies every year, only a few of them are good. The rest of them are just rubbish."
-                    b "Because people realize that they don't really need to produce a good movie to make benefit in such a big market."
-                    player "Well, that's reasonable. They are all business people."
-                    player "So do you have any Chinese movie to recommend?"
-                    b "There was a good Chinese sci-fi movie named The Wandering Earth, released only a few months ago. You can watch it now on Netflix."
-                    player "Sci-fi, huh. Sounds cool. I'll go check it out."
+                    b "我不专业,所以我说的听听就好."
+                    b "中国电影市场规模庞大,购买力强,产业规模巨大."
+                    b "有时候,中国对一部好莱坞电影的票房贡献可能比世界其他地方还要高."
+                    player "这听起来...令人吃惊."
+                    b "但遗憾的是,尽管中国每年制作400多部电影,但只有少数是好电影.其余的都是垃圾."
+                    b "因为人们意识到他们并不真的需要制作一部好电影来在这么大的市场中获利."
+                    player "嗯,这很合理.他们都是商人."
+                    player "你有什么中国电影可以推荐吗?"
+                    b "就在几个月前,中国刚刚上映了一部很好的科幻电影《流浪地球》.你现在可以在网飞上观看."
+                    player "科幻电影吗.听起来很酷.我去看看."
                     narrator "... ... ... ..."
-        "Talk about her":
+        "谈论她":
 
-            player "So, how's your week?"
-            b "Nothing special, so far so good."
-            player "Me too. I would be bored to death if you didn't accept this date."
+            player "这周过得怎么样?"
+            b "没什么特别的,到目前为止还不错."
+            player "我也是.如果你不接受这个约会,我会闷死的."
             scene b_date1_8 with tstmgr
 
-            b "Wait, this is a date?"
-            player "Eh, what's wrong?"
-            b "I thought only lovers can have dates."
-            player "No, not really."
+            b "等等,这是约会?"
+            player "呃,怎么了?"
+            b "我以为只有情侣才能约会."
+            player "不,不是这样的."
             narrator "... ... ... ..."
 
             menu:
-                "Talk about her love experiences":
+                "谈谈她的恋爱经历":
 
-                    player "Have you ever been in a relationship with a boy?"
+                    player "你曾经和一个男孩交往过吗?"
                     scene b_date1_6 with tstmgr
 
-                    b "I had it once, during my high school, in China."
-                    narrator "Wow, that's something I didn't know. I thought her love life would be a piece of blank paper."
-                    b "But... nothing happened between us."
-                    b "In China, high school students are forbidden to be in love with others."
-                    b "So... we did not dare to do anything. We never kiss, hug, or even grab each other's hands."
-                    player "That's... sad."
-                    b "Indeed, it was..."
-                    player "So it was only a platonic relationship?"
-                    b "Yes... I think so."
-                    narrator "Well, it seems like her love life is indeed a piece of blank paper."
-                    player "I feel sorry for you, Sen. I truly do."
-                    player "And I think... since you have got into college, it may be a good time for you to start a real relationship with someone."
+                    b "我在中国上高中的时候有过一次."
+                    narrator "Wow,这是我不知道的.我以为她的感情生活是一张白纸."
+                    b "但是...我们之间什么也没发生."
+                    b "在中国,高中生被禁止谈恋爱."
+                    b "所以...我们什么也不敢做.我们从不亲吻,拥抱,甚至不握对方的手."
+                    player "这...真难受."
+                    b "事实上,是的..."
+                    player "所以这只是柏拉图式的关系?"
+                    b "是的...我想是这样的."
+                    narrator "看来她的爱情生活就像一张白纸."
+                    player "我为你感到难过,森柠,真的."
+                    player "我认为...既然你已经上了大学,这可能是你和某人开始一段真正关系的好时机."
                     scene b_date1_7 with tstmgr
 
                     b "... ... ... ..."
-                    b " I'll think about it."
-                "Talk about her current love status":
+                    b "我会考虑的."
+                "谈谈她目前的恋爱状况":
 
 
 
 
-                    player "Be honest with me. Is there any boy you like in our college?"
+                    player "跟我说实话.我们学校有你喜欢的男生吗?"
                     scene b_date1_6 with tstmgr
 
-                    b "Eh... Why do you ask?"
-                    player "We are good friends, aren't we? I ask because I care about you."
+                    b "Eh...为什么这么问?"
+                    player "我们是好朋友,不是吗?我问是因为我关心你."
                     scene b_date1_7 with tstmgr
 
-                    b "Alright, fine..."
-                    b "I like you."
-                    player "Oh, I won't judge... Wait, what?"
-                    b "You are my best friend in this country. Hou would I not like you?"
+                    b "好吧好吧..."
+                    b "我喜欢你."
+                    player "Oh,我不会随便评价的...等等,什么?"
+                    b "你是我在这个国家最好的朋友.我怎么会不喜欢你?"
                     player "... ... ... ..."
-                    player "I see what you are playing right now."
-                    player "Don't try to fool me. You know that was not what I'm asking about. I'm asking if you have a potential boyfriend target."
+                    player "我知道你什么意思了."
+                    player "别想愚弄我.你知道那不是我要问的.我在问你有没有潜在的男朋友目标."
                     scene b_date1_6 with tstmgr
 
                     b "Oh..."
-                    b "That's, that's a secret..."
-                    player "I will take that as a yes. Ah, fuck that lucky dude."
+                    b "这是个秘密..."
+                    player "我就当你默认了.那真是个幸运的家伙."
                     scene b_date1_5 with tstmgr
 
                     b "... ... ... ..."
-                    b "(Speaking in a small voice) You silly..."
+                    b "(小声说话)你真傻..."
 
 
 
     narrator "... ... ... ..."
 
-    narrator "We had a good chat along the way. Senning looks introverted in public but becomes outgoing when she is with me. We basically talk about everything."
+    narrator "一路上我们聊得很开心.森柠在公共场合看起来很内向,但当她和我在一起时,她变得很外向.我们基本上什么都谈."
 
-    player "Are you wearing a new dress? I never saw you wear it before."
+    player "这是你的新衣服吗?我从来没见你穿过它."
 
-    b "Yes, how does it look?"
+    b "是的,看起来怎么样?"
 
-    player "You look fabulous whatever you wear, and this dress makes you look even more fabulous."
+    player "无论你穿什么,你看起来都很棒,这件衣服让你看起来更棒."
 
     scene b_date1_9 with tstmgr
 
-    b "Thanks. You are really good at saying sweet words."
+    b "谢谢.你真会说话."
 
-    player "But, to be honest, I was kinda disappointed."
+    player "但是,说实话,我有点失望."
 
     scene b_date1_6 with tstmgr
 
-    b "Why is that?"
+    b "这是为什么?"
 
-    player "Well, I was expecting you to wear some less conservative dresses. I mean, you are in wonderful shape, but you always hide it under clothes. That's a pity."
+    player "我以为你会穿一些不那么保守的衣服.我是说,你身材很好,但你总是把它藏在衣服里.这是一个遗憾."
 
-    b "We have discussed this. I don't like to wear those sexy stuffs. It is just not my style."
+    b "我们已经讨论过了.我不喜欢穿那些性感的衣服.这不是我的风格."
 
-    player "But what if you are on the beach? Won't you wear a bikini?"
+    player "但是如果你在海滩上呢?你不穿比基尼吗?这是最性感的."
 
-    b "That is... different."
+    b "这是...不同的."
 
-    player "So you do wear bikinis on the beach? That's good to hear."
+    player "你在沙滩上穿比基尼吗?听你这么说真高兴."
 
     scene b_date1_5 with tstmgr
 
     player "... ... ... ..."
 
     menu:
-        "Suggest to go to the beach":
+        "建议去海滩":
 
-            player "How about we go to the beach today? We still have time to do that."
+            player "我们今天去海滩怎么样?现在时间还早."
             scene b_date1_6 with tstmgr
 
-            b "What? But I didn't bring my swimsuit..."
-            player "It doesn't matter. I will drive you back to pick that up."
+            b "什么?但是我没有带我的泳衣..."
+            player "没关系.我开车送你回去拿."
             b "... ... ... ..."
-            b "Why are you so enthusiastic about it? Do you want to see me in a bikini that bad?"
-            player "Yep, indeed."
-            narrator "Honesty is a virtue."
+            b "你为什么对它如此热情?你这么想看到我穿比基尼吗?"
+            player "Yep,没错."
+            narrator "诚实是一种美德."
             b "... ... ... ..."
             scene b_date1_5 with tstmgr
 
-            b "Fine then. I don't have other things to do anyway."
-            player "You agreed? Great!"
-            narrator "I turned around and drove her back to her apartment."
+            b "好吧.反正我也没有别的事可做."
+            player "你同意了吗?太好了!"
+            narrator "我转过身,开车送她回公寓."
             narrator "... ... ... ..."
 
             scene void with dissolve
 
-            narrator "Two hours later... ..."
-            narrator "What happened next was not in our expectation - We encountered a huge traffic jam. At the time when we finally reached the beach, the sun is about to set. Nobody else was on the beach."
-            narrator "But... turned out, it was actually a good thing."
+            narrator "两小时以后......"
+            narrator "接下来发生的事出乎我们的意料——我们遇到了大塞车.当我们终于到达海滩时,太阳就要下山了,没有其他人在海滩上."
+            narrator "但是...事实证明,这实际上是一件好事."
             narrator "... ... ... ..."
-            b "So, how do I look?"
+            b "我看起来怎么样?"
 
             $ openeyes("b_date1_10")
 
-            narrator "Senning is dressing in her bikini. She walked towards me, like a goddess of dusk."
-            narrator "She looks pretty as usual, but a lot sexier. The setting sun is sparkling behind her body, makes her demure as a heavenly being."
-            narrator "The sunlight shines on her fair skin, her big breasts, and her flat stomach. Now she is just... magnificent..."
-            narrator "My eyes gaze at her greedily, like looking at a precious artwork."
-            narrator "I'm speechless."
+            narrator "森柠穿着比基尼.她像黄昏女神一样向我走来."
+            narrator "她看起来和平常一样漂亮,但是性感多了.夕阳在她的身后闪耀,使她端庄如天仙."
+            narrator "阳光照在她白皙的皮肤上,照在她丰满的乳房上,照在她平坦的肚子上.现在她是...女神..."
+            narrator "我贪婪地看着她,就像看着一件珍贵的艺术品."
+            narrator "我不知道说什么好."
             scene b_date1_11 with tstmgr
 
-            narrator "She sat next to me."
-            b "Why are you so quiet?"
+            narrator "她坐在我的旁边."
+            b "你怎么如此安静?"
             player "... ... ... ..."
-            player "You look... amazing."
-            b "That's it? Nothing else?"
-            player "What else are you expecting me to say? Can't you get it from my face?"
-            player "You are like a pin-up girl coming to the reality..."
-            player "I feel lucky to be the only one who is seeing this now."
+            player "你看起来...令人惊讶."
+            b "就这些吗?没有其他的?"
+            player "你还想让我看到什么?你从我脸上看不出来吗?"
+            player "你就像一个女神来到现实中..."
+            player "我很幸运,现在只有我一个人看到了这一切."
             scene b_date1_12 with tstmgr
 
-            b "Hmm, thank you."
+            b "Hmm,谢谢你."
             b "... ... ... ..."
-            b "I have a question for you, a silly question. You can choose not to answer."
-            player "Say it."
-            b "Am I the most beautiful girl in bikini that you have ever seen?"
-            narrator "Is she?"
-            narrator "Of course she is..."
-            narrator "But..."
-            narrator "Another girl's face coming into my head after Senning asked the question."
+            b "我有个问题要问你,一个愚蠢的问题.你可以选择不回答."
+            player "说吧."
+            b "我是你见过的最漂亮的比基尼女郎吗?"
+            narrator "是吗?"
+            narrator "当然是的..."
+            narrator "但是..."
+            narrator "森柠问完这个问题后,我脑海中浮现出另一个女孩的脸."
             scene day2_c10 with flashback
 
-            narrator "Theodora."
-            narrator "Although Theodora and I don't really get along with each other, I still have to admit that she is extremely charming when she wears a swimming suit. I don't think any man can resist her."
-            narrator "So who is better? Senning, or Theo?"
-            narrator "How should I answer her?"
+            narrator "狄奥多拉."
+            narrator "虽然狄奥多拉和我并不是很合得来,但我还是不得不承认,她穿泳衣的样子非常迷人.我认为没有人能抗拒她."
+            narrator "那么谁更好呢?森柠?或者狄奥多拉?"
+            narrator "我该怎么回答她呢?"
 
             menu:
-                "You are the most beautiful.":
+                "你是我见过最漂亮的.":
                     scene b_date1_12 with flashback
 
-                    b "Really? Thanks for saying that."
-                    b "I don't know if you are telling the truth, but I'm happy anyway."
-                    player "Why do you think I may not tell you the truth?"
-                    b "Because you are a playboy who knows a lot of girls. There must be someone better than me."
+                    b "真的吗?谢谢你这样说."
+                    b "我不知道你说的是不是真的,但我还是很高兴."
+                    player "你为什么觉得我在说谎?"
+                    b "因为你是个花花公子,认识很多女孩.一定有比我更好的."
                     player "Well..."
-                    player "First, I'm not a playboy. I'm a virtuous man."
-                    player "Second, you should be more confident about yourself. What I just said was absolutely true. You are indeed the best bikini girl I have ever seen in my life."
+                    player "首先,我不是一个花花公子.我是个有美德的人."
+                    player "第二,你应该对自己更有信心.我刚才说的完全正确.你真的是我这辈子见过的最好的比基尼女郎."
                     b "... ... ... ..."
-                    b "Alright..."
-                    b "Thank you..."
+                    b "好吧..."
+                    b "谢谢你..."
                     narrator "... ... ... ..."
-                "You are one of the most beautiful.":
+                "你是我见过最美丽的人之一.":
 
                     scene b_date1_11 with flashback
-                    b " \"One of the best\"?"
+                    b "\"之一\"?"
                     scene b_date1_12 with tstmgr
 
-                    b "Fine, at least you are being honest."
-                    player "Please don't take it wrong. You look amazing, but I..."
-                    narrator "She stops my explanation with an eye contact."
+                    b "好吧,至少你很诚实."
+                    player "请不要误会.你看起来很棒,但是我..."
+                    narrator "她用眼神阻止了我的解释."
                     narrator "... ... ... ..."
-                    narrator "Indeed, she didn't seem to get angry. Maybe just like she said, that was nothing but a silly question."
+                    narrator "事实上,她似乎并不生气.也许就像她说的,那只是一个愚蠢的问题."
                     narrator "... ... ... ..."
 
             scene b_date1_13 with tstmgr
 
-            b "That sunset is so marvelous."
-            player "Yeah, we should definitely come here more often and see this, just two of us."
+            b "日落真是太美了."
+            player "Yeah,我们一定要多来看看这个,就我们两个人."
             b "... ... ... ..."
-            b "I agree with that."
-            narrator "We sat on the beach, side by side, and left until the sun completely gone under the skyline."
-        "Suggest to end this date":
+            b "我同意这个观点."
+            narrator "我们并排坐在海滩上.直到太阳完全消失在地平线下,我们才离开."
+        "建议结束这个约会":
 
 
             scene b_date1_5 with tstmgr
-            player "I really would like to suggest to go to the beach now, but it is about the afternoon rush hours. If we don't head back now, we will definitely encounter the traffic jam."
+            player "我真的很想建议现在去海滩,但是现在是下午的交通高峰期.如果我们现在不回去,我们肯定会遇到交通堵塞."
             scene b_date1_6 with tstmgr
 
             b "... ... ... ..."
-            b "You are right. We should probably go back."
-            player "Let's save the beach trip for the next time, okay?"
+            b "你是对的.我们也许应该回去."
+            player "我们下次再去海滩吧?"
             scene b_date1_7 with tstmgr
 
             b "em, okay."
@@ -370,7 +370,7 @@ label B_date_1:
 
     narrator "... ... ... ..."
 
-    narrator "And I went back home at late night."
+    narrator "我很晚才回家."
 
     stop music fadeout 1.0
 

@@ -8,15 +8,15 @@ label store_1_ft_playlet1:
 
     scene store_1_ft_playlet1_1 with dissolve
 
-    "Posia" "Something good... is going to happen on you tomorrow~"
+    "波西亚""一些好的事...明天就会发生在你身上~"
 
 
 
-    "Posia" "A girl with silver hair... will kiss you on the cheek..."
+    "波西亚""一个银发女孩...会亲吻你的脸颊..."
 
 
 
-    "Posia" "And a girl from the orient... will buy you a gift... ..."
+    "波西亚""还有一个来自东方的女孩...会给你买礼物......"
 
 
 

@@ -3,27 +3,27 @@ label A_daily_6:
     scene void with tstmgr
     play music sorrow
 
-    "Vera forgot to take her cellphone with her before she went for work, so I decided to bring it to her in the morning."
+    "薇拉上班前忘了带手机,所以我决定早上把它带给她."
 
     scene a_cafe_smile2 with tstmgr
 
     a "[P]?"
 
-    a "You are here again."
+    a "你又来了."
 
-    player "Yeah, and I am here to..."
+    player "Yeah,我来这是..."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Ah, you misaligned one of your shirt buttons."
+    a "Ah,你把衬衫的一个扣子扣错了."
 
     scene a_daily6_1 with tstmgr
 
-    a "Let me fix it for you..."
+    a "我来帮你整理一下..."
 
-    a "You should always remember to check yourself in a mirror before leaving home."
+    a "你离开家之前一定要记得照照镜子."
 
-    a "And your shirt looks wrinkled, I will iron it for you when I get back."
+    a "你的衬衫也皱了,我回去的时候给你熨一下."
 
     scene a_daily6_2 with tstmgr
 
@@ -31,79 +31,79 @@ label A_daily_6:
 
     a "Oh... ..."
 
-    "She suddenly realized something and stopped talking."
+    "她突然意识到什么,停止了说话."
 
-    a "I... ... ... ..."
+    a "我............"
 
     scene a_daily6_3 with tstmgr
 
-    "She quickly stepped back. "
+    "她很快退了回来."
 
-    a "I... I didn't do that on purpose... It's just... It's just..."
+    a "我...我不是故意的...它只是...这只是..."
 
-    "I guess she has realized that what she just did was a little bit... let's say, intimate."
+    "我想她已经意识到她刚才做的有点...比方说,亲密."
 
-    player "It's okay, I appreciate it."
+    player "没关系,我很感激."
 
-    "Two waitresses nearby came to us after witnessing what Vera just did."
+    "附近的两名女服务员在目睹了薇拉刚才所做的一切后慢慢靠近我们."
 
     scene a_daily6_4 with tstmgr
 
-    "Waitress A" "Geeez, Vera, who is this handsome?"
+    "女服务员A""天啊,薇拉,这位帅哥是谁?"
 
-    a "Ah? He is [P], a... a friend of mine."
+    a "Ah?他是[P],我的一个...朋友."
 
-    "I've never seen these two girls before. They might be new here."
+    "我以前从未见过这两个女孩.她们可能是新来的."
 
-    "Waitress B" "I bet he is something more than a \"friend\" to you, Vera. You were acting like his little wife."
+    "女服务员B""我打赌他对你来说不只是一个“朋友”,薇拉.你就像他的小妻子一样."
 
     a "... ... ... ..."
 
-    "Waitress A" "So, what are you doing here, handsome? Don't you know that Vera has to stay here until noon?"
+    "女服务员A""所以这位帅哥,你在这干嘛?你不知道薇拉要在这儿呆到中午吗?"
 
     scene a_daily6_5 with tstmgr
 
-    player "Oh...uh... I'm actually here to deliver this to Vera, her cellphone. She forgot it at home."
+    player "Oh...uh...我是来给薇拉送这个的,她的手机.她把它忘在家里了."
 
     scene a_daily6_6 with tstmgr
 
-    a "What? I didn't even realize it."
+    a "什么?我甚至没有意识到."
 
     scene a_daily6_7 with tstmgr
 
-    a "Thanks, [P]."
+    a "谢谢,[P]."
 
     scene a_daily6_4 with tstmgr
 
-    "Waitress A" "Wait, so you two live together? Yeah... that explains everything."
+    "女服务员A""等等,你们两个已经同居了?是的...这就解释了一切."
 
-    "Waitress B" "Ah... I'm starting to feel sorry for my brother. He was kinda into you, Vera. Now I have to tell him to give up that daydream."
+    "女服务员B""Ah...我开始为我弟弟感到难过.他有点喜欢你,薇拉.现在我得告诉他停止做白日梦."
 
     a "... ... ... ..."
 
-    "Well, these two girls have mistaken me for Vera's boyfriend and started to make jokes about us. This is a little awkward."
+    "Well,这两个女孩把我错当成薇拉的男朋友,开始拿我们开玩笑.这有点尴尬."
 
     scene a_daily6_8 with tstmgr
 
-    "But I was surprised that Vera didn't clarify anything to them. She was just being quiet. Maybe this means something."
+    "但令我惊讶的是,薇拉并没有向他们澄清任何事情.她什么也没解释.也许这意味着什么."
 
     scene a_daily6_9 with tstmgr
 
     player "... ... ... ..."
 
-    "But now I don't have time for this."
+    "但现在我没时间了."
 
-    player "I... I should go. My class is about to begin."
+    player "我...我该走了.我的课就要开始了."
 
-    "Waitress A" "See you, handsome~~"
+    "女服务员A""再见,帅哥~~"
 
-    "Waitress B" "We will take care of Vera for you~~"
+    "女服务员B""我们会为你照顾薇拉的~~"
 
     scene a_daily6_7 with tstmgr
 
-    a "See... see you..."
+    a "今...晚..."
 
-    a "tonight..."
+    a "再见..."
 
     scene void with tstmgr
 

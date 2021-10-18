@@ -3,51 +3,51 @@ label B_daily_1:
     scene class_background with tstmgr
     play music happy
 
-    narrator "Senning and I were having a conversation in the classroom."
+    narrator "我和森柠正在教室里谈话."
 
-    player "So tell me about China. I barely know anything about it."
+    player "给我讲讲中国吧.我对它几乎一无所知."
 
     scene b_class_normal with tstmgr
 
-    b "What do you want to know about?"
+    b "你想知道些什么?"
 
-    player "Eh... Let's start with education. How does a Chinese university work? Is it similar to what we have here?"
+    player "Eh...让我们从教育开始.中国的大学是如何运作的?它和我们这里的相似吗?"
 
-    b "Basically, yes, they are similar. You need to choose your courses, go to classes, join exams, just like everywhere else."
+    b "基本上,是的,它们是相似的.你需要选择你的课程,去上课,参加考试,就像其他地方一样."
 
-    b "However, there is a major difference between universities in China and in this country."
+    b "然而,中国的大学和这个国家的大学有很大的不同."
 
-    player "What is it then?"
+    player "是什么?"
 
-    b "Well, most universities in China do not use the GPA system. In other words, it doesn't matter if students get a D or an A in their course."
+    b "嗯,中国的大多数大学不使用GPA系统.换句话说,学生在课程中得D或A并不重要."
 
-    b "Once a student reaches a grade higher than F, like D or C minus, he or she will be fine in that course, no negative effect at all."
+    b "一旦学生的成绩达到F以上,比如D或C-,他或她在那门课上就及格了,没有任何负面影响."
 
-    player "Don't try to joke me around. How is that even possible? It sounds like a freaking utopian fairy tale."
+    player "别开玩笑了.这怎么可能呢?这听起来像是一个荒诞的乌托邦童话."
 
-    b "And even if unfortunately, students fail to pass an exam, it still doesn't matter. They can take a make-up exam as the second chance. Everything will be fine once they pass the make-up exam."
+    b "即使学生不幸没有通过考试,这仍然没有关系.他们可以把补考作为第二次机会.一旦他们通过补考,一切都会好起来的."
 
-    player "I don't understand... I mean, China has the one of the most population in the world, shouldn't the competition there be more intense?"
+    player "我不明白...我的意思是,中国是世界上人口最多的国家之一,竞争难道不应该更激烈吗?"
 
     scene b_class_frown with tstmgr
 
-    b "Eh, believe me, the competition there is indeed very intense."
+    b "Eh,相信我,那里的竞争确实很激烈."
 
-    b "But not in the college."
+    b "但不是在大学里."
 
-    player "It doesn't make any sense......"
+    player "没道理......"
 
-    player "So why did you choose to come to a foreign university at the beginning?"
+    player "那么,为什么你一开始选择来一所外国大学呢?"
 
     scene b_class_normal with tstmgr
 
-    b "Emm... Good question."
+    b "Emm...好问题."
 
-    narrator "The professor comes into the classroom at this moment."
+    narrator "教授这时走进了教室."
 
-    "Professor Keith" "How's it going, everyone? Before we start, let's do the attendance sheet first."
+    "基斯教授""大家还好吗?开始上课之前,我们先点个名."
 
-    narrator "Ah... maybe I will ask her with that question later."
+    narrator "Ah...也许我可以以后再问她这个问题."
 
     narrator "... ... ... ..."
 

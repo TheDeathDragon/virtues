@@ -3,7 +3,7 @@ label C_love_2:
     scene void with tstmgr
     play music happy
 
-    "Later this afternoon, I came to Theodora’s office for a report."
+    "今天下午晚些时候,我来到狄奥多拉的办公室递报告."
 
 
 
@@ -13,131 +13,131 @@ label C_love_2:
 
     scene c_love_2_1 with dissolve
 
-    c "Hmmm... Impressive... ..."
+    c "Hmmm...难以置信......"
 
 
 
-    c "You really wrote this market evaluation report yourself?"
+    c "这份市场评估报告是你自己写的吗?"
 
 
 
     scene c_love_2_2 with tstmgr
 
-    c "Not very comprehensive, nor very objective, but still, you impressed me. Keep up and you may get a promotion very soon."
+    c "不是很全面,也不是很客观,但你给我留下了深刻的印象.坚持下去,你很快就会升职的."
 
 
 
-    player "Eh, thanks..."
+    player "Eh,谢谢..."
 
 
 
-    "To be honest, it still feels weird when she praises me. I mean, we’ve known each other since kindergarten, but now I have to report my working progress to her every week and listen carefully to whatever she says."
+    "老实说,她表扬我的时候还是感觉怪怪的.我的意思是,我们从幼儿园就认识了,但是现在我每周都要向她汇报我的工作进展,而且她说什么我都要认真听."
 
 
 
-    "How did I end up like this... ..."
+    "我怎么会变成这样......"
 
 
 
-    "Now I just want to get out of her office as soon as I can."
+    "现在我只想尽快离开她的办公室."
 
 
 
-    player "If there is nothing else, I think I should probably get back to my work..."
+    player "如果没有别的事,我想我应该回去工作了..."
 
 
 
     scene c_love_2_3 with tstmgr
 
-    c "Wait, don’t go yet."
+    c "等等,先别走."
 
 
 
-    "That’s the last thing I want to hear right now."
+    "这是我现在最不想听到的."
 
 
 
-    player "Is..."
+    player "你..."
 
 
 
-    player "Is there anything else you need me to do?"
+    player "你还需要我做什么吗?"
 
 
 
     scene c_love_2_4 with tstmgr
 
-    c "Yes, I need you to do one more thing for me before you go."
+    c "是的,我需要你在走之前再帮我做一件事."
 
 
 
-    c "A shoulder massage~"
+    c "肩膀按摩~"
 
 
 
-    player "A what?"
+    player "什么?"
 
 
 
     scene c_love_2_5 with tstmgr
 
-    "She then stood up from her seat and went to the couch directly."
+    "然后她从座位上站起来,直接走向沙发."
 
 
 
-    c "You heard me, now come here and do your job."
+    c "你听到了,现在过来做你的工作."
 
 
 
-    player "Wait, this is part of my job? I’m not your masseur!"
+    player "等等,这是我工作的一部分?我不是你的按摩师!"
 
 
 
     scene c_love_2_6 with tstmgr
 
-    c "You come or not?"
+    c "你来还是不来?"
 
 
 
-    player "I..."
+    player "我..."
 
 
 
-    player "Fine... ..."
+    player "好吧......"
 
 
 
-    "Great, now she treats me like a servant. How worse can it be?"
+    "Great,现在她把我当仆人了.还能更糟吗?"
 
 
 
     scene c_love_2_7 with tstmgr
 
-    "I came up behind her, and... ..."
+    "我走到她身后,然后......"
 
 
 
-    "Wow... I actually started to feel lucky that I didn’t refuse her. Her tits look terrific from this angle."
+    "Wow...我开始庆幸我没有拒绝她.从这个角度看,她的胸棒极了."
 
 
 
-    "Yes, she indeed needs a shoulder massage. I mean, her shoulders must suffer a lot by supporting those heavy meats."
+    "Yes,她的确需要按摩一下肩膀.我的意思是,她的肩膀承受这些沉重的肉一定很痛苦."
 
 
 
     scene c_love_2_8 with tstmgr
 
-    c "I’m waiting..."
+    c "我等着在..."
 
 
 
-    player "Oh, uh, coming right now..."
+    player "Oh,uh,来了..."
 
 
 
     scene c_love_2_9 with tstmgr
 
-    "I put my hands on her shoulders. And suddenly, she trembled for a second and moaned out with surprise."
+    "我把手放在她的肩膀上.突然,她颤抖了一下,惊讶地叫了一下."
 
 
 
@@ -145,25 +145,25 @@ label C_love_2:
 
 
 
-    player "Are you okay?"
+    player "你没事吧?"
 
 
 
     scene c_love_2_10 with tstmgr
 
-    c "I... ..."
+    c "我......"
 
 
 
-    c "I’m fine, keep going."
+    c "我很好,继续."
 
 
 
-    "Hmmm... that was a lovely moaning, actually. And I think she is unused to get touched by other people."
+    "Hmmm...实际上,叫的很可爱.我觉得她不习惯被别人碰."
 
 
 
-    "I started my massage carefully."
+    "我开始仔细地按摩."
 
 
 
@@ -175,17 +175,17 @@ label C_love_2:
 
     scene c_love_2_11 with dissolve
 
-    player "You know, there is something I always want to ask you..."
+    player "你知道,有件事我一直想问你..."
 
 
 
     scene c_love_2_12 with tstmgr
 
-    c "Say it."
+    c "说吧."
 
 
 
-    player "Why do you show your bra out at work all the time?"
+    player "你为什么总是在工作的时候露出你的胸罩?"
 
 
 
@@ -195,29 +195,29 @@ label C_love_2:
 
     scene c_love_2_11 with tstmgr
 
-    c "To encourage my subordinates to work harder."
+    c "鼓励下属更加努力工作."
 
 
 
-    player "Hah? What kind of encouragement is that?"
+    player "Hah?这是哪门子鼓励?"
 
 
 
-    c "People will wish to see me more often if I dress like this. They will try to finish their assigned works as soon as possible to get the chance to report to me in my office."
+    c "如果我穿成这样,人们会希望经常见到我的.他们会争取尽快完成分配给他们的工作,以便有机会到我的办公室向我汇报."
 
 
 
-    player "So you are basically just seducing everyone with your sexiness. That’s dirty..."
+    player "所以你基本上就是用你的性感来诱惑他们.这太卑鄙了..."
 
 
 
     scene c_love_2_13 with tstmgr
 
-    c "Whatever..."
+    c "随便你怎么说..."
 
 
 
-    "She seems in a good mood and doesn’t want to argue with me. Well, maybe she is satisfied with my massaging skill?"
+    "她看起来心情很好,不想和我争论.也许她对我的按摩技术很满意?"
 
 
 
@@ -227,17 +227,17 @@ label C_love_2:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene c_love_2_14 with dissolve
 
-    "Ah... my hands are aching..."
+    "Ah...我的手很酸..."
 
 
 
-    player "Can I stop for a rest now. It has been like... 20 minutes or more."
+    player "我现在可以停下来休息一下吗?比如...休息个20分钟或以上?"
 
 
 
@@ -245,13 +245,13 @@ label C_love_2:
 
 
 
-    "I didn’t get any answer from her."
+    "我没有得到她的任何答复."
 
 
 
     scene c_love_2_15 with tstmgr
 
-    player "Theo?"
+    player "狄奥多拉?"
 
 
 
@@ -259,63 +259,63 @@ label C_love_2:
 
 
 
-    "It seems like she is sleeping..."
+    "她好像睡着了..."
 
 
 
-    player "(Swallowed hard) ... ... ... ..."
+    player "(用力咽了下口水)............"
 
 
 
-    "What should I do now?"
+    "现在我应该怎么办?"
 
 
 
     label C_love_2_choice_1:
 
     menu:
-        "Move hands down to her breasts":
+        "将手移向她的胸":
 
 
-            "Her... amazing tits... are right under my hands. I will just... touch them carefully and try not to wake her up."
+            "她...美妙的胸...就在我的掌控之下.我只会...小心摸摸它们,别吵醒她."
 
             scene c_love_2_16 with tstmgr
 
-            "I slowly moved my hands down to her breasts..."
+            "我慢慢地把手伸向她的胸..."
 
-            "Owwwww... damn! I am feeling this heaviness right now! It feels so good!"
+            "Owwwww...damn!我现在感到很沉重!感觉好极了!"
 
-            "Huh, I guess that’s why she needed a shoulder massage. It must be hard for her to carry these big tits all the time."
+            "Huh,我想这就是她需要做肩部按摩的原因.一直托着这些大乳房对她来说一定很困难."
 
             scene c_love_2_17 with tstmgr
 
-            c "(Waking up) Hmmmm... ...?"
+            c "(醒来)Hmmmm......?"
 
             c "... ... ... ..."
 
             scene c_love_2_18 with tstmgr
 
-            c "What are you doing?"
+            c "你在做什么?"
 
-            "Oh, shit... this is bad... ... How could she wake up so quick?"
+            "Oh,shit...这太糟糕了...她怎么能醒得这么快呢?"
 
             scene c_love_2_19 with tstmgr
 
-            player "I... I was... eh... you know... ..."
+            player "我...我...eh...你知道的......"
 
             c "... ... ... ..."
 
-            "To my surprise, she didn’t seem to get angry at me."
+            "令我惊讶的是,她似乎没有生我的气."
 
             scene c_love_2_20 with tstmgr
 
-            c "You can go now. I don’t need you anymore, for now."
+            c "你现在可以走了.我现在不需要你了."
 
-            player "Oh, okay, if that... is what you want."
+            player "Oh,okay,如果...你想的话."
 
             scene void with tstmgr
 
-            "I left the room as fast as I could..."
+            "我尽快离开了房间..."
 
             scene c_love_2_21 with dissolve
 
@@ -323,27 +323,27 @@ label C_love_2:
 
             scene c_love_2_22 with tstmgr
 
-            c "This is... ..."
+            c "这真是......"
 
-            c "Weird... ... ... ..."
+            c "古怪............"
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Hold the line":
+        "不做":
 
 
 
 
 
 
-            "I don’t think it’s right to take advantage of her while she is sleeping."
+            "我认为在她睡觉时占她的便宜是不对的."
 
-            "Maybe I should just leave her like this."
+            "也许我应该让她就这样睡会然后离开."
 
             scene c_love_2_23 with tstmgr
 
-            "I successfully controlled my desire, and then walked out of Theodora’s office quietly."
+            "我成功地控制了自己的欲望,然后静静地走出了狄奥多拉的办公室."
 
             "... ... ... ..."
 
@@ -351,7 +351,7 @@ label C_love_2:
 
             c "Humph... ..."
 
-            c "That was not like him... ..."
+            c "这不像他......"
 
             scene void with tstmgr
 

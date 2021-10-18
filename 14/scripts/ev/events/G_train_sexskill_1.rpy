@@ -3,7 +3,7 @@ label G_train_sexskill_1:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, while I was in a bath... ..."
+    "今晚晚些时候,我在洗澡的时候......"
 
 
 
@@ -13,21 +13,21 @@ label G_train_sexskill_1:
 
 
 
-    player "When I get rich again, I’m gonna get a bigger bathroom and a bigger bath tub, no, not enough, I need a freaking big hot tub which is larger than my bed, like the one in Aunt Elisa’s mansion."
+    player "等我又有钱了,我要一个更大的浴室和浴缸,不,还不够,我需要一个比我床还大的大得离谱的热水浴缸,就像伊莉莎阿姨家的那个."
 
 
 
     scene g_train_sexskill_1_2 with tstmgr
 
-    player "I mean, is this tub even serious? The water can’t even reach my belly button."
+    player "我是说,这个浴缸是认真的吗?水太浅了."
 
 
 
-    player "Sigh... ... I’d better just get up and have a shower real quick."
+    player "唉......我最好马上起来冲个澡."
 
 
 
-    "And suddenly, someone got inside the room."
+    "突然,有人进了房间."
 
 
 
@@ -43,31 +43,31 @@ label G_train_sexskill_1:
 
 
 
-    player "Uno?"
+    player "乌诺?"
 
 
 
-    player "What are you doing here?"
+    player "你来这里做什么?"
 
 
 
     scene g_train_sexskill_1_5 with tstmgr
 
-    g "Nothing, I just want to... stay with you."
+    g "没什么,我只是想...和你在一起."
 
 
 
-    player "But I’m just having a bath and I’ll be done in 10 minutes."
+    player "但我正在洗澡,十分钟后就好了."
 
 
 
-    g "I know... ..."
+    g "我知道......"
 
 
 
     scene g_train_sexskill_1_6 with tstmgr
 
-    player "Couldn’t even stand to leave me for 10 minutes?"
+    player "连离开我十分钟都受不了?"
 
 
 
@@ -83,7 +83,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Is everything okay?"
+    player "没事吧?"
 
 
 
@@ -91,11 +91,11 @@ label G_train_sexskill_1:
 
 
 
-    player "You seemed to be... a little depressed lately."
+    player "你好像...最近有点沮丧."
 
 
 
-    g "No, I’m fine..."
+    g "No,我没事..."
 
 
 
@@ -103,11 +103,11 @@ label G_train_sexskill_1:
 
 
 
-    player "Uno, you know you can talk with me about everything, right?"
+    player "乌诺,你知道你什么都可以跟我说,对吧?"
 
 
 
-    g "I know... ..."
+    g "我知道......"
 
 
 
@@ -117,17 +117,17 @@ label G_train_sexskill_1:
 
 
 
-    g "Can I... get in the tub?"
+    g "我可以...进浴缸吗?"
 
 
 
-    player "Eh, sure, that will be great~"
+    player "Eh,当然,那太好了~"
 
 
 
     scene g_train_sexskill_1_9 with tstmgr
 
-    g "*Smiling* ... ... ... ..."
+    g "*微笑*............"
 
 
 
@@ -153,7 +153,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Oh, wow, Uno... ..."
+    player "Oh,wow,乌诺......"
 
 
 
@@ -165,15 +165,15 @@ label G_train_sexskill_1:
 
 
 
-    "She walked into the tub by herself, straddled me, and shoved my cock into that juicy pussy without saying a word."
+    "她一个人走进浴缸,跨坐在我身上,一句话也没说就把我的鸡巴塞进了那个多汁的小穴."
 
 
 
-    "I can tell that she is not in a good mood and it seems like she doesn’t want to talk it out. I guess the only thing I can do now is let her do what she wants and maybe it will cure her depression."
+    "我能看出来她心情不好,似乎不想说出来.我想我现在唯一能做的就是让她做她想做的事,也许这会治愈她的不开心."
 
 
 
-    "It looks like she wants to have a sex now, so be it."
+    "看起来她现在想要做爱了,那就随她吧."
 
 
 
@@ -183,25 +183,25 @@ label G_train_sexskill_1:
 
 
 
-    g "Master’s... huge dick... ... ... ..."
+    g "主人的...大鸡巴............"
 
 
 
-    player "Uno, now just give yourself to me, I will make you enjoy it..."
+    player "乌诺,把你自己交给我吧,我会让你享受的..."
 
 
 
-    g "No, this time... master just sits there and let me take charge of it~"
+    g "No,这一次...让我来~"
 
 
 
     scene g_train_sexskill_1_15 with tstmgr
 
-    player "Oh... eh, okay, if that is what you want... ..."
+    player "Oh...eh,okay,如果这是你想要的......"
 
 
 
-    g "Now, I will just... ..."
+    g "现在,我会......"
 
 
 
@@ -219,31 +219,31 @@ label G_train_sexskill_1:
 
 
 
-    player "Uno... you have never been so... actively before. What happened?"
+    player "乌诺...你从来没有这么...积极.发生了什么事?"
 
 
 
-    g "I am... stressed out lately... ... and you... are the only cure..."
+    g "我...最近压力很大......然后你...是唯一的解药..."
 
 
 
-    g "Master's body... master's penis... master's everything... I want to feel them all~"
+    g "主人的身体...主人的鸡巴...主人的一切...我想感受它们~"
 
 
 
-    player "Uno... ... ... ..."
+    player "乌诺............"
 
 
 
-    g "Master~ Yeeeeeee~~ love you~~~ wwwww... ..."
+    g "主人~Yeeeeeee~~爱你~~~wwwww......"
 
 
 
-    "Uno said that she is having sex to relieve her pressure, but in fact... ... she is trying her best to please me instead of relaxing herself."
+    "乌诺说她做爱是为了缓解压力,但实际上是......她在尽力取悦我,而不是放松自己."
 
 
 
-    "She is not even sitting on me because she doesn't want me to carry her weight. It must not be easy to keep a position like this..."
+    "她甚至没有坐在我身上,因为她不想让我承受她的体重.保持这样的体位一定不容易..."
 
 
     stop sound
@@ -253,31 +253,31 @@ label G_train_sexskill_1:
 
 
 
-    g "Master’s penis~ awwww~ so deep~~~ so hot~~~~"
+    g "主人的鸡巴~awwww~好深~~~好烫~~~~"
 
 
 
-    g "Only master can fuck Uno, no one else can~~~"
+    g "只有主人能操乌诺,没有其他人能~~~"
 
 
 
-    g "Uno’s pussy has taken the shape of master’s Peeeeeenis~~~~"
+    g "乌诺的小穴是为了主人的鸡巴而生的~~~~"
 
 
 
-    g "Master~~ master~~~ love~~ so much~~~ so so much~~~"
+    g "主人~~主人~~~好~~好~~~好爱你~~~"
 
 
 
-    player "Uno, you don’t need to... ... ohhh... this feels so good... ..."
+    player "乌诺,你不需要......噢...这感觉真好......"
 
 
 
-    g "Awww~~~ master~~~ Uno’s mind is all about master~~"
+    g "Awww~~~乌诺的脑子里全是关于主人的~~"
 
 
 
-    g "Love you~~ love you~~~ ohhh~~~ love you~~~"
+    g "爱你~~爱你~~~ohhh~~~爱你~~~"
 
 
     stop sound
@@ -289,11 +289,11 @@ label G_train_sexskill_1:
 
 
 
-    "Uno and I had a great orgasm at the same time... ..."
+    "我和乌诺同时达到了高潮......"
 
 
 
-    g "Master... yes... master... ..."
+    g "主人...yes...主人......"
 
 
 
@@ -303,19 +303,19 @@ label G_train_sexskill_1:
 
     scene void with tstmgr
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene g_train_sexskill_1_19 with dissolve
 
-    player "Do you feel better now, Uno?"
+    player "你现在感觉好点了吗,乌诺?"
 
 
 
     scene g_train_sexskill_1_20 with tstmgr
 
-    g "Yes, the pressure... is gone... ..."
+    g "Yes,压力...消失了......"
 
 
 
@@ -327,33 +327,33 @@ label G_train_sexskill_1:
 
     scene g_train_sexskill_1_20 with tstmgr
 
-    g "[P]... ... Do you want to... create any marks on my body?"
+    g "[P]......你想要...在我身上留下一些痕迹吗?"
 
 
 
     scene g_train_sexskill_1_21 with tstmgr
 
-    player "Emm? What are you talking about?"
+    player "Emm?你在说些什么?"
 
 
 
-    g "Nipple rings, tattoos, things like that... ... Uno is willing to do anything for you."
+    g "乳环,纹身之类的......乌诺愿意为你做任何事."
 
 
 
     scene g_train_sexskill_1_22 with tstmgr
 
-    player "I... I don’t think there is any necessary to do such a thing, Uno."
+    player "我...我认为没有必要这样做,乌诺."
 
 
 
     scene g_train_sexskill_1_23 with tstmgr
 
-    player "I mean, I don’t need you to do such a thing for me."
+    player "我是说,我不需要你为我做这种事."
 
 
 
-    player "But of course, if you want to do that for yourself, I will always support your decision."
+    player "当然,如果你想自己做,我会永远支持你的决定."
 
 
 
@@ -363,7 +363,7 @@ label G_train_sexskill_1:
 
     scene g_train_sexskill_1_24 with tstmgr
 
-    g "Love you~"
+    g "爱你~"
 
 
 
@@ -373,7 +373,7 @@ label G_train_sexskill_1:
 
 
 
-    "She looks really strange today... ..."
+    "她今天看起来真奇怪......"
 
 
 

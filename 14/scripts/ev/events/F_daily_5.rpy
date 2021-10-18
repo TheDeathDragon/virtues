@@ -3,145 +3,145 @@ label F_daily_5:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, in the public bathroom of the college apartment."
+    "下午,在学校公寓的公共浴室."
 
 
 
     scene f_daily5_1 with dissolve
 
-    f "Senning, I have a question for you."
+    f "森柠,我有个问题要问你."
 
 
 
     scene f_daily5_2 with tstmgr
 
-    b "Emm? Yes, what is it, Rachel?"
+    b "Emm?Yes,怎么了,瑞秋?"
 
 
 
     scene f_daily5_3 with tstmgr
 
-    f "Have you had... had... ..."
+    f "你...你......"
 
 
 
-    b "What are you trying to say?"
+    b "你想说什么?"
 
 
 
-    f "I mean, eh, have you had sex before?"
+    f "我是说,eh,你以前有过性生活吗?"
 
 
 
     scene f_daily5_4 with tstmgr
 
-    b "Ah? What? Sex?"
+    b "Ah?什么?性生活?"
 
 
 
-    b "(Flushed) Why why why why did you ask that??"
+    b "(脸红)为什么,为什么,为什么,你为什么问这个??"
 
 
 
     scene f_daily5_5 with tstmgr
 
-    f "(Surprised at Senning’s flurry) I... I... I don’t know... I was just curious..."
+    f "(对森柠的慌乱感到惊讶)我...我...我不知道...我只是好奇..."
 
 
 
     scene f_daily5_6 with tstmgr
 
-    f "I want to know... what it feels like to have sex with someone..."
+    f "我想知道...做爱是什么感觉..."
 
 
 
     scene f_daily5_2 with tstmgr
 
-    b "You should go find a boyfriend then."
+    b "那你应该找个男朋友."
 
 
 
     scene f_daily5_5 with tstmgr
 
-    f "Wummmm... do you have a boyfriend?"
+    f "Wummmm...你有男朋友吗?"
 
 
 
     scene f_daily5_7 with tstmgr
 
-    b "I... I... I... ..."
+    b "我...我...我......"
 
 
 
     scene f_daily5_10 with tstmgr
 
-    f "How do you think of [P]? He looks like a good guy and he is my only male friend."
+    f "你觉得[P]如何?他看起来是个好人,也是我唯一的男性朋友."
 
 
 
     scene f_daily5_8 with tstmgr
 
-    b "[P]? I... I... I think he is... of course a good guy. He is charming, warm-hearted, reliable, and also very good at studying."
+    b "[P]?我...我...我想他...当然是个好人.他有魅力,热心,可靠,也很擅长学习."
 
 
 
-    f "Oh? Seems like you know him very well."
+    f "Oh?看来你对他很了解."
 
 
 
     scene f_daily5_9 with tstmgr
 
-    b "Ye... yeah, sort of... ..."
+    b "Ye...yeah,是吧......"
 
 
 
     scene f_daily5_13 with tstmgr
 
-    b "So... do you like him?"
+    b "所以...你喜欢他吗?"
 
 
 
     scene f_daily5_11 with tstmgr
 
-    f "Humph, I don’t know. I never liked any boys before. What is it like when you have someone you like?"
+    f "Humph,不知道.我以前从来没有喜欢过男孩.当你有了自己喜欢的人是什么感觉?"
 
 
 
     scene f_daily5_9 with tstmgr
 
-    b "Hmmmmmm... ... Your heart will beat very fast when thinking of him. You will start to miss him even when you just leave him for an hour."
+    b "Hmmmmmm......当你想到他的时候,你的心跳的很快.即使你离开他才一个小时,你也会开始想念他."
 
 
 
     scene f_daily5_12 with tstmgr
 
-    b "Oh, yeah, and you will be extremely sensitive to his scent~"
+    b "Oh,yeah,你会对它的气味非常敏感~"
 
 
 
-    f "Scent? Wow, that sounds fantastic."
+    f "气味吗?哇,听起来太棒了."
 
 
 
     scene f_daily5_10 with tstmgr
 
-    f "Emmm... but I am not sensitive to [P]’s scent. Guess I don’t like him, ha~"
+    f "Emmm...但我对[P]的气味不敏感.我想我不喜欢他,ha~"
 
 
 
     scene f_daily5_9 with tstmgr
 
-    b "(Relieved breathing) Oh, huh... ... ... ..."
+    b "(如释重负)Oh,huh............"
 
 
 
     scene f_daily5_8 with tstmgr
 
-    b "Let’s... hurry up now. Showering too long is kind of bad for our skins."
+    b "让我们...快点.洗澡时间过长对皮肤不好."
 
 
 
-    f "Oh, really?"
+    f "Oh,真的?"
 
 
 

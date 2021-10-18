@@ -3,55 +3,55 @@ label C_daily_3:
     scene c_company_normal with tstmgr
     play music happy
 
-    c "What are you doing?"
+    c "你在做什么?"
 
-    player "Uh... nothing."
+    player "Uh...没什么."
 
     scene c_company_angry with tstmgr
 
-    c "I saw you were writing something. What is that? Give it to me."
+    c "我看到你在写东西.那是什么?给我."
 
-    player "I... eh..."
+    player "我...eh..."
 
-    player "Fine..."
+    player "好吧..."
 
-    narrator "I took out a piece of writing paper. "
+    narrator "我拿出一张信纸."
 
     scene c_company_slight_surprise with tstmgr
 
-    c "You are... writing a letter?"
+    c "你在...写信?"
 
-    player "Yeah, to my dad. I mean, I can't fly to the Capital City to visit him right now, and they don't allow me to call him, either. So I... write letters."
+    player "Yeah,给我的爸爸.我的意思是,我现在不能飞到首都去看他,他们也不允许我给他打电话.所以我...只能写信."
 
     scene c_company_smile with tstmgr
 
-    c "I didn't know you are such a good son."
+    c "我不知道你是这么好的儿子."
 
-    player "Well, there are a lot of things that you don't know about me yet."
+    player "Well,有很多关于我的事你还不知道."
 
-    c "Maybe..."
+    c "也许吧..."
 
     scene c_company_tease with tstmgr
 
-    c "But your today's salary will be deducted 50%%."
+    c "但你今天的工资将会被扣除50%%."
 
-    player "What?"
+    player "什么?"
 
-    c "You knew the rules. You are not supposed to do your own things at work."
+    c "你知道规矩.你不应该在工作中做自己的事情."
 
-    player "Don't you have any mercy? My dad is in jail!"
+    player "难道你一点同情心都没有吗?我爸爸在坐牢!"
 
     scene c_company_smile with tstmgr
 
-    c "Say whatever you like, but rules are rules."
+    c "你爱怎么说就怎么说,但规则就是规则."
 
-    c "Now go on with the work. Don't let me see you doing this again."
+    c "现在继续工作吧.别让我再看到你这么做."
 
     scene company_background with tstmgr
 
-    narrator "She left... ... ... ..."
+    narrator "她离开了............"
 
-    narrator "Ah, that capitalistic vampire..."
+    narrator "Ah,资本主义吸血鬼..."
 
     scene void with tstmgr
 

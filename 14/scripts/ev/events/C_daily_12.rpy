@@ -3,7 +3,7 @@ label C_daily_12:
     scene void with tstmgr
     play music happy
 
-    "Theo is going to move in today."
+    "狄奥今天要搬进来了."
 
 
 
@@ -13,27 +13,27 @@ label C_daily_12:
 
     scene c_daily12_1 with dissolve
 
-    c "Hi, you two."
+    c "Hi,你们两个."
 
 
 
-    player "Good afternoon, Theo..."
+    player "下午好,狄奥..."
 
 
 
     scene c_daily12_2 with tstmgr
 
-    a "Theodora! I’m so happy you decided to move in!"
+    a "狄奥多拉!我很高兴你决定搬进来住!"
 
 
 
-    c "Oh... eh... thanks... ..."
+    c "Oh...eh...谢谢......"
 
 
 
     scene c_daily12_3 with tstmgr
 
-    a "I’ll show you around the house~"
+    a "我带你参观一下房子~"
 
 
 
@@ -43,17 +43,17 @@ label C_daily_12:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene c_daily12_4 with tstmgr
 
-    a "Here is the room that we prepared for you!~"
+    a "这是我们为你准备的房间!~"
 
 
 
-    a "[P] said that you prefer to stay in small rooms, and this is the smallest bedroom that we have. What do you think?"
+    a "[P]说你喜欢住小房间,这是我们最小的卧室.你觉得如何?"
 
 
 
@@ -63,25 +63,25 @@ label C_daily_12:
 
     scene c_daily12_5 with tstmgr
 
-    c "Not bad. I kinda like it..."
+    c "还行.我挺喜欢的..."
 
 
 
-    a "right? I did a lot of cleaning last night~"
+    a "真的?我昨晚打扫了一下~"
 
 
 
-    c "Thank you... ..."
+    c "谢谢你......"
 
 
 
     scene c_daily12_6 with tstmgr
 
-    a "It’s nothing, as long as you like it!~"
+    a "没什么,只要你喜欢就行!~"
 
 
 
-    a "We are going to be best friends!~"
+    a "我们会成为最好的朋友的!~"
 
 
 
@@ -91,11 +91,11 @@ label C_daily_12:
 
     scene c_daily12_7 with tstmgr
 
-    c "I'm... looking forward to it..."
+    c "我...很期待..."
 
 
 
-    "We suddenly heard a sound of glass breaking coming from the livingroom."
+    "我们突然听到从客厅传来玻璃破碎的声音."
 
 
 
@@ -107,39 +107,39 @@ label C_daily_12:
 
     scene c_daily12_9 with tstmgr
 
-    a "I guess one of our bnb guest just broke another glass cup, sigh... ..."
+    a "我猜是民宿的客人又打破了一个茶杯,唉......"
 
 
 
     scene c_daily12_10 with tstmgr
 
-    a "I have told you for several times that we should use plastic cups!"
+    a "我已经告诉过你好几次了,我们应该使用塑料杯!"
 
 
 
-    player "Nah... plastic cups look cheap."
+    player "Nah...塑料杯子看起来很廉价."
 
 
 
     scene c_daily12_11 with tstmgr
 
-    a "Hummm... ... Anyway, I‘m going to check the livingroom now."
+    a "Hummm......不管怎样,我现在要去客厅看看了."
 
 
 
     scene c_daily12_12 with tstmgr
 
-    a "Sorry, Theodora. I’m sure [P] will show you the rest of the house well~"
+    a "抱歉,狄奥多拉.我肯定[P]会好好带你看看房子的其他地方的~"
 
 
 
-    c "Oh, okay... don’t worry about it... ..."
+    c "Oh,okay...别担心......"
 
 
 
     scene c_daily12_13 with tstmgr
 
-    "Vera then left the room..."
+    "然后薇拉离开了房间..."
 
 
 
@@ -149,25 +149,25 @@ label C_daily_12:
 
 
 
-    c "She seemed to expect me to move in. Strange... ..."
+    c "她似乎希望我搬进来住.奇怪......"
 
 
 
-    player "She is an energetic, hospitable girl that treats everyone with her warm heart."
+    player "她是一个充满活力,热情好客的女孩,用她的热情对待每一个人."
 
 
 
-    c "I see... ... ... ..."
+    c "我明白了............"
 
 
 
     scene c_daily12_15 with tstmgr
 
-    c "Do you think... she and I... can really be friends?"
+    c "你认为...我和她...真的能成为朋友吗?"
 
 
 
-    player "I’m very positive about that."
+    player "我对此非常肯定."
 
 
 
@@ -179,11 +179,11 @@ label C_daily_12:
 
     scene c_daily12_17 with tstmgr
 
-    c "And did you notice the way she looks at you? Her eyes were full of love. Such a pure girl, her feelings were all showed on her face."
+    c "你注意到她看你的眼神了吗?她的眼睛充满了爱意.这样一个纯洁的女孩,她的感情都表现在脸上."
 
 
 
-    player "What?... ... For real?"
+    player "什么?......真的?"
 
 
 
@@ -195,15 +195,15 @@ label C_daily_12:
 
     scene c_daily12_17 with tstmgr
 
-    c "I think it’s gonna be fun to get along with her..."
+    c "我觉得和她相处会很有趣..."
 
 
 
-    player "It’s... good to hear that... ..."
+    player "很...很高兴听你这么说......"
 
 
 
-    player "Anyway, come, I’ll show you the rest of the house."
+    player "不管怎样,来吧,我带你看看房子的其他地方."
 
 
 
@@ -213,7 +213,7 @@ label C_daily_12:
 
 
 
-    "*Theodora has moved into your house.*"
+    "*狄奥多拉搬进了你的房子.*"
 
     stop music fadeout 1.0
 

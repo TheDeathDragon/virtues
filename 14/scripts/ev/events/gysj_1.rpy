@@ -3,59 +3,59 @@ label gysj_1:
     scene void with tstmgr
     play music happy
 
-    narrator "I am quite free today, so I decided to have a walk in the park nearby."
+    narrator "我今天很闲,所以我决定去附近的公园散步."
 
     scene park_woodpath_day_background with tstmgr
 
-    narrator "I always like to hang out here. The air is clean, the environment is quiet, I couldn't expect better."
+    narrator "公园里只有几个人.空气清新,环境安静."
 
-    narrator "I walked along the path in the woods for a while. Suddenly, I hear a rush of footsteps coming behind me. A runner is approaching."
+    narrator "我沿着林中小路走了一会儿.突然,我听到身后有一阵急促的脚步声.一个跑步者正在接近."
 
-    "???" "Excuse me."
+    "???" "打扰一下."
 
-    narrator "I moved aside for her."
+    narrator "我走到一旁让开路."
 
     scene gysj1_1 with tstmgr
 
-    narrator "Then I saw a girl with fitness wear ran past me like a wind."
+    narrator "然后我看到一个穿着健身服的女孩像一阵风一样从我身边跑过."
 
-    narrator "She runs like a professional athlete. Her running posture looks coordinated and graceful."
+    narrator "她跑得像个职业运动员.她跑步的姿势看起来协调优雅."
 
     scene gysj1_2 with tstmgr
 
-    narrator "And she perfectly interprets the charm of women's fitness wear which combines both energy and sexiness."
+    narrator "她完美诠释了活力与性感相结合的女性健身服装的魅力."
 
     scene gysj1_3 with tstmgr
 
-    narrator "Just take a look at her. What a wonderful body she has! That slender waist, meaty butt, and fine legs... God, it looks like a masterpiece of artwork."
+    narrator "看看她.她的身体真棒!细腰,肥臀,美腿...天啊,它看起来就像一件艺术杰作."
 
-    narrator "Maybe I should chase her up and ask her name? Yeah, I should definitely do that."
+    narrator "也许我应该去问问她的名字?是的,我绝对应该这么做."
 
     scene void with tstmgr
 
-    narrator "I started to run, tried to catch her up... ... ... ..."
+    narrator "我开始跑,试图赶上她............"
 
     narrator "... ... ... ..."
 
     narrator "Eh... ... ... ..."
 
-    narrator "Why the hell... ... ... ..."
+    narrator "为什么............"
 
     scene gysj1_4 with tstmgr
 
-    player "(Running exhaustedly) Ah... For God's sake..."
+    player "(跑累了)Ah...看在上帝份上..."
 
-    player "How could she run so fast?"
+    player "她怎么能跑得这么快?"
 
-    narrator "I was proud of my running speed, but she is still a lot faster than me. I can't even catch her shadow. That was quite embarrassing"
+    narrator "我为我的跑步速度感到骄傲,但她仍然比我快得多.我连她的影子都摸不到.这很尴尬"
 
-    narrator "Is she really a professional athlete? That's the only way to explain."
+    narrator "她真的是职业运动员吗?我想这是唯一的解释."
 
-    player "There is no way for me to keep up her speed. I'm exhausted, I'd better go home now."
+    player "我没有办法跟上她的速度.我累坏了,我最好现在回家."
 
-    narrator "I hope I can do better next time..."
+    narrator "我希望我下次能做得更好..."
 
-    narrator "If there is a next time."
+    narrator "如果有下次的话."
 
     narrator "... ... ... ..."
 

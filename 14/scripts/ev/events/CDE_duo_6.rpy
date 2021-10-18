@@ -2,7 +2,7 @@ label CDE_duo_6:
 
     scene void with tstmgr
     play music happy
-    "Later today, in the bathroom of Elisa’s mansion..."
+    "今天晚些时候，在伊莉莎的豪宅的浴室里..."
 
 
 
@@ -16,39 +16,39 @@ label CDE_duo_6:
 
 
 
-    "The elegant mother and daughter were lining up in the bathing pool with their asses lifting up, waiting for my ejaculation like obedient slaves."
+    "优雅的母女俩在浴池里排好队，抬起屁股，像听话的奴隶一样等待着我的射精."
 
 
 
-    e "Irene... will be home soon, we should... ohhhh~~ hurry up... ..."
+    e "艾琳......很快就回来了，我们应该......哦~~快点... ..."
 
 
 
-    c "Actually... I think today is the day to tell Irene everything."
+    c "事实上... 我想今天是告诉艾琳一切的时候了."
 
 
 
-    e "What? Ohhhh~~ hhhh~~ Awwwww~ Are you sure about that?"
+    e "什么? Ohhhh~~ hhhh~~ Awwwww~ 你确定要这样的吗?"
 
 
 
-    c "Uh-huh~ It will be fine~"
+    c "Uh-huh~ 没事的~"
 
 
 
-    e "But... ..."
+    e "但是... ..."
 
 
 
-    player "Eh... Can you guys focus on what we are doing here for now?"
+    player "Eh... 你们能不能先把注意力集中在我们正在做的事情上?"
 
 
 
-    e "Oh... ... Auuummmmm... ... Sorry... ..."
+    e "Oh... ... Auuummmmm... ... 对不起... ..."
 
 
 
-    player "Nevermind, time to switch~"
+    player "不说了，该换人了~"
 
 
     stop sound
@@ -58,19 +58,19 @@ label CDE_duo_6:
 
 
 
-    c "Ahhhhh~~~ Cock~~~ Ahhhhh~~~ hhhh~~~"
+    c "Ahhhhh~~~ 鸡巴~~~ Ahhhhh~~~ hhhh~~~"
 
 
 
-    e "Theo... ..."
+    e "狄奥... ..."
 
 
 
-    "Theodora’s vagina has the remarkable tightness. That meat hole is like a flytrap plant, beautiful, but dangerous as well. I feel like my dick is dissolving in her pussy every time during our sex."
+    "狄奥多拉的小穴有着非凡的紧致度。那个肉洞就像一个捕蝇草，美丽，但也危险。在我们做爱的过程中，我感觉我的老弟每次都在她的小穴里溶解."
 
 
 
-    "I have to be super concentrating on fucking her, or she may squeeze my cum out any second~"
+    "我必须超级集中精力和她做爱，否则她随时可能把我的精液挤出来~"
 
 
     stop sound
@@ -80,27 +80,27 @@ label CDE_duo_6:
 
 
 
-    c "Mom... ... Don’t... don’t look at me. Awwwwww~~~~"
+    c "妈妈... ... 不要...不要看我. Awwwwww~~~~"
 
 
 
-    c "I must... look like a whore right now... ..."
+    c "我一定......现在看起来像个妓女... ..."
 
 
 
-    e "You are as beautiful as you always be, honey~"
+    e "你是一如既往地美丽，亲爱的~"
 
 
 
-    c "So... a beautiful whore, ha~~"
+    c "那么......一个美丽的妓女，哈~~"
 
 
 
-    c "Awwww~~ It is coming, it is coming! I can feel the pulse~"
+    c "Awwww~~ 要来了，它要来了! 我可以感觉到它的颤抖~"
 
 
 
-    c "I... ..."
+    c "我... ..."
 
 
     stop sound
@@ -116,7 +116,7 @@ label CDE_duo_6:
 
 
 
-    "We orgasmed at the same time and I came a lot inside her body. Now she can have a rest, but my battle is not over yet~"
+    "我们同时高潮l ，我在她的身体里射了很多...现在她可以休息了，但我的战斗还没有结束~"
 
 
 
@@ -126,7 +126,7 @@ label CDE_duo_6:
 
 
 
-    player "It’s your turn again, Elisa~"
+    player "又轮到你了，伊莉莎~"
 
 
     stop sound
@@ -136,23 +136,23 @@ label CDE_duo_6:
 
 
 
-    "Elisa’s vagina is a different thing. It is not as tight as her daughter’s, so I don’t need to worry about it being too violent for my dick."
+    "伊莉莎的小穴是另一种情况。它不像她女儿的那么紧，所以我不需要担心，它对我的小弟弟是否太暴力了."
 
 
 
-    "If I have to find a word to describe this meat hole, I would say it is ‘juicy’, and I would use this word to describe Elisa herself too. I mean, she has milk in her breasts and she always sweats~"
+    "如果我必须找一个词来形容这个小穴，我会说它是 \"多汁的\"，我也会用这个词来形容艾丽莎本人。我的意思是，她的乳房里有乳汁，而且她总是出汗~"
 
 
 
-    "And as for her pussy, it feels like a water-filled sponge. I can bring out a lot of water every time I pull my dick out of her."
+    "至于她的阴部，感觉就像一块充满水的海绵。每次我把我的鸡巴从她体内拔出来时，我都能带出很多水来."
 
 
 
-    "Damn, the mature woman’s wet pussy is so good. All I need to do is to completely relax myself and enjoy the penetration~"
+    "该死的，成熟女人的湿润阴部是如此的好。我所需要做的就是完全放松自己，享受插入的过程~"
 
 
 
-    e "I... I’m about to... ..."
+    e "我... 我快要... ..."
 
 
     stop sound
@@ -164,7 +164,7 @@ label CDE_duo_6:
 
 
 
-    "I could feel that there was a flood coming out from her pussy. Ahhhh~ I love this juicy pussy so much~"
+    "我可以感觉到，有很多蜜汁从她的小穴涌出。啊~我太喜欢这个多汁的小穴了~"
 
 
 
@@ -172,7 +172,7 @@ label CDE_duo_6:
 
 
 
-    c "And now, there is only one thing left to do~"
+    c "而现在，只剩下一件事要做了~"
 
 
 
@@ -182,13 +182,13 @@ label CDE_duo_6:
 
 
 
-    "Sometime later..."
+    "后来的某个时候..."
 
 
 
     scene cde_duo_6_7 with dissolve
 
-    d "I’m home~"
+    d "我回来了~"
 
 
 
@@ -198,33 +198,33 @@ label CDE_duo_6:
 
     scene cde_duo_6_8 with tstmgr
 
-    d "Mommy? Theo? Are you there?"
+    d "妈妈？狄奥？你在吗?"
 
 
 
-    "Elisa’s voice came from a distance..."
+    "伊丽莎的声音从远处传来..."
 
 
 
     scene cde_duo_6_9 with tstmgr
 
-    e "We are in the bathroom. Come and join us~"
+    e "我们在浴室里...来加入我们吧~"
 
 
 
     scene cde_duo_6_10 with tstmgr
 
-    d "Isn’t it a little too early for bathing?"
+    d "现在洗澡是不是有点太早了?"
 
 
 
     scene cde_duo_6_11 with tstmgr
 
-    d "Is [P] here too? I see his shoes at the door."
+    d "[P]也在这里吗？我看到他的鞋子在门口."
 
 
 
-    e "Yes, he is with us~ Come here~"
+    e "是的，他和我们在一起，来这里~"
 
 
 
@@ -242,21 +242,21 @@ label CDE_duo_6:
 
     scene cde_duo_6_13 with tstmgr
 
-    d "What are you... doing here?"
+    d "你在这里......做什么?"
 
 
 
     scene cde_duo_6_14 with tstmgr
 
-    e "Hi there, sweetie~"
+    e "嗨，亲爱的~"
 
 
 
-    d "Are you guys... taking a bath together? Didn’t you forbid us to bath with [P] after he was 10, mommy?"
+    d "你们......在一起洗澡吗？妈妈，你不是禁止我们在[P]10岁以后和他一起洗澡吗?"
 
 
 
-    e "What’s the matter?~ [P] will marry your sister soon and he will become a part of our family, so of course he can bath with us~"
+    e "怎么了？~[P]马上就要和你妹妹结婚了，他将成为我们家庭的一员，所以他当然可以和我们一起洗澡~"
 
 
 
@@ -268,7 +268,7 @@ label CDE_duo_6:
 
     scene cde_duo_6_16 with tstmgr
 
-    d "Whatever~ I'll go change my clothes~"
+    d "随便吧，我去换衣服~"
 
 
 
@@ -278,7 +278,7 @@ label CDE_duo_6:
 
 
 
-    "Sometime later... ..."
+    "一会后... ..."
 
 
 
@@ -292,7 +292,7 @@ label CDE_duo_6:
 
     $ flashlight()
 
-    d "Irene wants to sit in the middle!~"
+    d "艾琳想坐在中间的位置!~"
 
 
 
@@ -300,23 +300,23 @@ label CDE_duo_6:
 
 
 
-    player "Oh, okay... ..."
+    player "Oh, 好吧... ..."
 
 
 
-    e "Wow~ Irene, you are not supposed to be so close with your future brother-in-law."
+    e "哇~艾琳，你不应该和你未来的姐夫这么亲近."
 
 
 
     scene cde_duo_6_19 with tstmgr
 
-    d "Fu fu fu~~~ Are you angry at me right now, Theo?"
+    d "Fu fu fu~~~ 你现在在生我的气吗，狄奥?"
 
 
 
     scene cde_duo_6_20 with tstmgr
 
-    c "Not really, why would I?"
+    c "不是这样的，我为什么要呢?"
 
 
 
@@ -328,15 +328,15 @@ label CDE_duo_6:
 
     scene cde_duo_6_22 with tstmgr
 
-    c "Actually, that seat is specially prepared for you today~"
+    c "事实上，这个位置今天是专门为你准备的~"
 
 
 
-    d "What... are you talking about?"
+    d "什么......你在说什么?"
 
 
 
-    "Suddenly... ..."
+    "突然... ..."
 
 
 
@@ -348,17 +348,17 @@ label CDE_duo_6:
 
 
 
-    d "[P], what are you doing?!"
+    d "[P], 你在做什么?!"
 
 
 
-    c "Isn’t this what you do with him everyday during your ‘tutoring lessons’?~ Slutty cat~"
+    c "这不就是你每天在\"辅导课\"上和他做的事吗~淫荡的猫~"
 
 
 
     scene cde_duo_6_24 with tstmgr
 
-    d "I... I don’t know what you are talking about... ..."
+    d "我... 我不知道你在说什么... ..."
 
 
 
@@ -372,29 +372,29 @@ label CDE_duo_6:
 
     scene cde_duo_6_26 with tstmgr
 
-    e "You let me down so much, Irene. I thought you were studying pretty hard during the tutoring lessons~"
+    e "你太让我失望了，艾琳...我以为你在辅导课上学习得很认真呢~"
 
 
 
-    d "Mommy, I... I... ..."
+    d "妈妈, 我... 我... ..."
 
 
 
     scene cde_duo_6_27 with tstmgr
 
-    d "I can explain~~~"
+    d "我可以解释~~~"
 
 
 
-    e "There is no need to do that, my daughter~ No one is blaming you for anything."
+    e "没有必要这样做，我的女儿~没有人责备你什么."
 
 
 
-    e "In fact, as an open-minded parent, I will support you to pursue love~"
+    e "事实上，作为一个思想开放的家长，我将支持你去追求爱~"
 
 
 
-    e "And now... ..."
+    e "而现在... ..."
 
 
 
@@ -406,23 +406,23 @@ label CDE_duo_6:
 
 
 
-    d "I... I still don’t get it!"
+    d "我... 我还是不明白!"
 
 
 
-    d "What is happening right now?!"
+    d "现在正在发生什么?!"
 
 
 
-    c "Isn’t this what you want, Irene? Your future brother-in-law’s big dick~"
+    c "这不正是你想要的吗，艾琳？你未来姐夫的大吊~"
 
 
 
-    d "But... but... ..."
+    d "但是... 但是... ..."
 
 
 
-    d "Not in front of my... sister... and... mommy... ..."
+    d "不要在我的...姐姐...和...妈妈面前说... ..."
 
 
 
@@ -434,11 +434,11 @@ label CDE_duo_6:
 
 
 
-    c "Did you have an orgasm as soon as he penetrated you with your favorite dick? You are so hopeless, sis~"
+    c "当他用你最喜欢的鸡巴插入你的时候，你就高潮了吗？你真是无可救药，姐姐~"
 
 
 
-    c "Just like me and mom~"
+    c "就像我和妈妈一样~"
 
 
 
@@ -448,21 +448,21 @@ label CDE_duo_6:
 
 
 
-    d "Awwwwww~~~ Mommy~~~ Theo~~~ Someone~~~ Tell me what is happening~~~"
+    d "Awwwwww~~~ 妈妈~~~ 狄奥~~~ 有人~~~告诉我发生了什么事~~~"
 
 
 
-    d "[P]... ... Why don’t you say anything? Is this sort of a punishment to me?~~~"
+    d "[P]... ... 你为什么什么都不说？这算不算是对我的惩罚?~~~"
 
 
 
-    "Eh... ... I would like to say something, but..."
+    "Eh... ... 我想说点什么，但..."
 
 
 
     scene cde_duo_7_25 with flashback
 
-    c "All you have to do is to keep silence and let your cock do the talking~"
+    c "你所要做的就是保持沉默，让你的老弟来说话~"
 
 
     stop sound
@@ -472,27 +472,27 @@ label CDE_duo_6:
 
 
 
-    d "Awwwwwww~~~ I... I can’t believe it!~~~"
+    d "Awwwwwww~~~ 我... 我不敢相信!~~~"
 
 
 
-    e "Are you okay, Irene?"
+    e "你还好吗，艾琳?"
 
 
 
-    d "I’m not okay at all!"
+    d "我一点都不好!"
 
 
 
-    e "Oh, is [P] moving too fast?"
+    e "哦，[P]的速度是不是太快了?"
 
 
 
-    d "Just... just a little... ... Wait, that’s not the problem!"
+    d "只是......只是有一点......。等等，这不是问题所在!"
 
 
 
-    d "Awwwwwww... ... Mommy... what happened to you?"
+    d "Awwwwwww... ... 妈妈...你怎么了?"
 
 
     stop sound
@@ -502,39 +502,39 @@ label CDE_duo_6:
 
 
 
-    d "[P]’s big cock... is stretching Irene’s pussy~~~ Ahhhhh~~~"
+    d "[P]的大鸡巴......把艾琳的腹部顶的变形了~~~ Ahhhhh~~~"
 
 
 
-    d "So... so big... ... so hard~~~ Ohhhhhhh~~~~"
+    d "如此......如此之大......如此之硬~~~ Ohhhhhhh~~~~"
 
 
 
-    c "It was supposed to be harder~ Mom and I have made him cum twice before you came in~"
+    c "本来应该更有力的~妈妈和我在你进来之前已经让他射了两次了~"
 
 
 
-    d "What? Awwwww~~~ Hhhhhhh~~ Mommy?"
+    d "什么? Awwwww~~~ Hhhhhhh~~ 妈妈?"
 
 
 
-    c "Haven’t you figured out yet? [P] is the one that mom dates with. The three women of this family, are all hopeless sluts~ It’s in our blood~"
+    c "你还没搞清楚吗？[P]是妈妈约会的对象。这个家庭的三个女人，都是无可救药的荡妇，这是我们的血液~"
 
 
 
-    c "You weren’t even the only one in this house who seduced my boyfriend~ Does that make you feel better, little sister?"
+    c "你甚至不是这个房子里唯一勾引我男朋友的人~这让你感觉好点了吗，小妹妹?"
 
 
 
-    d "I... I... I... ..."
+    d "我... 我... 我... ..."
 
 
 
-    d "I’m cumming!!!!~~~~~~"
+    d "我要去，要去了!!!!~~~~~~"
 
 
 
-    "Ah, well, me too~"
+    "Ah, 我, 我也是~"
 
 
     stop sound
@@ -548,23 +548,23 @@ label CDE_duo_6:
 
     scene cde_duo_6_33 with tstmgr
 
-    "Irene’s little body shook so hard while I injected my cum into her tender water-filled pussy~"
+    "当我把我的精液注入他充满水的嫩穴时，艾琳的小身体疯狂颤抖~"
 
 
 
-    c "You just had an orgasm in front of your mother and sister, how shameless~"
+    c "你刚刚在你母亲和妹妹面前达到了高潮，太丢脸了~"
 
 
 
-    c "You are almost as shameless as me~~~"
+    c "你几乎和我一样不要脸~~~"
 
 
 
-    d "Mommy... ... Theo... ... [P]... ... so bad... ..."
+    d "妈妈... ... 狄奥... ... [P]... ... 你们太坏了... ..."
 
 
 
-    e "Oh, my dear..."
+    e "哦，我亲爱的..."
 
 
 
@@ -588,7 +588,7 @@ label CDE_duo_6:
 
 
 
-    e "Have some milk, honey, to restore your energy."
+    e "喝点牛奶、蜂蜜，以恢复你的精力."
 
 
 
@@ -602,23 +602,23 @@ label CDE_duo_6:
 
 
 
-    d "Mommy... ... ... ..."
+    d "妈妈... ... ... ..."
 
 
 
-    e "I’m so proud of you, honey~ My little girl has finally grown up~"
+    e "我真为你感到骄傲，亲爱的~我的小女儿终于长大了~"
 
 
 
-    e "It must be hard for you to maintain this secret love between you and [P], right?"
+    e "对你来说，维持你和[P]之间的这种秘密爱情一定很困难，对吗?"
 
 
 
-    e "From now on you don’t need to keep it a secret anymore. You can express your love to [P] openly in front of Theo and me~"
+    e "从现在开始，你不需要再保守秘密了。你可以在西奥和我面前公开表达你对[P]的爱~"
 
 
 
-    e "We all will... express our love openly in this family~"
+    e "我们都将......在这个家庭中公开表达我们的爱~"
 
 
 
@@ -628,37 +628,37 @@ label CDE_duo_6:
 
     scene cde_duo_6_38 with tstmgr
 
-    c "You don’t like this idea?"
+    c "你不喜欢这个观点?"
 
 
 
-    d "Theo... ... Will you really forgive me?"
+    d "狄奥... ... 你真的能原谅我吗?"
 
 
 
-    c "Why would I blame you? You didn’t take anything from me~"
+    c "我为什么要怪你？你并没有从我这里拿走任何东西~"
 
 
 
-    c "Mom, you, and I, we can share everything we have, including [P] and his cock~"
+    c "妈妈，你和我，我们可以分享我们的一切，包括[P]和他的老弟~"
 
 
 
-    d "Theo... ... ... ..."
+    d "狄奥... ... ... ..."
 
 
 
     scene cde_duo_6_39 with tstmgr
 
-    d "I still can’t believe it is really happening~"
+    d "我仍然无法相信这一切真的发生了~"
 
 
 
-    e "Then you’d better get used to it, honey~"
+    e "那么你最好习惯于它，亲爱的~"
 
 
 
-    d "This is like... a dream come true!"
+    d "这就像...梦想成真!"
 
 
 
@@ -668,43 +668,43 @@ label CDE_duo_6:
 
     scene cde_duo_6_40 with tstmgr
 
-    c "Don’t you have anything to say?"
+    c "你就没有什么可说的吗?"
 
 
 
-    player "Oh, I can talk now?"
+    player "哦，我现在可以说了?"
 
 
 
-    c "No one forbade you to talk."
+    c "没有人不让你说."
 
 
 
     scene cde_duo_6_41 with tstmgr
 
-    player "But you... ... whatever... ..."
+    player "但你...... ...不管怎样... ..."
 
 
 
     scene cde_duo_6_42 with tstmgr
 
-    player "Eh... ... Welcome to the harem, Irene~"
+    player "Eh... ... 欢迎加入后宫，艾琳~"
 
 
 
-    e "Welcome to this new family, honey~"
+    e "欢迎来到这个新家庭，亲爱的~"
 
 
 
-    d "O... okay... ..."
+    d "好... 好的... ..."
 
 
 
-    "Now, finally, the entire Shinyrost family has become a part of my harem~"
+    "现在，终于，整个Shinyrost家族都成为我后宫的一部分了~"
 
 
 
-    "The juicy mother, the sensitive elder daughter, the cute young daughter. Man... I’m so blessed~"
+    "多汁的母亲，敏感的大女儿，可爱的小女儿...伙计... 我是如此有福气~"
 
 
 

@@ -7,33 +7,31 @@ label F_love_9:
 
 
 
-    f "Coming, who’s there?"
+    f "来了，谁在那里？"
 
 
 
     scene f_love_9_1 with dissolve
-
-    f "*Opened the door* Ah, [P]. I didn’t expect you to be here."
-
+    f "*开门* 啊，[P]。我没想到你会来这里。"
 
 
-    player "I’m just here to check if you are doing okay."
+
+    玩家 "我只是来看看你过得还好吗。"
 
 
 
     scene f_love_9_2 with tstmgr
 
-    player "Wait, damn it, you should wear more than just underwear before answering the door."
+    玩家 "等等，该死的，你应该在应门前穿上衣服。"
 
 
 
     scene f_love_9_3 with tstmgr
-
-    f "What’s the matter, you are the only male that would come to my room."
-
+    f "怎么了，你是唯一会来我房间的男性。"
 
 
-    player "I... ... Sigh... whatever... ..."
+
+    player "我... ... 唉......不管怎样......"
 
 
 
@@ -44,62 +42,60 @@ label F_love_9:
 
 
     scene f_love_9_4 with tstmgr
-
-    player "So... ... Uno said you were a little upset recently. Is everything alright?"
+    player "那么......乌诺说你最近有点不高兴。一切都还好吗？"
 
 
 
     scene f_love_9_5 with tstmgr
 
-    f "Ah, yeah... ... no, I mean, I don’t know... ..."
+    f "啊，是的......不，我是说，我不知道......"
 
 
 
-    player "Do you want to talk about it?"
+    player "你愿意谈一谈吗？"
 
 
 
     scene f_love_9_6 with tstmgr
-
-    f "... ... My coach said that I was distracted by unnecessary things lately and I should concentrate more on training."
-
+    f "... ... 我的教练说，我最近被一些不必要的事情分散了注意力，我应该更专注于训练。"
 
 
-    player "So what distracted you?"
+
+    选手 "那是什么让你分心了？"
 
 
 
     scene f_love_9_4 with tstmgr
 
-    f "You, I guess?"
+    f "你，我猜？"
 
 
 
-    f "My life used to be very simple, all I need to care about is running, the faster I run, the better I perform in the race, the happier I would be."
+    f "我的生活曾经非常简单，我需要关心的就是跑步，我跑得越快，在比赛中表现得越好，我就会越开心。"
 
 
 
     scene f_love_9_5 with tstmgr
 
-    f "But ever since I met you... ... I don’t know, my life has became a mess."
+    f "但自从我遇到你之后.....我不知道，我的生活变得复杂起来。"
 
 
 
-    player "Eh... ... Sorry?"
+    玩家 "呃......。对不起？"
 
 
 
     scene f_love_9_6 with tstmgr
 
-    f "I thought this world was as simple as my track team, but then I met you... ... and Senning, and Uno, and Vera. You guys showed me so many things that I didn’t know before."
+    f "我以为这个世界就像我的田径队一样简单，但后来我遇到了你......还有森宁，还有乌诺，还有维拉。你们让我看到了许多我以前不知道的事情。"
 
 
 
-    f "And those things all looked so... interesting, definitely more interesting than my training."
+    f "而那些东西看起来都很......有趣，绝对比我的训练更有趣。"
 
 
 
-    f "But... ... I shouldn’t be distracted. Training is the only thing that matters to me. I am aiming for the Olympics."
+    f "但是......我不应该分心，训练是对我来说很重要的事情。我的目标是奥运会。"
 
 
 
@@ -107,23 +103,23 @@ label F_love_9:
 
 
 
-    player "Just ask, what are you going to do after you win the Olympics?"
+    player "就问，你赢得奥运会后打算做什么？"
 
 
 
     scene f_love_9_7 with tstmgr
 
-    f "Win? You mean like I get a medal? I will be so happy if I can achieve that, and I will share that great joy with my friends."
+    f "赢？你是说我获得了奖牌吗？如果我能够实现这个目标，我会非常高兴，我会与我的朋友们分享这种巨大的喜悦。"
 
 
 
-    player "That’s... not really a plan."
+    player "这......不是一个真正的计划。"
 
 
 
     scene f_love_9_5 with tstmgr
 
-    f "Maybe I will come up with a plan after I really win the game."
+    f "也许在我真正赢得比赛之后，我会想出一个计划。"
 
 
 
@@ -131,7 +127,7 @@ label F_love_9:
 
 
 
-    f "I won’t really have much time to celebrate though. I will have to keep training and prepare for the next game."
+    f "不过我真的没有太多的时间来庆祝。我将不得不继续训练，为下一场比赛做准备。"
 
 
 
@@ -141,23 +137,23 @@ label F_love_9:
 
 
 
-    player "But... there has be an end, right? What are you going to do after you retire?"
+    player "但是......总得有一个结束，对吗？你退休后打算做什么？"
 
 
 
     scene f_love_9_9 with tstmgr
 
-    f "Retirement?"
+    f "退休？"
 
 
 
-    f "Oh my God, isn’t it too early to think about that?"
+    f "哦，我的上帝，现在考虑这个问题是不是太早了？"
 
 
 
     scene f_love_9_10 with tstmgr
 
-    player "You know, you can’t be an athlete forever, it will only be a stage of your life. What do you think you can do when you step into your next stage of life?"
+    player "你知道，你不可能永远当运动员，这只会是你生命中的一个阶段。当你踏入人生的下一个阶段时，你认为你能做什么？"
 
 
 
@@ -167,33 +163,33 @@ label F_love_9:
 
 
 
-    f "A life... without training?"
+    f "生活......没有训练？"
 
 
 
-    player "Yeah, a life without training."
+    player "是的，没有训练的生活。"
 
 
 
     scene f_love_9_12 with tstmgr
 
-    f "I... I don’t know."
+    f "我...我不知道。"
 
 
 
-    f "I live a boring life, I was taught not to care about anything but running since I was young. I know so little about the world."
+    f "我的生活很无聊，从小就被教育除了跑步之外什么都不关心。我对这个世界的了解太少了。"
 
 
 
     scene f_love_9_13 with tstmgr
 
-    player "So I don’t think there is anything wrong for you to contact with the world. You didn’t have the chance before due to your... weird family education, but it’s never too late to learn."
+    玩家 "所以我不认为你与世界接触有什么不妥。由于你的......奇怪的家庭教育，你以前没有机会，但现在学习永远不会太晚。"
 
 
 
     scene f_love_9_14 with tstmgr
 
-    player "And I feel like it is something I am responsible to help you as a friend."
+    player "而且我觉得这是我作为一个朋友有责任帮助你的事情。"
 
 
 
@@ -203,57 +199,57 @@ label F_love_9:
 
 
 
-    f "If we are friends... ... does that mean you like me?"
+    f "如果我们是朋友......这是否意味着你喜欢我？"
 
 
 
     scene f_love_9_16 with tstmgr
 
-    player "I... I think I do."
+    player "我......我想我是的。"
 
 
 
-    f "In the way you like Senning, Vera, and Uno?"
+    f "以你喜欢森柠、薇拉和乌诺的方式？"
 
 
 
     scene f_love_9_17 with tstmgr
 
-    player "That’s not ‘like’, Rachel, that’s love. I love them."
+    player "那不是'喜欢'，瑞秋，那是爱，我爱她们。"
 
 
 
-    f "Do you love me as well?"
+    f "你也爱我吗？"
 
 
 
-    player "I... ..."
+    player "我......"。
 
 
 
-    f "Is it... a hard question for you?"
+    f "这......对你来说是一个很难的问题吗？"
 
 
 
     scene f_love_9_18 with tstmgr
 
-    player "To be honest, Rachel, I don’t know how to say."
+    player "说实话，瑞秋，我不知道怎么说。"
 
 
 
-    player "You are too... simple, too naive, like an innocent angel coming down to earth. I don’t dare to say I love you or something, because it will look like I am coaxing you with a sweet tongue or something. I mean, I don’t even know if you really understand what love is... ..."
+    player "你太......简单了，太天真了，就像一个无辜的天使降临人间。我不敢说我爱你什么的，因为这样会显得我在用甜言蜜语哄骗你什么的。我的意思是，我甚至不知道你是否真的理解爱是什么......"
 
 
 
     scene f_love_9_19 with tstmgr
 
-    player "What I can say is... ... yes, my feeling to you... is more than just ‘like’. I care about you very much."
+    player "我可以说的是......是的，我对你的感觉......不仅仅是'喜欢'。我非常关心你。"
 
 
 
     scene f_love_9_20 with tstmgr
 
-    player "That's why I tried to teach you things about love and sexual knowledge, because I don’t want you to be fooled by... some bad boys in the future."
+    player "这就是为什么我试图教你一些关于爱情和性知识的东西，因为我不想让你在未来被......一些坏男孩愚弄。"
 
 
 
@@ -263,35 +259,35 @@ label F_love_9:
 
     scene f_love_9_21 with tstmgr
 
-    f "You are right, love is just... too hard for me to understand."
+    f "你是对的，爱情对我来说实在是......太难理解了。"
 
 
 
-    f "There are so many girls loving you. They love you so much that they are even willing to share you together. Why would they do that?"
+    f "有那么多的女孩在爱着你。她们非常爱你，甚至愿意一起分享你。他们为什么要这样做？"
 
 
 
     scene f_love_9_22 with tstmgr
 
-    player "That’s the magic of love~"
+    player "这就是爱的魔力~"
 
 
 
     scene f_love_9_23 with tstmgr
 
-    f "Doesn’t make any sense... ..."
+    f "这不合理......"
 
 
 
     scene f_love_9_22 with tstmgr
 
-    f "[P], do you think I love you?"
+    f "[P]，你认为我爱你吗？"
 
 
 
     scene f_love_9_24 with tstmgr
 
-    player "I can’t make an answer for you, girl."
+    player "我还不能给你答案，女孩。"
 
 
 
@@ -301,21 +297,21 @@ label F_love_9:
 
     scene f_love_9_25 with tstmgr
 
-    f "You are absolutely special to me, I’m curious about your everything, I like to stay with you, I like to peek at your face when you are not looking... ..."
+    f "你对我来说绝对是特别的，我对你的一切都很好奇，我喜欢和你待在一起，我喜欢在你不注意的时候偷看你的脸......"
 
 
 
-    f "Every time I have a good run, I would imagine that you are watching me from the stands."
+    f "每当我有比赛，我都会想象你在看台上看着我。"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋......"
 
 
 
     scene f_love_9_26 with tstmgr
 
-    f "Oh, yeah, and I kinda enjoy sucking your penis too~"
+    f "哦，是的，我也有点喜欢吃你的鸡巴~"
 
 
 
@@ -325,15 +321,15 @@ label F_love_9:
 
 
 
-    f "Is this enough to prove that I love you?"
+    f "这足以证明我爱你吗？"
 
 
 
-    player "Eh... ... Maybe? I don’t know... ..."
+    player "呃......或许吧？我不知道... ..."
 
 
 
-    f "Is there any way for us to find out?"
+    f "有什么办法让我们找到答案吗？"
 
 
 
@@ -341,13 +337,13 @@ label F_love_9:
 
 
 
-    player "Normally, when a person is with someone it loves, its heart will beat faster."
+    player "一般情况下，当一个人和她所爱的人在一起时，她的心脏会跳得更快。"
 
 
 
     scene f_love_9_25 with tstmgr
 
-    f "Oh, okay, let’s see."
+    f "哦，好的，让我看看。"
 
 
 
@@ -357,11 +353,11 @@ label F_love_9:
 
 
 
-    player "Hmmmmm? What are you doing?"
+    player "Hmmmmm? 你在做什么?"
 
 
 
-    f "Check my heartbeat, come on~"
+    f "感受我的心跳，来吧~"
 
 
 
@@ -369,26 +365,26 @@ label F_love_9:
 
     $ flashlight()
 
-    "Rachel suddenly pressed my head hard against her chest, a little bit too hard, actually. My neck almost felt numb immediately."
+    "瑞秋突然把我的头使劲压在她的胸前，实际上有点太用力了。我的脖子几乎立刻就麻木了。"
 
 
 
-    "But the numb is nothing compared with the feeling of her soft breast~~"
+    "但与她柔软的乳房的感觉相比，这种麻木算不了什么~~"
 
 
 
-    f "So, is it fast?"
+    f "那么，它快吗？"
 
 
 
-    player "I... ..."
+    player "我... ..."
 
 
 
     scene f_love_9_30 with tstmgr
 
     f "Oh, will this be easier for you to hear my heartbeat?"
-
+这样你会更容易听到我的心跳声吗？
 
 
     scene f_love_9_31 with tstmgr
@@ -401,21 +397,21 @@ label F_love_9:
 
     $ flashlight()
 
-    f "Is this better?"
+    f "这样更好？"
 
 
 
-    player "Eh... yeah, I guess... ..."
+    player "Eh... 是的, 我猜... ..."
 
 
 
-    player "And your heart is beating fast, yes."
+    player "而且你的心跳真的很快。"
 
 
 
     scene f_love_9_33 with tstmgr
 
-    f "That’s great! Now let me hear yours."
+    f "那太棒了! 现在让我听听你的"
 
 
 
@@ -425,19 +421,19 @@ label F_love_9:
 
 
 
-    f "Wow, your heart... ... beats so... steady, like a big drum~"
+    f "Wow, 你的心......跳得如此......稳定，像个大鼓~"
 
 
 
     scene f_love_9_35 with tstmgr
 
-    f "But I can’t tell if it is considered fast."
+    f "但我不知道它是否算是快。"
 
 
 
     scene f_love_9_36 with tstmgr
 
-    player "Rachel... ..."
+    player "瑞秋... ..."
 
 
 
@@ -465,11 +461,11 @@ label F_love_9:
 
 
 
-    player "You don’t have to feel my heartbeat to determine whether I love you or not... ..."
+    player "你不需要通过感觉我的心跳来确定我是否爱你......"
 
 
 
-    player "I will... tell you how I feel about you~"
+    player "我会...告诉你我对你的感觉~"
 
 
 
@@ -495,39 +491,39 @@ label F_love_9:
 
 
 
-    f "Huh... huh... ... kiss... ..."
+    f "Huh... huh... ... 接吻... ..."
 
 
 
     scene f_love_9_44 with tstmgr
 
-    player "That was not a practicing kiss~"
+    player "这是代表爱的吻~"
 
 
 
-    player "I love you, Rachel."
+    player "我爱你，瑞秋。"
 
 
 
     scene f_love_9_45 with tstmgr
 
-    f "This is... so great... ... I... I love you too... ..."
+    f "这......真是太好了......。I... 我也爱你... ..."
 
 
 
-    f "So... what are we supposed to do now? Are we... lovers?"
+    f "那么......我们现在应该做什么呢？我们是......恋人吗？"
 
 
 
-    f "Can we... do something that only lovers can do?"
+    f "我们能不能......做一些只有恋人才能做的事？"
 
 
 
-    player "What do you mean by that exactly?"
+    player "你的意思是....？"
 
 
 
-    f "Sex... like you did with Vera... Uno... Senning... ..."
+    f "做爱......就像你和薇拉......乌诺... 森柠......做的那样"
 
 
 
@@ -535,7 +531,7 @@ label F_love_9:
 
 
 
-    player "Alright, Rachel... ..."
+    player "好吧, 瑞秋... ..."
 
 
 
@@ -545,25 +541,25 @@ label F_love_9:
 
 
 
-    "Rachel quickly climbed onto the bed and waited for me with a pose of welcoming penetration. It seems like she has practiced it for a long time."
+    "瑞秋很快就爬上了床，以欢迎插入的姿势等着我。看来她已经练习了很久。"
 
 
 
     scene f_love_9_46 with tstmgr
 
-    f "[P]... ..."
+    f "[P]......"。
 
 
 
-    f "I... I know the procedures. You are going to put your penis inside my pussy and move it in and out, right?"
+    f "我......我知道这些程序。你要把你的鸡巴放在我的小穴里，然后进进出出，对吗？"
 
 
 
-    f "I have watched a lot of porno videos lately... ..."
+    f "我最近看了很多色情录像......"
 
 
 
-    player "Eh, yeah, that’s exactly what I’m going to do, but not now... ... It feels weird to talk about sex procedures before sex... ... Anyway, first... let’s wet your pussy~"
+    player "Eh，是的，这正是我要做的，但不是现在......总之，首先......让我们弄湿你的小穴吧~"
 
 
 
@@ -575,21 +571,21 @@ label F_love_9:
 
 
 
-    "I jumped on her and started kissing her face."
+    "我跳到她身上，开始亲吻她的脸。"
 
 
 
-    f "It's... itchy~~~~"
+    f "这是......好痒~~~~"
 
 
 
-    player "Rachel, you are so lovely~"
+    player "瑞秋，你太可爱了~"
 
 
 
     scene f_love_9_50 with tstmgr
 
-    f "Ki... kiss~~"
+    f "接... 接吻~~"
 
 
 
@@ -599,21 +595,21 @@ label F_love_9:
 
     scene f_love_9_51 with tstmgr
 
-    "I put my hand on her pussy, trying to tease her with a finger... ..."
+    "我把手放在她的阴户，开始用手指挑逗她......"
 
 
 
-    "And I was then shocked by the tightness of her pussy. Shit... ... is this even penetrable?"
+    "然后我就被她的阴部的紧致程度震惊了。妈的......这真的能插进去吗？"
 
 
 
-    "But... ... at least it is wet enough~"
+    "但是......至少它足够湿润~"
 
 
 
     scene f_love_9_52 with tstmgr
 
-    f "Wuuummm~ huummmm~~ [P]... ... Am I fuckable now?"
+    f "Wuuummm~ huummmm~~ [P]......。我现在可以被操了吗？"
 
 
 
@@ -623,7 +619,7 @@ label F_love_9:
 
 
 
-    player "Alright, Rachel, let’s do it~"
+    player "嗯, 瑞秋, 让我们开始吧~"
 
 
 
@@ -635,33 +631,33 @@ label F_love_9:
 
     scene f_love_9_54 with dissolve
 
-    player "It may hurts, please let me know if it makes you suffer."
+    player "它可能会痛，如果疼的话，就喊出声吧。"
 
 
 
-    f "Oh, sex hurts people? But those men and women in the videos all looked very happy."
+    f "哦，做爱会痛？但视频中的那些男人和女人看起来都很幸福。"
 
 
 
-    player "No, eh, actually girls may feel pain when they have sex for the first time because... their vagina have never been penetrated by a thing that is as big as a male’s penis."
+    player "不，嗯，其实女孩第一次做爱时可能会感到疼痛，因为......她们的阴道从来没有被一个像男性的鸡巴一样大的东西插入过。"
 
 
 
-    f "Oh... ... I think I get it."
+    f "哦......。我想我明白了。"
 
 
 
-    f "Your penis... is very big indeed... ..."
+    f "你的鸡巴......真的好大......"
 
 
 
-    f "Okay, I am prepared, come on, I can do it!"
+    f "好的，我已经准备好了，来吧，我可以做到！"
 
 
 
     scene f_love_9_55 with tstmgr
 
-    player "Alright, now I’ll just... ..."
+    player "好吧，现在我就... ..."
 
 
 
@@ -681,7 +677,7 @@ label F_love_9:
 
 
 
-    "Ahh... shit, this athletic pussy is so tight... ... I have to... push harder, otherwise my dick is gonna be crushed in the middle."
+    "Ahh... 妈的，这个运动型的小穴太紧了......我必须......用力，否则我的小弟弟就要被压在中间了。"
 
 
 
@@ -693,23 +689,23 @@ label F_love_9:
 
 
 
-    "Ahhhhhh~~~~~~ Yes, I made it~~"
+    "啊哈哈哈~~~~~~，是的，我成功了~~"
 
 
 
-    player "Are you still alright, Rachel?"
+    player "你还好吗，瑞秋？"
 
 
 
-    f "I... I think I’m doing okay. Actually it was not as painful as I thought at all~"
+    f "我......我想我还行。其实根本没有我想象的那么痛苦~"
 
 
 
-    player "Wait, are you serious?"
+    player "等等，你是认真的吗？"
 
 
 
-    f "I mean, it hurts indeed, but it was totally bearable for me."
+    f "我是说，确实很疼，但对我来说完全可以忍受。"
 
 
 
@@ -717,17 +713,17 @@ label F_love_9:
 
 
 
-    "Ah, yeah, she is a talented track athlete that may go to Olympics, her body is stronger than most people on earth, of course she doesn’t care about the pain during sex. It might be just a mild pricking for her."
+    "啊，是啊，她是个很有天赋的田径运动员，有机会去参加奥运会，她的身体比大多数人都强壮，当然她不在乎做爱时的疼痛。这对她来说可能只是轻微的刺痛。"
 
 
 
-    "And... well, this makes things a lot easier~"
+    "而且......嗯，这让事情变得简单多了~"
 
 
 
     scene f_love_9_59 with tstmgr
 
-    player "I will begin to move, Rachel..."
+    player "我要开始动了哦，瑞秋..."
 
 
 
@@ -741,39 +737,39 @@ label F_love_9:
 
 
 
-    f "Oh my god~~ oh my god~~ I’m really in the middle of a sex!"
+    f "哦，我的天啊~~哦，我的天啊~~我真的在做爱了！"
 
 
 
-    f "This is... wwwwww... ... a milestone of my life... ... I have to... remember it forever~~~"
+    f "这是......wwwwww......我生命中的一个里程碑......我一定会..永远记住它~~~"
 
 
 
-    "Her tone was full of joy, it seems like she is really not in pain."
+    "她的语气中充满了喜悦，看来她真的不痛了。"
 
 
 
-    "She was even using one hand to stretch her pussy, trying to make me easier to fuck her."
+    "她甚至用一只手来扒开她的小穴，让我更容易操她。"
 
 
 
-    f "I learned it from the videos~~"
+    f "我是从视频里学到的~~"
 
 
 
-    player "How many porn videos did you watch recently?"
+    player "你最近看了多少部色情视频？"
 
 
 
-    f "I can't remember... ... Too... too many~~"
+    f "我记不清了......太......太多了~~"
 
 
 
-    f "I borrowed Senning’s old laptop and... watched porns every night until sleep~"
+    f "我借了森柠的旧笔记本电脑......每天晚上看色情片，直到睡觉~"
 
 
 
-    f "I wished... I could be the women in the videos so bad... ... Now the dream finally came true~"
+    f "我非常希望能成为视频中的女人......。现在梦想终于实现了~"
 
 
     stop sound
@@ -783,51 +779,51 @@ label F_love_9:
 
 
 
-    player "Is this... as good as you imagined?"
+    player "这......和你想象的一样好吗？"
 
 
 
-    f "Better~~ just better~~ At least better than touching myself~"
+    f "更好~~更好~~至少比自己摸自己好~~"
 
 
 
-    f "I have never had such excitement before. This pleasure... this joy... ... I can’t believe I am really experiencing it~~~"
+    f "我以前从来没有过这样的兴奋。这种快乐......这种喜悦......。我无法相信我真的在体验它~~~"
 
 
 
-    f "It’s like... I am made for this. This must be the ultimate fun in the world!"
+    f "这就像... 我是为这个而生的。这一定是世界上最最最快乐的事！"
 
 
 
-    f "[P]~~~ [P]~~ Thanks for giving me such an experience~~"
+    f "[P]~~[P]~~谢谢你给我这样的体验~~"
 
 
 
-    f "It is so good that... you are the one that gives me such an experience~~"
+    f "真好，......你是给我这样的体验的人~~"
 
 
 
-    f "I... I love you~"
+    f "我...我爱你~"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋... ..."
 
 
 
-    f "Wait... something weird is happening. I feel like I am going to... ..."
+    f "等等......我好像.....我感觉到我要.... ..."
 
 
 
-    f "Ohhhhhhh~~~~ This feeling~~~"
+    f "哦~~~~~~~ 这种感觉~~~"
 
 
 
-    f "I’m cumming!!!!~~~~~"
+    f "我要高潮了!!!!~~~~~"
 
 
 
-    player "Me too!!~~~~~"
+    player "我也是！！~~~~~"
 
 
     stop sound
@@ -839,31 +835,31 @@ label F_love_9:
 
 
 
-    "For the first time in her life, Rachel’s vagina was filled with a male’s cum."
+    "在她的生命中第一次，瑞秋的小穴里充满了你的粘稠而火热精液。"
 
 
 
-    f "Something warm... is in my body... ..."
+    f "有种温暖的东西......在我身体里......"
 
 
 
     scene f_love_9_61 with tstmgr
 
-    f "This feels like magic..."
+    f "这感觉就像魔法......"
 
 
 
-    player "Congratulation, Rachel, from now on you are not a virgin anymore~"
+    player "恭喜你，瑞秋，从现在开始你不再是个处女了~"
 
 
 
     scene f_love_9_62 with tstmgr
 
-    f "Will this warm thing... become a baby in my belly?"
+    f "这个温暖的东西......会成为我肚子里的孩子吗？"
 
 
 
-    player "There is a little chance, yeah."
+    player "有机会，是的。"
 
 
 
@@ -875,25 +871,25 @@ label F_love_9:
 
     scene f_love_9_64 with tstmgr
 
-    f "I don’t want to have a baby."
+    f "我不想生孩子。"
 
 
 
-    player "Yeah, I get it. Pregrancy will only bring negative effect to your athlete career."
+    player "是的，我明白。怀孕只会给你的运动员生涯带来负面的影响。"
 
 
 
-    f "No, it't not that. I mean, I am completely not prepared to be a mom. How am I supposed to educate a baby? I know so little about the world."
+    f "不，不是这样的。我的意思是，我完全没有准备好做一个母亲。我怎么能教育好一个孩子呢？我对这个世界了解得太少了。"
 
 
 
     scene f_love_9_65 with tstmgr
 
-    f "You have to... teach me more about everything first~"
+    f "你一定要......先多教我一些东西~"
 
 
 
-    player "Of course I will do that~"
+    player "我当然会这么做~"
 
 
 
@@ -905,21 +901,21 @@ label F_love_9:
 
     scene f_love_9_67 with tstmgr
 
-    f "*Smiling* ... ..."
+    f "*微笑*......"
 
 
 
-    player "What are you smiling for?"
+    player "你笑什么？"
 
 
 
     scene f_love_9_68 with tstmgr
 
-    f "I just confirmed again that I love you, because I feel only excited when imagining that you will become my baby’s father~"
+    f "我刚刚再次确认，我爱你，因为我在想象你将成为我孩子的父亲时，只感到兴奋~"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋... ..."
 
 
 

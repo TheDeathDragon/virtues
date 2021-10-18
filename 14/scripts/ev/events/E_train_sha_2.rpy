@@ -3,37 +3,37 @@ label E_train_sha_2:
     scene e_train_sha_2_1 with dissolve
     play music sorrow
 
-    "Late night, in the forest, Elisa and I are on our way to her bungalow."
+    "深夜，在森林里，伊丽莎和我正在去她的平房的路上。"
 
 
 
-    "At first I thought we came to this bungalow every time during dates because she simply didn’t want others to find out about our relationship, but now I gradually realized that there is another reason... ..."
+    "起初我以为我们每次约会时都会来到这个平房，因为她只是不想让别人发现我们的关系，但现在我逐渐意识到，还有另一个原因......"
 
 
 
-    "She seems to... really enjoy walking in the forest."
+    "她似乎......非常喜欢在森林里散步。"
 
 
 
     scene e_train_sha_2_2 with tstmgr
 
-    e "Look, those mushrooms on the trees are growing so well~ You can expect my mushroom soup the next time we come here~"
+    e "看，树上的蘑菇长得多好啊！下次我们来的时候，你可以期待我的蘑菇汤了！"
 
 
 
-    player "Eh... Are you sure they are eatable?"
+    player "呃......你确定它们可以吃吗？"
 
 
 
     scene e_train_sha_2_3 with tstmgr
 
-    e "They are as delicious as your penis~"
+    e "它们和你的鸡巴一样美味~"
 
 
 
     scene e_train_sha_2_4 with tstmgr
 
-    e "Oh wait, they actually really look like a penis... ..."
+    e "额，等等，它们实际上真的看起来像鸡巴......"
 
 
 
@@ -43,63 +43,63 @@ label E_train_sha_2:
 
     scene e_train_sha_2_5 with tstmgr
 
-    "Suddenly, we heard an animal’s cry."
+    "突然间，我们听到了动物的叫声。"
 
 
 
     scene e_train_sha_2_6 with tstmgr
 
-    e "Wow, did you hear that? What a beautiful sound~ It must be a deer~"
+    e "哇，你听到了吗？多么美妙的声音啊~一定是一只鹿~"
 
 
 
-    player "Beautiful? An animal’s cry in the dark forest? No, it’s just scary to me."
+    player "美丽？黑暗森林里的动物叫声？不，这对我来说只是吓人。"
 
 
 
     scene e_train_sha_2_7 with tstmgr
 
-    e "Don’t be scared, baby, auntie will protect you~"
+    e "别害怕，宝贝，阿姨会保护你的~"
 
 
 
-    player "... ... ... ..."
+    player"...... ... ... ... ..."
 
 
 
-    player "Seriously, auntie, Why do you seem to be familiar with everything here in the forest."
+    player "说真的，伊莉莎，为什么你好像对森林里的一切都很熟悉。"
 
 
 
     scene e_train_sha_2_6 with tstmgr
 
-    e "I lived in the countryside with my grandparents when I was little. It was a peaceful beautiful village, but a boring one, too. There weren’t many playable stuff for children~"
+    e "我小的时候和我的祖父母住在乡下。那是一个宁静美丽的村庄，但也是一个无聊的村庄。没有多少可供孩子们玩耍的东西~"
 
 
 
     scene e_train_sha_2_8 with tstmgr
 
-    e "Luckily there was a forest, so I went there everyday for adventure. I seemed to have a strong sense of direction, never lost my way home~"
+    e "幸运的是，那里有一个森林，所以我每天都去那里冒险。我似乎有很强的方向感，从未迷失过回家的路~"
 
 
 
     scene e_train_sha_2_9 with tstmgr
 
-    e "I soon became the leader among kids because they always needed me to lead the way~ Awwwww~ I miss those old days~"
+    e "我很快就成了孩子王，因为他们总是需要我带路~Awwwww~我怀念以前的日子~"
 
 
 
-    player "You... the leader among kids?"
+    player "你......是孩子王？"
 
 
 
     scene e_train_sha_2_10 with tstmgr
 
-    e "Yeah~ I was totally a tomboy back then~"
+    e "Yeah~ 我那时完全是个假小子~"
 
 
 
-    player "What??"
+    player "什么？？"
 
 
 
@@ -107,37 +107,37 @@ label E_train_sha_2:
 
 
 
-    "Elisa... ... tomboy? Damn, I really cannot imagine such a picture in my head. Elisa is one of the most feminine women I know. She is supposed to be the completely opposite of a tomboy."
+    "伊丽莎......假小子？我的天，我真的无法想象这样的画面。伊丽莎是我认识的最有女人味的女人之一。她应该是与假小子完全相反的人。"
 
 
 
     scene e_train_sha_2_11 with tstmgr
 
-    e "Are you surprised?"
+    e "你很惊讶？？"
 
 
 
-    player "Yeah, I just... didn’t know you had such a side."
+    player "额，我只是...不知道你有这样的一面。"
 
 
 
     scene e_train_sha_2_12 with tstmgr
 
-    e "Well, women always change and they are so hard to be seen through~"
+    e "嗯，女人总是善变的，她们是那么的难以被看穿~"
 
 
 
     scene e_train_sha_2_13 with tstmgr
 
-    e "Actually, even now you haven’t seen me through yet~"
+    e "实际上，即使现在你还没有看透我呢~"
 
 
 
-    player "What are you talking about?"
+    player "你在说什么？"
 
 
 
-    e "Can you see the secret hidden under my dress?"
+    e "你能看到隐藏在我衣服下面的秘密吗？"
 
 
 
@@ -151,17 +151,17 @@ label E_train_sha_2:
 
 
 
-    "She suddenly began to undress herself in front of me, right here in the forest."
+    "她突然开始在我面前脱衣服，就在这森林里。"
 
 
 
-    "And... ..."
+    "然后......"。
 
 
 
     scene e_train_sha_2_14 with dissolve
 
-    e "Did you... see this coming?"
+    e "你......看到这一点了吗？"
 
 
 
@@ -177,41 +177,41 @@ label E_train_sha_2:
 
 
 
-    player "Wow, Elisa... ..."
+    player "Wow, 伊莉莎... ..."
 
 
 
-    player "What... is this?"
+    player "这....是什么?"
 
 
 
     scene e_train_sha_2_14 with tstmgr
 
-    e "Sorry to make you walk through the forest with me every time. I thought... this could be a little compensation~"
+    e "对不起，每次都让你陪我走过森林。我想......这可以作为一个小小的补偿~"
 
 
 
-    e "If I walking with you with this dress on... you won’t feel the torture when walking through the forest with me anymore, right?"
+    e "如果我穿着这件衣服和你一起走......你就不会再感觉到和我一起走过森林时的折磨，对吗？"
 
 
 
     scene e_train_sha_2_17 with tstmgr
 
-    "Although she almost didn’t wear anything, she still cannot stop sweating. She must be very excited right now."
+    "虽然她几乎什么都没穿，但她依然在出汗。她现在一定很兴奋。"
 
 
 
-    player "Yeah... I definitely won’t feel the torture anymore."
+    player "是啊......我肯定不会再感受到折磨了。"
 
 
 
     scene e_train_sha_2_18 with tstmgr
 
-    e "Stop staring me like I am a prey of yours. Let’s hurry up to the bungalow, and... I will allow you to do whatever you want~"
+    e "别盯着我了，好像我是你的猎物。让我们赶紧去平房，然后...... 我将让你做任何你想做的事情~"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎......"。
 
 
 
@@ -221,53 +221,53 @@ label E_train_sha_2:
 
 
 
-    "She seemed to see the fire in my eyes. The smart prey knew what the predator was thinking."
+    "她似乎看到了我眼中的欲火。聪明的猎物知道捕食者在想什么。"
 
 
 
-    e "Ehh... ... Or... if you can’t hold yourself until we arrive at the bungalow... ..."
+    e "Ehh... ..或者......如果你不能坚持到我们到达平房......"
 
 
 
     scene e_train_sha_2_20 with tstmgr
 
-    player "Elisa!~"
+    player "伊莉莎！~"
 
 
 
     scene e_train_sha_2_21 with tstmgr
 
-    e "You can just... suit yourself here. Nobody will see us anyway, except for the deers... ..."
+    e "你可以......在这里释放自己。反正没有人会看到我们，除了鹿......"
 
 
 
-    player "You are not really expecting me to wait until we arrive at the bungalow, are you?"
+    player "你不会真的希望我等到我们到达平房吧？"
 
 
 
     scene e_train_sha_2_22 with tstmgr
 
-    e "I... ... ... ..."
+    e "我... ... ... ..."
 
 
 
     scene e_train_sha_2_21 with tstmgr
 
-    e "Do you... need me to lie on the ground?"
+    e "你...需要我躺在地上吗？"
 
 
 
-    player "No, you are so perfect with this costume on, I don’t want you to get dirty~"
+    player "不，你穿上这套衣服是那么完美，我不想让你弄脏~"
 
 
 
     scene e_train_sha_2_23 with tstmgr
 
-    player "We can just... do the thing in this position~"
+    player "我们可以......用这个体位做~"
 
 
 
-    e "What?... ..."
+    e "什么？... ..."
 
 
 
@@ -277,11 +277,11 @@ label E_train_sha_2:
 
 
 
-    e "Ahhh~~~ wait, wait~~~~~"
+    e "Ahhh~~~ 等等, 等等~~~~~"
 
 
 
-    e "This is so... ... impressive~~ hhhh~~~~"
+    e "这真是......令人印象深刻~~ hhhh~~~~"
 
 
 
@@ -291,27 +291,27 @@ label E_train_sha_2:
 
 
 
-    e "Awwww~~ Are you sure... you are okay with this position? It is laborious, right?"
+    e "Awwww~~ 你确定......你对这个体位没问题吗？这很费劲，对吗？"
 
 
 
-    e "You are... supporting my entire weight with your arms and penis, and I am very heavy... ..."
+    e "你是......用你的手臂和鸡巴支撑我的全部重量，而我非常重......"
 
 
 
-    player "Don’t underestimate me, auntie. I am stronger than you think~"
+    player "不要低估我，伊莉莎。我比你想象的要强壮~"
 
 
 
-    player "I have grown into a real man, a man who is strong enough to support his girl with his arms."
+    player "我已经成长为一个真正的男人，一个强大到可以用手臂支撑他的女孩的男人。"
 
 
 
-    e "Ahhh~ a real man... Yes~~ You... definitely are... ..."
+    e "啊~~一个真正的男人......。是的~~你...绝对是.... ..."
 
 
 
-    e "You are so... reliable~~~"
+    e "你是如此......可靠~~~"
 
 
     stop sound
@@ -321,35 +321,35 @@ label E_train_sha_2:
 
 
 
-    "Her soft huge breasts were bouncing so violently with my move. My... ... this is so magnificent~"
+    "她柔软的巨乳随着我的动作剧烈地跳动着。我的天......这真是太壮观了~"
 
 
 
-    e "Don’t stare at my saggy boobs like that... ..."
+    e "不要这样盯着我下垂的胸部......"
 
 
 
-    player "Eachy inch of your body... belongs to me. I have every right to stare at my own property."
+    玩家 "你身体的每一寸......都属于我。我有权利盯着我自己的东西看。"
 
 
 
-    e "Ahhhh~~ hhhh~ I’m so... so happy to hear that~~~"
+    e "啊~~嗯~~我好......好高兴听到这句话~~~"
 
 
 
-    e "Every inch of my body... belongs to you, yes, my skin, my boobs, my vagina, my womb, all belong to you~~~"
+    e "我身体的每一寸......都属于你，是的，我的皮肤，我的奶子，我的小穴，我的子宫，都属于你~~~"
 
 
 
-    e "Please... please... give me your cum~~~ Let me birth you a child while I still can~"
+    "请......请......把你的精液给我~~~让我在我还可以的时候给你生一个孩子~~"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
-    player "Here you are!!~~~~"
+    player "给你!!~~~~"
 
 
     stop sound
@@ -361,8 +361,8 @@ label E_train_sha_2:
 
 
 
-    "I poured my cum deep into her pussy without holding back."
-
+    "我把我的精液深深地灌入她的小穴，没有任何保留。"
+ 
 
 
     scene e_train_sha_2_27 with tstmgr
@@ -371,55 +371,55 @@ label E_train_sha_2:
 
 
 
-    e "You are getting so much better at sex... every time... ..."
+    e "你的性技巧越来越好了......每次都是如此... ..."
 
 
 
     scene e_train_sha_2_28 with tstmgr
 
-    "Weeks ago I couldn’t fully satisfy her even if I spent hours on fucking, but now it only takes me five minutes to make her lose herself and collapse like a drunker."
+    "几个星期前，我即使花几个小时去干，也不能完全满足她，但现在我只需要五分钟就能让她失去自我，像喝醉了一样倒下。"
 
 
 
-    "That’s the growth of a real man, ha~ I’m really proud of myself."
+    "这就是一个真正男人的成长，哈~我真为自己感到骄傲。"
 
 
 
-    "Oh, wait, there is another thing..."
+    "哦，等等，还有一件事......"
 
 
 
     scene e_train_sha_2_29 with tstmgr
 
-    player "Were you serious... about birthing me a child thing?"
+    player "你是认真的......关于给我生孩子的事情吗？"
 
 
 
-    e "[P]... ... You know, every woman would be so happy to birth a child for the man she loves."
+    e "[P]......。你知道，每个女人都会很高兴为她所爱的男人生一个孩子。"
 
 
 
     scene e_train_sha_2_30 with tstmgr
 
-    e "I’m not young anymore. I don’t have... much time left... ..."
+    e "我已经不年轻了。我没有......多少时间了......"
 
 
 
-    e "So... yeah, if there is any chance, I... I would like to... raise a child with you, our own child..."
+    e " 所以......是的，如果有任何机会，我......我想......生个孩子。我想......和你一起养一个孩子，我们自己的孩子......"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
     scene e_train_sha_2_31 with tstmgr
 
-    player "I promise I will make your wish come true!"
+    player "我保证会让你梦想成真！"
 
 
 
-    player "Let’s hurry up~ There is no time to waste~"
+    player "让我们抓紧时间~没有时间浪费了~"
 
 
 
@@ -435,11 +435,11 @@ label E_train_sha_2:
 
 
 
-    "Sometime later, in the bungalow..."
+     "稍后某个时候，在平房里......"
 
 
 
-    e "Ahhhh~~~ hhhhh~~~ We don't really have to~~ be so rush~~~"
+    e "Ahhhh~~~ hhhhh~~~  我们真的~不用~这么着急~~~"~~~"
 
 
 
@@ -449,19 +449,19 @@ label E_train_sha_2:
 
 
 
-    "The sex orgy in the bungalow lasted until early next morning. I vented my lust on Elisa tirelessly while imagining a picture of her with a baby bump in my head."
+    "平房里的性爱狂欢一直持续到第二天清晨。我不知疲倦地在伊莉莎身上发泄着我的欲望，同时在脑海中想象着她怀孕时的样子。"
 
 
 
-    player "Yeah, just like that, spread your pussy with your hands so I can reach the deepest of your vagina easier~"
+    player "是的，就像这样，用你的手分开你的小穴，这样我就能更容易地到达你骚穴的最深处~"
 
 
 
-    e "As your command~ my dear... darling~~"
+    e "都听你的~我亲爱的......~~"
 
 
 
-    e "Awwwww~~~ so deep~~~"
+    e "Awwwww~~~ 好深~~~"
 
 
     stop sound
@@ -471,27 +471,27 @@ label E_train_sha_2:
 
 
 
-    "Perhaps the deers in the forest will also be scared to run away if they see me now. I felt like I have become completely a carnivore, a wild animal who is only driven by its desire and bestiality."
+    "也许森林里的鹿现在看到我也会被吓得跑掉。我感觉自己已经完全变成了一个食肉动物，一个只受欲望和兽性驱使的野兽。"
 
 
 
-    "I was surrounded by the smell of her sweat and milk. This unique fragrance of a mature woman can inspire a man’s most primitive nature."
+    "我被她的汗水和奶水的味道所包围。这种成熟女人特有的香味能激发出男人最原始的天性。"
 
 
 
-    "The nature of conquering, occupying, and... fertilizing~~~"
+    "征服、占领和......无尽的性欲~~~"
 
 
 
-    "I want to occupy everything about her, including her womb... ..."
+    "我想占据她的一切，包括她的子宫......"
 
 
 
-    e "Yes, yes, yes, yes, ohhhhhhhhhhhhhhh~~~~~~~~~~"
+    e "对, 对, 对, 对, ohhhhhhhhhhhhhhh~~~~~~~~~~"
 
 
 
-    player "Now take my seeds!"
+    player "现在接受我的种子吧！"
 
 
     stop sound
@@ -503,7 +503,7 @@ label E_train_sha_2:
 
 
 
-    "Ohhhh~~ Yes, I think this time I can really fertilize her~"
+    "Ohhhh~~ 是的, 我想这是时候可以给这片干涸的土地来一场大雨了~"
 
 
 
@@ -519,25 +519,25 @@ label E_train_sha_2:
 
 
 
-    "Hmmmmmmmm... ... Did I go too far?"
+    "Hmmmmmmmm... ..我是不是射的太多了了？"
 
 
 
-    e "More... penis... ... me... ... ... ..."
+    e "更多......鸡巴......我......"
 
 
 
-    player "Elisa, are you alri... ..."
+    player "伊莉莎，你是不是......"
 
 
 
     scene void with tstmgr
 
-    "I tried to go up to check on her, but suddenly fainted away by the exhaustion before I could finish that sentense."
+    "我想上去看看她，但还没说完这句话，就突然被累得晕倒了。"
 
 
 
-    "Ah... ... a crazy night... ..."
+    "啊......一个疯狂的夜晚......"
 
 
 

@@ -2,41 +2,41 @@ label store_2_chat_1:
 
     scene store_2_chat_1_1 with tstmgr
 
-    player "How long will you stay here, Lady Minna?"
+    player "你要在这里待多久,明娜夫人?"
 
 
 
-    "Lady Minna" "A few months, I guess. I’m on a long vacation."
+    "明娜夫人""大概几个月吧.我正在度长假."
 
 
 
-    player "Oh, well, you know, I have a house in the other side of the city. You are welcome to stay there for the rest of your vacation."
+    player "Oh,well,你知道吗,我在城市的另一头有栋房子.欢迎你来那里度过你余下的假期."
 
 
 
     scene store_2_chat_1_2 with tstmgr
 
-    "Lady Minna" "That’s good of you~ But don’t worry about me, I’m fine with this hotel."
+    "明娜夫人""你真是太好了~但是不要为我担心,我在这家旅馆住得很好."
 
 
 
     scene store_2_chat_1_3 with tstmgr
 
-    "Lady Minna" "Hmmmmm? Wait a minute..."
+    "明娜夫人""Hmmmmm?等等..."
 
 
 
-    "Lady Minna" "Why didn’t Senning live in your house with you?"
+    "明娜夫人""为什么森柠不和你住在一起?"
 
 
 
-    player "She said... she prefers to live in the high buildings."
+    player "她说...她更喜欢住在高层建筑里."
 
 
 
     scene store_2_chat_1_4 with tstmgr
 
-    "Lady Minna" "Hah~ same here."
+    "明娜夫人""Hah~我也一样."
 
 
 

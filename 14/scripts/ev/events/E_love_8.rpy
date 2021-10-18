@@ -3,39 +3,39 @@ label E_love_8:
     scene e_love_8_1 with dissolve
     play music sorrow
 
-    "I came to Aunt Elisa’s house in the morning for a visit."
+    "早上我来到伊莉莎阿姨的家."
 
 
 
     scene e_love_8_2 with tstmgr
 
-    e "Ah, [P]. Thanks for coming by, but unfortunately, I am just about to go out."
+    e "Ah,[P].谢谢你来,但不巧的是,我正要出去."
 
 
 
-    player "Oh, okay. Where are you going?"
+    player "Oh,okay.你去哪儿?"
 
 
 
-    e "I’m going to check out that new bungalow I recently bought in the suburb of the city."
+    e "我要去看看我最近在市郊买的那栋新平房."
 
 
 
-    "Oh no, what she said at that night is real, she is really thinking about moving to the suburb alone."
+    "Ohno,那天晚上她说的是真的,她真的想一个人搬到郊区去住."
 
 
 
     scene e_love_8_3 with tstmgr
 
-    e "I’ll be back before dusk, you are welcome to come for dinner~"
+    e "我会在黄昏前回来,欢迎你来吃晚饭~"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    "I have to do something... ... What can I do to change her mind?"
+    "我得做点什么...我要怎么做才能让她改变主意?"
 
 
 
@@ -43,49 +43,49 @@ label E_love_8:
 
 
 
-    player "Aunt Elisa, can I go with you?"
+    player "伊莉莎阿姨,我能和你一起去吗?"
 
 
 
     scene e_love_8_4 with tstmgr
 
-    e "Go with me? To that bungalow together? Eh... ... I... okay, but... don’t you have other things to do?"
+    e "和我一起去吗?一起去那间平房?呃...我...好的,但是...你没有别的事情要做吗?"
 
 
 
-    player "I’m all free today. Besides, I really would like to go to the suburb and have some fresh air."
+    player "我今天有空.此外,我真的很想去郊区呼吸一下新鲜空气."
 
 
 
     scene e_love_8_2 with tstmgr
 
-    e "Alright then... ... You can come with me."
+    e "那好吧...你可以跟我一起."
 
 
 
-    player "Nice! It will be like a date!"
+    player "Nice!就像约会一样!"
 
 
 
     scene e_love_8_5 with tstmgr
 
-    e "A date?... ..."
+    e "约会?......"
 
 
 
     scene e_love_8_6 with tstmgr
 
-    e "Stop making fun of me, honey."
+    e "亲爱的,别拿我开玩笑了."
 
 
 
-    player "I am excited about this already! The two of us wander in the sunlight at a country road together... ... Oh, it will be so relaxing!~"
+    player "我已经很兴奋了!我们俩一起漫步在乡间小路的阳光下......Oh,会很放松的!~"
 
 
 
     scene e_love_8_7 with tstmgr
 
-    e "I... I’m afraid it won’t be like what you thought... ..."
+    e "我...恐怕不会像你想的那样......"
 
 
 
@@ -95,7 +95,7 @@ label E_love_8:
 
 
 
-    "I soon figured out what she meant by that after we arrived at that suburb area."
+    "在我们到达那个郊区后,我很快就明白了她的意思."
 
 
 
@@ -105,47 +105,47 @@ label E_love_8:
 
     scene e_love_8_8 with dissolve
 
-    player "*Speaking breathlessly* Are... are you... ... are you sure we aren't lost the way yet? I feel like we have been here 10 minutes ago."
+    player "*上气不接下气地说话*你...你...你确定我们没有迷路吗?我觉得我们好像十分钟前就在这里了."
 
 
 
     scene e_love_8_9 with tstmgr
 
-    e "Don’t worry, honey, I got this. We are almost there."
+    e "别担心,亲爱的,我知道路,快到了."
 
 
 
-    player "I can’t believe... that you bought a bungalow that is deep inside a forest..."
+    player "我不敢相信...你在森林深处买了一栋平房..."
 
 
 
-    "We have been walking in the forest for more than half an hour, and it seems like we have to walk for half an hour more to reach our destination."
+    "我们已经在森林里走了半个多小时了,似乎还得再走半个多小时才能到达目的地."
 
 
 
-    "Damn, walking through a forest is even more difficult than I thought. I mean, there isn't even a road!"
+    "Damn,穿过森林比我想象的还要困难.我是说,连路都没有!"
 
 
 
-    player "This is not a good place, this is not a good place at all! Aunt Elisa, I can’t let you live in a place like this!"
+    player "这不是一个好地方,这根本不是一个好地方!伊莉莎阿姨,我不能让你住在这样的地方!"
 
 
 
     scene e_love_8_10 with tstmgr
 
-    e "But... this is exactly what a recluse life should be like. This place is quiet, it has fresh air, and there will be all kinds of birds and animals in the yard."
+    e "但是...这就是隐士生活应该有的样子.这个地方很安静,有新鲜的空气,院子里会有各种各样的鸟和动物."
 
 
 
-    e "I’m sure I will find peace of my mind here."
+    e "我相信我会在这里找到内心的平静."
 
 
 
-    player "But... ... ... ..."
+    player "但是............"
 
 
 
-    player "Won’t you feel lonely staying in a place like this? It is an untrod area and you can’t even find another living person here."
+    player "呆在这样的地方你不觉得孤独吗?这是一个无人涉足的地区,你甚至找不到另外一个活着的人."
 
 
 
@@ -155,35 +155,35 @@ label E_love_8:
 
 
 
-    e "Loneliness... is endurable."
+    e "孤独...可以忍受."
 
 
 
-    player "Aunt Elisa..."
+    player "伊莉莎阿姨..."
 
 
 
-    "This is absolutely not good. I think she is out of her mind. She is basically just aiming to banish herself to a place far from her family and atone for what she did to me that night."
+    "这绝对是不好的.我想她是疯了.她基本上只是想把自己放逐到一个远离家人的地方,为那天晚上她对我所做的赎罪."
 
 
 
-    "I can’t let her do this. I can’t allow her to imprison herself in a place like this. I have to say something to change her mind."
+    "我不能让她这么做.我不能让她把自己关在这样的地方.我得说点什么让她改变主意."
 
 
 
-    "But I can’t tell her directly that ‘I have known what you did to me and I have forgiven you so you don’t have to do this.’ That will make her blame herself even more."
+    "但我不能直接告诉她‘我知道你对我做了什么,我原谅你了,所以你不必这样做.’这会让她更加自责."
 
 
 
-    "I guess... now there is only one thing I can do to take her out of this self-blaming quagmire, which is..."
+    "我猜...现在我能做的只有一件事能让她走出自责的泥潭,那就是..."
 
 
 
-    "Confess my love to her."
+    "向她表白我的爱."
 
 
 
-    "But... now it’s not a good chance. I should wait until there is a better opportuni... ..."
+    "但是...现在这不是一个好机会.我应该等到有更好的机会......"
 
 
 
@@ -191,17 +191,17 @@ label E_love_8:
 
 
 
-    "Suddenly, I felt like something just dropped on my nose."
+    "突然,我感觉有什么东西掉在了我的鼻子上."
 
 
 
-    player "It starts raining?"
+    player "开始下雨了?"
 
 
 
     scene e_love_8_12 with tstmgr
 
-    e "I felt it, too. We’d better hurry up. The bungalow is not away from here."
+    e "我也感觉到了.我们最好快点.那间平房离这儿不远."
 
 
 
@@ -211,65 +211,65 @@ label E_love_8:
 
 
 
-    "The rain went heavy in less than a minute. We got totally wet when we finally found the location of the bungalow half an hour later."
+    "不到一分钟雨就下大了.半小时后,当我们终于找到那间平房的位置时,我们全身都湿透了."
 
 
 
     scene e_love_8_13 with dissolve
 
-    e "Ah... ... at last... ..."
+    e "Ah......终于到了......"
 
 
 
-    player "*Speaking breathlessly* That was... absolutely a disaster. I will never go through a forest during the rain again... ..."
+    player "*上气不接下气地说话*这...绝对是一场灾难.我再也不会在下雨的时候穿过森林了......"
 
 
 
     scene e_love_8_14 with tstmgr
 
-    e "Haha... ... Me either~"
+    e "Haha......我也一样~"
 
 
 
     scene e_love_8_15 with tstmgr
 
-    e "Anyway, how do you like this place? There is no way you can find a big Japanese-style bungalow like this in the city~"
+    e "不管怎样,你觉得这个地方怎么样?在这个城市里,你是不可能找到像这样的大型日式平房的~"
 
 
 
-    player "This place... is... okay... ..."
+    player "这个地方...还...不错......"
 
 
 
     scene e_love_8_16 with tstmgr
 
-    e "Unfortunately, I haven’t signed up for the utility bill so this place has no water yet. Sorry... you can’t have a shower here."
+    e "不幸的是,我还没有付水电费,所以这个地方还没有水.对不起...你不能在这里洗澡."
 
 
 
     scene e_love_8_17 with tstmgr
 
-    e "But luckily the electricity is on. I will just... ..."
+    e "但幸运的是,通了电.我会......"
 
 
 
-    e "I... ... ... ..."
+    e "我............"
 
 
 
     scene e_love_8_18 with tstmgr
 
-    e "I feel... dizzy... ..."
+    e "我觉得...头有点晕......"
 
 
 
-    "She suddenly lost the balance and fell backward."
+    "她突然失去平衡,向后跌倒了."
 
 
 
     scene e_love_8_19 with tstmgr
 
-    player "Aunt Elisa!"
+    player "伊莉莎阿姨!"
 
 
 
@@ -279,25 +279,25 @@ label E_love_8:
 
 
 
-    "Oh man, her forehead is so hot. She must be in a fever."
+    "天啊,她的额头好热.她一定是发烧了."
 
 
 
     scene e_love_8_21 with tstmgr
 
-    "I guess she has exposed in the rain for too long. Oh... auntie... ..."
+    "我猜她在雨中淋太久了.Oh...阿姨......"
 
 
 
-    "What should I do now? What should I do now? Calm down, [P], use your common sense."
+    "我现在该怎么办?我现在该怎么办?冷静下来,[P],使用你常识."
 
 
 
-    "I should... ... yes, I need to take off her wet clothes first. She will get worse if I don’t do this."
+    "我应该...是的,我需要先把她的湿衣服脱掉.如果我不这么做,她会变得更糟."
 
 
 
-    player "Sorry, Aunt Elisa... ... I thought I could do this in a better situation..."
+    player "对不起,伊莉莎阿姨...我认为我可以在更好的情况下做这件事..."
 
 
 
@@ -309,7 +309,7 @@ label E_love_8:
 
     scene e_love_8_22 with tstmgr
 
-    "I carefully put her on the ground, and... ..."
+    "我小心翼翼地把她放在地上,然后......"
 
 
 
@@ -319,21 +319,21 @@ label E_love_8:
 
 
 
-    player "(Oh God... ... why would she wear such an erotic bra? It couldn’t even hide her nipples!)"
+    player "(OhGod......她为什么要穿这么性感的胸罩?它甚至无法遮住她的乳头!)"
 
 
 
-    player "(You must be very thirsty for... sex, Auntie)"
+    player "(你一定非常渴望...性,阿姨)"
 
 
 
-    player "(Take it easy, take it easy, [P]. Don’t be a bad kid, you can’t take advantage at a sick woman!)"
+    player "(放松点,放松点,[P].别当坏孩子,你不能占一个生病的女人的便宜!)"
 
 
 
     scene e_love_8_24 with tstmgr
 
-    player "(Just slowly take the rest of her clothes off... ...)"
+    player "(慢慢地把她剩下的衣服脱掉......)"
 
 
 
@@ -343,11 +343,11 @@ label E_love_8:
 
 
 
-    player "(Oh God... ... it’s so hard to control myself. This is absolutely a torture!)"
+    player "(OhGod......要控制自己太难了.这绝对是一种折磨!)"
 
 
 
-    player "(Her body... Aunt Elisa’s mature body... is so damn hot... ...)"
+    player "(她的身体...伊莉莎阿姨成熟的身体...太火辣了......)"
 
 
 
@@ -355,7 +355,7 @@ label E_love_8:
 
 
 
-    player "(I have to keep going. Her underwear are totally wet, too. I have to take them off as well.)"
+    player "(我必须继续.她的内衣也完全湿了.我也得把它们脱下来.)"
 
 
 
@@ -365,57 +365,57 @@ label E_love_8:
 
 
 
-    player "(Aunt Elisa... ... I have seen her naked body in that video before, but... it still shocks me so much when looking at it in the real world...)"
+    player "(伊莉莎阿姨...我以前在那个视频里看过她的裸体,但是...当我在现实世界中看到它时,我仍然感到震惊...)"
 
 
 
-    e "*Moaning unconsciously* [P]... ... ... ..."
+    e "*无意识地呻吟*[P]............"
 
 
 
-    player "(Alright, what’s the next? I should... yeah, I should find something to cover her body, a blanket or a quilt.)"
+    player "(好了,下一步呢?我应该...是的,我应该找些东西盖住她的身体,毯子或被子.)"
 
 
 
     scene void with tstmgr
 
-    "However, I checked the entire house but there was no blanket or quilt at all. Well, that’s reasonable though, it is a newly-bought house after all."
+    "但是,我检查了整个房子,没有毛毯或被子.嗯,可以理解,毕竟这是新买的房子."
 
 
 
     scene e_love_8_27 with dissolve
 
-    player "(Oh, no... ... Auntie, how am I able to keep your warm?)"
+    player "(Oh,no......阿姨,我怎么才能给你保暖呢?)"
 
 
 
-    "Suddenly, I came up with a ridiculous idea. But... I think it could really work. And it seems like the only feasible way to keep this naked woman warm under this circumstance."
+    "突然,我有了一个可笑的想法.但是...我觉得真的可以.在这种情况下,这似乎是唯一可行的方法来保持这个裸体女人的温暖."
 
 
 
     scene e_love_8_26 with tstmgr
 
-    player "(I‘ll... ... warm you up with my body temperature, Elisa.)"
+    player "(我要...用我的体温温暖你了,伊莉莎.)"
 
 
 
     scene e_love_8_28 with tstmgr
 
-    "I took off my wet clothes too, then lied down on the tatami mats and held Aunt Elisa tightly in my arms ."
+    "我也脱下了湿衣服,然后躺在榻榻米上,把伊利莎阿姨紧紧地搂在怀里."
 
 
 
-    player "(Her body... so soft... ... ... ...)"
+    player "(她的身体...好软............)"
 
 
 
-    "I couldn’t help getting an erection when I felt this mature lady’s cold soft body with my skin."
+    "当我用我的皮肤感受这位成熟女士冰冷柔软的身体时,我忍不住勃起了."
 
 
 
     scene e_love_8_29 with tstmgr
 
-    player "(This is going to be so hard, but... ... I have to control myself.)"
+    player "(这很困难,但是...我必须控制自己.)"
 
 
 
@@ -425,13 +425,13 @@ label E_love_8:
 
     scene e_love_8_30 with tstmgr
 
-    "I was already exhausted after traveling through the raining forest, now it’s time to have a rest."
+    "穿过雨中的森林,我已经筋疲力尽了,现在该休息了."
 
 
 
     scene e_love_8_31 with tstmgr
 
-    "I hope by the time I wake up, Aunt Elisa will recover... ... ... ..."
+    "我希望等我醒来的时候,伊利莎阿姨已经没事了............"
 
 
 
@@ -443,11 +443,11 @@ label E_love_8:
 
     scene e_love_8_32 with tstmgr
 
-    "Some hours later..."
+    "几小时后..."
 
 
 
-    e "*Waking up* ... ... ... ..."
+    e "*醒来*............"
 
 
 
@@ -459,61 +459,61 @@ label E_love_8:
 
     scene e_love_8_34 with tstmgr
 
-    e "(The last time I woke up in a man’s arms was 20 years ago... ...)"
+    e "(我最后一次在男人怀里醒来是20年前了......)"
 
 
 
-    e "([P]’s strong solid arms... ... Oh... ...)"
+    e "([P]结实有力的手臂......Oh......)"
 
 
 
-    e "(I didn't really pass out back then. I was just exhausted from the fever and lost all the strength...)"
+    e "(那时候我并没有真的昏过去.我因发烧而筋疲力尽,失去了所有的力气...)"
 
 
 
     scene e_love_8_35 with tstmgr
 
-    e "(I was... aware of what happened... ...)"
+    e "(我...知道发生了什么......)"
 
 
 
-    e "(He took off my wet clothes carefully and warmed me up with his body temperature. He didn’t do anything that crosses the line... ...)"
+    e "(他小心地脱下我的湿衣服,用他的体温给我暖和起来.他没有做任何越界的事......)"
 
 
 
-    e "(What a nice gentleman...)"
+    e "(多棒的绅士啊...)"
 
 
 
     scene e_love_8_36 with tstmgr
 
-    e "(But... ... ... ...)"
+    e "(但是............)"
 
 
 
-    e "(I was actually hoping he could do something that crosses the line to me.)"
+    e "(我其实希望他能做些越界的事.)"
 
 
 
-    e "(His hot erected penis was pressing my stomach the whole time. Why didn’t he just... ...)"
+    e "(他灼热的鸡巴一直压着我的小腹.他为什么不干脆......)"
 
 
 
-    e "(Sigh... nevermind... ...)"
+    e "(唉...算了......)"
 
 
 
     scene e_love_8_39 with tstmgr
 
-    e "*Kissing* ... ... ... ..."
+    e "*吻*............"
 
 
 
-    e "(Thank you, my young savior~)"
+    e "(谢谢你,我年轻的救世主~)"
 
 
 
-    "And suddenly... ..."
+    "忽然间......"
 
 
 
@@ -523,17 +523,17 @@ label E_love_8:
 
 
 
-    player "I was waiting for this kiss for a long time, Auntie! Glad to see that you have recovered from the fever!~"
+    player "我等待这个吻很久了,阿姨!很高兴看到你已经退烧了!~"
 
 
 
-    e "*Sexy moaning* Wait... wait... ... [P]... ..."
+    e "*性感的呻吟*等等...等等......[P]......"
 
 
 
     scene e_love_8_38 with tstmgr
 
-    "I ignored her asking and kept sucking her tongue passionately."
+    "我没有理会她,只是继续热情地吮吸着她的舌头."
 
 
 
@@ -541,39 +541,39 @@ label E_love_8:
 
 
 
-    e "(This is... this is not good... ...)"
+    e "(这...这样不好......)"
 
 
 
-    e "(He is kissing me so wildly and his arms are holding me so tight that makes me can’t even move... ...)"
+    e "(他疯狂地吻着我,他的手臂紧紧地抱着我,我都动不了......)"
 
 
 
-    e "(Ohhhh~~ I like to be treated in this way~~ I like it... I like it so much... ...)"
+    e "(Ohhhh~~我喜欢被这样对待~~我喜欢这样...我非常喜欢......)"
 
 
 
-    e "(I’m going to... ... lose my mind in his tongue... ...)"
+    e "(我要...我被他的语言迷得神魂颠倒......)"
 
 
 
-    "Elisa closed her eyes and started to respond my kiss."
+    "伊莉莎闭上眼睛,开始回应我的吻."
 
 
 
-    player "Could you please sit up, Elisa?"
+    player "你能坐起来吗,伊莉莎?"
 
 
 
-    e "*Immersed in the kiss* Sit... up... ... ... ..."
+    e "*沉浸在吻中*坐...起来............"
 
 
 
-    e "*Immersed in the kiss* Whatever... you say... ..."
+    e "*沉浸在吻中*照...你说的做......"
 
 
 
-    "And then..."
+    "然后..."
 
 
 
@@ -583,57 +583,57 @@ label E_love_8:
 
 
 
-    e "More... more kiss... ..."
+    e "更多...更多的吻......"
 
 
 
-    "She has completely lost herself in the kiss. She couldn’t really move since I have captured her hands, but her body was keeping squirming with lust and responding the move of my tongue."
+    "她在那个吻中完全失去了自我.因为我抓住了她的手,她不能真正的动,但她的身体一直在充满欲望的蠕动来回应我的吻."
 
 
 
-    "I guess I still underestimated how thirsty she has become after being single for almost 20 years."
+    "我想我还是低估了单身近20年她的欲望."
 
 
 
     scene e_love_8_41 with tstmgr
 
-    "I slowly let her hands go and started touching her butt. Oh dear... ... this soft huge butt can definitely take my soul away..."
+    "我慢慢地松开她的手,开始摸她的屁股.天啊......这个柔软巨大的屁股绝对可以带走我的灵魂..."
 
 
 
-    "And to my surprise, she didn’t move her arms away even though I have loosed her hands. It seems like she is enjoying in the feeling of being restrained by someone."
+    "令我惊讶的是,即使我松开了她的手,她的胳膊也没有移开.她似乎很享受被人约束的感觉."
 
 
 
     scene e_love_8_42 with tstmgr
 
-    player "Auntie... ..."
+    player "阿姨......"
 
 
 
-    e "How long... have you been awake?"
+    e "你醒...了多久?"
 
 
 
-    player "About an hour... ... but I couldn't get up because I had to cover you with my body temperature... ... Do you know how torturing it was to control myself?"
+    player "大约一个小时...但我起不来,因为我得用我的体温温暖你...你知道控制自己是多么痛苦吗?"
 
 
 
-    e "I... sorry, [P], but We... ..."
+    e "我...抱歉,[P],但我们......"
 
 
 
     scene e_love_8_43 with tstmgr
 
-    player "I'm not going to let you be alone anymore, Auntie."
+    player "我不会再让你一个人呆着了,阿姨."
 
 
 
-    player "You are still just a vulnerable woman. I can’t even imagine what would happen if I didn’t come with you today."
+    player "你仍然只是一个脆弱的女人.我甚至无法想象如果我今天不和你一起来会发生什么."
 
 
 
-    player "You would have... ... lied on the ground of this empty house and suffered in cold and illness... ... alone."
+    player "你会...躺在空荡荡的房子里,忍受着寒冷和病痛...独自一人."
 
 
 
@@ -643,69 +643,69 @@ label E_love_8:
 
 
 
-    player "You need a man to take care of you and I want to be that man. Just please... rely on me, Elisa... ..."
+    player "你需要一个男人来照顾你,而我想成为那个男人.请...相信我,伊莉莎......"
 
 
 
-    player "I want to fill the void in your heart... with my love..."
+    player "我想填补你内心的空虚...用我的爱..."
 
 
 
     scene e_love_8_45 with tstmgr
 
-    e "I... I... ... ... ..."
+    e "我...我............"
 
 
 
     scene e_love_8_46 with tstmgr
 
-    e "Auntie will get angry if you keep joking around... ..."
+    e "如果你继续开玩笑,阿姨会生气的......"
 
 
 
     scene e_love_8_47 with tstmgr
 
-    player "No, Elisa, you know I am being serious."
+    player "No,伊莉莎,你知道我是认真的."
 
 
 
-    player "I just want to make you happy... ... ... ..."
+    player "我只是想让你开心............"
 
 
 
     scene e_love_8_48 with tstmgr
 
-    e "I... I... ..."
+    e "我...我......"
 
 
 
     scene e_love_8_49 with tstmgr
 
-    e "(His strong hands... are running over my body, tempting up my lust... ...)"
+    e "(他有力的手...在我的身体上抚摸,勾引我的欲望......)"
 
 
 
-    e "(I still couldn’t believe it’s really happening. I was dreaming about this everyday, but when it actually happens... ...)"
+    e "(我仍然不能相信这真的发生了.我每天都梦到这个,但当它真正发生的时候......)"
 
 
 
-    e "(I feel... ... terrified... ...)"
+    e "(我觉得...吓坏了......)"
 
 
 
     scene e_love_8_50 with tstmgr
 
-    e "(I should reject him, yes, because that’s the right thing to do. But... ... my heart is telling me to do something different... ...)"
+    e "(我应该拒绝他,是的,因为这样做才是对的.但是...我的心引导我去做一些不同的事情......)"
 
 
 
-    player "Just... follow your heart..."
+    player "就...跟随你的心..."
 
 
 
     scene e_love_8_51 with tstmgr
 
-    e "(Ah? Did I say that out? How could he... ...)"
+    e "(Ah?我说出来了吗?他怎么......)"
 
 
 
@@ -717,7 +717,7 @@ label E_love_8:
 
     scene e_love_8_53 with tstmgr
 
-    e "(Maybe he is right. I should follow my heart... ... as always.)"
+    e "(也许他是对的.我应该跟着我的心走...一如既往地.)"
 
 
 
@@ -735,13 +735,13 @@ label E_love_8:
 
     scene e_love_8_53 with flashback
 
-    e "(Yes, I can’t fight my lust... ... I never won before... ... I am always... a slave of lust... ...)"
+    e "(Yes,我无法抵抗我的欲望...我以前从未抵抗成功过...我总是...淫欲的奴隶......)"
 
 
 
     scene e_love_8_54 with tstmgr
 
-    e "(And this time... I’ll just surrender to it again... ... just like what I always do... ...)"
+    e "(这一次...我将再次向它投降...就像我一直做的那样......)"
 
 
 
@@ -761,7 +761,7 @@ label E_love_8:
 
 
 
-    "I was surprised to notice the change of Aunt Elisa’s tone. Her sadness and hesitation have been replaced by happiness and expectancy."
+    "我惊奇地注意到伊莉莎阿姨的语气变了.她的悲伤和犹豫被幸福和期待所取代."
 
 
 
@@ -769,39 +769,39 @@ label E_love_8:
 
     $ flashlight()
 
-    e "I will follow my heart now, so... ..."
+    e "我现在将跟随我的心,所以......"
 
 
 
-    e "Could you plesase... ... fuck me?..."
+    e "你可以...操我吗?..."
 
 
 
-    e "Please... I don't want to think about anything else now... I just want you to fuck the brain out of me~~"
+    e "求你了...我现在不想再想别的事了...我只是想让你把我操的死去活来~~"
 
 
 
-    player "Elisa... ... ... ..."
+    player "伊莉莎............"
 
 
 
     scene e_love_8_58 with tstmgr
 
-    "This sexy mature lady has completely submitted to the sexual desire. She revealed her true self hidden under that elegant face to me without any shame."
+    "这位性感成熟的女士完全屈从于性欲了.她毫不羞愧地向我展示了隐藏在那张优雅的面孔下的真实的自我."
 
 
 
-    e "What are you... waiting for?"
+    e "你还在...等什么?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
     scene e_love_8_59 with tstmgr
 
-    "So be it... ..."
+    "那么......"
 
 
 
@@ -809,7 +809,7 @@ label E_love_8:
 
     $ flashlight()
 
-    player "Aunt Elisa!"
+    player "伊莉莎阿姨!"
 
 
 
@@ -817,7 +817,7 @@ label E_love_8:
 
 
 
-    e "I don’t care about anything anymore, I just want to... to enjoy being with you tonight, just fuck me as you want!~~"
+    e "我什么都不在乎了,我只想...要享受今晚和你在一起的时光,就随你的便吧!~~"
 
 
 
@@ -827,23 +827,23 @@ label E_love_8:
 
 
 
-    e "Haahhh!~~~ Ahhhh!~~~~ I have almost forgot how gooooood it is to be fucked like a dog~~~"
+    e "Haahhh!~~~Ahhhh!~~~~我几乎忘了像狗一样被操是多么美好的事了~~~"
 
 
 
-    player "Aunt Elisa! Aunt Elisa!"
+    player "伊莉莎阿姨,伊莉莎阿姨!"
 
 
 
-    e "Ahhhh!~~~~ Yes, just like that~"
+    e "Ahhhh!~~~~Yes,就这样~"
 
 
 
-    e "I have waited... for a man that could fuck me like this for so many years, now finally... ..."
+    e "我已经等...一个男人可以这样操我这么多年了,现在终于......"
 
 
 
-    e "Yes!~~ Yes!~~~ Give me more!~~~"
+    e "Yes!~~Yes!~~~继续!~~~"
 
 
 
@@ -854,23 +854,23 @@ label E_love_8:
 
 
 
-    e "My head and my arm... are both being restrained. I can’t even move my neck, but... ..."
+    e "我的头和胳膊...都受到了限制.我的脖子都动不了,但是......"
 
 
 
-    e "This is exactly what I want! I love the feeling of being restrained!~"
+    e "这正是我想要的!我喜欢被束缚的感觉!~"
 
 
 
-    e "Ohhh... I love it! I love it! Love it!"
+    e "Ohhh...我爱它!我爱它!爱它!"
 
 
 
-    "Damn, so this is who she really is, a super horny woman with extreme fetishes."
+    "Damn,所以这就是她的真面目,一个有着极端恋物癖的超级饥渴的女人."
 
 
 
-    e "Ahhh!~~~ More~~~ wwwww!~~~ I can’t think of anything else!~~"
+    e "Ahhh!~~~更多~~~wwwww!~~~我想不出别的词了!~~"
 
 
 
@@ -878,11 +878,11 @@ label E_love_8:
 
 
 
-    e "I’m cumming!!!!!!"
+    e "我泄了!!!!!!"
 
 
 
-    player "Aunt Elisa!"
+    player "伊莉莎阿姨!"
 
 
 
@@ -892,7 +892,7 @@ label E_love_8:
 
     $ flashlight()
 
-    "I leaned forward and pinched her nipples like milking a cow, and then we both moaned out load and came together."
+    "我身体前倾,像挤牛奶一样捏了捏她的乳头,然后我们两个都呻吟了一声.一起高潮了"
 
 
 
@@ -902,25 +902,25 @@ label E_love_8:
 
     scene e_love_8_64 with tstmgr
 
-    e "My... ... my milk!~~~~~"
+    e "我的......我的牛奶!~~~~~"
 
 
 
-    e "I just... ... came with my pussy... ... and my nipples... at the same time~~~"
+    e "我......我的小穴......和我的乳头...同时高潮了~~~"
 
 
 
     scene e_love_8_65 with tstmgr
 
-    e "Thank you... ... for everything... [P]... ... ... ..."
+    e "谢谢你......所做的一切...[P]............"
 
 
 
-    player "I love you, Aunt Elisa."
+    player "我爱你,伊莉莎阿姨."
 
 
 
-    e "I... I love you, too~~"
+    e "我...我也爱你~~"
 
 
 
@@ -930,41 +930,41 @@ label E_love_8:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
-    e "Sigh... what have we done?"
+    e "唉...我们做了什么?"
 
 
 
     scene e_love_8_66 with dissolve
 
-    e "Things will... never be the same again..."
+    e "事情会...再也不会和以前一样了..."
 
 
 
-    player "I just want you to be happy, Elisa."
+    player "我只想让你开心,伊莉莎."
 
 
 
     scene e_love_8_67 with tstmgr
 
-    e "I haven’t been so happy for such a long time. Thank you, [P]..."
+    e "我已经很久没有这么开心了.谢谢你!,[P]..."
 
 
 
-    e "You made me remember... how good it feels to be a woman... a woman who is being loved by a man... ..."
+    e "你让我想起...做女人的感觉真好...被一个男人爱着的女人......"
 
 
 
     scene e_love_8_66 with tstmgr
 
-    e "But... ... what we have done... is immoral. A woman and her future son-in-law... owwww... ... ... ..."
+    e "但是...我们所做的...是不道德的.一个女人和她未来的女婿...owwww............"
 
 
 
-    player "There is nothing immoral, as long as we are really loving each other~"
+    player "没有什么不道德的,只要我们真的相爱~"
 
 
 
@@ -974,25 +974,25 @@ label E_love_8:
 
 
 
-    e "I don’t want this to affect your relationship with Theo. She is the one who destined to be your wife, and I... ..."
+    e "我不希望这影响到你和狄奥的关系.她是命中注定要成为你妻子的人,至于我......"
 
 
 
-    e "I will just stay by your and Theo’s side, watch you, bless you, as a mother... and... ..."
+    e "我会一直陪在你和狄奥身边,看着你,祝福你,就像一个母亲...还有......"
 
 
 
     scene e_love_8_69 with tstmgr
 
-    e "As a lover... ..."
+    e "作为一个情人......"
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
-    e "You can just call me Elisa when there are only two of us~"
+    e "只有我们两个人的时候你就叫我伊莉莎好了~"
 
 
 
@@ -1000,21 +1000,21 @@ label E_love_8:
 
 
 
-    player "Okay, Elisa."
+    player "Okay,伊莉莎."
 
 
 
     scene e_love_8_70 with tstmgr
 
-    e "And... there is another thing... I have to confess to you. It’s about something I did... ..."
+    e "...还有一件事...我必须向你坦白.是关于我做的事情......"
 
 
 
-    e "You still remember there was a time when you always... fainted after dinner?"
+    e "你还记得有段时间你总是...晚饭后晕倒了?"
 
 
 
-    e "It was actually... ... ... ..."
+    e "它实际上............"
 
 
 
@@ -1024,41 +1024,41 @@ label E_love_8:
 
 
 
-    "I suddenly put a finger on her mouth to stop her talking."
+    "我突然用手指按住她的嘴,不让她说话."
 
 
 
-    player "Did you hear it?"
+    player "你听到了吗?"
 
 
 
     scene e_love_8_72 with tstmgr
 
-    e "Hear what?"
+    e "听到什么?"
 
 
 
-    player "The cicadas are singing outside. It has been a while since the last time I heard it in the city."
+    player "蝉在外面鸣叫.距离我上次在城里听到它已经有一段时间了."
 
 
 
     scene e_love_8_73 with tstmgr
 
-    e "Yeah... the sound of countryside, ha... ..."
+    e "Yeah...乡村的声音,ha......"
 
 
 
     scene e_love_8_74 with tstmgr
 
-    e "Anyway, I was trying to say that... ..."
+    e "总之,我想说的是......"
 
 
 
-    player "You don’t need to tell me anything, Elisa. Nothing matters anymore. Let’s just enjoy this moment and listen to the songs of countryside together."
+    player "你什么都不用告诉我,伊莉莎.什么事都没有.让我们一起享受这一刻,一起聆听乡村的歌声."
 
 
 
-    e "But... ..."
+    e "但是......"
 
 
 
@@ -1068,7 +1068,7 @@ label E_love_8:
 
     scene e_love_8_75 with tstmgr
 
-    e "Fine, sweetie... ... ... ..."
+    e "Fine,甜心............"
 
 
 
@@ -1078,11 +1078,11 @@ label E_love_8:
 
 
 
-    "Thus, we held each other in that position for the entire night. This was the first time in 20 years that Aunt Elisa spent a night with a man. She slept soundly like a baby in my arms and held me so tight."
+    "就这样,我们在那个位置待了一整夜.这是伊莉莎阿姨20年来第一次和一个男人共度一夜.她在我怀里像个婴儿一样睡得很沉,紧紧地抱着我."
 
 
 
-    "I guess she was afraid of losing me. Well, Elisa, no one will leave you anymore... ..."
+    "我猜她是害怕失去我.伊莉莎,没人会离开你了......"
 
 
 

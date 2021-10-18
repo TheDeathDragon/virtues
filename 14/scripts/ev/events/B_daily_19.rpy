@@ -3,117 +3,117 @@ label B_daily_19:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, I came to Lady Minna’s room as she asked me to, and what awaits me there is... ..."
+    "今天晚些时候,我按照明娜女士的要求去了她的房间,等着我的是......"
 
 
 
     scene b_daily19_1 with dissolve
 
-    b "[P], come in... ..."
+    b "[P],进来......"
 
 
 
-    player "Sen? Why are you dressing like that?"
+    player "森?你为什么穿成这样?"
 
 
 
     scene b_daily19_2 with tstmgr
 
-    b "It looks ridiculous, right? Awwwww... ... I told her I don’t like this dress."
+    b "这看起来很荒谬,对吧?Awwwww......我告诉她我不喜欢这条裙子."
 
 
 
-    player "(So... this is the present that Lady Minna mentioned yesterday)."
+    player "(所以...这就是明娜夫人昨天提到的礼物)."
 
 
 
-    player "Where is your mom, Sen?"
+    player "你妈妈呢,森?"
 
 
 
     scene b_daily19_3 with tstmgr
 
-    b "She won’t be back until... tomorrow. She said that... we should enjoy tonight."
+    b "她要到...明天...才会回来.她说...我们今晚应该好好享受一下."
 
 
 
-    player "So that means we can finally... ..."
+    player "所以我们终于可以......"
 
 
 
     scene b_daily19_4 with tstmgr
 
-    b "Yes... she has recognized you and she has allowed us to... ... become more intimate."
+    b "Yes...她允许我们......变得更加亲密."
 
 
 
-    player "Oh, Sen... ..."
+    player "Oh,森......"
 
 
 
-    player "But... you don’t look very happy?"
+    player "但是...你看起来不太高兴?"
 
 
 
     scene b_daily19_5 with tstmgr
 
-    b "No, you have no idea about how happy I am right now. I have been waiting for this day since the first day we met."
+    b "No,你不知道我现在有多开心.从我们相遇的第一天起,我就一直在等待这一天."
 
 
 
-    b "I am just... a little nervous... ..."
+    b "我只是...有点紧张......"
 
 
 
     scene b_daily19_4 with tstmgr
 
-    b "Can I... get a hug, maybe?"
+    b "我可以...抱抱你吗?"
 
 
 
     scene b_daily19_6 with tstmgr
 
-    player "Of course, come here, babe."
+    player "当然,过来,宝贝."
 
 
 
-    "Her body is stiff with nervousness. She is trying her best to restrain herself from shaking, but it doesn’t seem to work."
+    "她紧张得身体都僵了.她尽力不让自己发抖,但似乎不起作用."
 
 
 
     scene b_daily19_7 with tstmgr
 
-    player "You know, Sen, we don’t have to do it today. I can wait until you are ready."
+    player "你知道,森,我们不必今天就做.我可以等你准备好."
 
 
 
-    b "I know you are worried about me, but there is no need for that."
+    b "我知道你很担心我,但没有必要."
 
 
 
     scene b_daily19_8 with tstmgr
 
-    b "I am ready, I really am. Please... feel my excitement."
+    b "我准备好了,真的.请...感受我的兴奋."
 
 
 
-    "She gently put one of my hand on her chest. I can feel that her little heart is beating so fast under the lovely softness."
+    "她轻轻地把我的一只手放在她的胸前.我能感觉到她那颗小小的心在那可爱的柔软下跳动得那么快."
 
 
 
     scene b_daily19_9 with tstmgr
 
-    b "Your big hand... calms me~"
+    b "你的大手...能使我平静下来~"
 
 
 
     scene b_daily19_10 with tstmgr
 
-    b "Now... would you like to... take off this ridiculous dress for me?"
+    b "现在...你想要...帮我脱下这件可笑的衣服吗?"
 
 
 
-    player "As you wish, my lady."
+    player "如你所愿,我的女士."
 
 
 
@@ -141,7 +141,7 @@ label B_daily_19:
 
 
 
-    "Her pussy is already wet. She must be really excited by now."
+    "她的小穴已经湿了.她现在一定很兴奋."
 
 
 
@@ -149,11 +149,11 @@ label B_daily_19:
 
 
 
-    player "You have such a gorgeous body, Sen~"
+    player "你身材真棒,森~"
 
 
 
-    "Her body is still shaking, but she is looking at me so firmly and her eyes are sparkling with irrepressible expectation."
+    "她的身体还在颤抖,但她坚定地看着我,眼睛里闪烁着无法抑制的期待."
 
 
 
@@ -163,27 +163,27 @@ label B_daily_19:
 
     scene b_daily19_16 with tstmgr
 
-    b "It belongs to you now, my body, every inch of it... ... I will not... reject you anymore."
+    b "现在它属于你了,我的身体,每一寸都属于你......我不会...拒绝你了."
 
 
 
-    b "Now... let me help you get off your clothes too~"
+    b "现在...我来帮你脱衣服吧~"
 
 
 
     scene b_daily19_17 with tstmgr
 
-    "She soon undressed me gently with her tender hands while I was just sitting there and... ... enjoying her service."
+    "她很快用她温柔的手为我脱衣服,而我只是坐在那里......享受她的服务."
 
 
 
-    b "Awww... I can touch your abs for the whole day~"
+    b "Awww...我可以玩你的腹肌一整天~"
 
 
 
     scene b_daily19_18 with tstmgr
 
-    b "Now, the last one... ..."
+    b "现在,最后一个......"
 
 
 
@@ -199,39 +199,39 @@ label B_daily_19:
 
 
 
-    b "This angry penis... is going to be inside me... ..."
+    b "这愤怒的鸡巴...会进入我体内吗......"
 
 
 
     scene b_daily19_20 with tstmgr
 
-    player "The last chance, Sen, are you ready for it?"
+    player "最后问你一次,森,你准备好了吗?"
 
 
 
     scene b_daily19_21 with tstmgr
 
-    player "I just want you to know that... I won’t do anything against your wish."
+    player "我只是想让你知道...我不会强迫你做你不喜欢的事的."
 
 
 
     scene b_daily19_22 with tstmgr
 
-    b "Now my only wish is to... copulate with you, [P]~"
+    b "现在我唯一的愿望是...和你做爱,[P]~"
 
 
 
-    b "I have waited for this day for so long... ... Tonight, I will finally become... a real woman..."
+    b "我等待这一天已经很久了......今晚,我将最终成为...一个真正的女人..."
 
 
 
     scene b_daily19_23 with tstmgr
 
-    player "Ohh, Sen, I will make tonight the most unforgettable night in your life~"
+    player "Ohh,森,我要让今晚成为你一生中最难忘的一夜~"
 
 
 
-    b "Hhhhh... my ear... don’t bite... ..."
+    b "Hhhhh...我的耳朵...别咬我......"
 
 
 
@@ -251,29 +251,29 @@ label B_daily_19:
 
 
 
-    b "Be... be gentle to me... ... please..."
+    b "对...对我温柔点......拜托..."
 
 
 
-    player "Sen... ..."
+    player "森......"
 
 
 
-    "It must be hard for her to keep such a shameless position like that. I’m happy to see this view but at the same time I noticed that... ..."
+    "她要保持这样一个羞耻的姿势一定很难.我很高兴看到这样的景色,但同时我也注意到......"
 
 
 
-    "The frown never disappeared from her forehead."
+    "她眉头紧锁,久久不散."
 
 
 
-    "I guess that means right now she is still feeling more nervous than happy. I should do something about it."
+    "我想这意味着她现在还是紧张多于高兴.我应该做点什么."
 
 
 
     scene b_daily19_27 with tstmgr
 
-    b "Emmmmmm? Why are you... holding my feet?"
+    b "Emmmmmm?你为什么...抱着我的脚?"
 
 
 
@@ -283,21 +283,21 @@ label B_daily_19:
 
     scene b_daily19_28 with tstmgr
 
-    b "Hahaaaahahahah~~~~ Stop~~~~~ It tickles!~~~"
+    b "Hahaaaahahahah~~~~停~~~~~好痒!~~~"
 
 
 
     scene b_daily19_29 with tstmgr
 
-    player "You finally laughed, Sen!"
+    player "你终于笑了,森!"
 
 
 
-    b "Ah? What do you mean?"
+    b "Ah?啥?"
 
 
 
-    player "What we are about to do... is not supposed to be something that makes you frown."
+    player "我们接下来要做的事...不应该是让你皱眉的事."
 
 
 
@@ -307,35 +307,35 @@ label B_daily_19:
 
     scene b_daily19_30 with tstmgr
 
-    b "[P]... is so gentle~"
+    b "[P]...好温柔~"
 
 
 
-    b "But you really don’t need to worry about me. You are not forcing me to do anything~"
+    b "但你真的不用担心我.你没逼我做任何事~"
 
 
 
     scene b_daily19_31 with tstmgr
 
-    b "And... ... ... ..."
+    b "还有............"
 
 
 
-    b "It’s... so embarrassing to keep this position. Can you... ... you know... ... I mean... ... hurry up a little?"
+    b "这...保持这个姿势太尴尬了.你能...你知道...我的意思是...快一点吗?"
 
 
 
-    player "Oh... ... sorry to keep you waiting, my angel~"
+    player "Oh......抱歉让你久等了,我的天使~"
 
 
 
     scene b_daily19_32 with tstmgr
 
-    player "I’m going in right now... ..."
+    player "我现在就进去......"
 
 
 
-    b "Fi... finally~~"
+    b "终...终于~~"
 
 
 
@@ -347,27 +347,27 @@ label B_daily_19:
 
 
 
-    player "Woooow~~ This is so tight... ..."
+    player "Woooow~~这太紧了......"
 
 
 
-    b "Maybe... maybe we should take a breath... you know, just... ..."
+    b "也许...也许我们应该深呼吸...你知道,只是......"
 
 
 
-    player "Sorry Sen, I know it hurts a little bit, but we haven’t really reached the maidenhead yet. We have to make a push!"
+    player "抱歉,森,我知道这有点疼,但我们得一次插进去,长痛不如短痛!"
 
 
 
-    b "Not yet? But it is... so deep already!"
+    b "还没完全插进去吗?但是...我感觉已经好深了!"
 
 
 
-    player "Oh girl, you will be surprised at how deep it can be~"
+    player "Oh女孩,你待会就知道我能插多深了~"
 
 
 
-    b "What do you... ..."
+    b "你......"
 
 
 
@@ -379,44 +379,44 @@ label B_daily_19:
 
 
 
-    "I almost had an orgasm as soon as I launched into her deepest. At the same time I felt that something sealed is now broken. Finally, the virgin land now has her first visitor."
+    "当我插进她的最深处时,我差点就要射了.与此同时,我感到有一层膜被捅破了.终于,这片处女地迎来了第一个访客."
 
 
 
-    "I hope I can be her only visitor."
+    "我希望我能成为她唯一的访客."
 
 
 
-    b "Ahhhh~~~~ What... on earth is this~~~~"
+    b "Ahhhh~~~~什么...这到底是什么~~~~"
 
 
 
-    b "I... can’t... ... Ohhhhh... ... Something big just... reached my stomach~"
+    b "我...不能......Ohhhhh......有个大东西...都要插到我的胃里面去了~"
 
 
 
-    b "So... this is what it feels like... ... Ohhhhhh~~~ I can't believe my pussy can be expanded like this~"
+    b "所以...这就是做爱的感觉......Ohhhhhh~~~真不敢相信我的小穴能变得这么大~"
 
 
 
 
-    b "Finally... ... finally... ... I am now a... real woman~~~"
+    b "终于...终于...我现在是一个...真正的女人了~~~"
 
 
 
-    player "Does it hurt much, Sen?"
+    player "疼得厉害吗,森?"
 
 
 
-    b "Maybe, I... I don’t know. I can’t feel anything right now... ... I am... in heaven~~~"
+    b "也许,我...我不知道.我现在什么都感觉不到......我就像是...在天堂~~~"
 
 
 
-    player "That’s... good to hear."
+    player "这...很高兴听到这个."
 
 
 
-    player "And now... ..."
+    player "那么现在......"
 
 
 
@@ -426,39 +426,39 @@ label B_daily_19:
 
 
 
-    "I began to move slowly. It was a challenge to prevent myself from moving too hard. Her pussy was so tender, so wet, and so tight. It would give every man an impulse of fucking the hell out of it."
+    "我开始慢慢地抽动.这对我来说是一个挑战,要避免太粗鲁.她的小穴是如此柔软,如此潮湿,如此紧.是个男人都会一泄如注的."
 
 
 
-    "But I can't submit to that impulse. I have to be careful because she may be in great pain right now. This is her first time, after all."
+    "但我必须忍住.我得小心点因为她现在可能很痛.毕竟这是她的第一次."
 
 
 
-    "But... maybe it wasn’t a problem at all... ..."
+    "但是...也许是我想多了......"
 
 
 
-    b "Big dick~~ ohhhh~~~ [P]~~~ love~~~"
+    b "大鸡巴~~ohhhh~~~[P]~~~爱死了~~~"
 
 
 
-    b "I should have done this a long time ago~ Ohhhhhh~~~~~"
+    b "我早就该这么做了~Ohhhhhh~~~~~"
 
 
 
-    b "Mama... ... told me that I shouldn’t expect my first sex so much because... it might hurts~"
+    b "妈妈...跟我说我不该对我的第一次性抱太大期望,因为...它可能很疼~"
 
 
 
-    b "Awwwwww~~~ She was lying~~~ Mama is a liar~~~"
+    b "Awwwwww~~~她在撒谎~~~妈妈是个骗子~~~"
 
 
 
-    b "I can feel nothing but pleasure~ Sex is... sex is the best!~"
+    b "我除了快乐什么都感觉不到~做...做爱好棒!~"
 
 
 
-    "It seems like Senning has fallen in love with coitus right away... Well, I knew this girl has a horny nature, but this is still kinda beyond my expectancy."
+    "森柠似乎马上就爱上了做爱...我知道这女孩媚体天生,但这还是我没想到的."
 
 
 
@@ -466,7 +466,7 @@ label B_daily_19:
 
 
 
-    b "Can you please... move harder? I feel like... you are restricting your strength... ..."
+    b "你能...插的用力点吗?我觉得...你在克制你自己......"
 
 
 
@@ -474,11 +474,11 @@ label B_daily_19:
 
 
 
-    player "Well, ma’am, since you ask~"
+    player "Well,既然你这么说了~"
 
 
 
-    "Now it's time to submit to that impulse..."
+    "现在是时候释放自己的野兽了..."
 
     stop sound
     scene b_daily19_36 with tstmgr
@@ -487,37 +487,37 @@ label B_daily_19:
 
 
 
-    player "How about now? Does it feel better?"
+    player "现在呢?还觉得我在克制吗?"
 
 
 
-    b "Ohhhh~~ [P]~~ so... so amazing~~~"
+    b "Ohhhh~~[P]~~好...好爽~~~"
 
 
 
-    b "Yes, yes, thrust into my vagina until you reach the womb~~~"
+    b "Yes,yes,插到我的子宫~~~"
 
-    b "How... how am I going to live without this for a single day after tasted it for the first time?~~"
-
-
-
-    player "Well, don’t worry about that, Sen. From now on till the end of the world, you will always get my dick when you need it!"
+    b "这...这以后没有这鸡巴的日子我可怎么活?~~"
 
 
 
-    b "Ohhhhh~~ This is the best love confession in the world!~"
+    player "Well,别担心,森,从现在开始,直到世界末日,只要你需要,我的鸡巴随叫随到!"
 
 
 
-    b "I love you~~ I love you~~~~~"
+    b "Ohhhhh~~这是世界上最好的告白!~"
 
 
 
-    b "I'mmmmmm ohhhhhhhh... ... ... ..."
+    b "我爱你~~我爱你~~~~~"
 
 
 
-    b "I’m cumming!!!!~~~~~~~"
+    b "我我我ohhhhhhhh............"
+
+
+
+    b "我泄了!!!!~~~~~~~"
 
 
     stop sound
@@ -529,7 +529,7 @@ label B_daily_19:
 
 
 
-    "Senning’s first creampie, achieved. Yeah! One life goal less~"
+    "森柠的第一次内射.Yeah!少了一个人生目标~"
 
 
 
@@ -539,23 +539,23 @@ label B_daily_19:
 
     scene b_daily19_38 with tstmgr
 
-    "Lady Minna" "(Oh my Goddess... ...)"
+    "明娜夫人""(Oh my Goddess... ...)"
 
 
 
-    "Lady Minna was peeping at us all the time, but of course, both Senning and I were not aware of that."
+    "明娜夫人一直在偷窥我们,当然,森柠和我都不知道."
 
 
 
-    "Lady Minna" "(Is it... really that good?)"
+    "明娜夫人""(真...真有那么爽?)"
 
 
 
-    "Lady Minna" "(... ... ... ...)"
+    "明娜夫人""(... ... ... ...)"
 
 
 
-    "Lady Minna" "(Seems like... I don’t need to worry about Sen at all... ...)"
+    "明娜夫人""(似乎...我根本不需要担心森......)"
 
 
 
@@ -565,7 +565,7 @@ label B_daily_19:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
@@ -575,43 +575,43 @@ label B_daily_19:
 
 
 
-    b "[P], [P], Mama... will be back soon~~~~"
+    b "[P],[P],妈妈...马上就要回了~~~~"
 
 
 
-    player "Okay girl, this is the last round~"
+    player "Okay女孩,这是最后一轮了~"
 
 
 
-    b "Vagina is... ... melting..."
+    b "小穴......要被玩坏了..."
 
 
 
-    b "Ji-ji~~ [P] de da-ji-ji~~~ (Penis~~ [P]’s big bad penis~~~)"
+    b "鸡-鸡~~[P]的大鸡鸡~~~(鸡巴~~[P]的坏鸡巴~~~)"
 
 
 
-    b "Nao zih li cyuan dou shih [P] de da-ji-ji la... (I can’t think of... anything but [P]'s big bad penis right now...)"
+    b "Naoziliquandoushi[P]deda-ji-jila...(我无法思考了...脑袋里只有[P]的大鸡巴了现在...)"
 
 
 
-    b "Yao shou bu liao la~~ (Can’t take it anymore~~)"
+    b "Yaoshoubuliaola~~(再也受不了了~~)"
 
 
 
-    "Hmmmm... that was... mandarin, right? This is the first time that Senning ever speaks to me with her mother language. Wow... ..."
+    "Hmmmm...这是...中文,对吧?这是森柠第一次用她的母语和我说话.Wow......"
 
 
 
-    "Well, she is not really speaking to me. She is just... moaning unconsciously."
+    "Well,她不是真的在跟我说话.她只是...无意识地呻吟."
 
 
 
-    "But that makes it sound even cuter~"
+    "但这听起来更可爱了~"
 
 
 
-    b "Yao diou la~ Ren jia yao bu sing le la~~ (I’m cumming~ I can’t stand it any longer~~)"
+    b "Yaoduila~Renjiayaobusinglela~~(我要高潮了~我再也受不了了~~)"
 
     stop sound
 
@@ -625,33 +625,33 @@ label B_daily_19:
 
 
 
-    "We made the ultimate orgasms together. This is going to be an unforgettable memory for both of us."
+    "我们一起达到了终极高潮.这对我们俩来说都将是一段难忘的回忆."
 
 
 
-    player "No one... can take you away from me... ..."
+    player "没有人...能把你从我身边带走......"
 
 
 
-    player "I will... always be with you... ..."
+    player "我会...永远和你在一起......"
 
 
 
     scene b_daily19_41 with tstmgr
 
-    b "Me... me too... ... Love you, [P]~"
+    b "我...我也是...爱你,[P]~"
 
 
 
     scene b_daily19_38 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜夫人""... ... ... ..."
 
 
 
     scene b_daily19_42 with tstmgr
 
-    "Lady Minna" "(Oh... I’m gonna cry~)"
+    "明娜夫人""(Oh...我要哭了~)"
 
 
 

@@ -6,25 +6,25 @@ label C_train_inti_3:
 
 
 
-    "Some days later, afternoon, I was working with Theodora in her office."
+    "几天后的下午,我和狄奥多拉在她的办公室工作."
 
 
 
-    "It has been a while since I became her assistant and I’m really enjoying this job. Now I can stay in her office as long as I want and... ..."
+    "我成为她的助理已经有一段时间了,我非常喜欢这份工作.现在我可以在她的办公室里想呆多久就呆多久,而且... ..."
 
 
 
     scene c_train_inti_3_1 with dissolve
 
-    "No one will find out what we are doing in this room exactly~"
+    "没有人会发现我们在这个房间里到底在做什么~"
 
 
 
-    "She has really changed the way she acts recently after I told her to open her heart more. Now she would take the initiative to act intimately when she is with me, such as sitting on my legs during working~"
+    "在我告诉她要更多地敞开心扉之后,她最近真的改变了她的行为方式.现在她和我在一起时,会主动表现得很亲密,比如工作时坐在我的腿上~"
 
 
 
-    "Ah~~ I really enjoy to hold her in this way and watch her work~"
+    "Ah~~ 我真的很喜欢以这种方式抱着她,看着她工作~"
 
 
 
@@ -32,7 +32,7 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    "*Theodora’s phone ringing* Dududududu~~~~~~"
+    "*狄奥多拉的手机响了* Dududududu~~~~~~"
 
 
 
@@ -42,7 +42,7 @@ label C_train_inti_3:
 
 
 
-    c "It’s... mom?"
+    c "这是......妈妈?"
 
 
 
@@ -52,21 +52,21 @@ label C_train_inti_3:
 
 
 
-    c "What’s up, mom?"
+    c "怎么了,妈妈?"
 
 
 
-    e "Theo, sweetie~~~ I need you to come home right now. Mom got a great gift for you~"
+    e "狄奥,亲爱的~~~我需要你现在就回家来.妈妈给你准备了一个很好的礼物~"
 
 
 
     scene c_train_inti_3_5 with tstmgr
 
-    c "Oh? Thanks, mom, but what it is for? It’s not my birthday yet..."
+    c "谢谢你,妈妈,但这是为了什么呢?今天还不是我的生日呢..."
 
 
 
-    e "Just come home, will you?~ I promise it is something that you’ve always dreamed to have~"
+    e "回家吧,好吗? ~ 我保证这是你一直梦寐以求的东西~"
 
 
 
@@ -78,73 +78,73 @@ label C_train_inti_3:
 
     scene c_train_inti_3_7 with tstmgr
 
-    c "... ...Okay, I will be home soon."
+    c "... ...好吧, 我很快就回去."
 
 
 
     scene c_train_inti_3_8 with tstmgr
 
-    c "*Cutting the phone* ... ... ... ..."
+    c "*挂掉电话* ... ... ... ..."
 
 
 
-    player "What’s going on?"
+    player "怎么了?"
 
 
 
     scene c_train_inti_3_9 with tstmgr
 
-    c "I don’t know. Mom wants me to go home right now, saying she has a gift for me."
+    c "我不知道.妈妈想让我现在就回家,说她有个礼物给我."
 
 
 
-    player "Do you need me to go with you?"
+    player "要我和你一起去吗?"
 
 
 
     scene c_train_inti_3_10 with tstmgr
 
-    c "No, I’m just going home, it’s nothing important. You need to stay here and finish those files for me on my laptop first."
+    c "不,我只是要回家,没什么重要的,你需要留在这里,先帮我完成我笔记本上的那些文件."
 
 
 
     scene c_train_inti_3_11 with tstmgr
 
-    c "Can I count you on that?"
+    c "我可以相信你吗?"
 
 
 
     scene c_train_inti_3_12 with tstmgr
 
-    player "Of course... ..."
+    player "当然... ..."
 
 
 
-    c "Thank you~"
+    c "谢啦~"
 
 
 
-    player "Can I go to Aunt Elisa’s house after I finish the job?"
+    player "我完成工作后可以去伊莉莎阿姨家吗?"
 
 
 
-    c "Yeah, why not~"
+    c "当然,我怎么会拒绝呢~"
 
 
 
     scene c_train_inti_3_13 with tstmgr
 
-    c "See you later, honey~"
+    c "玩点见,亲爱的~"
 
 
 
-    player "See you... ..."
+    player "再见... ..."
 
 
 
     scene c_train_inti_3_14 with tstmgr
 
-    "Theodora then left the room..."
+    "狄奥多拉离开了房间..."
 
 
 
@@ -154,7 +154,7 @@ label C_train_inti_3:
 
     scene c_train_inti_3_15 with tstmgr
 
-    player "Sigh... ... Now it’s just me and you, laptop~"
+    player "叹息......现在只剩下我和你了,笔记本电脑兄~"
 
 
 
@@ -164,7 +164,7 @@ label C_train_inti_3:
 
 
 
-    "Sometime later, I finally got the work done and went to Elisa’s house..."
+    "不知过了多久,我终于完成了工作,去了伊莉莎的家..."
 
 
 
@@ -174,47 +174,47 @@ label C_train_inti_3:
 
 
 
-    player "Good afternoon, auntie~"
+    player "下午好,姑妈~"
 
 
 
     scene c_train_inti_3_17 with tstmgr
 
-    e "*Smiling* ... ... ... ..."
+    e "*笑* ... ... ... ..."
 
 
 
-    e "If you are looking for Theodora, she is in her room right now~"
+    e "如果你要找狄奥多拉,她现在就在她的房间里~"
 
 
 
-    e "You will be so surprised when you see her~"
+    e "当你看到她时,你会感到非常惊讶~"
 
 
 
-    player "Surprise? For what?"
+    player "惊讶? 为什么?"
 
 
 
     scene c_train_inti_3_18 with tstmgr
 
-    e "Go see for yourself~"
+    e "且看便是~"
 
 
 
     scene c_train_inti_3_19 with tstmgr
 
-    e "I’m going to cook now. You two will stay here for dinner~"
+    e "我现在要去做饭了,你们两个将留在这里吃饭~"
 
 
 
     scene c_train_inti_3_20 with tstmgr
 
-    "Elisa then left for the kitchen..."
+    "伊莉莎离开,前往厨房..."
 
 
 
-    player "Okay, eh, thanks, auntie... ..."
+    player "好的,嗯,谢谢你,姑妈... ..."
 
 
 
@@ -224,11 +224,11 @@ label C_train_inti_3:
 
 
 
-    "I walked to Theodora’s room. The door was not locked so I just went inside directly... ..."
+    "我走到狄奥多拉的房间.门没有锁,所以我就直接进去了... ..."
 
 
 
-    player "Theo, Aunt Elisa said that I will be surprised when I see you, what does she... ..."
+    player "狄奥,伊莉莎阿姨说,我见到你的时候会很惊讶,她的... ..."
 
 
 
@@ -236,95 +236,95 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    player "Mean... ... ... ..."
+    player "意思是... ... ... ..."
 
 
 
-    player "Wow, Theo... ... ... ..."
+    player "Wow, 狄奥... ... ... ..."
 
 
 
     scene c_train_inti_3_22 with tstmgr
 
-    c "You should... at least knock first."
+    c "你应该...至少先敲门."
 
 
 
-    "The silver-haired girl is in a long white dress with fine patterns. It made her look like a real princess, no, a real goddess."
+    "银发女孩身穿白色长裙,上面有着精美的图案.这使她看起来像一个真正的公主,不,一个真正的女神."
 
 
 
     scene c_train_inti_3_23 with tstmgr
 
-    "I’m not sure why she reveals her tits out, but it only bring her more attraction. Now she is a perfect combination of elegance and sluttiness."
+    "我不知道她为什么要把她的乳房露出来,但这只会给她带来更大的吸引力.现在她是优雅和淫荡的完美结合."
 
 
 
-    player "Is that... a wedding dress?"
+    player "那是......一件婚纱吗?"
 
 
 
     scene c_train_inti_3_24 with tstmgr
 
-    c "Yeah... ... Can you believe it, my mom gave me a wedding dress as a gift."
+    c "是的... ... 你能相信吗,我妈妈给了我一件婚纱作为礼物."
 
 
 
     scene c_train_inti_3_25 with tstmgr
 
-    c "And what even worse is... it doesn’t fit me at all. My breasts are too big for it... ..."
+    c "更糟糕的是......它根本就不适合我.我的奶子太大,塞不下... ..."
 
 
 
-    player "Why did she give you this?"
+    player "她为什么给你这个?"
 
 
 
-    c "She was preparing for our marriage ceremony and she found this dress kinda similar to the wedding dress she had, so she bought it and give it to me."
+    c "她正在准备我们的结婚仪式,她发现这条裙子和她的婚纱有点相似,所以她买下了它并送给了我.."
 
 
 
-    c "It won’t be the wedding dress I will wear on my wedding day. This is just a normal gift."
+    c "这不会是我在婚礼当天要穿的婚纱.这只是一个普通的礼物."
 
 
 
     scene c_train_inti_3_26 with tstmgr
 
-    c "But I mean, seriously? Who on earth would give a wedding dress to her daughter as a normal gift?"
+    c "但我的意思是,说真的?世界上有谁会把婚纱作为正常的礼物送给她的女儿呢??"
 
 
 
     scene c_train_inti_3_27 with tstmgr
 
-    c "Forget it, I’ll go change it right now."
+    c "算了,我现在就去换."
 
 
 
-    player "Wait, wait... ..."
+    player "等等,等一下... ..."
 
 
 
-    player "You don’t... need to change it yet. I want to... take another look at it."
+    player "你还不需要... ...改变它.我想...再看一眼."
 
 
 
     scene c_train_inti_3_22 with tstmgr
 
-    c "You like this dress?"
+    c "你喜欢这条裙子?"
 
 
 
     scene c_train_inti_3_28 with tstmgr
 
-    c "Or... you just like to see I wearing anything with my bare breasts?"
+    c "或者......你只是喜欢看我穿着裸露乳房的衣服?"
 
 
 
-    player "I just... have never seen you in a wedding dress before."
+    player "我只是......以前从未见过你穿婚纱的样子."
 
 
 
-    c "Of course I haven’t, are you a dummy?"
+    c "我当然没有,你是个傻瓜吗?"
 
 
 
@@ -334,65 +334,65 @@ label C_train_inti_3:
 
     scene c_train_inti_3_29 with tstmgr
 
-    c "So... how do I look exactly?"
+    c "那么......我到底看起来怎么样 ?"
 
 
 
-    player "You look... ... divine, like a real but untouchable goddess."
+    player "你看起来......很神圣,就像一个真正的但不可触摸的女神."
 
 
 
     scene c_train_inti_3_30 with tstmgr
 
-    c "That's such a hilarious metaphor. No goddess will reveal her tits out like me~"
+    c "这真是个搞笑的比喻.没有一个女神会像我一样把她的奶子露出来~"
 
 
 
-    c "Maybe the goddess of lewdness would do?"
+    c "也许淫乱女神会这样做?"
 
 
 
-    player "No, it’s not about lewdness, it’s... something different. I guess now I finally understood why the dude in Titanic was willing to take a long time just to draw a picture for his naked girl."
+    player "不,这不是关于淫乱,而是......不同的东西.我想现在我终于明白为什么《泰坦尼克号》中的那个家伙愿意花很长时间只是为了给他的裸体女孩画一幅画了."
 
 
 
     scene c_train_inti_3_31 with tstmgr
 
-    player "I will definitely do the same thing to you right now if I know how to draw... ..."
+    player "如果我知道怎么画,我现在一定会对你做同样的事情... ..."
 
 
 
-    player "You are... so beautiful."
+    player "你是......如此的美丽."
 
 
 
     scene c_train_inti_3_32 with tstmgr
 
-    c "*Flushed* Oh... ... ... ..."
+    c "*脸红* 哦... ... ... ..."
 
 
 
     scene c_train_inti_3_33 with tstmgr
 
-    c "Wait, you mean... you actually don’t have sexual desire at this moment?"
+    c "等等,你的意思是......你在这一刻其实没有发情?"
 
 
 
-    player "Eh... That’s not my point, but... ..."
+    player "呃......这不是我的意思,但... ..."
 
 
 
-    c "Damn that’s frustrating. You are looking at my bare breasts but you don’t want to fuck me... ..."
+    c "该死的,真让人沮丧.你在看我的裸胸,但你不想和我做爱... ..."
 
 
 
     scene c_train_inti_3_32 with tstmgr
 
-    c "Are you... tired of me?"
+    c "你......厌倦了我吗?"
 
 
 
-    player "What? Wait, I don’t mean that! Damn, I was admiring you, admiring!"
+    player "什么?等等,我不是这个意思！该死的,我在欣赏你,欣赏!"
 
 
 
@@ -404,19 +404,19 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    c "How about now?"
+    c "现在如何?"
 
 
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
-    "She gently placed my hand on one of her breasts and I immediately felt a wonderful sensation from my hand."
+    "她把我的手轻轻地放在她的一个乳房上,我的手立刻感到一种奇妙的感觉."
 
 
 
-    "Theodora... ... she has really changed."
+    "狄奥多拉... ... 她真的变了."
 
 
 
@@ -424,27 +424,27 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    player "You know I will never be tired of you~"
+    player "你知道我永远不会对你感到厌倦~"
 
 
 
-    player "I mean, you are my beloved wife~"
+    player "我是说,你是我心爱的妻子~"
 
 
 
     scene c_train_inti_3_36 with tstmgr
 
-    c "What... are you talking about... ... I’m not your wife~"
+    c "什么......你在说什么.......我可不是你的妻子~"
 
 
 
-    c "You haven’t even... proposed... ..."
+    c "你甚至还没有......求婚... ..."
 
 
 
     scene c_train_inti_3_37 with tstmgr
 
-    player "Alright, I’ll do it now~ Do you want to marry me, Theodora?"
+    player "好吧,我现在就做~你想嫁给我吗,狄奥多拉??"
 
 
 
@@ -454,43 +454,43 @@ label C_train_inti_3:
 
 
 
-    c "But you haven’t even given me a ring... ..."
+    c "但你甚至没有给我一个戒指... ..."
 
 
 
     scene c_train_inti_3_39 with tstmgr
 
-    player "Hmmmmm... ... Yeah, that’s an issue."
+    player "嗯.......是的,这确实是个问题."
 
 
 
-    player "I’ll go get a one now~"
+    player "我现在就去买一个~"
 
 
 
     scene c_train_inti_3_40 with tstmgr
 
-    c "What? Wait, you don’t have to do that now... ..."
+    c "什么?等等,你现在不需要这样做了... ..."
 
 
 
     scene c_train_inti_3_41 with tstmgr
 
-    c "You haven’t answered my question yet... ..."
+    c "你还没有回答我的问题呢... ..."
 
 
 
-    c "Do you have sexual desire to me now?"
+    c "你现在对我有性欲吗?"
 
 
 
-    player "I... ... ... ..."
+    player "我... ... ... ..."
 
 
 
     scene void with tstmgr
 
-    player "Shit, of course I want~ I want to fuck the hell out of you!~"
+    player "妈的,我当然想,我想把你干得死去活来!~"
 
 
 
@@ -498,7 +498,7 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    "I pushed Theodora on the table rudely..."
+    "我粗暴地把狄奥多拉推到桌上..."
 
 
 
@@ -508,11 +508,11 @@ label C_train_inti_3:
 
     scene c_train_inti_3_43 with tstmgr
 
-    c "This doesn’t look like the right way to treat a goddess~"
+    c "这看起来并不像是对待女神的正确方式~"
 
 
 
-    c "But~"
+    c "但是~"
 
 
 
@@ -520,25 +520,25 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    "She suddenly ripped off her skirt with one hand..."
+    "她突然用一只手撕掉了她的裙子..."
 
 
 
-    c "I don’t want to be a goddess anyway~ I just want to be your bitch~"
+    c "反正我也不想当女神,我只想当你的母狗~"
 
 
 
-    player "Damn, Theo~"
+    player "该死, 狄奥~"
 
 
 
-    "Yeah, again, she has really changed~"
+    "是的,她真的改变了~"
 
 
 
     scene c_train_inti_3_45 with tstmgr
 
-    player " And I’m not going to let my bitch down... ..."
+    player " 我不会让我的母狗失望的... ..."
 
 
 
@@ -566,11 +566,11 @@ label C_train_inti_3:
 
 
 
-    c "Ahhhhhh~~~ Yeah~ This is exactly what I’m waiting for~"
+    c "啊~~~是啊~~这正是我所期待的~"
 
 
 
-    c "My future husband’s... giant cock~"
+    c "我未来丈夫的......巨大鸡巴~"
 
 
 
@@ -584,27 +584,27 @@ label C_train_inti_3:
 
 
 
-    c "I am... dressing like a bride and I’m being fucked like a whore~~~"
+    c "我......穿得像个新娘,我被操得像个妓女~~~"
 
 
 
-    c "Ohhhhhh~~~ I love this cock so much~~~"
+    c "哦~~~~我太喜欢这个鸡巴了~~~"
 
 
 
-    player "This is going to happen everyday after we get married. You should get used to it now~"
+    player "我们结婚后,这种情况将每天发生.你现在应该习惯它了~"
 
 
 
-    c "Who said... I’m gonna marry you? You haven't even... awwwwwwwwww~~~~"
+    c "谁说... 我要嫁给你?你甚至还没有......awwwwwwww~~~~"
 
 
 
-    c "You haven’t even given me a good creampie~~"
+    c "你甚至没有给我一个完美的内射~~"
 
 
 
-    player "Well, that won’t be an issue~"
+    player "嗯,这将不是一个问题~"
 
 
     stop sound
@@ -614,31 +614,31 @@ label C_train_inti_3:
 
 
 
-    c "Awwwwww~~~ Too... too fast~~~~"
+    c "Awwwwww~~~太......太快了~~~~"
 
 
 
-    c "Big cock... So good~~~ Ohhhhhhh~~~~~"
+    c "大鸡巴... 太好啦~~~哦~~~~~~~~"
 
 
 
-    player "Yeah, you can have this cock every day after we are married~"
+    player "没事,我们结婚后,你可以每天都拥有这根鸡巴~"
 
 
 
-    c "Ohhhh~ Yes, yes, I want this big cock to penetrate me every day in the rest of my life~ I want to wake up with it in my mouth and I want to shower in its cum~~~"
+    c "Ohhhh~ 是的,是的,我希望这根大鸡巴在我的余生中每天都能插入我的身体~我想醒来的时候它在嘴里,我想在它的精液中沐浴.~~~"
 
 
 
-    "Oh my, I knew she was good at dirty talk, but that was really epic."
+    "哦,我知道她很会说发骚,但这真的很棒."
 
 
 
-    c "Awwwwww~~~ Mom is definitely eavesdropping us outside, but... ... Awwwwwwmmmm~~~~"
+    c "Awwwwww~~~妈妈肯定在外面偷听我们,但是... ... Awwwwwwmmmm~~~~"
 
 
 
-    c "I just can’t help moaning out~~ I just love to get fucked by [P] and his charming cock!~~~"
+    c "我就是忍不住要呻吟出来~~我就是喜欢被[P]和他迷人的鸡巴操!~~~"
 
 
 
@@ -646,11 +646,11 @@ label C_train_inti_3:
 
 
 
-    player "Theodora, I’m about to..."
+    player "狄奥多拉, 我快要..."
 
 
 
-    player "Cumming!!"
+    player "射了!!"
 
 
     stop sound
@@ -664,25 +664,25 @@ label C_train_inti_3:
 
     scene c_train_inti_3_53 with tstmgr
 
-    c "Creampie~~~ My favorite creampie~~~"
+    c "内射~~~ 我最爱的内射~~~"
 
 
 
-    player "That was so amazing... ..."
+    player "这真是太神奇了... ..."
 
 
 
-    c "We are going to do this again... on our wedding day... ... and I will be in a real wedding dress~"
+    c "我们将再次这样做......在我们的婚礼上......而且我将穿上真正的婚纱~"
 
 
 
-    player "You are going to be an amazing bride, Theo~"
+    player "你将会是一个了不起的新娘, 狄奥~"
 
 
 
     scene c_train_inti_3_54 with tstmgr
 
-    c "But first you still have to... ... prepare a ring for me~~~"
+    c "但首先你还是要... ...为我准备一个戒指~~~"
 
 
 

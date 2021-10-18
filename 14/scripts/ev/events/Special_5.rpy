@@ -4,42 +4,42 @@ label Special_5:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, I came back to my bedroom, and..."
+    "今天晚些时候，我回到了我的卧室，发现..."
 
 
     scene special_5_1 with tstmgr
 
     $ flashlight()
 
-    player "Holy fuck!"
+    player "我去!"
 
 
 
-    "Lady Minna" "Hi there sweetie~"
+    "明娜女士" "嗨，亲爱的~"
 
 
 
-    e "We've been waiting for you for a while~"
+    e "我们已经等了你很久了~"
 
 
 
-    player "Shit, how did you even get in here?"
+    player "靠，你们是怎么进来的?"
 
 
 
-    e "I made a replica of Theodora’s key~"
+    e "我做了一把西奥钥匙的复制品~"
 
 
 
-    "Lady Minna" "You know why we are here, right?~"
+    "明娜女士" "你知道我们为什么来这里，对吗？"
 
 
 
-    "Lady Minna" "Today there must be a winner between the two of us, and the winner’s daughter shall be your lawful wedded wife~"
+    "明娜女士" "今天我们两个人之间必须有一个赢家，赢家的女儿将成为你的合法妻子~"
 
 
 
-    "Lady Minna" "We won’t leave until squeezing out the last drop of your cum."
+    "明娜女士" "在挤出你最后一滴牛奶之前，我们不会离开。"
 
 
 
@@ -47,59 +47,59 @@ label Special_5:
 
 
 
-    player "Seriously, I still don’t get what’s so important of the title of ‘my lawful wedded wife. From my perspective you ladies are just playing a strange sex game with me instead of really fighting for something."
+    player "说真的，我还是不明白 "我的合法妻子"这个头衔有多重要。从我的角度来看，你们这些女士只是在和我玩一个奇怪的性游戏，而不是真的在争取什么。"
 
 
 
-    player "And there is one thing I need to tell you that... ..."
+    player "还有一件事，我需要告诉你的是... ..."
 
 
 
-    player "Your daughters will be here at any second to discuss with me about your fight."
+    player "你们的女儿随时都会来这里与我讨论你们的争吵原因。."
 
 
 
     scene special_5_2 with tstmgr
 
-    "Ladies" "What?"
+    "女士们" "什么?"
 
 
 
-    player "So... ... I think you’d better get dressed and..."
+    player "所以... ... 我认为你们最好穿好衣服并且..."
 
 
 
     scene void with tstmgr
 
-    "The front door of my house was opened at this moment."
+    "房子的大门在这一刻被打开了。"
 
 
 
-    b "[P], are you in your room?"
+    b "[P], 你在你的房间吗?"
 
 
 
     scene special_5_3 with tstmgr
 
-    "Lady Minna" "Shit, is that my daughter?"
+    "明娜女士" "靠, 这是我女儿?"
 
 
 
-    c "He could be in a nap or something~"
+    c "他可能在打盹或什么的~"
 
 
 
-    e "That’s... Theo’s voice."
+    e "这是... 西奥的声音."
 
 
 
     scene special_5_4 with tstmgr
 
-    "Lady Minna" "No time to get dressed, we need to hide somewhere!"
+    "明娜女士" "没有时间穿衣服了，我们需要躲在某个地方！"
 
 
 
-    player "Eh... My closet is quite empty... ..."
+    player "Eh... 我的步入式衣柜是个不错的选择... ..."
 
 
 
@@ -115,33 +115,33 @@ label Special_5:
 
 
 
-    player "Hi there, girls~"
+    player "嗨！在这呢，女孩们~"
 
 
 
     scene special_5_6 with tstmgr
 
-    b "*Sniffing, sniffing* What is this smell in your room?"
+    b "*Sniffing, sniffing* 你房间好像有什么奇怪的气味?"
 
 
 
-    b "It smelled like my mama’s scent... mixing with some other flavors."
+    b "闻起来像我妈妈的气味......混合着一些其他的味道。"
 
 
 
-    c "So, you said you have figured out the reason they fight?"
+    c "那么，你说你已经知道了他们吵架的原因？"
 
 
 
     scene special_5_7 with tstmgr
 
-    player "Yeah, I do. Come on, sit with me~"
+    player "是的，我知道了。来吧，和我坐一起~"
 
 
 
     scene void with tstmgr
 
-    "At the same time, in the closet..."
+    "与此同时，在衣柜里..."
 
 
 
@@ -151,13 +151,13 @@ label Special_5:
 
 
 
-    "Lady Minna" "I hope my daughter won’t find my underwear hidden under the bed."
+    "明娜女士" "希望我的女儿不会发现我藏在床底下的内衣。"
 
 
 
     scene special_5_9 with tstmgr
 
-    e "Quiet!"
+    e "安静！"
 
 
 
@@ -169,11 +169,11 @@ label Special_5:
 
     scene special_5_10 with dissolve
 
-    c "Now tell us about it, why do they fight?"
+    c "现在告诉我们，她们为什么会吵起来呢？"
 
 
 
-    player "They... ..."
+    player "她们... ..."
 
 
 
@@ -183,7 +183,7 @@ label Special_5:
 
 
 
-    "I then briefly explained the controversy of ‘my lawful wedded wife’ between Lady Minna and Elisa."
+    "然后我简要地解释了明娜女士和伊莉莎之间的'我的合法妻子'的问题。"
 
 
 
@@ -193,43 +193,43 @@ label Special_5:
 
     scene special_5_11 with dissolve
 
-    c "Are you kidding me? That’s what they are fighting for? An official marriage license? What’s the point of doing that? It is just a piece of paper."
+    c "你在开玩笑吗？这就是她们争的东西？一个正式的结婚证？这么做有什么意义呢？它只是一张纸而已。"
 
 
 
-    player "Well, yeah, I told them it is ridiculous."
+    player "嗯，是的，我告诉她们这很荒谬。"
 
 
 
     scene special_5_12 with tstmgr
 
-    b "I... actually understand my mama... ..."
+    b "我......其实理解我妈妈......"
 
 
 
     scene special_5_13 with tstmgr
 
-    c "You do?"
+    c "是吗？"
 
 
 
     scene special_5_14 with tstmgr
 
-    b "Yes... eh... ... it might be hard for you to understand... ..."
+    b "Yes... eh... ... 你可能很难理解... ..."
 
 
 
-    b "In ancient East Asia, especially in ancient China, a man can marry multiple women by law. Although nowadays polygamy is not allowed anymore, we still have this ‘harem culture’ inside our blood."
+    b "在古代东亚，特别是在古代中国，一个男人可以依法娶多个女人。虽然现在不是一夫多妻制了，但我们的血液里仍然有这种 "后宫文化"。"
 
 
 
-    b "For example, within the last 20 years, we produced an extremely huge amount of popular TV series about how women in an emperor or a rich man’s harem compete with each other for their husband’s favor."
+    b "例如，在过去20年内，我们制作了大量的流行电视剧，讲述了皇帝或富人后宫中的女人如何相互明争暗斗以获得丈夫的宠爱。"
 
 
 
     scene special_5_15 with tstmgr
 
-    b "So... I just want you to know that... ... my mama, as a Chinese woman, has her own understanding, deep understanding, about how a harem works."
+    b "所以......我只想让你知道......我的妈妈，作为一个中国女人，对后宫的关系有自己的理解，深刻的理解。"
 
 
 
@@ -239,101 +239,101 @@ label Special_5:
 
     scene special_5_16 with tstmgr
 
-    b "In ancient China, although a man can marry multiple women, only one of them can be his official wife, the others can only be concubines."
+    b "在中国古代，虽然一个男人可以娶多个女人，但其中只有一个可以成为他的正式妻子，其他的只能是小妾。"
 
 
 
-    b "The official wife takes charge of the family affairs, all the concubines have to listen to her and respect her in the way they respect their husband."
+    b "妻子负责家庭事务，所有的小妾都要听她的话，并以尊重丈夫的方式尊重她。"
 
 
 
-    b "Now this tradition has been long abandoned, but many people like my mama still believe that every harem needs a female master."
+    b "现在这个传统早就被抛弃了，但很多人像我妈妈一样仍然认为每个后宫都需要一个女主人。"
 
 
 
     scene special_5_17 with tstmgr
 
-    player "And she thinks that the one who becomes my lawful wedded wife will be the female master of the family?"
+    player "她认为成为我合法妻子的人将成为家庭的女主人？"
 
 
 
     scene special_5_18 with tstmgr
 
-    b "Uh-huh... ... And she wants me to take that position."
+    b "Uh-huh... ... 而她想让我担任这个角色。"
 
 
 
     scene special_5_19 with tstmgr
 
-    c "I... ... kinda understand the logic now."
+    c "我......现在有点明白这个逻辑了."
 
 
 
     scene special_5_20 with tstmgr
 
-    c "So how are you going to deal with it, our master of the house?"
+    c "那你打算怎么处理，我们家的主人？"
 
 
 
-    c "Will you really set a ‘female master’ that rules the family with you?"
+    c "你真的会选一个和你一起治家的'女主人'吗？"
 
 
 
-    player "No, God, I’m not here for ruling, I don’t need a queen to assist me. I will treat you angels equally, I promise."
+    player "不，我又不是一个统治者，不需要一个女王来协助我。我要平等对待你们这些天使，我保证。"
 
 
 
     scene special_5_21 with tstmgr
 
-    player "You are all my... precious queens~"
+    player "你们都是我的....宝贝女王s~"
 
 
 
     scene special_5_22 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
-    e "I told you your worry is ridiculous."
+    e "我跟你说过，你的担心是多余的。"
 
 
 
     scene special_5_21 with tstmgr
 
-    c "Humph, that’s more like it~"
+    c "Humph, 这还差不多~"
 
 
 
     scene special_5_23 with tstmgr
 
-    b "Love is the thing that brings us together, and it should also be the only thing that maintains our relationships. We don’t need rules or hierarchies to do that."
+    b "爱才是让我们聚集在一起的东西，它也应该是维持我们关系的唯一东西。我们不需要规则或等级制度来做到这一点。"
 
 
 
     scene special_5_24 with tstmgr
 
-    e "Oh dear, listen to that, that was so right, that girl is a hundred times wiser than her mother."
+    e "Oh 亲爱的听着，这太对了，那女孩比她妈妈聪明一百倍。"
 
 
 
     scene special_5_25 with tstmgr
 
-    "Lady Minna" "Ah shut up."
+    "明娜女士" "Ah 闭嘴."
 
 
 
     scene special_5_26 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
-    "Lady Minna" "I was just... worried about her. I will eventually leave this country and by that time she will be here alone."
+    "明娜女士" "我只是......担心她。我终究要离开这个国家，到那时，她会独自一人在这里。"
 
 
 
-    "Lady Minna" "I just want to make sure that she won’t be hurt... ..."
+    "明娜女士" "我只想她不会受到任何委屈......"
 
 
 
@@ -345,33 +345,33 @@ label Special_5:
 
     scene special_5_28 with tstmgr
 
-    e "Silly woman~"
+    e "傻女人~"
 
 
 
-    e "No one is gonna hurt your daughter, and your daughter is obviously stronger than you think. She can take care of herself."
+    e "没人会伤害你的女儿，而且你的女儿比你想象中要坚强的多. 她可以照顾好自己。"
 
 
 
-    e "Actually, if she wants, I am willing to take her as my own daughter to care."
+    e "其实，如果她愿意，我愿意把她当作自己的女儿来照顾。"
 
 
 
     scene special_5_29 with tstmgr
 
-    "Lady Minna" "You... will?"
+    "明娜女士" "你......会吗？"
 
 
 
     scene special_5_30 with tstmgr
 
-    "Lady Minna" "Thanks... ... ... ..."
+    "明娜女士" "谢谢... ... ... ..."
 
 
 
     scene special_5_31 with tstmgr
 
-    "Lady Minna" "*Noticed something* Emmmmmmm?... ..."
+    "明娜女士" "*注意到一些东西* Emmmmmmm?... ..."
 
 
 
@@ -379,15 +379,15 @@ label Special_5:
 
     $ flashlight()
 
-    "Lady Minna" "Dear lord, when did they take off their clothes?"
+    "明娜女士" "我的天啊，他们什么时候脱的衣服？"
 
 
 
-    e "Eh, I didn’t notice that either... ..."
+    e "Eh，我也没注意到......"
 
 
 
-    b "I couldn’t move my eyes from this stinky thing from the moment I entered the room~"
+    b "从我进入房间的那一刻起，我的眼睛就无法从这个臭烘烘的东西上移开~"
 
 
 
@@ -395,98 +395,98 @@ label Special_5:
 
 
 
-    b "Ahhhhh~~~ So stinky~~ So charming~~"
+    b "Ahhhhh~~~ 好臭啊~~好迷人啊~~"
 
 
 
-    c "What is... wrong with her?"
+    c "她......到底怎么了？"
 
 
 
-    player "Senning is very sensitive to scents. You will get used to it~"
+    player "森柠对气味非常敏感。你会习惯的~"
 
 
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
     scene special_5_31 with tstmgr
 
-    "Lady Minna" "It kinda shocks me though, I mean, your daughter and mine just met a while ago and now they are not hesitate to serve a man together already~"
+    "明娜女士""不过这有点让我震惊，明明你的女儿和我的女儿刚认识不久，现在她们已经毫不犹豫地一起服侍一个男人了~"
 
 
 
-    e "Aren't we the same as them?"
+    "我们不是和他们一样吗？"
 
 
 
     scene special_5_29 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
     scene special_5_30 with tstmgr
 
-    "Lady Minna" "Yeah, they are really just like us~"
+    "是的，她们真的和我们一样。
 
 
 
-    "Lady Minna" "We are all... shameless bitches~"
+    "明娜女士" "我们都是......不知羞耻的婊子~"
 
 
 
 
     scene special_5_33 with tstmgr
 
-    "Lady Minna" "Like mother, like daughter~"
+    "明娜女士" "有其母必有其女~"
 
 
 
-    b "[P]’s... big penis... ... I Want to taste more about [P]’s penis... ..."
+    b "[P]的......大鸡巴......。我想品尝更多[P]的鸡巴......"
 
 
 
-    b "Let me clean... the every corner of it~~~"
+    b "让我清洗......它的每个角落~~~"
 
 
 
-    player "It’s dirty, Sen, you don’t have to... ..."
+    player "这很脏，森，你没必要.... ..."
 
 
 
-    b "The dirtier... the stinkier... the better~~~~"
+    b "越脏...越臭...越好~~~~"
 
 
 
     scene special_5_34 with tstmgr
 
-    c "I want to... feel your dick too. I mean, she can’t have all the fun alone."
+    c "我也想......感受一下你的鸡巴。可不能让她一个人享受所有的乐趣。"
 
 
 
-    player "As you wish, Theo~"
+    player "如你所愿，西奥~"
 
 
 
     scene special_5_35 with tstmgr
 
-    e "Your daughter is so much more perverted than I thought... ..."
+    e "你的女儿比我想象的要淫乱得多......"
 
 
 
-    "Lady Minna" "I’m kinda shocking at this too... ..."
+    "明娜女士" "我也有点震惊......"
 
 
 
     scene special_5_36 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
-    "Lady Minna" "But it seems like your daughter is no better than mine at all~"
+    "明娜女士""但似乎你的女儿也好不到哪去~"
 
 
 
@@ -494,11 +494,11 @@ label Special_5:
 
     $ flashlight()
 
-    c "Yeeeeeeeeeeeeee~~~~ My nipples~~~~~~"
+    c "Yeeeeeeeeeeee~~~~ 我的奶头~~~~~~"
 
 
 
-    c "Don’t... don’t make me so embarrassed in front of Senning~~~~~"
+    c "别......别让我在森柠面前那么丢人~~~~~"
 
 
 
@@ -508,7 +508,7 @@ label Special_5:
 
 
 
-    player "Theo... you have no idea how cute you are right now~"
+    player "西奥...你不知道你现在有多么可爱~"
 
 
 
@@ -518,57 +518,57 @@ label Special_5:
 
 
 
-    c "[P]... ... darling... ... master... ... ye~~ yes~~"
+    c "[P]... ... 亲爱的... ... 主人... ... 对~~ 是的~~"
 
 
 
     scene special_5_40 with tstmgr
 
-    c "Ohhhhhhh~~~ My fun bags are being abused~~~~"
+    c "Ohhhhhhh~~~ 我的奶子要坏掉惹~~~~"
 
 
 
-    player "I'll stop if you don’t like me doing this, just say it~"
+    player "如果你不喜欢我这样做，我就不做了，只要说出来就可以了~"
 
 
 
-    c "No~~ keep abusing them like that~ That’s what they are there for~"
+    c "不~~继续这样虐待它们~~这才是它们存在的意义~~"
 
 
 
-    c "Owwwww~~~ But I really don’t want Seenning to see me like this~"
+    c "Owwwww~~~，但我真的不想让西宁看到我这个样子~"
 
 
 
-    player "Well, good news, Senning is busy at her own things~"
+    player "好消息是，森柠正在忙她自己的事情~"
 
 
 
     scene special_5_41 with tstmgr
 
-    b "[P]’s big penis is getting so wet by the fluid coming out from Theodora’s pussy~~~~~"
+    b "[P]的大鸡巴被西奥从小穴流出的液体弄得很湿~~~~~"
 
 
 
-    b "This flavor... ... so sweet~"
+    b "这个味道......好甜~"
 
 
 
-    b "Want to... take a bite... ..."
+    b "想......咬一口......"
 
 
 
-    player "Eh... please don’t do that."
+    player "呃......请千万不要这样做。"
 
 
 
     scene special_5_35 with tstmgr
 
-    "Lady Minna" "To be honest, I actually begin to worry about our girls now. I mean, they are already so perverted, and their perversion will further grow as their age grows, right?"
+    "明娜女士" "说实话，我现在开始有点担心我们的女孩。我的意思是，她们已经很色情了，而且随着年龄的增长，她们会变得更加淫乱，对吗？"
 
 
 
-    "Lady Minna" "So how crazy they will become when they are at our age?"
+    "明娜女士" "那么，当她们到了我们这个年龄，会变得多么疯狂？"
 
 
 
@@ -576,13 +576,13 @@ label Special_5:
 
 
 
-    e "That’s indeed a scary question... ..."
+    e "这的确是一个可怕的问题... ..."
 
 
 
     scene void with tstmgr
 
-    "Lady Minna" "Ah, look, they begin to fuck now~"
+    "明娜女士" "Ah, 看, 他们现在要开始进入正戏了~"
 
 
 
@@ -596,23 +596,23 @@ label Special_5:
 
 
 
-    b "This feels... so impolite... ..."
+    b "这感觉......太没礼貌了......"
 
 
 
-    b "Miss Theodora is lying under me... My sweat is spilling on her... ..."
+    b "西奥小姐正躺在我身下......。我的汗水洒在她身上......"
 
 
 
-    b "And she can see my horny face from downward above... ... I must look ugly right now."
+    b "而且她可以从上面往下看我那张淫乱的脸......。我现在的样子一定很色。"
 
 
 
-    c "No, you are not~ and don’t worry about me, I’m enjoying this moment~"
+    c "不，你不是~也不用为我担心，我很享受这一刻~"
 
 
 
-    b "Ohhhh~~ It is hitting so deep~~~"
+    b "哦~~~你插得好深啊~~~"
 
 
     stop sound
@@ -622,31 +622,31 @@ label Special_5:
 
 
 
-    "Senning didn’t know that her mother was watching her from the closet behind us, but I knew it, and it is making me so damn excited."
+    "森柠不知道她的母亲在我们身后的衣柜里看着她，但我知道，这太令我兴奋了。"
 
 
 
-    "Fucking the daughter in front of her mother makes me hyped, oh damn, what a pervert am I~"
+    "在母亲面前干女儿真是让我很性奋，哦，该死的，我真是个变态~"
 
 
 
-    b "Ohhhhhhh~~~ [P]~~ [P]~~ help~~ your penis is getting harder than ever!"
+    b "ohhhhhhh~~~~~[P]~~~[P]~~~不要~~~你的鸡巴比以前更硬了！"
 
 
 
-    b "It will... destroy me... ... Ma... mama... help~~~~"
+    b "它快......把我...操烂了...。妈......妈......救命~~~~"
 
 
 
-    b "I... I can’t take it anymore~~"
+    b "我......我再也受不了了~~"
 
 
 
-    b "[P]’s stinky hard penis~~ is driving me crazy~~~~~"
+    b "[P]的又臭又硬的鸡巴~~快把我逼疯了~~~~~"
 
 
 
-    b "I’m cumming!!!~~~~~~"
+    b "我射了！！！~~~~~~"
 
 
     stop sound
@@ -658,25 +658,25 @@ label Special_5:
 
 
 
-    "Senning had a great orgasm while I pumped my sticky white cum into her deepest at the same time... ..."
+    "森柠被我送上了高潮，而我同时把我滚烫粘稠的精液注入她子宫的最深处......"
 
 
 
     scene special_5_45 with tstmgr
 
-    "Lady Minna" "Ah, shit, I can see nothing but [P]’s butt from here."
+    "明娜女士""啊，可恶，从这里除了[P]的屁股，我什么都看不到。"
 
 
 
     scene special_5_46 with tstmgr
 
-    e "You want to see how your daughter was being fucked?"
+    e "你想看看你的女儿是怎么被人干的吗？"
 
 
 
     scene special_5_47 with tstmgr
 
-    "Lady Minna" "Yeah, why not, it kinda gives me a sense of accomplishment."
+    "明娜女士" "是的，为什么不呢，这会让我有成就感。"
 
 
 
@@ -686,21 +686,21 @@ label Special_5:
 
     scene special_5_48 with tstmgr
 
-    "Lady Minna" "But that boy really has a nice butt, I have to admit that."
+    "明娜女士""我不得不承认，那个男孩真的有一个很棒的屁股。"
 
 
 
     scene special_5_49 with tstmgr
 
-    e "I... yeah, I agree with that."
+    e "我......是的，我同意这一点."
 
 
 
-    "Lady Minna" "Oh look, look, it’s your daughter’s turn~ What a tireless boy~"
+    "明娜女士""哦，看，看，轮到你女儿了~真是个精力充沛的孩子~"
 
 
 
-    e "*Swallowing hard* ... ... ... ..."
+    e "*用力吞咽* ... ... ... ..."
 
 
 
@@ -710,27 +710,27 @@ label Special_5:
 
 
 
-    c "Huh~~ hhhh~~~ yes~~~ hhhhhh~~~"
+    c "Huh~~ hhhh~~~ 对~~~ hhhhhh~~~"
 
 
 
-    c "Keep fucking me like that... awww... yes~~~"
+    c "继续这样干我......awww......是的~~~"
 
 
 
-    c "Prove to Senning that... you are a great harem master~"
+    c "向森柠证明......你是一个了不起的后宫主人~"
 
 
 
-    "Hah~ I’m not only proving this to Senning, but also to Elisa and Minna."
+    "哈~我不仅要向森宁证明，也要向伊莉莎和明娜证明。"
 
 
 
-    player "I will... bring happiness... to all of my loves."
+    player "我将......把幸福......带给我所有的爱人。"
 
 
 
-    c "Yes~~~ that’s the spirit~"
+    c "是的~~~这就是我们的目标~"
 
 
     stop sound
@@ -740,31 +740,31 @@ label Special_5:
 
 
 
-    b "[P]... ... is fucking Theodora so hard... ... oh dear... did I just say ‘fuck’?... ..."
+    b "[P]... ... 干狄奥多拉这么用力......哦，亲爱的......我是说'干'吗？... ..."
 
 
 
-    c "Ohhhhhh~~~ [P]~~ fuck~~ yes, fuck me~"
+    c "Ohhhhhh~~~ [P]~~ 干我~~ 对, 干我~"
 
 
 
-    c "Just like that... huhh... ... Awwww~~~~ yes~~~ hhhh~~~~"
+    c "就是像这样... huhh... ... Awwww~~~~ 是的~~~ hhhh~~~~"
 
 
 
-    c "I... ... ohhhh~~ love~~~ ahhhh~~~ hhhh~~~"
+    c "我... ... ohhhh~爱~~ ahhhh~~~ hhhh~~~~~~~"
 
 
 
-    c "Can’t... think straight... ..."
+    c "不能......思考...了...。..."
 
 
 
-    c "Cock... ... more cock... ... love... ... wwwwwww... ..."
+    c "鸡巴... ..干我... ...我爱...你 ... wwwwwww... ..."
 
 
 
-    c "I... I’m gonna... I’m gonna... ..."
+    c "我... 我要... 我要... ..."
 
 
     stop sound
@@ -772,7 +772,7 @@ label Special_5:
     play sound cumshot
     $ flashlight()
 
-    c "Cumming!~~~~~~~~~~~~~~"
+    c "去了！！~~~~~~~~~~~~~~"
 
 
 
@@ -780,7 +780,7 @@ label Special_5:
 
 
 
-    "My dick slipped out of her pussy at the last second and had a great orgasm outside."
+    "我的小弟弟在最后一秒从她的阴道里滑了出来，满满的射在了女孩的身上。"
 
 
 
@@ -798,13 +798,13 @@ label Special_5:
 
 
 
-    c "Why didn’t you give me a creampie?"
+    c "你为什么不内射在我的里面？?"
 
 
 
     scene special_5_55 with tstmgr
 
-    player "Eh... I don’t know, it just slipped out. Your pussy was too wet~"
+    player "Eh... 我不知道，它只是滑了出来。你的小穴太湿了~"
 
 
 
@@ -814,7 +814,7 @@ label Special_5:
 
 
 
-    c "What a pity... ..."
+    c "真可惜... ..."
 
 
 
@@ -824,73 +824,73 @@ label Special_5:
 
 
 
-    "Sometime later... ..."
+    "稍后的时间... ..."
 
 
 
     scene special_5_57 with dissolve
 
-    "Senning and Theodora went to shower together. They asked me to go with them, but well, I have to stay here because... ..."
+    "森柠和狄奥多拉一起去洗澡了。她们让我和她们一起去，但我必须留在这里，因为... ..."
 
 
 
     scene special_5_58 with tstmgr
 
-    "There are two mature ladies I have to deal with right now~"
+    "现在有两位成熟的女士需要我去处理~"
 
 
 
-    player "So... what do you say, ladies?"
+    player "那么......女士们，你们怎么说？"
 
 
 
     scene special_5_59 with tstmgr
 
-    "Lady Minna" "It seems like I was being ridiculous for the whole time."
+    "明娜女士""看来我一直都很荒唐。"
 
 
 
     scene special_5_60 with tstmgr
 
-    e "No more fight?"
+    e "不再争了?"
 
 
 
     scene special_5_61 with tstmgr
 
-    "Lady Minna" "No more~ Sorry for the trouble."
+    "明娜女士" "不会了~对不起，给你添麻烦了。"
 
 
 
     scene special_5_62 with tstmgr
 
-    "Lady Minna" "I will be at ease to leave my daughter in your hands. I believe you will treat her well. You are going to be a great harem master, I am sure of that~"
+    "明娜女士""我把我的女儿交给你。我相信你会好好对待她。你将成为一个了不起的后宫主人，我确信这一点~"
 
 
 
-    player "Thank you, Lady Minna, I won’t let you down."
+    player "谢谢你，明娜女士，我不会让你失望的。"
 
 
 
-    player "Sen and Theo will definitely be so happy to know that you two have stopped fighting~"
+    player "森和西奥知道你们俩停止了争吵，肯定会非常高兴~"
 
 
 
-    "Lady Minna" "Now, before we go, there is something we want to do~"
+    "明娜女士""现在，在我们走之前，有件事我们想做~"
 
 
 
     scene special_5_63 with tstmgr
 
-    e "We want to... thank you for making our daughters happy."
+    e "我们想......感谢你让我们的女儿们高兴。"
 
 
 
-    "Lady Minna" "We have a... small reward for you~"
+    "明娜女士" "我们有一个......小小的奖励给你~"
 
 
 
-    player "Reward?"
+    player "奖励?"
 
 
 
@@ -904,42 +904,42 @@ label Special_5:
 
 
 
-    player "Holy shit... ..."
+    player "我去... ..."
 
 
 
     scene special_5_64 with tstmgr
     $ flashlight()
 
-    e "We hope you will like our... double titjob~~"
+    e "我们希望你会喜欢我们的......双倍奶子~~"
 
 
 
-    "Lady Minna" "You’d better be hurry, our daughters may get back any minute."
+    "明娜女士" "你最好快点，我们的女儿随时可能回来。"
 
 
 
     scene special_5_65 with tstmgr
 
-    e "Just... put your penis inside our breasts... ..."
+    e "只要......把你的鸡巴放在我们的乳房里......"
 
 
 
-    "Oh my... ... this looks so damn delicious. How did they even come up with this idea? Mature ladies... ... man... they are really artists of sex~"
+    "哦，我的天......这看起来真的美味。她们是怎么想出这个主意的？成熟的女士们......她们真是性爱的艺术家~"
 
 
 
     scene special_5_66 with tstmgr
 
-    player "Can... can I really do it?"
+    player "我......我真的可以做吗？"
 
 
 
-    "Lady Minna" "Yeah, just put your cock inside our boobs~"
+    "明娜女士""是的，只要把你的鸡巴放在我们的奶子里就可以了~"
 
 
 
-    player "Okay... ... I’ll just... ..."
+    player "好的... ... 我就恭敬不如从命了"
 
 
 
@@ -955,7 +955,7 @@ label Special_5:
 
 
 
-    "Ahhhh... shit... ... This feels even more amazing than I thought~"
+    "Ahhhh... 糟糕......。这感觉比我想象的还要不可思议t~"
 
 
 
@@ -997,7 +997,7 @@ label Special_5:
 
     scene special_5_69 with tstmgr
 
-    "To be honest, this double titjob doesn’t bring me as much stimulus as a regular sex, but... ..."
+    "说实话，这种双重乳交给我带来的感觉并不像一般的做爱那么刺激，但是......"
 
 
 
@@ -1009,7 +1009,7 @@ label Special_5:
 
     scene special_5_69 with tstmgr
 
-    "I just can’t stop myself from fucking their boobs~~~"
+   "我根本无法停止自己去干她们的奶子~~~"
 
 
 
@@ -1055,7 +1055,7 @@ label Special_5:
 
 
 
-    player "I... I’m cumming!"
+    player "我... 我要射了！"
 
 
 
@@ -1067,21 +1067,21 @@ label Special_5:
 
 
 
-    "Lady Minna" "Ah huh~ Yes~~"
+    "明娜女士" "Ah huh~ 太棒了~~"
 
 
 
-    "I... I think I’m gonna remember this moment for my life... ..."
+    "我......我想我会一辈子都记着这一刻......"
 
 
 
     scene special_5_71 with tstmgr
 
-    e "Are you satisfied with our service, darling?"
+    e "你对我们的奉侍满意吗，亲爱的？"
 
 
 
-    player "This is... the best titjob ever... ..."
+    player "这是......有史以来最好的乳交......"
 
 
 
@@ -1093,41 +1093,41 @@ label Special_5:
 
     scene special_5_72 with tstmgr
 
-    "Lady Minna" "Oh my god~ Can you feel how sticky his cum is? I can’t believe he hasn’t impregnated anyone yet."
+    "明娜女士" "哦，我的天啊~你能感觉到他的精液有多粘稠吗？我不相信他还没有让任何人怀孕。"
 
 
 
-    e "We should leave now... ... Our daughters are coming back~"
+    e "我们现在得离开......。我们的女儿们很快要回来了~"
 
 
 
-    player "Wait, don’t you need to take a shower too? I mean... my sperms are all over your breasts."
+    player "等等，你们不是也要洗澡吗？我是说......我的精子都在你们的奶子上。"
 
 
 
     scene special_5_73 with tstmgr
 
-    "Lady Minna" "Ah~ We don’t really care about it~"
+    "明娜女士" "Ah~ 我们其实并不在意这个~"
 
 
 
-    e "No one can notice it through our clothes anyway~"
+    e "没事，反正没有人可以发现它~"
 
 
 
     scene special_5_74 with tstmgr
 
-    "Lady Minna" "Actually, I would like to buy you a dinner as my apology~ I know a good French restaurant nearby~"
+    "明娜女士""实际上，我想请你吃顿饭作为我的道歉~我知道附近有一家不错的法国餐厅~"
 
 
 
     scene special_5_75 with tstmgr
 
-    e "Ho~ I love French food~"
+    e "Ho~ 我爱法式美食~"
 
 
 
-    "Lady Minna" "Can I take that as a yes?"
+    "明娜女士""我可以把这当作是同意吗？"
 
 
 
@@ -1137,7 +1137,7 @@ label Special_5:
 
     scene void with tstmgr
 
-    "Elisa and Lady Minna then left my house together~"
+    "伊莉莎和明娜女士随后一起离开了房子~"
 
 
 

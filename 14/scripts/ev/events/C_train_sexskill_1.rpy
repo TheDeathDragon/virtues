@@ -3,13 +3,13 @@ label C_train_sexskill_1:
     scene void with tstmgr
     play music happy
 
-    "A few days later, in the afternoon..."
+    "几天后的一个下午..."
 
 
 
     scene c_train_sexskill_1_1 with tstmgr
 
-    c "Ahh~~ yeah, that’s the spot. Keep rubbing it~~"
+    c "Ahh~~yeah,就是那个地方.继续~~"
 
 
 
@@ -23,37 +23,37 @@ label C_train_sexskill_1:
 
 
 
-    c "Are you tired of massaging me everyday?"
+    c "你厌倦了每天给我按摩吗?"
 
 
 
-    player "Hmmm... no, why do you ask?"
+    player "Hmmm...no,为什么这么问?"
 
 
 
-    c "Nothing, just trying to make conversation."
+    c "没什么,只是想聊聊天."
 
 
 
     scene c_train_sexskill_1_3 with tstmgr
 
-    c "I mean, this is not part of your job. I am just being selfish and treating you like a servant."
+    c "我是说,这不是你工作的一部分.我只是有点自私,把你当仆人."
 
 
 
-    player "Well, you could say that I enjoy serving the people I love."
+    player "Well,你认为我这是喜欢为我所爱的人服务."
 
 
 
     scene c_train_sexskill_1_4 with tstmgr
 
-    c "Yeah, yeah, whatever... ..."
+    c "Yeah,yeah,不管什么......"
 
 
 
     scene c_train_sexskill_1_5 with tstmgr
 
-    player "Besides, you wouldn’t ask that question if you could see what I am seeing right now..."
+    player "另外,如果你看到我现在看到的,你就不会问这个问题了..."
 
 
 
@@ -63,47 +63,47 @@ label C_train_sexskill_1:
 
 
 
-    c "Let me just ask, if I say that I can do something for you in return of your service, what do you want me to do?"
+    c "让我问问,如果我说我能为你做点什么作为对你服务的回报,你希望我做什么?"
 
 
 
-    player "Hmmmm... I don’t know. Anal sex, maybe?"
+    player "Hmmmm...我不知道.肛交,可能吗?"
 
 
 
     scene c_train_sexskill_1_7 with tstmgr
 
-    c "Your ability to disgust me never disappoints. Good job."
+    c "你恶心我的本事从没让我失望过,干得好."
 
 
 
-    player "Ha... ... I was just kidding."
+    player "Ha......我只是开玩笑."
 
 
 
     scene c_train_sexskill_1_8 with tstmgr
 
-    "I slowly moved my hands down to her breasts..."
+    "我慢慢地把手伸向她的胸..."
 
 
 
-    player "In fact, I would be extremely satisfied if you allow me to touch your breasts like this for a little while."
+    player "事实上,如果你允许我像这样抚摸你的胸一会儿,我会非常满意的."
 
 
 
     scene c_train_sexskill_1_9 with tstmgr
 
-    c "Breasts... hah... ..."
+    c "胸...hah......"
 
 
 
     scene c_train_sexskill_1_10 with tstmgr
 
-    c "Do you want to fuck my breasts?"
+    c "你想操我的胸吗?"
 
 
 
-    player "Fuck your...? You mean like a titjob?"
+    player "操你的...?你的意思是乳交?"
 
 
 
@@ -111,7 +111,7 @@ label C_train_sexskill_1:
 
 
 
-    player "I... ... yeah, I mean... that will be so... so awesome, but... ..."
+    player "我......yeah,我的意思是...那就太...太棒了,但......"
 
 
 
@@ -119,17 +119,17 @@ label C_train_sexskill_1:
 
 
 
-    c "Fine, take your penis out now."
+    c "fine,现在把你的小弟弟拿出来."
 
 
 
-    player "Wait, seriously? Right here? Right now?"
+    player "等等,认真的?你愿意在这儿做?"
 
 
 
     scene c_train_sexskill_1_11 with tstmgr
 
-    c "I could change my mind at any second, so hurry the fuck up, will you?"
+    c "我可能会后悔,所以你能快点吗?"
 
 
 
@@ -145,143 +145,143 @@ label C_train_sexskill_1:
 
     scene c_train_sexskill_1_12 with dissolve
 
-    c "I’m still waiting~~"
+    c "我在等着~~"
 
 
 
     scene c_train_sexskill_1_13 with tstmgr
 
-    player "Here you go... ..."
+    player "来了......"
 
 
 
-    c "Wow... ... I’ve never seen it this close..."
+    c "Wow......我从没这么近看过..."
 
 
 
-    c "It's just... ... huge... ..."
+    c "它......真大......"
 
 
 
-    c "Now let’s just... ..."
+    c "现在就让我......"
 
 
 
     scene c_train_sexskill_1_14 with tstmgr
 
-    c "Slip it in my cleavage, just like this~"
+    c "把它塞进我的乳沟里,就像这样~"
 
 
 
-    player "Ohhhhh~~~ This feels so good!"
+    player "Ohhhhh~~~这种感觉真好!"
 
 
 
-    c "Feeling good already? You are really easy to be satisfied."
+    c "感觉很好?你真的很容易满足."
 
 
 
     scene c_train_sexskill_1_15 with tstmgr
 
-    c "So how about this, huh? Can you hold on longer than a minute under the pressure of my breasts?"
+    c "那这怎么样?你能忍住超过1分钟吗?"
 
 
 
-    player "How did you... learn to do this?"
-
-
-
-    scene c_train_sexskill_1_16 with tstmgr
-
-    c "I don’t need to learn it. It’s something that you can naturally do when you have such a pair of tits like mine."
-
-
-
-    scene c_train_sexskill_1_17 with tstmgr
-
-    c "Oh, look, it has reached the bottom~"
-
-
-
-    player "Shit, shit, shit! This is so fucking amazing!"
+    player "你是怎么...学会做这个吗?"
 
 
 
     scene c_train_sexskill_1_16 with tstmgr
 
-    c "Humph~ it’s such an easy job~"
+    c "我不需要学.当你有一对这样的胸时,这是很自然的事情."
 
 
 
     scene c_train_sexskill_1_17 with tstmgr
 
-    c "How do you like my tits, little virgin?"
+    c "Oh,看,它已经到了底部~"
+
+
+
+    player "Shit,shit,shit!这太他妈妙了!"
 
 
 
     scene c_train_sexskill_1_16 with tstmgr
 
-    player "You can... conquer the whole world with those tits... ..."
+    c "Humph~这是一件很容易的工作~"
 
 
 
     scene c_train_sexskill_1_17 with tstmgr
 
-    c "Humph, now tell me how much you love my tits and I may let you cum in them."
+    c "你喜欢我的奶子吗,小处女?"
+
+
+
+    scene c_train_sexskill_1_16 with tstmgr
+
+    player "你可以...用奶子俘获整个世界......"
+
+
+
+    scene c_train_sexskill_1_17 with tstmgr
+
+    c "Humph,现在告诉我你有多爱我的奶子,也许我会让你射在它上面."
 
 
 
     scene c_train_sexskill_1_18 with tstmgr
 
-    "Shit, she has taken charge completely. There is nothing I can do besides obeying her wills."
+    "Shit,她已经完全掌控了局面.除了服从她,我无能为力."
 
 
 
-    player "Alright, alright, I’ll say it... ..."
+    player "Alright,alright,我......"
 
 
 
-    "Ahh... this is going to be embarrassing, but what else I can do? Her heavenly tits have my dick in a chokehold. As far as I'm concerned, that makes her more of my boss than her actual job position."
+    "Ahh...这会很尴尬,但我还能做什么呢?她现在是我鸡儿的主人,所以她是老大."
 
 
 
-    c "Very well~~"
+    c "非常好~~"
 
 
 
     scene void with tstmgr
 
-    "Suddenly, someone started to knock the door."
+    "突然,有人在敲门."
 
 
 
-    "Colleague A" "Eh, excuse me, Manager Shinyrost. There is a report that I think you need to see."
+    "同事A""Eh,打扰一下,新光经理.我想你需要看一份报告."
 
 
 
     scene c_train_sexskill_1_19 with tstmgr
 
-    c "Ahhhh? What? Now?"
+    c "Ahhhh?什么?现在?"
 
 
 
-    "Colleague A" "Eh... are you busy right now?"
+    "同事A""Eh...你现在忙吗?"
 
 
 
-    c "I... ... ... ..."
+    c "我............"
 
 
 
-    c "(Talking to me with a low voice) We have to stop this, now."
+    c "(低声跟我说话)我们得停下了,就现在."
 
 
 
-    player "Ehhh... sorry, but it is too late now..."
+    player "Ehhh...对不起,现在太晚了..."
 
 
 
-    c "What do you mean it’s too late. I need you to... ..."
+    c "你说太晚是什么意思?我需要你......"
 
 
 
@@ -293,11 +293,11 @@ label C_train_sexskill_1:
 
 
 
-    c "Shit! How could you!... ..."
+    c "Shit!你怎么能!......"
 
 
 
-    player "I... I can’t control it, sorry... ..."
+    player "我...抱歉,我控制不了......"
 
 
 
@@ -309,41 +309,41 @@ label C_train_sexskill_1:
 
 
 
-    c "Wait, wait, wait! Why is it still cumming?!"
+    c "等等,等等,等等!为什么还在射?!"
 
 
 
-    player "That’s... also something that I can’t control... ... sorry... ..."
+    player "这是...也是我无法控制的事情...抱歉......"
 
 
 
-    c "I swear I’m going to cut it off!!!"
+    c "我发誓我要把它剪掉!!!"
 
 
 
     scene void with tstmgr
 
-    "Colleague A" "... ... ... ..."
+    "同事A""... ... ... ..."
 
 
 
-    "Colleague A" "(It sounds like Manager Shinyrost is arguing with someone in the room...)"
+    "同事A""(听起来新光经理正在和房间里的某个人争论...)"
 
 
 
-    "The door suddenly opened. A man went outside and left in a hurry."
+    "门突然开了.一个男人走了出去,匆忙地离开了."
 
 
 
-    "Colleague A" "(Wait, was that [P]? So he was the one who was arguing with Manager Shinyrost...)"
+    "同事A""(等等,那是[P]?所以他就是那个和新光经理争论的人...)"
 
 
 
-    "Colleague A" "(Why did he leave so... hastily?)"
+    "同事A""(他为什么这样匆忙的...离开?)"
 
 
 
-    "Colleague A" "(Anyway, I should go inside the room and see Manager Shinyrost now.)"
+    "同事A""(不管怎么说,我现在应该进去见新光经理了.)"
 
 
 
@@ -351,33 +351,33 @@ label C_train_sexskill_1:
 
 
 
-    "Colleague A" "Hi, Manager Shinyrost. I think you need to see this re... ..."
+    "同事A""Hi,新光经理.我觉得你需要看看这......"
 
 
 
-    "Colleague A" "port... ... ... ..."
+    "同事A""个报告............"
 
 
 
     scene c_train_sexskill_1_22 with dissolve
 
-    "Colleague A" "(Holy fucking shit!)"
+    "同事A""(他妈的!)"
 
 
 
-    "Colleague A" "(The thing on her body... ... Is that... cum?)"
+    "同事A""(她身上的东西......是...精液吗?)"
 
 
 
-    c "Thanks, you can just leave the report here. I’ll read it after I... wash my face... ..."
+    c "谢谢,你可以把报告留在这里.等我...洗完脸...后就看......"
 
 
 
-    c "It is just milk, don't think too much..."
+    c "这只是牛奶,别想太多..."
 
 
 
-    "Colleague A" "(Shit... ... should I report this to someone?)"
+    "同事A""(Shit......我应该和别人说这个吗?)"
 
 
 

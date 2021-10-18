@@ -3,51 +3,51 @@ label F_love_2:
     scene f_love_2_1 with tstmgr
     play music happy
 
-    "Rachel and I were jogging in the park, but suddenly it began to rain."
+    "瑞秋和我正在公园里慢跑,突然下起雨来."
 
 
 
-    "The rain is not heavy, but still, it ruined our jogging."
+    "雨不大,但还是把我们的慢跑行程给毁了."
 
 
 
     scene f_love_2_2 with tstmgr
 
-    player "I guess this is it for today. We’d better go home before we get completely wet."
+    player "我想今天就到这里了.我们最好在全身湿透之前回家."
 
 
 
-    f "Yeah, you are right."
+    f "Yeah,你是对的."
 
 
 
-    player "Where are you living by the way?"
+    player "顺便问一下,你住在哪里?"
 
 
 
-    f "School apartment. Do you want to come over?"
+    f "学校的公寓.你想去吗?"
 
 
 
-    player "Eh? You are inviting me to your room?"
+    player "Eh?你邀请我去你的房间?"
 
 
 
     scene f_love_2_3 with tstmgr
 
-    f "Yep. What’s the matter? You are my friend."
+    f "Yep.有什么问题吗?你是我的朋友."
 
 
 
-    player "Nothing, nothing at all. I’d love to do that. It is always a pleasure to visit a girl’s room."
+    player "没什么,没什么.我很乐意.参观女孩子的房间总是一件愉快的事."
 
 
 
-    f "You may be disappointed. It’s just a regular school apartment room. I didn’t do much decoration."
+    f "你可能会失望.它只是一个普通的学校公寓房间.我没有做太多的装饰."
 
 
 
-    player "Stop the nonsense, just lead the way."
+    player "别骗我了,带路吧."
 
 
 
@@ -57,7 +57,7 @@ label F_love_2:
 
 
 
-    "A little while later."
+    "一会儿后."
 
 
 
@@ -67,35 +67,35 @@ label F_love_2:
 
 
 
-    f "Well... this is it, my room. What do you think?"
+    f "Well...这就是我的房间.你觉得怎么样?"
 
 
 
-    "Hmm... she was telling the truth. It’s just a regular school apartment room, nothing special."
+    "Hmm...她说的是实话.只是一间普通的学校公寓,没什么特别的."
 
 
 
-    "But the carpet actually grabbed my attention."
+    "但地毯确实吸引了我的注意力."
 
 
 
     scene f_love_2_5 with tstmgr
 
-    player "This room looks great. But why do you put such a big carpet here?"
+    player "这个房间看起来很棒.但是你为什么要在这里铺这么大的地毯呢?"
 
 
 
-    player "Do you practice dance or yoga on it?"
+    player "你在上面练舞蹈或瑜伽吗?"
 
 
 
-    f "You are right. I do indoor sports on this carpet all the time."
+    f "你说对.我一直在这块地毯上做室内运动."
 
 
 
     scene f_love_2_6 with tstmgr
 
-    f "Ah, forget about it. I need to change clothes now. The rain just got me really wet."
+    f "Ah,不说这个了.我现在需要换衣服.这场雨把我淋湿了."
 
 
 
@@ -107,29 +107,29 @@ label F_love_2:
 
     scene f_love_2_8 with tstmgr
 
-    f "Ah... feels better now..."
+    f "Ah...现在感觉好多了..."
 
 
 
-    "She went aside and took her singlet off like nobody was watching."
+    "她走到一边,把背心脱了下来,仿佛当一旁没人似的."
 
 
 
-    player "What the hell? What are you doing?"
+    player "什么鬼?你在干什么?"
 
 
 
     scene f_love_2_9 with tstmgr
 
-    f "Emm? I’m changing clothes, can’t you see?"
+    f "Emm?我在换衣服,你没看见吗?"
 
 
 
-    player "Well I know what you are doing, but I don’t know why you are doing it in front of me."
+    player "我知道你在做什么,但我不知道你为什么要在我面前换."
 
 
 
-    f "What do you m... ..."
+    f "你什么意......"
 
 
 
@@ -139,49 +139,49 @@ label F_love_2:
 
 
 
-    f "Is this inappropriate to do in front of boys?"
+    f "在男生面前这样做不合适吗?"
 
 
 
-    player "Of course it is, for God’s sake."
+    player "天哪,当然不合适."
 
 
 
-    f "Sorry then... I wasn’t aware of it. I always change my clothes in front of my teammates."
+    f "抱歉...我没有意识到这个问题.我总是在队友面前换衣服."
 
 
 
-    player "What the hell? Is there any boy in your track team?"
+    player "什么?你家里有男孩吗?"
 
 
 
-    f "Eh, no."
+    f "Eh,没有."
 
 
 
-    player "Okay, now at least it starts to make a little sense."
+    player "Okay,有意思..."
 
 
 
-    player "Anyway, just... don’t do such things in front of a boy the next time."
+    player "无论如何,只是...下次不要在男孩面前做这种事了."
 
 
 
     scene f_love_2_11 with tstmgr
 
-    f "But what’s the big deal? I thought We are friends."
+    f "但这有什么大不了的?我以为我们是朋友."
 
 
 
-    player "It doesn’t matter. You just can’t... ... ... ..."
+    player "不是这个问题.你不能............"
 
 
 
-    "Wait a moment. What am I doing right now?"
+    "等会儿.我现在在做什么?"
 
 
 
-    "Why do I bother stopping her? This girl is willing to let me see her nude body. This is not something that you can expect to happen everyday. I think I should be happy, not worrying."
+    "我为什么要阻止她?这个女孩愿意让我看她的裸体.这不是每天都能发生的事情.我想我应该感到高兴,而不是担心."
 
 
 
@@ -189,21 +189,21 @@ label F_love_2:
 
 
 
-    player "Well... On the second thought, maybe you are right."
+    player "再想想,也许你是对的."
 
 
 
-    f "Ha, glad to see you have changed your mind."
+    f "Ha,很高兴你改变了主意."
 
 
 
-    player "And... you really got an amazing body shape."
+    player "还有...你的身材真棒."
 
 
 
     scene f_love_2_12 with tstmgr
 
-    f "Oh, thanks... ..."
+    f "Oh,谢谢......"
 
 
 
@@ -211,19 +211,19 @@ label F_love_2:
 
 
 
-    f "Am I sexy?"
+    f "我性感吗?"
 
 
 
-    player "I... I think so, yeah."
+    player "我...我想是这样的,yeah."
 
 
 
-    f "Thank you for saying that. Now you should let me see your body, too, otherwise it is not fair for me. Come on, hurry up."
+    f "谢谢你这么说.现在你也应该让我看看你的身体,否则对我不公平.快点,快点."
 
 
 
-    player "What are you talking about?"
+    player "你在说什么?"
 
 
 
@@ -231,7 +231,7 @@ label F_love_2:
 
 
 
-    player "You know what, nevermind."
+    player "你知道吗,算了.看就看."
 
 
 
@@ -241,31 +241,31 @@ label F_love_2:
 
 
 
-    "A little while later."
+    "一会儿后."
 
 
 
     scene f_love_2_13 with tstmgr
 
-    player "Well, what do you think?"
+    player "Well,你觉得如何?"
 
 
 
-    f "Wow, you really got some muscles in your body."
+    f "Wow,你还有肌肉."
 
 
 
     scene f_love_2_14 with tstmgr
 
-    f "I’d like to feel it myself."
+    f "我想亲自感受一下."
 
 
 
-    "She gently put her hands on my body, and used fingers to brush over my skin. Oh man... this feels good."
+    "她轻轻地把她的手放在我的身上,用手指轻拂我的皮肤.天啊!这感觉真好."
 
 
 
-    f "Uh-huh... pretty tough. You must have worked out a lot recently."
+    f "Uh-huh...真硬.你最近一定勤加锻炼了."
 
 
 
@@ -273,15 +273,15 @@ label F_love_2:
 
 
 
-    "Is she flirting with me right now or is she truly taking all this as a normal activity between friends?"
+    "她现在是在跟我调情呢,还是真的把这一切当成朋友间的正常行为?"
 
 
 
-    "I don’t know. But I do know that I can’t just stand here and do nothing to this nude ebony girl. Otherwise I will be pathetic."
+    "我不知道.但我知道我不能只是站在这里,对这个裸体的女孩无动于衷.否则我也太可悲了."
 
 
 
-    "So... ... ... ..."
+    "所以............"
 
 
 
@@ -291,59 +291,59 @@ label F_love_2:
 
 
 
-    f "What are you doing?"
+    f "你在做什么?"
 
 
 
     scene f_love_2_16 with tstmgr
 
-    player "I’m feeling your muscles, too."
+    player "我也在感受你的肌肉."
 
 
 
-    f "But... there is no muscle in my breasts."
+    f "但是...我的胸没有肌肉."
 
 
 
-    player "How could you be so sure?... ..."
+    player "你怎么能这么肯定?......"
 
 
 
     scene f_love_2_17 with tstmgr
 
-    f "Wait... the way you touch... is strange..."
+    f "等等...你摸的方式...有点奇怪..."
 
 
 
-    player "What’s the big deal? I thought we are friends."
+    player "有什么大不了的?我以为我们是朋友."
 
 
 
-    f "Yeah, but... ..."
+    f "Yeah,但是......"
 
 
 
-    f "No one has ever touched me like this before..."
+    f "从来没有人这样碰过我..."
 
 
 
     scene f_love_2_18 with tstmgr
 
-    f "Owww... this is strange... so so so strange..."
+    f "Owww...这太奇怪了...感觉太奇怪了..."
 
 
 
-    f "What are you doing exactly?!?!"
+    f "你到底在干什么?!?!"
 
 
 
-    player "Do you feel comfortable?"
+    player "你觉得舒服吗?"
 
 
 
     scene f_love_2_19 with tstmgr
 
-    f "Comfortable?... ..."
+    f "舒服?......"
 
 
 
@@ -353,31 +353,31 @@ label F_love_2:
 
     scene f_love_2_20 with tstmgr
 
-    f "I... I guess so... ... It’s... strange but somehow comfortable."
+    f "我...我想是这样的...这真是...既奇怪又舒服."
 
 
 
-    "*Knock, knock, knock*..."
+    "*咚,咚,咚*..."
 
 
 
-    "Somebody is knocking the door."
+    "有人在敲门."
 
 
 
     scene f_love_2_21 with tstmgr
 
-    "Girl’s voice" "Rachel, we need to go now. The training lesson is about to start."
+    "女孩的声音""瑞秋,我们得走了.训练课就要开始了."
 
 
 
     scene f_love_2_17 with tstmgr
 
-    f "Oh, crap. I totally forgot that."
+    f "Oh.我完全忘记了."
 
 
 
-    f "(Speaking loudly) I’m coming right now!"
+    f "(大声讲话)我马上就来!"
 
 
 
@@ -391,7 +391,7 @@ label F_love_2:
 
 
 
-    f "I think... you should put your hands down now."
+    f "我认为...你现在应该把手放下来."
 
 
 
@@ -405,21 +405,21 @@ label F_love_2:
 
     scene f_love_2_23 with tstmgr
 
-    player "Sorry, I went too far. I don’t know what happened to me..."
+    player "对不起,我太过分了.我不知道我怎么了..."
 
 
 
-    f "What are you talking about?"
+    f "你在说什么?"
 
 
 
     scene f_love_2_24 with tstmgr
 
-    f "I really enjoyed your touching..."
+    f "我真的很喜欢你的抚摸..."
 
 
 
-    f "I think... we should do this more often... so we can be closer friends, right?"
+    f "我认为...我们应该经常这样做...这样我们可以成为更亲密的朋友?"
 
 
 
@@ -427,15 +427,15 @@ label F_love_2:
 
 
 
-    player "Yeah, you are definitely right."
+    player "Yeah,你说的对."
 
 
 
-    f "Until the next time then."
+    f "下次见."
 
 
 
-    player "... ...Until the next time."
+    player "......下次见."
 
 
 

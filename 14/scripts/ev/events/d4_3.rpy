@@ -1,38 +1,38 @@
 label d4_3:
 
-    narrator "I really had messed this thing up."
+    narrator "我真的把事情搞砸了."
 
-    narrator "Ah... That hangover... My headache..."
+    narrator "Ah...宿醉...头痛..."
 
-    narrator "And I still have one class to attend this afternoon."
+    narrator "今天下午我还有一节课要上."
 
     narrator "... ... ... ..."
 
     scene class_background with tstmgr
 
-    narrator "Later, in the class..."
+    narrator "之后,在课堂上..."
 
     player "Zzz... Zzz ..."
 
     scene b_class_frown with tstmgr
 
-    b "(Whispering) [P.name], [P.name]."
+    b "(低语)[P.name],[P.name]."
 
     player "Hmm..."
 
-    player "(Suddenly awoke) What?"
+    player "(突然醒了)什么?"
 
-    b "(Whispering) Are you alright, [P.name]? You look like hell."
+    b "(低语)你还好吗,[P.name]?你气色很差."
 
-    player "Ah, me? I'm ok, I'm ok."
+    player "Ah,我?我没事,我没事."
 
-    b "You must have drunk too much wine last night. I told you not to..."
+    b "你昨晚一定喝得太多了.我告诉过你不要..."
 
-    "Professor Keith" "Please stay quiet, you two lovebirds."
+    "基斯教授""请安静,你们这对情侣."
 
     scene b_class_awkward with tstmgr
 
-    b " I'm not... Sorry, Professor Keith."
+    b "我们不是...对不起,基斯教授."
 
     scene class_background with tstmgr
 
@@ -40,53 +40,53 @@ label d4_3:
 
     narrator "... ... ... ..."
 
-    narrator "Sometime after class..."
+    narrator "下课后的某个时间..."
 
     scene b_class_frown with tstmgr
 
-    b "Wake up, [P.name], wake up."
+    b "起来了,[P.name],醒一醒."
 
     scene b_class_awkward with tstmgr
 
-    b "ah...... You smell like a rotten egg."
+    b "ah......你闻起来像个臭鸡蛋."
 
-    player "(suddenly awoke) What? What happened?"
+    player "(突然醒了)什么?发生什么事了?"
 
-    b "You even snored, for God's sake."
+    b "你还打呼噜呢."
 
-    b "Professor Keith was really pissed. I suggest you to meet him in his office and apologize."
+    b "基斯教授真的很生气.我建议你去他的办公室见他,并向他道歉."
 
-    player "Ah, damn it. Thanks for letting me know, Sen. I will go see him in his office."
+    player "Ah,该死的.谢谢你告诉我,森,我现在就去他办公室见他."
 
     scene b_class_normal with tstmgr
 
-    b "So... What happened to you last night?"
+    b "所以...你昨晚怎么了?"
 
-    player "Last night I... Nevermind, it is a long story."
+    player "昨晚我...算了,说来话长."
 
-    b "You really should not go to nightclubs when you have class the next day."
+    b "你真的不应该去夜店,当你第二天还有课的时候."
 
-    player "You are right, Sen. I won't go to that kind of place again unless you are with me."
+    player "你说得对,森,除非你和我在一起,否则我不会再去那种地方了."
 
     scene b_class_surprise with tstmgr
 
-    b "Ah? Me?..."
+    b "Ah?我?..."
 
     scene b_class_normal with tstmgr
 
-    b "Not a chance. I would never step into a nightclub."
+    b "不可能的.我永远不会去夜店."
 
-    b "But, if you want me to help you review today's lesson, I am happy to do that."
+    b "但是,如果你想让我帮你复习今天的课,我很乐意."
 
-    player "You are great, Sen. How about tonight? I'll buy you dinner."
+    player "你真好,森,今晚怎么样?我请你吃饭."
 
-    b "Not today. You look like a mess. I think you'd better go home, take a shower and have a good rest."
+    b "今天不行.[P.name].你看起来一团糟.我想你最好回家洗个澡,好好休息一下."
 
-    player "Fine... I think you are right."
+    player "好...我认为你是对的."
 
-    player "I will see you tomorrow on campus."
+    player "明天在校园里见."
 
-    b "Uh huh, see you tomorrow."
+    b "Uhhuh,明天见."
 
     narrator "... ... ... ..."
 

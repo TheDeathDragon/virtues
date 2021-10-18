@@ -10,25 +10,25 @@ label C_daily_17:
 
     $ flashlight()
 
-    player "Theo? Is that you? What’s going on with your hair??"
+    player "狄奥? 这是你吗?你的头发怎么了??"
 
 
 
     scene c_dailly17_2 with tstmgr
 
-    c "Just trying on this wig thing..."
+    c "只是在试戴这个假发..."
 
 
 
     scene c_dailly17_3 with tstmgr
 
-    c "Do you like it?"
+    c "你喜欢它吗?"
 
 
 
     scene c_dailly17_4 with tstmgr
 
-    player "I remember that you were in this haircut back in highschool, right?"
+    player "我记得你在高中时是这个发型，对吗?"
 
 
 
@@ -38,11 +38,11 @@ label C_daily_17:
 
     scene c_dailly17_5 with tstmgr
 
-    c "I just... kind of miss my highschool life all of a sudden."
+    c "我只是......突然有点想念我的高中生活了."
 
 
 
-    player "Highschool, huh... ..."
+    player "高校，嗯... ..."
 
 
 
@@ -52,63 +52,63 @@ label C_daily_17:
 
     scene c_dailly17_6 with tstmgr
 
-    player "Why didn’t we become a real couple back then? I remembered that we were pretty close."
+    player "为什么我们当年没有成为真正的男女朋友?我记得我们很亲密."
 
 
 
     scene c_dailly17_7 with tstmgr
 
-    c "Because you were an idiot."
+    c "因为你是个白痴."
 
 
 
     scene c_dailly17_9 with tstmgr
 
-    player "Yeah, I guess so. I don’t even know what I was thinking. I mean, why haven’t I ever confessed my love to you in high school? I was so fond of you at that time."
+    player "是的，我想是的.我甚至不知道我在想什么.我是说，为什么我在高中时没有向你表白过?那时候我是那么喜欢你."
 
 
 
     scene c_dailly17_10 with tstmgr
 
-    c "Huh? You were?"
+    c "嗯?真的?"
 
 
 
     scene c_dailly17_11 with tstmgr
 
-    player "Yeah, I always sat behind you in the class, remember?"
+    player "是的，我在班上总是坐在你后面，记得吗?"
 
 
 
-    player "And I looked forward to go to class everyday because I could smell the good scent on your hair as greedily as I could and you could never notice."
+    player "我每天都期待着去上课，因为我可以贪婪地闻到你头发上的气息，而你永远不会注意到."
 
 
 
     scene c_dailly17_12 with tstmgr
 
-    c "That sounds... creepy... ..."
+    c "这听起来......令人毛骨悚然... ..."
 
 
 
     scene c_dailly17_13 with tstmgr
 
-    player "Just like this~~"
+    player "就像这样~~"
 
 
 
-    player "*Sniffing, sniffing* ... ... ... ..."
+    player "*嗅嗅，嗅嗅* ... ... ... ..."
 
 
 
     scene c_dailly17_14 with tstmgr
 
-    player "Ewww... ... Not this smell... ..."
+    player "Ewww... ... 不是这个味道... ..."
 
 
 
     scene c_dailly17_15 with tstmgr
 
-    c "Of course its not... ... This is just a wig, dummy."
+    c "当然不是......这只是一个假发，傻瓜."
 
 
 
@@ -118,29 +118,29 @@ label C_daily_17:
 
     scene c_dailly17_16 with tstmgr
 
-    c "You know, when I say ‘I miss my highschool life’, I mean... I miss the time with you in the school."
+    c "你知道，当我说 我怀念我的高中生活 时，我是指 我怀念与你在学校的时光."
 
 
 
     scene c_dailly17_17 with tstmgr
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
-    player "So did you like me back then?"
+    player "那么你那时喜欢我吗?"
 
 
 
     scene c_dailly17_18 with tstmgr
 
-    c "Does it even matter at this point?"
+    c "在这一点上有什么关系吗?"
 
 
 
     scene c_dailly17_19 with tstmgr
 
-    player "Come on, Theo, we had a deal. Open your heart, be honest to yourself~"
+    player "来吧，狄奥，我们说好的.敞开你的心扉，对自己诚实~"
 
 
 
@@ -150,11 +150,11 @@ label C_daily_17:
 
     scene c_dailly17_20 with tstmgr
 
-    c "Of course I liked you... ..."
+    c "我当然喜欢你... ..."
 
 
 
-    player "Oh, babe, that’s so good to know!~"
+    player "哦，宝贝，知道这个消息真好!~"
 
 
 
@@ -164,7 +164,7 @@ label C_daily_17:
 
 
 
-    player "Wait a second, so both of us actually liked each other back then but somehow we still didn’t be together?"
+    player "等一下，所以我们两个人当时其实都喜欢对方，但不知为何我们还是没有在一起?"
 
 
 
@@ -174,7 +174,7 @@ label C_daily_17:
 
     scene c_dailly17_23 with tstmgr
 
-    player "Sounds like we were all idiots~"
+    player "听起来我们都是傻瓜~"
 
 
 
@@ -182,7 +182,7 @@ label C_daily_17:
 
 
 
-    c "Yeah, maybe we really were... ..."
+    c "Yeah, 或许我们真的是... ..."
 
 
 

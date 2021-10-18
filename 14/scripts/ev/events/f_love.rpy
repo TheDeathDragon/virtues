@@ -3,107 +3,107 @@ label F_love_1:
     scene park_woodpath_day_background with tstmgr
     play music happy
 
-    narrator "I met with Rachel in the park again."
+    narrator "我和瑞秋又在公园见面了."
 
     scene f_wood_smile2 with tstmgr
 
-    f "Hi, [P]. It's good to see you."
+    f "Hi,[P].很高兴见到你."
 
-    player "Me, too, Rachel. "
+    player "我也是,瑞秋."
 
     scene f_wood_smile with tstmgr
 
-    f "I see that you come here quite often these days."
+    f "我看到你这些天经常来这里."
 
-    player "Yes, I like exercising here. The air is fresh, and there are not too many people nearby. "
+    player "是的,我喜欢在这里锻炼.空气清新,附近人也不多."
 
-    f "Yeah, that's also what I want to say. This place is great."
+    f "Yeah,这也是我想说的.这个地方真棒."
 
-    f "So... How does your exercise go?"
+    f "所以...你的锻炼怎么样?"
 
-    player "Well, it seems good. I can feel that I am getting stronger everyday."
+    player "Well,看起来很好.我可以感觉到我每天都在变得更强壮."
 
-    f "Sounds great. "
+    f "听起来不错."
 
     scene f_wood_wink with tstmgr
 
-    f "Okay, so, I'm gonna run around the park for 3 times. See you later."
+    f "Okay,我要绕着公园跑三圈.待会见."
 
-    player "Wait, wait."
+    player "等等,等等."
 
     scene f_wood_smile with tstmgr
 
-    f "Uh? Anything else?"
+    f "Uh?还有事吗?"
 
-    player "I was thinking... Maybe we can just take a walk in the park together. You know, this place is beautiful, and I think we all need to relax for a little bit."
+    player "我在想...也许我们可以一起去公园散散步.你知道,这地方很漂亮,我想我们都需要放松一下."
 
     scene f_wood_surprise with tstmgr
 
-    f "Oh... Eh... no one has asked me that before..."
+    f "Oh...Eh...以前从没人和我说过这个..."
 
     scene f_wood_smile with tstmgr
 
-    f "Okay... Let's... have a walk together."
+    f "Okay...让我们...一起散散步."
 
     scene park_woodpath_day_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "We started to walk in the park. "
+    narrator "我们开始在公园里散步."
 
-    player "You know, I haven't met any girl like you in my life."
+    player "你知道,我这辈子还没遇到过像你这样的女孩."
 
     scene f_wood_normal with tstmgr
 
-    f "What do you mean?"
+    f "什么意思?"
 
-    player "I mean, you are beautiful and also strong. Most of girls could only achieve one of these two characters."
+    player "我是说,你很漂亮,也很强壮.大多数女孩只能扮演这两个角色中的一个."
 
     scene f_wood_surprise with tstmgr
 
-    f "Really? You really think I am beautiful?"
+    f "真的吗?你真的认为我很漂亮?"
 
-    player "Yeah, of course."
+    player "Yeah,当然."
 
-    player "Why do you look surprised?"
+    player "你为什么看起来很惊讶?"
 
     scene f_wood_weird with tstmgr
 
-    f "Because... no one has said that to me, not even my parents."
+    f "因为...没有人这样对我说过,即使是我的父母."
 
-    f "My parents were both athletes, and they want me to be one, too. So they started to train me ever since I was able to walk. "
+    f "我的父母都是运动员,他们也希望我成为运动员.从我学会走路开始,他们就开始训练我."
 
-    f "They treat me like I am a boy, and so do my friends. "
+    f "他们对待我就像对待男孩那样,我的朋友也是."
 
-    f "So, yeah, no one has ever said about \"you are pretty\" thing to me before you."
+    f "所以,yeah,从来没人对我说过\"你很漂亮\"这样的话."
 
     scene f_wood_angry with tstmgr
 
-    f "Wait... you are not joking me, aren't you?"
+    f "等等...你不是在跟我开玩笑吧?"
 
-    player "No, definitely not. You are 100%% beautiful, and sexy I would say."
+    player "不,绝对没有.你是100%%的美丽和性感,我觉得."
 
     scene f_wood_surprise with tstmgr
 
-    f "Wow, \"sexy\"? Are you serious?"
+    f "Wow,\"性感\"?认真的吗?"
 
     f "... ... ... ..."
 
     scene f_wood_smile with tstmgr
 
-    f "Thanks..."
+    f "谢谢..."
 
     scene f_wood_smile2 with tstmgr
 
-    f "You know... You are interesting, and crazy as well. I think we should hang out more."
+    f "你知道的...你很有趣,也很疯狂.我想我们应该多出去逛逛."
 
-    player "Yeah, I would love to."
+    player "Yeah,我很乐意."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Rachel and I spent some time together in the park."
+    narrator "瑞秋和我在公园里呆了一段时间."
 
     narrator "... ... ... ..."
 

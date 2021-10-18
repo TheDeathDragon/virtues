@@ -3,27 +3,27 @@ label F_love_7:
     scene void with tstmgr
     play music happy
 
-    "Later this afternoon, in the bookstore..."
+    "今天下午晚些时候,在书店..."
 
 
 
-    "*The following plot is from Rachel’s perspective.*"
+    "*下面的情节是瑞秋的视角.*"
 
 
 
     scene f_love_7_1 with dissolve
 
-    g "Hello there, are you looking for something?"
+    g "Hello,你在找什么吗?"
 
 
 
     scene f_love_7_2 with tstmgr
 
-    f "Yes, I... I want to know if you have any... ..."
+    f "Yes,我...我想知道你有没有......"
 
 
 
-    f "Any... ... ... ..."
+    f "一些............"
 
 
 
@@ -35,25 +35,25 @@ label F_love_7:
 
     scene f_love_7_4 with tstmgr
 
-    f "Any... porns?"
+    f "一些...H书?"
 
 
 
-    g "Porns?"
+    g "H书?"
 
 
 
     scene f_love_7_5 with tstmgr
 
-    g "Oh, I see~"
+    g "Oh,我明白了~"
 
 
 
-    g "Don’t be shy, sister, it’s totally normal for a girl to have interest in pornography~"
+    g "别害羞,姐妹,女孩子对色情作品感兴趣是很正常的~"
 
 
 
-    g "But... sorry, we don’t sell any porn-related products here."
+    g "但是...对不起,我们这里不卖色情产品."
 
 
 
@@ -65,11 +65,11 @@ label F_love_7:
 
     scene f_love_7_7 with tstmgr
 
-    g "It’s kinda weird to look for such things in an actual shop these days anyway. People all watch free porn videos online now~"
+    g "不管怎么说,现在在实体店买这样的东西有点奇怪.现在人们都在网上看免费的色情视频~"
 
 
 
-    f "Free porns online?"
+    f "在线色情视频?"
 
 
 
@@ -79,61 +79,61 @@ label F_love_7:
 
 
 
-    g "You never... did that?"
+    g "你从没...看过?"
 
 
 
-    f "*Shaking head* ... ... ... ..."
+    f "*摇头*............"
 
 
 
     scene f_love_7_6 with tstmgr
 
-    g "Oh, okay, then... ... do you want me to recommend some great websites for you?"
+    g "Oh,okay,那么...你想让我给你推荐一些很棒的网站吗?"
 
 
 
     scene f_love_7_9 with tstmgr
 
-    f "Really? That will be great! Thank you, sis~"
+    f "真的吗?那太棒了!谢谢你,姐妹~"
 
 
 
-    "Uno then wrote several websites down on a piece of paper and gave it to Rachel."
+    "乌诺把几个网站写在一张纸上,交给了瑞秋."
 
 
 
     scene f_love_7_10 with tstmgr
 
-    f "Yeah! Thank you so much! It’s so nice to meet you, sis! My name is Rachel!"
+    f "Yeah!非常感谢!很高兴见到你,姐妹!我叫瑞秋!"
 
 
 
-    g "Oh, hi, I’m Uno~"
+    g "Oh,hi,我叫乌诺~"
 
 
 
-    f "It’s so lucky for me to meet a porn master like you here!"
+    f "能在这里遇到你这样的色情大师真是太幸运了!"
 
 
 
     scene f_love_7_11 with tstmgr
 
-    g "Eh... I... ..."
+    g "Eh...我......"
 
 
 
     scene f_love_7_10 with tstmgr
 
-    g "(Porn master? I like that name, ha~)"
+    g "(色情大师吗?我喜欢这个称呼,ha~)"
 
 
 
-    f "See you next time, bye-bye!!~"
+    f "下次见,bye-bye!!~"
 
 
 
-    g "See you... ..."
+    g "下次见......"
 
 
 
@@ -143,13 +143,13 @@ label F_love_7:
 
 
 
-    "Later, in Rachel’s room..."
+    "随后,在瑞秋的房间..."
 
 
 
     scene f_love_6_13 with dissolve
 
-    f "Okay, let’s do it! Just type this website in the browser and I will enter into a whole new world! The world of... sex!"
+    f "Okay,让我们开始吧!只要在浏览器里输入这个网站,我就会进入一个全新的世界!性...的世界!"
 
 
 
@@ -159,17 +159,17 @@ label F_love_7:
 
 
 
-    f "But it doesn’t feel right to use Senning’s laptop to do such a thing... ..."
+    f "但用森柠的笔记本电脑做这样的事情感觉是不对的......"
 
 
 
     scene f_love_6_17 with tstmgr
 
-    f "Sorry, Senning, please forgive me on this..."
+    f "对不起,森柠,请原谅我..."
 
 
 
-    "Rachel typed the website that Uno gave her in the browser and clicked Enter button after some hesitation."
+    "瑞秋在浏览器里输入了乌诺给她的网站,犹豫了一会儿,点击了回车键."
 
 
 
@@ -181,7 +181,7 @@ label F_love_7:
 
     $ flashlight()
 
-    f "Ahhhhhhh!!!! Naked men and women are everywhere!!!"
+    f "Ahhhhhhh!!!!到处都是裸体的男人和女人!!!"
 
 
 
@@ -195,11 +195,11 @@ label F_love_7:
 
 
 
-    f "This is really a whole new world to me..."
+    f "这对我来说真是一个全新的世界..."
 
 
 
-    f "Look at these videos, oh... these girls look so confident and so happy."
+    f "看看这些视频,哦...这些女孩看起来很自信很开心."
 
 
 
@@ -209,63 +209,63 @@ label F_love_7:
 
 
 
-    f "Wait, the cover girl of this toplist video, why do I feel like I have seen her before?"
+    f "等等,这个排行榜视频的封面女郎,为什么我觉得我以前见过她?"
 
 
 
     scene f_love_7_15 with tstmgr
 
-    f "*Clicking on the video* ... ... ... ..."
+    f "*点击视频*............"
 
 
 
     scene void with tstmgr
 
-    "And the video began playing... ..."
+    "视频开始播放......"
 
 
 
     scene f_love_7_16 with dissolve
 
-    g "Master, there is no need to rush. I’m not going anywhere~"
+    g "主人,不用着急.我哪儿也不去~"
 
 
 
-    player "Why do I feel like you are the one who is rushing? Look how wet your pussy is right now~"
+    player "为什么我觉得你才是那个着急的人?看看你的小穴现在有多湿~"
 
 
 
-    g "I’m... not... ..."
+    g "我...没有......"
 
 
 
     scene f_love_7_17 with tstmgr
 
-    g "Kiss~~"
+    g "吻~~"
 
 
 
     scene f_love_7_18 with tstmgr
 
-    g "*Kissing* Wummmmm~~~ mummm~~~ Master... ... love... ..."
+    g "*亲吻*Wummmmm~~~mummm~~~主人......爱......"
 
 
 
     scene f_love_7_15 with tstmgr
 
-    f "Is that [P]? That is definitely [P], right?"
+    f "这是[P]吗?这肯定是[P],没错?"
 
 
 
-    f "And the girl... ... looks like that porn master from the bookstore!"
+    f "这个女孩...看起来像书店里的色情大师!"
 
 
 
-    g "Master’s huge dick... ... Ohhhhhhh~~~~~~"
+    g "主人的巨大鸡巴......Ohhhhhhh~~~~~~"
 
 
 
-    f "Wow... ... They were really having so much fun. Just look at her happy face... ..."
+    f "Wow......他们真的玩得很开心.看看她那愉悦的脸......"
 
 
 
@@ -284,55 +284,55 @@ label F_love_7:
 
 
 
-    g "Oh... sorry, I should... call you master during video~"
+    g "Oh...对不起,我应该...在视频中叫你主人~"
 
 
 
-    player "Don’t worry about it. It doesn’t matter at all..."
+    player "别担心.不要紧..."
 
 
 
-    g "Master~ master~ Fuck... fuck Uno more with your huge dick~"
+    g "主人~主人~操...用你的大鸡巴狠狠的操乌诺~"
 
 
 
-    g "Uno loves it... loves it so much~"
+    g "乌诺爱死它了...很爱很爱~"
 
 
 
-    player "Ahhh... Uno, I wish I can see your horny face right now..."
+    player "Ahhh...乌诺,我希望我现在能看到你饥渴的脸..."
 
 
 
-    g "Uno... can’t see your face, either~ But Uno can imagine it in my mind~"
+    g "乌诺...也看不到你的脸~但是乌诺可以在脑海里想象~"
 
 
 
-    g "Uno’s master’s... ... handsome sexy face~"
+    g "乌诺的主人...英俊性感的脸~"
 
 
 
-    player "Ohhhh~~ My lovely Uno... ..."
+    player "Ohhhh~~我可爱的乌诺......"
 
 
 
-    player "Can I cum inside you today?"
+    player "我今天可以内射吗?"
 
 
 
-    g "Yes, it’s... safe period~"
+    g "Yes,今天是...安全期~"
 
 
 
-    g "Oh, no, I mean, yes, master can do whatever he wants to Uno~"
+    g "Oh,no,我是说,yes,主人想做什么就做什么~"
 
 
 
-    player "You don't really need to change your tone intentionally... ..."
+    player "你真的不需要刻意改变你的语气......"
 
 
 
-    player "I... I’m cumming!"
+    player "我...我要射了!"
 
 
 
@@ -345,37 +345,37 @@ label F_love_7:
 
 
 
-    g "Master’s seed, yes, yes~~~~~"
+    g "主人的种子,yes,yes~~~~~"
 
 
 
     scene f_love_7_21 with tstmgr
 
-    player "Ohhhhhh... ... Uno, you are just... amazing... ..."
+    player "Ohhhhhh......乌诺,你太...妙不可言了......"
 
 
 
     scene f_love_7_22 with tstmgr
 
-    g "Your dick... is still so hard. Do you want to start another round?"
+    g "你的鸡巴...还是那么硬.你想再来一轮吗?"
 
 
 
-    player "That’s the plan... ..."
+    player "正有此意......"
 
 
 
-    g "Okay... but we should make a new video for that~"
+    g "Okay...但我们应该为此制作一个新视频~"
 
 
 
     scene f_love_7_23 with tstmgr
 
-    g "Hi there, fans, I’m going to stop recording now. If you wish to know more about what happens next, please wait for our next video which will come out next week~"
+    g "Hi,粉丝们,今天就到这儿了.如果你想知道接下来会发生什么,请等待我们下周的视频~"
 
 
 
-    g "Don’t forget to... subscribe... ... or send us a tip if you find this video useful~"
+    g "别忘了...订阅...或者如果你觉得这个视频还不错,给我们投币充电~"
 
 
 
@@ -385,7 +385,7 @@ label F_love_7:
 
 
 
-    "And that was the end of the video..."
+    "这就是视频的结尾..."
 
 
 
@@ -399,7 +399,7 @@ label F_love_7:
 
 
 
-    f "Why do all the girls I met these days have an intimate relationship with [P]?"
+    f "为什么这些天我遇到的所有女孩都和[P]有亲密关系??"
 
 
 
@@ -409,7 +409,7 @@ label F_love_7:
 
 
 
-    f "And they all seemed so happy during the sex with him... ..."
+    f "和他做爱的时候,她们看起来都很开心......"
 
 
 
@@ -427,17 +427,17 @@ label F_love_7:
 
     scene f_love_7_27 with tstmgr
 
-    f "Oh dear, I think I’ll never get those images out of my head... ..."
+    f "Oh亲爱的,我想我永远不会忘记那些画面......"
 
 
 
     scene f_love_7_28 with tstmgr
 
-    f "Now I have more questions about sex. I think I should talk to [P] and... ..."
+    f "现在我有更多关于性的问题.我想我应该和[P]谈谈......"
 
 
 
-    f "Maybe he will... allow me to practice it with him just like the last time... ..."
+    f "也许他会...让我和他一起练习,就像上次一样......"
 
 
 

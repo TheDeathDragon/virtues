@@ -3,15 +3,15 @@ label B_daily_8:
     scene void with tstmgr
     play music happy
 
-    "There is something about Senning that bothers me these days."
+    "这段时间,我总觉得有些事情困扰着我."
 
 
 
-    "Does this girl really like me or not?"
+    "这个女孩真的喜欢我吗?"
 
 
 
-    "We go to class everyday, study together, always hang out with each other."
+    "我们每天去上课,一起学习,总是一起出去玩."
 
 
 
@@ -35,11 +35,11 @@ label B_daily_8:
 
     scene void with tstmgr
 
-    "Our relationship is kind of ambiguous right now, but I still cannot be sure about how she thinks of me."
+    "我们的关系现在有点暧昧,但我还是不能确定她对我的想法."
 
 
 
-    "Am I a potential lover, or only a best friend?"
+    "我是一个潜在的男朋友,还是一个最好的朋友?"
 
 
 
@@ -49,17 +49,17 @@ label B_daily_8:
 
 
 
-    player "(It’s so hard to guess a girl’s mind.)"
+    player "(女孩的心思真难猜.)"
 
 
 
-    player "(Hmmm... what should I do?)"
+    player "(Hmmm...我该怎么办?)"
 
 
 
     scene b_daily8_2 with tstmgr
 
-    "*Patting sound*..."
+    "*声响*..."
 
 
 
@@ -71,33 +71,33 @@ label B_daily_8:
 
     scene b_daily8_4 with tstmgr
 
-    "I turned my head a little. And at the next second, my face was lightly poked by a soft finger."
+    "我把头转了一下.接着,我的脸被一个柔软的手指轻轻戳了一下."
 
 
 
     scene b_daily8_5 with tstmgr
 
-    b "Got you."
+    b "逮到你了."
 
 
 
-    player "Senning?"
+    player "森柠?"
 
 
 
-    b "Oh. Did I just interrupt your meditation?"
+    b "Oh.我打断你的冥想了吗?"
 
 
 
-    player "Meditation?"
+    player "冥想?"
 
 
 
-    player "Eh... Why do you think I was meditating?"
+    player "Eh...为什么你会以为我在冥想?"
 
 
 
-    b "You stood in front of the pool, steady like a sculpture. If it was not a meditation, then you must be thinking about something troubling."
+    b "你站在水池前,像个雕像一样.如果这不是冥想,那么你一定是在想一些麻烦的事情."
 
 
 
@@ -105,13 +105,13 @@ label B_daily_8:
 
 
 
-    player "Yeah... you are right. There is indeed something that troubles me."
+    player "Yeah...你是对的.确实有些事使我烦恼."
 
 
 
     scene b_daily8_6 with tstmgr
 
-    b "Do you want to share?"
+    b "想说说吗?"
 
 
 
@@ -119,7 +119,7 @@ label B_daily_8:
 
 
 
-    b "... ... It’s okay if you don’t want to talk. But if there is anything I can do, please let me know."
+    b "......如果你不想说也没关系.但是如果有什么我能做的,请告诉我."
 
 
 
@@ -129,49 +129,49 @@ label B_daily_8:
 
     scene b_daily8_7 with tstmgr
 
-    player "Oh, Sen..."
+    player "Oh,森..."
 
 
 
-    "I could not help embracing her in my arms. This girl is an angel."
+    "我情不自禁地把她搂在怀里.这个女孩是个天使."
 
 
 
-    b "Wait... ..."
+    b "等等......"
 
 
 
-    "Her body is light and small. I feel like I am holding a vulnerable china doll."
+    "她的身体又轻又小.我感觉自己像抱着一个脆弱的中国娃娃."
 
 
 
     label B_daily_8_choice_1:
 
     menu:
-        "Kiss her forehead":
+        "吻她的额头":
 
 
             scene b_daily8_8 with tstmgr
 
-            player "*Kissing*... ..."
+            player "*亲吻*......"
 
-            b "(Surprised moaning) Yah!... ..."
+            b "(惊讶)Yah!......"
 
             player "... ... ... ..."
 
             scene b_daily8_7 with tstmgr
 
-            b "Why did you kiss me?"
+            b "你为什么要吻我?"
 
-            player "Eh... I don’t know. It just naturally happened."
+            player "Eh...我不知道.就自然而然..."
 
             scene b_daily8_9 with tstmgr
 
-            b "(Seems a little angry) Wmmm... ... ..."
+            b "(似乎有点生气)Wmmm........."
 
-            b "You can’t just kiss a girl without a reason. That’s rude!"
+            b "你不能无缘无故地亲一个女孩.这是不礼貌的!"
 
-            player "Sorry... ..."
+            player "抱歉......"
 
             scene b_daily8_10 with tstmgr
 
@@ -179,79 +179,79 @@ label B_daily_8:
 
             scene b_daily8_11 with tstmgr
 
-            b "(Whispering) The next time... be sure to have a good reason..."
+            b "(低语)下次...一定要有一个好的理由..."
 
-            player "Sen... ... ... ..."
+            player "森............"
 
             scene b_daily8_12 with tstmgr
 
-            b "*Sniffing, sniffing*... ..."
+            b "*嗅,嗅*......"
 
             scene b_daily8_11 with tstmgr
 
-            b "Are you using a new perfume?"
+            b "你用了一个新香水吗?"
 
-            b "It smells... really good."
+            b "它...蛮好闻的."
 
-            player "Yeah, I’m glad you like it."
+            player "Yeah,我很高兴你喜欢."
 
             b "... ... ... ..."
 
-            b "Anyway. Now I need to see a professor in his office. See you later."
+            b "不说了.现在我要去见一位教授.待会见."
 
-            player "See you then."
+            player "到时候见."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Pat her head":
+        "轻拍她的头":
 
 
 
 
             scene b_daily8_13 with tstmgr
 
-            player "*Patting*... ..."
+            player "*轻拍*......"
 
-            b "(Surprised moaning) Yah!... ..."
+            b "(惊讶)Yah!......"
 
             player "... ... ... ..."
 
             scene b_daily8_7 with tstmgr
 
-            b "Why are you doing this?"
+            b "你干嘛?"
 
-            player "Eh... I don’t know. You look too adorable, I can’t help."
+            player "Eh...我不知道.你看起来太可爱了,我忍不住."
 
             scene b_daily8_11 with tstmgr
 
-            b "(Seems a little happy) Hmmm... ... ..."
+            b "(似乎有点高兴)Hmmm........."
 
-            b "You really think... that I am adorable?"
+            b "你真的认为...我很可爱?"
 
-            player "Yep, definitely, without a doubt."
+            player "Yep,当然,毫无疑问."
 
             b "... ... ... ..."
 
-            b "(Whispering) Thank you... ..."
+            b "(低语)谢谢你......"
 
             scene b_daily8_12 with tstmgr
 
-            b "*Sniffing, sniffing*... ..."
+            b "*嗅,嗅*......"
 
-            b "Are you using a new perfume?"
+            b "你用了一个新香水吗?"
 
             scene b_daily8_11 with tstmgr
 
-            b "It smells... really good."
+            b "它...蛮好闻的."
 
-            player "Yeah, I’m glad you like it."
+            player "Yeah,我很高兴你喜欢."
 
             b "... ... ... ..."
 
-            b "Anyway. Now I need to see a professor in his office. See you later."
+            b "不说了.现在我要去见一位教授.待会见."
 
-            player "See you then."
+            player "到时候见."
 
             scene void with tstmgr
 

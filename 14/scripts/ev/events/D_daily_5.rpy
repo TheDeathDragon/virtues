@@ -3,83 +3,83 @@ label D_daily_5:
     scene void with tstmgr
     play music happy
 
-    player "Irene, are you there."
+    player "艾琳,你在吗."
 
-    narrator "No one answers."
+    narrator "无人应答."
 
-    player "Weird. "
+    player "奇怪."
 
-    narrator "Aunt Elisa said that Irene is at home, but where she is? She seems not in her room."
+    narrator "伊莉莎阿姨说艾琳在家,可她在哪儿呢?她好像不在房间里."
 
-    narrator "I have no idea of where she may be at. I mean, that's one of the cons when you live in a large mansion -- It's difficult to find people. She could be at anywhere."
+    narrator "我不知道她可能在哪里.我的意思是,这是住在大房子里的坏处之一——很难找到人.她可能在任何地方."
 
-    narrator "But if she is not in her room, why the door is closed?"
-
-    narrator "... ... ... ..."
-
-    narrator "Should I open it?"
+    narrator "但是如果她不在她的房间里,为什么门是关着的?"
 
     narrator "... ... ... ..."
 
-    narrator "Yeah, why not? The last time when I got in her room without her permission, I saw a bunny girl. Maybe this time I'll be lucky as well."
+    narrator "我应该开门吗?"
 
-    narrator "I opened her room and went inside."
+    narrator "... ... ... ..."
+
+    narrator "Yeah,为什么不呢?我上一次未经她允许进入她的房间时,我看到了一个兔女郎.也许这次我也会很幸运."
+
+    narrator "我打开她的房间门,走了进去."
 
     scene rcsj_d19 with tstmgr
 
     narrator "... ... ... ..."
 
-    g "Who's that?"
+    g "那是谁?"
 
     narrator "Wow... ... ... ..."
 
-    narrator "Guess today is indeed my lucky day."
+    narrator "我想今天确实是我的幸运日."
 
     scene rcsj_d20 with tstmgr
 
     g "[P]?"
 
-    player "Eh, Hi, Uno, it's nice to meet you. No, I mean, I'm sorry for coming in. I was looking for Irene, didn't know you are here."
+    player "Eh,嗨,乌诺,很高兴见到你.不,我是说,我很抱歉进来.我在找艾琳,不知道你在这里."
 
-    g "You said the exact same thing as the last time."
+    g "你说的和上次完全一样."
 
-    player "Oh, really? "
+    player "Oh,真的?"
 
-    player "That... is... awkward..."
+    player "这真是...尴尬..."
 
     scene rcsj_d21 with tstmgr
 
     player "... ... ... ..."
 
-    narrator "My attention was totally attracted by her breasts. "
+    narrator "我的注意力完全被她的乳房吸引住了."
 
-    narrator "They... they are just... insane."
+    narrator "它们...它们真是...不可思议."
 
-    narrator "She should never dress like this, not even at her own home. No man can resist this. Oh God, she can drive the most virtuous man crazy with this on."
+    narrator "她不应该穿成这样,即使在自己家里也不行.没有人能顶得住.天啊,她穿上这个会把最善良的男人都逼疯的."
 
     scene rcsj_d22 with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Those perfect tits..."
+    narrator "那完美的胸..."
 
-    narrator "I noticed the mole on her left breast. Shit, it makes her even sexier."
+    narrator "我注意到她左乳房上的痣.妈的,这让她更性感了."
 
-    narrator "Calm down, [P]. Don't think anything stupid."
+    narrator "冷静,[P].不要想任何愚蠢的事情."
 
-    narrator "Just... talk to her... stop staring at her breasts. That is rude."
+    narrator "...跟她说话就好了...别盯着她的胸部看.这是不礼貌的."
 
     scene rcsj_d23 with tstmgr
 
-    narrator "She put her glasses on and sat up on the bed."
+    narrator "她戴上眼镜,坐在床上."
 
-    g "Irene is at upstair if you are looking for her. "
+    g "如果你要找艾琳,她在楼上."
 
-    narrator "I noticed that she didn't use S.C. to call Irene again. That's... good."
+    narrator "我注意到她没有使用S.C这个名字.而是说了艾琳.这...很好."
 
-    player "Oh, thanks..."
+    player "Oh,谢谢..."
 
-    player "Ah, if you don't mind, why are you here and dressing like... this?"
+    player "Ah,如果你不介意的话,我想知道为什么你要在这里穿得像...这样?"
 
     scene rcsj_d24 with tstmgr
 
@@ -87,73 +87,73 @@ label D_daily_5:
 
     scene rcsj_d25 with tstmgr
 
-    g "I ran away from home yesterday. So I slept here last night."
+    g "我昨天离家出走了.所以我昨晚睡在这里."
 
-    player "What happened?"
+    player "发生什么事了?"
 
     g "... ... ... ..."
 
-    g "My parents... they don't support me being a coser. They are over-conservative."
+    g "我的父母...他们不支持我当coser.他们很保守."
 
-    narrator "Well, I can understand why her parents dislike this hobby of her. I mean, if I have a daughter who tells me that she is going to dress like a bunny girl on a comic-con in front of thousands of people, I will be pissed, too."
+    narrator "Well,我能理解为什么她的父母不喜欢她的这个爱好.我是说,如果我有个女儿告诉我,她要在成千上万人的动漫大会上穿成兔女郎的样子,我也会生气的."
 
-    player "I think they are just... worried about you. "
+    player "我认为他们只是...为你担心."
 
     scene rcsj_d26 with tstmgr
 
     g "... ... ... ..."
 
-    g "I know that..."
+    g "我知道..."
 
     scene rcsj_d24 with tstmgr
 
     g "... ... ... ..."
 
-    g "I'm going to change my clothes. "
+    g "我要换衣服了."
 
-    player "Oh, okay. I'll just... leave you alone."
+    player "Oh,okay.我...马上离开."
 
     g "... ... ... ..."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I closed the door. "
+    narrator "我关上了门."
 
     scene d_mansion_inside_frown with tstmgr
 
-    d "What's going on here?"
+    d "发生了什么?"
 
-    player "Eh, nothing. "
+    player "Eh,没什么."
 
-    d "Did you see Uno's naked body? Hentai!"
+    d "你看到乌诺的裸体了吗?变态!"
 
-    player "What? Who? Me? No, I didn't."
+    player "什么?谁?我吗?不,我没有."
 
     scene d_mansion_inside_smile with tstmgr
 
-    d "Relax, I'm kidding. Come here, I have something to discuss with you."
+    d "放松,我开玩笑的.过来,我有事要和你商量."
 
-    player "What is it?"
+    player "什么事?"
 
-    d "See, Uno needs a place to live, and I know that you have quite a few available bedrooms in your house. "
+    d "你看,乌诺需要一个地方住,我知道你的房子里有不少空余的卧室."
 
-    player "Eh... yes, but why don't you just keep her here? Your home is much larger than mine."
+    player "Eh...是的,但你为什么不把她留在这里?你家可比我那里大得多."
 
     scene d_mansion_inside_frown with tstmgr
 
-    d "But... you are the one who needs money. I know you are having a tough time after what happened to your dad."
+    d "但是...你才是需要钱的人.我知道你爸爸出事之后你的日子不好过."
 
-    d "Uno will pay the rent... I thought you might need that."
+    d "乌诺会付租金的...我想你可能需要这个."
 
-    "Oh dear, she is such a thoughtful angel."
+    "天啊,她真是个体贴的天使."
 
-    player "Thanks, Irene, for caring about me."
+    player "艾琳,谢谢你关心我."
 
-    player "And fine, Uno can move into my house. I'll prepare a bedroom for her."
+    player "好吧,乌诺可以搬进我的房子.我会为她准备一间卧室."
 
     scene d_mansion_inside_smile with tstmgr
 
-    d "Great!"
+    d "棒!"
 
     scene void with tstmgr
 

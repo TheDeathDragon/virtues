@@ -10,14 +10,14 @@ label d1_1:
 
 
 
-    "Girls" "[P]~~~"
+    "女孩们""[P]~~~"
 
 
 
     "... ... ... ..."
 
 
-    "Girls" "[P]~~~ [P]~~~"
+    "女孩们""[P]~~~ [P]~~~"
 
 
 
@@ -25,17 +25,17 @@ label d1_1:
 
 
 
-    "Someone is calling my name. No, not someone, there are... more than one people... calling my name."
+    "有人在叫我的名字.不,不是某人,有...不止一个人...叫我的名字."
 
 
 
     scene d1_1_33 with dissolve
 
-    player "(Opened eyes with difficulty) ... ... ... ..."
+    player "(艰难的睁开眼)............"
 
 
 
-    player "What happened? Where am I?"
+    player "发生了什么?我在哪儿?"
 
 
 
@@ -53,47 +53,47 @@ label d1_1:
 
     $ flashlight()
 
-    player "What the hell is this!?"
+    player "什么鬼东西!?"
 
 
 
     scene d1_1_2 with tstmgr
 
-    player "Am I in heaven? This is... this is... so unreal..."
+    player "我在天堂吗?这...这...太不真实了..."
 
 
 
     scene d1_1_3 with tstmgr
 
-    player "So many... tits... ... ... ..."
+    player "好多...奶子............"
 
 
 
     scene d1_1_1 with tstmgr
 
-    "Girls" "Have you decided yet?"
+    "女孩们""你决定了吗?"
 
 
 
-    player "Decide... what?"
+    player "决定...什么?"
 
 
 
-    "Girls" "Have you decided... which one of us you want to marry with?"
+    "女孩们""你决定...想和我们中的哪一个结婚了吗?"
 
 
 
-    "Girls" "Or... do you want to marry with all of us?"
+    "女孩们""还是...你想和我们所有人结婚吗?"
 
 
 
-    player "Who... who are you guys? I want to see your faces!"
+    player "谁...你们是谁?我想看看你们的脸!"
 
 
 
     scene d1_1_4 with tstmgr
 
-    player "Let me... ... see your faces... ..."
+    player "让我...看看你们的脸......"
 
 
 
@@ -105,19 +105,19 @@ label d1_1:
 
     scene d1_1_5 with tstmgr
 
-    player "(Talking in the dream) Let me... ... see your... faces... ..."
+    player "(梦呓)让我...看看你们的脸......"
 
 
 
-    "The class exploded with laughter..."
+    "全班哄堂大笑..."
 
 
 
-    "Professor" "Seriously, sir. I’m okay with you sleeping in my class, but can you please keep your mouth shut?"
+    "教授""说真的,先生,我不介意你在我的课上睡觉,但是你能闭上你的嘴吗?"
 
 
 
-    player "Ahh... what?"
+    player "Ahh...什么?"
 
 
 
@@ -125,11 +125,11 @@ label d1_1:
 
 
 
-    "I just fell asleep in the class... That was embarrassing... ..."
+    "我在课堂上睡着了...太尴尬了......"
 
 
 
-    player "Sorry, professor... ... ... ..."
+    player "对不起,教授............"
 
 
 
@@ -141,73 +141,73 @@ label d1_1:
 
     scene void with tstmgr
 
-    "Later after the class..."
+    "课后..."
 
 
 
     scene d1_1_7 with dissolve
 
-    player "Sigh... ... ... ..."
+    player "唉............"
 
 
 
-    "That was quite a weird dream. It was like a wet dream that only pathetic teen boys who have never dated with anyone before would have."
+    "那真是个奇怪的梦.就像个春梦,只有那些从来没有和任何人约会过的可怜的十几岁的男孩才会做的梦."
 
 
 
-    "And I am definitely not a pathetic teenager."
+    "我绝对不是一个可怜的小男孩."
 
 
 
-    "I am already 21 years old, currently a junior student at Rosco City University with a finance major. And I am a rich good-looking young man with a lot of one-night-stand experiences."
+    "我今年21岁,是罗斯科城市大学金融专业的大三学生.我是一个富有的英俊的年轻人,有很多一夜情的经历."
 
 
 
-    "But... ..."
+    "但是......"
 
 
 
-    "Sigh... ... I guess I am indeed a person who is eager to be loved."
+    "唉...我想我确实是一个渴望被爱的人."
 
 
 
-    "That was... kinda normal for children who grew up in a single-parent family, right? I was raised by my father alone and my mother left us when I was a baby."
+    "像我这种...单亲家庭长大的孩子很正常,对吧?我是由父亲独自抚养长大的,在我还是个婴儿的时候,母亲就离开了我们."
 
 
 
-    "My father is quite a good dad though. He is a super successful entrepreneur, one of the richest and the most powerful dudes in this country. He spoiled me pretty hard. No matter what I want, as long as it has a price, he would get it for me."
+    "我的父亲是一个相当好的父亲.他是一个非常成功的企业家,是这个国家最富有和最有权势的人之一.他把我宠坏了.不管我想要什么,只要有卖的,他都会为我买到."
 
 
 
-    "He made me live in a life of luxury and not worry about any loans or debts. I can spend as much money as I want by using his checks and credits cards."
+    "他让我过着奢侈的生活,不用担心任何贷款或债务.我可以用他的支票和信用卡花我想花的钱."
 
 
 
-    "And he never married again to protect me from the potential of being hurt by a stepmother figure. What a great dad."
+    "为了保护我免受继母的伤害,他再也没有结婚.真是个好爸爸."
 
 
 
-    "But still, the lack of mother’s love has created a gap in my heart and no matter how many things my dad did, he couldn’t fill it up."
+    "但是,母爱的缺乏在我心里留下了一个缺口,无论我爸爸做了多少事情,他都无法填补它."
 
 
 
-    "This gap in my heart doesn’t really bring any negative effect to my life though. I don’t have any mental problems nor character defects."
+    "然而,我心中的这个缺口并没有给我的生活带来任何负面影响.我没有任何心理问题,也没有任何性格缺陷."
 
 
 
-    "But it indeed affected me in some minor ways, for example, I am more attracted by women with a pair of big tits because that is kind of a symbol of motherhood in my opinion."
+    "但它确实在一些次要方面影响了我,例如,我更喜欢大胸的女人,因为在我看来,那是一种母性的象征."
 
 
 
-    "And also, I always feel lonely and empty no matter how many friends I have or how many random girls I had sex with. I guess that’s why I had that dream earlier."
+    "而且,不管我有多少朋友,不管我和多少女孩发生过关系,我总是感到孤独和空虚.我想这就是我之前做那个梦的原因."
 
 
 
-    "Thus I am eager to find someone who can really fill this gap in my heart. A true love, yes. I am seeking to find my true love."
+    "因此,我渴望找到一个人,可以真正填补我心中的空白.真爱,是的.我在寻找我的真爱."
 
 
 
-    "??" "(Pulling your shirt) ... ... ... ..."
+    "??" "(拉着你的衬衫)............"
 
 
 
@@ -215,55 +215,55 @@ label d1_1:
 
 
 
-    "It feels like someone is standing behind me."
+    "好像有人站在我身后."
 
 
 
-    "??" "[P], are you okay?"
+    "??" "[P],你还好吗?"
 
 
 
-    "I turned around and saw... ..."
+    "我回头一看......"
 
 
 
     scene d1_1_8 with tstmgr
 
-    "??" "You just slept at a class. Is everything alright?"
+    "??" "你在课堂上睡着了.没事吧?"
 
 
 
     scene d1_1_9 with tstmgr
 
-    player "I... I’m fine, Senning."
+    player "我...我很好,森柠."
 
 
 
     scene d1_1_8 with tstmgr
 
-    "Senning, one of my best friends in college, an international student from China with 1/4 European descent, major in Math and Finance, the no.1 girl on my potential-true-love list."
+    "森柠,我大学里最好的朋友之一,是一名来自中国的留学生,有四分之一的欧洲血统,主修数学和金融,是我潜在真爱名单上排名第一的女孩."
 
 
 
-    "I mean, take a look at her. How could anyone not want to have a romance with such a pretty?"
+    "我是说,看看她.怎么会有人不想和这么漂亮的人谈恋爱呢?"
 
 
 
-    "And yes, I have a potential-true-love list. Currently there are only two names on that list though."
+    "是的,我有一个潜在真爱名单.目前只有两个名字在名单上."
 
 
 
     scene d1_1_10 with tstmgr
 
-    b "You don’t look good today. Are you having a cold or something?"
+    b "你今天看起来气色不好.你是感冒了还是怎么了?"
 
 
 
-    player "Oh... eh... no, I just didn’t sleep well last night."
+    player "Oh...eh...no,我就是昨晚没睡好."
 
 
 
-    player "Thanks for caring me, Sen."
+    player "谢谢你关心我,森."
 
 
 
@@ -275,69 +275,69 @@ label d1_1:
 
     scene d1_1_12 with tstmgr
 
-    b "There will be a study group discussion at Rose Hall 8pm tonight. Do you want to go with me?"
+    b "今晚八点在玫瑰厅有一个学习小组讨论.你想和我一起去吗?"
 
 
 
-    player "What is it for?"
+    player "干什么的?"
 
 
 
-    b "For preparing the economic exam coming next week~"
+    b "准备下周的经济学考试~"
 
 
 
-    player "But... you don’t need to go to that discussion, neither do I, right? We are like... the top 2 students in that class. The exam is just a piece of cake. Let’s go to a movie instead."
+    player "但是...你不需要参加那个讨论,我也不需要,对吧?我们就像...班的前两名.这次考试太容易了.我们去看电影吧."
 
 
 
-    "Yep, I sleep at class, I go to nightclubs for one-night-stands, but I am still a top student. You can call me genius if you want~"
+    "Yep,我上课睡觉,去夜店找一夜情,但我仍然是一个尖子生.如果你愿意,你可以叫我天才~"
 
 
 
     scene d1_1_13 with tstmgr
 
-    b "Yeah, but... there may be some people who need help."
+    b "Yeah,但是...可能有些人需要帮助."
 
 
 
-    "This girl has a golden heart and she always wants to help others. That’s why I like her~"
+    "这个女孩有一颗善良的心,她总是想帮助别人.这就是我喜欢她的原因~"
 
 
 
-    player "Okay, how about we going to a movie after that discussion ends?"
+    player "Okay,讨论结束后我们去看电影怎么样?"
 
 
 
     scene d1_1_14 with tstmgr
 
-    b "That will be too late, and... I don’t like to watch movies in theaters because there are no subtitles. I can’t understand the lines perfectly."
+    b "那就太晚了,而且...我不喜欢在电影院看电影,因为那里没有字幕.我不能完全理解那些台词."
 
 
 
-    "As an international student, Senning needs to work two times harder than local students. She not only needs to study her majors, but also needs to learn English from the very beginning."
+    "作为一名国际学生,森柠需要比当地学生努力两倍.她不仅需要学习专业课,还需要从一开始就学习英语."
 
 
 
-    "I remembered that when she first came to this college, she could barely speak a complete sentence in English. After three years of studying, now she speaks like a professional, but she still prefers to read subtitles while watching movies."
+    "我记得她刚来这所大学的时候,几乎一句完整的英语都说不出来.经过三年的学习,她现在说话已经很专业了,但她还是喜欢边看电影边看字幕."
 
 
 
-    player "Sigh... ... ... ..."
+    player "唉............"
 
 
 
-    player "Fine, let’s just go to that discussion together."
+    player "好吧,那我们一起去讨论吧."
 
 
 
     scene d1_1_15 with tstmgr
 
-    b "Ah, thank you, [P]!~"
+    b "Ah,谢谢你,[P]!~"
 
 
 
-    b "I have a class 30 minutes later, I’d better go now and I will see you to...night... ..."
+    b "30分钟后我还有课,我最好现在就走,晚上...见......"
 
 
 
@@ -349,37 +349,37 @@ label d1_1:
 
     scene d1_1_17 with tstmgr
 
-    b "I..."
+    b "我..."
 
 
 
-    b "I feel dizzy..."
+    b "我感觉有点头晕..."
 
 
 
     scene d1_1_18 with tstmgr
 
-    "She suddenly lost her balance and fell to me."
+    "她突然失去了平衡,倒在我身上."
 
 
 
-    player "Hey, Sen, are you alright?"
+    player "Hey,森,你还好吗?"
 
 
 
-    player "Sen... ..."
+    player "森......"
 
 
 
-    "She passed out."
+    "她昏倒了."
 
 
 
-    "Well, she once told me about this, this hypoglycemia issue she has. Sometimes she will feel dizzy or even pass out for like a minute."
+    "Well,她曾经告诉过我她的低血糖问题.有时她会感到头晕,甚至昏倒一分钟."
 
 
 
-    "It is not a serious problem though. I’m not a medical student, but I think she can prevent it from happening by having some sugar regularly. But it seems like she hasn’t done that today yet."
+    "这不是一个严重的问题.我不是医学院的学生,但我认为她可以通过定期吃糖来防止它的发生.但好像她今天还没这么做."
 
 
 
@@ -387,17 +387,17 @@ label d1_1:
 
 
 
-    "Well, there is another thing..."
+    "还有一件事..."
 
 
 
     scene d1_1_19 with tstmgr
 
-    "I realized that my right hand is grabbing one of her breasts now. I promise I didn’t do it on purpose. It was just a beautiful mistake."
+    "我意识到我的右手现在正抓住她的一个乳房.我保证我不是故意的.这只是一个美丽的误会."
 
 
 
-    "But God, her breast feels like the finest water balloon. It is so soft... ..."
+    "但天啊,她的乳房就像最好的水球.好软......"
 
 
 
@@ -407,7 +407,7 @@ label d1_1:
 
 
 
-    "She is waking up. I’d better move my hand away before she finds out."
+    "她正在醒来.我最好把手移开,免得她发现."
 
 
 
@@ -425,73 +425,73 @@ label d1_1:
 
     scene d1_1_23 with tstmgr
 
-    b "Too, too close!"
+    b "太,太近了!"
 
 
 
     scene void with tstmgr
 
-    "She suddenly jumped away from me like a frightened rabbit."
+    "她突然从我身边跳开,像一只受惊的兔子."
 
 
 
     scene d1_1_10 with tstmgr
 
-    player "I... I was just trying to... ..."
+    player "我...我只是试着......"
 
 
 
-    b "I know, it’s my fault, sorry... ..."
+    b "我知道,是我的错,抱歉......"
 
 
 
     scene d1_1_11 with tstmgr
 
-    b "How long did I pass out?"
+    b "我昏倒了多久?"
 
 
 
-    player "Less than a minute."
+    player "不到一分钟."
 
 
 
     scene d1_1_10 with tstmgr
 
-    b "Sorry... ..."
+    b "抱歉......"
 
 
 
-    player "You haven’t had anything sweet today, have you?"
+    player "你今天没有吃甜食,对吗?"
 
 
 
-    player "I have some macarons in my car. If you like..."
+    player "我的车里有一些马卡龙.如果你喜欢..."
 
 
 
     scene d1_1_24 with tstmgr
 
-    b "Macarons!"
+    b "马卡龙!"
 
 
 
     scene d1_1_25 with tstmgr
 
-    b "Wummm... no, I can’t eat any sweets. It will gain my weight."
+    b "Wummm...no,我不能吃任何甜的.它会让我长胖."
 
 
 
-    player "Are you serious?"
+    player "你是认真的吗??"
 
 
 
     scene d1_1_26 with tstmgr
 
-    b "(Nodding) ... ... ... ..."
+    b "(点头)............"
 
 
 
-    player "Sigh... so how could you deal with this hypoglycemia issue without getting any sugar?"
+    player "唉...那么如何在不吸收任何糖分的情况下解决低血糖问题呢?"
 
 
 
@@ -501,7 +501,7 @@ label d1_1:
 
 
 
-    b "Fine... I will have a small piece of that... only a small piece... thank you..."
+    b "好吧...我就吃一块...就一块...谢谢你..."
 
 
 
@@ -511,21 +511,21 @@ label d1_1:
 
 
 
-    "I took her the sweets in my car, and it turned out that no girl can refuse the temptation of macarons. She ate not only one, but three whole pieces of them."
+    "我给她拿了甜食,结果发现没有哪个女孩能拒绝马卡龙的诱惑.她不是吃了一块,而是吃了三块."
 
 
 
-    "When she unconsciously reached out to the fourth piece, I made a cough."
+    "当她不自觉地伸手去拿第四个时,我咳嗽了一声."
 
 
 
     scene d1_1_27 with tstmgr
 
-    b "Oh... I was... not going to eat that..."
+    b "Oh...我是...不会吃那个的..."
 
 
 
-    player "You don’t have to explain..."
+    player "你不用解释..."
 
 
 
@@ -533,11 +533,11 @@ label d1_1:
 
 
 
-    b "I feel much better now, thanks. I should go for the class now."
+    b "我现在感觉好多了,谢谢.我现在应该去上课了."
 
 
 
-    player "Okay... I’ll see you tonight."
+    player "Okay...今晚见."
 
 
 
@@ -551,15 +551,15 @@ label d1_1:
 
 
 
-    "She is cute, isn’t she?"
+    "她很可爱,不是吗?"
 
 
 
-    "I think I like her, and I think she likes me, too. I will definitely go pursue her if she is the only one on my potential-true-love list."
+    "我想我喜欢她,我想她也喜欢我.如果她是我的潜在真爱名单上唯一的人,我一定会去追求她."
 
 
 
-    "But there is another person on my list so I have to choose carefully. I don’t want to run into a stupid-romantic-movie-situation of ‘I love you, but I then realize I love her more, but before she and I get married I realize that I actually love you more so I escape the marriage’ shit."
+    "但是我的名单上还有另外一个人,所以我必须仔细选择.我不想陷入那种愚蠢的浪漫电影的情境,比如‘我爱你,但我后来意识到我更爱她,但在我和她结婚之前,我意识到我其实更爱你,所以我逃避了婚姻’之类的."
 
 
 
@@ -569,55 +569,55 @@ label d1_1:
 
     scene d1_1_28 with dissolve
 
-    "Evening, at the study group discussion..."
+    "晚上,在学习小组讨论..."
 
 
 
-    "Senning is really the savior of the underachievers. She answered all the questions with patience, just like a real professor."
+    "森柠是真正的救星.她耐心地回答了所有的问题,就像一个真正的教授."
 
 
 
-    "After two hours of Q&A, students were nearly done with the questions. Many started to chat around, and the others were about to leave."
+    "经过两个小时的问答,学生们几乎已经问完了问题.许多人开始聊天,其他人也准备离开."
 
 
 
-    "A student came up to Senning and me."
+    "一个学生走到森柠和我面前."
 
 
 
-    "Student A" "Yo, guys, thanks for coming to this discussion. You really helped us a lot."
+    "学生A""Yo,伙计们,谢谢你们来参加我们的讨论.你真的帮了我们很多忙."
 
 
 
-    "Student A" "I mean, you guys seemed to know everything about this exam and you don’t need to study with us at all, but you still came and didn’t hesitate to help us. We are very grateful for that."
+    "学生A""我的意思是,你们似乎对这次考试了如指掌,根本不需要跟我们一起学习,但你们还是来了,毫不犹豫地帮助我们.我们对此非常感激."
 
 
 
     scene d1_1_29 with tstmgr
 
-    b "You are welcome. We love to help whoever needs help, don’t we, [P]?"
+    b "不客气,我们喜欢帮助需要帮助的人,不是吗,[P]?"
 
 
 
-    player "I... eh... yes, we are good people."
+    player "我...eh...yes,我们都很乐于助人."
 
 
 
-    "Student A" "You are such a great couple. Good luck on the exam, guys."
+    "学生A""你们真是天生的一对.祝你们考试好运,伙计."
 
 
 
     scene d1_1_30 with tstmgr
 
-    "Senning suddenly blushed."
+    "森柠突然脸红了."
 
 
 
-    b "(Whispering) We... we... we are not... a couple... ..."
+    b "(低语)我们...我们...我们不是...一对......"
 
 
 
-    "Unfortunately, that student didn’t hear what she said since he already walked away and her voice is too low."
+    "不幸的是,那个学生并没有听到她说了什么,因为他已经走开了,而且她的声音太小了."
 
 
 
@@ -625,29 +625,29 @@ label d1_1:
 
 
 
-    "She is... really cute when she is being shy."
+    "她...害羞的时候真的很可爱."
 
 
 
-    player "Eh... Sen, do you need me to drive you to your apartment?"
+    player "Eh...森柠,需要我开车送你去你的公寓吗?"
 
 
 
     scene d1_1_31 with tstmgr
 
-    b "Ahh? I... ... ... ..."
+    b "Ahh?我............"
 
 
 
     scene d1_1_32 with tstmgr
 
-    b "No... no need. It’s not far from here. I will just... go alone... ..."
+    b "No...不用了.它离这儿不远.我...一个人回去就好了......"
 
 
 
     scene void with tstmgr
 
-    "She then ran away from me and left the hall as fast as she could."
+    "然后她从我身边跑开,以最快的速度离开了大厅."
 
 
 

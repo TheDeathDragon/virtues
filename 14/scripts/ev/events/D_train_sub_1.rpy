@@ -3,7 +3,7 @@ label D_train_sub_1:
     scene void with tstmgr
     play music happy
 
-    "Later tonight, when I finally got back home..."
+    "今晚晚些时候,我终于回到了家..."
 
 
 
@@ -13,15 +13,15 @@ label D_train_sub_1:
 
 
 
-    player "Why is here such a big box?"
+    player "为什么这里有这么大的盒子?"
 
 
 
-    player "And it doesn’t have any label. Strange... ..."
+    player "它没有任何标签.奇怪......"
 
 
 
-    player "Anyway, I should take it to my room first and figure out who it belongs to later."
+    player "不管怎样,我应该先把它拿到我的房间,然后再弄清楚它是谁的."
 
 
 
@@ -31,43 +31,43 @@ label D_train_sub_1:
 
 
 
-    player "This is... so damn heavy... ..."
+    player "这...真他妈的重......"
 
 
 
-    "I tried everything I can and finally got it into my room."
+    "我试了各种办法,终于把它弄到了我的房间里."
 
 
 
-    player "Al... alright, now I need to put it down carefully. It might be something expensive..."
+    player "好...好了,现在我要小心地把它放下.可能是很贵的东西..."
 
 
 
-    player "Steady... ..."
+    player "稳住......"
 
 
 
-    player "Oh, shit, I dropped it too hard!"
+    player "Oh,shit,我摔得太重了!"
 
 
 
     scene d_train_sub_1_2 with tstmgr
 
-    "Voice in the box" "Yah!~~"
+    "箱子里的声音""Yah!~~"
 
 
 
-    player "Huh? Did I just hear something?"
+    player "Huh?我刚才听到什么了吗?"
 
 
 
     scene d_train_sub_1_3 with tstmgr
 
-    "The box suddenly moved."
+    "箱子突然动了."
 
 
 
-    player "Holy shit! What the hell? There is a living thing in it?"
+    player "Holyshit!这到底是怎么回事?里面有生物吗?"
 
 
 
@@ -75,41 +75,41 @@ label D_train_sub_1:
 
     $ flashlight()
 
-    d "Da-dah! Surprise!"
+    d "Da-dah!惊喜!"
 
 
 
-    player "Irene?!"
+    player "艾琳?!"
 
 
 
-    player "What are you doing in the box?"
+    player "你在箱子里做什么?"
 
 
 
     scene d_train_sub_1_5 with tstmgr
 
-    d "It’s a prank! I got you spooked right there!"
+    d "这是一个恶作剧!我把你吓坏了吧!"
 
 
 
-    player "Hmmmmm... yeah, you did good."
+    player "Hmmmmm...yeah,你做到了."
 
 
 
-    player "And I noticed that you are wearing your neko ears... ..."
+    player "我注意到你戴着neko耳朵......"
 
 
 
     scene d_train_sub_1_6 with tstmgr
 
-    d "Yes, I am a kitty in the box!"
+    d "Yes,我是一只在箱子里的小猫!"
 
 
 
     scene d_train_sub_1_7 with tstmgr
 
-    player "(Carrying Irene like carrying an an animal cub) Hmmm... you are indeed light like a kitty..."
+    player "(像抱小动物一样抱着艾琳)Hmmm...你真的像一只小猫一样轻盈..."
 
 
 
@@ -121,35 +121,35 @@ label D_train_sub_1:
 
     scene d_train_sub_1_9 with tstmgr
 
-    player "Awww... come here, you cute little thing!"
+    player "Awww...过来,可爱的小东西!"
 
 
 
-    d "Hee hee hee~~ so itchy~"
+    d "Heeheehee~~好痒~"
 
 
 
     scene d_train_sub_1_10 with tstmgr
 
-    player "Does Aunt Elisa know that you came here tonight?"
+    player "伊莉莎阿姨知道你今晚来这里吗?"
 
 
 
-    d "Mommy doesn’t know~"
+    d "妈妈不知道~"
 
 
 
-    player "Hmmm... ... so you can’t stay here for long. I’ll take you home 30 minutes later."
+    player "Hmmm......所以你不能在这里待太久.30分钟后我送你回家."
 
 
 
     scene d_train_sub_1_11 with tstmgr
 
-    d "What? Nooo! I’m going to stay here tonight!"
+    d "什么?Nooo!今晚我要呆在这里!"
 
 
 
-    player "Stop being childish. Aunt Elisa will be so mad at me if you really do that. You have classes tomorrow, don’t you?"
+    player "别闹了.如果你真的那样做,伊莉莎阿姨会对我大发脾气的.你明天有课,是吗?"
 
 
 
@@ -159,7 +159,7 @@ label D_train_sub_1:
 
     scene d_train_sub_1_12 with tstmgr
 
-    d "Fine... ..."
+    d "好吧......"
 
 
 
@@ -167,13 +167,13 @@ label D_train_sub_1:
 
 
 
-    player "Actually, there is something I want you to have, kitty..."
+    player "事实上,我想给你一件东西,小猫..."
 
 
 
     scene d_train_sub_1_13 with tstmgr
 
-    d "A gift? For me?"
+    d "一个礼物?给我吗?"
 
 
 
@@ -183,17 +183,17 @@ label D_train_sub_1:
 
     scene d_train_sub_1_14 with tstmgr
 
-    d "Wow, that’s great! What is it? What is it?"
+    d "Wow,太好了!是什么?是什么?"
 
 
 
-    player "Alright, close your eyes and I’ll put it on your body~"
+    player "Alright,闭上你的眼睛,我会把它放在你身上~"
 
 
 
     scene d_train_sub_1_15 with tstmgr
 
-    d "Put it on my body? That’s... weird, but okay~"
+    d "把它放在我身上?这...有点奇怪,但ok~"
 
 
 
@@ -203,7 +203,7 @@ label D_train_sub_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
@@ -213,13 +213,13 @@ label D_train_sub_1:
 
 
 
-    d "My neck feels... cold... ..."
+    d "我的脖子感觉...有点冷......"
 
 
 
     scene d_train_sub_1_17 with tstmgr
 
-    player "Alright, you can open your eyes now~"
+    player "Alright,你现在可以睁开眼睛了~"
 
 
 
@@ -229,27 +229,27 @@ label D_train_sub_1:
 
 
 
-    d "A collar?"
+    d "一个项圈?"
 
 
 
     scene d_train_sub_1_19 with tstmgr
 
-    d "You are giving me a collar?"
+    d "你给了我一个项圈?"
 
 
 
-    player "Yeah, every kitty needs to be cared by a master. Do you like the idea?"
+    player "Yeah,每只猫都需要主人的照顾.你喜欢这个主意吗?"
 
 
 
-    "She has revealed her fetish of pet-playing for many times so now I’m basically just making her dream come true."
+    "她已经多次显露出她对扮演的迷恋,所以现在我基本上只是让她的梦想成真."
 
 
 
     scene d_train_sub_1_20 with tstmgr
 
-    d "So... you are officially my master now?"
+    d "所以...你现在正式成为我的主人了?"
 
 
 
@@ -259,29 +259,29 @@ label D_train_sub_1:
 
     scene d_train_sub_1_21 with tstmgr
 
-    "She kept silence for a while, but suddenly, she came up to me and whispered..."
+    "她沉默了一会儿,但突然,她走到我面前轻声说..."
 
 
 
-    d "So what do you want to do to your little kitty, master?"
+    d "主人,你想对你的小猫咪做什么?"
 
 
 
-    "Yep, she loved the idea."
+    "Yep,她很喜欢这个主意."
 
 
 
-    player "Good kitty... ..."
+    player "好猫咪......"
 
 
 
-    player "Alright, let’s start with something simple. I want you to crouch like a cat."
+    player "Alright,让我们从简单的开始.我要你像猫一样蹲着."
 
 
 
     scene d_train_sub_1_22 with tstmgr
 
-    d "(Answering with pleasant) Meow~ Meow~~"
+    d "(愉悦地回答)Meow~Meow~~"
 
 
 
@@ -293,15 +293,15 @@ label D_train_sub_1:
 
     scene d_train_sub_1_23 with tstmgr
 
-    d "You mean... like this?"
+    d "你的意思是...像这样的吗?"
 
 
 
-    player "Yes, just like that!"
+    player "Yes,就像这样!"
 
 
 
-    player "Wait a second, let me take a photo of you~"
+    player "等一下,让我给你拍张照片~"
 
 
 
@@ -315,17 +315,17 @@ label D_train_sub_1:
 
     $ flashlight()
 
-    "*Shutter sound* Kaka kaka~~~"
+    "*快门声音*Kakakaka~~~"
 
 
 
-    player "Perfect... ..."
+    player "完美......"
 
 
 
     scene d_train_sub_1_25 with tstmgr
 
-    player "Good kitty, good kitty..."
+    player "好猫咪,好猫咪..."
 
 
 
@@ -335,49 +335,49 @@ label D_train_sub_1:
 
     scene d_train_sub_1_26 with tstmgr
 
-    player "Now I want you to lick my finger, kitty."
+    player "现在我要你舔我的手指,猫咪."
 
 
 
-    d "Finger?~"
+    d "手指?~"
 
 
 
     scene d_train_sub_1_27 with tstmgr
 
-    d "(Licking) Sim... sim... sim... sim... ..."
+    d "(舔舐)Sim...sim...sim...sim......"
 
 
 
-    d "Do you like me doing this?"
+    d "你喜欢我这样做吗?"
 
 
 
-    player "Yeah, I’m enjoying it very much. Your warm moist little tongue can cure everything!~"
+    player "Yeah,我非常喜欢.你那温润的小舌头可以治愈一切!~"
 
 
 
     scene d_train_sub_1_28 with tstmgr
 
-    d "(Sucking) Wummm~~~ wummm~~~ wummm~~~"
+    d "(吸吮)Wummm~~~wummm~~~wummm~~~"
 
 
 
-    player "Owww~ my finger is melting..."
+    player "Owww~我的手指要化了..."
 
 
 
-    player "You are such an amazing pet!~"
+    player "你真是一只神奇的宠物!~"
 
 
 
     scene d_train_sub_1_29 with tstmgr
 
-    d "Wummmm... ... huhhh... ... master~~~~"
+    d "Wummmm......huhhh......主人~~~~"
 
 
 
-    player "Now I’m going to reward you for your submissiveness."
+    player "现在我要奖励你的顺从."
 
 
 
@@ -389,37 +389,37 @@ label D_train_sub_1:
 
     scene d_train_sub_1_30 with dissolve
 
-    "I took off her clothes and made her lie on the bed."
+    "我脱下她的衣服,让她躺在床上."
 
 
 
-    d "Are you going to rub my belly? Are you going to rub my belly?"
+    d "你要抚摸我的肚子吗?你要抚摸我的肚子吗?"
 
 
 
     scene d_train_sub_1_31 with tstmgr
 
-    "I put my hand on her belly as she expected. She seemed very satisfied."
+    "正如她所料,我把手放在她的肚子上.她似乎很满意."
 
 
 
-    d "Hah hah hah hah~~~ Itchy~~~"
+    d "Hahhahhahhah~~~痒~~~"
 
 
 
     scene d_train_sub_1_32 with tstmgr
 
-    "But my hand didn’t stop at her belly. It slowly went down to her crotch."
+    "但我的手并没有停在她的肚子上.它慢慢地伸到她的胯部."
 
 
 
-    d "Are you going to... ..."
+    d "你要......"
 
 
 
     scene d_train_sub_1_33 with tstmgr
 
-    "I slowly rubbed that piece of unexploited land. No one has ever put a finger on her pussy before, but now it is welcoming me. I can tell that because it is getting wetter and wetter."
+    "我慢慢地抚摸着那片未开发的土地.从来没有人把手指放在她的小穴上,但现在它在欢迎我.我能看出来是因为它变得越来越湿了."
 
 
 
@@ -429,7 +429,7 @@ label D_train_sub_1:
 
     scene void with tstmgr
 
-    "So now... ..."
+    "所以现在......"
 
 
 
@@ -439,23 +439,23 @@ label D_train_sub_1:
 
 
 
-    "Honestly, my finger had never got into anything tighter before. The delicate meat walls of her vagina is squeezing my finger so hard that I can’t even feel it anymore."
+    "老实说,我的手指以前从来没有碰到过这么紧的地方.她小穴的肉壁挤压着我的手指,太紧了,我都感觉不到我的手指了."
 
 
 
-    d "Awwwww~~~~~ ahhhhhh~~~~ wait~~~~~"
+    d "Awwwww~~~~~ahhhhhh~~~~等等~~~~~"
 
 
 
-    d "I feel... so strange... ..."
+    d "我感觉...好奇怪......"
 
 
 
-    "My finger kept going deeper until it contacted with a layer of something."
+    "我的手指继续往里伸,直到它接触到一层东西."
 
 
 
-    "Ah, it was her hymen."
+    "Ah,那是她的处女膜."
 
 
 
@@ -463,19 +463,19 @@ label D_train_sub_1:
 
 
 
-    "Thus I took my finger back a little and stopped going deeper. I’m not going to take her virginity with a finger. That will be so stupid."
+    "于是我把手指向后缩了一点,不再往里伸了.我不会用一根手指就夺走她的第一次.那太愚蠢了."
 
 
 
-    "Besides, the stimulation was already enough."
+    "此外,这种刺激已经足够了."
 
 
 
-    d "Awwwwwww~~~~~~~ it feels so so so good~~~~~"
+    d "Awwwwwww~~~~~~~感觉好极了~~~~~"
 
 
 
-    d "Something... is coming out~~~~~"
+    d "有东西...要出来了~~~~~"
 
 
 
@@ -487,7 +487,7 @@ label D_train_sub_1:
 
 
 
-    "A spout of water jetted out from her little pussy. That was quite a orgasm... ..."
+    "一股水流从她的小穴喷了出来.多么强烈的高潮......"
 
 
 
@@ -499,33 +499,33 @@ label D_train_sub_1:
 
     scene d_train_sub_1_36 with dissolve
 
-    d "(Enjoying the aftertaste) Huh... huh... huh... huh... ..."
+    d "(享受回味)Huh...huh...huh...huh......"
 
 
 
-    d "[P]~~~ master~~~"
+    d "[P]~~~主人~~~"
 
 
 
-    player "You did great, Irene."
+    player "你做得很好,艾琳."
 
 
 
     scene d_train_sub_1_37 with tstmgr
 
-    d "Hee hee~~~ master~~"
+    d "Heehee~~~主人~~"
 
 
 
-    player "So... do you like this role-play game?"
+    player "所以...你喜欢这个角色扮演游戏吗?"
 
 
 
-    d "Yeah! I love it!~ Meow~"
+    d "Yeah!我爱死了!~Meow~"
 
 
 
-    player "Okay, but don’t get into it too much, alright? It can’t affect your daily life. We will only play this game when you have those cat ears and that collar on."
+    player "Okay,但不要入戏太深,好吗?它不能影响你的日常生活.只有当你戴上猫耳朵和项圈,我们才会玩这个游戏."
 
 
 
@@ -535,27 +535,27 @@ label D_train_sub_1:
 
 
 
-    player "Good, now get dressed and I’m going to drive you home. Remember to take the collar off before Aunt Elisa sees you."
+    player "Good,现在穿好衣服,我开车送你回家.记得在伊莉莎阿姨看见你之前把领子取下来."
 
 
 
     scene d_train_sub_1_39 with tstmgr
 
-    d "Awww~~~ but I want to stay here with you~~~"
+    d "Awww~~~但是我想和你呆在一起~~~"
 
 
 
-    player "That was not what a good kitty should say."
+    player "一只好猫咪不应该这么说."
 
 
 
     scene d_train_sub_1_40 with tstmgr
 
-    d "Oh... okay, master. I’ll go home~~~~"
+    d "Oh...okay,主人.我会回家的~~~~"
 
 
 
-    player "That’s my good kitty... ..."
+    player "这才是我的好猫咪......"
 
 
 

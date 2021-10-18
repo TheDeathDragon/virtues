@@ -2,121 +2,121 @@ label sbsj:
 
     scene company_background with tstmgr
 
-    narrator "The next day's morning."
+    narrator "第二天早上."
 
-    narrator "I came to Aunt Elisa's company."
+    narrator "我来到伊莉莎阿姨的公司."
 
-    narrator "In the next few months, or even the next few years, this job may be my primary source of income, and Theodora will be my supervisor. God, I can't even imagine how hard it will be."
+    narrator "在接下来的几个月,甚至几年,这份工作可能是我的主要收入来源,狄奥多拉将是我的主管.天啊,我甚至无法想象这有多难."
 
-    narrator "But I have to work as hard as I can because now I am fighting for survival, and I don't want Theodora to look down upon me."
+    narrator "但我必须尽我所能努力工作,因为现在我在为生存而战,我不想让狄奥多拉看不起我."
 
     scene c_company_normal with tstmgr
 
-    narrator "I walked into the company and saw that Theodora is waiting for me."
+    narrator "我走进公司,看到狄奥多拉正在等我."
 
-    narrator "Wait, I never saw her dressed like this before. Is it her typical work dress?"
+    narrator "等等,我从来没见过她穿这样的衣服.这是她日常的工作服吗?"
 
-    narrator "She is wearing a business suit, but her jacket is open and exposing her bra out. Is that even legal?"
+    narrator "她穿着西装,但是她的夹克开着,露出了胸罩和乳沟.这合适吗?"
 
-    narrator "This is the ultimate office temptation. I can't even imagine how could those male employees endure this every day."
+    narrator "这是办公室里最大的诱惑.我甚至无法想象那些男员工每天是如何忍受这种诱惑的."
 
-    narrator "I really want to put my penis inside that cleavage..."
+    narrator "我真想把我的鸡儿插到那个乳沟里..."
 
-    c "What are you looking at?"
+    c "你在看什么?"
 
-    player "Eh... Sorry."
+    player "Eh...抱歉."
 
-    player "Your clothes are... nice..."
+    player "你的衣服真...不错..."
 
     c "... ... ... ..."
 
     scene c_company_smile with tstmgr
 
-    c "Thanks."
+    c "谢谢."
 
-    c "To be honest, I didn't expect you to come today."
+    c "老实说,我没想到你今天会来."
 
-    player "Why did you think that way?"
+    player "为什么这么觉得?"
 
-    c "Because I couldn't believe you would be willing to work under my command."
+    c "因为我不相信你会愿意在我的指挥下工作."
 
-    player "Well, you are right. I am not willing to come here, but I don't have many choices. We all have to compromise with life, don't we?"
+    player "你说得对.我不愿意来这里,但我没有选择.我们都必须向生活妥协,不是吗?"
 
     c "... ... ... ..."
 
     scene c_company_tease with tstmgr
 
-    c "Perhaps you have been really grown up for a little bit."
+    c "也许你真的长大了一点."
 
-    c "Alright, enough for chatting. Now let me teach you the ropes."
+    c "好了,聊够了.现在让我来教你怎么做."
 
-    player "Cool."
+    player "酷."
 
     scene c_company_normal with tstmgr
 
-    c "First of all, since you are still a junior student in college, we can only provide you a part-time job contract."
+    c "首先,由于你还是在校学生,我们只能为你提供一份兼职工作合同."
 
-    player "What does that mean?"
+    player "这是什么意思?"
 
-    c "That means your wage will be lower than regular employees, but on the other hand, your work time will be completely flexible."
+    c "这意味着你的工资会比正式员工低,但另一方面,你的工作时间是完全灵活的."
 
-    player "Wait a second, how much is my wage exactly?"
+    player "等一下,我的工资到底是多少?"
 
-    c "50 dollars to 100 dollars per day, depending on your work time."
+    c "每天50到100美元,这取决于你的工作时间."
 
-    player "??? Are you serious? That's basically the minimum wage that the government sets. I can earn more by washing dishes in a restaurant!"
+    player "???你是认真的吗???这基本上是政府设定的最低工资.我可以通过在餐厅洗碗赚更多的钱!"
 
     scene c_company_tease with tstmgr
 
-    c "Well, this is the only contract you can get from me. It's your freedom to choose whether to accept this or find yourself a dishwashing job."
+    c "这是你能从我这里得到的唯一合同.你可以自由选择是接受这份工作还是自己找份洗碗的工作."
 
-    player "What will Aunt Elisa think if she knows you are exploiting me?"
+    player "如果伊莉莎阿姨知道你在剥削我,她会怎么想?"
 
-    c "She won't judge it. You are my fiance, remember? If you can't even handle such an easy situation like this, you won't be worthy of being my future husband."
+    c "她不会介意的.你是我未婚夫,记得吗?如果你连这样简单的事情都处理不好,你就不配做我未来的丈夫."
 
     player "... ... ... ..."
 
-    narrator "What can I say? She is a freaking exploiter!"
+    narrator "我能说什么呢?她是个十足的剥削者!"
 
     scene sbsj_c1 with tstmgr
 
-    narrator "I really want to refuse her, but I don't have many choices right now. Besides, for the sake of those tits..."
+    narrator "我真的很想拒绝她,但是我现在没有太多的选择.此外,就当是为了这对奶子..."
 
-    player "Alright, I'll take the job."
+    player "好吧,我接受这份工作."
 
     scene c_company_slight_surprise with tstmgr
 
-    c "(Slightly surprising)... ... ... ..."
+    c "(有点吃惊)............"
 
     scene c_company_smile with tstmgr
 
-    c "Interesting."
+    c "有趣."
 
-    c "Since it's a part-time job, you can freely decide your working time. You can come here every forenoon and afternoon from Monday to Friday, or just be absent for an entire week if you want."
+    c "由于这是一份兼职工作,你可以自由决定你的工作时间.从周一到周五,你可以每天上午和下午来这里,或者如果你想,你也可以缺席整整一周."
 
-    player "Eh? Won't you fire me if I do that."
+    player "Eh?如果我真缺席一周,你会不会解雇我?"
 
     scene c_company_tease with tstmgr
 
-    c "No, but my mother won't be happy, and I will despise you for that as well."
+    c "不,但我妈妈不会高兴的,我也会因此看不起你的."
 
     player "Okay..."
 
-    c "Your wage will be paid into your account every night. Although you won't be able to earn much for now, your payment will increase along with your working experience."
+    c "你的工资将在每个星期天晚上存入你的账户.虽然你现在赚不了多少钱,但你的收入会随着你的工作经验而增加."
 
-    player "That sounds cheerful."
+    player "听起来真让人振奋."
 
-    c "During the work time, you are supposed to report all your problems to me directly. My office is in upstairs."
+    c "在工作期间,你应该直接向我汇报你所有的问题.我的办公室在楼上."
 
     player "... ... ... ..."
 
-    c "Is there any other question?"
+    c "还有其他问题吗?"
 
-    player "... I'm fine now."
+    player "...没了."
 
     scene c_company_smile with tstmgr
 
-    c "Great, now enjoy your first day at work."
+    c "很好,现在享受你第一天的工作吧."
 
     scene company_background with tstmgr
 
@@ -124,7 +124,7 @@ label sbsj:
 
     narrator "... ... ... ... ... ..."
 
-    call screen hint("From now on, you can choose to work at ShinyRost Inc. during weekdays. By working here, you will be able to earn a wage and develop your relationship with Theodora.")
+    call screen hint("从现在开始,你可以选择在工作日在新光大厦工作.通过在这里工作,你可以挣到工资,提高你的工作水平,发展你和狄奥多拉的关系.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -3,23 +3,23 @@ label E_love_4:
     scene void with tstmgr
     play music happy
 
-    "It’s a sunny day, the temperature is fine and the wind is gentle."
+    "这是一个阳光明媚的日子,温度很好,风和日丽."
 
 
 
     scene e_love_4_1 with tstmgr
 
-    "And here I am, standing on the beach."
+    "我在这里,站在海滩上."
 
 
 
-    "Standing here in silence, feeling the sunlight hitting on my skin and the moist sands lying under my feet. Ahh... ... all my worries seem to have all passed away."
+    "静静地站在这里,感受着阳光撒在我的皮肤上,还有我脚下潮湿的沙子.啊...我所有的烦恼似乎都过去了."
 
 
 
     scene e_love_4_2 with tstmgr
 
-    "Life is so good... ..."
+    "生活很美好......"
 
 
 
@@ -31,25 +31,25 @@ label E_love_4:
 
     scene void with tstmgr
 
-    "Ah, here they come..."
+    "Ah,她们来了..."
 
 
 
     scene e_love_4_4 with dissolve
 
-    "The three jewels on the beach."
+    "海滩上的三个瑰宝."
 
 
 
-    "I suggested Aunt Elisa to have a beach trip the other day. That’s why we are here right now."
+    "前几天我建议伊莉莎阿姨来海滩旅行.这就是我们现在在这里的原因."
 
 
 
-    e "Hi, [P]. Have you been waiting long?"
+    e "Hi,[P].你等了很久了吗?"
 
 
 
-    player "Ehh... no, I just got here."
+    player "Ehh...不,我刚到."
 
 
 
@@ -63,29 +63,29 @@ label E_love_4:
 
 
 
-    e "(His body, a grown man’s half-naked body... ... ... ...)"
+    e "(他的身体,一个半裸的成年人的身体............)"
 
 
 
-    e "(Looks... so delicious... ...)"
+    e "(看起来...很美味......)"
 
 
 
-    player "Are you alright, Aunt Elisa?"
+    player "你没事吧,伊莉莎阿姨?"
 
 
 
     scene e_love_4_6 with tstmgr
 
-    e "Emm? Oh, I’m fine. It was just..."
+    e "Emm?Oh,我很好.我只是..."
 
 
 
-    d "Wow... beach volleyball seems fun. I want to play that!~"
+    d "Wow...沙滩排球看起来很有趣.我想玩这个!~"
 
 
 
-    c "You are not even taller than the net, for Gods sake."
+    c "看在上帝的份上,你还没有网高呢."
 
 
 
@@ -97,77 +97,77 @@ label E_love_4:
 
     scene e_love_4_8 with tstmgr
 
-    d "[P], do you want to play volleyball? You and I against Theo and mommy."
+    d "[P],你想打排球吗?你和我对抗狄奥和妈妈."
 
 
 
     scene e_love_4_9 with tstmgr
 
-    e "Don’t count me in. I can’t do any sports with this suit on."
+    e "别把我算在内.我不能穿这套衣服做任何运动."
 
 
 
     scene e_love_4_10 with tstmgr
 
-    "Yeah... I’m sure that her tits will pop out from those strips when she jumps."
+    "Yeah...我相信当她跳起来的时候,她的乳头会从那些布条中蹦出来."
 
 
 
     scene e_love_4_11 with tstmgr
 
-    d "Humph, so why did you dress like this?"
+    d "Humph,那你为什么穿成这样?"
 
 
 
     scene e_love_4_12 with tstmgr
 
-    e "What’s the problem?"
+    e "有什么问题?"
 
 
 
     scene e_love_4_13 with tstmgr
 
-    d "It's too sexy! People are all watching you."
+    d "太性感了!人们都在看着你."
 
 
 
     scene e_love_4_14 with tstmgr
 
-    e "That’s the reason why we women wear bikinis on the beach. The more attention we get the better~"
+    e "这就是我们女人在海滩上穿比基尼的原因.我们得到的关注越多越好~"
 
 
 
     scene e_love_4_15 with tstmgr
 
-    c "Eh... but there are kids here..."
+    c "Eh...但这里也有孩子..."
 
 
 
     scene e_love_4_16 with tstmgr
 
-    e "Oh, yeah, you are right. I didn’t think of that."
+    e "Oh,yeah,你是对的.我没想到这一点."
 
 
 
     scene e_love_4_17 with tstmgr
 
-    e "Alright then, you three can go have some fun together and I will just stay under an umbrella and enjoy the wind."
+    e "那好吧,你们三个可以一起去玩,我就待在伞下,享受海风."
 
 
 
     scene e_love_4_18 with tstmgr
 
-    d "Okay! Let’s go, [P]!"
+    d "Okay!我们走,[P]!"
 
 
 
-    player "Eh... but... ..."
+    player "Eh...但是......"
 
 
 
     scene e_love_4_19 with tstmgr
 
-    e "Be careful, kids."
+    e "小心点,孩子们."
 
 
 
@@ -177,15 +177,15 @@ label E_love_4:
 
 
 
-    "I was half-forced to go with Irene and Theodora. We then played beach volleyball for sometime."
+    "我不得不和艾琳和狄奥多拉一起去.然后我们打了一段时间的沙滩排球."
 
 
 
-    "But I was not in the mood at all. I was worried about Aunt Elisa."
+    "但我根本没有心情.我很担心伊莉莎阿姨."
 
 
 
-    "This beach trip is supposed to make her feel less lonely, but turned out she was still left alone. This is... not right."
+    "这次海滩之旅本应让她感到不那么孤单,但结果她还是一个人.这是...不对的."
 
 
 
@@ -193,41 +193,41 @@ label E_love_4:
 
 
 
-    "I think I need to stay with her."
+    "我想我需要和她呆在一起."
 
 
 
     scene e_love_4_20 with dissolve
 
-    d "[P]? Where are you going?"
+    d "[P]?你去哪儿?"
 
 
 
-    player "I don’t feel so good. It might be a sunstroke. I’ll go find Aunt Elisa and have a rest."
+    player "我感觉不太好.可能是中暑了.我去找伊莉莎阿姨,休息一下."
 
 
 
-    c "You need us to come with you?"
+    c "你需要我们和你一起去吗?"
 
 
 
-    player "No, don’t worry about me. I’ll be fine."
+    player "不,别为我担心.我会没事的."
 
 
 
-    c "Okay... ..."
+    c "嗯......"
 
 
 
     scene e_love_4_21 with tstmgr
 
-    c "I’m going to swim. Are you coming?"
+    c "我要去游泳.你要来吗?"
 
 
 
     scene e_love_4_22 with tstmgr
 
-    d "Yeah, let’s go!~"
+    d "Yeah,我们走!~"
 
 
 
@@ -237,7 +237,7 @@ label E_love_4:
 
 
 
-    player "(I really would like to go with them and have fun in the water together. But... Aunt Elisa is more important for now...)"
+    player "(我真的很想和她们一起去,一起在水里玩.但是...伊莉莎阿姨现在更重要...)"
 
 
 
@@ -245,77 +245,77 @@ label E_love_4:
 
 
 
-    "Meanwhile, Elisa was resting on a beach chair and... ..."
+    "与此同时,伊莉莎正躺在一张沙滩椅上......"
 
 
 
     scene e_love_4_23 with tstmgr
 
-    "Man A" "Yo, hot lady. Are you here alone?"
+    "男人A""Yo,热辣的女士.你一个人在这儿吗??"
 
 
 
-    e "Why do you want to know?"
+    e "你问这个做什么?"
 
 
 
-    "Man A" "Well, you know, you are so marvelous and I was attracted by you the first second I saw you. I thought maybe we can make friends and you know, have some fun together?"
+    "男人A""Well,你知道吗,你太棒了,我第一眼看到你就被你吸引住了.我想也许我们可以交朋友,一起玩得开心?"
 
 
 
     scene e_love_4_24 with tstmgr
 
-    e "Oh, I am flattered. You are so sweet~"
+    e "Oh,我受宠若惊.你嘴真甜~"
 
 
 
-    e "But no, sorry, I came with my family, so... ..."
+    e "但是,抱歉,我是和家人一起来的......"
 
 
 
-    player "Hey, is there a problem?"
+    player "Hey,怎么了?"
 
 
 
     scene void with tstmgr
 
-    "The guy walked away as I approached."
+    "我走近时,那家伙走开了."
 
 
 
     scene e_love_4_25 with tstmgr
 
-    e "Did you see that, [P]? Someone just tried to accost me, a 40-year-old old woman. That was quite an accomplishment."
+    e "你看见了吗,[P]?有人想跟我搭讪,我一个40岁的老夫人.这是一个相当大的成就."
 
 
 
-    player "You are absolutely charming as you used to be, Aunt Elisa."
+    player "你还是那么迷人,伊莉莎阿姨."
 
 
 
-    e "Oww~ sweetie..."
+    e "Oww~甜心..."
 
 
 
     scene e_love_4_26 with tstmgr
 
-    e "By the way, why didn’t you stay with Theo and Irene?"
+    e "顺便问一下,你为什么没和狄奥和艾琳待一起了?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    player "I think you are the one that needs my company, Aunt Elisa. I don’t want you to feel lonely."
+    player "我想你才是需要我陪伴的人,伊莉莎阿姨.我不想让你感到孤独."
 
 
 
-    e "[P]... I’m so happy."
+    e "[P]...我很高兴."
 
 
 
-    e "Come and sit with me, honey."
+    e "来和我一起坐吧,亲爱的."
 
 
 
@@ -325,59 +325,59 @@ label E_love_4:
 
     scene e_love_4_27 with tstmgr
 
-    "I sat down besides her legs."
+    "我在她的腿旁坐了下来."
 
 
 
-    e "You don’t look so good. Did you stay up late last night?"
+    e "你看起来不太好.昨晚你熬夜了?"
 
 
 
     scene e_love_4_28 with tstmgr
 
-    player "Eh... yeah. Actually, I couldn’t sleep before 3am for quite a while. There are just so many things I have to deal with everyday."
+    player "Eh...yeah.事实上,我在凌晨3点之前有好长一段时间无法入睡.每天我要处理的事情太多了."
 
 
 
-    e "You must be really tired."
+    e "你一定很累了."
 
 
 
     scene e_love_4_29 with tstmgr
 
-    e "Do you want to have a nap? The wave sounds beautiful and the wind is soft."
+    e "你想睡一会吗?海浪听起来很美,风也很柔和."
 
 
 
-    e "You can..."
+    e "你可以..."
 
 
 
     scene e_love_4_30 with tstmgr
 
-    e "You can rest your head on my laps if you want... ..."
+    e "如果你愿意,你可以把你的头靠在我的腿上......"
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
     scene e_love_4_31 with tstmgr
 
-    "How can I refuse an offer like that? I stared at that pair of long naked legs for a few seconds, and then put my head on it without hesitation."
+    "我怎么能拒绝这样的提议呢?我盯着那对裸露的长腿看了几秒钟,然后毫不犹豫地把头靠在上面."
 
 
 
     scene void with tstmgr
 
-    "But... ..."
+    "但是......"
 
 
 
     scene e_love_4_32 with tstmgr
 
-    e "Oh... sorry, I didn’t think of that. You must be very uncomfortable keeping this position."
+    e "Oh...抱歉,我没有想到这一点.你保持这个姿势一定很不舒服."
 
 
 
@@ -387,53 +387,53 @@ label E_love_4:
 
     scene e_love_4_33 with tstmgr
 
-    "She is right. It indeed isn’t a good position. This chair is just too small for 2 people."
+    "她是对的.这确实不是一个好位置.这把椅子太小了,坐不下两个人."
 
 
 
-    "But I don’t really care about it because..."
+    "但我并不在乎,因为..."
 
 
 
     scene e_love_4_34 with tstmgr
 
-    "What I am seeing right now is just splendid. Those tits, damn... ..."
+    "我现在所看到的一切真是太棒了.这胸,damn......"
 
 
 
     scene e_love_4_32 with tstmgr
 
-    e "I can’t let you keep this position. It’s bad for your spine. Now sit up~"
+    e "我不能让你继续这样下去.这对你的脊椎不好.现在坐起来~"
 
 
 
-    player "What? But... ..."
+    player "什么?但......"
 
 
 
     scene e_love_4_35 with tstmgr
 
-    e "Don’t worry, I just thought of a better position..."
+    e "别担心,我只是想到一个更好的位置..."
 
 
 
-    e "And a better pillow for you as well."
+    e "一个更好的枕头给你."
 
 
 
     scene e_love_4_36 with tstmgr
 
-    player "What are you talking about, Aunt Elisa?"
+    player "你在说什么,伊莉莎阿姨?"
 
 
 
-    e "I’m talking about... ..."
+    e "我说......"
 
 
 
     scene e_love_4_37 with tstmgr
 
-    e "This... ... ... ..."
+    e "这样............"
 
 
 
@@ -441,69 +441,69 @@ label E_love_4:
 
 
 
-    e "You can rest your head here, on my chest."
+    e "你可以把头靠在我的胸上."
 
 
 
-    "A breast pillow? Wow... this is really something new. I never saw it elsewhere before, not even in the porns. How did she come up with such a genius idea?"
+    "乳房枕头吗?哇...这确实是新的东西.我从没在别的地方见过,甚至在色情片里也没见过.她是怎么想到这个天才的主意的?"
 
 
 
-    player "Can I... really do that?"
+    player "我真的...可以这样做吗?"
 
 
 
-    e "Of course~ Don’t think too much, just come to me and relax yourself."
+    e "当然~不要想太多,来我这里放松一下."
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
     scene e_love_4_38 with tstmgr
 
-    "I carefully set my head on her breasts. Oh my... this is definitely the best pillow in this world."
+    "我小心翼翼地把头靠在她的胸上.哦,我的...这绝对是世界上最好的枕头."
 
 
 
-    "The extreme softness, the wonderful elasticity, and Aunt Elisa’s good-smelling body scent combined together. No man can ever resist this..."
+    "极柔软的质地,极好的弹性,加上伊莉莎阿姨身上散发出的好闻的体香.没有人能抗拒这一点..."
 
 
 
     scene e_love_4_39 with tstmgr
 
-    player "Aunt Elisa... This feels so great~"
+    player "伊莉莎阿姨...这感觉太棒了~"
 
 
 
-    e "Shh... Shh... Now close your eyes and sleep, honey."
+    e "Shh...Shh...现在闭上眼睛睡觉吧,亲爱的."
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
-    "Her words seemed to have magic that made me feel tired... No, it’s not because of her words, it’s because of this pillow. This pillow is just so comfortable that it gave me an urge to sleep the first second I lied on it."
+    "她的话似乎有魔力,使我感到疲倦...不,不是因为她的话,而是因为这个枕头.这个枕头太舒服了,我躺在上面的第一秒钟就有想睡觉的冲动."
 
 
 
-    player "Aunt Elisa... ..."
+    player "伊莉莎阿姨......"
 
 
 
     scene e_love_4_40 with tstmgr
 
-    "I turned my head a little and kissed her left breast unconsciously."
+    "我稍稍转过头,不自觉地吻了吻她的左胸."
 
 
 
-    e "(Ohhh~~~ I always want someone to caress me with kisses like this...)"
+    e "(Ohhh~~~我总是希望有人用这样的吻来爱抚我...)"
 
 
 
-    e "(My body... feels so hot...)"
+    e "(我的身体...感觉好热...)"
 
 
 

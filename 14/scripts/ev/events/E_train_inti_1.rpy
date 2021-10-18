@@ -3,47 +3,47 @@ label E_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, while I came to Aunt Elisa’s house for tutoring Irene as usual."
+    "几天后,我像往常一样到伊莉莎阿姨家给艾琳辅导功课."
 
 
 
     scene e_train_inti_1_1 with dissolve
 
-    e "Welcome, sweetie~"
+    e "欢迎你,亲爱的~"
 
 
 
-    player "Good afternoon, Elisa."
+    player "下午好,伊莉莎."
 
 
 
     scene e_train_inti_1_2 with tstmgr
 
-    e "(Elisa... ... I guess I’m going to be flushed every time when he calls me that name~)"
+    e "(伊莉莎...我想每次他叫我这个名字的时候我都会脸红的~)"
 
 
 
     scene e_train_inti_1_3 with tstmgr
 
-    "She came closer to me and whispered in my ear..."
+    "她走近我,对我耳语了几句..."
 
 
 
-    e "Could you... meet me in the bungalow after you are done with Irene today?"
+    e "你能...今天和艾琳弄完后在平房见我吗?"
 
 
 
     scene e_train_inti_1_2 with tstmgr
 
-    "She quickly went back to her original position and blinked to me with a smiling face."
+    "她很快回到原来的位置,朝我眨了眨眼,露出了微笑."
 
 
 
-    player "O... okay, I’ll be there."
+    player "O...okay,我会去的."
 
 
 
-    "That bungalow, a secret between Aunt Elisa and I... ..."
+    "那间平房是我和伊莉莎阿姨之间的秘密......"
 
 
 
@@ -53,53 +53,53 @@ label E_train_inti_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene e_train_inti_1_4 with dissolve
 
-    "Well, to be honest, I don’t like that bungalow at all. It’s just so hard to get there. Going through a forest is simply annoying."
+    "Well,老实说,我一点也不喜欢那间平房.因为太偏了.穿越森林真是烦人."
 
 
 
-    "Especially at night..."
+    "尤其是在晚上..."
 
 
 
-    "Man... this place looks so creepy. I feel like I am being watched by something."
+    "伙计.这地方看起来好恐怖.我觉得我被什么东西盯着."
 
 
 
-    "Might be a ghost? Or an animal? Whatever, I just hate this forest."
+    "可能是鬼?或者一个动物?不管怎样,我就是讨厌这片森林."
 
 
 
     scene void with tstmgr
 
-    "But... all the unhappiness would be gone once I stepped into that bungalow."
+    "但是...一旦我走进那间平房,所有的不快就都消失了."
 
 
 
     scene e_train_inti_1_5 with dissolve
 
-    e "Welcome, [P]..."
+    e "欢迎,[P]..."
 
 
 
-    player "Elisa... ... ... ..."
+    player "伊莉莎............"
 
 
 
-    "She was already there, waiting for me with her naked body like a horny newly-married housewife."
+    "她已经在那里了,赤裸的身体像一个饥渴的新婚家庭主妇在等我."
 
 
 
-    e "I’m glad that you didn’t get lost in the forest~"
+    e "我很高兴你没有在森林里迷路~"
 
 
 
-    e "And now... as your prize of reaching the destination through the forest... ..."
+    e "而现在...作为你穿过森林到达目的地的奖励......"
 
 
 
@@ -109,37 +109,37 @@ label E_train_inti_1:
 
 
 
-    "She somehow didn’t finish her words. I guess she was going to say something like ‘you can do everything you want to me’, but was too embarrassed to say it out at the last second. How adorable... ..."
+    "不知怎么的,她没有把话说完.我猜她本来想说“你可以对我做任何你想做的事”之类的话,但在最后一秒钟又不好意思说出来.真可爱......"
 
 
 
-    "Well, she doesn’t need to say it out anyway."
+    "Well,她不需要说出来."
 
 
 
     scene e_train_inti_1_7 with tstmgr
 
-    player "And here I come to get my prize... ..."
+    player "我是来领取我的奖励的......"
 
 
 
-    e "*Kissing* Wummm~~~ wummm~~~"
+    e "*吻*Wummm~~~wummm~~~"
 
 
 
-    e "I... was thinking about you all day. Thanks for coming... ..."
+    e "我...整天都在想你.谢谢你来......"
 
 
 
-    player "I told you, I will never let you be alone again..."
+    player "我告诉过你,我再也不会让你孤单了..."
 
 
 
-    e "Your father... is going to kill me after he gets out from jail~"
+    e "你的父亲...他出狱后会杀了我吗~"
 
 
 
-    player "No, I think he is going to thank you for taking care of me well~"
+    player "No,我想他会感谢你对我的照顾的~"
 
 
 
@@ -149,7 +149,7 @@ label E_train_inti_1:
 
     scene void with tstmgr
 
-    "There is no need to say anything else because we both know what will happen next. A young energetic male versus a thirsty middle-age female, tonight’s battle is going to be brutal... ..."
+    "没有必要再说什么,因为我们都知道接下来会发生什么.一个精力充沛的年轻男性对一个饥渴的中年女性,今晚的战斗将是残酷的......"
 
 
 
@@ -159,15 +159,15 @@ label E_train_inti_1:
 
 
 
-    e "Ahh~ ahh~ ahh~ love~ you~ ahh~~~"
+    e "Ahh~ahh~ahh~爱~你~ahh~~~"
 
 
 
-    e "I am so happy... that I can be your woman~~~"
+    e "我太高兴了...我可以成为你的女人~~~"
 
 
 
-    e "Ahhh~~ ahhh~~~ [P]~~~ keep going~~~"
+    e "Ahhh~~ahhh~~~[P]~~~继续~~~"
 
 
 
@@ -187,7 +187,7 @@ label E_train_inti_1:
 
 
 
-    e "I will definitely... be addicted to this~~~"
+    e "我一定会...沉迷于此~~~"
 
 
 
@@ -195,11 +195,11 @@ label E_train_inti_1:
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎......"
 
 
 
-    "This is really something different... ... Having sex with Aunt Elisa is different from all my previous sexual experiences."
+    "这真是与众不同...和伊莉莎阿姨做爱和我以前所有的性经历都不一样."
 
 
 
@@ -216,19 +216,19 @@ label E_train_inti_1:
 
 
 
-    e "I love it~~~ I love it~~~ I love it so much~~~"
+    e "我爱它~~~我爱它~~~我好爱它~~~"
 
 
 
-    player "Elisa... ... your pussy is wet like a stream~"
+    player "伊莉莎...你的小穴湿得像条小溪~"
 
 
 
-    e "S... stop making fun of meeee... ..."
+    e "别...别再取笑我了......"
 
 
 
-    "Her lust is like a bottomless pit that can’t be filled at all. No matter how many times of orgasm she has, she is still far from being exhausted."
+    "她的欲望就像一个无法填满的无底洞.不管她有过多少次高潮,她还远远没有精疲力尽."
 
 
 
@@ -245,27 +245,27 @@ label E_train_inti_1:
 
 
 
-    player "How many times have I came in your pussy?"
+    player "我在你小穴射过多少次了?"
 
 
 
-    e "Five? Six? I... I can’t remember~"
+    e "5次?6次?我...我不记得了~"
 
 
 
-    e "Just... give me more~ I want more of your cum~"
+    e "只是...给我更多~我想要更多你的精液~"
 
 
 
-    "I used to be proud of my sexual skill and I thought I could easily satisfy every girl with my dick, but this time, for the first time in my life, I started to feel worried... ..."
+    "我曾经为我的性技巧感到骄傲,我认为我可以轻易地用我的鸡巴满足每一个女孩,但这一次,在我的生命中第一次,我开始感到担心......"
 
 
 
-    player "I... I never came so many times in one night before... but... ..."
+    player "我...我从来没有在一个晚上射过这么多次...但......"
 
 
 
-    player "Her it goes, Elisa, I’m... ..."
+    player "伊莉莎,我......"
 
 
 
@@ -275,7 +275,7 @@ label E_train_inti_1:
 
     $ flashlight()
 
-    player "I’m cumming again!!~~~"
+    player "我又要射了!!~~~"
 
 
 
@@ -285,7 +285,7 @@ label E_train_inti_1:
 
 
 
-    "And that was it, my last shot and the best shot of tonight..."
+    "这是我射的最后一次,也是我今晚射的最爽的一次..."
 
 
 
@@ -295,11 +295,11 @@ label E_train_inti_1:
 
 
 
-    player "I think... this is it for today."
+    player "我想...今天就到此为止吧."
 
 
 
-    e "Okay, [P]~ Thanks... for the feast~"
+    e "Okay,[P]~谢谢...你的盛宴~"
 
 
 
@@ -309,23 +309,23 @@ label E_train_inti_1:
 
 
 
-    "Half an hour later..."
+    "半小时后..."
 
 
 
     scene e_train_inti_1_14 with dissolve
 
-    player "Ahh... ... my waist hurts... ..."
+    player "Ahh......我的腰疼......"
 
 
 
-    player "I’m so exhausted..."
+    player "我太累了..."
 
 
 
     scene e_train_inti_1_15 with tstmgr
 
-    e "Me too~"
+    e "我也一样~"
 
 
 
@@ -333,29 +333,29 @@ label E_train_inti_1:
 
 
 
-    "Nope, just look at her energetic smile! She is not even tired!"
+    "Nope,看看她那充满活力的微笑吧!她一点也不累!"
 
 
 
-    "Ahhhhh... ... it’s so frustrated to know that I just got overpowered by a woman in sex for the first time."
+    "Ahhhhh......当我第一次在性爱中被一个女人压倒时,我感到很沮丧."
 
 
 
-    "But I must not get discouraged, I will do more exercises and push myself to the limit. I’m sure one day I will get my honor back... ..."
+    "但我不能气馁,我会做更多的锻炼,把自己推向极限.我相信总有一天我会夺回我的荣誉......"
 
 
 
     scene e_train_inti_1_16 with tstmgr
 
-    e "I think we should meet here every week, what do you say?"
+    e "我想我们应该每周在这里见面,你说呢?"
 
 
 
-    player "I... I’m happy to, but why here? This place is so inconvenient. I almost lost my way in the forest today."
+    player "我...我很乐意,但为什么在这里?这地方真不方便.我今天在森林里差点迷路."
 
 
 
-    player "Maybe the next time we should stay in the city... ..."
+    player "也许下次我们应该待在城里......"
 
 
 
@@ -365,43 +365,43 @@ label E_train_inti_1:
 
 
 
-    e "Sorry, I know it’s inconvenient, but... ..."
+    e "对不起,我知道不方便,但是......"
 
 
 
     scene e_train_inti_1_18 with tstmgr
 
-    e "You belong to my daughters when we are in the city and I will never invade into your relationships."
+    e "当我们在城里的时候,你是我女儿的,我永远不会干涉你的感情."
 
 
 
     scene e_train_inti_1_19 with tstmgr
 
-    e "But in here, only at this place, I can have you all to myself, even just for a night."
+    e "但在这里,只有在这个地方,我可以拥有你,即使只是一个晚上."
 
 
 
     scene e_train_inti_1_18 with tstmgr
 
-    e "Would you please... satisfy my selfishness on this?"
+    e "请你...满足我的自私吧?"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎......"
 
 
 
-    player "Okay, I will be here whenever you want."
+    player "Okay,只要你愿意,我随时都在."
 
 
 
-    e "Thank you~"
+    e "谢谢你~"
 
 
 
     scene e_train_inti_1_16 with tstmgr
 
-    e "Now you should take a rest, sweetie~"
+    e "现在你该休息了,亲爱的~"
 
 
 
@@ -411,7 +411,7 @@ label E_train_inti_1:
 
 
 
-    "I spent a wonderful night with Aunt Elisa in the bungalow..."
+    "我和伊莉莎阿姨在平房里度过了一个愉快的夜晚..."
 
 
 

@@ -7,21 +7,21 @@ label CDE_duo_3:
 
 
 
-    player "*Swallowing hard* ... ... ... ..."
+    player "*艰难的吞咽* ... ... ... ..."
 
 
 
-    "Sigh... ... What have I done... ..."
+    "叹息......我做了什么... ..."
 
 
 
-    c "Sigh... ... What the fuck have we done?... ..."
+    c "叹息......我们到底做了什么?"
 
 
 
     scene cde_duo_3_1 with dissolve
 
-    c "Anyone wants to confess about what happened in that bungalow?"
+    c "有谁想忏悔在那间平房里发生的事情?"
 
 
 
@@ -29,23 +29,22 @@ label CDE_duo_3:
 
 
 
-    player "Trust me, Theo, I really tried to resist, but you were really... wild after you got drunk."
+    player "相信我，狄奥，我真的试图控制，但你喝醉后......真的很狂野."
 
 
 
     scene cde_duo_3_2 with tstmgr
 
-    c "So it was my fault?"
-
+    c "所以这是我的错?"
 
 
     scene cde_duo_3_3 with tstmgr
 
-    e "Sor... sorry, Theo, it was all my fault."
+    e "对......对不起，狄奥，这都是我的错."
 
 
 
-    e "I tried to make you drunk so I can cover the secret between me and [P], but things got out of control. I didn’t mean to... ..."
+    e "我想把你灌醉，这样我就可以掩盖我和[P]之间的秘密，但事情失去了控制.我不是有意要... ..."
 
 
 
@@ -55,23 +54,23 @@ label CDE_duo_3:
 
     scene cde_duo_3_4 with tstmgr
 
-    c "When did it begin?"
+    c "什么时候开始的?"
 
 
 
     scene cde_duo_3_5 with tstmgr
 
-    e "You mean... [P] and I?"
+    e "你是说... [P]和我?"
 
 
 
-    c "*Nodding* ... ... ... ..."
+    c "*点头* ... ... ... ..."
 
 
 
     scene cde_duo_3_6 with tstmgr
 
-    e "It has been... ... weeks... ..."
+    e "已经......几个星期了......"
 
 
 
@@ -81,17 +80,17 @@ label CDE_duo_3:
 
     scene cde_duo_3_7 with tstmgr
 
-    c "Oh... ... mom... ..."
+    c "Oh... ... 妈... ..."
 
 
 
-    e "I’m so sorry, Theo, this was... not supposed to happen. I am such a bad mother... ..."
+    e "我很抱歉，狄奥，这......不应该发生.我真是个坏妈妈......"
 
 
 
     scene cde_duo_3_8 with tstmgr
 
-    e "I... don’t deserve to be your mother... ..."
+    e "我......不配做你的母亲......"
 
 
 
@@ -99,103 +98,102 @@ label CDE_duo_3:
 
 
 
-    e "It was not [P]’s fault. It’s... all because of me. I was the one who seduced him. I... I... I was too lonely and too desperate to start a relationship with a man... ..."
+    e "这不是[P]的错.这......都是因为我.是我勾引了他.我... 我... 我太孤独了，我太想和一个男人开始一段关系了......"
 
 
 
-    player "Wait, I... ..."
+    player "等下, 我... ..."
 
 
 
-    c "You don’t need to cover for him, mom."
+    c "你不需要为他打掩护，妈妈."
 
 
 
-    player "I... ... ... ..."
+    player "我... ... ... ..."
 
 
 
     scene cde_duo_3_9 with tstmgr
 
-    e "I’m sorry to both of you, and I dare not ask you to forgive me. I will... move to another city alone and never interrupt your lives again."
+    e "我对你们两个人都很抱歉，我不敢要求你们原谅我.我将......独自搬到另一个城市，不再打扰你们的生活."
 
 
 
-    player "Wait, no!"
+    player "等下!"
 
 
 
-    "Shit, I can’t let this happen!"
-
+    "妈的，我不能让这种事发生！"
 
 
     scene cde_duo_3_10 with tstmgr
 
-    c "Sigh... ... I thought my view of love was open enough... ..."
+    c "叹息......我以为我的爱情观已经足够开放了......"
 
 
 
     scene cde_duo_3_11 with tstmgr
 
-    c "But... it still feels weird to fall in love with the same person as my mom does... ..."
+    c "但是......和我妈妈爱上同一个人的感觉还是很奇怪......"
 
 
 
     scene cde_duo_3_12 with tstmgr
 
-    c "But you know, mom, I’m really happy for you."
+    c "但是你知道吗，妈妈，我真的为你感到高兴."
 
 
 
-    e "Theo... ..."
+    e "狄奥... ..."
 
 
 
-    c "It’s just so good to see that... you are loving a man again."
+    c "看到......你又在爱着一个男人，真是太好了."
 
 
 
-    c "You have sacrificed so much for me and Irene during our growth. Now it’s time for you to pursue your love and I will not stop you no matter what."
+    c "在我们的成长过程中，你为我和艾琳牺牲了这么多.现在是你追求你的爱情的时候了，无论如何我都不会阻止你."
 
 
 
     scene cde_duo_3_13 with tstmgr
 
-    c "If one of us has to leave, it should be me."
+    c "如果我们中有人必须离开，那将会是我."
 
 
 
-    player "Ehh... ... wait... ..."
+    player "Ehh... ... 等一下... ..."
 
 
 
-    "Well, I can’t let this happen either."
+    "好吧，我也不能让这种情况发生."
 
 
 
     scene cde_duo_3_14 with tstmgr
 
-    e "No, Theo, I am an intruder in your relationship. I am nothing but a shameless cheater. I have to leave."
+    e "不，狄奥，我是你们关系中的一个第三者.我只不过是一个无耻的骗子.我才是应该离开的那个."
 
 
 
-    c "Stop saying that, you are the best mom in the world, nothing can change that. You deserve everything you want."
+    c "别再这么说了，你是世界上最好的妈妈，没有什么可以改变这一点.你应该得到你想要的一切."
 
 
 
-    e "Theo, I... ..."
+    e "狄奥, 我... ..."
 
 
 
     scene cde_duo_3_15 with tstmgr
 
-    c "*Talked to you* Take care of my mom, will you?"
+    c "*对你说*照顾好我妈妈，好吗?"
 
 
 
     scene cde_duo_3_16 with tstmgr
 
-    c "And don’t ever expect me to call you ‘dad’~"
+    c "永远不要指望我叫你 '爸爸'.~"
 
 
 
@@ -203,187 +201,187 @@ label CDE_duo_3:
 
 
 
-    "Okay, honestly, I am moved by the bond between the mother and the girl, but it looks like one of them is really going to leave me! What should I do now?"
+    "好吧，说实话，我被这对母女之间的感情感动看，但看起来她们中的一个似乎要离开我了！""我现在应该怎么做?"
 
 
 
     label CDE_duo_3_choice_1:
 
     menu:
-        "Stand out":
+        "站出来":
 
 
             scene cde_duo_3_17 with tstmgr
 
             $ flashlight()
 
-            player "I won’t allow either of you to leave me."
+            player "我不允许你们任何一个人离开我."
 
-            player "And... no one has to show the love to each other by hurting herself."
+            player "而且......没有人需要通过伤害自己来表达对对方的爱."
 
             e "[P]... ... ... ..."
 
             scene cde_duo_3_18 with tstmgr
 
-            c "Sigh... ... But the problem right now is not about you. It’s about how mom and I will face each other in the future."
+            c "叹息.......但现在的问题不是关于你.而是关于妈妈和我将来如何面对对方的问题."
 
             scene cde_duo_3_19 with tstmgr
 
-            c "How are we going to face each other if we have a relationship with the same man? This is too, eh... deviant."
+            c "如果我们和同一个男人发生关系，我们该怎么面对对方呢?这也太，呃......离经叛道了."
 
             scene cde_duo_3_20 with tstmgr
 
-            c "I may even deal with it if it was Irene, but... mom? I don’t know... ..."
+            c "如果是艾琳，我可能还会处理，但是......妈妈?我不知道......"
 
             player "Oh... ..."
 
             scene cde_duo_3_21 with tstmgr
 
-            c "Hmmmmm? Wait a fucking second, why did your expression turn relaxed a bit after I mentioned Irene? I was just making an example."
+            c "嗯嗯?他妈的等一下，为什么我提到艾琳后你的表情变得轻松了一些?我只是在做一个例子."
 
             scene cde_duo_3_22 with tstmgr
 
-            c "Wait, did you really fuck my sister?"
+            c "等等，你真的操了我妹妹?"
 
             scene cde_duo_3_23 with tstmgr
 
-            e "What???"
+            e "什么???"
 
-            "Oh... ... shit, now things get even worse... ..."
+            "哦............该死，现在事情变得更糟糕了......"
 
             scene cde_duo_3_24 with tstmgr
 
-            c "Great, our family is totally hopeless... ..."
+            c "太好了，我们的家庭完全没有救了......"
 
             player "I... ... ... ..."
 
-            c "Mother and daughters, all got fucked by the same man... ..."
+            c "母亲和女儿们，都被同一个男人干了......"
 
             scene cde_duo_3_25 with tstmgr
 
-            e "Irene, how could it be... ..."
+            e "艾琳，怎么可能......"
 
             c "... ... ... ..."
 
             scene cde_duo_3_26 with tstmgr
 
-            c "Now the issue has become completely different since Irene is also involved. She will leave mom too after she knows this... ... There will be an unbreakbable barrier between the three of us, and the family will fall apart."
+            c "现在问题已经变得完全不同了，因为艾琳也参与其中.她知道这件事后也会离开妈妈.......我们三个人之间会有一个牢不可破的障碍，这个家庭会分崩离析."
 
             c "We cannot... let this happen."
 
             scene cde_duo_3_27 with tstmgr
 
-            c "You are such a curse, [P]. I will never forgive you if our family really gets broken because of you."
+            c "你真是个祸害，[P].如果我们的家庭真的因为你而破碎，我永远不会原谅你."
 
-            player "Sorry... ... ... ..."
+            player "抱歉... ... ... ..."
 
             scene cde_duo_3_28 with tstmgr
 
             c "... ... ... ..."
 
-            c "I guess... now there is only two ways left in order to keep our family from breaking up."
+            c "我想......现在为了不让我们的家庭破裂，只剩下两条路了."
 
             scene cde_duo_3_29 with tstmgr
 
-            c "One, Let’s take this bastard out of our lives. Let’s move to another place and no one contacts him ever again. We just pretend that he doesn’t exist."
+            c "一，让我们把这个混蛋从我们的生活中剔除.让我们搬到另一个地方，再也没有人联系他.我们就假装他不存在."
 
-            c "And mom, Irene, and I will be just like before. We will still be... ... loving mother and lovely daughters. One day we will forget everything that has happened here."
+            c "而妈妈、艾琳和我将和以前一样.我们仍将是......慈爱的母亲和可爱的女儿们.有一天我们会忘记这里所发生的一切."
 
             player "No no no no no!... ... ... ..."
 
             scene cde_duo_3_30 with tstmgr
 
-            c "As for the second way... ..."
+            c "至于第二条路......."
 
             scene cde_duo_3_31 with tstmgr
 
-            c "*Looking at you* ... ... ... ..."
+            c "*看着你* ... ... ... ..."
 
             scene cde_duo_3_32 with tstmgr
 
-            c "Mom, Irene, and I... ... let’s be frankly with each other and share this bastard together..."
+            c "妈妈、艾琳和我............让我们彼此坦诚相待，一起分享这个混蛋......"
 
-            c "We will all be... in his harem."
+            c "我们都将是......他的后宫."
 
             scene cde_duo_3_33 with tstmgr
 
-            e "Harem... ... ... ..."
+            e "后宫... ... ... ..."
 
-            player "That... eh... sounds good to me... ..."
+            player "那......呃......听起来不错......"
 
             scene cde_duo_3_34 with tstmgr
 
-            e "Theodora, you mean... ..."
+            e "狄奥多拉, 你的意思是n... ..."
 
             scene cde_duo_3_35 with tstmgr
 
-            c "No one will leave, nothing will change, and our family will still maintain in harmony like before. Let’s just... immerse into this deviant love and form a perverted family together... ..."
+            c "没有人会离开，一切都不会改变，我们的家庭仍然会像以前一样保持和谐.我们就......沉浸在这离经叛道的爱情中，一起组成一个变态的家庭......"
 
-            "Theodora said those words calmly and peacefully as if she was just stating an ordinary issue."
+            "狄奥多拉说这些话时很平静，很平和，好像她只是在陈述一个普通的问题."
 
             scene cde_duo_3_36 with tstmgr
 
-            c "So, mom... ... I will let you decide. Which way do you want to choose?"
+            c "那么，妈妈.......我将让你决定.你想选择哪种方式?"
 
             scene cde_duo_3_37 with tstmgr
 
-            e "I... ... ... ..."
+            e "我... ... ... ..."
 
-            player "Auntie... ..."
+            player "姨... ..."
 
             scene cde_duo_3_38 with tstmgr
 
-            "Elisa suddenly showed me a smile."
+            "艾丽莎突然向我展示了一个微笑."
 
             scene cde_duo_3_39 with tstmgr
 
-            e "We can’t take [P] out of our lives. We just won’t be able to do that. He has been with us for so many years. He is already a part of this family too."
+            e "我们不能把[P]从我们的生活中剔除.我们不能那样做.他已经和我们在一起这么多年了.他也已经成为这个家庭的一部分这么久了."
 
             scene cde_duo_3_40 with tstmgr
 
-            e "So I guess... there is only one way left... ..."
+            e "所以我想......只剩下一条路了......."
 
             c "... ... ... ..."
 
             scene cde_duo_3_41 with tstmgr
 
-            c "Oh... mom... ..."
+            c "Oh... 妈... ..."
 
             scene cde_duo_3_42 with tstmgr
 
-            c "It seems like we are really a hopeless family."
+            c "看来我们真的是一个无可救药的家庭"
 
-            c "We will be cursed by everyone who finds out the truth. We will lose all the fame and our story will be published on the tabloids. People will take us as incurable sluts... ..."
+            c "我们会被发现真相的人诅咒.我们将失去所有的名声，我们的故事将被刊登在小报上.人们会把我们当成无可救药的荡妇......"
 
-            c "But... ..."
+            c "但是... ..."
 
             scene cde_duo_3_43 with tstmgr
 
-            e "We will be happy~"
+            e "我们会很高兴~"
 
             scene cde_duo_3_44 with tstmgr
 
-            c "Yes, we will... be a happy family, the four of us, and more~"
+            c "是的，我们将......成为一个幸福的家庭，我们四个人，还有更多~"
 
-            player "Aunt Elisa... Theo... ..."
+            player "艾莉莎姨妈... 狄奥... ..."
 
-            "Well, that was exactly what I want, but... damn, I was so surprised."
+            "嗯，这正是我想要的，但是......该死，我太惊讶了."
 
-            "I thought things would go worse after they know about what happened between Irene and I, but it seems like I was totally wrong."
+            "我以为在他们知道我和艾琳之间发生的事情后，事情会变得更糟，但看来我完全错了."
 
-            "It seems like... everything just get resolved in a flash. Am I really not dreaming?"
+            "似乎......一切都在一瞬间得到解决.我真的不是在做梦吗?"
 
-            player "I... I don’t know what to say... ..."
+            player "我......我不知道该说什么......"
 
             scene cde_duo_3_45 with tstmgr
 
-            c "Got overwhelmed with ecstasy? You bastard, haven’t you realized that it was all your fault?"
+            c "被狂喜冲昏了头脑?你这个混蛋，你还没有意识到这都是你的错吗?"
 
-            c "Now you need to... take the responsibility."
+            c "现在你需要......承担起责任."
 
-            e "The three hopeless ladies of the Shinyrost family, from now on... will all rely on you~"
+            e  "歆霜家族的三位毫无希望和未来可言的女士，从现在开始......都要靠你了~"
 
-            e "Our master of the house~"
+            e "我们的家主~"
 
             scene void with tstmgr
 
@@ -391,63 +389,63 @@ label CDE_duo_3:
 
             "... ... ... ... ... ..."
 
-            "Is this really happening?"
+            "这是真的吗?"
 
-            "Did the mother and the daughter really just agree to be my lovers together?"
+            "母亲和女儿竟然真的同意一起做我的情人?"
 
-            "Or... Haven't I still not sobered up from that crazy night?"
+            "或者......我还没有从那个疯狂的夜晚清醒过来?"
 
-            "If this is just my illusion, please... please don't let me wake up. I want to... sink into it completely... ..."
+            "如果这只是我的幻觉，请...请不要让我醒来.我想......彻底沉浸在其中......"
 
             scene cde_duo_3_46 with dissolve
 
-            c "Do you... feel awkward, mom?"
+            c "你......觉得很尴尬吗，妈妈?"
 
-            e "Eh... yes, but... just a little. How about you?"
+            e "呃......是的，但是......只是一点点.你呢?"
 
-            c "I do too... ..."
+            c "我也是......"
 
             scene cde_duo_3_47 with tstmgr
 
-            c "But that's why we are doing this now, to overcome the awkwardness~"
+            c "但这就是我们现在做这个的原因，为了克服尴尬的局面~"
 
             scene cde_duo_3_48 with tstmgr
 
-            c "First, we need to get used to be naked with each other..."
+            c "首先，我们需要习惯于与对方赤身裸体......"
 
-            e "This is not really a problem since we always take baths together."
+            e "这不是一个问题，毕竟我们总是一起洗澡."
 
             scene cde_duo_3_49 with tstmgr
 
-            c "But now he is with us too... ..."
+            c "但现在他也和我们在一起了......"
 
-            player "Eh, don't mind me, just... do whatever you want."
+            player "呃，别管我，就......做你想做的事吧."
 
             c "... ... ... ..."
 
             scene cde_duo_3_47 with tstmgr
 
-            c "Second, mom, we need to get used to talk dirty words in front of each other."
+            c "第二，妈妈，我们要习惯在对方面前说淫荡的话."
 
             scene cde_duo_3_50 with tstmgr
 
-            c "Let's start with... ..."
+            c "我们先从......"
 
-            c "Co... co... coc... ... cock... ..."
+            c "鸡... 鸡... 鸡鸡... ... 鸡巴... ..."
 
             scene cde_duo_3_51 with tstmgr
 
-            c "Big... ... cock... ..."
+            c "打... ... 鸡巴... ..."
 
-            c "Oh gosh, it is too damn embarrassed to say such words in front of mom."
+            c "哎呀，在妈妈面前说这种话太他妈不好意思了."
 
             scene cde_duo_3_52 with tstmgr
 
-            e "It's okay, Theo, we can practice that later."
+            e "没关系，狄奥，我们以后可以练习."
 
             scene cde_duo_3_53 with tstmgr
 
-            e "Now let's just... move to the next step of the practice."
+            e "现在我们就......进入下一步的练习."
 
             c "Okay... ..."
 
@@ -455,25 +453,25 @@ label CDE_duo_3:
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "以后的某个时候......"
 
             scene cde_duo_3_54 with tstmgr
 
-            c "Mom... are you ready for this?"
+            c "妈妈...你准备好了吗?"
 
-            e "Yes, honey, let’s... do it... ..."
+            e "是的，亲爱的，让我们......做吧......"
 
-            "The mother and the daughter are still a bit restrained, but their breaths got heavy when they held my dick in their fingers and put their face closer to it... ..."
+            "母亲和女儿还有些拘束，但当她们用手指握住我的小弟弟，把脸靠近它时，她们的呼吸变得沉重起来......"
 
             scene cde_duo_3_55 with tstmgr
 
-            "They stared at my hard dick and wiggled their ass like dogs in heat. That’s so cute~ They just couldn’t hide their horny nature~"
+            "她们盯着我坚硬的阴茎，像发情的母狗一样扭动着屁股.真是太可爱了~她们就是无法掩饰自己的好色本性~"
 
             scene cde_duo_3_56 with tstmgr
 
-            e "This huge thing... is what we are crazy for... ..."
+            e "这个庞然大物......就是让我们疯狂的罪魁祸首......"
 
-            c "Mom, do you want to... ..."
+            c "妈妈，你要不要.... ..."
 
             scene cde_duo_3_57 with tstmgr
 
@@ -483,48 +481,47 @@ label CDE_duo_3:
 
             scene cde_duo_3_58 with tstmgr
 
-            e "See, Theo, it’s not really a big deal~"
+            e "你看，狄奥，其实也没什么大不了的~"
 
             scene cde_duo_3_57 with tstmgr
 
-            "It seems like Aunt Elisa has overcome the awkwardness already..."
+            "看来艾莉斯姨妈已经克服了尴尬......"
 
-            e "Just... forget everything and concentrate on your lust for now... ..."
+            e "忘记一切，暂时集中精力在你的欲望上......"
 
-            c "I’m watching my mom licking a man’s cock. Oh my... ..."
+            c "我在看我妈妈舔一个男人的鸡巴.哦，我的天... ..."
 
             scene cde_duo_3_58 with tstmgr
 
-            e "And you are going to lick it with me, honey~ Come on, give it a try~"
+            e "你也一起舔吧，亲爱的~来吧，试试吧~"
 
-            c "Sigh... Whatever~ I'm doing it for the family... ..."
+            c "叹息......不管怎么样~我是为了这个家......"
 
             scene cde_duo_3_59 with tstmgr
 
-            c "*Licking* ... ... ... ..."
+            c "*舔* ... ... ... ..."
 
-            e "Yes, yes, just like that~ It’s not hard at all, isn’t it?"
+            e "是的，是的，就像这样~一点都不难，不是吗?"
 
             scene cde_duo_3_60 with tstmgr
 
-            c "*Licking* We were all proud ladies... ... We were a noble family... ... But now... look what we have become, mom... ..."
+            c "*舔*我们都是骄傲的女士.......我们曾是一个高贵的家庭.......但是现在... ... 看看我们变成了什么，妈妈... ... "
 
-            e "*Licking* we are still proud and noble as we used to be... ... It’s just... now we have something to worship~"
+            e "*舔*我们仍然像以前一样骄傲和高贵.......只是......现在我们有了信仰了~"
 
-            e "This... huge cock... ..."
+            e "这......巨大的鸡巴......"
 
             scene cde_duo_3_61 with tstmgr
 
             c "Wuuuuuuuummmmmmm~~~~~~~~"
 
-            e "Ah, Theo~ That’s right~ Act bolder, just like what you usually do~"
+            e "啊，狄奥~对了~表现得更大胆些，就像你平时做的那样~"
 
-            c "So... mmm... big... ... wuuuuuummmmm~~~ It’s... too big for my mouth... ummmmmmm~~~~"
+            c "那么......嗯......大......Wuuuuuummmmm~~~它......对我的嘴来说太大了......嗯嗯~~~~"
 
-            player "Theo, you don’t have to do this."
+            player "狄奥，你没有必要这样做."
 
-            c "Just shut... wuuummm... the fuck up and cummmm... ..."
-
+            c "闭嘴......呜呜呜......他妈的闭嘴然后射精就好......"
             scene cde_duo_3_62 with tstmgr
 
             pause
@@ -555,41 +552,41 @@ label CDE_duo_3:
 
             c "Vuuuup... ... Wuuummmm... ..."
 
-            e "Yes, Theo~ You are doing so well~"
+            e "狄奥~你做得很好~"
 
             c "Glum~~ Glum~~ mmmm~~ wuuuummm~~~"
 
             scene cde_duo_3_64 with tstmgr
 
-            c "*Breathing heavily* Huh... huh... huh... huh..."
+            c "*粗重的喘息* Huh... huh... huh... huh..."
 
-            c "My jaw was going to dislocate... ..."
+            c "我的下巴要脱臼了......"
 
-            e "No awkwardness anymore, right, Theo?"
+            e "没有尴尬了，对吧，狄奥?"
 
             scene cde_duo_3_65 with tstmgr
 
-            c "Eh... ... Yeah, it’s better... ..."
+            c "呃.......是的，这更好... ..."
 
-            e "Then just have a rest, now it’s mom’s turn~"
+            e "那就好好休息吧，现在轮到妈妈了~"
 
             scene cde_duo_3_66 with tstmgr
 
             pause
 
-            player "Ohhh... Aunt Elisa... ..."
+            player "哦......艾莉斯阿姨......"
 
-            e "*Sucking* zimmmm~~ simmmmm~~ zimmmmm~~~"
+            e "*吮吸* zimmmm~~ simmmmm~~ zimmmmm~~~"
 
-            c "Are you... sucking his cockhole like drinking through a straw? Wow... ... what a move... ..."
+            c "你是......像用吸管喝水一样吮吸他的马眼吗?哇......真是个好动作......"
 
-            c "Cockhole... ... Damn, if it was months ago, mom would be so mad at me so much if I dared to say such a word in front of her... ..."
+            c "马眼.......妈的，如果是几个月前，我敢在她面前说这样的话，妈妈一定会对我大发雷霆......"
 
-            c "But now... ... Huh... ..."
+            c "但是... ... Huh... ..."
 
             scene cde_duo_3_67 with tstmgr
 
-            c "It’s all your fault~"
+            c "这都是你的错~"
 
             scene cde_duo_3_68 with tstmgr
 
@@ -599,11 +596,11 @@ label CDE_duo_3:
 
             scene cde_duo_3_69 with tstmgr
 
-            e "[P]’s big cock~~ Love it~~ Love it so much~~~"
+            e "[P]的大鸡巴~~喜欢~~太喜欢了~~~"
 
-            c "Ah... ... This is definitely not the mom I used to know~"
+            c "啊.......这绝对不是我以前认识的那个妈妈~"
 
-            c "But I have never seen she got so happy before~"
+            c "但我从来没有见过她这么开心过~"
 
             scene cde_duo_3_70 with tstmgr
 
@@ -635,21 +632,21 @@ label CDE_duo_3:
 
             pause
 
-            player "I... I’m about to cum... ..."
+            player "我......我马上就要射了......"
 
             scene cde_duo_3_71 with tstmgr
 
-            "Girls" "Awwww?"
+            "女孩们" "Awwww?"
 
             scene cde_duo_3_72 with tstmgr
 
-            c "Mom, what should we do now? Where should we let him cum at?"
+            c "妈妈，我们现在应该怎么做?我们应该让他射在哪里?"
 
-            e "This is... a monumental moment. We should... embrace it together~"
+            e "这是......一个具有纪念意义的时刻.我们应该......一起拥抱它~"
 
             scene cde_duo_3_74 with tstmgr
 
-            c "Alright... ..."
+            c "那就这么说定了... ..."
 
             scene cde_duo_3_73 with tstmgr
 
@@ -677,7 +674,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_73 with tstmgr
 
-            player "Ahhhhhhhhh! I’m cumming!"
+            player "Ahhhhhhhhh! 我要射了!"
 
             scene cde_duo_3_75 with tstmgr
             play sound cumshot
@@ -696,11 +693,11 @@ label CDE_duo_3:
 
             pause
 
-            e "[P]’s sperm... ... so hot... ..."
+            e "[P]的精子... ...这么热... ..."
 
-            c "It's all on our face now... ..."
+            c "现在都在我们脸上了......"
 
-            "The two beautiful faces have been covered with my markings. From now on, the blonde mother and her silver elder daughter... all belong to me... ..."
+            "这两张美丽的脸已经被我的标记所覆盖.从现在起，金发的母亲和她银色的大女儿......都属于我......"
 
             scene void with tstmgr
 
@@ -710,216 +707,53 @@ label CDE_duo_3:
 
             scene cde_duo_3_79 with tstmgr
 
-            e "I’m... so happy, Theo... ..."
+            e "我很开心, 狄奥... ..."
 
-            c "The shameless mother and her shameless daughter... ... This is a scandal. There is nothing that we should be happy for."
+            c "无耻的母亲和她无耻的女儿.......这是个丑闻.没有什么是我们应该高兴的."
 
             scene cde_duo_3_80 with tstmgr
 
-            c "But~"
+            c "但是~"
 
-            c "The bond between us has become deeper, mom~"
+            c "我们之间的纽带变得更深了，妈妈~"
 
             e "Yes... ..."
 
             scene cde_duo_3_84 with tstmgr
 
-            c "Thanks to you, [P]~"
+            c "谢谢你, [P]~"
 
-            player "Oh, I... ..."
+            player "Oh,  我.. ..."
 
-            c "Does it feel good to have mom in your harem?~"
+            c "妈妈现在加入了你的后宫了，感觉好吗~"
 
-            player "I feel like I am the luckiest man in the world... ..."
+            player "我觉得我是世界上最幸运的人......"
 
             scene cde_duo_3_81 with tstmgr
 
-            e "So... how should we tell Irene about this?"
+            e "那么......我们应该如何告诉艾琳这件事?"
 
             scene cde_duo_3_82 with tstmgr
 
-            c "Ah, don’t worry about that, I already have a plan in mind~"
+            c "啊，别担心，我心里已经有计划了~"
 
             scene cde_duo_3_83 with tstmgr
 
-            c "It will be such a great prank~"
-
-            scene void with tstmgr
-
-            "... ... ... ..."
-        "So be it (Alternative ending)":
-
-
-
-
-            "Sigh... ... So be it."
-
-            "I can’t force them to accept it. The mother and daughter, have an intimate relationship with the same man, yeah... ... it’s just ridiculous."
-
-            "I should have seen this coming at the time when I decided to have sex with Elisa... ..."
-
-            "Actually I was ready to accept it if both of them choose to leave me now."
-
-            "There is... nothing I can do. There is... nothing I should do... ..."
-
-            "I closed my eyes helplessly and let my thoughts go in a state of chaos."
+            c "这将是一个多么伟大的恶作剧啊~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "... ... ... ... ... ..."
+            "*将在v13.*中继续."
+        "就这样吧（备选结局）":
 
-            "... ... ... ... ... ... ... ..."
 
-            "Ah... how long has it passed? I can't tell... ..."
 
-            scene cde_duo_3_86 with dissolve
 
-            "I opened my eyes again after a long time and saw that Elisa was the only one that stayed."
+            "将在未来的更新中继续."
 
-            "Where is Theodora?... ... Whatever, the answer is obvious. She has made her decision and I have no position to ask her to change her mind no matter how much I love her."
-
-            player "Elisa... ... You chose me... instead of your daughters?"
-
-            scene cde_duo_3_87 with tstmgr
-
-            e "This is... my redemption."
-
-            e "I am a sinful woman, I will never forgive myself for what I have done to you and Theodora."
-
-            scene cde_duo_3_88 with tstmgr
-
-            e "I will leave my company to Theodora as a compensation. And... for you, my honey... ..."
-
-            e "I can only use the rest of my life to repay."
-
-            player "Elisa... ..."
-
-            scene cde_duo_3_89 with tstmgr
-
-            e "It was... all my fault. If I could only... control myself harder... ..."
-
-            player "Don’t blame yourself... ..."
-
-            e "No, you don’t understand."
-
-            player "I understand, Elisa. I knew it all."
-
-            scene cde_duo_3_90 with tstmgr
-
-            e "What?... ..."
-
-            scene cde_duo_3_91 with tstmgr
-
-            player "I just want you to know that... you didn’t make me love you, Elisa. You didn’t make me do anything."
-
-            player "I love you out of my own will."
-
-            player "You said you can only use the rest of your life to repay me, no, that’s... wrong."
-
-            player "You were alone since I came to this world, now I have grown up and I’m not going to let you be alone anymore."
-
-            player "We will stay by each other’s side until forever. It's not about redemption or repayment, no, it’s about love, and it’s only about love."
-
-            player "I love you, Elisa."
-
-            scene cde_duo_3_92 with tstmgr
-
-            e "[P]... ..."
-
-            e "Thank you, so much."
-
-            scene void with tstmgr
-
-            "... ... ... ..."
-
-            "... ... ... ... ... ..."
-
-            "And that was the end of the story. After that, Elisa and I moved to a different city where nobody knows us. She left the company and her mansion to her daughters."
-
-            "We soon got married. We knew we wouldn’t be blessed by others, but who cares?"
-
-            "... ... ... ..."
-
-            "Months later..."
-
-            scene cde_duo_3_93 with dissolve
-
-            "Well, I still haven’t graduated from college yet so I had to come back to school after honeymoon."
-
-            player "Life sucks... ..."
-
-            player "Emmmmmmmm?"
-
-            scene cde_duo_3_94 with tstmgr
-
-            c "Huh... ..."
-
-            player "Theo... dora?"
-
-            scene cde_duo_3_95 with tstmgr
-
-            c "Long time no see, [P]~"
-
-            c "How is my mom doing?"
-
-            player "She is doing well. She is... happy everyday. The way she smiles... during these months, I... I have never seen her smiles like that before."
-
-            scene cde_duo_3_96 with tstmgr
-
-            c "That’s good to know~"
-
-            player "... ... ... ..."
-
-            player "Theo, I’m sorry... ..."
-
-            c "Sorry? Don’t be. You did take the responsibility and make my mom happy. I’m happy for you two."
-
-            scene cde_duo_3_95 with tstmgr
-
-            c "... ... ... ..."
-
-            c "And... I envied her... ..."
-
-            scene cde_duo_3_97 with tstmgr
-
-            c "There is indeed something that we should be sorry about. You and I... we can never go back anymore."
-
-            c "... ... ... ..."
-
-            scene cde_duo_3_98 with tstmgr
-
-            c "You know... if you could act bolder that day, just a little bolder, I might... ... we might have... ..."
-
-            c "... ... ... ..."
-
-            scene cde_duo_3_99 with tstmgr
-
-            c "Whatever, it doesn’t matter anymore..."
-
-            scene cde_duo_3_100 with tstmgr
-
-            c "Thanks for taking care of my mom, [P]~"
-
-            c "Maybe... we will still be friends... ... at some point in the future."
-
-            scene void with tstmgr
-
-            "... ... ... ..."
-
-            "... ... ... ... ... ..."
-
-            "... ... ... ... ... ... ... ..."
-
-            "*Elisa's alternative end achieved!*"
-
-            stop music fadeout 1.0
-
-            if not _replaying_event:
-                "*Elisa's alternative end achieved!*"
-                $ MainMenu(confirm=False)()
-
+            jump CDE_duo_3_choice_1
 
     stop music fadeout 1.0
 

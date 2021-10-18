@@ -3,55 +3,55 @@ label A_train_sha_1:
     scene void with tstmgr
     play music happy
 
-    "It has been a while since Vera was asked to dress in a maid outfit at work. The result seems good. The cafe is much more popular than before."
+    "薇拉上班时被要求穿女仆装已经有一段时间了.反响似乎不错.这家咖啡馆现在比以前受欢迎多了."
 
 
 
     scene a_train_sha_1_1 with dissolve
 
-    a "Welcome, sir. What do you like to order today?"
+    a "欢迎光临,先生.你今天想点点什么?"
 
 
 
-    "Guest A" "Eh... Wow... ..."
+    "顾客A""Eh... Wow... ..."
 
 
 
-    "Guest A" "(Those tits... ...)"
+    "顾客A""(这胸......)"
 
 
 
     scene a_train_sha_1_2 with tstmgr
 
-    a "Sir?"
+    a "先生?"
 
 
 
-    "Guest A" "Oh, eh, a small cup of black coffee, please..."
+    "顾客A""Oh,eh,请给我一小杯清咖啡..."
 
 
 
-    "The food is still as awful as ever though, so most people only order a cup of coffee or something simple."
+    "但是食物还是和以前一样糟糕,所以大多数人只会点一杯咖啡或其他东西."
 
 
 
-    "They came here only to enjoy to be served by the maids."
+    "他们来这里只是为了享受女仆的服侍."
 
 
 
-    "Guest A" "Vera, isn’t it? You look Gorgeous today and... eh... ..."
+    "顾客A""是叫薇拉,对吗?你今天看起来很漂亮...eh......"
 
 
 
     scene a_train_sha_1_3 with tstmgr
 
-    a "Thanks~ I’ll be back with your coffee soon."
+    a "谢谢,我马上给你送咖啡来."
 
 
 
     scene a_train_sha_1_4 with tstmgr
 
-    "Vera quickly headed back to the checkout counter to avoid further conversation."
+    "薇拉不想和客人谈太多.她迅速转过身,向收银台走去."
 
 
 
@@ -61,21 +61,21 @@ label A_train_sha_1:
 
 
 
-    "And then she noticed me."
+    "然后她注意到了我."
 
 
 
     scene a_train_sha_1_6 with tstmgr
 
-    a "[P]? When did you get here?"
+    a "[P]?你什么时候来的?"
 
 
 
-    player "I have been here for a while... ..."
+    player "我在这里已经有一段时间了......"
 
 
 
-    a "You should have let me know so I can get you ordered first."
+    a "你应该让我知道,这样我就可以先帮你点餐."
 
 
 
@@ -85,21 +85,21 @@ label A_train_sha_1:
 
     scene a_train_sha_1_7 with tstmgr
 
-    a "You don’t look happy, what’s wrong?"
+    a "你看起来不高兴,怎么了?"
 
 
 
-    player "Well, the last three tables you served were blatently oggling your chest. So yeah...not too happy... "
+    player "我注意到你点了三桌的餐,所有的人都盯着你的胸看.所以...我不高兴..."
 
 
 
     scene a_train_sha_1_8 with tstmgr
 
-    a "(Sweet smiling) ... ... ... ..."
+    a "(甜蜜的微笑)............"
 
 
 
-    a "I really like your face when you are being jealous~"
+    a "我真的很喜欢你吃醋时的表情~"
 
 
 
@@ -110,51 +110,51 @@ label A_train_sha_1:
     label A_train_sha_1_choice_1:
 
     menu:
-        "Hold her tight":
+        "紧紧地抱住她":
 
 
             scene a_train_sha_1_9 with tstmgr
 
-            "I suddenly pulled her in and held tight in my arms."
+            "我突然把她紧紧地搂在怀里."
 
-            a "(Moaning softly) Ohh... ... ... ..."
+            a "(轻声呻吟)Ohh............"
 
-            a "What are you doing? I have to... ..."
+            a "你在干什么?我要去......"
 
-            player "And I really like your face when you panic~"
+            player "我真的很喜欢你惊慌时的表情~"
 
-            a "Stop now~ I have to get back to work."
+            a "别闹~我得回去工作了."
 
             scene a_train_sha_1_10 with tstmgr
 
-            "I ignored her and firmly planted my face in her cleavage. I began peppering it with gentle kisses."
+            "我不理她,继续亲吻她的胸."
 
-            player "Those people can stare at your half-hidden tits as they want, but I am the only one that can put lips on them."
+            player "那些人可以随心所欲地盯着你半掩着的胸,但我是唯一一个可以把嘴唇贴在上面的人."
 
-            a "(Moaning softly) Ahhh... ... owww... ..."
+            a "(轻声呻吟)Ahhh......owww......"
 
-            a "Someone will see! Let me go~"
+            a "有人会发现的!让我走~"
 
-            a "We can do this..ah...later..."
+            a "这...不是你做这个的地方..."
 
             player "... ... ... ..."
 
             scene a_train_sha_1_11 with tstmgr
 
-            "She is right. There are a few people around and they may notice us anytime. I don’t want to embarrass her."
+            "她是对的.周围有几个人,他们随时都可能注意到我们.我不想让她难堪."
 
-            player "Alright, girl. I've had my fun for now."
+            player "好吧,女孩.现在已经够了."
 
-            player "And about my order...I'd like a small cup of hot chocolate if you'd be so kind. I'll stick around until you get off work and we can go grab some lunch. Sound okay?"
+            player "现在去给我拿一小杯热巧克力来.我会在这里一直呆到你下班,然后我们一起去吃午饭."
 
             a "... ... ... ..."
 
-            a "Okay... ..."
+            a "嗯......"
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Reveal her tits":
+        "露出她的胸":
 
 
 
@@ -167,41 +167,41 @@ label A_train_sha_1:
 
             a "Ahh?!!!!!!"
 
-            "I suddenly pulled down the front of her outfit letting her plump tits bounce free."
+            "我突然脱下她的衣服,露出了她的胸."
 
-            a "What are you doing??"
+            a "你在干什么??"
 
-            player "Humph... These people may stare at your cleavage and fantasize, but only I can enjoy the real thing."
+            player "Humph...那些人可以随心所欲地盯着你半裸的酥胸,但只有我能看到它们的全貌."
 
-            player "And I really like your face when you are in a panic~"
+            player "我真的很喜欢你惊慌时的表情~"
 
             scene a_train_sha_1_14 with tstmgr
 
-            a "(Moaning with lust) Ahhh~~~ Ahhhh~~~~ Ahhh~~~"
+            a "(欲望的呻吟)Ahhh~~~Ahhhh~~~~Ahhh~~~"
 
-            player "Keep moaning like that and everyone will notice your slutty tits on display."
+            player "如果你一直这样大声叫的话,一定会有人发现的."
 
-            a "Then stop playing with my tits!"
+            a "那就别玩我的胸了!"
 
             player "... ... ... ..."
 
-            "That should be enough for now. The place is pretty busy and I don't want to embarrass her...too badly. I'll just leave her with a parting gift."
+            "我想我得停下来了.周围有几个人,他们随时都可能注意到我们.我不想让她难堪."
 
             scene a_train_sha_1_15 with tstmgr
 
-            "I gently gave her nipple a kiss."
+            "我轻轻地吻了她的乳头."
 
             a "Ohhhhhh~~~~~"
 
             scene a_train_sha_1_16 with tstmgr
 
-            player "Alright, girl. I've had my fun."
+            player "好吧,女孩.现在已经够了."
 
-            player "And about my order...I'd like a small cup of hot chocolate if you'd be so kind. I'll stick around until you get off work and we can go grab some lunch. Sound okay?"
+            player "现在去给我拿一小杯热巧克力来.我会在这里一直呆到你下班,然后我们一起去吃午饭."
 
             a "... ... ... ..."
 
-            a "Okay... ..."
+            a "嗯......"
 
             scene void with tstmgr
 

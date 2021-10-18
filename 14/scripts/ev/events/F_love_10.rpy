@@ -4,69 +4,69 @@ label F_love_10:
     scene void with tstmgr
     play music happy
 
-    "Rachel’s has changed a lot recently."
+    "最近瑞秋的变化很大。"
 
 
 
-    "She still spent most of her time on training as before, but when she is free... ..."
+    "她仍然像以前一样把大部分时间花在训练上，但当她有空时......"
 
 
 
     scene f_love_10_1 with flashback
 
-    "She would come to the bookstore and ask Uno to teach her things about anime, manga, and all sorts of weird things."
+    "她会到书店，让乌诺教她一些关于动漫、漫画和各种奇怪的东西。"
 
 
 
-    g "You should definitely watch School Days. It will bring you into a whole new world~"
+    g "你肯定应该看《日在校园》。它会把你带入一个全新的世界~"
 
 
 
     scene f_love_10_2 with tstmgr
 
-    f "Sounds like a campus-themed comedy~ Thanks, I will do it!~"
+    f "听起来像是校园主题的喜剧~谢谢，我会看的！~"
 
 
 
     scene f_love_10_3 with flashback
 
-    "She would also go to my house and watch soccer game with Vera."
+    "她还会去我家，和薇拉一起看足球比赛。"
 
 
 
-    a "Wait, why didn’t they check VAR? That dude was standing at least 10 yards offside!"
+    a "等等，他们为什么不检查VAR？那哥们儿至少站在10码以外的地方！"
 
 
 
     scene f_love_10_4 with tstmgr
 
-    f "Eh... ... what is VAR? What is offside? Which dude are you talking about?"
+    f "呃......什么是VAR？什么是越位？你说的是哪位老兄？"
 
 
 
     scene f_love_10_5 with flashback
 
-    "Or just staying in Senning’s room and watching her playing computer games."
+    "或者只是呆在森柠的房间里，看着她玩电脑游戏。"
 
 
 
-    f "Did that girl just take a sword out from her chest?"
+    f "那个女孩刚刚是从她的胸口拿出一把剑吗？"
 
 
 
-    b "She is cool, right? I have spent more than 800 dollars on her."
+    b "她很酷吧？我已经在她身上花了800多美元。"
 
 
 
     scene f_love_10_6 with tstmgr
 
-    f "The... real money?"
+    f "那个......真钱？"
 
 
 
     scene f_love_10_7 with tstmgr
 
-    b "The real money~"
+    b "真钱~"
 
 
 
@@ -76,41 +76,41 @@ label F_love_10:
 
     scene void with tstmgr
 
-    "Rachel’s life is becoming more and more colorful, every day she learns more about the world than the day before, thanks to Vera, Senning, and Uno... ..."
+    "瑞秋的生活越来越多姿多彩，每天她都比前一天了解更多的世界，这要感谢薇拉、森柠和乌诺......"
 
 
 
-    "And me, of course~"
+    "当然，还有我~"
 
 
 
-    "She said that she always imagined that I was watching her from the stands when she was running, so these days I would come and watch her practice when I am free."
+    "她说，她总是想象着当她跑步时我在看台上看着她，所以这些天我有空的时候就会来看看她的练习。"
 
 
 
-    "However I’m not sure if my appearance is good or bad for her. Sometimes she would perform perfectly when she sees me... ..."
+    "然而我不确定我的出现对她来说是好是坏。有时她看到我时，会有完美的表现......"。
 
 
 
     scene f_love_10_8 with dissolve
 
-    "Coach" "Rachel, you just broke your own record, keep on, girl, you are doing great lately~"
+    "教练" "瑞秋，你刚刚打破了你的记录，继续吧，姑娘，你最近做得很好~"
 
 
 
-    "Coach" "... ... ... ..."
+    "教练" "... ... ... ..."
 
 
 
-    "Coach" "Hmmmmmm... ... Where is Rachel?"
+    "教练" "Hmmmmmm......瑞秋在哪里？"
 
 
 
-    "Athelete A" "She saw her boyfriend during the run so she went directly to him after crossing the finish line."
+    "Athelete A" "她在跑步的时候看到了她的男朋友，所以她直接在冲过终点线后直接去找他。"
 
 
 
-    "Athlete A" "Maybe that’s why she ran so fast... ..."
+   "Athelete A" "也许这就是为什么她跑得那么快......"
 
 
 
@@ -120,23 +120,22 @@ label F_love_10:
 
 
 
-    "But at the other times... ..."
+    "但在其他时候......"
 
 
 
     scene f_love_10_8 with dissolve
-
-    "Coach" "Rachel! What just happened? Your running form was ridiculous!"
+    "教练" "瑞秋！刚刚发生了什么？你的跑步姿势太可笑了！"
 
 
 
     scene f_love_10_9 with tstmgr
 
-    f "I know, coach, but... I really want [P] to see me run in a more elegant way, so I thought it might be a good idea to add a little bit of elements of ballet in my running form~"
+    f "我知道，教练，但是我希望[P]能看到我以更优雅的姿势跑步，所以我认为在我的跑姿中加入一点芭蕾舞的元素可能是个好主意~"
 
 
 
-    "Coach" "Ah shit, I’m gonna kill that [P]!"
+    "教练" "啊靠，我要杀了那个[P]！"
 
 
 
@@ -146,7 +145,7 @@ label F_love_10:
 
 
 
-    "Anyway, I was soon banned from the sports field during the track team practices... ..."
+    "总之，在田径队训练期间，我被禁止进入运动场......"
 
 
 
@@ -154,47 +153,47 @@ label F_love_10:
 
 
 
-    "Some days later, I came to Rachel’s apartment, and surprisedly saw that she was packing up."
+    "几天后，我来到瑞秋的公寓，惊讶地看到她正在收拾行李。"
 
 
 
     scene f_love_10_10 with dissolve
 
-    player "What’s going on? Are you moving out?"
+    player "怎么了？你要搬走吗？"
 
 
 
     scene f_love_10_11 with tstmgr
 
-    f "Yes, eh... no, not permanently. There will a national tournament in a few weeks. I’m going for a closed training in the countryside soon."
+    f "是的，嗯......但只是暂时的。几周后将有一个全国性的比赛。我很快就要去乡下进行封闭训练了。"
 
 
 
-    player "So... ... I won’t be able to see you for weeks?"
+    player "那么......我将有几周不能见到你？"
 
 
 
     scene f_love_10_13 with tstmgr
 
-    f "Maybe for more than a month. I will go to the tournament directly after the training."
+    f "也许要超过一个月。训练结束后我将直接去参加比赛。"
 
 
 
-    player "Okay... ..."
+    player "好吧......"
 
 
 
-    player "You don’t look very happy."
+    player "你看起来不是很高兴。"
 
 
 
     scene f_love_10_12 with tstmgr
 
-    f "I don’t want to be apart with you and... ..."
+    f "我不想和你分开，而且......"
 
 
 
-    f "I am not really confident. There will be so many good runners in the tournament. I don’t know if I can win... like I always do."
+    f "我真的没有信心。比赛中会有很多优秀的选手。我不知道我能不能像以往一样......赢得比赛。"
 
 
 
@@ -204,67 +203,67 @@ label F_love_10:
 
     scene f_love_10_14 with tstmgr
 
-    f "This is going to be my first national-level tournament, I am increasingly afraid of losing it. And I am worried that... if I lose this time, I won’t be able to bounce back."
+    f "这是我第一次参加国家级的比赛，我越来越害怕比赛输了。而且我担心......如果这次输了，会无法振作。"
 
 
 
-    "Ah, yeah, I understand her worry. Many talented athletes or pro-gamers once had phenomenon performances when they first started their careers, but they could never perform in the way they did after failing an important match."
+    "啊，是的，我理解她的担心。许多有天赋的运动员或职业玩家在刚开始职业生涯时曾经有过无与伦比的表现，但在一场重要的比赛失败了后，他们再也无法像以前那样表现。"
 
 
 
     scene f_love_10_15 with tstmgr
 
-    player "Don’t be ridiculous, you are the most optimistic girl I know, if you can’t bounce back, no one else can~"
+    player "别傻了，你是我认识的最乐观的女孩，如果你都没办法重整旗鼓，那其他人也不能~"
 
 
 
-    f "Maybe I could... if everything was still like before, if I was still that ignorant girl who still took running as her whole world."
+    f "也许我可以......如果一切还像以前一样，如果我还是那个无知的女孩，仍然把跑步当作她的整个世界。"
 
 
 
-    f "Now, I... ..."
+    f "现在，我... ..."
 
 
 
-    f "I have realized the beauty of the world. There are so many interesting things... ..."
+    f "我已经意识到了这个世界的美丽。有这么多有趣的东西......"
 
 
 
     scene f_love_10_16 with tstmgr
 
-    f "I want to explore more of this world, I want to spend more times with friends who don’t hesitate to tell me the secrets of sex, and... I want to know more about what it feels like to love and to be loved."
+    f "我想更多地探索这个世界，我想和那些毫不犹豫地告诉我性爱秘密的朋友们度过更多的时光，而且......我想知道更多关于爱和被爱的感觉。"
 
 
 
     scene f_love_10_17 with tstmgr
 
-    f "A good athlete requires a peaceful mind, but right now I don’t have that. How am I going to perform in the tournament with such an unsteady heart."
+    f "一个好的运动员需要一个平和的心态，但现在我没有这个能力。我这样一个不稳定的心态，怎么能在比赛中发挥出自己的实力呢。"
 
 
 
     scene f_love_10_18 with tstmgr
 
-    player "I see... ..."
+    player "我明白了......。"
 
 
 
     scene f_love_10_19 with tstmgr
 
-    f "Maybe I should just... quit this tournament, you know... ... I can wait for the next one. I will definitely be more prepared next time."
+    f "或许我应该......退出这场比赛......我可以等下一次比赛。下次我肯定会准备得更充分。"
 
 
 
-    player "What?"
+    player "什么？"
 
 
 
-    "No way, I won’t forgive myself if I really make a talented athlete quit her career for ‘exploring love.’"
+    "不可能，如果我真的让一个有天赋的运动员为了'探索爱情'而放弃她的事业，我不会原谅自己。"
 
 
 
     scene f_love_10_20 with tstmgr
 
-    player "If you back down this time, you may never be able to success in this career, you know that, right? A good athlete doesn’t take backing down as an option."
+    player "如果你这次退缩了，你可能永远无法在这个事业上取得成功，你知道的，对吗？一个好的运动员不会把退缩作为一种选择。"
 
 
 
@@ -276,11 +275,11 @@ label F_love_10:
 
     scene f_love_10_22 with tstmgr
 
-    f "Maybe I can’t be a good athlete after all... ..."
+    f "也许我终究不能成为一名优秀的运动员......"
 
 
 
-    f "It wasn’t even my choice to become an athlete in the first place. My parents imposed their wish upon me."
+    f "一开始，成为一名运动员甚至不是我的选择。我的父母把他们的愿望强加给我。"
 
 
 
@@ -290,45 +289,45 @@ label F_love_10:
 
     scene f_love_10_23 with tstmgr
 
-    player "You know, I’ve been wanting to say this for a long time, that there must be something wrong with your family education."
+    player "你知道吗，我早就想这么说了，你的家庭教育肯定有问题。"
 
 
 
-    f "Yeah, I have realized that. They never taught me anything useful."
+    f "是的，我已经意识到了这一点。他们从未教过我任何有用的东西。"
 
 
 
     scene f_love_10_24 with tstmgr
 
-    player "It’s not really about that. My father never taught me anything about love or sex, either, those things are just not for teaching. We should develop our own understanding of those things."
+    player "但其实不是这个问题。我父亲也从来没有教过我任何关于爱和性的东西，那些东西就是不适合教。我们应该培养自己对这些事情的理解。"
 
 
 
     scene f_love_10_25 with tstmgr
 
-    player "Your parents should not stop you from exploring the world on our own. They should not... seal you in a cocoon."
+    player "你的父母不应该阻止你自己探索这个世界。他们不应该......把你封在一个茧里。"
 
 
 
     scene f_love_10_26 with tstmgr
 
-    f "Ah, tell me about it, they didn’t even allow me to watch any cartoons or animes until I was 15, saying they are too violent for kids to watch."
+    f "啊，跟我说说吧，他们甚至在我15岁之前都不允许我看任何动画片或动漫，说这些东西太暴力了，孩子们看不了。"
 
 
 
     scene f_love_10_27 with tstmgr
 
-    player "Wait, shit, that’s even more ridiculous."
+    玩家 "等等，该死，那就更可笑了。"
 
 
 
     scene f_love_10_28 with tstmgr
 
-    f "Yeah, they said ‘Jerry shouldn’t stab Tom with a fork’, ‘Peppa’s mother shouldn’t jump from an airplane’, things like that... ..."
+    f "是的，他们说'杰瑞不应该用叉子刺伤汤姆'，'佩奇的母亲不应该从飞机上跳下来'，诸如此类的事情......"
 
 
 
-    f "I did grow up in a breathless cocoon."
+    f "我确实是在一个令人窒息的茧里长大的。"
 
 
 
@@ -340,7 +339,7 @@ label F_love_10:
 
     scene f_love_10_30 with tstmgr
 
-    player "But... although your parents did a lot of mistakes during your growth, at least... they didn’t really force you to do something you dislike."
+    player "但是......虽然你的父母在你的成长过程中犯了很多错误，但至少......他们并没有真正强迫你做你不喜欢的事情。"
 
 
 
@@ -352,17 +351,17 @@ label F_love_10:
 
     scene f_love_10_32 with tstmgr
 
-    player "I mean, they made you become a runner because you do love running, right?"
+    player "我的意思是，他们让你成为一名跑步运动员是因为你确实喜欢跑步，对吗？"
 
 
 
     scene f_love_10_33 with tstmgr
 
-    f "Sigh... ... Now I’m not even sure about that anymore."
+    f "唉......现在我都不确定了。"
 
 
 
-    player "You said running meant the entire world to you before you knew me, if you didn’t even like running, if you didn’t even like your entire world, how could you develop such an outgoing and optimistic personality?"
+    player "你说在认识我之前，跑步对你来说就是整个世界，如果你连跑步都不喜欢，也就是说你连自己的整个世界都不喜欢，那你怎么会养成如此外向乐观的性格？"
 
 
 
@@ -372,7 +371,8 @@ label F_love_10:
 
 
 
-    player "Now you have found some other things you love to do, that’s great, but you don’t have to give up running for those things. Life is never about giving up."
+    player "现在你已经找到了一些你喜欢做的其他事情，这很好，但你不必为这些事情放弃跑步。因为生活从来不是放弃"。
+
 
 
 
@@ -382,31 +382,31 @@ label F_love_10:
 
 
 
-    f "Yeah, I guess... you are right."
+    f "是的，我想......你是对的。"
 
 
 
-    f "I do love running. It brought so much pleasure to me during my childhood."
+    f "我确实喜欢跑步。在我的童年时代，它给我带来了很多快乐。"
 
 
 
     scene f_love_10_36 with tstmgr
 
-    player "So don’t quit the tournament, girl. Just think about how many efforts you have put on for it."
+    player "所以不要放弃比赛，女孩。只要想想你为它付出了多少努力。"
 
 
 
-    player "Your can’t decide your past, but you can make your own future. The butterfly will always break out of the cocoon."
+    player "你虽然不能改变你的过去，但你可以创造你自己的未来。蝴蝶总会破茧而出的。"
 
 
 
     scene f_love_10_37 with tstmgr
 
-    player "And... eh... ..."
+    player "而且... eh... ..."
 
 
 
-    player "I couldn’t participate your past, but if you like, I’m more than happy to step by your side and watch you make your future."
+    player "我无法参与你的过去，但如果你愿意，我更乐意在你身边，和你创造你的未来。"
 
 
 
@@ -416,21 +416,21 @@ label F_love_10:
 
 
 
-    player "Me, Senning, Vera, Uno, we will all go to that tournament and cheer for you at the stands..."
+    player "我、森柠、薇拉、乌诺，我们都会去看那个锦标赛，在看台上为你加油......"
 
 
 
-    player "And we will teach you more about love when the tournament is over."
+    player "而等比赛结束后，我们会教你更多关于爱的知识。"
 
 
 
     scene f_love_10_39 with tstmgr
 
-    f "That will be so great! I will ask the coach to get a few tickets for you!"
+    f "那将是多么美好的事情啊! 我会让教练为你弄几张票！"
 
 
 
-    f "I... ... ... ..."
+    f "我... ... ... ..."
 
 
 
@@ -442,17 +442,17 @@ label F_love_10:
 
     scene f_love_10_41 with tstmgr
 
-    player "Rachel? Are you... crying?"
+    player "瑞秋？ 你是在... 哭?"
 
 
 
     scene f_love_10_42 with tstmgr
 
-    f "I... I’m okay, it’s tear of joy. Awwwww... ... ... ..."
+    f "我... 我没事, 这是开心的泪水. Awwwww... ... ... ..."
 
 
 
-    f "You are all... so nice to me... ..."
+    f "你一直都... 对我那么好... ..."
 
 
 
@@ -462,25 +462,25 @@ label F_love_10:
 
     scene f_love_10_43 with tstmgr
 
-    player "Silly girl~~"
+    player "傻姑娘~~"
 
 
 
     scene f_love_10_44 with tstmgr
 
-    player "Come on, stop crying. If we have to be apart for a month, we’d better take our time now and create as many happy memories as we can before you leave~"
+    player "来吧，别哭了。如果我们必须分开一个月，我们最好现在就慢慢来，在你离开之前尽可能多地创造快乐的回忆~"
 
 
 
     scene f_love_10_46 with tstmgr
 
-    f "Oh, yeah, you are right!"
+    f "哦，是的，你是对的！"
 
 
 
     scene f_love_10_47 with tstmgr
 
-    f "We should... take our time... ..."
+    f "我们应该...慢慢来..."
 
 
 
@@ -488,21 +488,21 @@ label F_love_10:
 
     $ flashlight()
 
-    "She suddenly jumped on my body."
+    "她突然跳到我的身上。"
 
 
 
-    f "Could you please... teach me more about sex before I leave?"
+    f "那你能不能......在我离开之前多教我一些性知识？"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋......"。
 
 
 
     scene f_love_10_51 with tstmgr
 
-    player "Alright then~ Let’s try something new today~"
+    player "那好吧~今天我们来试试新的东西吧~"
 
 
 
@@ -518,38 +518,38 @@ label F_love_10:
 
     scene f_love_10_52 with dissolve
 
-    f "This is really something new to me... ..."
+    f "这对我来说真是件新鲜事......"
 
 
 
     scene f_love_10_53 with tstmgr
 
-    f "I have never been carried by someone like this... ..."
+    f "我从来没有被人这样抱过......"
 
 
 
-    f "And I haven’t seen people have sex in this position in porno videos either."
+    f "而且我也没有在色情视频中看到人们以这种姿势做爱。"
 
 
 
-    player "Yeah becuase it requires a great deal of strength... on the part of the man... ..."
+    player "是的，因为这需要男性有很大的力量......"
 
 
     scene f_love_10_54 with tstmgr
 
-    f "Are you sure you are okay with it? I am much heavier than I look... ..."
+    f "你确定你可以受得了吗？我比我看起来要重得多......"
 
 
 
-    player "I... eh... I... ... I’m okay... ..."
+    player "我... eh... 我... ... 我没问题... ..."
 
 
 
-    "Shit... ... She is right, she is indeed heavier than she looks, maybe it is because she is an athlete? I don’t know... ..."
+    "妈的......。她是对的，她确实比她看起来要重，也许是因为她是个运动员？我不知道......"
 
 
 
-    "But... I guess I can still handle it, I mean, I have to. I have to prove to her that I am strong enough to be her man."
+    "但是......。我想我还是可以应付的，不对，我必须应付。我必须向她证明，我有足够的实力成为她的男人。"
 
 
 
@@ -567,11 +567,11 @@ label F_love_10:
 
 
 
-    "Ahh... That was a great penetration. My dick just reached the deep of Her tight pussy without many obstacles, thanks to this position~"
+    "Ahh......这是一个很棒的姿势。我的鸡巴刚刚到达她紧窄的小穴深处，没有什么障碍，这要感谢这个姿势~"
 
 
 
-    "And now... ..."
+    "而现在......"
 
 
 
@@ -581,39 +581,39 @@ label F_love_10:
 
 
 
-    f "Oh wow~ this is so interesting~ I am being carried and fucked at the same time~"
+    "oh，wow，这太有趣了，我被人抱着，同时又被人操着~"
 
 
 
-    f "And it feels like... your penis can enter the deeper area of me with this position~"
+    f "而且感觉......你的鸡巴可以通过这个姿势进入我的更深的地方~"
 
 
 
-    f "I am flying!~ Ha~~~"
+    f "我在飞！~哈~~~"
 
 
 
-    f "[P]~ You are really a master of sex..."
+    f "[P]~你真是个性爱高手......"
 
 
 
-    player "Yeah... well... ..."
+    player "是啊......嗯......"
 
 
 
-    "I... have to say that I kinda overestimated myself a little bit. Fucking in this position is... much harder than I thought."
+    "我......不得不说，我有点高估了自己。以这种姿势做爱......比我想象的要难得多。"
 
 
 
-    "She is... really heavy... ..."
+    "她......真的很重......"
 
 
 
-    "I think I need to put her against a wall so that I can save some effort, but... I’m not sure if I have enough strength to walk her to a wall right now."
+    "我想我需要把她靠在墙上，这样我就能省点力气，但是...... 我不确定我现在是否有足够的力量抱着她走到墙边。"
 
 
 
-    "I need to be careful, just take one foot first and... ..."
+    "我得小心点，就先拿一只脚，然后......"
 
 
     stop sound
@@ -621,7 +621,7 @@ label F_love_10:
 
     $ flashlight()
 
-    player "Oh, shit!"
+    player "卧槽！"
 
 
 
@@ -629,19 +629,19 @@ label F_love_10:
 
 
 
-    "I lost my balance for a second. It made her hands slipped from my shoulders and fell backward..."
+    "我有一瞬间失去了平衡。使得她的手从我的肩上滑落，向后倒去......"
 
 
 
-    player "Rachel!"
+    player "瑞秋！"
 
 
 
-    "And... at the next second... ..."
+    "然后......在下一秒......"
 
 
 
-    player "Eh... ... wow... ... I can’t believe what I am looking at... ..."
+    player "Eh... ... wow... ...我无法相信我眼前的画面......"
 
 
 
@@ -649,53 +649,54 @@ label F_love_10:
 
     $ flashlight()
 
-    player "How did you... even do it?"
+
+    player "你是怎么......做到的？"
 
 
 
     scene f_love_10_58 with tstmgr
 
-    "She somehow kept herself from falling down with a difficult yoga position. That was... impressive, even my cock was still inside her."
+    "她以某种方式使自己不至于因为一个困难的瑜伽姿势而倒下。那是......令人印象深刻，甚至我的鸡巴还在她体内。"
 
 
 
-    f "I... I don’t know, I just... did it. It’s not really hard anyway~"
+    f "我......我不知道，我只是......做了。反正也不是很难~"
 
 
 
-    player "Okay, now I’ll slowly put you down and... ..."
+    player "好了，现在我慢慢把你放下来，然后......"
 
 
 
-    f "*Interrupting* Can you please fuck me in this position?"
+    f "*打断*你能用这个姿势干我吗？"
 
 
 
-    player "What? Are you sure?"
+    player "什么？你确定吗？"
 
 
 
     scene f_love_10_60 with tstmgr
 
-    f "Yeah, I mean... it’s really something new to me~ I would like to experience it~"
+    f "是的，我的意思是......这对我来说确实是件新鲜事~我想体验一下~"
 
 
 
     scene f_love_10_61 with tstmgr
 
-    player "It is... something new to me too. I have never seen any girl who can do this position before."
+    player "这对我来说......也是件新鲜事。我以前从未见过任何女孩能做这种姿势。"
 
 
 
-    player "Rachel, you are so amazing... ..."
+    player "瑞秋，你真了不起......"
 
 
 
-    f "Oh, thanks~ You are amazing too~"
+    f "哦，谢谢~你也很了不起~"
 
 
 
-    player "So, now... ... let's see if we can really fuck in this position"
+    "那么，现在......让我们看看我们是否真的能用这个姿势做爱"
 
 
 
@@ -710,27 +711,27 @@ label F_love_10:
 
 
 
-    f "Ohhh~~ haaa~~~ This is... this is really great~~~ I knew it!~~~"
+    f "Ohhh~~ haaa~~~ 这... 这感觉太棒了~~~ ohhhhhhh~~~"
 
 
 
-    f "Ahhhhhh~~ yes~~ [P]~~ hhhhhhh~~~"
+    f "Ahhhhhh~~ 对~~ [P]~~ hhhhhhh~~~"
 
 
 
-    f "I feel like I’m getting drunk... by the joy of sex!~~~"
+    f "我觉得我要沉醉在做爱海洋里了......要被性的快乐所感染了！~~~"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋......"
 
 
 
-    "I can’t describe what I am feeling right now in words. It is just... crazy~"
+    "我无法用语言描述我现在的感受。这简直是......太疯狂了~~"
 
 
 
-    "This yoga position allowed me to fuck her in a super relaxing way, at the same time her pussy is getting even tighter than earlier."
+    "这个瑜伽姿势让我以一种超级放松的方式操她，同时她的小穴比刚才更紧了。"
 
 
     stop sound
@@ -740,47 +741,47 @@ label F_love_10:
 
 
 
-    "I can’t see her face, but it actually made her look even more sexy to me. I mean, I can just be hyped by looking at her flat belly."
+    "我看不到她的脸，但这实际上使她在我看来更加性感。我的意思是，我只要看着她平坦的腹部就能被引起欲望。"
 
 
 
-    "And look at those tits... ... They are hanging upside down and dancing along with my move~"
+    "再看看那对奶子......它们倒挂着，随着我的动作而跳动~"
 
 
 
-    "How could she be so sexy... ..."
+    "她怎么能这么性感呢......"
 
 
 
-    f "[P]~~~ the way you move... ... Awwwwwwww~~~~~~ love so much~~~~"
+    f "[P]~~~你的动作......。Awwwwwwww~~~~~~我爱你...好厉害~~~~"
 
 
 
-    f "Your hard penis is hitting my stomach!~~~~~"
+    f "你坚硬的鸡巴好像要捅穿我的肚子！~~~~~"
 
 
 
-    f "Ohhh~~ so good~~ ohhhhhh~~ sex is so good~~~~~"
+    f "Ohhh~~~好爽~~~Ohhhhhh~~~性爱太爽了~~~~~"
 
 
 
-    player "This is so damn amazing... ... I love you, Rachel... ..."
+    player "这太他妈不可思议了......我爱你，瑞秋... ..."
 
 
 
-    f "I love you toooooooo~~~~ ohhhhhhh~~~ It’s too deep~~~~"
+    f "我也爱你~~~~ ohhhhhhh~~~太深了~~~~"
 
 
 
-    player "I'm... I’m cumming!!"
+    player "我... 我要射了！！"
 
 
 
-    f "Yes~ yes~ come on, in my pussy!~~~~"
+    f "是的~是的~来吧，在我的骚穴里！~~~~"
 
 
 
-    player "Rachel!~~~"
+    player "瑞秋！~~~"
 
 
     stop sound
@@ -792,49 +793,49 @@ label F_love_10:
 
 
 
-    "My semen violently poured into her body as she moans, desperately trying to stain her vagina with my scent."
+    "在她的呻吟声中，我的精液猛烈地涌入她的身体，拼命地用我的气味沾染她的阴道。"
 
 
 
-    f "The warm thing... is in my belly again~~~"
+    f "那温暖的东西......又在我肚子里了~~~"
 
 
 
-    f "Sex... is the best thing in the world!"
+    f "做爱......是世界上最好的东西！"
 
 
 
     scene void with tstmgr
 
-    "She finally couldn’t hold it anymore and collapsed on the ground."
+    "她终于忍不住了，倒在了地上。"
 
 
 
     scene f_love_10_63 with tstmgr
 
-    player "Are you okay, Rachel?"
+    player "你还好吗，瑞秋？"
 
 
 
-    f "I’m fine~~~"
+    f "我很好~~~"
 
 
 
     scene f_love_10_64 with tstmgr
 
-    f "Awwwwww... ... I just learned a skill of sex that... even the women in the porno videos can't do~"
+    f "Awwwwww............。我刚刚学会了一种......连色情录像中的女人都做不到的性爱技巧~"
 
 
 
-    f "You can't even imagine how happy I am right now~"
+    f "你根本无法想象我现在有多高兴~"
 
 
 
-    f "Sigh... ... I will miss the joy of sex so much during the closed training... ..."
+    f "唉......在封闭训练期间，我肯定会非常想念做爱的快感......"
 
 
 
-    player "Well, try turn your lust into motivation for training. We can have as many times of sex as you want after you win the tournament~"
+    player "好吧，试着把你的欲望变成训练的动力。在你赢得比赛后，我们可以尽情地做爱~"
 
 
 

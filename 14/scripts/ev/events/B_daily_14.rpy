@@ -7,25 +7,25 @@ label B_daily_14:
 
 
 
-    player "Hey... Senning, can I sit next to you?"
+    player "Hey...森柠,我可以坐你旁边吗?"
 
 
 
     scene b_daily14_2 with tstmgr
 
-    b "I don’t sit with any playboy!"
+    b "我不和花花公子坐在一起!"
 
 
 
-    "She is still angry at me."
+    "她还在生我的气."
 
 
 
-    player "But... there is no other seat in this room."
+    player "但是...这里没有别的座位了."
 
 
 
-    player "Please?~~~~"
+    player "求你了?~~~~"
 
 
 
@@ -35,17 +35,17 @@ label B_daily_14:
 
 
 
-    b "O... okay... You can sit here, for this class."
+    b "O...okay...你可以坐在这里上课."
 
 
 
     scene b_daily14_2 with tstmgr
 
-    b "But I’m not forgiving you!"
+    b "但我不会原谅你的!"
 
 
 
-    "Well... at least it is a good start, right?"
+    "Well...至少这是一个好的开始,不是吗?"
 
 
 

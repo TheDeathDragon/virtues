@@ -4,159 +4,159 @@ label pcsjhx:
 
     scene school_day_background with tstmgr
 
-    narrator "The next day, I went to school as usual."
+    narrator "第二天,我像往常一样去上学."
 
     scene b_school_day_frown with tstmgr
 
-    b "What happened, [P.name]? You don't seem happy."
+    b "发生了什么,[P.name]?你看起来不高兴."
 
-    player "Nothing..."
+    player "没什么..."
 
     player "... ... ... ..."
 
-    player "Let's go to lunch."
+    player "我们去吃午饭吧."
 
     b "... ... ... ..."
 
     scene school_restaurant_background with tstmgr
 
-    narrator "We came to a restaurant near campus and had a good meal."
+    narrator "我们来到学校附近的一家餐馆,吃了一顿好饭."
 
-    narrator "Until..."
+    narrator "直到..."
 
-    "Server" "Sorry, sir. Your credit card is invalid. Would you like to use another card?"
+    "服务员""对不起,先生.你的信用卡失效了.你要换一张卡吗?"
 
-    player "(Oh, shit. I forgot I can't use my dad's credit cards anymore)."
+    player "(哦,操.我忘了我不能再用我爸的信用卡了)."
 
-    narrator "I turned to Senning."
+    narrator "我转向森柠."
 
-    player "Senning... I am out of money, would you please...?"
+    player "森柠...我没钱了,你可以...?"
 
     scene b_school_restaurant_normal with tstmgr
 
-    b "Oh, don't bother it. I will buy you this lunch."
+    b "Oh,不要紧.我请你吃午饭."
 
-    player "Thank you very much..."
+    player "非常感谢..."
 
-    b "But this is so rare to see. Did your dad stop supporting you?"
+    b "但这可不常见.你爸爸不再给钱你了吗?"
 
     player "Eh... Well..."
 
-    narrator "I told her everything."
+    narrator "我把事情告诉了她."
 
     narrator "... ... ... ..."
 
     scene b_school_restaurant_awkward with tstmgr
 
-    b "Oh my Gods. I'm so sorry to hear this, [P.name]. You must be having a very tough time."
+    b "哦,我的天.听到这个消息我很难过,[P.name].你一定过得很艰难."
 
-    player "Well, it felt terrible in the beginning, but now I am getting better."
+    player "Well,刚开始感觉很糟糕,但现在感觉还行."
 
-    player "It is just a temporary situation. Everything will be back to normal in the future."
+    player "这只是暂时的情况.将来一切都会恢复正常."
 
-    b "So what are you planning to do now?"
+    b "那么你现在打算做什么?"
 
-    player "I have found two jobs. So don't worry, I can take care of myself."
+    player "我找到了两份工作.所以别担心,我能照顾好自己."
 
     scene b_school_restaurant_frown with tstmgr
 
-    b "It's so good to know that. Just tell me if you need any help."
+    b "很高兴知道这一点.如果你需要帮助就告诉我."
 
     scene b_school_restaurant_normal with tstmgr
 
-    b "You know I always have your back."
+    b "你知道我一直支持你."
 
-    player "I will, Senning, thank you."
+    player "我会的,森柠,谢谢你."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Later tonight."
+    narrator "今天晚些时候."
 
     scene wsdg_a3 with tstmgr
 
-    narrator "I came to Vera's workplace to take her home as usual."
+    narrator "我像往常一样来到薇拉的工作场所接她回家."
 
     scene a_pcsj_normal with tstmgr
 
-    narrator "When I got there, I saw she was already waiting for me."
+    narrator "当我到达那里时,我看到她已经在等我了."
 
-    narrator "During these days, I almost come and pick her up every time after she gets off work at night. Both she and I have already got used to it."
+    narrator "这几天,每次她晚上下班后,我几乎都要来接她.她和我都已经习惯了."
 
-    a "You are late today. I've been waiting for 10 minutes."
+    a "你今天迟到了.我已经等了10分钟了."
 
-    player "Ah, sorry. I didn't drive today, so it took me longer to get here."
+    player "Ah,抱歉.今天没开车,所以花了更长的时间才到这里."
 
-    a "Why didn't you drive?"
+    a "你为什么不开车?"
 
-    player "I parked my car in the school. Well, now I am not able to drive it as often as before."
+    player "我把车停在学校里.嗯,现在我不能像以前那样经常开车了."
 
     scene a_pcsj_surprise with tstmgr
 
-    a "What happened?"
+    a "发生什么事了?"
 
-    player "I went broke. Now I can't even afford my cars' gas fee."
+    player "我破产了.现在我连汽车的汽油费都付不起."
 
-    a "Are you serious?"
+    a "你是认真的吗??"
 
-    player "Yes. My dad was arrested by the police, and his personal property has been frozen. Now I have to struggle for a living, just like you. This situation may last for one year or more."
+    player "是的.我爸爸被警察逮捕了,他的个人财产也被冻结了.现在我也要像你一样为生活而奋斗.这种情况可能会持续一年或更长时间."
 
-    a "Wait, I still don't get it."
+    a "等等,我还是不明白."
 
-    a "You mean, right now I am probably richer than you?"
+    a "你是说,现在我可能比你有钱?"
 
-    player "If you have more than 20 bucks in your pocket, then yes, you are the wealthiest dude between two of us."
+    player "如果你口袋里有超过20美元,那么是的,你是我们两人当中最有钱的."
 
     scene a_pcsj_smile with tstmgr
 
     a "... ... ... ..."
 
-    a "Excuse me, I know I am supposed to feel sorry for you right now, but..."
+    a "对不起,我知道我现在应该为你感到难过,但是..."
 
-    a "It actually feels great to know that I am richer than you."
+    a "当我知道我比你富有时,我真的感觉很好."
 
-    player "Ha, laugh as you want, woman. Don't mind me."
+    player "Ha,想笑就笑吧,女人.我不介意."
 
-    player "And don't worry, you can still stay in that house. My dad had already transferred the ownership of that house to me. Now that house and my car are all my properties left."
+    player "别担心,你还可以住在那栋房子里.我爸爸已经把那所房子的所有权转让给我了.现在那栋房子和我的车都是我的财产了."
 
-    player "In fact, since now I cannot afford to live in the hotel anymore, I am planning to move into that house, too. Do you mind to have a new housemate?"
+    player "事实上,因为现在我再也住不起酒店了,所以我也打算搬进那所房子.你介意多个新室友吗?"
 
     scene a_pcsj_surprise with tstmgr
 
-    a "You and me, live together?"
+    a "你和我,住在一起?"
 
     scene a_pcsj_frown with tstmgr
 
     a "... ... ... ..."
 
-    player "I know you may not like this idea, but..."
+    player "我知道你可能不喜欢这个主意,但是..."
 
     scene a_pcsj_normal with tstmgr
 
-    a "No... I'm okay with it..."
+    a "不...我没有意见..."
 
-    a "Of course you can move into your own house. You have every right to do that."
+    a "你当然可以搬进自己的房子.你完全有权那样做."
 
-    narrator "I am quite surprised. I thought she would refuse to stay in the same house with me after what happened the other night."
+    narrator "我很惊讶.在那天晚上事之后,我以为她会拒绝和我住在同一所房子里."
 
-    player "Alright, thanks for your understanding. And don't worry, I'll find a way to deal with the land tax and utility fees myself."
+    player "好的,谢谢你的理解.别担心,我会想办法自己处理土地税和物业管理费的."
 
-    a "You know, I can pay you an amount of rent every month. It may not be much, but I just want to help."
+    a "你知道,我可以每月付你一笔租金.可能不多,但我只是想帮忙."
 
-    player "No need, Vera. I have already found two jobs which can provide me enough income to take care of those payments."
+    player "没有必要,薇拉.我已经找到了两份工作,可以为我提供足够的收入来支付这些费用."
 
-    a "I see... ..."
+    a "我明白了......"
 
-    player "I had promised you that I won't charge you for anything, Vera, and I intend to keep that promise."
+    player "我答应过你,我不会向你收取任何费用,薇拉,我打算遵守这个诺言."
 
     a "... ... ... ..."
 
     scene a_pcsj_smile with tstmgr
 
-    a "Thank you."
+    a "谢谢你."
 
-    player "But I have to admit it is a little bit too extravagant for the two of us living in such a big house now."
+    player "但是我不得不承认,现在我们两个人住在这么大的房子里有点太奢侈了."
 
     a "... ... ... ..."
 
@@ -164,43 +164,43 @@ label pcsjhx:
 
 
 
-    a "What if... perhaps..."
+    a "如果...也许..."
 
-    a "Nevermind, forget it."
+    a "算了,不说了."
 
-    player " What's on your mind?"
+    player "你有什么想法?"
 
-    a "Eh, I'm just thinking... ..."
+    a "Eh,我只是觉得......"
 
-    a "Have you ever thought about using that house to make money?"
+    a "你想过用那栋房子来赚钱吗?"
 
-    player "What do you mean?"
+    player "什么意思?"
 
-    a "That house has 5 available bedrooms, and they are all well decorated... ..."
+    a "那所房子有五间卧室,而且都装修得很好......"
 
-    a "If you start a B&B service there, I'm sure it will be popular. It may be a good way to increase your income."
+    a "如果你在那里开一家民宿,我肯定会很受欢迎.这可能是增加收入的好方法."
 
     player "!!!"
 
-    narrator "I never realized that this girl in front of me has such a sharp business mind."
+    narrator "我从来没有意识到我面前的这个女孩有如此敏锐的商业头脑."
 
-    narrator "I mean, God, I am one of the best financial-major students in our college. But now a country girl who never went to college is telling me about a business opportunity I never realized. I should be ashamed."
+    narrator "我是说,天哪,我是我们学校金融专业最好的学生之一.但是现在,一个从未上过大学的乡下女孩告诉我一个我从未意识到的商机.我应该感到羞愧."
 
-    player "Vera, you are truly a genius!"
+    player "薇拉,你真是个天才!"
 
-    a "(Surprising) It can really work?"
+    a "(意外)真的能行吗?"
 
-    player "Theoretically, yes."
+    player "从理论上说,是的."
 
-    player "Let's do this together. I have nothing else to lose, so why don't give it a try? It could be the start of our business career."
+    player "让我们一起做吧.我已经没什么可失去的了,为什么不试试呢?这可能是我们商业生涯的开始."
 
-    player "I am going to borrow some money from friends and redecorate the house a little bit. I'll try to set it up as soon as possible."
+    player "我打算向朋友借点钱,把房子装修一下.我会尽快安排的."
 
     scene a_pcsj_frown with tstmgr
 
-    a "But... I don't think I should stay there anymore. If you start a B&B service in your house, then each bedroom will be an essential income source to you. I shouldn't just take one of them for free."
+    a "但是...我想我不应该再呆在那里了.如果你在你的房子里开始了一家民宿,那么每个卧室对你来说都是一个重要的收入来源.我不应该免费占用一个."
 
-    player "Don't be silly. I need you to help me manage the house. I am now formally inviting you to be my... my assistant. I won't be able to pay you any actual wage yet, but I'll allow you to take one bedroom as a reward."
+    player "别傻了.我需要你帮我管理房子.我现在正式邀请你做我的...我的助理.我现在还不能付你任何实际工资,但作为奖励,我允许你用一间卧室."
 
     scene a_pcsj_surprise with tstmgr
 
@@ -208,11 +208,11 @@ label pcsjhx:
 
     scene a_pcsj_frown with tstmgr
 
-    a "But I have three jobs to do every day. I probably don't have enough time to help you."
+    a "但是我每天有三份工作要做.我可能没有足够的时间来帮助你."
 
-    player "And just as I said, I won't pay you any actual wage, either. It's fair, isn't it?"
+    player "就像我说的,我也不会付你任何实际工资.这很公平,不是吗?"
 
-    player "You can just take it as a part-time job and help me when you have time."
+    player "你可以把它当作一份兼职工作,当你有时间的时候就帮我."
 
     scene a_pcsj_normal with tstmgr
 
@@ -220,29 +220,29 @@ label pcsjhx:
 
     scene a_pcsj_smile with tstmgr
 
-    a "Alright, I'll take the job. Thank you."
+    a "好吧,我接受这份工作.谢谢你."
 
-    player "Great."
+    player "好极了."
 
-    player "I will move into that house tomorrow. After that, I will go prepare the paperwork and register our house on the B&B website. Hopefully, we can start this business in two to three weeks."
+    player "我明天要搬进那所房子.之后,我会去准备文件然后把我们的房子登记在民宿网站上.希望我们能在两到三周内开始这项业务."
 
     scene a_pcsj_normal with tstmgr
 
-    a "(Repeating in a little voice) \"Our\" house... ..."
+    a "(用细小的声音重复着)\"我们的\"房子......"
 
-    player "Did you say anything?"
+    player "你在说什么?"
 
     scene a_pcsj_smile with tstmgr
 
-    a "Oh, eh, I was saying that I... I will help you with your move tomorrow afternoon."
+    a "Oh,eh,我是说我...明天下午我将帮你搬家."
 
-    player "Thank you. That'll be nice."
+    player "谢谢你.这太棒了."
 
     narrator "... ... ... ..."
 
-    narrator "After that, I walked Vera home. We discussed the future of our B&B business all the way home with great enthusiasm. It feels wonderful to prepare my own career for the first time in my life."
+    narrator "之后,我送薇拉回家.在回家的路上,我们满怀热情地讨论了我们民宿的未来.这是我人生中第一次为自己的事业做准备."
 
-    narrator "Who would ever think of my first business partner be a country girl? Life is so strange."
+    narrator "谁会想到我的第一个商业伙伴是一个乡村女孩?生活是如此奇怪."
 
     scene void with tstmgr
 
