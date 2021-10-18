@@ -2,37 +2,37 @@ label bnb_groom_evening_G_4:
 
     scene bnb_groom_evening_g_4_1 with tstmgr
 
-    g "*Humming a song* Hmmhummmm~~ huumhum~ hmmmum~ hmm~"
+    g "*哼着歌* Hmmhummmm~~ huumhum~ hmmmum~ hmm~"
 
 
 
-    g "Master~ You have been holding Uno like this for half an hour~~"
+    g "主人~你这样抱着乌诺已经半个小时了~~"
 
 
 
-    g "Are you going to fuck Uno tonight?"
+    g "你今晚要和乌诺做爱吗?"
 
 
 
     scene bnb_groom_evening_g_4_2 with tstmgr
 
-    player "Let’s talk about that later~ Right now I just want to hold your soft body and feel your warmth... ..."
+    player "我们以后再谈这个吧~现在我只想抱着你柔软的身体，感受你的温暖... ..."
 
 
 
-    g "*Humming a song* Hmmhummmm~~ huumhum~ hmmmum~ hmm~"
+    g "*哼着歌* Hmmhummmm~~ huumhum~ hmmmum~ hmm~"
 
 
 
-    g "Are you hungry yet? Can we order some fried chicken?"
+    g "你饿了吗？我们可以点一些炸鸡吗?"
 
 
 
-    player "Nope, that’s bad for health."
+    player "不，这对身体不好."
 
 
 
-    player "But I’m a little hungry indeed~"
+    player "但我确实有点饿了~"
 
 
 
@@ -42,7 +42,7 @@ label bnb_groom_evening_G_4:
 
 
 
-    g "Awwww... ... Uno is not for eating~"
+    g "Awwww... ... 乌诺不是用来吃的~"
 
 
 

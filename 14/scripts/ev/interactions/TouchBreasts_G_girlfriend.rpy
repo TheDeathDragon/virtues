@@ -22,7 +22,7 @@ label TouchBreasts_G_girlfriend:
 
 
 
-    g "Let me just... ..."
+    g "那我就......"
 
 
 
@@ -36,9 +36,9 @@ label TouchBreasts_G_girlfriend:
 
 
 
-    g "Take them out for you... ..."
+    g "为了你把它们拿出来......"
 
-    g "They are... all yours now..."
+    g "它们现在...都是你的了..."
 
 
     if G.clothes == 1:
@@ -67,7 +67,7 @@ label TouchBreasts_G_girlfriend:
 
     g "Awwwwwwwwwwwww~~~~~~~"
 
-    g "I really... like you touching me in this way..."
+    g "我真的...喜欢你像这样抚摸我..."
 
 
 
@@ -84,7 +84,7 @@ label TouchBreasts_G_girlfriend:
 
     g "Ohhhhhhhhhhhhhh!!!!!~~~~~"
 
-    g "You are... grabbing... too hard..."
+    g "你...抓的...太用力了..."
 
 
 
@@ -99,11 +99,11 @@ label TouchBreasts_G_girlfriend:
 
 
 
-    g "But... don't stop... I am enjoying it..."
+    g "但是...不要停...我很享受..."
 
-    g "You always start with gentle touching, then turn to be rough in a sudden."
+    g "你总是一开始温柔的抚摸,然后突然变得暴力."
 
-    g "I have got used to it... ..."
+    g "我已经习惯了......"
 
 
 

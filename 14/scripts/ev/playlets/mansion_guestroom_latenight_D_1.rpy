@@ -2,7 +2,7 @@ label mansion_guestroom_latenight_D_1:
 
     scene void with tstmgr
 
-    "I decided to stay here for one night."
+    "我决定在这里住一晚."
 
 
 
@@ -10,43 +10,43 @@ label mansion_guestroom_latenight_D_1:
 
 
 
-    "Later tonight, Irene came to my room without letting her mother know."
+    "今晚晚些时候,艾琳来到我的房间,没有让她妈妈知道."
 
 
 
     scene mansion_guestroom_latenight_d_1_1 with tstmgr
 
-    player "Hmm? What’s up, Irene?"
+    player "Hmm?怎么了,艾琳?"
 
 
 
-    d "I... ... I want a goodnight kiss."
+    d "我......我想要一个晚安吻."
 
 
 
     scene mansion_guestroom_latenight_d_1_2 with tstmgr
 
-    d "Or... if you want me to stay here with you... ..."
+    d "或者...如果你想让我留下来陪你......"
 
 
 
-    player "Irene... ... ... ..."
+    player "艾琳............"
 
 
 
     scene mansion_guestroom_latenight_d_1_3 with tstmgr
 
-    d "(Kissing) Wummmmmm~~~ Wummmm~~~ wummmmm~~~~"
+    d "(吻)Wummmmmm~~~Wummmm~~~wummmmm~~~~"
 
 
 
-    d "(Kissing) Huh~~~ Wummmm~~~ [P]~~~"
+    d "(吻)Huh~~~Wummmm~~~[P]~~~"
 
 
 
     scene mansion_guestroom_latenight_d_1_4 with tstmgr
 
-    player "Now you should go back to your room and sleep. You have an exam tomorrow, remember?"
+    player "现在你该回房间睡觉了.你明天有考试,记得吗?"
 
 
 

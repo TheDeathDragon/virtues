@@ -10,25 +10,25 @@ label school_campus_forenoon_B_4:
 
 
 
-    player "Why are you staring at me? What's wrong?"
+    player "你为什么盯着我看?怎么了?"
 
 
 
-    b "I want to hold hands."
+    b "我想要牵手."
 
 
 
-    "She sounded like a poor little girl."
+    "她听起来像个可怜的小女孩."
 
 
 
     scene school_campus_forenoon_b_4_2 with tstmgr
 
-    player "Okay, come here, Sen."
+    player "Okay,过来,森."
 
 
 
-    b "(Statisfied humphing) Fufu... ..."
+    b "(满意的哼声)Fufu......"
 
 
 

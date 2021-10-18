@@ -1,8 +1,8 @@
 label pool_C:
     menu:
-        "Meet her at the ladder":
+        "在梯子那儿等她" if True:
             jump pool_C.c_pool_1
-        "Go in the pool with her":
+        "和她一起去游泳池" if True:
 
             jump pool_C.c_pool_2
 
@@ -18,21 +18,21 @@ label pool_C.c_pool_1:
 
     scene c_pool_1_1 with dissolve
 
-    c "I know what’s on your mind."
+    c "我知道你在想什么."
 
 
 
-    c "You want to put your hands on these boobs, don’t you? Now it is your chance. They are all yours... for now."
+    c "你想摸摸我的咪咪,是吗?现在你的机会来了.它们都是你的...现在."
 
 
 
-    player "You mean... ..."
+    player "你的意思是说......"
 
 
 
     scene c_pool_1_2 with tstmgr
 
-    player "I can even treat them this way?"
+    player "我甚至可以这样玩它们?"
 
 
 
@@ -40,35 +40,35 @@ label pool_C.c_pool_1:
 
 
 
-    c "In... reward for you making this pool for me, yes... but... ... awwww... ... not for long... ..."
+    c "...你为我建了这个泳池,这是奖励,yes...但是......awwww......不能太久......"
 
 
 
-    player "Oh, Theo... ..."
+    player "Oh,西奥......"
 
 
 
     scene c_pool_1_3 with tstmgr
 
-    player "I'd better take my time then~"
+    player "那我最好慢慢来~"
 
 
 
-    c "Ohhhhhh... ... nipples... ..."
+    c "Ohhhhhh......乳头......"
 
 
 
     scene c_pool_1_4 with tstmgr
 
-    player "Thanks for letting me do this, Theo. It must be hard for you."
+    player "谢谢你让我这么做,西奥.这对你来说一定很难."
 
 
 
-    c "Are you... done?"
+    c "你...玩完了吗?"
 
 
 
-    player "Yeah, I know you don’t really like me contacting with your nipples so I won’t go further."
+    player "Yeah,我知道你不喜欢我碰你的乳头所以我就不弄了."
 
 
 
@@ -80,19 +80,19 @@ label pool_C.c_pool_1:
 
     scene c_pool_1_6 with tstmgr
 
-    c "Actually... ... I don’t hate it... ..."
+    c "实际上...我不讨厌......"
 
 
 
-    c "If... you are the one who touchs them... ..."
+    c "如果...是你碰它们的话......"
 
 
 
-    c "You are... the only man that can touch them... ..."
+    c "你是...唯一能碰它们的人......"
 
 
 
-    player "Theo... ... ... ..."
+    player "狄奥............"
 
 
 
@@ -100,7 +100,7 @@ label pool_C.c_pool_1:
 
     $ flashlight()
 
-    player "I know what to do now, Theo~ Sipp~ sipp~"
+    player "我知道该怎么做了,西奥~Sipp~sipp~"
 
 
 
@@ -110,91 +110,91 @@ label pool_C.c_pool_1:
 
     scene c_pool_1_8 with tstmgr
 
-    player "*Dragging the breast with mouth* So heavy... and so soft... ..."
+    player "*用嘴叼着胸*好重...好软......"
 
 
 
     scene c_pool_1_9 with tstmgr
 
-    player "They are my... treasures... ... Only I can have them in my mouth... ..."
+    player "它们是我的...宝藏...只有我能把它们放进嘴里......"
 
 
 
-    c "Waaaaaaait~~~~ Ohhhhhhh~~~~~"
+    c "等等等等~~~~Ohhhhhhh~~~~~"
 
 
 
-    player "And now... ..."
+    player "那么现在......"
 
 
 
-    player "Let’s try the other one~"
+    player "我们试试另一个~"
 
 
 
     scene c_pool_1_10 with tstmgr
 
-    c "AAAAAhhhhhhh!!!~~~~~~ This one is even more sensitive!!~~"
+    c "AAAAAhhhhhhh!!!~~~~~~这个更敏感!!~~"
 
 
 
-    player "So... so delicious... ..."
+    player "太...太美味了......"
 
 
 
     scene c_pool_1_11 with tstmgr
 
-    player "This pair of gorgeous... ... belongs to me."
+    player "这对漂亮的......属于我."
 
 
 
-    player "I can do... whatever I want... ..."
-
-
-
-    scene c_pool_1_12 with tstmgr
-
-    player "*Sucking the right one* Wumm~ wummm~~ zip~~ zimmmm~~~~"
-
-
-
-    scene c_pool_1_13 with tstmgr
-
-    player "*Sucking the left one* Hummmm~~~ zip~~~ simmmm~~~~"
+    player "我能做...任何我想做的事......"
 
 
 
     scene c_pool_1_12 with tstmgr
 
-    player "Wummm~~~ I love you, Theo, wummmm, I love you so much!"
+    player "*吸右边的那个*Wumm~wummm~~zip~~zimmmm~~~~"
 
 
 
     scene c_pool_1_13 with tstmgr
 
-    player "I will never... ... Wuummmm~~~ leave you... ..."
+    player "*吸左边的那个*Hummmm~~~zip~~~simmmm~~~~"
 
 
 
-    c "Don’t, don’t confess your love while having my nipple in your mouth... ..."
+    scene c_pool_1_12 with tstmgr
+
+    player "Wummm~~~我爱你,西奥,wummmm,我好爱你!"
 
 
 
-    c "At least... look... at my face... ..."
+    scene c_pool_1_13 with tstmgr
+
+    player "我永远不会......Wuummmm~~~离开你......"
 
 
 
-    player "Theo... ... ... ..."
+    c "不要,不要在你嘴里含着我的乳头时表达你的爱......"
+
+
+
+    c "至少...看着...我的脸......"
+
+
+
+    player "狄奥............"
 
 
 
     scene c_pool_1_14 with tstmgr
 
-    player "*Kissing* I love you, Theo... ..."
+    player "*亲吻*我爱你,西奥......"
 
 
 
-    c "What...mmmmm...ever... ... ... ..."
+    c "算...mmmmm...了............"
 
 
 
@@ -214,7 +214,7 @@ label pool_C.c_pool_2:
 
     scene c_pool_2_1 with tstmgr
 
-    c "Now there are only two of us~"
+    c "现在我们只有两个人了~"
 
 
 
@@ -238,13 +238,13 @@ label pool_C.c_pool_2:
 
     scene c_pool_2_1 with tstmgr
 
-    player "You really like kissing, Theo..."
+    player "你真的很喜欢接吻,西奥..."
 
 
 
     scene c_pool_2_3 with tstmgr
 
-    c "I really like... kissing with you~"
+    c "我真的很喜欢...和你接吻~"
 
 
 
@@ -256,21 +256,21 @@ label pool_C.c_pool_2:
 
     scene c_pool_2_5 with tstmgr
 
-    player "*Taking off Theo's bra* ... ... ... ..."
+    player "*脱下西奥的胸罩*............"
 
 
 
     scene c_pool_2_6 with tstmgr
 
-    c "Humph, you want to have sex already? Are you going to change the water again after we are done?"
+    c "Humph,你已经想做爱了?做完后你还会再换水吗?"
 
 
 
-    player "Ehhh... ... About that... ..."
+    player "Ehhh......这个......"
 
 
 
-    c "It’s not cheap to have a sex in this place, huh? Maybe we should get on the ground."
+    c "在这里做爱可不便宜,对吧?也许我们应该到地面上去."
 
 
 
@@ -280,7 +280,7 @@ label pool_C.c_pool_2:
 
     scene c_pool_2_7 with tstmgr
 
-    player "Fuck it, I’ll change the water again! I’m fucking you here right now!"
+    player "操他妈的,我待会再换水!我现在就要在这里操你!"
 
 
 
@@ -288,27 +288,27 @@ label pool_C.c_pool_2:
     play sound c_pool_2_8 loop
     pause
 
-    c "If you... if you change the water every time after we fuck... ... One day you will be really broke~"
+    c "如果你...如果每次我们做爱后你都换水......有一天你会真的破产的~"
 
 
 
-    player "You know what? I don't fucking care! I just want you!"
+    player "你知道吗?我他妈才不管!我只想要你!"
 
 
 
-    c "Then you'd better... Ohhh~~ go make a lot of money~~"
+    c "然后你最好...哦~~去赚大钱吧~~"
 
 
 
-    c "Or maybe~ uuuuuhhhhh~~ you can choose not to change the water~ No one will find out~~ hmmmmmmmm~"
+    c "或者~uuuuuhhhhh~~你可以选择不换水,没有人会发现的~~hmmmmmmmm~"
 
 
 
-    c "And the next time... we will swim in our own fluids~~~ Awwwwwww~~"
+    c "下次...我们会在我们自己流出来的水中游泳~~~Awwwwwww~~"
 
 
 
-    c "And one day~~~ I may get pregnant simply by swimming here because there are so many of your sperms in the water~"
+    c "直到有一天~~~我可能只是在这里游个泳就怀孕了,因为水里有太多你的精子~"
 
 
 
@@ -319,47 +319,47 @@ label pool_C.c_pool_2:
 
 
 
-    player "You are so damn horny, Theo~"
+    player "你太骚了,西奥~"
 
 
 
-    c "You made me... into this... ..."
+    c "是你让我...这样的......"
 
 
 
-    c "You... and your horny cock... ohhhhh~~~~"
+    c "你...和你的大鸡巴...ohhhhh~~~~"
 
 
 
-    c "Yes, yes, keep punching my womb~~"
+    c "Yes,yes,继续操我~~"
 
 
 
-    c "I am... soon... no... now... ...awwww~~~~"
+    c "我...很快...no...现在......awwww~~~~"
     stop sound
     scene c_pool_2_10 with tstmgr
 
     $ flashlight()
 
-    c "Cumminggggggggggg~~~~~~~~Ohhhhhhhhhhhhhhhhhhh~~~~~~"
+    c "就要高潮了~~~~~~~~Ohhhhhhhhhhhhhhhhhhh~~~~~~"
 
 
 
-    c "Hot sperms~~~ inside me... ... Yeeees~~~~"
+    c "滚烫的精子~~~在我体内......Yeeees~~~~"
 
 
 
     scene c_pool_2_11 with tstmgr
 
-    player "Theo, I love you~"
+    player "西奥,我爱你~"
 
 
 
-    c "And I love you............r cock~"
+    c "我爱你............的鸡巴~"
 
 
 
-    c "The next time, let's try fuck in the space~"
+    c "下次,我们去太空做爱吧~"
 
 
 

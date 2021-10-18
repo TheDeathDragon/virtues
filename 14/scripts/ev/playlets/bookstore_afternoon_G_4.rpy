@@ -2,19 +2,19 @@ label bookstore_afternoon_G_4:
 
     scene bookstore_afternoon_g_4_1 with tstmgr
 
-    "Man A" "Excuse me..."
+    "男人A" "打扰一下..."
 
 
 
     scene bookstore_afternoon_g_4_2 with tstmgr
 
-    g "Oh, what can I help?"
+    g "哦，我能帮什么忙？"
 
 
 
     scene bookstore_afternoon_g_4_3 with tstmgr
 
-    "Man A" "I just want to know where I can find the book of... ..."
+    "男人A" "我只想知道我在哪里可以找到... ..."
 
 
 
@@ -24,31 +24,31 @@ label bookstore_afternoon_G_4:
 
 
 
-    "Man A" "The book of... ... Hmmmmmm?"
+    "男人A" "找到关于... ... Hmmmmmm?"
 
 
 
-    "Man A" "Eh... Is there a problem?"
+    "男人A" "Eh... 我好像有点问题?"
 
 
 
     scene bookstore_afternoon_g_4_5 with tstmgr
 
-    player "What? Me? Nope, I’m just walking around, don’t mind me."
+    player "什么？不，我只是到处走走，不用管我。."
 
 
 
-    "Man A" "... ... ... ..."
+    "男人A" "... ... ... ..."
 
 
 
-    "Man A" "Nevermind, I, I will go find it myself."
+    "男人A" "算了吧，我，我自己去找吧。."
 
 
 
     scene bookstore_afternoon_g_4_6 with tstmgr
 
-    "The man left..."
+    "那人离开了..."
 
 
 
@@ -58,41 +58,41 @@ label bookstore_afternoon_G_4:
 
     scene bookstore_afternoon_g_4_7 with tstmgr
 
-    g "Mast... [P], you don’t need to be so... sensitive. That gentleman just wanted to ask questions."
+    g "主人... [P], 你不需要这么......敏感。那位先生只是想问问题."
 
 
 
-    player "Eh... ... I didn’t do anything. I was just... standing here as your bodyguard."
+    player "Eh... ... 我什么也没做。我只是...作为你的保镖站在这里."
 
 
 
     scene bookstore_afternoon_g_4_8 with tstmgr
 
-    g "You scared him."
+    g "你吓到他了."
 
 
 
-    player "Did I?"
+    player "我有么?"
 
 
 
-    player "Sorry... ... Am I interrupting your work?"
+    player "对不起......我是否打扰了你的工作?"
 
 
 
     scene bookstore_afternoon_g_4_9 with tstmgr
 
-    g "You definitely are, but... ..."
+    g "你肯定是的，但... ..."
 
 
 
     scene bookstore_afternoon_g_4_10 with tstmgr
 
-    g "Wuuummmmmm~~~ I'm glad to have you with me during my work, master~"
+    g "Wuuummmmmm~~~ 我很高兴在我工作期间有你陪伴，主人~"
 
 
 
-    g "And... wuuummm~ thanks for protecting me~"
+    g "And... wuuummm~ 谢谢你保护我~"
 
 
 

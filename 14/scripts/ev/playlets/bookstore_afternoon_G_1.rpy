@@ -2,7 +2,7 @@ label bookstore_afternoon_G_1:
 
     scene void with tstmgr
 
-    "I came to the bookstore in the afternoon."
+    "我下午去了书店."
 
 
 
@@ -12,13 +12,13 @@ label bookstore_afternoon_G_1:
 
 
 
-    player "Eh, hello, Uno."
+    player "Eh,hello,乌诺."
 
 
 
     scene bookstore_afternoon_g_1_2 with tstmgr
 
-    g "Sigh... ..."
+    g "唉......"
 
 
 
@@ -28,15 +28,15 @@ label bookstore_afternoon_G_1:
 
 
 
-    player "What the..."
+    player "这..."
 
 
 
-    g "This is the reason you came here, right? Be quick, others may see us."
+    g "这就是你来这里的原因,对吗?快点,不然会被别人看到的."
 
 
 
-    g "Enjoy your 30 seconds for today."
+    g "享受今天的30秒."
 
 
 

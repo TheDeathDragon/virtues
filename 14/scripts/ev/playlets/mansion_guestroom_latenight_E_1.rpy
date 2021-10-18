@@ -2,37 +2,37 @@ label mansion_guestroom_latenight_E_1:
 
     scene mansion_guestroom_latenight_e_1_1 with tstmgr
 
-    player "Aunt Elisa?"
+    player "伊莉莎阿姨?"
 
 
 
-    e "Hi, [P]... I just want to check if you need anything. Do you want another blanket or... ..."
+    e "Hi,[P]...我只是想看看你需要什么.你想再要一条毯子还是......"
 
 
 
-    e "(Owww... ... My heart beats so fast just looking at him... ...)"
+    e "(Owww......看着他,我的心跳得很快......)"
 
 
 
-    player "I, I'm fine, thanks for asking, Aunt Elisa. Do you want to eh... sit with me for a while?"
+    player "我,我很好,谢谢你的关心,伊莉莎阿姨.你想不想...陪我坐一会儿?"
 
 
 
     scene mansion_guestroom_latenight_e_1_2 with tstmgr
 
-    e "Sit with you? I'd love... ..."
+    e "陪你坐会?我很乐意......"
 
 
 
     scene mansion_guestroom_latenight_e_1_3 with tstmgr
 
-    e "Oh... I mean, no, I can't do that. I have to... leave here now."
+    e "Oh...我的意思是,不,我不能这样做.我必须...现在离开这里."
 
 
 
     scene void with tstmgr
 
-    "Elisa left my room in a hurry."
+    "伊莉莎匆忙地离开了我的房间."
 
 
 

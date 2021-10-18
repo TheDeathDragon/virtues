@@ -8,21 +8,21 @@ label beach_afternoon_G_1:
 
     scene beach_afternoon_g_1_1 with tstmgr
 
-    player "So this is what you want? Eating fried chicken at the beach?"
+    player "这就是你想要的?在海滩上吃炸鸡?"
 
 
 
-    g "What’s the matter? Fried chicken is my favorite."
+    g "有什么问题吗?炸鸡是我的最爱."
 
 
 
-    player "Yeah, but you don’t have to eat it at the beach. We are here for fun!"
+    player "Yeah,但你不必在海滩上吃.我们是来玩的!"
 
 
 
     scene beach_afternoon_g_1_2 with tstmgr
 
-    g "Eating fried chicken can bring me a lot of fun~~"
+    g "吃炸鸡可以给我带来很多乐趣~~"
 
 
 
@@ -30,7 +30,7 @@ label beach_afternoon_G_1:
 
 
 
-    player "You are helpless..."
+    player "拿你没办法..."
 
 
 

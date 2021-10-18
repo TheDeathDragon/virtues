@@ -8,49 +8,49 @@ label company_forenoon_C_4:
 
 
 
-    c "You can't just... come here everyday during working hours... for free kisses... ..."
+    c "你不能...每天上班时间都来这里...吻我......"
 
 
 
-    c "I'll report to mom about this~~~"
+    c "我要把这件事告诉妈妈~~~"
 
 
 
     scene company_forenoon_c_4_2 with tstmgr
 
-    player "Will you forgive me if I offer you a free tits massage?"
+    player "如果我给你一个免费的胸部按摩,你会原谅我吗?"
 
 
 
-    c "Jerk~~"
+    c "流氓~~"
 
 
 
     scene company_forenoon_c_4_3 with tstmgr
 
-    c "Wummmm~~~ It better be a good massage~"
+    c "Wummmm~~~最好是好好按摩一下~"
 
 
 
-    player "Of course, you can trust me on this..."
+    player "当然,这一点你可以相信我..."
 
 
 
     scene company_forenoon_c_4_4 with tstmgr
 
-    c "Awwwww~~~ My nipple~~~"
+    c "Awwwww~~~我的乳头~~~"
 
 
 
-    player "Your neck... smells so good~"
+    player "你的脖子...闻起来好香~"
 
 
 
-    player "You are the best manager ever~"
+    player "你是有史以来最好的经理~"
 
 
 
-    c "Fuck... you... ..."
+    c "你...混蛋......"
 
 
 

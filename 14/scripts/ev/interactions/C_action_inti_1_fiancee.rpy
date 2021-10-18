@@ -2,13 +2,13 @@ label C_action_inti_1_fiancee:
 
     scene void with tstmgr
 
-    "Afternoon, in Theodora’s office..."
+    "下午,在狄奥多拉的办公室..."
 
 
 
     scene c_train_inti_1_1 with tstmgr
 
-    c "Alright, thanks for bringing me those files. That will be fine for now, you can go back to your work."
+    c "Alright,谢谢你带给我那些文件.现在好了,你可以回去工作了."
 
 
 
@@ -19,34 +19,34 @@ label C_action_inti_1_fiancee:
     label C_action_inti_1_fiancee_choice_1:
 
     menu:
-        "Ask for a kiss":
+        "请求一个吻" if True:
 
 
             scene c_action_inti_1_1 with tstmgr
 
-            c "Anything else?"
+            c "怎么了?"
 
-            player "I was thinking... maybe we can... ..."
+            player "我在想...也许我们可以......"
 
-            c "What’s on your mind? Just say it."
+            c "你在想什么?想说就说."
 
-            player "Kiss... again..."
+            player "再次...接吻..."
 
             scene c_action_inti_1_2 with tstmgr
 
-            c "(Slightly surprised) ... ... ... ..."
+            c "(有点惊讶)............"
 
             scene c_action_inti_1_3 with tstmgr
 
-            c "(Smiled teasingly) Ha... ... ... ..."
+            c "(嘲弄地笑了笑)Ha............"
 
-            c "You are addicted to the feeling on my lips, aren’t you?"
+            c "你沉迷于我唇边的感觉,不是吗?"
 
-            player "I... ... ... ..."
+            player "我............"
 
             scene c_action_inti_1_4 with tstmgr
 
-            c "Come here~"
+            c "到这儿来~"
 
             scene void with tstmgr
 
@@ -54,19 +54,19 @@ label C_action_inti_1_fiancee:
 
             scene c_action_inti_1_5 with dissolve
 
-            player "Ehh... can we change a position?"
+            player "Ehh...我们能换个姿势吗?"
 
-            c "Why? I think it's comfortable to be in this position."
+            c "为什么?我觉得这种姿势很舒服."
 
-            player "Well... it’s comfortable for you, but... ..."
+            player "Well...对你来说很舒服,但是......"
 
             scene c_action_inti_1_6 with tstmgr
 
-            player "My legs hurt... ..."
+            player "我的腿好疼......"
 
             scene c_action_inti_1_7 with tstmgr
 
-            c "Stop complaining like a little girl. Do you want to kiss or not?"
+            c "别像个小女孩一样抱怨了.你到底想不想接吻?"
 
             player "Okay, okay... ..."
 
@@ -86,20 +86,20 @@ label C_action_inti_1_fiancee:
 
             scene c_action_inti_1_9 with tstmgr
 
-            player "Theo... ..."
+            player "狄奥......"
 
-            c "Take... your hand... ... away... from my... tits... ..."
+            c "把...你的手......从...我胸上...拿开......"
 
             scene c_action_inti_1_10 with tstmgr
 
             c "Hummmmm~~~~~ wummmmm~~~~~ Aummmmm~~~~~"
 
-            "We kissed like two filthy beasts and almost lost the notion of time. Nothing matters anymore to us except each other’s tongue."
+            "我们像两只发情的野兽一样接吻,几乎忘记了时间的概念.对我们来说,除了彼此的舌头,什么都不重要了."
 
             scene void with tstmgr
 
-            "I stayed in Theodora’s office until the dusk."
-        "Ask for a hug":
+            "我在狄奥多拉的办公室呆到黄昏."
+        "请求一个拥抱" if True:
 
 
 
@@ -108,29 +108,29 @@ label C_action_inti_1_fiancee:
 
             scene c_action_inti_1_1 with tstmgr
 
-            c "Anything else?"
+            c "怎么了?"
 
-            player "I was thinking... maybe we can... ..."
+            player "我在想...也许我们可以......"
 
-            c "What’s on your mind? Just say it."
+            c "你在想什么?想说就说."
 
-            player "Hug..."
+            player "拥抱..."
 
             scene c_action_inti_1_2 with tstmgr
 
-            c "Hug?"
+            c "拥抱?"
 
             scene c_action_inti_1_3 with tstmgr
 
-            c "What are you? A lonely kid who seeks to be cared?"
+            c "你是什么?一个寻求关爱的孤独孩子?"
 
-            c "(Smiled teasingly) ... ... ... ..."
+            c "(嘲弄地笑了笑)............"
 
             scene c_action_inti_1_4 with tstmgr
 
-            c "Come here~"
+            c "到这儿来~"
 
-            player "Coming!~~"
+            player "来了!~~"
 
             scene void with tstmgr
 
@@ -138,59 +138,59 @@ label C_action_inti_1_fiancee:
 
             scene c_action_inti_1_11 with tstmgr
 
-            player "Ehh... ... Do we have to... hug in this position?"
+            player "Ehh......我们必须...要用这种姿势拥抱吗?"
 
-            c "I’m quite tired now so I won’t get up no matter what."
+            c "我现在很累,所以无论发生什么事我都不想起来."
 
-            player "Eh... but..."
+            player "Eh...但是..."
 
             scene c_action_inti_1_12 with tstmgr
 
-            player "My legs hurt... ..."
+            player "我的腿好疼......"
 
             scene c_action_inti_1_15 with tstmgr
 
-            c "Stop complaining like a little girl. Do you want to hug or not?"
+            c "别像个小女孩一样抱怨了.你想不想拥抱一下?"
 
             player "Okay, okay... ..."
 
             scene c_action_inti_1_16 with tstmgr
 
-            player "Theodora!~~~~"
+            player "狄奥多拉!~~~~"
 
-            c "Oh, eh, this is... ... something new..."
+            c "Oh,eh,这是...一些新的..."
 
-            player "I’m going to heat up your cold heart with my warm body."
+            player "我要用我温暖的身体温暖你冰冷的心."
 
-            c "... ... You are weird."
+            c "......你很奇怪."
 
             c "Hmmmmmmmm... ... ... ..."
 
             scene c_action_inti_1_17 with tstmgr
 
-            c "I remembered that you always liked to hug my mom in this way when you were small."
+            c "我记得你小时候就喜欢这样拥抱我妈妈."
 
-            c "You love to lean your face on women’s big breasts, don’t you?"
+            c "你喜欢把脸贴在女人的大胸上,对吧?"
 
-            player "I won’t deny that... ..."
+            player "我不否认这一点......"
 
             scene c_action_inti_1_18 with tstmgr
 
-            player "(Kissing Theo’s breast) ... ... ... ..."
+            player "(吻狄奥的胸)............"
 
-            c "The way you kiss... is like a baby..."
+            c "你吻我的方式...就像一个婴儿..."
 
             c "... ... ... ..."
 
-            c "Owwwwwww~~~~ yes, yes, kiss me more... Just stay away from my nipples~~"
+            c "Owwwwwww~~~~yes,yes,吻我...离我的胸远点~~"
 
-            player "Theo... ..."
+            player "狄奥......"
 
-            "We embraced tight together like two filthy beasts and almost lost the notion of time. Nothing matters anymore to us except each other’s body."
+            "我们紧紧拥抱在一起,像两只肮脏的野兽,几乎失去了时间的概念.除了彼此的身体以外,对我们来说什么都不重要了."
 
             scene void with tstmgr
 
-            "I stayed in Theodora’s office until dusk."
+            "我在狄奥多拉的办公室呆到黄昏."
 
 
 

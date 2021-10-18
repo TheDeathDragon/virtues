@@ -6,7 +6,7 @@ label mansion_toilet_morning_E_1:
 
 
 
-    player "Eh, sorry, auntie, the door was not locked so... ..."
+    player "Eh,对不起,阿姨,门没锁所以......"
 
 
 
@@ -18,11 +18,11 @@ label mansion_toilet_morning_E_1:
 
     scene mansion_toilet_morning_e_1_3 with tstmgr
 
-    e "I have finished it anyway~"
+    e "反正我已经上完了~"
 
 
 
-    player "*Swallowing hard* ... ... ... ..."
+    player "*使劲吞咽*............"
 
 
 
@@ -34,11 +34,11 @@ label mansion_toilet_morning_E_1:
 
     scene mansion_toilet_morning_e_1_5 with tstmgr
 
-    e "What are you looking at, bad boy?"
+    e "你在看什么呢,坏小子?"
 
 
 
-    player "What are you showing me, bad auntie?"
+    player "你在给我看什么,坏阿姨?"
 
 
 
@@ -48,17 +48,17 @@ label mansion_toilet_morning_E_1:
 
     scene mansion_toilet_morning_e_1_6 with tstmgr
 
-    e "I’m showing you... things you love to see~"
+    e "我在给你看...你喜欢看的东西~"
 
 
 
-    player "Ohhh... Elisa!"
+    player "Ohhh...伊莉莎!"
 
 
 
     scene mansion_toilet_morning_e_1_7 with tstmgr
 
-    d "*Asking loudly from another room* Mom, who are you talking to? Is [P] here?"
+    d "*从另一个房间传来的大声询问*妈,你在跟谁说话?[P]在这里吗?"
 
 
 
@@ -68,11 +68,11 @@ label mansion_toilet_morning_E_1:
 
     scene mansion_toilet_morning_e_1_8 with tstmgr
 
-    e "You... you’d better leave this room now..."
+    e "你...你最好现在就离开这个房间..."
 
 
 
-    player "Oww... ... What a pity... ..."
+    player "Oww......太可惜了......"
 
 
 

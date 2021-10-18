@@ -2,17 +2,17 @@ label school_class_forenoon_B_3:
 
     scene school_class_forenoon_b_3_1 with tstmgr
 
-    player "Sen?"
+    player "森?"
 
 
 
-    player "Senning?"
+    player "森柠?"
 
 
 
     scene school_class_forenoon_b_3_2 with tstmgr
 
-    b "Ah? What? What have I missed?"
+    b "Ah?什么?我错过了什么?"
 
 
 
@@ -20,11 +20,11 @@ label school_class_forenoon_B_3:
 
 
 
-    player "You never distracted from a class before. What happened?"
+    player "你以前上课从不分心.发生了什么事?"
 
 
 
-    b "No... nothing... I'm fine."
+    b "没...没什么...我很好."
 
 
 

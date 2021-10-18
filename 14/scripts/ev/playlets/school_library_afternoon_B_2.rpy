@@ -2,11 +2,11 @@ label school_library_afternoon_B_2:
 
     scene school_library_afternoon_b_2_1 with tstmgr
 
-    b "(Slightly snoring) ... ... ... ..."
+    b "(轻微的打鼾)............"
 
 
 
-    player "Damn, she is so adorable when she sleeps."
+    player "该死,她睡觉的时候真可爱."
 
 
 

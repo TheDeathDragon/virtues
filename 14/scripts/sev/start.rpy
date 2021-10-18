@@ -2,13 +2,13 @@ label start:
     scene void with Dissolve(0.4)
 
     window show
-    "What's your name again?"
+    "你的名字是?"
     window hide
 
-    $ P_state.name = "Agang" if renpy.variant("pc") else "Leo"
-    call screen name_input(prompt=_(""), prefix="I'm ", suffix=".")
+    $ P_state.name = "夜尽天明" if renpy.variant("pc") else "夜尽天明"
+    call screen name_input(prompt=_(""), prefix="我叫", suffix=".")
 
-    $ hotel_room_rent = Attr(500.0, name=_("Room Rent"))
+    $ hotel_room_rent = Attr(500.0, name=_("租金"))
     $ P.ie_suffix = _("/Day")
     $ P.ie_short_suffix = _("/D")
     $ P.expanses.append(hotel_room_rent)
@@ -16,9 +16,9 @@ label start:
 
 
     menu:
-        "Start from the beginning":
+        "从头开始" if True:
             $ run_event('d1_1')
-        "Skip the prologues":
+        "跳过序章" if True:
 
             $ fake_run('d4_1_bLine', 'd4_4_bLine', 'd5_2_bLine', 'd5_4_bLine')
             $ fake_run('d4_3', 'A_dgsjhx', 'd8_1', 'A_daily_1', 
@@ -29,8 +29,8 @@ label start:
             $ bLine = True
             $ B_gift, D_gift = True, True
 
-            $ A.love.meter._value = 5.0
-            $ B.love.meter._value = 5.0
+            $ A.love.meter.value = 5.0
+            $ B.love.meter.value = 5.0
 
             $ P.cash.value = 0
             $ P.virtue.value = 49

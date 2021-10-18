@@ -2,17 +2,17 @@ label find_A_restaurant_evening_A_2:
 
     scene bar_background with tstmgr
 
-    player "Hi, Vera."
+    player "Hi,薇拉."
 
 
 
     scene a_restaurant_slight_surprise with tstmgr
 
-    a "Sorry, I'm kind of busy right now. I'll talk to you later."
+    a "对不起,我现在有点忙.我待会再和你说."
 
 
 
-    player "Oh, alright, take your time."
+    player "Oh,好的,慢慢来."
 
 
 
@@ -22,19 +22,19 @@ label find_A_restaurant_evening_A_2:
 
     scene a_restaurant_smile with tstmgr
 
-    a "You know what? Nevermind, what can I get for you today?"
+    a "你知道吗?算了,今天我能为你做点什么?"
 
 
 
-    player "Don't you need to worry about the other guests?"
+    player "你不需要担心其他的客人吗?"
 
 
 
-    a "You are also my guest..."
+    a "你也是我的客人..."
 
 
 
-    a "(Whispering) My favorite guest."
+    a "(低语)我最喜欢的客人."
 
 
 

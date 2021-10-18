@@ -2,53 +2,53 @@ label beach_forenoon_F_1:
 
     scene beach_forenoon_f_1_1 with tstmgr
 
-    f "(Looking around) ... ... ... ..."
+    f "(东张西望)............"
 
 
 
     scene beach_forenoon_f_1_2 with tstmgr
 
-    f "(Looking around) Wow... ..."
+    f "(东张西望)Wow......"
 
 
 
     scene beach_forenoon_f_1_3 with tstmgr
 
-    player "What are you looking at?"
+    player "你在看什么?"
 
 
 
-    f "The couple over there, they are kissing like no one else is around."
+    f "那边的那对情侣,他们在接吻,好像旁若无人一样."
 
 
 
     scene beach_forenoon_f_1_4 with tstmgr
 
-    f "And the women over there is naked and waiting to be oiled by her man..."
+    f "那边的女人光着身子,等着她的男人给她上油..."
 
 
 
-    f "It must be great to have a boyfriend... ..."
+    f "有男朋友一定很棒......"
 
 
 
-    player "Rachel... ..."
+    player "瑞秋......"
 
 
 
     scene beach_forenoon_f_1_5 with tstmgr
 
-    f "Wait... is that a dolphin? It's so beautiful!..."
+    f "等等...那是海豚吗?好美!..."
 
 
 
-    f "It must be great to have a dolphine boyfriend... ..."
+    f "有个海豚男朋友一定很棒......"
 
 
 
     scene beach_forenoon_f_1_6 with tstmgr
 
-    player "Wait, what?"
+    player "等等,什么?"
 
 
 

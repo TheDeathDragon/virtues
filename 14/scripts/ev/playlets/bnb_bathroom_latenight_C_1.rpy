@@ -2,29 +2,29 @@ label bnb_bathroom_latenight_C_1:
 
     scene bnb_bathroom_latenight_c_1_1 with tstmgr
 
-    c "(Showering) ... ... ... ..."
+    c "(淋浴)............"
 
 
 
-    player "(Knocking from outside) Seriously, Theo, you have been in there for 40 minutes! Hurry up!"
+    player "(从外面敲门)说真的,狄奥,你在里面呆了40分钟!快点!"
 
 
 
     scene bnb_bathroom_latenight_c_1_2 with tstmgr
 
-    c "I'll pay for the utility fee so don't rush me, okay?"
+    c "我来付水电费,不要催我,okay?"
 
 
 
     scene bnb_bathroom_latenight_c_1_3 with tstmgr
 
-    player "(Opened the door and got inside) Shit, I have waited for 40 minutes! I need to take a shower right now!"
+    player "(打开门进去了)Shit,我等了40分钟!我现在需要洗个澡!"
 
 
 
     scene bnb_bathroom_latenight_c_1_4 with tstmgr
 
-    c "Ah... ... whatever, be my guest. I'm about to finish anyway."
+    c "Ah......随你便.反正我就要洗完了."
 
 
 
@@ -36,29 +36,29 @@ label bnb_bathroom_latenight_C_1:
 
     scene bnb_bathroom_latenight_c_1_6 with tstmgr
 
-    c "Why is your penis always erected like that?"
+    c "为什么你的鸡儿总是这样竖着?"
 
 
 
     scene bnb_bathroom_latenight_c_1_7 with tstmgr
 
-    player "Is that even a question? I mean, how could it not be erected when you are naked in front of me?"
+    player "这是什么问题?我的意思是,当你裸体站在我面前的时候,它怎么可能不竖起来呢?"
 
 
 
     scene bnb_bathroom_latenight_c_1_8 with tstmgr
 
-    c "Don't touch me, I won't let you make me dirty again~"
+    c "别碰我,我不会再让你把我弄脏的~"
 
 
 
-    c "I'm going out. See you later~"
+    c "我要出去了.再见~"
 
 
 
     scene bnb_bathroom_latenight_c_1_9 with tstmgr
 
-    player "Hey, wait... ..."
+    player "Hey,等等......"
 
 
 

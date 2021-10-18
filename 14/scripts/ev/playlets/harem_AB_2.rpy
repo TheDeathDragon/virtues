@@ -2,7 +2,7 @@ label harem_AB_2:
 
     scene harem_ab_2_1 with tstmgr
 
-    "Senning, Vera and I are watching a horror movie together..."
+    "森柠,薇拉和我在一起看恐怖电影..."
 
 
 
@@ -14,17 +14,17 @@ label harem_AB_2:
 
     scene harem_ab_2_3 with tstmgr
 
-    player "You know, you can sit closer to me if you are scared."
+    player "如果你害怕,可以坐得离我近一点."
 
 
 
     scene harem_ab_2_4 with tstmgr
 
-    a "Humph~ I am a brave girl who once lived in the dangerous slum alone, now this is just a little case to me~"
+    a "Humph~我是一个勇敢的女孩,曾经独自生活在危险的贫民窟,现在这对我来说算不得什么~"
 
 
 
-    player "Oh, yeah, you are one of the bravest girl I ever know."
+    player "Oh,yeah,你是我认识的最勇敢的女孩之一."
 
 
 
@@ -42,35 +42,35 @@ label harem_AB_2:
 
     scene harem_ab_2_7 with tstmgr
 
-    b "Ahhhhh!~~ I'm scared!~~"
+    b "Ahhhhh!~~我害怕!~~"
 
 
 
     scene harem_ab_2_8 with tstmgr
 
-    player "Oh, okay, don't worry, Sen, I'm here with you."
+    player "Oh,okay,别担心,森,我会陪着你的."
 
 
 
     scene harem_ab_2_9 with tstmgr
 
-    a "W... what? Wait!"
+    a "什么?等等!"
 
 
 
     scene harem_ab_2_10 with tstmgr
 
-    b "Hum~ a brave girl like Miss Vera doesn't need this, right?"
+    b "Hum~像薇拉小姐这样勇敢的女孩不需要这样,对吧?"
 
 
 
-    a "What? No!"
+    a "什么?No!"
 
 
 
     scene harem_ab_2_11 with tstmgr
 
-    a "I'm scared, too! Help~~~~"
+    a "我也很害怕!救命~~~~"
 
 
 

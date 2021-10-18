@@ -26,27 +26,27 @@ label TouchHead_A_general:
 
     scene a_general_1_frown with tstmgr
 
-    bubble_a "Why do you want to do that?"
+    bubble_a "你为什么要这么做?"
 
-    bubble_b "But fine... ..."
+    bubble_b "好吧......"
 
     scene a_touchead_night_1 with tstmgr
 
     a "... ... ... ..."
 
-    a "Eh... It feels... itchy..."
+    a "Eh...这感觉...有点痒..."
 
     scene a_touchead_night_2 with tstmgr
 
-    a "Wait... You are too close to me."
+    a "等等...你离我太近了."
 
-    a "This is getting weird..."
+    a "越来越奇怪了..."
 
     scene a_touchead_night_3 with tstmgr
 
-    a "Stop..."
+    a "停..."
 
-    a "(Slightly groaning)Ah... no..."
+    a "(轻微的呻吟)Ah...别..."
 
     scene void with tstmgr
 
@@ -58,27 +58,27 @@ label TouchHead_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Touching my head?"
+    bubble_a "摸我的头?"
 
-    bubble_a "Of course... love."
+    bubble_a "当然...我们是恋人."
 
     scene a_gf_1_touchead_1 with tstmgr
 
-    a "No one has been this nice to me before."
+    a "以前没有人对我这么好."
 
-    a "I am so happy... ..."
+    a "我很高兴......"
 
     scene a_gf_1_touchead_2 with tstmgr
 
-    a "Thanks... for being here with me."
+    a "谢谢...谢谢你和我待一起."
 
     a "... ... ... ..."
 
     scene a_gf_1_touchead_3 with tstmgr
 
-    a "You know... you can do something more if you want."
+    a "你知道的...如果你想的话,你可以做更多的事情."
 
-    a "I'm yours..."
+    a "我是你的..."
 
     scene void with tstmgr
 
@@ -90,27 +90,27 @@ label TouchHead_A_sexpartner:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Touching my head?"
+    bubble_a "摸我的头?"
 
-    bubble_a "Of course, [P]."
+    bubble_a "当然,[P]."
 
     scene a_gf_1_touchead_1 with tstmgr
 
-    a "We are like lovers... ..."
+    a "我们就像恋人......"
 
-    a "I'm just saying... don't think too much..."
+    a "我是说...不要想太多..."
 
     scene a_gf_1_touchead_2 with tstmgr
 
-    a "Thanks... for being here with me."
+    a "谢谢...谢谢你和我待一起."
 
     a "... ... ... ..."
 
     scene a_gf_1_touchead_3 with tstmgr
 
-    a "You know... you can do something more if you want."
+    a "你知道的...如果你想的话,你可以做更多的事情."
 
-    a "I won't run..."
+    a "我不会跑..."
 
     scene void with tstmgr
 
@@ -123,27 +123,27 @@ label Hug_A_general:
 
     scene a_general_1_frown with tstmgr
 
-    bubble_a "Do you really think it's necessary?"
+    bubble_a "你真的认为有必要吗?"
 
     bubble_a "... ... ... ..."
 
     scene a_general_1_hug_1 with tstmgr
 
-    a "I know you are doing this to comfort me."
+    a "我知道你这么做是为了安慰我."
 
-    a "Thank you... ..."
+    a "谢谢你......"
 
     scene a_general_1_hug_2 with tstmgr
 
-    a "Your shoulder... it makes me feel safety."
+    a "你的肩膀...它让我感到很有安全感."
 
-    a "So warm..."
+    a "很温暖..."
 
     scene a_general_1_hug_3 with tstmgr
 
     a "... ... ... ..."
 
-    a "Why are you being so nice to me?"
+    a "你为什么对我这么好?"
 
     scene void with tstmgr
 
@@ -155,27 +155,27 @@ label Hug_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Let's do this."
+    bubble_a "来吧."
 
-    bubble_a "I want to be in your arms again..."
+    bubble_a "我想再回到你的怀抱..."
 
     scene a_gf_1_hug_1 with tstmgr
 
-    a "Don't smile like that..."
+    a "别那样笑..."
 
-    a "It's a little... embarrassing."
+    a "这有点...尴尬."
 
     scene a_gf_1_hug_2 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ... [P]... ..."
+    a "(愉悦地呻吟)Ah......[P]......"
 
-    a "Try not to... leave any hickey on my neck."
+    a "尽量不要...在我脖子上留下吻痕."
 
     scene a_gf_1_hug_3 with tstmgr
 
-    a "I love you being aggressive to me..."
+    a "我喜欢你对我霸道的样子..."
 
-    a "(Moaning with pleasure) Ahhh... ..."
+    a "(愉悦地呻吟)Ahhh......"
 
     scene void with tstmgr
 
@@ -187,27 +187,27 @@ label Hug_A_sexpartner:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "If you say so..."
+    bubble_a "如果你这么说的话..."
 
-    bubble_a "I'm happy to do that."
+    bubble_a "我很乐意这么做."
 
     scene a_gf_1_hug_1 with tstmgr
 
-    a "Don't smile like that..."
+    a "别那样笑..."
 
-    a "It's a little... embarrassing."
+    a "这有点...尴尬."
 
     scene a_gf_1_hug_2 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ... [P]... ..."
+    a "(愉悦地呻吟)Ah......[P]......"
 
-    a "Yes... I want more..."
+    a "是的...我想要..."
 
     scene a_gf_1_hug_3 with tstmgr
 
-    a "Do you like touching my butt..."
+    a "你喜欢摸我的屁股吗..."
 
-    a "(Moaning with pleasure) Ahhh... ..."
+    a "(愉悦地呻吟)Ahhh......"
 
     scene void with tstmgr
 
@@ -220,9 +220,9 @@ label Doggie_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Yes... I want to taste that... too."
+    bubble_a "是的...我也想要了...."
 
-    bubble_a "Love... ..."
+    bubble_a "亲爱的......"
 
     scene void with tstmgr
 
@@ -244,7 +244,7 @@ label Doggie_A_girlfriend:
 
     scene a_love_5_30 with tstmgr
 
-    a "I'm cuming~~~~~~"
+    a "我高潮了~~~~~~"
 
     $ flashlight()
 
@@ -258,9 +258,9 @@ label Doggie_A_sexpartner:
 
     scene a_gf_1_frown with tstmgr
 
-    bubble_a "Okay... ..."
+    bubble_a "嗯......"
 
-    bubble_a "If that is what you want."
+    bubble_a "如果这是你想要的."
 
     scene void with tstmgr
 
@@ -282,7 +282,7 @@ label Doggie_A_sexpartner:
 
     scene a_love_5_30 with tstmgr
 
-    a "I'm cuming~~~~~~"
+    a "我高潮了~~~~~~"
 
     $ flashlight()
 
@@ -299,29 +299,29 @@ label TouchHead_B_general:
     elif B.clothes == 2:
         scene b_general_2_frown with tstmgr
 
-    bubble_b "Touching... my head?"
-    bubble_b "Hmm... ... fine..."
+    bubble_b "摸...我的头?"
+    bubble_b "Hmm......好吧..."
 
     if B.clothes == 1:
         scene b_touchead_day_1 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_1 with tstmgr
     b "... ... ... ..."
-    b "Do you like doing this?"
+    b "你喜欢这样吗?"
 
     if B.clothes == 1:
         scene b_touchead_day_2 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_2 with tstmgr
-    b "Your hand is so big..."
+    b "你的手好大..."
     b "... ... ... ..."
 
     if B.clothes == 1:
         scene b_touchead_day_3 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_3 with tstmgr
-    b "And it feels so warm..."
-    b "I actually start to like this..."
+    b "感觉好温暖..."
+    b "我开始喜欢上这种感觉了..."
 
     scene void with tstmgr
 
@@ -335,9 +335,9 @@ label ShouderRub_C_general:
     scene c_general_1_smile with tstmgr
 
     bubble_c "... ... ... ..."
-    bubble_c "That's... nice of you."
-    bubble_c "Are you trying to please me? I won't raise your wage for this, just let you know."
-    bubble_c "I'll wait you at the couch."
+    bubble_c "舒服..."
+    bubble_c "你是想取悦我吗?我不会因为这个而提高你的工资的."
+    bubble_c "我在沙发等你."
 
     scene c_sdmassage_1 with tstmgr
 
@@ -353,13 +353,13 @@ label ShouderRub_C_general:
 
     c "?... ..."
 
-    c "(He is doing it again... I should have realized it.)"
+    c "(他又来了.我应该意识到的.)"
 
     c "... ... ... ..."
 
     scene c_sdmassage_2 with tstmgr
 
-    c "(Whatever... as long as he doesn't go too far...)"
+    c "(不管了...只要他不太过分...)"
 
     c "... ... ... ..."
 
@@ -375,29 +375,29 @@ label TouchHead_D_general:
         scene d_general_1_default with tstmgr
     elif D.clothes == 2:
         scene d_general_2_default with tstmgr
-    bubble_d "Ha? Head touching?"
-    bubble_d "Great! Let's do this."
+    bubble_d "Ha?摸我的头?"
+    bubble_d "棒!来吧."
 
     if D.clothes == 1:
         scene d_touchead_1 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_1 with tstmgr
     d "... ... ... ..."
-    d "It feels good..."
+    d "感觉真好..."
 
     if D.clothes == 1:
         scene d_touchead_2 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_2 with tstmgr
-    d "It's like... I am being petted."
-    d "So relieved..."
+    d "这就像...我被宠爱着."
+    d "太舒服了..."
 
     if D.clothes == 1:
         scene d_touchead_3 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_3 with tstmgr
     d "Meow, Meow!"
-    d "Do you like hearing me saying that?"
+    d "你喜欢听我这么叫吗?"
 
     scene void with tstmgr
 
@@ -412,31 +412,31 @@ label LapPillow_E_general:
         scene e_general_1_frown with tstmgr
     elif E.clothes == 2:
         scene e_general_2_frown with tstmgr
-    bubble_e "You want to... do that again?"
-    bubble_e "(This poor kid is seeking for mother's love. I should help him.)"
+    bubble_e "你想要...再来一遍?"
+    bubble_e "(这个可怜的孩子在寻求妈妈的爱.我应该帮他.)"
     bubble_e "... ... ... ..."
-    bubble_e "Alright, son, come here."
+    bubble_e "好了,孩子,过来."
 
     if E.clothes == 1:
         scene e_lapillow_1 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_1 with tstmgr
-    e "Sleep, sleep, little child..."
-    e "I got you here..."
+    e "睡吧,睡吧,小宝贝..."
+    e "我在这呢..."
 
     if E.clothes == 1:
         scene e_lapillow_2 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_2 with tstmgr
-    e "(Oh, his sleeping face is so lovely.)"
-    e "(I always want to have my own son...)"
+    e "(Oh,他熟睡的脸很可爱.)"
+    e "(我一直想有自己的儿子...)"
 
     if E.clothes == 1:
         scene e_lapillow_3 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_3 with tstmgr
-    e "(He must be in a nice dream right now...)"
-    e "(I wish to know what he is dreaming about...)"
+    e "(他现在一定在做梦...)"
+    e "(我想知道他在做什么梦...)"
 
     scene void with tstmgr
 
@@ -452,39 +452,39 @@ label TouchBreasts_G_general:
     elif G.clothes == 2:
         scene g_general_2_smile with tstmgr
 
-    bubble_g "Take your time, 30 seconds."
+    bubble_g "把握时间,30秒."
 
     if G.clothes == 1:
 
         scene g_general_1_breastouch_1 with tstmgr
 
-        g "Just remember not to do anything... weird."
+        g "只要记住不要做任何...奇怪的事."
 
         g "... ... ... ..."
 
         scene g_general_1_breastouch_2 with tstmgr
 
-        g "Be... gentle, please."
+        g "温...柔点,拜托."
 
-        g "Don't leave any bruise. I have a cosplay activity next week."
+        g "不要留下任何瘀伤.下周我有一个角色扮演活动."
 
         scene g_general_1_breastouch_3 with tstmgr
 
         g "Hmm?... ..."
 
-        g "Do you really have to take off my bra?"
+        g "你真的要脱下我的胸罩吗?"
 
         scene g_general_1_breastouch_4 with tstmgr
 
         g "... ... ... ..."
 
-        g "They are... ugly, right? Ptosed like this... I wish they can be smaller."
+        g "它们...很丑,对吧?大的有点下垂了...我希望它们能小一点."
 
         scene g_general_1_breastouch_5 with tstmgr
 
-        g "Really? You like them?"
+        g "真的吗?你喜欢它们?"
 
-        g "Well... then... you can have, 5 more seconds, today."
+        g "Well...你...今天可以多摸5秒."
 
         scene void with tstmgr
 
@@ -494,35 +494,35 @@ label TouchBreasts_G_general:
 
         scene g_general_2_breastouch_1 with tstmgr
 
-        g "Just remember not to do anything... weird."
+        g "只要记住不要做任何...奇怪的事."
 
         g "... ... ... ..."
 
         scene g_general_2_breastouch_2 with tstmgr
 
-        g "Be... gentle, please."
+        g "温...柔点,拜托."
 
-        g "Don't leave any bruise. I have a cosplay activity next week."
+        g "不要留下任何瘀伤.下周我有一个角色扮演活动."
 
         scene g_general_2_breastouch_3 with tstmgr
 
-        g "Why are you... holding them like holding your toys."
+        g "你为什么...像在玩玩具一样."
 
-        g "They are heavy, aren't they?"
+        g "它们很重,不是吗?"
 
         scene g_general_2_breastouch_4 with tstmgr
 
-        g "(Groaning with pleasure) Aww... ... ... ..."
+        g "(愉悦地呻吟)Aww............"
 
-        g "Nipple..."
+        g "乳头..."
 
         scene g_general_2_breastouch_5 with tstmgr
 
-        g "(Groaning) It feels... strange..."
+        g "(呻吟)感觉...有点奇怪..."
 
-        g "(Groaning) Time... is... up..."
+        g "(呻吟)时间...到...了..."
 
-        g "Release me now..."
+        g "现在放开我..."
 
         scene void with tstmgr
 

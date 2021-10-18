@@ -14,9 +14,9 @@ label TouchHead_B_sexpartner:
 
 
 
-    bubble_b "Touching my head?"
+    bubble_b "摸我的头?"
 
-    bubble_b "Why are you smiling so weirdly?"
+    bubble_b "你为什么笑得这么奇怪?"
 
 
 
@@ -36,7 +36,7 @@ label TouchHead_B_sexpartner:
 
     b "... ... ... ..."
 
-    b "What do you want?"
+    b "你在想什么?"
 
 
 
@@ -54,9 +54,9 @@ label TouchHead_B_sexpartner:
 
 
 
-    b "(Sucking) Wmm... ... Wmm... ..."
+    b "(吮吸)Wmm......Wmm......"
 
-    b "(Sucking) [P]... ... ... ..."
+    b "(吮吸)[P]............"
 
 
 
@@ -74,9 +74,9 @@ label TouchHead_B_sexpartner:
 
 
 
-    b "(Licking) Your finger... tastes salty... ..."
+    b "(舔)你的手指...有点咸......"
 
-    b "(Licking) But I like it... ..."
+    b "(舔)但是我喜欢......"
 
     scene void with tstmgr
 

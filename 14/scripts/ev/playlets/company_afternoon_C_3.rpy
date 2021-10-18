@@ -6,17 +6,17 @@ label company_afternoon_C_3:
 
     scene company_afternoon_c_3_1 with tstmgr
 
-    c "What are you doing?"
+    c "你在做什么?"
 
 
 
-    player "Eh... just double checking this document, nothing important."
+    player "Eh...仔细检查一下这个文件,没什么重要的."
 
 
 
     scene company_afternoon_c_3_2 with tstmgr
 
-    c "Let me see."
+    c "让我看看."
 
 
 
@@ -26,25 +26,25 @@ label company_afternoon_C_3:
 
     scene company_afternoon_c_3_3 with tstmgr
 
-    player "Those magnificent tits are hanging right beside me... ..."
+    player "这对巨乳就挂在我旁边......"
 
 
 
-    c "Cough, cough, we are still... at work... ..."
+    c "咳,咳,我们还在...工作......"
 
 
 
     scene company_afternoon_c_3_4 with tstmgr
 
-    player "So heavy... and so soft..."
+    player "好大,好软..."
 
 
 
-    c "I'm going to... amerce you of today's wage for this... ..."
+    c "我要...为此扣你今天的工资......"
 
 
 
-    player "It is definitely worth it~"
+    player "这绝对值得~"
 
 
 

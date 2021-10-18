@@ -2,7 +2,7 @@ label bnb_livingroom_morning_G_1:
 
     scene bnb_livingroom_morning_g_1_1 with tstmgr
 
-    player "Shit, Uno. I told you not to dress like this in the public areas."
+    player "Shit,乌诺.我告诉过你不要在公共场所穿成这样."
 
 
 
@@ -10,27 +10,27 @@ label bnb_livingroom_morning_G_1:
 
 
 
-    g "But this is my only nightgown."
+    g "但这是我唯一的睡衣."
 
 
 
-    player "Where did you spend all your money at?"
+    player "你把钱都花在哪儿了?"
 
 
 
-    g "Cosplay customs and video games."
+    g "cosplay服和电子游戏."
 
 
 
     scene bnb_livingroom_morning_g_1_2 with tstmgr
 
-    g "Oh, maybe I can take one of my customs as nightgown."
+    g "Oh,也许我可以把我的一件cos服当睡衣穿."
 
 
 
     scene bnb_livingroom_morning_g_1_3 with tstmgr
 
-    g "It may reveal more of my skin out though."
+    g "不过,它可能会显得更暴露."
 
 
 

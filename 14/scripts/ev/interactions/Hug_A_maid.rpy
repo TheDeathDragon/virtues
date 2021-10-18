@@ -2,33 +2,33 @@ label Hug_A_maid:
 
     scene a_gf_2_default with tstmgr
 
-    bubble_a "As you wish, master."
+    bubble_a "如你所愿,主人."
 
 
 
     scene a_gf_2_hug_1 with tstmgr
 
-    a "You really like breasts a lot, don’t you, master?"
+    a "你真的很喜欢胸,是吗,主人?"
 
-    a "Like a baby... ..."
+    a "像个小宝宝......"
 
     scene a_gf_2_hug_2 with tstmgr
 
-    a "Bad baby... ..."
+    a "坏宝宝......"
 
-    a "Your warm breath hitting on my chest... feels so comfortable."
+    a "你温暖的气息扑面而来...感觉太舒服了."
 
     scene a_gf_2_hug_3 with tstmgr
 
     a "[P]... ..."
 
-    a "Oh no, I mean, master..."
+    a "Oh,no,我是说,主人..."
 
     scene a_gf_2_hug_4 with tstmgr
 
-    a "Just sleep, sleep on my soft breasts."
+    a "睡吧,睡在我柔软的胸上."
 
-    a "And have a nice dream."
+    a "然后做一个好梦."
 
     scene void with tstmgr
 

@@ -8,39 +8,39 @@ label alley_latenight_A_1:
 
     scene alley_latenight_a_1_2 with tstmgr
 
-    player "Hi, Vera."
+    player "Hi,薇拉."
 
 
 
-    a "Ahhhh!!!!! Help!!!"
+    a "Ahhhh!!!!!救命!!!"
 
 
 
     scene alley_latenight_a_1_3 with tstmgr
 
-    player "Hey, hey, relax, it's me."
+    player "Hey,hey,放松,是我."
 
 
 
-    player "Why didn't you wait for me after work?"
+    player "你为什么不在下班后等我呢?"
 
 
 
-    a "I... I don't want to bother you too much."
+    a "我...我不想太麻烦你."
 
 
 
     scene alley_latenight_a_1_4 with tstmgr
 
-    player "Nonsense. A girl like you should never walk through a dark alley at a such late night."
+    player "没有的事.像你这样的女孩不应该在这么晚的时候过黑暗的小巷."
 
 
 
-    player "Let's go. I will drive you home."
+    player "我们走吧.我开车送你回家."
 
 
 
-    a "Thanks... ... ... ..."
+    a "谢谢............"
 
 
 

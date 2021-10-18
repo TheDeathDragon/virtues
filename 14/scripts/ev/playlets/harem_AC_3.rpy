@@ -4,45 +4,45 @@ label harem_AC_3:
 
     scene bnb_frontyard_evening_c_1_1 with dissolve
 
-    c "Why... the fuck are you so hurry? Can't you just wait until we get home?"
+    c "为什么......你他妈的这么着急？你就不能等我们到家了再说吗?"
 
 
 
-    player "Sorry, Theo, I just can’t hold it anymore~"
+    player "对不起，狄奥，我只是不能再忍耐了~"
 
 
 
     scene bnb_frontyard_evening_c_1_2 with tstmgr
 
-    player "I want you so bad!"
+    player "我太想得到你了!"
 
 
 
-    c "Ahhhhhhh~~~~~~~ You beast~~~~"
+    c "Ahhhhhhh~~~~~~~ 你这个禽兽~~~~"
 
 
 
     scene bnb_frontyard_evening_c_1_3 with tstmgr
 
-    a "*Opened the door* Hmmm? I think I just heard something weird..."
+    a "*开门* Hmmm? 我想我刚刚听到了一些奇怪的事情..."
 
 
 
-    a "Hello? Is anyone at the gate?"
+    a "喂？有人在门口吗？"
 
 
 
     scene bnb_frontyard_evening_c_1_4 with tstmgr
 
-    player "Oh, hi, Vera, it's me~"
+    player "哦，嗨，薇拉，是我啊~"
 
 
 
-    a "[P]? What are you doing outside?"
+    a "[P]? 你在外面做什么?"
 
 
 
-    player "I... I lost my wallet. It might be in the bushes so I'm looking for it..."
+    player "我...我的钱包丢了。它可能在灌木丛中，所以我正在寻找它..."
 
 
 
@@ -52,23 +52,23 @@ label harem_AC_3:
 
     scene harem_ac_3_1 with tstmgr
 
-    a "*Walking to the gate* Uh... hah... ... ... ..."
+    a "*走向门* Uh... hah... ... ... ..."
 
 
 
-    c "Eh, hi, Vera... ..."
+    c "Eh, hi, 薇拉... ..."
 
 
 
-    a "I’m really not sure if I should be angry at you guys right now... ..."
+    a "我真的不确定我现在是否应该对你们感到愤怒... ..."
 
 
 
-    a "But anyway, why can’t you wait until gets home?"
+    a "但是，无论如何，你为什么不能等到回家后再去呢?"
 
 
 
-    c "I have no idea what this idiot was thinking!"
+    c "我不知道这个傻瓜在想什么!"
 
     jump playlet_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

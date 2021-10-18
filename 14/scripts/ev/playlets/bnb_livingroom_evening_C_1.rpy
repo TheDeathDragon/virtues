@@ -2,13 +2,13 @@ label bnb_livingroom_evening_C_1:
 
     scene void with tstmgr
 
-    "It's very late. I should check around the house and then go to bed."
+    "很晚了.我应该看看房子,然后上床睡觉."
 
 
 
     scene bnb_livingroom_evening_c_1_1 with dissolve
 
-    "Everything seems normal in the livingroom."
+    "客厅里的一切似乎都很正常."
 
 
 
@@ -18,25 +18,25 @@ label bnb_livingroom_evening_C_1:
 
     scene bnb_livingroom_evening_c_1_2 with tstmgr
 
-    "Shit, what the hell is that!?"
+    "Shit,那是什么玩意儿!?"
 
 
 
-    "I ran to the location and saw... ..."
+    "我跑到那个地方,看到了......"
 
 
 
     scene bnb_livingroom_evening_c_1_3 with tstmgr
 
-    player "Theo???"
+    player "狄奥???"
 
 
 
-    player "Holy... how much did you drink?"
+    player "Holy...你喝了多少?"
 
 
 
-    c "I'm... not... drunk... yet... ..."
+    c "我...没...喝......"
 
 
 
@@ -44,11 +44,11 @@ label bnb_livingroom_evening_C_1:
 
 
 
-    "She must be stressed out by the work. She always behaves like a tough woman and never shares her pressure with others. Alcohol is the only thing that can makes her forget her worries for a short time."
+    "她一定是工作压力太大了.她总是表现得像个坚强的女人,从不和别人分享她的压力.酒精是唯一能让她暂时忘记烦恼的东西."
 
 
 
-    "I think I should try my best to help her and be the guy to share her pressure. And right now... I should take her to her room and let her have a good sleep."
+    "我认为我应该尽我最大的努力来帮助她,成为分担她压力的人.而现在...我应该带她回房间,让她好好睡一觉."
 
 
 

@@ -2,45 +2,45 @@ label bnb_groom_evening_G_3:
 
     scene bnb_groom_evening_g_3_1 with tstmgr
 
-    player "What are you doing, Uno?"
+    player "你在干什么,乌诺?"
 
 
 
     scene bnb_groom_evening_g_3_2 with tstmgr
 
-    g "Nothing... ... ... ..."
+    g "没什么............"
 
 
 
-    player "You look... upset. Anything I can help?"
+    player "你看起来...心烦意乱.有什么我能帮忙的吗?"
 
 
 
-    g "Just got cursed by an anonymous guy online... ..."
+    g "刚在网上被一个匿名的人骂了......"
 
 
 
-    player "Alright, give me the phone, I’ll curse him back."
+    player "好吧,把手机给我,我来骂他."
 
 
 
-    g "No need... ..."
+    g "不必了......"
 
 
 
     scene bnb_groom_evening_g_3_3 with tstmgr
 
-    g "I will be fine if you can allow me to have some crispy chicken tonight~"
+    g "如果你今晚给我来点脆皮鸡,我就很好了~"
 
 
 
-    player "Eh... nope, weight control, remember?"
+    player "Eh...nope,控制体重,记得吗?"
 
 
 
     scene bnb_groom_evening_g_3_4 with tstmgr
 
-    g "Please~~~~~~"
+    g "求你了~~~~~~"
 
 
 
@@ -48,7 +48,7 @@ label bnb_groom_evening_G_3:
 
 
 
-    player "Fine... but you will have to do some exercise with me tomorrow, in order to you know, balance the calorie~"
+    player "Fine...但是明天你得和我一起做些运动,这样才能平衡卡路里~"
 
 
 

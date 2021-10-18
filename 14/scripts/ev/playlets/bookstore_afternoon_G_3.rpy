@@ -8,7 +8,7 @@ label bookstore_afternoon_G_3:
 
     scene g_daily11_5 with dissolve
 
-    "Customer A" "Hey, Miss, may I ask you a thing?"
+    "顾客A""Hey,小姐,我能问你一件事吗?"
 
 
 
@@ -16,7 +16,7 @@ label bookstore_afternoon_G_3:
 
 
 
-    "Customer A" "It may sound weird, it’s just... ... I watched a prono video last night, and the girl in it looked exactly like you... ..."
+    "顾客A""这听起来可能很奇怪,因为......我昨晚看了一段视频,里面的女孩跟你一模一样......"
 
 
 
@@ -26,7 +26,7 @@ label bookstore_afternoon_G_3:
 
 
 
-    "Customer A" "Her name is MissU. I don't want to sound like a pervert, but... ... is that really you?"
+    "顾客A""她的名字叫U小姐.我不想听起来像个变态,但是......真的是你吗??"
 
 
 
@@ -36,23 +36,23 @@ label bookstore_afternoon_G_3:
 
     scene g_daily11_8 with tstmgr
 
-    g "That is... ..."
+    g "这......"
 
 
 
     scene bookstore_afternoon_g_3_1 with tstmgr
 
-    player "Definitely not her. Now get away, if I see you harassing my girl again, I swear I will... ..."
+    player "绝对不是她.走开,如果再让我看到你骚扰我女朋友,我发誓我会......"
 
 
 
     scene bookstore_afternoon_g_3_2 with tstmgr
 
-    "Customer A" "So... so sorry, Miss, please forgive me."
+    "顾客A""对...对不起,小姐,请原谅我."
 
 
 
-    "The man ran away."
+    "男人离开了."
 
 
 
@@ -62,13 +62,13 @@ label bookstore_afternoon_G_3:
 
     scene bookstore_afternoon_g_3_3 with tstmgr
 
-    g "You don’t need to be mean to him, he is actually one of the politest guys who came to ask me about that~"
+    g "你没必要对他这么凶,他其实是来问我这件事的人中最礼貌的一个~"
 
 
 
     scene bookstore_afternoon_g_3_4 with tstmgr
 
-    g "But, thank you for showing up, [P]~"
+    g "但是,谢谢你,[P]~"
 
 
 

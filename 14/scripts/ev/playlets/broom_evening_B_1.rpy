@@ -2,23 +2,23 @@ label broom_evening_B_1:
 
     scene broom_evening_b_1_1 with tstmgr
 
-    "Senning and I are watching TV in her room."
+    "我和森柠正在她的房间里看电视."
 
 
 
-    player "Oh man... ... What was that?"
+    player "噢天......这是什么?"
 
 
 
-    b "Beijing opera. Do you like it?"
+    b "京剧.你喜欢吗?"
 
 
 
-    player "I don't understand what they are talking about, but I like their customs."
+    player "我不明白他们在说什么,但我喜欢他们的服装."
 
 
 
-    player "Why there isn't a horror movie that uses that kind of customs? They are much scarier than clown suits."
+    player "为什么没有一部恐怖电影采用这种服装呢?它们比小丑服可怕多了."
 
 
 
@@ -28,7 +28,7 @@ label broom_evening_B_1:
 
 
 
-    b "Is that a praise or a sarcasm?"
+    b "这是赞美还是讽刺?"
 
 
 

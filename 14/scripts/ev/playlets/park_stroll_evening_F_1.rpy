@@ -2,15 +2,15 @@ label park_stroll_evening_F_1:
 
     scene park_stroll_evening_f_1_1 with tstmgr
 
-    player "Hi, Rachel."
+    player "Hi,瑞秋."
 
 
 
-    player "It's getting dark. What are you doing here?"
+    player "天黑了.你在这里做什么?"
 
 
 
-    f "Oh, hi, [P]. Have you heard the story? This place is haunted. There are some dog-like ghosts showing up here at night."
+    f "Oh,hi,[P].你听说过吗?这地方闹鬼.有些像狗一样的鬼魂晚上出现在这里."
 
 
 
@@ -18,33 +18,33 @@ label park_stroll_evening_F_1:
 
 
 
-    player "So you are here to... ..."
+    player "所以你来这里......"
 
 
 
     scene park_stroll_evening_f_1_2 with tstmgr
 
-    f "I'm here to see if they are happy to take a photo with me!~"
+    f "我来这里是想看看他们是否愿意和我合影!~"
 
 
 
-    player "Did you find them yet?"
+    player "你找到他们了吗?"
 
 
 
     scene park_stroll_evening_f_1_3 with tstmgr
 
-    f "Unfortunately, no, but I did encounter some thugs though."
+    f "不幸的是,没有,但我确实遇到了一些混混."
 
 
 
-    player "Really? Are you alright?"
+    player "真的吗?你没事吧?"
 
 
 
     scene park_stroll_evening_f_1_2 with tstmgr
 
-    f "I'm fine... and they are all in hospital now~"
+    f "我很好...他们现在都住院了~"
 
 
 

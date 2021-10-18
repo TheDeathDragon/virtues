@@ -2,11 +2,11 @@ label school_class_forenoon_B_2:
 
     scene school_class_afternoon_b_1_2 with tstmgr
 
-    b "Seriously, [P], I know you are having a tough time..."
+    b "说真的,[P],我知道你的日子不好过..."
 
 
 
-    b "But you can't just sleep at class all the time."
+    b "但是你不能总是在课堂上睡觉."
 
 
 
@@ -14,7 +14,7 @@ label school_class_forenoon_B_2:
 
 
 
-    player "You are right. I was just too tired, sorry."
+    player "你是对的.对不起,我只是太累了."
 
 
 
@@ -24,11 +24,11 @@ label school_class_forenoon_B_2:
 
     scene school_class_forenoon_b_1_1 with tstmgr
 
-    b "Don't worry, let's go to my place after class and I will help you review."
+    b "别担心,下课后我们去我家,我会帮你复习的."
 
 
 
-    player "But I prefer to do something else with you at your place... ..."
+    player "但我更喜欢和你在你家做些别的事情......"
 
 
 

@@ -6,7 +6,7 @@ label school_campus_morning_B_1:
 
 
 
-    player "Morning, Sen. What makes you so happy?"
+    player "早上好,森.什么让你这么高兴?"
 
 
 
@@ -16,17 +16,17 @@ label school_campus_morning_B_1:
 
 
 
-    b "Just got another SSR character in the moblie game I play."
+    b "我刚才在我玩的手机游戏中抽到了又一个SSR."
 
 
 
     scene school_campus_morning_b_1_1 with tstmgr
 
-    b "And it only cost me 500 bucks! I'm so lucky!"
+    b "它只花了我500美元!我太幸运了!"
 
 
 
-    player "Wait, what?"
+    player "等等,什么?"
 
 
 

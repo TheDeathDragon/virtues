@@ -2,43 +2,43 @@ label bnb_livingroom_latenight_G_1:
 
     scene void with tstmgr
 
-    "Vera and I came back home at late night, and found that Uno was waiting for us."
+    "薇拉和我深夜回到家,发现乌诺正在等我们."
 
 
 
     scene bnb_livingroom_latenight_g_1_1 with tstmgr
 
-    g "Welcome back, Vera and [P]."
+    g "欢迎回家,薇拉和[P]."
 
 
 
     scene bnb_livingroom_latenight_g_1_2 with tstmgr
 
-    a "Oh, thank you, Uno. You are too nice."
+    a "Oh,谢谢你,乌诺.你太好了."
 
 
 
     scene bnb_livingroom_latenight_g_1_1 with tstmgr
 
-    g "I bought some cakes. We can eat them together if you want."
+    g "我买了一些蛋糕.如果你愿意,我们可以一起吃."
 
 
 
     scene bnb_livingroom_latenight_g_1_3 with tstmgr
 
-    player "Ehh... ... I don't think it's a good idea for you girls to eat cakes at such a late night."
+    player "Ehh......我认为你们女孩子这么晚了还吃蛋糕不是个好主意."
 
 
 
     scene bnb_livingroom_latenight_g_1_4 with tstmgr
 
-    a "Shut up."
+    a "闭嘴."
 
 
 
     scene bnb_livingroom_latenight_g_1_3 with tstmgr
 
-    a "We would love to do that. Thanks, Uno."
+    a "我们乐意.谢谢,乌诺."
 
 
 
@@ -48,7 +48,7 @@ label bnb_livingroom_latenight_G_1:
 
 
 
-    "Vera seems to value her new housemate very much."
+    "薇拉似乎很重视她的新室友."
 
 
 

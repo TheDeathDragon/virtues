@@ -6,15 +6,15 @@ label mansion_swimpool_afternoon_D_1:
 
 
 
-    player "Irene? I was looking for you everywhere."
+    player "艾琳?我到处找你."
 
 
 
-    player "It's time for you to do your homework."
+    player "你该做作业了."
 
 
 
-    d "Why don't we have a break for today so you can join me in the pool?"
+    d "我们今天为什么不休息一下?这样你就可以来游泳池加入我了."
 
 
 
@@ -22,27 +22,27 @@ label mansion_swimpool_afternoon_D_1:
 
 
 
-    player "Aunt Elisa won't be happy about this."
+    player "伊莉莎阿姨会不高兴的."
 
 
 
     scene mansion_swimpool_afternoon_d_1_2 with tstmgr
 
-    d "Who cares!"
+    d "管她呢!"
 
 
 
-    e "Cough, cough... ..."
+    e "咳嗽,咳嗽......"
 
 
 
     scene mansion_swimpool_afternoon_d_1_3 with tstmgr
 
-    d "Owww... ... mommy... ..."
+    d "Owww......妈咪......"
 
 
 
-    d "I didn't know you were there."
+    d "我不知道你在那里."
 
 
 

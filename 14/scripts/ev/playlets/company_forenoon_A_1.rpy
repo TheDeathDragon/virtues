@@ -6,19 +6,19 @@ label company_forenoon_A_1:
 
 
 
-    player "Vera? Why are you here?"
+    player "薇拉?你怎么在这?"
 
 
 
-    a "I made lunch for you. You forgot to bring it with you when you left home, so... ..."
+    a "我给你做了午饭.你出门的时候忘记带了,所以......"
 
 
 
-    player "Oh, sorry, I was leaving in a rush."
+    player "Oh,抱歉,我走的有些匆忙."
 
 
 
-    player "Thank you..."
+    player "谢谢你..."
 
 
 
@@ -28,11 +28,11 @@ label company_forenoon_A_1:
 
 
 
-    a "I should leave. See you tonight."
+    a "我该走了,晚上见."
 
 
 
-    player "See you..."
+    player "回头见..."
 
 
 

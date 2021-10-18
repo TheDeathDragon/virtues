@@ -2,37 +2,37 @@ label beach_forenoon_C_1:
 
     scene beach_forenoon_c_1_1 with tstmgr
 
-    "Theodora and I are walking on the beach."
+    "狄奥多拉和我在海滩上散步."
 
 
 
-    player "You are not going to swim?"
+    player "你不打算去游泳吗?"
 
 
 
     scene beach_forenoon_c_1_2 with tstmgr
 
-    c "Ah... nope, sea water is dirty as hell."
+    c "Ah...nope,海水脏得要命."
 
 
 
     scene beach_forenoon_c_1_3 with tstmgr
 
-    "Well, that might be true but that was definitely not her real reason. She used to swim in the sea a lot."
+    "Well,这也许是真的,但绝对不是她的真正原因.她过去常在海里游泳."
 
 
 
-    "I think she was just using that as an excuse to stay with me on land because she knew I am a bad swimmer."
+    "我想她只是用这个作为和我待在岸上的借口,因为她知道我不擅长游泳."
 
 
 
-    "Yep, that's who she is, a girl with a cold face outside and a thoughtful heart inside."
+    "Yep,这就是她,一个外表冷漠内心却很体贴的女孩."
 
 
 
     scene beach_forenoon_c_1_4 with tstmgr
 
-    player "Alright then, let's just take a walk along the coast~"
+    player "那好吧,我们就沿着海岸散步吧~"
 
 
 

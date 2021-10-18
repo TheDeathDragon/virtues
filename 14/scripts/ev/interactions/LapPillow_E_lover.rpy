@@ -8,23 +8,23 @@ label LapPillow_E_lover:
 
 
 
-    player "Elisa... Your legs are so soft..."
+    player "伊莉莎...你的腿真软..."
 
 
 
-    e "Shhhhh... just close your eyes and sleep, honey~"
+    e "Shhhhh...亲爱的,闭上眼睛睡觉吧~"
 
 
 
     scene lappillow_e_lover_2 with tstmgr
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
     scene lappillow_e_lover_3 with tstmgr
 
-    player "See you later, Elisa..."
+    player "待会见,伊莉莎..."
 
 
 
@@ -34,11 +34,11 @@ label LapPillow_E_lover:
 
     scene lappillow_e_lover_4 with tstmgr
 
-    e "It's funny that I can't even see your face from this angle."
+    e "真有趣,从这个角度我都看不见你的脸."
 
 
 
-    e "What a pity... ... I really want to see your sleeping face..."
+    e "真遗憾...我好想看看你熟睡的脸..."
 
 
 

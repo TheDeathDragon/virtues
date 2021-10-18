@@ -2,15 +2,15 @@ label school_campus_evening_B_2:
 
     scene school_campus_evening_b_2_1 with tstmgr
 
-    b "Sigh... ... ... ..."
+    b "唉............"
 
 
 
-    b "Have I become a bad girl?... ..."
+    b "我变成坏女孩了吗?......"
 
 
 
-    player "Hmm? Hi, Sen."
+    player "Hmm?Hi,森."
 
 
 
@@ -20,13 +20,13 @@ label school_campus_evening_B_2:
 
 
 
-    b "I... ... I have to go now, see you tomorrow!"
+    b "我...我得走了,明天见!"
 
 
 
     scene school_campus_evening_b_2_3 with tstmgr
 
-    "She ran away."
+    "她跑开了."
 
 
 
@@ -34,7 +34,7 @@ label school_campus_evening_B_2:
 
 
 
-    player "What's wrong with her?"
+    player "她怎么了?"
 
 
 

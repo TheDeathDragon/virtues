@@ -2,39 +2,39 @@ label school_campus_forenoon_A_1:
 
     scene school_campus_forenoon_a_1_1 with tstmgr
 
-    a "Wow, I have never been in there before. This place is great."
+    a "Wow,我以前从未来过这里.这个地方真棒."
 
 
 
-    a "You must be very happy to be a student in here."
+    a "你一定很高兴在这里学习."
 
 
 
     scene school_campus_forenoon_a_1_2 with tstmgr
 
-    a "I wish I had the chance to study in a college."
+    a "我希望我有机会在大学学习."
 
 
 
-    player "Vera... ..."
+    player "薇拉......"
 
 
 
-    player "It's not late for you to do that. You are still young."
+    player "你现在做这件事也还不晚.你还年轻."
 
 
 
     scene school_campus_forenoon_a_1_3 with tstmgr
 
-    a "Stop joking around. You know I don't have money and time for this."
+    a "别开玩笑了.你知道我没有钱和时间做这个了."
 
 
 
-    a "Anyway, thanks for bringing me here and walking with me. Now I need to get back to work."
+    a "不管怎样,谢谢你带我来这里和我一起散步.现在我得回去工作了."
 
 
 
-    player "Okay... ... See you later."
+    player "Okay......回头见."
 
 
 

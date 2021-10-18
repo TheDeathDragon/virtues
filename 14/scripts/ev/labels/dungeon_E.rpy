@@ -1,8 +1,8 @@
 label dungeon_E:
     menu:
-        "Get her on the wooden horse":
+        "让她骑上木马" if True:
             jump dungeon_E.e_dungeon_1
-        "Do the milking":
+        "挤奶" if True:
 
             jump dungeon_E.e_dungeon_2
 
@@ -12,55 +12,55 @@ label dungeon_E.e_dungeon_1:
 
     scene e_dungeon_1_1 with tstmgr
 
-    e "Bondage and a wooden horse... ... Oh dear, you surprise me every time."
+    e "捆绑和木马......Oh亲爱的,你每次都让我很惊喜."
 
 
 
     scene e_dungeon_1_2 with tstmgr
 
-    e "So... what do you want to do to this helpless restrained lady?"
+    e "所以...你想对这个被束缚的无助女人做什么?"
 
 
 
     scene e_dungeon_1_3 with tstmgr
 
-    player "With love and caring, of course~"
+    player "当然是要好好疼爱一番~"
 
 
 
-    player "I love you, auntie~"
+    player "我爱你,阿姨~"
 
 
 
     scene e_dungeon_1_4 with tstmgr
 
-    e "I love you too, sweetheart..."
+    e "我也爱你,甜心..."
 
 
 
     scene e_dungeon_1_5 with tstmgr
 
-    e "Alright, so much for the sweet words. Now, what exactly do you want to do to me?"
+    e "好了,甜言蜜语到此为止.现在,你到底想对我做什么?"
 
 
 
     scene e_dungeon_1_6 with tstmgr
 
-    player "Nothing but making you feel comfortable, auntie~"
+    player "只是让你感觉舒服点,阿姨~"
 
 
 
     scene e_dungeon_1_7 with tstmgr
 
-    player "I’m going to rub your pussy with the horse now. Don’t worry, the edge was made by sponge so... ..."
+    player "我现在要用木马摩擦你的小穴.别担心,边缘是海绵做的,所以......"
 
 
 
-    e "What a pity~ I’d rather it was made by something harder~"
+    e "可惜~我宁愿没有海绵~"
 
 
 
-    player "Well, I think you will be surprised at what this sponge edge can do... ..."
+    player "Well,我想你会对这个海绵边缘的功能感到惊讶......"
 
 
 
@@ -70,23 +70,23 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    e "Wow... ... this hurts a little, but... ..."
+    e "Wow......有点疼,不过......"
 
 
 
-    e "You are... using me like I was a dish towel to rub... no, clean the horse... ..."
+    e "你是...把我当洗碗布一样用...不,是洗马布......"
 
 
 
-    e "And I can’t do anything about it. I am just a helpless restrained woman... ..."
+    e "而我却无能为力.我只是一个被束缚的无助女人......"
 
 
 
-    e "No... now I am more like... an item that is being used~ Awwwwww... ... ... ..."
+    e "No...现在我更像...被使用的物品~Awwwwww............"
 
 
 
-    player "Elisa... ... ... ..."
+    player "伊莉莎............"
 
 
 
@@ -96,27 +96,27 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    player "Promise me, Elisa! Promise me that you will be happy to be used by me all the time!"
+    player "答应我,伊莉莎!答应我,你会很高兴一直被我使用!"
 
 
 
-    e "Ohhhhhhh~~~~ I promise you~~ I promise you!!~~"
+    e "Ohhhhhhh~~~~我答应你~~我答应你!!~~"
 
 
 
-    e "Only you can make me feel this gooooooood~~~~~~"
+    e "只有你能让我感觉如此美妙~~~~~~"
 
 
 
-    player "I thought you said it hurts."
+    player "你不是说很疼吗."
 
 
 
-    e "It... doesn’t hurt anymore~~ My fluid has moistened the sponge completely. Now there is nothing but pleasure~~"
+    e "它...不疼了~~我的淫液已经把海绵完全湿润了.现在除了爽什么都感觉不到了~~"
 
 
 
-    e "Ohh~ I'm cumming!!~~ I'm cumming!!~~ I'm cumming!!~~"
+    e "Ohh~我要高潮了!!~~我要高潮了!!~~我要高潮了!!~~"
     scene e_dungeon_1_10 with tstmgr
     play sound cumshot
     $ flashlight()
@@ -125,7 +125,7 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    e "This is... so... ..."
+    e "这...太......"
 
 
 
@@ -135,7 +135,7 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    e "You... you can’t do this right now, otherwise I will, I will... ..."
+    e "你...你现在不能这么做,否则我会,我会......"
 
 
 
@@ -143,15 +143,15 @@ label dungeon_E.e_dungeon_1:
 
     $ flashlight()
 
-    e "My breasts are cumming too!!!~~~~~"
+    e "我的奶子也高潮了!!!~~~~~"
 
 
 
-    player "Such magnificent... ..."
+    player "真壮观......"
 
 
 
-    e "So... ... so much milk!!!!~~~~~~"
+    e "好...好多奶!!!!~~~~~~"
 
 
 
@@ -161,11 +161,11 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    e "I... I can’t take it anymore... Put me down, [P], please... ..."
+    e "我...我再也受不了了...放我下来,[P],求你了......"
 
 
 
-    player "Will do, auntie~"
+    player "我会的,阿姨~"
 
 
 
@@ -183,31 +183,31 @@ label dungeon_E.e_dungeon_2:
 
     scene e_dungeon_2_1 with tstmgr
 
-    e "Wanna do the milking again?"
+    e "想再挤一次奶?"
 
 
 
-    e "Hurry up then~ I can’t wait to reduce a few pounds on my breasts~"
+    e "那就快点吧~我等不及要减轻点我胸的重量了~"
 
 
 
     scene e_dungeon_2_2 with tstmgr
 
-    player "I’m on it, Elisa~"
+    player "马上,伊莉莎~"
 
 
 
-    e "These milk bags... are hard to deal with, aren’t they?"
+    e "这些奶袋...很难搞,不是吗?"
 
 
 
     scene e_dungeon_2_3 with tstmgr
 
-    player "I don’t think so, auntie~ I think they are just marvalous~"
+    player "我不这么认为,阿姨~我认为它们太妙了~"
 
 
 
-    e "Awwww... I can feel the squeeze... ..."
+    e "Awwww...我能感觉到压力......"
 
 
 
@@ -219,7 +219,7 @@ label dungeon_E.e_dungeon_2:
 
 
 
-    player "And... ..."
+    player "还有......"
 
 
 
@@ -233,17 +233,17 @@ label dungeon_E.e_dungeon_2:
 
     scene e_dungeon_2_11 with tstmgr
 
-    e "You are... getting good at this~"
+    e "你很...擅长这个~"
 
 
 
-    player "I haven’t even started yet~, auntie~"
+    player "我还没开始呢~,阿姨~"
 
 
 
     scene e_dungeon_2_12 with tstmgr
 
-    e "What?... ..."
+    e "什么?......"
 
 
 
@@ -253,7 +253,7 @@ label dungeon_E.e_dungeon_2:
 
 
 
-    player "And~ here we go... ..."
+    player "开始咯......"
 
 
 
@@ -274,7 +274,7 @@ label dungeon_E.e_dungeon_2:
 
 
 
-    e "This is awsome!!!!~~~~"
+    e "太爽了!!!!~~~~"
 
 
 
@@ -302,7 +302,7 @@ label dungeon_E.e_dungeon_2:
 
 
 
-    e "Yes, yes, keep abusing my milk bags like that~"
+    e "Yes,yes,继续这样玩弄我的奶袋~"
 
 
 
@@ -360,15 +360,15 @@ label dungeon_E.e_dungeon_2:
 
     scene e_dungeon_2_10 with tstmgr
 
-    e "I... I never knew that milking can be a so exciting thing~"
+    e "我...我从来不知道挤奶是一件如此令人兴奋的事~"
 
 
 
-    e "You are driving me crazy!!!!!!!!!!!~~~~~~~~~~~~~"
+    e "你让我疯狂!!!!!!!!!!!~~~~~~~~~~~~~"
 
 
 
-    player "Well, that was exactly the plan~"
+    player "Well,这正是我的计划~"
 
 
 

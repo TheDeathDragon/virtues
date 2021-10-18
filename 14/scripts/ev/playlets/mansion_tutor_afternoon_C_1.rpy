@@ -6,35 +6,35 @@ label mansion_tutor_afternoon_C_1:
 
 
 
-    d "Why are you here?"
+    d "你怎么在这?"
 
 
 
-    c "Mom asked me to keep eyes on you two. She wants to know how your tutoring goes."
+    c "妈妈让我看着你们俩.她想知道你的辅导进展如何."
 
 
 
-    c "Don't mind me, I won't interrupt you two. I won't even say a single word."
+    c "别管我,我不会打断你们的.我不说话."
 
 
 
     scene void with tstmgr
 
-    "Some time later... ..."
+    "一段时间后......"
 
 
 
     scene mansion_tutor_afternoon_c_1_2 with tstmgr
 
-    c "But what if we try to integrate its derivative first?"
+    c "但如果我们先对它的导数积分呢?"
 
 
 
-    player "That will be easy, but this is not a calculas class, maybe we should try another way to solve this question."
+    player "这很简单,但这不是一类微积分,也许我们应该尝试另一种方法来解决这个问题."
 
 
 
-    c "Uh-huh. Then how about we trying... ..."
+    c "Uh-huh.那我们试试吧......"
 
 
 
@@ -42,7 +42,7 @@ label mansion_tutor_afternoon_C_1:
 
 
 
-    d "My life sucks."
+    d "我的生活很无趣."
 
 
 

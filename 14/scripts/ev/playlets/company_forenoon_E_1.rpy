@@ -2,29 +2,29 @@ label company_forenoon_E_1:
 
     scene company_forenoon_e_1_1 with tstmgr
 
-    c "Mom? Why are you here?"
+    c "妈妈?你怎么在这?"
 
 
 
-    e "Just to check you and [P] out."
+    e "只是想看看你和[P]."
 
 
 
-    "Wow, they look like sisters rather than mother and daughter."
+    "Wow,他们看起来像姐妹而不是母女."
 
 
 
     scene company_forenoon_e_1_2 with tstmgr
 
-    e "How's your work, [P]?"
+    e "工作怎么样,[P]?"
 
 
 
-    player "Eh, I'm doing fine. Thanks for asking, Aunt Elisa."
+    player "Eh,我感觉很好.谢谢你的关心,伊莉莎阿姨."
 
 
 
-    e "That's good to know."
+    e "很高兴知道这个."
 
 
 

@@ -1,8 +1,8 @@
 label dungeon_G:
     menu:
-        "Get her on the wooden horse":
+        "让她骑上木马" if True:
             jump dungeon_G.g_dungeon_1
-        "Cell her in the cage":
+        "把她关在笼子里" if True:
 
             jump dungeon_G.g_dungeon_2
 
@@ -13,43 +13,43 @@ label dungeon_G.g_dungeon_1:
 
     scene g_dungeon_1_1 with tstmgr
 
-    g "Wooden horse... ... What a brutal punishment it is~"
+    g "木马...多么残酷的惩罚啊~"
 
 
 
-    g "Uno is just an innocent kitty!~"
+    g "乌诺只是一只无辜的小猫!~"
 
 
 
     scene g_dungeon_1_2 with tstmgr
 
-    player "Only bad kitties would come to this place. You know that, right?"
+    player "只有坏猫咪才会来这里.你知道的,对吧?"
 
 
 
     scene g_dungeon_1_3 with tstmgr
 
-    player "But don’t worry, I will do nothing but caressing to you, little one~"
+    player "但别担心,我什么也不会做,除了爱抚你,小家伙~"
 
 
 
-    g "You don’t have to... caress Uno on a wooden horse. You are a bad master."
+    g "你可以不...抚摸木马上的乌诺的.你是个坏主人."
 
 
 
     scene g_dungeon_1_4 with tstmgr
 
-    player "Whatever~ A kitty doesn’t have choices anyway."
+    player "随便啦~反正猫咪也没有选择的余地."
 
 
 
-    player "This big ass... ... Damn... ..."
+    player "这个大屁股......Damn......"
 
 
 
     scene g_dungeon_1_5 with tstmgr
 
-    player "Now get ready for my... caressing!"
+    player "现在准备好接收我的...爱抚!"
 
 
 
@@ -67,11 +67,11 @@ label dungeon_G.g_dungeon_1:
 
     scene g_dungeon_1_4 with tstmgr
 
-    g "More... ... more caressing like this please, master~"
+    g "再来...请再像这样爱抚我,主人~"
 
 
 
-    player "Ha, told you you will like it."
+    player "Ha,我就说你会喜欢的."
 
 
 
@@ -107,7 +107,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Master~~ Oh... good master~~"
+    g "主人~~Oh...好主人~~"
 
 
 
@@ -131,13 +131,13 @@ label dungeon_G.g_dungeon_1:
 
     scene g_dungeon_1_7 with tstmgr
 
-    g "Master~~ Master~~ More... more... please... ..."
+    g "主人~~主人~~再来...再来...求你了......"
 
 
 
     scene g_dungeon_1_8 with tstmgr
 
-    player "You will always get what you want, kitty~"
+    player "你总能得到你想要的,小猫咪~"
 
 
 
@@ -149,7 +149,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Spanking... is really the best way of caressing~"
+    g "打屁股...真的是最好的爱抚方式~"
 
 
 
@@ -167,7 +167,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Awwwwwww~~~ Master~~~"
+    g "Awwwwwww~~~主人~~~"
 
 
 
@@ -189,41 +189,41 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "This is... this is enough, master... ..."
+    g "这...已经够了,主人......"
 
 
 
-    g "Uno can’t take it anymore... ..."
+    g "乌诺再也受不了了......"
 
 
 
     label dungeon_G.choice_1:
 
     menu:
-        "Okay":
+        "Okay" if True:
 
 
-            player "Alright kitty, you have done a good job."
+            player "好了,小猫咪,你做得很好."
 
-            player "I will get you out of the horse now... ..."
-        "Not yet":
+            player "我现在就把你从马上弄下来......"
+        "Not yet" if True:
 
 
 
 
             scene g_dungeon_1_10 with tstmgr
 
-            player "Alright kitty, you have done a good job."
+            player "好了,小猫咪,你做得很好."
 
             scene g_dungeon_1_11 with tstmgr
 
-            player "I will get you out of the horse now..."
+            player "我现在就把你从马上弄下来..."
 
             scene g_dungeon_1_13 with tstmgr
 
-            player "And let’s go have some your favorite fried chicken~"
+            player "我们去吃点你最喜欢吃的炸鸡吧~"
 
-            g "Oh, that sounds good~ Thank you, mas... ..."
+            g "Oh,听起来不错~谢谢你,主......"
 
             scene g_dungeon_1_14 with tstmgr
 
@@ -231,11 +231,11 @@ label dungeon_G.g_dungeon_1:
 
             $ flashlight()
 
-            player "Not yet! Got you!"
+            player "Notyet!逮住你了!"
 
-            g "Ohhhhhhhhhh~~~ TThis is cheating!~~~"
+            g "Ohhhhhhhhhh~~~作弊!~~~"
 
-            g "I... I’m cumming!"
+            g "我...我要射了!"
 
             scene g_dungeon_1_15 with tstmgr
             play sound cumshot
@@ -245,13 +245,13 @@ label dungeon_G.g_dungeon_1:
 
             g "Yeeeeeeeeeeeeeeeees~~~~~~~"
 
-            player "Wow, girl... ... You can have orgasms simply by spanking? That’s so damn horny... ..."
+            player "Wow,女孩...光打屁股就能高潮吗?真是太淫荡了......"
 
             scene g_dungeon_1_16 with tstmgr
 
-            g "Only... ... only by your... your spanking... ..."
+            g "只有...只有你...你打屁股我才可以......"
 
-            g "My... good master~"
+            g "我的...好主人~"
 
 
 
@@ -271,31 +271,31 @@ label dungeon_G.g_dungeon_2:
 
     scene g_dungeon_2_1 with tstmgr
 
-    player "Now you can’t go anywhere, naughty kitty~"
+    player "现在你哪儿也去不了,淘气小猫咪~"
 
 
 
-    g "I... won’t go anywhere anyway."
+    g "我...哪儿也不去."
 
 
 
-    player "Hmmmm... Uno, it doesn’t work like that. You should act... hmmm... sadder."
+    player "Hmmmm...乌诺,不是这样的.你应该...嗯...表现的更难过."
 
 
 
     scene g_dungeon_2_2 with tstmgr
 
-    g "I should be sad for... being caged? Why would I?"
+    g "我应该为被关在笼子里...感到更难过?我为什么要这样?"
 
 
 
-    player "Ehhhh... because you can’t go anywhere?"
+    player "Ehhhh...因为你哪儿也去不了?"
 
 
 
     scene g_dungeon_2_1 with tstmgr
 
-    g "But I won’t go anywhere anyway."
+    g "但我哪儿也不去."
 
 
 
@@ -303,71 +303,71 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    player "Nevermind, end of discussion. Let’s keep playing the roles..."
+    player "算了,讨论到此结束.让我们继续角色扮演..."
 
 
 
     scene g_dungeon_2_3 with tstmgr
 
-    player "Cough, cough... Now suck my dick, kitty. I will think about letting you out if you make me satisfied."
+    player "咳,咳...现在给我口交,小猫咪.如果你能让我满意,我会考虑放你出去."
 
 
 
     scene g_dungeon_2_4 with tstmgr
 
-    player "*Lifting up Uno’s head with penis* What do you say, kitty?"
+    player "*用鸡巴抬起乌诺的头*你说呢,小猫咪?"
 
 
 
     scene g_dungeon_2_5 with tstmgr
 
-    g "Meow meow!~~~ I will suck it, master~"
+    g "Meowmeow!~~~我马上就口,主人~"
 
 
 
-    player "Ahhhhhh! You are not playing the role! You should be more upset!"
+    player "Ahhhhhh!你不是在扮演角色!你应该更难过!"
 
 
 
     scene g_dungeon_2_6 with tstmgr
 
-    g "*Kissing penis* Ow~ Don’t be mad, master~ Mua~"
+    g "*亲吻鸡巴*Ow~别生气,主人~Mua~"
 
 
 
     scene g_dungeon_2_7 with tstmgr
 
-    "Awwww... Damn she is so cute... ..."
+    "Awwww...该死,她真可爱......"
 
 
 
-    player "I can make up my mind and spank you hard when I’m not seeing your face, but now... ..."
+    player "当我不看你的脸时,我可以下定决心狠狠打你一巴掌,但现在......"
 
 
 
-    player "How can I be hard on you when I am looking at those big eyes... ..."
+    player "当我看着你的大眼睛时,真是对你严厉不起来......"
 
 
 
-    player "Maybe it’s not a good idea to bring you here in the first place. Let’s get out of here, kitty."
+    player "也许一开始就不该把你带到这里来.我们走吧,小猫咪."
 
 
 
     scene g_dungeon_2_3 with tstmgr
 
-    g "But... I’m enjoying this... ... Let’s try it again, please~"
+    g "但是...我很喜欢这个......让我们再试一次~"
 
 
 
     scene g_dungeon_2_8 with tstmgr
 
-    g "Cough... cough... ..."
+    g "咳...咳......"
 
 
 
     scene g_dungeon_2_9 with tstmgr
 
-    g "Master, master~ Fuck my mouth please. I will think about leaving the cage if you make me satisfied~"
+    g "主人,主人~请操我的嘴.如果你能让我满意,我会考虑离开这个笼子~"
 
 
 
@@ -375,11 +375,11 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    player "That was... not the line that I was looking for... ... but... ..."
+    player "这...不是我想看到的......但......"
 
 
 
-    player "Ahhhhhhhh! I’m going to fuck you hard! You bad kitty!"
+    player "Ahhhhhhhh!我要狠狠地操你!坏猫咪!"
 
 
 
@@ -449,7 +449,7 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    player "I’m cumming!!"
+    player "我射了!!"
 
 
 
@@ -461,25 +461,25 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    "I came everything I had in her throat... ..."
+    "我把我所有的精液都射在她的喉咙里了......"
 
 
 
     scene g_dungeon_2_13 with tstmgr
 
-    g "Master... ... ... ..."
+    g "主人............"
 
 
 
     scene g_dungeon_2_14 with tstmgr
 
-    g "*Swallowing hard* ... ... ... ..."
+    g "*使劲吞咽*............"
 
 
 
     scene g_dungeon_2_15 with tstmgr
 
-    g "Uno will be a good kitty, so don’t get mad~ Meow~"
+    g "乌诺会做只好猫咪,所以别生气~Meow~"
 
 
 

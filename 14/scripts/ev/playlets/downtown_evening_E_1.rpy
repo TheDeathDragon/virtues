@@ -2,31 +2,31 @@ label downtown_evening_E_1:
 
     scene downtown_evening_e_1_1 with tstmgr
 
-    e "Thank you for coming with me, [P]. It has been so long since the last time I went shopping with a male."
+    e "谢谢你和我一起来,[P].我已经很久没有和男性一起去购物了."
 
 
 
     scene downtown_evening_e_1_2 with tstmgr
 
-    e "If you find anything you like on this street, just buy it. I’ll pay."
+    e "如果你在这条街上找到任何你喜欢的东西,就买下来.我来付钱."
 
 
 
-    player "That’s... very generous of you..."
+    player "这...你真慷慨..."
 
 
 
     scene downtown_evening_e_1_1 with tstmgr
 
-    e "So what is on your mind? A suit? A watch? A pair of shoes maybe?"
+    e "你在想什么?一套西装吗?一个手表吗?也许是一双鞋?"
 
 
 
-    player "Eh... I... ..."
+    player "Eh...我......"
 
 
 
-    player "We haven’t eaten anything tonight so... how about I buy you a dinner?"
+    player "我们今晚什么都没吃,所以...我请你吃顿饭怎么样?"
 
 
 
@@ -38,7 +38,7 @@ label downtown_evening_E_1:
 
     scene downtown_evening_e_1_4 with tstmgr
 
-    e "You are such a thoughtful kid! Auntie loves you!~~"
+    e "你真是个体贴的孩子!阿姨爱你!~~"
 
 
 

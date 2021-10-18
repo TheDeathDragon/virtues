@@ -2,29 +2,29 @@ label clothing_afternoon_A_4:
 
     scene clothing_afternoon_a_2_1 with tstmgr
 
-    a "Shh... pretend like we don't know each other."
+    a "Shh...假装我们不认识."
 
 
 
-    a "The manager is watching me."
+    a "经理正在看着我."
 
 
 
-    a "Just act like a normal guest, and..."
+    a "表现得像个普通的客人..."
 
 
 
     scene clothing_afternoon_a_4_1 with tstmgr
 
-    a "Take your hand off my butt! Are you even listening to me?"
+    a "把你的手从我屁股上拿开!你在听我说话吗?"
 
 
 
-    "Manager" "Is there a problem, Vera?"
+    "经理""有什么问题吗,薇拉?"
 
 
 
-    a "Oh, no, no, manager. Nothing at all, everything is fine."
+    a "Oh,没有,没有,经理.没什么,一切都很好."
 
 
 
@@ -32,7 +32,7 @@ label clothing_afternoon_A_4:
 
 
 
-    a "I hate you..."
+    a "我恨你..."
 
 
 

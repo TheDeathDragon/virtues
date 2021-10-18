@@ -2,39 +2,39 @@ label mansion_livingroom_evening_C_1:
 
     scene c_love_4_4 with tstmgr
 
-    c "Emm? You are still here."
+    c "Emm?你还在这."
 
 
 
-    player "Yeah, I just finished tutoring Irene."
+    player "Yeah,我刚辅导完艾琳."
 
 
 
     scene c_love_4_5 with tstmgr
 
-    e "Honey, can you please drive [P] to his place?"
+    e "亲爱的,你能开车送[P]回家吗?"
 
 
 
     scene c_love_4_6 with tstmgr
 
-    c "Huh? Why would I do... ... ... ..."
+    c "Huh?为什么要我............"
 
 
 
     scene mansion_livingroom_evening_c_1_1 with tstmgr
 
-    c "Oh, I mean, I'd love to do that."
+    c "Oh,我是说,我很乐意这么做."
 
 
 
-    c "Let's go, my dearest fiance."
+    c "走吧,我最亲爱的未婚夫."
 
 
 
     scene mansion_livingroom_evening_c_1_2 with tstmgr
 
-    e "Have a wonderful night, lovebirds."
+    e "祝你们今晚愉快,小情侣们."
 
 
 

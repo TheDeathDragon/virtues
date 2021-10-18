@@ -2,27 +2,27 @@ label G_action_inti_1_girlfriend:
 
     scene void with tstmgr
 
-    "Later today... ..."
+    "今天晚些时候......"
 
 
 
     scene g_action_inti_1_1 with tstmgr
 
-    "*Keyboard tapping sound* papapapapapapapapapapapa... ... ... ..."
+    "*键盘敲打的声音*papapapapapapapapapapapa............"
 
 
 
-    g "*Looking at [P] with expectation* ... ... ... ..."
+    g "*期待地看着[P]*............"
 
 
 
     scene g_action_inti_1_2 with tstmgr
 
-    player "*Stopped typing* Hmmmmm?"
+    player "*停止打字*Hmmmmm?"
 
 
 
-    "It seemed like my good-behaving red-haired pet is looking for some interactions again."
+    "看起来我的这只表现良好的红毛宠物又在寻找一些互动了."
 
 
 
@@ -32,27 +32,27 @@ label G_action_inti_1_girlfriend:
 
 
 
-    player "You want to do that again?"
+    player "你还想再来一次?"
 
 
 
     scene g_action_inti_1_4 with tstmgr
 
-    g "*Nodding* ... ... ... ..."
+    g "*点头*............"
 
 
 
     scene g_action_inti_1_5 with tstmgr
 
-    player "Fine, just go lie on the... ..."
+    player "Fine,去躺在......"
 
 
 
-    "She didn’t even need me to say anything..."
+    "她甚至不需要我说什么..."
 
 
 
-    g "I'm waiting~"
+    g "我等着呢~"
 
 
 
@@ -63,56 +63,56 @@ label G_action_inti_1_girlfriend:
     label G_action_inti_1_girlfriend_choice_1:
 
     menu:
-        "Fuck her on the table":
+        "在桌子上干她" if True:
 
 
             scene g_train_inti_1_29 with tstmgr
 
-            player "Aren’t you afraid that someone may see us?"
+            player "你不怕有人看见我们吗?"
 
-            g "But... it’s exciting to do this on the dining table..."
+            g "但是...在餐桌上做这件事很刺激..."
 
-            g "I’ll try not to moan~"
+            g "我尽量不叫~"
 
             scene g_train_inti_1_30 with tstmgr
 
-            g "*Being penetrated* Yaaaaahhhhhhh!~~~~~~~"
+            g "*被插入*Yaaaaahhhhhhh!~~~~~~~"
 
-            player "Eh... ... try not to moan?"
+            player "Eh......这就是尽量不叫?"
 
             scene g_train_inti_1_33 with tstmgr
 
-            g "But it was... it was too huge... ..."
+            g "但这...它太大了......"
 
-            "Damn, she is so cute!"
+            "Damn,她太可爱了!"
 
             scene g_train_inti_1_31 with tstmgr
 
             pause
 
-            g "*Trying not to moan* Vuuu... ... ... ..."
+            g "*忍着不叫*Vuuu............"
 
-            g "*Trying not to moan* Wuuuuuuuu... ... ... ..."
+            g "*忍着不叫*Wuuuuuuuu............"
 
-            g "*Moaning loudly* Ahhhhhhhhhhhhhhhhhhh!!!!!!... That spot!!!!~"
+            g "*大声呻吟*Ahhhhhhhhhhhhhhhhhhh!!!!!!...那里!!!!~"
 
-            player "Hah, guess I just found your weakness, kitty~"
+            player "Hah,我发现了你的弱点,小猫~"
 
-            g "Ahhhhh~~~ ahhhh~~~~ wait~~~"
+            g "Ahhhhh~~~ahhhh~~~~等等~~~"
 
             scene g_train_inti_1_32 with tstmgr
 
             pause
 
-            g "I feel like I am lying on the cloud..."
+            g "我感觉就像躺在云端..."
 
-            g "Everything... is just so light... and so comfortable."
+            g "一切都...很轻...很舒服."
 
             g "Ahhhhh... huhh... huh... ..."
 
-            player "Alright, Uno, I’m about to cum."
+            player "好了,乌诺,我要射了."
 
-            g "Cum... outside... because... ... dangerous period... ..."
+            g "射在...外面...因为......今天是危险期......"
 
             player "Oh, okay... Ahhhhh~~"
 
@@ -120,13 +120,13 @@ label G_action_inti_1_girlfriend:
 
             $ flashlight()
 
-            player "I'm cuming!!"
+            player "我射了!!"
 
             scene g_action_inti_1_7 with tstmgr
 
             g "Awwwwwwwwww~~~"
 
-            player "Wait, haven’t finished yet!"
+            player "等等,还没完呢!"
 
             scene g_action_inti_1_8 with tstmgr
 
@@ -140,73 +140,73 @@ label G_action_inti_1_girlfriend:
 
             player "... ... ... ..."
 
-            g "So... hot... ... your cum... ..."
+            g "你的...精液......好热......"
 
-            player "Uno... ..."
+            player "乌诺......"
 
             scene g_action_inti_1_10 with tstmgr
 
-            g "I thought you would... cum inside... ..."
+            g "我以为你会...射在里面......"
 
-            g "[P]... ... Uno... loves you~~~"
-        "Play her tits on the table":
+            g "[P]......乌诺...爱你~~~"
+        "在桌子上玩她的奶子" if True:
 
 
 
 
             scene g_train_inti_1_29 with tstmgr
 
-            player "Well, Uno, I’m not going to fuck you today~ I’m going to focus on your tits~"
+            player "Well,乌诺,我今天不操你了~我要专注于你的奶子了~"
 
-            g "Okay... ..."
+            g "嗯......"
 
-            g "So... what do you want to do with them?"
+            g "所以...你想怎么玩它们?"
 
-            player "What do you think I would do to the dishes on the table?"
+            player "你觉得我会怎么处理桌子上的东西?"
 
-            player "I’m going to eat them~"
+            player "我要吃它们~"
 
             scene g_action_inti_1_11 with tstmgr
 
-            player "Ahhhhhh... ... yes, in my face, yes... ..."
+            player "Ahhhhhh......yes,就在我脸上,yes......"
 
-            player "These soft marshmallows... ... They must be so sweet that can even rot my teeth~"
+            player "这些软软的棉花糖...它们一定很甜,甚至会腐蚀我的牙齿~"
 
-            g "Then just... don’t eat them~"
+            g "那就...不要吃它们~"
 
             scene g_action_inti_1_12 with tstmgr
 
-            player "*Biting nipple* ... ... ... ..."
+            player "*咬乳头*............"
 
             g "Ahhhhhhhhh!~~~~~~"
 
-            player "Yes, yes, this is so damn sweet!"
+            player "Yes,yes,这太他妈舒服了!"
 
-            g "Don’t eat my nipple~~"
+            g "别吃我的乳头~~"
 
             scene g_action_inti_1_13 with tstmgr
 
-            player "Ohhhh... Uno, I was so lucky to meet you!"
+            player "Ohhhh...乌诺,遇见你真是太幸运了!"
 
-            g "Oh... ah... thanks~"
+            g "Oh...ah...谢谢~"
 
-            player "Your tits... can cure all my tiredness... ..."
+            player "你的乳头...能治愈我所有的疲劳......"
 
-            g "You are acting like Irene now~"
+            g "你现在就像艾琳一样~"
 
-            g "You two are both big babies, hee hee~~~"
+            g "你们两个都是大孩子,heehee~~~"
 
             scene g_action_inti_1_14 with tstmgr
 
-            player "Awwwwww... ... I really want to bury myself in this great softness forever!"
+            player "Awwwwww......我真想把自己永远埋在这种温柔之中!"
 
-            g "For... forever?"
+            g "永...永远?"
 
             scene g_action_inti_1_15 with tstmgr
 
             g "Wummmmmm... ... ... ..."
 
-            g "O... okay, I’m not going to leave you... as long as I can eat fried chicken everyday~"
+            g "O...okay,我不会离开你的...只要我能每天吃炸鸡就行~"
 
 
 
@@ -216,7 +216,7 @@ label G_action_inti_1_girlfriend:
 
 
 
-    "Uno and I had a fun time together that night, but I guess I’ll have to spend another day on my homeworks... ..."
+    "那天晚上我和乌诺在一起玩得很开心,不过我想我得再花一天时间做作业......"
 
 
 

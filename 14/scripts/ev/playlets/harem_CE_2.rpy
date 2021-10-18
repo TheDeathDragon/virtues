@@ -6,7 +6,7 @@ label harem_CE_2:
 
 
 
-    c "Have you finished the work I asked you to do?"
+    c "你完成了我要求你做的工作了吗?"
 
 
 
@@ -16,29 +16,29 @@ label harem_CE_2:
 
     scene harem_ce_2_2 with tstmgr
 
-    e "What a hardworking young man~"
+    e "多么勤奋的年轻人啊~"
 
 
 
     scene harem_ce_2_3 with tstmgr
 
-    e "You need to be... rewarded~"
+    e "你需要......被奖励~"
 
 
 
-    e "Come on~ Let these fun bags comfort you~"
+    e "来吧~让来安慰你一下~"
 
 
 
     scene harem_ce_2_4 with tstmgr
 
-    c "Mom? Watch out, we are in the company!"
+    c "妈妈？小心点，我们在公司里!"
 
 
 
     scene harem_ce_2_5 with tstmgr
 
-    e "We are in my company~"
+    e "我们是在我的公司里~"
 
 
 
@@ -54,25 +54,25 @@ label harem_CE_2:
 
 
 
-    c "It’s just... a little reward~"
+    c "这只是......一个小小的奖励~"
 
 
 
     scene harem_ce_2_8 with tstmgr
 
-    player "Elisa... Theo... ..."
+    player "伊丽莎... 狄奥... ..."
 
 
 
     scene harem_ce_2_9 with tstmgr
 
-    player "Ahhhhh~ I feel like all my fatigue has disappeared."
+    player "Ahhhhh~ 我感觉我所有的疲劳都消失了."
 
 
 
     scene harem_ce_2_10 with tstmgr
 
-    player "Boobs are the best thing in the world!"
+    player "咪咪是世界上最好的东西!"
 
 
 
@@ -114,11 +114,11 @@ label harem_CE_2:
 
 
 
-    e "I... I think it is enough for now... ..."
+    e "I... 我想现在已经足够了... ..."
 
 
 
-    c "Yeah, I think so."
+    c "Yeah, 我觉得也是."
 
 
 

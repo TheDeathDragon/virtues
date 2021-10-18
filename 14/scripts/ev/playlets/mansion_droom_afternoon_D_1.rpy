@@ -2,17 +2,17 @@ label mansion_droom_afternoon_D_1:
 
     scene mansion_droom_afternoon_d_1_1 with tstmgr
 
-    d "Hmmmmmm... ... This is... ... too ridiculous."
+    d "Hmmmmmm... ... 这真是......太荒谬了."
 
 
 
-    d "How could it be so big?"
+    d "它怎么会这么大?"
 
 
 
     scene mansion_droom_afternoon_d_1_2 with tstmgr
 
-    d "Or... ... am I too small?"
+    d "或者......我太小了吗?"
 
 
 
@@ -24,21 +24,21 @@ label mansion_droom_afternoon_D_1:
 
 
 
-    d "Awwwwww... ... It hurts... ... Bad dick!"
+    d "Awwwwww... ... 疼啊......坏鸡巴!"
 
 
 
     scene mansion_droom_afternoon_d_1_4 with tstmgr
 
-    d "But... I still love it~"
+    d "但是... 我仍然喜欢它~"
 
 
 
-    d "*Licking, licking* ... ... ... ..."
+    d "*舔舐* ... ... ... ..."
 
 
 
-    d "Bad dick sir~ Can we get along with each other?"
+    d "糟糕的家伙，吊先生，我们能不能相处得好一点?"
 
 
 
@@ -52,7 +52,7 @@ label mansion_droom_afternoon_D_1:
 
     scene mansion_droom_afternoon_d_1_6 with tstmgr
 
-    d "Ha~ He said yes~~"
+    d "哈~他说是的~~"
 
 
 

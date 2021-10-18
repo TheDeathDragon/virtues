@@ -2,39 +2,39 @@ label company_forenoon_C_3:
 
     scene company_forenoon_c_3_1 with tstmgr
 
-    c "What are you doing?"
+    c "你在做什么?"
 
 
 
-    player "Eh... just double-checking this document, nothing important."
+    player "Eh...只是再检查一下这个文件,没什么重要的."
 
 
 
     scene company_forenoon_c_3_2 with tstmgr
 
-    c "Let me see."
+    c "让我看看."
 
 
 
-    "She bended down and got closer to me."
+    "她弯下身来,靠近我."
 
 
 
-    c "It looks like you are getting more and more proficient on this job."
+    c "看起来你在这项工作上越来越熟练了."
 
 
 
     scene company_forenoon_c_3_3 with tstmgr
 
-    "Shit... those magnificent tits are hanging right beside me."
+    "Shit...这对美丽的奶子就挂在我旁边."
 
 
 
-    "Colleague A" "Oh, goddammit, fuck this lucky bastard!"
+    "同事A""Oh,该死的,去他妈的这个幸运的混蛋!"
 
 
 
-    "Colleague B" "I wish Manager Shinyrost can do that to me someday."
+    "同事B""我希望经理有一天能这样对我."
 
 
 

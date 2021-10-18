@@ -2,7 +2,7 @@ label park_stroll_morning_D_1:
 
     scene park_stroll_morning_d_1_1 with tstmgr
 
-    player "Emm? Irene?"
+    player "Emm?艾琳?"
 
 
 
@@ -10,13 +10,13 @@ label park_stroll_morning_D_1:
 
 
 
-    player "Why didn't your mother drive you to school today?"
+    player "你妈妈今天为什么不开车送你去学校?"
 
 
 
     scene park_stroll_morning_d_1_2 with tstmgr
 
-    d "She is busy. She is always busy. Humph... ... ... ..."
+    d "她很忙.她总是很忙.Humph............"
 
 
 
@@ -24,17 +24,17 @@ label park_stroll_morning_D_1:
 
 
 
-    player "Do you need me to walk you to your school?"
+    player "你需要我送你去学校吗?"
 
 
 
     scene park_stroll_morning_d_1_3 with tstmgr
 
-    d "Really? That will be perfect!"
+    d "真的吗?那太好了!"
 
 
 
-    d "Let's go!"
+    d "我们走!"
 
 
 

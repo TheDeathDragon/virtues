@@ -2,13 +2,13 @@ label bnb_bathroom_morning_G_1:
 
     scene bnb_bathroom_morning_g_1_1 with tstmgr
 
-    g "Hmmm? What is this?"
+    g "Hmmm?这是什么?"
 
 
 
     scene bnb_bathroom_morning_g_1_2 with tstmgr
 
-    g "A hidden camera?"
+    g "一个隐藏的摄像头?"
 
 
 
@@ -18,21 +18,21 @@ label bnb_bathroom_morning_G_1:
 
     scene bnb_bathroom_morning_g_1_3 with tstmgr
 
-    g "Did you set it here, [P]?"
+    g "你放的吗,[P]?"
 
 
 
-    g "This is so despicable..."
+    g "这太卑鄙了..."
 
 
 
     scene bnb_bathroom_morning_g_1_4 with tstmgr
 
-    g "But don’t worry, I won’t tell Vera about this."
+    g "但别担心,我不会把这件事告诉薇拉的."
 
 
 
-    g "Hope she won’t find out herself~"
+    g "希望她自己不会发现~"
 
 
 

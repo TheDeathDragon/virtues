@@ -2,27 +2,27 @@ label park_stroll_morning_B_3:
 
     scene park_stroll_morning_b_3_1 with tstmgr
 
-    player "Guess who I am?"
+    player "猜猜我是谁?"
 
 
 
-    b "Stop, I have noticed you coming half a minute a ago."
+    b "停,我半分钟前就注意到你来了."
 
 
 
-    player "What? How?"
+    player "什么?你怎么知道?"
 
 
 
     scene park_stroll_morning_b_3_2 with tstmgr
 
-    b "*Sniffing... ... Sniffing... ...*"
+    b "*嗅......嗅......*"
 
 
 
     scene park_stroll_morning_b_3_1 with tstmgr
 
-    b "Your scent is so special. How can I ever miss that?"
+    b "你的味道很特别.我怎么会不知道呢?"
 
 
 

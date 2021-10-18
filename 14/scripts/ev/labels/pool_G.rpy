@@ -1,8 +1,8 @@
 label pool_G:
     menu:
-        "find her on the floating bed":
+        "在浮床上找到她":
             jump pool_G.g_pool_1
-        "wait for her in the pool":
+        "在游泳池里等她":
 
             jump pool_G.g_pool_2
 
@@ -18,17 +18,17 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_1 with dissolve
 
-    player "Hmmmmm... ... What are you doing?"
+    player "嗯......你在做什么?"
 
 
 
-    g "I am meditating..."
+    g "我在冥想..."
 
 
 
     scene g_pool_1_2 with tstmgr
 
-    g "Close eyes... and immerse in the imagination... ..."
+    g "闭上眼睛...沉浸在想象中... ..."
 
 
 
@@ -38,23 +38,23 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_3 with tstmgr
 
-    g "I am a dying survivor of a shipwreck... drifting alone on a lifeboat... with no food and water... ..."
+    g "我是一个濒临死亡的海难幸存者......独自漂流在救生艇上......没有食物和水... ..."
 
 
 
     scene g_pool_1_4 with tstmgr
 
-    g "Eah~ I’m dead~"
+    g "诶~我死了~"
 
 
 
-    player "Ha?... ..."
+    player "蛤?... ..."
 
 
 
     scene g_pool_1_5 with tstmgr
 
-    g "Don't you think play dead is a good way to meditate?"
+    g "你不觉得装死是冥想的好方法吗?"
 
 
 
@@ -64,7 +64,7 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_6 with tstmgr
 
-    g "Eah~ Uno is a dead now~ she won’t respond to any stimuli anymore... ..."
+    g "诶~现在是个死人了~她不会再对任何刺激有反应了... ..."
 
 
 
@@ -72,59 +72,59 @@ label pool_G.g_pool_1:
 
 
 
-    player "Alright, let’s check if you are really dead~"
+    player "好吧，让我们检查一下你是否真的死了~"
 
 
 
-    g "*Playing dead* ... ... ... ..."
+    g "*装死* ... ... ... ..."
 
 
 
     scene g_pool_1_7 with tstmgr
 
-    "I put a hand around her neck..."
+    "我把一只手放在她的脖子上..."
 
 
 
-    "I didn’t really use any strength, so it’s not a choke. But still, it won’t be comfortable for her at all. She is having a little trouble breathing now..."
+    "我并没有真正使用任何力量，所以这不会是一个窒息.但是，这对她来说还是一点也不舒服.她现在有一点呼吸困难..."
 
 
 
     scene g_pool_1_8 with tstmgr
 
-    "I thought she would be alarmed and stop playing dead, but in fact, she only opened her eyes and looked at me with a bit confusion while her body is still in a state of complete relaxation."
+    "我以为她会受到惊吓，不再装死，但事实上，她只是睁开眼睛，有点困惑地看着我，而她的身体仍然处于完全放松的状态."
 
 
 
-    player "You are... not afraid?"
+    player "你......不害怕?"
 
 
 
     scene g_pool_1_9 with tstmgr
 
-    g "Why would I be afraid?"
+    g "我为什么会害怕?"
 
 
 
-    player "That... I will hurt you?"
+    player "那... 我将伤害你?"
 
 
 
     scene g_pool_1_10 with tstmgr
 
-    g "But I know you will never hurt me~ [P] is the gentlest man in the world~"
+    g "但我知道你永远不会伤害我~ [P]是世界上最温柔的人~"
 
 
 
-    g "[P] can... do whatever he wants to me because I have already devoted my body to him... ..."
+    g "[P]可以......对我做任何事情，因为我已经把身体献给了他... ..."
 
 
 
-    g "Oh, no, I mean, because I am a dead now~"
+    g "哦，不，我是说，因为我现在是个死人了~"
 
 
 
-    player "Uno... ..."
+    player "乌喏... ..."
 
 
 
@@ -142,13 +142,13 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_13 with tstmgr
 
-    g "Awwww~ What do you want to do with Uno’s dead body, good sir?"
+    g "你想用乌喏的尸体做什么，好先生?"
 
 
 
     scene g_pool_1_14 with tstmgr
 
-    player "I’m trying to bring you back to life by using cardiac massage~"
+    player "我试图通过心脏按摩使你恢复活力~"
 
 
 
@@ -194,7 +194,7 @@ label pool_G.g_pool_1:
 
 
 
-    g "This is not... cardiac massage~"
+    g "这不是......心脏按摩~"
 
 
 
@@ -206,11 +206,11 @@ label pool_G.g_pool_1:
 
 
 
-    player "Ha, looks like we are having a pulse again~"
+    player "哈，看来我们又有脉络了~"
 
 
 
-    g "Nipples... are kissing each other~~~~"
+    g "乳头......正在相互亲吻~~~~"
 
 
 
@@ -222,17 +222,17 @@ label pool_G.g_pool_1:
 
 
 
-    player "And here comes your favorite artificial respiration~"
+    player "你最喜欢的人工呼吸来了~"
 
 
 
     scene g_pool_1_18 with tstmgr
 
-    g "Wuuuuummmm~~~ auuuumm~~~ mummm~~ [P]... ... master... ..."
+    g "Wuuuuummmm~~~ auuuumm~~~ mummm~~ [P]... ... 主人... ..."
 
 
 
-    g "I am... back to life now~~~"
+    g "我现在......恢复了生命~~~"
 
 
 
@@ -252,31 +252,31 @@ label pool_G.g_pool_2:
 
     scene g_pool_2_1 with dissolve
 
-    player "Eh... come on, Uno, it’s time to get in the water."
+    player "呃......来吧，乌喏，是时候下水了."
 
 
 
-    g "Awwwww... It’s too cold... ..."
+    g "Awwwww... 真冷... ..."
 
 
 
     scene g_pool_2_2 with tstmgr
 
-    g "Let me just... get used to the water temperature first."
+    g "让我......先适应一下水温."
 
 
 
-    player "It's five minutes already..."
+    player "已经5分钟了..."
 
 
 
-    g "I know, but... ..."
+    g "我知道，但... ..."
 
 
 
     scene g_pool_2_3 with tstmgr
 
-    player "Alright, let me give you a hand~"
+    player "好吧，让我帮你一把~"
 
 
 
@@ -286,11 +286,11 @@ label pool_G.g_pool_2:
 
     scene g_pool_2_4 with tstmgr
 
-    "This... big ass... ..."
+    "这个... 大屁股... ..."
 
 
 
-    "It really makes people want to commit crimes for it~"
+    "它真的让人想为它犯罪~"
 
 
 
@@ -300,11 +300,11 @@ label pool_G.g_pool_2:
 
 
 
-    g "What are you doing?"
+    g "你在干什么?"
 
 
 
-    player "Eh... I’m helping you get in the water~"
+    player "Eh... 我在帮你进水啊~"
 
 
 
@@ -338,11 +338,11 @@ label pool_G.g_pool_2:
 
 
 
-    g "But why are you holding my butt and not letting it go?"
+    g "那为什么你一直抓着我的屁股不放?"
 
 
 
-    player "About that... ..."
+    player "这个嘛... ..."
 
 
 
@@ -362,7 +362,7 @@ label pool_G.g_pool_2:
 
 
 
-    g "Wuuuu~ I see what you are up to~~~"
+    g "Wuuuu~我知道你要干什么了~~~"
 
 
 
@@ -372,11 +372,11 @@ label pool_G.g_pool_2:
 
 
 
-    player "Ha~ Uno’s pussy is wet already~"
+    player "哈~乌喏的小穴已经湿了~"
 
 
 
-    g "Bad... bad master~~~"
+    g "坏... 坏主人~~~"
 
 
 
@@ -384,23 +384,11 @@ label pool_G.g_pool_2:
 
     $ flashlight()
 
-    player "Yam~ wam~~ am~~~~mmmmmmm~~~"
+    player "好吃~~ 好~~~~mmmmmmm~~~"
 
 
 
-    player "So delicious... ... So juicy... ..."
-
-
-
-    scene g_pool_2_13 with tstmgr
-
-    pause
-
-
-
-    scene g_pool_2_14 with tstmgr
-
-    pause
+    player "真好吃... ... 真多汁... ..."
 
 
 
@@ -416,11 +404,23 @@ label pool_G.g_pool_2:
 
 
 
-    g "Awwwwwww... ... Master’s slimy tongue... ... so good~~~~"
+    scene g_pool_2_13 with tstmgr
+
+    pause
 
 
 
-    g "I’m going to... I’m going to... ..."
+    scene g_pool_2_14 with tstmgr
+
+    pause
+
+
+
+    g "啊呜呜呜呜... ... 主人软糯的舌头... ... 真棒~~~~"
+
+
+
+    g "我要... 我要... ..."
 
 
 
@@ -428,7 +428,7 @@ label pool_G.g_pool_2:
     play sound cumshot
     $ flashlight()
 
-    g "Cumming~~~~~~~~~~"
+    g "射了~~~~~~~~~~"
 
 
 
@@ -438,7 +438,7 @@ label pool_G.g_pool_2:
 
 
 
-    "As a result, Uno didn’t go into the water until the end... ..."
+    "最终, 乌喏也没有下水... ..."
 
 
 

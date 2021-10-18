@@ -2,35 +2,35 @@ label bnb_livingroom_morning_A_1:
 
     scene bnb_livingroom_morning_a_1_1 with tstmgr
 
-    a "Thank you for joining me preparing the breakfast."
+    a "谢谢你和我一起准备早餐."
 
 
 
-    player "Not a problem. I'm happy to help you on anything."
+    player "小事儿.我很乐意在任何事情上帮助你."
 
 
 
-    a "You are too sweet."
+    a "你太甜了."
 
 
 
-    a "Now let's have breakfast together."
+    a "现在我们一起吃早餐吧."
 
 
 
-    player "Like a husband and wife, hah!"
+    player "就像夫妻一样,hah!"
 
 
 
     scene bnb_livingroom_morning_a_1_2 with tstmgr
 
-    a "What?"
+    a "什么?"
 
 
 
     scene bnb_livingroom_morning_a_1_3 with tstmgr
 
-    a "I... ... ... ..."
+    a "我............"
 
 
 

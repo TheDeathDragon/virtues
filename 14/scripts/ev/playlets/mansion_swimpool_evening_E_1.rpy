@@ -6,37 +6,37 @@ label mansion_swimpool_evening_E_1:
 
 
 
-    player "Wow... Aunt Elisa... What are you doing?"
+    player "Wow...伊莉莎阿姨...你在干什么?"
 
 
 
     scene mansion_swimpool_evening_e_1_2 with tstmgr
 
-    e "Shhhh... Theo is sleeping."
+    e "嘘...狄奥在睡觉."
 
 
 
-    "They seem to be both naked... Shit, it's too dark here. I can't see them clearly. What a pity!"
+    "她们似乎都一丝不挂...妈的,这里太黑了.我看不清楚.真遗憾!"
 
 
 
     scene mansion_swimpool_evening_e_1_3 with tstmgr
 
-    e "Sorry, [P]. Can you give us a moment? I haven’t been with Theo alone for a long time."
+    e "抱歉,[P].你能给我们一点时间吗?我很久没有单独和狄奥在一起了."
 
 
 
-    player "Oh, yeah, sure."
+    player "Oh,yeah,当然."
 
 
 
-    player "Have a good night, Aunt Elisa. I’m leaving right now."
+    player "晚安,伊莉莎阿姨.我现在就走."
 
 
 
     scene mansion_swimpool_evening_e_1_2 with tstmgr
 
-    e "(Nodding) Good night~"
+    e "(点头)晚安~"
 
 
 

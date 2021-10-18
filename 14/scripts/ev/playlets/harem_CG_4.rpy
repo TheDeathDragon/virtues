@@ -8,39 +8,39 @@ label harem_CG_4:
 
     scene harem_cg_4_1 with dissolve
 
-    g "Why are people all looking at us?"
+    g "为什么人们都在看我们?"
 
 
 
     scene harem_cg_4_2 with tstmgr
 
-    g "Are they attracted by Uno’s plump cuteness?"
+    g "他们是被乌诺的丰满可爱所吸引吗?"
 
 
 
-    c "Hmmmm... ... I think they are just curious about why a man can hold two beauties in his arms."
+    c "Hmmmm... ... 我想他们只是好奇，为什么一个男人可以抱着两个美女."
 
 
 
     scene harem_cg_4_3 with tstmgr
 
-    c "Does it make you feel good to show off us at the public?"
+    c "在公众面前炫耀我们，是不是让你感觉很爽?"
 
 
 
-    player "Eh... ... Just a little, ha~"
+    player "Eh... ... 有一点点吧, ha~"
 
 
 
     scene harem_cg_4_4 with tstmgr
 
-    c "Humph~ What a jerk~"
+    c "Humph~ 真是个笨蛋~"
 
 
 
     scene harem_cg_4_5 with tstmgr
 
-    player "And... I actually want to show off more... ..."
+    player "而且... 其实我还想再炫耀一下... ..."
 
 
 
@@ -48,33 +48,33 @@ label harem_CG_4:
 
     $ flashlight()
 
-    "Girls" "Ohhhhh~~~~"
+    "女孩们" "Ohhhhh~~~~"
 
 
 
-    player "Ah... ... Now it feels much better~"
+    player "Ah... ... 现在感觉好多了~"
 
 
 
     scene harem_cg_4_7 with tstmgr
 
-    g "Awww~ People are looking at you with hostility now... ..."
+    g "Awww~ 人们现在正以敌视的眼光看着你... ..."
 
 
 
     scene harem_cg_4_8 with tstmgr
 
-    g "Eh... hi, our master is actually a good man, please don’t be hostile to him."
+    g "Eh... 嗨，我们的主人其实是个好人，请不要对他有敌意."
 
 
 
-    c "You are making things worse, dumb girl..."
+    c "你让事情变得更糟了，蠢女孩..."
 
 
 
     scene harem_cg_4_9 with tstmgr
 
-    c "But whatever, he seems to enjoy it very much~"
+    c "但不管怎样，他似乎非常享受这种感觉~"
 
 
 

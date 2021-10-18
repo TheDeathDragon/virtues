@@ -8,25 +8,25 @@ label park_stroll_morning_D_2:
 
     scene park_stroll_morning_d_2_2 with tstmgr
 
-    d "Thanks for walking me to school, [P]~"
+    d "谢谢你送我来学校,[P]~"
 
 
 
-    d "Will you come and pick me up when I get off school?"
+    d "我放学时你来接我好吗?"
 
 
 
-    player "Do you want me to come?"
+    player "你想我来吗?"
 
 
 
-    d "Of course!~"
+    d "当然!~"
 
 
 
     scene park_stroll_morning_d_2_3 with tstmgr
 
-    d "I want all the people in school to see that I got a boyfriend now~"
+    d "我想让学校里所有的人都知道我现在有男朋友了~"
 
 
 
@@ -34,7 +34,7 @@ label park_stroll_morning_D_2:
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 

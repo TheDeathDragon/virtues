@@ -2,13 +2,13 @@ label A_action_sha_1:
 
     scene void with tstmgr
 
-    "Morning, in the cafe..."
+    "早上,在咖啡厅..."
 
 
 
     scene a_action_sha_1_1 with tstmgr
 
-    a "Ah, [P], you came again! What can I get for you?"
+    a "Ah,[P],你又来了!你想要点什么?"
 
 
 
@@ -19,24 +19,24 @@ label A_action_sha_1:
     label A_action_sha_1_choice_1:
 
     menu:
-        "Show me your breasts":
+        "让我看看你的胸" if True:
 
 
-            player "I want to give a kiss at your nude breasts, just like the last time~"
+            player "我想吻你的胸,就像上次一样~"
 
             scene a_action_sha_1_2 with tstmgr
 
-            a "Ah? What?"
+            a "Ah?什么?"
 
             scene a_action_sha_1_3 with tstmgr
 
-            a "(Blushed) ... ... ... ..."
+            a "(脸红)............"
 
-            player "Come on, Vera, there are no other people around, don’t be shy..."
+            player "来吧,薇拉,周围没有其他人,别害羞..."
 
             scene a_action_sha_1_4 with tstmgr
 
-            a "O... okay, but only for 5 seconds..."
+            a "O...okay,但只有5秒钟..."
 
             scene a_action_sha_1_5 with tstmgr
 
@@ -46,51 +46,51 @@ label A_action_sha_1:
 
             pause
 
-            player "Perfect~"
+            player "完美~"
 
             scene a_action_sha_1_7 with tstmgr
 
-            player "Come here, v..."
+            player "过来,薇..."
 
             a "Awwwwww~~~~~~"
 
-            a "We shouldn’t do this in the public area. It’s so... ..."
+            a "我们不应该在公共场所这样做.这太......"
 
             scene a_action_sha_1_8 with tstmgr
 
-            player "So excited, right?"
+            player "很刺激,对吧?"
 
             a "No!~~~"
 
             scene a_action_sha_1_9 with tstmgr
 
-            "Someone suddenly entered the cafe. It was a guest."
+            "突然有人走进了咖啡馆.是位客人."
 
             a "Oh, damn!"
 
-            "Guest" "Ehhh... anyone?"
+            "客人""Ehhh...有人吗?"
 
-            a "I’m coming right now, sorry!"
+            a "对不起,我马上就来!"
 
-            player "Why so rush?"
+            player "为什么这么着急?"
 
             scene a_action_sha_1_10 with tstmgr
 
-            "I suddenly bit on her nipple and she made a lustful moaning."
+            "我突然咬住她的乳头,她发出一声销魂的呻吟."
 
-            a "Ohhhhhh~~~~ my nipple~~~~ stop~~~"
+            a "Ohhhhhh~~~~我的乳头~~~~停~~~"
 
-            a "The guest... is waiting... ..."
+            a "客人...还在等着......"
 
             scene void with tstmgr
 
-            "Vera then pushed me away, lifted up her dress, and ran away from me awkwardly."
-        "Lift your skirt up":
+            "然后薇拉推开我,整理好衣服,尴尬地从我身边跑开了."
+        "把你的裙子撩起来" if True:
 
 
 
 
-            player "Did you wear the underwear that I bought you last week?"
+            player "你穿了我上周给你买的内衣吗?"
 
             scene a_action_sha_1_2 with tstmgr
 
@@ -98,25 +98,25 @@ label A_action_sha_1:
 
             scene a_action_sha_1_3 with tstmgr
 
-            a "(Nodding with blushed face) ... ... ... ..."
+            a "(红着脸点头)............"
 
-            player "Can I see it?"
+            player "我能看看吗?"
 
             scene a_action_sha_1_2 with tstmgr
 
-            a "See it? What do you mean?"
+            a "看看?你是什么意思?"
 
-            player "I mean... can you lift your skirt up?"
+            player "我的意思是...你能把裙子撩起来吗?"
 
-            a "What? No!"
+            a "什么?No!"
 
-            player "Come on, Vera, there are no other people around, don’t be shy..."
+            player "来吧,薇拉,周围没有其他人,别害羞..."
 
             scene a_action_sha_1_3 with tstmgr
 
             a "... ... ... ..."
 
-            a "Fine... ... ... ..."
+            a "好吧............"
 
             scene a_action_sha_1_11 with tstmgr
 
@@ -126,43 +126,43 @@ label A_action_sha_1:
 
             pause
 
-            player "Perfect~"
+            player "完美~"
 
-            a "It’s so... embarrassing. Why did you give me this transparent underwear?"
+            a "这太...尴尬了.你为什么给我买这么透明的内裤?"
 
-            player "It’s sexy, isn’t it?"
+            player "很性感,不是吗?"
 
-            a "I hate you~"
+            a "讨厌你~"
 
-            "Someone suddenly entered the cafe. It was a guest."
+            "突然有人走进了咖啡馆.是位客人."
 
             scene a_action_sha_1_15 with tstmgr
 
             a "Oh, damn!"
 
-            "Guest" "Ehhh... anyone?"
+            "客人""Ehhh...有人吗?"
 
-            a "I’m coming right now, sorry!"
+            a "对不起,我马上就来!"
 
             scene a_action_sha_1_13 with tstmgr
 
-            player "Why so rush?"
+            player "为什么这么着急?"
 
-            "I suddenly touched her pussy with my hand."
+            "我突然用手摸了摸她的小穴."
 
-            a "Ohhhhhhh~~~~ Stop~~~~~"
+            a "Ohhhhhhh~~~~停~~~~~"
 
-            a "The guest... ... is waiting... ..."
+            a "客人......还在等着......"
 
             scene a_action_sha_1_14 with tstmgr
 
-            player "But your wet pussy doesn’t want me to leave yet~"
+            player "但你的小穴还不想让我离开~"
 
-            a "I... I don’t have time for this..."
+            a "我...我没时间做这些..."
 
             scene void with tstmgr
 
-            "Vera then lifted down her skirt and ran away from me awkwardly."
+            "然后薇拉放下裙子,尴尬地从我身边跑开."
 
 
 

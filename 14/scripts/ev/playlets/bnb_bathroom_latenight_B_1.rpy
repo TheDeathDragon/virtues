@@ -2,15 +2,15 @@ label bnb_bathroom_latenight_B_1:
 
     scene bnb_bathroom_latenight_b_1_1 with tstmgr
 
-    b "Thanks for letting me use your bathroom."
+    b "谢谢你让我用你的浴室."
 
 
 
-    player "You are always welcome."
+    player "随时欢迎."
 
 
 
-    player "It's late, you can stay here for a night if you want."
+    player "现在很晚了,如果你愿意,可以在这里住一晚."
 
 
 
@@ -20,33 +20,33 @@ label bnb_bathroom_latenight_B_1:
 
 
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    player "You can sleep in my... ..."
+    player "你可以睡在我的......"
 
 
 
-    a "Cough, cough."
+    a "咳嗽,咳嗽."
 
 
 
     scene bnb_bathroom_latenight_b_1_3 with tstmgr
 
-    a "Senning can sleep with me."
+    a "森柠可以和我一起睡."
 
 
 
     scene bnb_bathroom_latenight_b_1_4 with tstmgr
 
-    b "Yeah, I'd love to."
+    b "Yeah,我非常乐意."
 
 
 
     scene bnb_bathroom_latenight_b_1_5 with tstmgr
 
-    a "Come with me, I'll show you the room. We can have girl's talk all night."
+    a "跟我来,我带你去房间.我们可以聊一整夜女生之间的事."
 
 
 
@@ -56,7 +56,7 @@ label bnb_bathroom_latenight_B_1:
 
 
 
-    player "Okay then... ..."
+    player "好吧......"
 
 
 
