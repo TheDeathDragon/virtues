@@ -1,8 +1,8 @@
 label dungeon_A:
     menu:
-        "Get her on the wooden horse":
+        "把她弄到木马上":
             jump dungeon_A.a_dungeon_1
-        "Cuff her on the bed":
+        "把她铐在床上":
 
             jump dungeon_A.a_dungeon_2
 
@@ -18,35 +18,35 @@ label dungeon_A.a_dungeon_1:
 
     scene a_dungeon_1_1 with dissolve
 
-    a "This is... too creepy... ... I have only seen a wooden horse from a movie before."
+    a "这......太令人毛骨悚然了......我以前只见过电影中的木马."
 
 
 
     scene a_dungeon_1_2 with tstmgr
 
-    player "What was that movie about?"
+    player "那部电影是关于什么的?"
 
 
 
-    a "War... spy... sort of things... ..."
+    a "战争...间谍...一类的事情... ..."
 
 
 
-    player "Oh, so the bad guys in the movie torture the spy with a wooden horse?"
+    player "哦，所以电影中的坏人用木马来折磨间谍?"
 
 
 
-    a "Yeah, something like that."
+    a "是的，类似这样的事情."
 
 
 
-    a "The spy never said the secret information out though. That’s a really tough guy."
+    a "虽然这个间谍从来没有把秘密信息说出来.那是一个非常顽强的人."
 
 
 
     scene a_dungeon_1_3 with tstmgr
 
-    a "Oh, wait, I can actually play as a spy right now and you can play as a torturer~"
+    a "哦，等等，其实我现在可以扮演一个间谍，你可以扮演一个尻问者~"
 
 
 
@@ -56,7 +56,7 @@ label dungeon_A.a_dungeon_1:
 
     scene a_dungeon_1_4 with tstmgr
 
-    player "Sounds... interesting, let’s try~"
+    player "听起来......很有趣，让我们试试吧~"
 
 
 
@@ -66,27 +66,11 @@ label dungeon_A.a_dungeon_1:
 
 
 
-    player "Now talk, you evil spy, or I’ll torture you to death!~"
+    player "现在开始说话吧，你这个邪恶的间谍，否则我将折磨你到死!~"
 
 
 
-    a "Yaaah~~~ I’m so scared but I’m not going to tell you anything~"
-
-
-
-    player "... ... ... ..."
-
-
-
-    player "Okay, seriously, you can’t be a spy at all. Just look at the way you shake your ass... ... No spy would do that~"
-
-
-
-    a "I’m a... horny spy~~~"
-
-
-
-    a "I feel so excited when Mr. Torturer touches me and I cannot stop shaking my ass... ..."
+    a "Yaaah~~~ 我很害怕，但我不打算告诉你任何事情~"
 
 
 
@@ -94,7 +78,23 @@ label dungeon_A.a_dungeon_1:
 
 
 
-    player "Alright, let’s eh..."
+    player "好吧，说真的，你根本不可能是个间谍.看看你摇晃屁股的样子......没有间谍会这么做~"
+
+
+
+    a "我是一个... 好色的间谍~~~"
+
+
+
+    a "当尻问者先生抚摸我时，我感到非常兴奋，我无法停止摇晃我的屁股... ..."
+
+
+
+    player "... ... ... ..."
+
+
+
+    player "好吧，让我们来看看..."
 
 
 
@@ -104,35 +104,35 @@ label dungeon_A.a_dungeon_1:
 
 
 
-    player "How about this, huh?"
+    player "这个怎么样，嗯?"
 
 
 
-    a "Ohhhhhhhh~~~ The wooden horse is... rubbing my pussy so hard... ..."
+    a "Ohhhhhhhh~~~ 木马在......用力摩擦我的小穴... ..."
 
 
 
-    a "My tits... are shaking like two sandbags~~~~"
+    a "我的奶子......像两个沙袋一样在颤抖~~~~"
 
 
 
-    a "I'm so shameless and this is... so good~~"
+    a "我真是个毫无廉耻的女人，这真是......太好啦~~"
 
 
 
-    player "This is definitely not torture... ... but whatever~"
+    player "这绝对不是酷刑.... ...但不管怎样~"
 
 
 
-    a "Mr. Torturer~ I’m willing to tell you everything~"
+    a "尻问者先生~我愿意告诉你一切~"
 
 
 
-    a "Just bring me more pleasure, more~~ more~~~ ohhhh~~~~"
+    a "只要给我带来更多的快乐，更多~~更多~~~ ohhhh~~~~"
 
 
 
-    a "I’m going to be orgasmed by a wooden horse~~~ This horny spy is going to be orgasmed by a wooden horse~~~~"
+    a "我将被一匹木马推向高潮~~~这个好色的间谍将被一匹木马推向高潮~~~~"
 
 
 
@@ -144,21 +144,21 @@ label dungeon_A.a_dungeon_1:
 
 
 
-    a "The horny maid spy is cumming~~~~"
+    a "好色的女佣间谍正在高潮~~~~"
 
 
 
-    player "Oh my... ... Your fluid just splashed all over my body~"
+    player "哦，我的......你的爱液溅到了我的身体上~"
 
 
 
     scene a_dungeon_1_8 with tstmgr
 
-    player "I guess you will be a better sex slave than a spy~"
+    player "我想你会是一个比间谍更好的性奴~"
 
 
 
-    a "I thought... I was... your sex slave... already..."
+    a "我以为... 我已经是...你的性奴...已经是了..."
 
     scene void with tstmgr
 
@@ -176,21 +176,21 @@ label dungeon_A.a_dungeon_2:
 
     scene a_dungeon_2_1 with dissolve
 
-    a "Did you tie me up because you are afraid that I will run away?"
+    a "你把我绑起来是因为你怕我跑掉吗?"
 
 
 
     scene a_dungeon_2_2 with tstmgr
 
-    a "I won’t run away~ This place freaks me out, but still, I won’t run away because you are here with me~"
+    a "我不会逃跑~这个地方让我感到害怕，但我仍然不会逃跑，因为你在这里陪着我~"
 
 
 
-    a "I will always... run towards you~"
+    a "我将永远......奔向你~"
 
 
 
-    player "My good girl... ..."
+    player "我的好姑娘... ..."
 
 
 
@@ -204,31 +204,31 @@ label dungeon_A.a_dungeon_2:
 
 
 
-    "Vera’s hands were restrained, but it made her huge boobs wave even more violently."
+    "薇拉的手被限制住了，但这使她巨大的胸部更剧烈地波动起来."
 
 
 
-    "They are celebrating my penetration~"
+    "它们正在庆祝我的穿透~"
 
 
 
-    player "Do you love to be fucked like this, horny maid?"
+    player "你喜欢这样被操吗，色女仆?"
 
 
 
-    player "Couldn't do anything... couldn't even move your hands... ... can only stay here and play as your master's erotic tool."
+    player "不能做任何事......甚至不能移动你的手......只能呆在这里，扮演你主人的飞机杯."
 
 
 
-    a "Uwwwww~~~ Sounds... so pathetic... ..."
+    a "Uwwwww~~~ 听起来......太可怜了... ..."
 
 
 
-    a "Except... ... my master is you~ so... no pathetic at all~"
+    a "除了......我的主人是你~所以......一点也不可怜~"
 
 
 
-    player "Oh my submissive girl... ..."
+    player "哦，我顺从的女孩... ..."
 
 
     stop sound
@@ -238,23 +238,23 @@ label dungeon_A.a_dungeon_2:
 
 
 
-    a " I don't like to serve people, but for you, I can serve you in every way you want just to make you happy~"
+    a " 我不喜欢为人服务，但为了你，我可以以各种方式为你服务，只是为了让你高兴。~"
 
 
 
-    a "That’s all because I love you~"
+    a "这都是因为我爱你~"
 
 
 
-    a "I love you so I... ... awwwww~~~~ this dick~~~ yes~~~"
+    a "我爱你，所以我......wwwww~~~~ 这个家伙~~~是的~~~"
 
 
 
-    a "More... hit me more with it... ... your big dick~~ ohhhhhh~~~"
+    a "更多......用它来打我......你的大鸡巴~~ ohhhhhh~~~"
 
 
 
-    a "Make me... more dependent on your dick~~~~~"
+    a "让我......更依赖你的大鸡巴~~~~~"
 
 
 
@@ -262,7 +262,7 @@ label dungeon_A.a_dungeon_2:
 
 
 
-    a "I’m cumming!!~~~~~"
+    a "我射了!!~~~~~"
 
 
     stop sound
@@ -280,43 +280,43 @@ label dungeon_A.a_dungeon_2:
 
     scene a_dungeon_2_6 with tstmgr
 
-    a "Another... memorable experience... ..."
+    a "另一个......难忘的经历... ..."
 
 
 
     scene a_dungeon_2_7 with tstmgr
 
-    a "*Sniffing, sniffing* ... ... ... ..."
+    a "*嗅嗅，嗅嗅* ... ... ... ..."
 
 
 
     scene a_dungeon_2_8 with tstmgr
 
-    a "Wait, is this sheet even clean?"
+    a "等等，这张床单是干净的吗?"
 
 
 
-    player "Eh... ... I think... ..."
+    player "Eh... ... 应该... ..."
 
 
 
     scene a_dungeon_2_9 with tstmgr
 
-    a "Sigh, nevermind, the floor looks dirty too, I’m going to give this room a spring-cleaning~"
+    a "叹了口气，算了，地板看起来也很脏，我打算给这个房间来个春季大扫除~"
 
 
 
     scene a_dungeon_2_10 with tstmgr
 
-    a "And what do you want for dinner again?"
+    a "你晚餐想吃什么呢?"
 
 
 
-    player "Eh... whatever you make... ..."
+    player "Eh... 你做的就行... ..."
 
 
 
-    "It looks like she has switched from the sex slave mode to the housewife mode immediately after sex... ..."
+    "看起来她在做爱后立即从性奴模式转换为家庭主妇模式... ..."
 
 
 

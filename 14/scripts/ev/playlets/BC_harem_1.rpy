@@ -2,21 +2,21 @@ label BC_harem_1:
 
     scene void with tstmgr
 
-    "In the basement of my house... ..."
+    "在我房子的地下室... ..."
 
 
 
     scene bc_harem_1_1 with dissolve
 
-    b "Can I ask a question, Miss Theodora?"
+    b "我可以问一个问题吗，狄奥多拉小姐?"
 
 
 
-    c "Sure, what is it?"
+    c "当然，什么?"
 
 
 
-    b "I heard that you are very good at swim, but... your breasts... ... won’t they be obstacles of swimming?"
+    b "我听闻你是一名游泳健将，但是......你的乳房......在你游泳的时候会成为一个不小的障碍吗?"
 
 
 
@@ -26,17 +26,17 @@ label BC_harem_1:
 
     scene bc_harem_1_2 with tstmgr
 
-    c "Do you want to feel them in water?"
+    c "你愿意在水中获得他的触感吗?"
 
 
 
     scene bc_harem_1_3 with tstmgr
 
-    b "Awww? Can I?"
+    b "Awww? 我可以吗?"
 
 
 
-    c "Yeah, come on~"
+    c "Yeah, 来吧~"
 
 
 
@@ -46,17 +46,17 @@ label BC_harem_1:
 
     scene bc_harem_1_4 with tstmgr
 
-    b "Wow... ... they are actually lighter than I thought."
+    b "Wow... ... 他们比我想象的要轻很多."
 
 
 
-    c "Yeah, the buoyancy makes things easier for us. Everything is lighter in water~"
+    c "Yeah, 浮力帮助吾等漂浮于水面之上. 万物在水中都能找到自己的归宿~"
 
 
 
     scene bc_harem_1_5 with tstmgr
 
-    c "You should touch your boobs yourself and feel the magic of water."
+    c "你应该亲触你的胸部，感受水之魔力."
 
 
 
@@ -64,17 +64,17 @@ label BC_harem_1:
 
 
 
-    c "The feeling of touching boobs in the water is very different from doing it on land, right?~"
+    c "在水中摸胸的感觉与在陆地上摸胸的感觉非常不同，对吗?~"
 
 
 
     scene bc_harem_1_6 with tstmgr
 
-    b "Yes... it feels... lighter... softer... and tenderer... ..."
+    b "Yes... 这感觉... 轻... 软... 且弹... ..."
 
 
 
-    c "Don’t get addicted to this feeling~"
+    c "莫要沉迷于此~"
 
 
 
