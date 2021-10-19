@@ -3,49 +3,49 @@ label AB_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, in Senning’s room..."
+    "下午，在森柠的房间里..."
 
 
 
     scene ab_duo_2_1 with dissolve
 
-    "Lady Minna" "What are you looking at?"
+    "明娜女士" "你在看什么?"
 
 
 
-    b "I’m trying to search for some tips of how to do houseworks... ..."
+    b "我试图寻找一些关于如何做家务的技巧... ..."
 
 
 
-    "Lady Minna" "Why would you do that?"
+    "明娜女士" "你为什么要这样做?"
 
 
 
     scene ab_duo_2_2 with tstmgr
 
-    b "Emmmm? You said [P] would prefer a girl with better housework skill."
+    b "Emmmm? 你说[P]更喜欢有更好家务技能的女孩."
 
 
 
     scene ab_duo_2_3 with tstmgr
 
-    "Lady Minna" "Yeah, but... ..."
+    "明娜女士" "对，但... ..."
 
 
 
     scene ab_duo_2_4 with tstmgr
 
-    "Lady Minna" "Okay, girl, today let mama teach you one thing or two about how to do houseworks appropriately."
+    "明娜女士" "好了，女孩，今天让妈妈教你一两件关于如何适当做家务的事吧."
 
 
 
-    b "But you said you don’t know anything about housework?"
+    b "但你说你对家务事一无所知?"
 
 
 
     scene ab_duo_2_5 with tstmgr
 
-    "Lady Minna" "Actually I realized that I do know one thing about it, and I’m going to teach you now~"
+    "明娜女士" "事实上，我意识到我确实知道一件事，我现在要教你了~"
 
 
 
@@ -55,41 +55,41 @@ label AB_duo_2:
 
 
 
-    "Sometime later... ..."
+    "稍后的某个时间... ..."
 
 
 
     scene ab_duo_2_6 with dissolve
 
-    b "Ma... mama? What is this?"
+    b "妈... 妈妈? 这是什么?"
 
 
 
-    "Lady Minna" "As you see, wearing an apron is the first step to do housework~"
+    "明娜女士" "正如你所看到的，穿上这个围裙是做家务的第一步~"
 
 
 
     scene ab_duo_2_7 with tstmgr
 
-    b "I get it, but... ... only an apron?"
+    b "我明白了，但是......只有一条围裙?"
 
 
 
-    "Lady Minna" "Yep, that’s right, naked in apron, the deadly weapon to every straight male on earth~"
+    "明娜女士" "是的，没错，果体围裙，对于所有直男的必杀技~"
 
 
 
-    "Lady Minna" "All you need is to dress like this and walk around him and he will do everything you ask~"
+    "明娜女士" "你只需要穿成这样，在他身边略微走动，他就会对你言听计从~"
 
 
 
     scene ab_duo_2_8 with tstmgr
 
-    b "But... how am I going to do the housework with it?"
+    b "但是......我怎么能用它来做家务呢?"
 
 
 
-    "Lady Minna" "Oh yeah, you should pretend to clean the table or something so you can bend down your body and show him your beautiful butt~"
+    "明娜女士" "哦，对了，你应该假装擦桌子什么的，这样你就可以弯下身子，向他展示你美丽的屁股了~"
 
 
 
@@ -99,11 +99,11 @@ label AB_duo_2:
 
 
 
-    b "So you are not really teaching me anything about doing the housework..."
+    b "所以你并没有真正教我做家务..."
 
 
 
-    "Lady Minna" "I’m teaching you the wisdom of life, you are welcome, girl~"
+    "明娜女士" "我在教你生活的智慧，不用谢，姑娘~"
 
 
 
@@ -113,7 +113,7 @@ label AB_duo_2:
 
 
 
-    b "Wisdom of life... ..."
+    b "生命的智慧... ..."
 
 
 
@@ -123,35 +123,35 @@ label AB_duo_2:
 
 
 
-    "Later, in [P]’s house..."
+    "后来，在[P]的家里..."
 
 
 
     scene ab_duo_2_11 with dissolve
 
-    b "So basically, you just need to dress like this and walk around him, and he will be so pleased, I guess... ..."
+    b "所以基本上，只需要穿成这样，在他身边走动，他就会很高兴，我猜... ..."
 
 
 
-    b "At least that was what I have been taught."
+    b "至少我是这样被教导的."
 
 
 
-    "Lady Minna will probably get angry if she knows her daughter just generously shared her ‘wisdom of life’ with an ‘opponent’, but well, this is exactly something Senning would do~"
+    "明娜女士如果她知道她的女儿刚刚慷慨地与一个 ‘对手’ 分享了她的 ‘生活智慧’，她可能会很生气，但是，这正是森柠会做的事情~"
 
 
 
-    "Senning has taken Vera as a good friend and she always shares everything good she has with friends."
+    "森柠把薇拉当成了好朋友，她总是和朋友分享她的一切好东西."
 
 
 
-    a "But how am I going to do the housework with it?"
+    a "但我怎么能用它来做家务呢?"
 
 
 
     scene ab_duo_2_12 with tstmgr
 
-    b "Maybe... it’s not really important."
+    b "也许...这并不重要."
 
 
 
@@ -163,75 +163,75 @@ label AB_duo_2:
 
     scene ab_duo_2_14 with tstmgr
 
-    a "So basically this is just a sexy lingerie."
+    a "所以基本上这只是一件性感内衣."
 
 
 
-    a "I don’t know if it suits me... ... I mean, it looks better on you because you have tenderer skin. The apron makes you look like an angel."
+    a "我不知道它是否适合我......我的意思是，它在你身上看起来更好，因为你的皮肤更嫩.围裙让你看起来像个天使."
 
 
 
     scene ab_duo_2_15 with tstmgr
 
-    a "But it just makes me look like a horny maid... ..."
+    a "但这只是让我看起来像一个好色的女仆... ..."
 
 
 
     scene ab_duo_2_16 with tstmgr
 
-    b "That’s so not true, you look so lovely in this apron~"
+    b "这不是真的，你穿上这条围裙很可爱~"
 
 
 
     scene ab_duo_2_17 with tstmgr
 
-    a "Thanks for saying that... ... and thanks for giving me this apron anyway~"
+    a "谢谢你这么说......也谢谢你送我这条围裙~"
 
 
 
-    b "You are welcome~"
+    b "不客气~"
 
 
 
     scene ab_duo_2_18 with tstmgr
 
-    b "By the way... are you feeling itchy right now?"
+    b "顺便说一下......你现在是否感觉很痒?"
 
 
 
     scene ab_duo_2_19 with tstmgr
 
-    a "Eh... no? You are?"
+    a "Eh... 不? 你有吗?"
 
 
 
     scene ab_duo_2_20 with tstmgr
 
-    b "Yeah, it’s weird... maybe the apron is made by some rough material?"
+    b "是的，这很奇怪......也许围裙是由一些粗糙的材料制成的?"
 
 
 
-    a "Or maybe you are allergic with this material?"
+    a "或者是你对这种材料过敏?"
 
 
 
-    b "Allergy? I never knew I was allergic to anything... ... Oh dear, I think you are right! My skin is getting red!"
+    b "过敏?我从来不知道我对什么过敏......哦，亲爱的，我想你是对的! 我的皮肤变红了!"
 
 
 
     scene ab_duo_2_21 with tstmgr
 
-    b "Can I use the bathroom? I think I need to take this apron off and wash my body before things get worse!"
+    b "我可以用卫生间吗?我觉得我需要脱下这条围裙，在事情变得更糟之前清洗我的身体!"
 
 
 
-    a "Oh, yeah, of course."
+    a "哦，是的，当然."
 
 
 
     scene ab_duo_2_22 with tstmgr
 
-    b "*Running to the bathroom* Thanks!"
+    b "*奔向浴室* Thanks!"
 
 
 
@@ -241,7 +241,7 @@ label AB_duo_2:
 
     scene ab_duo_2_23 with tstmgr
 
-    a "I hope she is okay... ..."
+    a "我希望她一切都好... ..."
 
 
 
@@ -255,33 +255,33 @@ label AB_duo_2:
 
 
 
-    player "I'm home~"
+    player "我回来了~"
 
 
 
     scene ab_duo_2_24 with dissolve
 
-    a "Ah, welcome back."
+    a "Ah,欢迎回来."
 
 
 
-    player "Wow! What the... ..."
+    player "Wow!天啊... ..."
 
 
 
     scene ab_duo_2_25 with tstmgr
 
-    a "Oh, this? This apron is a gift from Senning, right now she is... ..."
+    a "哦，这个?这条围裙是森柠送的礼物，现在她正在... ..."
 
 
 
     scene ab_duo_2_26 with tstmgr
 
-    player "It looks so beautiful on you, Vera~"
+    player "你穿起来真漂亮，薇拉~"
 
 
 
-    player "A naked housewife in apron... ... This is the thing that every man wants to see the most when he arrives home after a day’s work."
+    player "穿着围裙的裸体家庭主妇......这是每个男人在结束一天的工作回到家时最想看到的东西."
 
 
 
@@ -293,15 +293,15 @@ label AB_duo_2:
 
     scene ab_duo_2_28 with tstmgr
 
-    a "Senning did say that you will be happy to see me wearing this... ..."
+    a "森柠说过，看到我穿这个，你会很高兴。... ..."
 
 
 
-    a "But be careful, I have food in the pan."
+    a "但要小心，我的锅里有食物."
 
 
 
-    player "*Concentrating on caressing* My lovely girl in apron~"
+    player "*专注于爱抚*我可爱的穿围裙的女孩~"
 
 
 
@@ -309,67 +309,67 @@ label AB_duo_2:
 
 
 
-    a "(Now I get why Senning said it is not important to do housework while wearing this... ...)"
+    a "(现在我明白为什么森柠说穿这个做家务不重要了... ...)"
 
 
 
-    a "(Right now I think I’ll just... try to focus on my food... ...)"
+    a "(现在，我想我只是......试着专注于我的食物... ...)"
 
 
 
-    "5 minutes later..."
+    "10 minutes later..."
 
 
 
     scene ab_duo_2_29 with dissolve
 
-    a "The food is... getting burnt... ..."
+    a "食物......要烧焦了... ..."
 
 
 
-    a "I... can’t... ..."
+    a "我... 不能... ..."
 
 
 
-    player "Vera~~"
+    player "薇拉~~"
 
 
 
     scene ab_duo_2_30 with tstmgr
 
-    a "Stop... rubbing your dick against my butt through your pants~~~"
+    a "停下......隔着裤子用你的鸡巴摩擦我的屁股~~~"
 
 
 
-    a "Awwwwww~~~ You are ruining our dinner~~~"
+    a "呜呜呜~~~你毁了我们的晚餐~~~"
 
 
 
     scene ab_duo_2_31 with tstmgr
 
-    player "It’s okay~ I can just eat you up~"
+    player "没事的~我可以把你吃掉~"
 
 
 
     scene ab_duo_2_32 with tstmgr
 
-    a "Awwwwwwwww... ... Senning... where are you... ... This man is totally out of control... ..."
+    a "Awwwwwwwww... ... 森柠... 你在哪... ... 这个男人要失去控制了... ..."
 
 
 
-    player "*Immersing in creating love bits on Vera’s neck* ... ... ... ..."
+    player "*在维拉的脖子上种下爱的碎片* ... ... ... ..."
 
 
 
     scene ab_duo_2_33 with tstmgr
 
-    a "At least... let me... ..."
+    a "至少...让我... ..."
 
 
 
     scene void with tstmgr
 
-    "Vera turned off the gas stove at the last moment before she completely lost herself in lust."
+    "薇拉在完全迷失在情欲中之前的最后一刻关掉了煤气灶."
 
 
 
@@ -377,31 +377,31 @@ label AB_duo_2:
 
 
 
-    "Sometime later... ..."
+    "一段时间后... ..."
 
 
 
-    "After cleaning herself carefully for more than 10 minutes, Senning finally made sure that she didn’t really have an allergy."
+    "仔细清洗了10多分钟后，森柠终于确定自己不是真的过敏了."
 
 
 
-    "Her skin got red only because her skin is too tender to bear with the rough material of the apron."
+    "她的皮肤变红了，只是因为她的皮肤太嫩，无法承受围裙的粗糙材料."
 
 
 
     scene ab_duo_2_34 with dissolve
 
-    b "Good news, Vera~ I’m not really having an allergy!~"
+    b "好消息，维拉~我不是真的过敏了!~"
 
 
 
-    a "*Moaning* Ahhh~~ hhh~~ Yes~~ hhhhh~~~ [P]~~~~"
+    a "*娇喘* Ahhh~~ hhh~~ Yes~~ hhhhh~~~ [P]~~~~"
 
 
 
     scene ab_duo_2_35 with tstmgr
 
-    b "Awwwwww?"
+    b "??????"
 
 
 
@@ -411,31 +411,31 @@ label AB_duo_2:
 
 
 
-    a "My fluid... ... Awww~~ I wish it won’t splash into my pan... ..."
+    a "我的爱液......Awww~~我希望它不会溅到我的锅里... ..."
 
 
 
-    player "In that way we will have a pan of love juice soup?~ Yes~~ I want to have as much of your love juice as I can~"
+    player "这样我们就可以喝到一锅爱的汁液了~ohh yea~~我想尽可能多地喝到你的爱的汁液~"
 
 
 
-    a "Huh~~~ ahhhh~~~ You are crazy~~~~ awwwwwwwwwwww~~~"
+    a "Huh~~~ ahhhh~~~ 你真是疯狂~~~~ awwwwwwwwwwww~~~"
 
 
 
-    "Vera’s pussy was extremely wet today, I wonder if it was because this was the first time she gets fucked in the kitchen..."
+    "薇拉的阴部今天非常湿润，我不知道是不是因为这是她第一次在厨房里被操..."
 
 
 
-    "Or maybe it was because she was becoming aware of the pleasure of having sex in an apron."
+    "也可能是因为她开始意识到穿着围裙做爱的乐趣."
 
 
 
-    a "So... so good~~ Ohhhhhh~~~ [P]~~~"
+    a "真... 真好~~ Ohhhhhh~~~ [P]~~~"
 
 
 
-    a "I wish Senning is here with us too~~~~~"
+    a "我希望森柠也能和我们在一起~~~~~"
 
 
 
@@ -453,35 +453,35 @@ label AB_duo_2:
 
 
 
-    a "[P]~~~ [P]~~~ Did I really help you relieve your stress? Are you feeling better now?"
+    a "[P]~~~ [P]~~~ 我真的帮助你缓解了压力吗?你现在感觉好些了吗？?"
 
 
 
-    player "You can’t even imagine~"
+    player "你甚至无法想象~"
 
 
 
-    a "I’m so happy that I can help~~"
+    a "我很高兴能帮上忙~~"
 
 
 
-    a "I am... ohhhh... soo good~~~~~~~"
+    a "我......哦......好极了~~~~~~~"
 
 
 
-    a "Love you~~~ Owwww~~~ My body is shaking~~~~"
+    a "爱你~~~呜呜~~~我的身体在颤抖~~~~"
 
 
 
-    player "Ah shit, I am about to cum!"
+    player "啊，该死，我就要射了!"
 
 
 
-    a "Please cum inside me~ Your humble housewife wants your cum for today’s dinner~~~"
+    a "请在我体内射精吧~卑微的家庭主妇想让你的精液作为今天的晚餐~~~"
 
 
 
-    player "It won't really get into your stomach, but whatever~~~ Take my cum, Vera!"
+    player "它不会真正进入你的胃，但不管怎样~~~接住我的精液，维拉!"
 
 
     stop sound
@@ -493,7 +493,7 @@ label AB_duo_2:
 
 
 
-    "Vera and I came heavily. Our fluid sprayed everywhere on the floor... ..."
+    "薇拉和我重重地一起高潮了。我们的液体在地板上喷得到处都是... ..."
 
 
 
@@ -503,25 +503,25 @@ label AB_duo_2:
 
     scene ab_duo_2_39 with dissolve
 
-    player "That was awesome, Vera~"
+    player "这真是太棒了，维拉~"
 
 
 
-    a "You are awsome... my love~~~ Welcome home"
+    a "你真了不起...我的爱人~~~欢迎回家"
 
 
 
-    player "My love... ..."
+    player "我的爱人... ..."
 
 
 
-    player "Now take a breath, I’ll go get a mop and clean the floor."
+    player "现在喘口气，我去拿拖把扫地."
 
 
 
     scene void with tstmgr
 
-    "I then left the kitchen... ..."
+    "然后我离开了厨房... ..."
 
 
 
@@ -535,10 +535,10 @@ label AB_duo_2:
 
 
 
-    a "His sperm... can't stop dropping out of my pussy... ..."
+    a "他的精子......不停地从我的阴道里滴出来... ..."
 
 
-    a "How much did he cum inside me exactly?"
+    a "他到底在我体内射了多少?"
 
 
 
@@ -548,23 +548,23 @@ label AB_duo_2:
 
 
 
-    b "Are you... okay?"
+    b "你是否......还好?"
 
 
 
     scene ab_duo_2_42 with tstmgr
 
-    a "Senning~~~"
+    a "森柠~~~"
 
 
 
-    a "You were... so right about the apron... ..."
+    a "你......对围裙的看法非常正确... ..."
 
 
 
     scene ab_duo_2_43 with tstmgr
 
-    a "It is indeed... a great thing for a housewife~"
+    a "这的确是......对家庭主妇来说是件好事~"
 
 
 
@@ -574,7 +574,7 @@ label AB_duo_2:
 
     scene ab_duo_2_44 with tstmgr
 
-    b "I’ll try it on my own next time... ..."
+    b "下次我将自己尝试一下... ..."
 
 
 
