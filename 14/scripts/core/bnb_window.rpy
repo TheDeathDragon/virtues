@@ -12,9 +12,9 @@ default bnb = Bnb("Agang's Harbor")
 init python:
 
     Room.type_names = {
-        "basic": "Guest Bedrooms",
-        "private": "Main Bedrooms",
-        "facility": "Public Areas"
+        "basic": "客房",
+        "private": "主卧",
+        "facility": "公共区域"
     }
 
     Room("basic", "basic_room", "gui/action/basic.png", revenue=100.0, expanse=.0, cost=500.0)
@@ -76,9 +76,9 @@ screen room_hover(room, message=None):
             spacing 4
         text "[room.name]"
         if room.revenue > 0:
-            text "Revenue: $[room.revenue] /Day"
+            text "收入:$[room.revenue]/天"
         if room.expanse > 0:
-            text "Expense: $[room.expanse]"
+            text "支出:$[room.expanse]"
         if message:
             text "[message]"
 
@@ -123,10 +123,10 @@ screen bnb():
 
                 vbox:
                     text "[bnb.revenue.name]"
-                    text "${}/Day".format(get_bnb_revenue())
+                    text "${}/天".format(get_bnb_revenue())
                 vbox:
                     text "[bnb.expanse.name]"
-                    text "$[bnb.expanse.value]/Week"
+                    text "$[bnb.expanse.value]/周"
 
                 null height 20
 
@@ -176,7 +176,7 @@ screen bnb():
                     null height 36
 
                 hbox:
-                    text "Guest Bedrooms"
+                    text "客房"
                     null width 18
                     add Solid("#ffffffb0", ysize=2, yalign=0.5)
 
@@ -200,14 +200,6 @@ screen bnb():
                             text "x" yalign 1.0 size 32
                             text "[total]" yalign 1.0 size 42
 
-
-init python:
-    def sort_type(type):
-        if type=="facility":
-            return 0
-        elif type == "private":
-            return 1
-        return type
 
 init -1 python:
 

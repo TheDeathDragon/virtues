@@ -3,7 +3,7 @@ default TRAINING = {
         "B": TrainingStatus("B"),
         "C": TrainingStatus("C"),
         "D": TrainingStatus("D"),
-        "E": TrainingStatus("E", shame=1),
+        "E": TrainingStatus("E"),
         "F": TrainingStatus("F"),
         "G": TrainingStatus("G", sub=1, shame=1)
     }
@@ -30,10 +30,10 @@ init python:
     class TrainingStatus(object):
         types = ["inti", "skill", "sub", "shame"]
         type_names = {
-                "inti": "Intimacy",
-                "skill": "Sex Skill",
-                "sub": "Submissiveness",
-                "shame": "Shamelessness"
+                "inti": "亲密度",
+                "skill": "性技巧",
+                "sub": "服从度",
+                "shame": "堕落度"
             }
         
         def __init__(self, nz, inti=0, skill=0, sub=0, shame=0):

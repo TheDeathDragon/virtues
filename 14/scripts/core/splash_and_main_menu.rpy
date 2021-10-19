@@ -1,14 +1,9 @@
-image logo = "gui/logo.png"
-define screen_center = Position(xpos=0.5, ypos=0.5)
-
 label splashscreen:
 
     scene expression gui.main_menu_background
     show expression gui.splash_art with dissolve
-    show logo at screen_center with dissolve
     with Pause(0.7)
     hide expression gui.splash_art with dissolve
-    hide logo at screen_center with dissolve
 
 image title:
     "gui/title.png"
@@ -50,54 +45,56 @@ screen main_menu():
 
             if main_menu:
 
-                textbutton _("New Game") action [Hide("main_menu"), Show("timed_start")]
+                textbutton _("新的开始") action [Hide("main_menu"), Show("timed_start")]
 
             else:
-                textbutton _("History") action ShowMenu("history")
+                textbutton _("历史") action ShowMenu("history")
 
-                textbutton _("Save") action ShowMenu("save")
+                textbutton _("保存") action ShowMenu("save")
 
-            textbutton _("Load") action ShowMenu("load")
+            textbutton _("读档") action ShowMenu("load")
 
-            textbutton _("Settings") action ShowMenu("preferences")
+            textbutton _("设置") action ShowMenu("preferences")
 
-            textbutton _("Gallery") action ShowMenu("gallery")
+            textbutton _("加群") action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
+
+            textbutton _("画廊") action ShowMenu("gallery")
 
             if _in_replay:
 
-                textbutton _("End Replay") action EndReplay(confirm=True)
+                textbutton _("结束回放") action EndReplay(confirm=True)
 
             elif not main_menu:
 
-                textbutton _("Main Menu") action MainMenu()
+                textbutton _("主菜单") action MainMenu()
 
-            textbutton _("About") action ShowMenu("about")
+            textbutton _("关于") action ShowMenu("about")
 
-            textbutton _("Bonus Chapters") action ToggleScreen("bonus_chapters")
+            textbutton _("额外章节") action ToggleScreen("bonus_chapters")
 
             if renpy.variant("pc"):
 
 
-                textbutton _("Help") action ShowMenu("help")
+                textbutton _("帮助") action ShowMenu("help")
 
 
 
             if renpy.variant("pc") or renpy.variant("android"):
 
-                textbutton _("Quit") action Quit(confirm=not main_menu)
+                textbutton _("退出") action Quit(confirm=not main_menu)
 
         hbox:
             xalign .0 yalign 1.0
-            text "( version: [gui.display_version] [gui.version_suffix])":
+            text "( 版本号: [gui.display_version] [gui.version_suffix])":
                 xoffset 18 size 20
                 xalign .0 yalign 1.0
             button:
                 background Solid("2e2e2cb3", xysize=(140, 28), xoffset=4, yoffset=4)
                 xoffset 24 yoffset 6
-                text "Update Notes" size 20
+                text "更新日志" size 20
                 action ShowTransient("update_note", transition=Dissolve(0.2))
 
-        text "Support us on {font=[gui.name_text_font]}↑{/font}":
+        text "在Patreon上{font=[gui.name_text_font]}↑{/font}支持我们":
             xalign 1.0 yalign 1.0 size 24 xoffset -4
 
         button:
@@ -178,7 +175,7 @@ style navigation_frame_style:
     xpos 140
     ypos 970
 
-define gui.special_thanks = _('''{size=-4}Special thanks to our key plegeing patrons:
+define gui.special_thanks = _('''{size=-4}特别感谢我们的重要赞助者:
 {color=#ffcd5c}{/color}''')
 
 screen thanks():

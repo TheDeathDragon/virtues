@@ -13,12 +13,12 @@ init -3 python:
         def owner(self):
             return self.owner_name.split('_')[0]
         
-        
-        
-        
-        
-        
-        
+        @property
+        def value(self):
+            return self._value
+        @value.setter
+        def value(self, value):
+            self._value = value
         
         @property
         def base(self):
@@ -28,14 +28,14 @@ init -3 python:
         def out_of_content(self):
             try:
                 
-                return self._value >= get(self.owner_name).max_value
+                return self.value >= get(self.owner_name).max_value
             except AttributeError:
                 return False
         
         @property
         def stage(self) :
-            quotient = int(self._value / self.base)
-            remainder = self._value % self.base
+            quotient = int(self.value / self.base)
+            remainder = self.value % self.base
             if remainder > 0:
                 return int(quotient) + 1
             elif remainder == 0:
@@ -46,7 +46,7 @@ init -3 python:
         
         def next_stage(self):
             next_stage = (self.stage-1) + 1
-            self._value = next_stage * self.base
+            self.value = next_stage * self.base
             self.is_stage_locked = False          
         
         def lock(self):
@@ -58,14 +58,14 @@ init -3 python:
         def add(self, value):
             if value > 0.0:
                 current_love_limit = self.stage * self.base
-                sum = self._value + value
+                sum = self.value + value
                 if sum >= current_love_limit:
-                    floored_added_value = current_love_limit - self._value
-                    self._value = current_love_limit
+                    floored_added_value = current_love_limit - self.value
+                    self.value = current_love_limit
                     self.is_stage_locked = True
                     return floored_added_value
                 else:
-                    self._value = sum
+                    self.value = sum
                     return value
             elif value == 0.0:
                 return 0.0
@@ -73,28 +73,28 @@ init -3 python:
         def sub(self, value):
             if value > .0:
                 previous_love_limit = (self.stage-1) * self.base
-                difference = self._value - value
+                difference = self.value - value
                 if difference >= previous_love_limit:
-                    self._value = difference
+                    self.value = difference
                     return value
                 else:
                     floored_subed_value = previous_love_limit - difference
-                    self._value = previous_love_limit
+                    self.value = previous_love_limit
                     return floored_subed_value
             elif value == .0:
                 return .0
         
         
         def __cmp__(self, comparer):
-            if self._value < comparer:
+            if self.value < comparer:
                 return -1
-            elif self._value > comparer:
+            elif self.value > comparer:
                 return 1
             else:
                 return 0
         
         def __repr__(self):
-            return "Meter({})".format(self._value)
+            return "Meter({})".format(self.value)
 
     class MeterWrapper():
         
@@ -104,12 +104,12 @@ init -3 python:
         def __str__(self):
             return self.name
         
-        
-        
-        
-        
-        
-        
+        @property
+        def _value(self):
+            return self.meter.value
+        @_value.setter
+        def _value(self, value):
+            self.meter.value = value
         
         @property
         def pct(self): 
@@ -171,7 +171,7 @@ init -3 python:
         
         def __init__(self):
             super(MeterWrapper, self).__init__()
-            self.name = _("Love")
+            self.name = _("好感度")
             self.abbr = _("Love")
         
         def __cmp__(self, comparer):
@@ -196,15 +196,15 @@ init -3 python:
             self.meter_name = meter
             self.base = base
             self.__dict__.update(kwargs)
-            self.name = _("Love")
+            self.name = _("好感度")
             self.abbr = _("Love")
         
         @property
         def value(self):
-            return self.meter._value
+            return self._value
         @value.setter
         def value(self, value):
-            self.meter._value = float(value)
+            self._value = float(value)
         
         @property
         def meter(self):
@@ -241,7 +241,7 @@ init -3 python:
         
         @property
         def value(self):
-            return self.meter._value
+            return self._value
         @value.setter
         def value(self, value):
             self.meter._value = float(value)
@@ -267,14 +267,14 @@ init -3 python:
             super(MeterWrapper, self).__init__()
             self.meter_name = meter
             self.base = base
-            self.name = _("Harem Acceptance")
+            self.name = _("后宫值")
             self.abbr = _("H.A.")
             self.max_value = max_value
             self.__dict__.update(kwargs)  
         
         @property
         def value(self):
-            return self.meter._value
+            return self._value
         @value.setter
         def value(self, value):
             self.meter._value = float(value)
@@ -306,8 +306,8 @@ init -3 python:
         
         @property
         def value(self):
-            quotient = self.meter._value / self.base
-            remainder = self.meter._value % self.base
+            quotient = self._value / self.base
+            remainder = self._value % self.base
             if remainder > .0:
                 return remainder
             elif remainder == .0:

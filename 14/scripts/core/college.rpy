@@ -33,7 +33,7 @@ screen college():
                     yalign 0.5
 
                 hbox:
-                    text "College"
+                    text "大学"
                     null width 18
                     add Solid("#ffffffb0", ysize=2, yalign=0.5)
 
@@ -61,7 +61,7 @@ screen college():
                         null height 36
 
                 hbox:
-                    text "Student Apartment"
+                    text "学生公寓"
                     null width 18
                     add Solid("#ffffffb0", ysize=2, yalign=0.5)
                 hbox:

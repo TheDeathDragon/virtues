@@ -28,8 +28,8 @@ screen top(force=False):
                 xpadding 10
                 background top_value_frame
                 textbutton "[P.name]":
-                    action Show("name_input", prompt="Please input your name:", prefix="I'm ", suffix=".", rt=False)
-                    hovered ShowTransient("player_panel_hover", content="Click to change your name.")
+                    action Show("name_input", prompt="请输入你的名字:", prefix="我叫", suffix=".", rt=False)
+                    hovered ShowTransient("player_panel_hover", content="点击更改你的名字.")
                     unhovered Hide("player_panel_hover")
 
 
@@ -64,7 +64,7 @@ screen clock3(force=False):
             fixed xysize (140, 120):
                 vbox align (0.0, 0.5) offset (20, -1):
                     spacing -1
-                    text ("Week {}").format(str(t.week)):
+                    text ("第{}周").format(str(t.week)):
                         at normal_t_update(0.3)
                         size 28
                         font gui.clock_font
@@ -97,7 +97,7 @@ screen clock3(force=False):
                     align (0.5, 0.9)
 
 
-                    text ">>> Click to skip a time period." size 18
+                    text ">>> 单击以跳过这段时间." size 18
 
     else:
         $ glowing = False
