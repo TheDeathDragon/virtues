@@ -1,4 +1,4 @@
-define gui.about = _('''此汉化由@夜尽天明发起，@御坂，@琰SAMA制作，仅供交流学习使用 
+define gui.about = _('''此汉化由@夜尽天明，@御坂，@琰SAMA制作，仅供交流学习使用 
 {a=https://jq.qq.com/?_wv=1027&k=jKzi7gbm}点击加群{/a}
 {size=-4}
 加群可以第一时间获取最新版本汉化哦～{/size}''')
