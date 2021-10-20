@@ -73,7 +73,7 @@ screen file_slots(title):
     on "show" action Function(generate_save_time)
     on "replace" action Function(generate_save_time)
 
-    default page_name_value = FilePageNameInputValue(pattern=_("Page {}"), auto=_("自动保存"), quick=_("快速保存"))
+    default page_name_value = FilePageNameInputValue(pattern=_("第{}页"), auto=_("自动保存"), quick=_("快速保存"))
 
     use game_menu(title)
 
@@ -110,7 +110,7 @@ screen file_slots(title):
                         hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}右键点击{/color}给存档添加描述.")
                     else:
                         alternate FileDelete(slot)
-                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}右键点击{/color}以删除存档.")
+                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}右键点击{/color}以删除这个存档.")
                     unhovered HideMenuNotify(), SetLocalVariable("desc", False)
                     add "fileslot_hover_border"
 
@@ -124,7 +124,7 @@ screen file_slots(title):
                             at normal_t(0.3)
                             style "slot_name_text"
 
-                text FileTime(slot, format=_("{#file_time}%Y-%m-%d %H:%M"), empty=_("空存档槽")):
+                text FileTime(slot, format=_("{#file_time}%Y-%m-%d %H:%M"), empty=_("空的存档槽")):
                     style "slot_time_text"
                     yalign 1.0 xoffset 6
 
@@ -216,7 +216,7 @@ screen save_input(slot):
         has vbox:
             xalign 0.5
             yalign 0.5
-        text "{color=#f0eee9}存档描述:{/color}":
+        text "{color=#f0eee9}存档描述: {/color}":
             style "name_input_input"
         input:
             style "name_input_input"

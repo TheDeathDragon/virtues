@@ -3,7 +3,7 @@ label F_daily_10:
     scene void with tstmgr
     play music happy
 
-    "Morning, in the track team’s training field..."
+    "早晨，在田径队的训练场上..."
 
 
 
@@ -15,57 +15,57 @@ label F_daily_10:
 
     scene f_daily10_2 with tstmgr
 
-    f "That... that was a good run... ..."
+    f "跑的好棒啊... ..."
 
 
 
     scene f_daily10_3 with tstmgr
 
-    b "Rachel!~~~"
+    b "瑞秋!~~~"
 
 
 
     scene f_daily10_4 with tstmgr
 
-    f "Senning? Good morning~"
+    f "森柠? 早上好~"
 
 
 
     scene f_daily10_5 with tstmgr
 
-    f "Wait, are you here to see me train?"
+    f "等等，你是来看我训练的吗?"
 
 
 
-    b "Yes~ this is the first time I saw a track team practice~"
+    b "是的~这是我第一次看到田径队的训练。"
 
 
 
     scene f_daily10_6 with tstmgr
 
-    b "You were so cool back there, Rachel! How could anyone run so fast on this planet?"
+    b "你刚才的表现太酷了，瑞秋! 在这个星球上怎么会有人跑得这么快？"
 
 
 
     scene f_daily10_7 with tstmgr
 
-    f "Thanks for saying that, Sen, but actually I’m not even the fastest runner in this team."
+    f "谢谢你这么说，森柠，但实际上我甚至不是这个团队中跑得最快的人。"
 
 
 
     scene f_daily10_8 with tstmgr
 
-    f "I mean, I used to be the fastest one, but now I have regressed."
+    f "我的意思是，我曾经是最快的一个，但现在我已经退步了。"
 
 
 
     scene f_daily10_9 with tstmgr
 
-    b "Hmmmmm? What happened?"
+    b "Hmmmmm? 发生什么了呢?"
 
 
 
-    f "I don't know, boy issue, maybe..."
+    f "我不知道，也许是因为男生的问题..."
 
 
 
@@ -75,81 +75,81 @@ label F_daily_10:
 
     scene f_daily10_10 with tstmgr
 
-    b "*Sniffing, sniffing* ... ... ... ..."
+    b "*闻闻, 嗅嗅* ... ... ... ..."
 
 
 
-    f "Ahhh, what are you doing? I am stinky right now!"
+    f "啊哈，你在做什么？我现在很臭!"
 
 
 
-    b "I smelled something familiar on your body... ..."
+    b "我在你身上闻到了一些熟悉的味道... ..."
 
 
 
-    f "Something... familiar?"
+    f "一些......熟悉的东西?"
 
 
 
     scene f_daily10_11 with tstmgr
 
-    b "It’s... [P]’s scent."
+    b "它是... [P]的味道."
 
 
 
     scene f_daily10_12 with tstmgr
 
-    f "Oh, he... he came to my apartment the other day and... eh... spent some time with me."
+    f "哦，他......他有一天来到我的公寓，......呃......和我呆了一会儿。"
 
 
 
-    "Although Rachel doesn’t know much about how to get along with people, she vaguely felt that she should hide the fact from Senning that she had had sex with [P]."
+    "虽然瑞秋对如何与人相处不甚了解，但她隐约觉得应该向森宁隐瞒她与人发生过关系的事实。 [P]."
 
 
 
     scene f_daily10_13 with tstmgr
 
-    f "Sorry, Senning... ..."
+    f "Sorry, 森宁... ..."
 
 
 
-    b "Hmmmm? Why did you apologize?"
+    b "Hmmmm? 为什么要道歉呢?"
 
 
 
-    f "I... I don’t know, I was just... ..."
+    f "我...我不知道，我只是... ..."
 
 
 
-    b "Did you apologize to me for... having sex with [P]?"
+    b "你是因为和[p]做了......而向我道歉吗"
 
 
 
     scene f_daily10_14 with tstmgr
 
-    f "Ahhhh! How did you know?!"
+    f "Ahhhh! 你怎么知道?!"
 
 
 
-    "Apparently, Rachel is not a good secret keeper."
+    "显然，瑞秋不是一个好的守秘者."
 
 
 
     scene f_daily10_15 with tstmgr
 
-    b "Because the scent [P] left on your body is actually the scent of his... cum."
+    b "因为[P]留在你身上的气味实际上是他......精液的气味。"
 
 
 
     scene f_daily10_16 with tstmgr
 
-    f "What? How could it be? It has been... a while."
+    f "什么，怎么会这样？已经有......一段时间了。"
 
 
 
     scene f_daily10_17 with tstmgr
 
-    b "Hum hum~ You have no idea how much I am sensitive to that scent~"
+    b "哼哼~你不知道我对这种气味有多敏感~。"
 
 
 
@@ -159,25 +159,25 @@ label F_daily_10:
 
 
 
-    f "Are you... angry?"
+    f "你生气了吗?"
 
 
 
     scene f_daily10_19 with tstmgr
 
-    b "Not really. He has told me about you many times."
+    b "并非如此。他曾多次向我提起过你。"
 
 
 
-    f "[P]... told you about me?"
+    f "[P]... 告诉你关于我的事?"
 
 
 
-    b "Actually I asked him about you because I sensed your scent on his body too~"
+    b "其实我问他关于你的事，是因为我在他身上也感觉到了你的气息~"
 
 
 
-    b "He looks like a playboy, and he acts... ... eh... like a playboy too, but in fact he is a sincere person, he always tells me everything without reservation as long as I ask."
+    b "他看起来像个花花公子，他的行为......呃......也像个花花公子，但实际上他是个真诚的人，只要我问，他总是毫无保留地告诉我一切。"
 
 
 
@@ -185,23 +185,23 @@ label F_daily_10:
 
 
 
-    b "He said he was worried that you might be hurt by others, blah blah blah, but honestly I think he was just overthinking."
+    b "他说他担心你会被别人伤害，等等等等，但说实话，我觉得他只是多虑了。"
 
 
 
     scene f_daily10_20 with tstmgr
 
-    b "I mean, you are so strong, you can perfectly protect yourself."
+    b "我的意思是，你是如此强大，你可以完美地保护自己。"
 
 
 
-    f "Why are you... not angry?"
+    f "为什么你...不生气？"
 
 
 
     scene f_daily10_21 with tstmgr
 
-    b "I guess I’m just not interested in monopolize his love~"
+    b "我想我只是对独享他的爱情不感兴趣~"
 
 
 
@@ -211,21 +211,21 @@ label F_daily_10:
 
     scene f_daily10_22 with tstmgr
 
-    f "*Looking upset for some reason* ... ... ... ..."
+    f "*不知道为什么，看起来很不高兴* ... ... ... ..."
 
 
 
     scene f_daily10_23 with tstmgr
 
-    b "Are you okay, Rachel?"
+    b "你还好吗，瑞秋?"
 
 
 
-    f "Am I... really entitled to share [P]’s love with you?"
+    f "我......真的有资格和你分享[P]的爱吗？"
 
 
 
-    f "You are so beautiful, even a real goddess will feel ashamed after seeing your tender skin..."
+    f "你是如此美丽，即使是真正的女神，在看到你的嫩肤后也会感到羞愧......"
 
 
 
@@ -237,7 +237,7 @@ label F_daily_10:
 
     scene f_daily10_23 with flashback
 
-    f "And... ..."
+    f "然后... ..."
 
 
 
@@ -255,53 +255,53 @@ label F_daily_10:
 
     scene f_daily10_23 with flashback
 
-    f "Sigh... ... you are all so beautiful... ..."
+    f "叹息......你们都是如此美丽"
 
 
 
     scene f_daily10_24 with tstmgr
 
-    f "But I... I am just a muscle girl who has stink of sweat with her all the time... ..."
+    f "但我... 我只是一个肌肉发达的女孩，身上一直有汗臭味......"
 
 
 
     scene f_daily10_25 with tstmgr
 
-    b "What are you talking about? Do you have any idea of your charm? Girls like me dream to be someone like you. You are strong, energetic, and beautiful as well, like Mulan herself."
+    b "你在说什么呢？你对自己的魅力有什么想法吗？像我这样的女孩都梦想成为你这样的人。你很强壮，精力充沛，也很美丽，就像花木兰本人。"
 
 
 
-    b "I really wish I could have fine abs like you... ... They are just sexy."
+    b "我真的希望我也能像你一样拥有精美的腹肌......。他们实在是太性感了。"
 
 
 
     scene f_daily10_26 with tstmgr
 
-    f "Oh... ... I am... that good?"
+    f "Oh... ... 我......有这么好?"
 
 
 
-    b "And you don’t need to be entitled to love or be loved, love just doesn’t work like that."
+    b "而且你不需要有权去爱或被爱，爱情就是这样的。"
 
 
 
-    f "Thank you for... saying that to me... ..."
+    f "谢谢你......对我说这些话... ..."
 
 
 
     scene f_daily10_25 with tstmgr
 
-    f "Who is Mulan, by the way?"
+    f "顺便说一下，花木兰是谁?"
 
 
 
-    b "Do you want to watch a movie about her with me in my apartment?"
+    b "你想和我在我的公寓里看一部关于她的电影吗？"
 
 
 
     scene f_daily10_26 with tstmgr
 
-    f "Ye... yes, I would love to!"
+    f "是......是的，我很愿意!"
 
 
 
@@ -311,7 +311,7 @@ label F_daily_10:
 
 
 
-    "Senning and Rachel then spent a wonderful afternoon together..."
+    "森宁和瑞秋随后一起度过了一个美妙的下午......"
 
 
 

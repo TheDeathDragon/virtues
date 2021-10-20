@@ -7,7 +7,7 @@ v14:
 - New personal plots for Theodora, Senning, Rachel
 - New harem plots for "Theo&Uno&Vera", "Theo&Irene", "Vera&Senning"
 - New storyline for Lady Minna, try raise Senning's harem acceptance point to unlock
--600 new pictures & animated scenes
+- 600 new pictures & animated scenes
 
 ''' + past_note_link_text
 

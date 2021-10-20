@@ -49,9 +49,9 @@ screen update_note():
                     spacing 10
 
                     if renpy.variant("small"):
-                        text "{size=+10}{color=#e8888a}Update Notes:{/color}{/size}"
+                        text "{size=+10}{color=#e8888a}更新日志:{/color}{/size}"
                     else:
-                        text "{size=+10}{color=#5a96bd}Update Notes:{/color}{/size}"
+                        text "{size=+10}{color=#5a96bd}更新日志:{/color}{/size}"
 
                     viewport:
                         scrollbars "vertical"
@@ -74,7 +74,7 @@ screen update_note():
                             action ToggleVariable("persistent.update_note_dontshowagain")
                         button:
                             action ToggleVariable("persistent.update_note_dontshowagain")
-                            has text "Don't show again":
+                            has text "不再显示":
                                 size 24
                             if renpy.variant("small"):
                                 size 32
@@ -82,7 +82,7 @@ screen update_note():
                 if renpy.variant("small"):
                     button:
                         align (1.0, 1.0) offset (-40, 0)
-                        text "Close" size 32
+                        text "关闭" size 32
                         action Hide("update_note", transition=Dissolve(0.3))
 
 init python:
