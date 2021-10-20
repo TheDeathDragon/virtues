@@ -35,7 +35,7 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_3 with tstmgr
 
-    player"............"。
+    player"............"
 
 
 
@@ -171,7 +171,7 @@ label C_train_sexskill_2:
 
 
 
-    玩家 "是......是......"
+    player "是......是......"
 
 
 
@@ -198,7 +198,7 @@ label C_train_sexskill_2:
 
 
 
-    场景c_train_sexskill_2_13 with tstmgr
+    scene c_train_sexskill_2_13 with tstmgr
 
     c "那就这样吧~"
 
@@ -214,7 +214,7 @@ label C_train_sexskill_2:
 
 
 
-    玩家 "我想要......乳头......"
+    player "我想要......乳头......"
 
 
 
@@ -268,7 +268,7 @@ label C_train_sexskill_2:
 
 
 
-    玩家 "对你来说很好，wuummmm~~你做得比以前好多了~ Zummmmmm~~"
+    player "对你来说很好，wuummmm~~你做得比以前好多了~ Zummmmmm~~"
 
 
 

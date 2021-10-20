@@ -16,13 +16,13 @@ label F_love_9:
 
 
 
-    玩家 "我只是来看看你过得还好吗。"
+    player "我只是来看看你过得还好吗。"
 
 
 
     scene f_love_9_2 with tstmgr
 
-    玩家 "等等，该死的，你应该在应门前穿上衣服。"
+    player "等等，该死的，你应该在应门前穿上衣服。"
 
 
 
@@ -81,7 +81,7 @@ label F_love_9:
 
 
 
-    玩家 "呃......。对不起？"
+    player "呃......。对不起？"
 
 
 
@@ -183,7 +183,7 @@ label F_love_9:
 
     scene f_love_9_13 with tstmgr
 
-    玩家 "所以我不认为你与世界接触有什么不妥。由于你的......奇怪的家庭教育，你以前没有机会，但现在学习永远不会太晚。"
+    player "所以我不认为你与世界接触有什么不妥。由于你的......奇怪的家庭教育，你以前没有机会，但现在学习永远不会太晚。"
 
 
 
@@ -223,7 +223,7 @@ label F_love_9:
 
 
 
-    player "我......"。
+    player "我......"
 
 
 
@@ -383,9 +383,7 @@ label F_love_9:
 
     scene f_love_9_30 with tstmgr
 
-    f "Oh, will this be easier for you to hear my heartbeat?"
-这样你会更容易听到我的心跳声吗？
-
+    f "这样你会更容易听到我的心跳声吗？?"
 
     scene f_love_9_31 with tstmgr
 
@@ -547,7 +545,7 @@ label F_love_9:
 
     scene f_love_9_46 with tstmgr
 
-    f "[P]......"。
+    f "[P]......"
 
 
 

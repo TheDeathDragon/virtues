@@ -37,7 +37,7 @@ label B_train_inti_3:
 
 
 
-    "森柠的象牙色嫩颈终于失去了头发的遮挡，像这样暴露在我面前。它是如此的美丽......"。
+    "森柠的象牙色嫩颈终于失去了头发的遮挡，像这样暴露在我面前。它是如此的美丽......"
 
 
 
@@ -332,7 +332,7 @@ label B_train_inti_3:
 
 
 
-    player "森............"。
+    player "森............"
 
 
 
@@ -342,7 +342,7 @@ label B_train_inti_3:
 
 
 
-    玩家 "你更喜欢我像花花公子一样？"
+    player "你更喜欢我像花花公子一样？"
 
 
 
@@ -370,7 +370,7 @@ label B_train_inti_3:
 
 
 
-   scene b_train_inti_3_32 with tstmgr
+    scene b_train_inti_3_32 with tstmgr
 
     b "... ... ... ..."
 
@@ -390,7 +390,7 @@ label B_train_inti_3:
 
 
 
-   scene void with tstmgr
+    scene void with tstmgr
 
     "... ... ... ..."
 
@@ -437,7 +437,7 @@ label B_train_inti_3:
 
 
 
-   scene b_train_inti_3_36 with tstmgr
+    scene b_train_inti_3_36 with tstmgr
 
 
     "... ... ... ..."
@@ -462,13 +462,13 @@ label B_train_inti_3:
 
 
 
-  scene b_train_inti_3_37 with dissolve
+    scene b_train_inti_3_37 with dissolve
 
     b "*吻*Wummmmmmm~~[P]......mmmmm~~"
 
 
 
-    场景b_train_inti_3_38，带tstmgr
+    scene b_train_inti_3_38，带tstmgr
 
     b "*吻*[P]的舌头......好甜......嗯~~"
 
@@ -478,7 +478,7 @@ label B_train_inti_3:
 
 
 
-    player "森............"。
+    player "森............"
 
 
 
@@ -616,7 +616,7 @@ label B_train_inti_3:
 
 
 
-    player "你是说......"。
+    player "你是说......"
 
 
 
@@ -630,7 +630,7 @@ label B_train_inti_3:
 
 
 
-    player "森......"。
+    player "森......"
 
 
 
@@ -666,7 +666,7 @@ label B_train_inti_3:
 
 
 
-    player "森......"。
+    player "森......"
 
 
     stop sound
@@ -748,7 +748,7 @@ label B_train_inti_3:
 
     scene b_train_inti_3_51 with tstmgr
 
-    b "这一定是......最好的约会......"。
+    b "这一定是......最好的约会......"
 
 
 

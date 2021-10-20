@@ -91,7 +91,7 @@ label G_daily_15:
 
 
 
-    player "乌诺......"。
+    player "乌诺......"
 
 
 

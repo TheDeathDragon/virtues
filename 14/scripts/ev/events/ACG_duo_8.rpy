@@ -125,7 +125,7 @@ label ACG_duo_8:
 
 
 
-   scene acg_duo_8_15 with tstmgr
+    scene acg_duo_8_15 with tstmgr
 
     g "女孩的夜晚！~"
 

@@ -257,7 +257,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_21 with tstmgr
 
-    a "还有"... ..."
+    a "还有... ..."
 
 
 

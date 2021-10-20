@@ -63,7 +63,7 @@ label outdoors_A.a_outdoors_1:
 
     scene a_outdoors_1_4 with tstmgr
 
-    a "当然不是真"... ..."
+    a "当然不是真... ..."
 
 
 
@@ -179,7 +179,7 @@ label outdoors_A.a_outdoors_1:
 
 
 
-    player "薇拉"... ..."
+    player "薇拉... ..."
 
 
 

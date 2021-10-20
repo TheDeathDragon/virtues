@@ -135,7 +135,7 @@ label CD_duo_1:
 
     scene cd_duo_1_11 with tstmgr
 
-    c "有我这样一个体贴的大姐姐真好，对吗？
+    c "有我这样一个体贴的大姐姐真好，对吗？"
 
 
 
@@ -227,7 +227,7 @@ label CD_duo_1:
 
     scene cd_duo_1_21 with tstmgr
 
-    c "艾琳......"。
+    c "艾琳......"
 
 
 
