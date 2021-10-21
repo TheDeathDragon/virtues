@@ -56,7 +56,7 @@ screen main_menu():
 
             textbutton _("设置") action ShowMenu("preferences")
 
-            textbutton _("加群") action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
+            textbutton _("加群") action OpenURL("https://jq.qq.com/?_wv=1027&k=9MsL1MC7")
 
             textbutton _("画廊") action ShowMenu("gallery")
 

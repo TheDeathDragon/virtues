@@ -395,5 +395,5 @@ screen bg_unlocker(bg):
                 action Return()
 
         textbutton "想知道密码吗？ ":
-            action OpenURL('https://jq.qq.com/?_wv=1027&k=lnusvT9q')
+            action OpenURL('https://jq.qq.com/?_wv=1027&k=9MsL1MC7')
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

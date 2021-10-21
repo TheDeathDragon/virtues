@@ -4,40 +4,40 @@ define update_note_text = '''{size=+2}{color=#ffcd5c}   Thanks for playing our g
 {/color}{color=#df0000}{/color}{/size}
 
 v14:
-- New personal plots for Theodora, Senning, Rachel
-- New harem plots for "Theo&Uno&Vera", "Theo&Irene", "Vera&Senning"
-- New storyline for Lady Minna, try raise Senning's harem acceptance point to unlock
-- 600 new pictures & animated scenes
+- 狄奥多拉、森柠、瑞秋的新个人情节
+- 新的后宫情节："西奥&乌诺&薇拉"、"西奥&艾琳"、"薇拉&森柠"
+- 明娜女士的新故事情节，尝试提高森宁的后宫接受度以解锁。
+- 600张新图片和动画场景
 
 ''' + past_note_link_text
 
 define past_update_note_text = '''v13.5:
-    - You can now take Vera to dungeon/pool/outdoors after her submissiveness/intimacy/shamelessness level reaches 2
-    - You can now take Elisa to outdoors after her shamelessness level reaches 2
-    - The following incompleted events are now finished, you can replay them in your room 
-    Pet training - Irene, Uno
-    Swimming pool - Irene, Elisa
-    - Finished Elisa's alternative ending, you can replay it in your room
-    - New harem plots for 'girls in your house (Vera, Theo, Uno)'
-    - New personal plots for Elisa
-    - Several bugs/typoes fixed
+    - 在薇拉的顺从/亲密/羞耻等级达到2级后，你现在可以带她去地牢/游泳池/户外
+    - 在伊莉莎的羞耻程度达到2级后，你现在可以带她去户外活动了
+    - 以下未完成的事件现在已经完成，你可以在你的房间里重新播放它们 
+    宠物训练--艾琳，乌诺
+    游泳池--艾琳、伊莉莎
+    - 完成了伊莉莎的另一个结局，你可以在你的房间里重放它
+    - 为 "你家里的女孩（薇拉、西奥、乌诺）"新增后宫情节
+    - 伊莉莎的新个人情节
+    - 修复了几个错误/类型
 
 v13:
-    - You can now take Theodora to the dungeon
-    - New personal plots for Theodora, Irene, and Uno
-    - New harem plots for 'mother & daughters'
-    - New 'sleeping with' option: Girls in your house
-    - 590 new pictures & animated scenes
+    - 你现在可以带狄奥多拉去地牢了
+    - 狄奥多拉、艾琳和乌诺的新个人情节
+    - 新增 "母亲和女儿 "的后宫剧情
+    - 新的 "同床 "选项。你家里的女孩
+    - 590张新图片和动画场景
 
 v12:
-    - You can now replay all alternative endings in your room
-    - Uno's alternative ending has been implemented
-    - You can now take Uno to the basement pool after her intimacy reachs level 2
-    - You can now take Senning outdoors after her shamelessness reachs level 3
-    - Enhanced the color of dots
-    - New personal plots for Vera, Senning, Elisa, and Rachel
-    - New harem plots for 'mother & daughters' and 'girls in your house'
-    - 690 new pictures & animated scenes
+    - 你现在可以在你的房间里重放所有其他结局
+    - 乌诺的另类结局已经实现
+    - 在乌诺的亲密关系达到2级后，你现在可以带她去地下室的游泳池
+    - 在森柠的羞耻达到3级后，你现在可以把她带到户外。
+    - 增强了圆点的颜色
+    - 为薇拉、森柠、伊莉莎和瑞秋新增个人情节
+    - 新增 "母女 "和 "家中女孩 "的后宫剧情
+    - 690个新图片和动画场景
 
 v11:
     - Rollbacked the version of Renpy engine from 7.4.2 to 7.3.5

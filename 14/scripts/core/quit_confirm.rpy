@@ -45,7 +45,7 @@ screen quit_confirm():
             text "想知道解锁密码吗，加群了解更多吧～"
             button:
                 text "{u}点击加群{/u}" style "link"
-                action OpenURL("https://jq.qq.com/?_wv=1027&k=jKzi7gbm")
+                action OpenURL("https://jq.qq.com/?_wv=1027&k=9MsL1MC7")
 
 
     key "game_menu" action Return(False)
