@@ -201,6 +201,14 @@ screen bnb():
                             text "[total]" yalign 1.0 size 42
 
 
+init python:
+    def sort_type(type):
+        if type=="facility":
+            return 0
+        elif type == "private":
+            return 1
+        return type
+
 init -1 python:
 
     ROOMS = {}

@@ -12,12 +12,12 @@ label shop:
     $ set_shop_ui()
 
     menu:
-        posia "Hi there, the chosen one~ {fast}"
-        "Buy her service":
+        posia "Hi,这里,小哥哥~ {fast}"
+        "买她的服务":
 
             menu:
-                "Fortunetelling ($200)" if not fortunetelling_today:
-                    if not P.buy(200, _("Fortunetelling")):
+                "占卜($200)" if not fortunetelling_today:
+                    if not P.buy(200, _("占卜")):
                         jump shop.shop_menu
 
                     $ set_default_ui()
@@ -39,8 +39,8 @@ label shop:
                         else:
                             $ run_event('store_1_ft_playlet3')
 
-                "Cleansing ($500)" if seen("store_1_cl_firstime") and not cleansing_today:
-                    if not P.buy(500, _("Cleansing")):
+                "净化($500)" if seen("store_1_cl_firstime") and not cleansing_today:
+                    if not P.buy(500, _("净化")):
                         jump shop.shop_menu
 
                     $ set_default_ui()
@@ -57,8 +57,8 @@ label shop:
                         elif rdc(2):
                             $ run_event('store_1_cl_playlet2')
 
-                "Blessing ($800)" if seen("store_1_bl_firstime") and not cleansing_today:
-                    if not P.buy(800, _("Blessing")):
+                "祝福($800)" if seen("store_1_bl_firstime") and not cleansing_today:
+                    if not P.buy(800, _("祝福")):
                         jump shop.shop_menu
 
                     $ set_default_ui()
@@ -66,45 +66,45 @@ label shop:
                     $ blessing_count += 1
 
                     $ run_event('store_1_bl_playlet1')
-                "Back":
+                "返回":
 
                     jump shop.shop_menu
-        "Buy something from her":
+        "从她那里买东西":
 
             label shop.buy_wallpaper:
             $ set_shop_ui_wide()
             menu:
-                "Vera's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["a_store_1"].is_shop_unlocked:
+                "薇拉的占星家套装壁纸($500)" if not BackgroundSystem.data["a_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["a_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Senning's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["b_store_1"].is_shop_unlocked:
+                "森柠的占星家套装壁纸($500)" if not BackgroundSystem.data["b_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["b_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Theodora's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
+                "狄奥多拉的占星家套装壁纸($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["c_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Irene's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["d_store_1"].is_shop_unlocked:
+                "艾琳的占星家套装壁纸($500)" if not BackgroundSystem.data["d_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["d_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Elisa's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["e_store_1"].is_shop_unlocked:
+                "伊莉莎的占星家套装壁纸($500)" if not BackgroundSystem.data["e_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["e_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Rachel's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["f_store_1"].is_shop_unlocked:
+                "瑞秋的占星家套装壁纸($500)" if not BackgroundSystem.data["f_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["f_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Uno's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["g_store_1"].is_shop_unlocked:
+                "乌诺的占星家套装壁纸($500)" if not BackgroundSystem.data["g_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["g_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Back":
+                "返回":
                     jump shop.shop_menu
-        "Back":
+        "返回":
 
             pass
 
@@ -123,12 +123,12 @@ label hotel_shop:
     $ set_hotel_shop_ui()
 
     menu:
-        minna "Ah, it's my future son-in-law~{fast}"
-        "Interact with her":
+        minna "Ah,他是我未来的女婿~{fast}"
+        "和她交流":
 
             label hotel_shop.interact_with:
             menu:
-                "Talk with her" if not hotel_shop_chat_today:
+                "和她聊天" if not hotel_shop_chat_today:
                     $ set_default_ui()
                     $ hotel_shop_chat_count += 1
                     $ hotel_shop_chat_today = True
@@ -141,7 +141,7 @@ label hotel_shop:
                     else:
                         $ run_event('store_2_chat_3')
 
-                "Satisfy her need" if what_about_me and not satisfy_her_need_today:
+                "满足她的需求" if what_about_me and not satisfy_her_need_today:
                     $ set_default_ui()
                     $ satisfy_her_need_count += 1
                     $ satisfy_her_need_today = True
@@ -151,45 +151,45 @@ label hotel_shop:
                         $ run_event('store_2_more_playlet1')
                     else:
                         $ run_event('store_2_more_playlet2')
-                "Back":
+                "返回":
 
                     jump hotel_shop.shop_menu
-        "Buy something from her":
+        "从她那里买东西":
 
             label hotel_shop.buy_wallpaper:
             $ set_hotel_shop_ui_wide()
             menu:
-                "Vera in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["a_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "薇拉的旗袍壁纸($500)" if not BackgroundSystem.data["a_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["a_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Senning in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["b_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "薇森柠的旗袍壁纸($500)" if not BackgroundSystem.data["b_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["b_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Theodora in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "狄奥多拉的旗袍壁纸($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["c_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Irene in Cheongsam Suit Wallpaper ($500)" if not BackgroundSystem.data["d_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "艾琳的旗袍壁纸($500)" if not BackgroundSystem.data["d_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["d_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Elisa in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["e_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "伊莉莎的旗袍壁纸($500)" if not BackgroundSystem.data["e_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["e_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Rachel in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["f_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "瑞秋的旗袍壁纸($500)" if not BackgroundSystem.data["f_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["f_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Uno in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["g_store_2"].is_shop_unlocked:
-                    if P.buy(500, _("Wallpaper")):
+                "乌诺的旗袍壁纸($500)" if not BackgroundSystem.data["g_store_2"].is_shop_unlocked:
+                    if P.buy(500, _("壁纸")):
                         $ BackgroundSystem.data["g_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Back":
+                "返回":
                     jump hotel_shop.shop_menu
-        "Back":
+        "返回":
 
             pass
 
@@ -201,20 +201,20 @@ label bungalow:
         scene e_love_8_8 with tstmgr
     else:
         scene e_train_inti_1_4 with tstmgr
-    "Aunt Elisa isn't in the bungalow right now, I'm definitely not going to walk cross that forest..."
+    "伊莉莎阿姨现在不在平房里,我绝对不会穿过那片森林..."
     jump action_post
 
 label my_room_in_hotel:
     menu:
-        "Go to bed":
+        "上床睡觉":
             if t.period < LateNight:
-                "It's too early to go to bed."
+                "现在睡觉太早了."
             else:
                 if t.period < LateNight:
-                    "It's too early to go to bed."
+                    "现在睡觉太早了."
                 else:
                     $ new_day()
-        "Back":
+        "返回":
             pass
     jump action_post
 
@@ -229,19 +229,19 @@ label course:
 
     if not seen('B_love_1'):
         scene class_background with tstmgr
-        "I went to a class and spent some time on studying."
-        "I tried to talk with Senning, but she was still angry at me."
+        "我去上课,花了一些时间学习."
+        "我去上课,花了一些时间学习."
         "... ... ... ..."
     else:
         scene go_to_class with tstmgr
         $ rdc = RandomChoice(3)
         if rdc(1):
-            b "There will be a quiz at the end of this class, remember not to leave early."
+            b "这堂课结束时将有一个小测验,记住不要早退."
         elif rdc(2):
-            b "The professor said that the next exam won’t cover today’s lecture, so... ..."
+            b "教授说下次考试不包括今天的课,所以......"
         else:
-            b "Hi, [P]. Let’s sit together."
-        "I spent some time in the class with Senning."
+            b "Hi,[P].让我们坐在一起."
+        "我花了一些时间和森柠一起上课."
         "... ... ... ..."
 
     $ add(B, B.love, 1)
@@ -256,13 +256,13 @@ label work:
     scene go_to_work with tstmgr
     $ rdc = RandomChoice(3)
     if rdc(1):
-        c "Keep working like this and you will get a promotion very soon."
+        c "继续这样工作,你很快就会得到提升的."
     elif rdc(2):
-        c "If you have any question, feel free to reach me in my office."
+        c "如果你有任何问题,请随时到我的办公室找我."
     else:
-        c "Did you go to my mom’s house recently? How are she and Irene doing?"
+        c "你最近去我妈妈家了吗?她和艾琳怎么样了?"
 
-    "I spent some time working in the company."
+    "我在这家公司工作了一段时间."
     "... ... ... ..."
 
     $ add(C, C.love, 1)
@@ -279,7 +279,7 @@ label find_C_company:
 
     scene expression find_bg(C) with Dissolve(0.5)
 
-    "I don't have much time. What's the matter?"
+    "我没有多少时间.找我有什么事?"
 
     $ show_find_fix(C)
 
@@ -295,18 +295,18 @@ label street:
         scene downtown_day_background
     else:
         scene downtown_night_background
-    "I wish I could bring someone here with me… …"
+    "我希望我能带个人来......"
 
     if not B_gift or not D_gift:
 
         label downtown_menu:
         menu:
-            "Buy a gift for Senning ($2000)" if not B_gift:
-                $ P.buy(2000, _("Gift"))
+            "给森柠买个礼物($2000)" if not B_gift:
+                $ P.buy(2000, _("礼物"))
                 $ B_gift = True
                 jump downtown_menu
-            "Buy a gift for Irene ($5000)" if not D_gift:
-                $ P.buy(5000, _("Gift"))
+            "给艾琳买个礼物($5000)" if not D_gift:
+                $ P.buy(5000, _("礼物"))
                 $ D_gift = True
                 jump downtown_menu
             "Return":
@@ -331,7 +331,7 @@ label B_room:
 
     scene expression find_bg(B) with Dissolve(0.5)
 
-    b "Hello, [P.name], it's nice to see you."
+    b "Hello,[P.name],很高兴见到你."
 
     $ show_find_fix(B)
 
@@ -343,13 +343,13 @@ label C_room:
     else:
         scene croom_night_background with tstmgr
 
-    "This is Theodora's old room. Nobody lives here after she moved out from this mansion. But Aunt Elisa still keeps this room nice and clean."
+    "这是狄奥多拉的旧房间.她从这栋别墅搬走后,这里就没人住了.但伊莉莎阿姨还是把这个房间收拾得干干净净."
     jump action_post
 
 label D_room:
     if not seen("D_dqsj"):
         scene void with tstmgr
-        narrator "Irene is still mad at me. I should go buy a gift for her, and then come back to her."
+        narrator "艾琳还在生我的气.我应该去给她买个礼物,然后再回来找她."
         $ show_map()
         jump pauser
 
@@ -364,7 +364,7 @@ label D_room:
 label E_room:
     scene expression find_bg(E) with Dissolve(0.5)
 
-    e "It's good to see you, [P]!"
+    e "很高兴见到你,[P]!"
 
     $ show_find_fix(E)
 
@@ -374,7 +374,7 @@ label F_room:
     scene expression find_bg(F) with Dissolve(0.5)
 
     if F.love >= 25 and not seen("A_love_5"):
-        $ Push("More of her story will be unlocked after you improve relationship with Vera")
+        $ Push("在你改善与薇拉的关系后,她的更多故事将被解开")
 
     d "[P.name]!"
 
@@ -385,10 +385,10 @@ label F_room:
 label tutor:
 
     scene ddqsj_d5 with tstmgr
-    "I spent some time on tutoring Irene."
+    "我花了一些时间辅导艾琳."
 
     $ add(D, D.love, 1)
-    $ P.earn(50, _("Tutorship"), t)
+    $ P.earn(50, _("辅导"), t)
     $ time_proceed(1)
 
     if renpy.random.random() <= 0.5 and not E.love.is_locked:
@@ -411,9 +411,9 @@ label bookstore:
 
     g "Hi, [P]."
 
-    g "Are you looking for a book?"
+    g "你在找书吗?"
 
-    player "Nope, just here to check you out."
+    player "Nope,只是来看看你."
 
     scene g_bookstore_normal with tstmgr
 
@@ -437,18 +437,18 @@ label exercise:
         scene go_to_sports with tstmgr
         $ rdc = RandomChoice(3)
         if rdc(1):
-            f "Hi there, my friend. I’m going for a jog. Are you with me?"
+            f "嗨,我的朋友.我要去慢跑.你要和我一起吗?"
         elif rdc(2):
-            f "Don’t be lazy. Let’s sweat together."
+            f "不要懒惰.让我们一起流汗."
         else:
-            f "Why are you staring at me? Come on, let’s go for a run!"
+            f "你为什么盯着我看?来吧,我们去跑步!"
 
-        "I spent some time with Rachel in the park."
+        "我和瑞秋在公园里呆了一段时间."
         "... ... ... ..."
         $ add(F, F.love, 1)
         $ time_proceed(1)
     else:
-        "I'm too tired today."
+        "我今天太累了."
 
 
 
@@ -456,12 +456,12 @@ label exercise:
 
 label alley:
     scene alley_background with tstmgr
-    "A dark, creepy, dangerous alley. Why would I come here alone?"
+    "黑暗,恐怖,危险的小巷.我为什么要一个人来这里?"
     jump action_post
 
 label beach:
     scene beach_background with tstmgr
-    "This beach is a famous scenic spot of this city. But it's kinda pathetic to come here alone."
+    "这个海滩是这个城市的著名景点.但是一个人来这里有点可悲."
     jump action_post
 
 
@@ -481,19 +481,19 @@ default first_A_room = True
 label A_room:
 
     if first_A_room:
-        "Now Vera and I are living next door to each other. I can meet with her every day."
-        "But remember, she will be in her room only in the morning and late night every day except Sunday. "
-        "Well, she is at home now, I think it may be a good time to have a chat with her."
-        "(Knock, knock, knock.)"
-        a "Who is this?"
-        player "It's me, [P]."
-        a "Oh, wait a moment, I'm changing clothes now."
-        "Changing clothes? So she is now talking to me half-nakedly? That... really captures my imagination..."
-        "(Door opened)"
+        "现在薇拉和我住在隔壁.我每天都能见到她."
+        "但是请记住,除了星期天,她每天只在早上和晚上呆在她的房间里."
+        "Well,她现在在家,我想这可能是和她聊天的好时机."
+        "(咚,咚,咚.)"
+        a "谁?"
+        player "是我,[P]."
+        a "Oh,等一下,我正在换衣服."
+        "换衣服吗?所以她现在是在半裸着跟我说话?这...真让我浮想联翩..."
+        "(门开了)"
         $ first_A_room = False
 
     if seen("A_love_4") and not seen("A_love_5"):
-        "She is not in the mood right now."
+        "她现在没有心情."
         $ show_map()
         jump action_post
 
@@ -506,11 +506,11 @@ label A_room:
 label C_room_2:
     if is_day():
         scene bnb_croom_background with tstmgr
-        "Theodora is not in her room."
+        "狄奥多拉不在她的房间里."
         "... ... ... ..."
     else:
         scene void with tstmgr
-        "Theodora has locked her door. Maybe she doesn't want others to know what she is doing."
+        "狄奥多拉锁上了门.也许她不想让别人知道她在做什么."
         "... ... ... ..."
     jump action_post
 
@@ -521,16 +521,16 @@ label find_A_cafe:
     if seen("A_love_4") and not seen("A_love_5"):
         scene a_cafe_weird with tstmgr
         a "... ... ... ..."
-        "She is not in the mood right now."
+        "她现在没有心情."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
 
     scene cafe_background with tstmgr
-    player "Hi, Vera"
+    player "Hi,薇拉"
     scene a_cafe_normal1 with tstmgr
     a "[P.name]?"
-    a "What would you like to eat today?"
+    a "你今天想吃点什么?"
     scene cafe_background with tstmgr
     "... ... ... ..."
 
@@ -546,7 +546,7 @@ label find_A_clothing:
     if seen("A_love_4") and not seen("A_love_5"):
         scene a_dressstore_frown with tstmgr
         a "... ... ... ..."
-        "She is not in the mood right now."
+        "她现在没有心情."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
@@ -554,7 +554,7 @@ label find_A_clothing:
     if A.relation == "general":
         scene a_dressstore_weird with tstmgr
         a "... ... ... ..."
-        a "You came again..."
+        a "你又来了..."
         scene dressstore_background with tstmgr
         "... ... ... ..."
         $ add(A, A.love, 1)
@@ -590,7 +590,7 @@ label find_A_clothing:
 
         a "Hello, [P]."
 
-        a "Thanks for coming to see me. I'm bored to death right now."
+        a "谢谢你来见我。我现在无聊得要命."
 
         a "… … … …"
 
@@ -609,18 +609,18 @@ label find_A_restaurant:
     if seen("A_love_4") and not seen("A_love_5"):
         scene bar_background with tstmgr
         "... ... ... ..."
-        "Vera is not in the mood right now."
+        "维拉现在没什么心情."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
 
     scene a_restaurant_smile with tstmgr
     a "[P.name]?"
-    player "Hi, Vera."
-    a "What can I get for you?"
-    player "Nothing but a cup of beer, please. I'm just waiting for you getting off work."
+    player "嗨，维拉."
+    a "我能为你做些什么?"
+    player "请给我一杯啤酒，什么都不要。我只是在等你下班."
     scene a_restaurant_slight_surprise with tstmgr
-    a "Oh, okay..."
+    a "Oh, 好吧..."
     scene bar_background with tstmgr
     "... ... ... ..."
 
@@ -640,7 +640,7 @@ label hang_park:
         scene park_day_background with tstmgr
     else:
         scene park_night_background with tstmgr
-    "I took a walk at the park. Nothing special."
+    "我在公园里走了走。没有什么特别的."
 
     $ time_proceed(1)
     jump action_post
