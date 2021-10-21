@@ -283,10 +283,10 @@ init -1 python:
             self.name = name
             self.owner = owner
             
-            self.lease = Attr(1400.0, name=_("Land Tax"), owner=self)
-            self.maintenance_fee = Attr(600.0, name=_("Maintenance Cost"), owner=self)
-            self.rooms_revenue = Attr(.0, name=_("Room Revenues"), owner=self)
-            self.rooms_expanse = Attr(.0, name=_("Room Expenses"), owner=self)
+            self.lease = Attr(1400.0, name=_("地税"), owner=self)
+            self.maintenance_fee = Attr(600.0, name=_("维护成本"), owner=self)
+            self.rooms_revenue = Attr(.0, name=_("客房收入"), owner=self)
+            self.rooms_expanse = Attr(.0, name=_("客房支出"), owner=self)
             self.rooms_revenues = []
             
             self.cleaning_count_of_week = 0
@@ -341,19 +341,19 @@ init -1 python:
         
         @property
         def tip(self):
-            return Attr(self.cleaning_count_of_week * 30.0, name=_("Tips"), owner=self)
+            return Attr(self.cleaning_count_of_week * 30.0, name=_("小提示"), owner=self)
         
         @property
         def expanse(self):
             expanse = self.lease + self.maintenance_fee + Attr.sum([room.expanse for room in self.rooms])
-            expanse.name = "Expense"
+            expanse.name = "支出"
             return expanse
         
         @property
         def revenue(self):
             revenue = self.tip + Attr.sum([room.revenue for room in self.rooms])
             revenue.value *= 1.0
-            revenue.name = "Revenue"
+            revenue.name = "收入"
             return revenue
         
         def get_revenue(self):
