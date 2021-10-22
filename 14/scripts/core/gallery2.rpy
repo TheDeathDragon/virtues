@@ -47,7 +47,7 @@ init python:
                     nz = globals()[code].name
                     CGSETS[nz].append(self)
             else:
-                CGSETS["Other"].append(self)
+                CGSETS["其他"].append(self)
             
             self.action = [Function(late_replay, label=label)]
         
@@ -72,7 +72,7 @@ screen gallery():
 
     default notified = False
 
-    default tab = "Vera"
+    default tab = "薇拉"
 
     use game_menu("画廊")
 
