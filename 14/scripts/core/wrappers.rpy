@@ -123,7 +123,7 @@ init -2 python:
         
         elif obj.owner == 'B':
             if obj >= 60 and not seen("B_daily_21"):
-                Push(_("你应该先和米娜和艾琳搞好关系."))
+                Push(_("你应该先和明娜和艾琳搞好关系."))
             elif obj >= 35:
                 Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:

@@ -340,7 +340,7 @@ label Special_4:
 
     scene special_4_31 with tstmgr
 
-    "米娜女士""嗯，我蛮喜欢牛奶浴的~"
+    "明娜女士""嗯，我蛮喜欢牛奶浴的~"
 
 
 
@@ -568,7 +568,7 @@ label Special_4:
 
     scene special_4_42 with tstmgr
 
-    "米娜女士" "我要把你的牛奶全部挤出来"
+    "明娜女士" "我要把你的牛奶全部挤出来"
 
 
 
@@ -664,7 +664,7 @@ label Special_4:
 
     scene special_4_46 with tstmgr
 
-    "Lady Minna" "Ah... hhh... hhh... huh... ..."
+    "明娜女士" "Ah... hhh... hhh... huh... ..."
 
 
 
