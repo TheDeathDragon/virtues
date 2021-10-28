@@ -134,7 +134,7 @@ label outdoors_E.e_outdoors_1:
 
     scene e_outdoors_1_12 with tstmgr
 
-    e "这样骗姨妈可不好玩。把它们摘下来吧，否则......否则姨妈会生气的!"
+    e "这样骗姨妈可不好玩.把它们摘下来吧，否则......否则姨妈会生气的!"
 
 
 

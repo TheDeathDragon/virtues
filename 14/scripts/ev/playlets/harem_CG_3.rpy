@@ -84,7 +84,7 @@ label harem_CG_3:
 
     scene harem_cg_3_7 with tstmgr
 
-    c "Yaaaahhh~~~ 我的乳头！~ 等等~~"
+    c "Yaaaahhh~~~ 我的乳头!~ 等等~~"
 
 
 

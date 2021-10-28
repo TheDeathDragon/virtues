@@ -230,19 +230,19 @@ init python:
 
 
     BackgroundSystem.add("b_v12_20", password_for_20, ["[reward_str_for_20] 实习护士"], [],
-        "抱歉......如果我打针弄疼了你，就咬住我的乳头吧......。")
+        "抱歉......如果我打针弄疼了你，就咬住我的乳头吧.......")
     BackgroundSystem.add("f_v12_20", password_for_20, ["[reward_str_for_20] 船长瑞秋"], [],
-        "嗯嗯......。但首先我必须建造我自己的船~。")
+        "嗯嗯.......但首先我必须建造我自己的船~.")
     BackgroundSystem.add("a_v12_10", password_for_10, ["[reward_str_for_10] 好色女仆薇拉"], [],
-        "我......正准备清理浴室，我的主人......。")
+        "我......正准备清理浴室，我的主人.......")
     BackgroundSystem.add("g_v12_10", password_for_10, ["[reward_str_for_10] 巫女乌诺"], [],
-        "我现在要去洗澡了，别看了！~。")
+        "我现在要去洗澡了，别看了!~.")
 
 
     BackgroundSystem.add("a_v13_10", password_for_10, ["[reward_str_for_10] 比基尼战士薇拉"], [],
-        "有没有......我可以帮助的东西呢？例如，来一发~")
+        "有没有......我可以帮助的东西呢?例如，来一发~")
     BackgroundSystem.add("e_v13_10", password_for_10, ["[reward_str_for_10] 围裙裸装伊莉莎"], [],
-        "你想吃点牛奶蛋糕吗？")
+        "你想吃点牛奶蛋糕吗?")
     BackgroundSystem.add("c_v13_20", password_for_20, ["[reward_str_for_20] 婚纱礼服"], [],
         "现在你拥有了......我的身体，我的心，我的一切～")
     BackgroundSystem.add("b_v13_20", password_for_20, ["[reward_str_for_20] 兔女郎森柠"], [],
@@ -257,7 +257,7 @@ init python:
     BackgroundSystem.add("d_v14_10", password_for_10, ["[reward_str_for_10] 东方风情艾琳"], [],
         "我的裤子呢?")
     BackgroundSystem.add("g_v14_10", password_for_10, ["[reward_str_for_10] 学生运动服乌喏"], [],
-        "它太短了.我甚至不能把它拉到我的乳房下面。... ...")
+        "它太短了.我甚至不能把它拉到我的乳房下面.... ...")
     BackgroundSystem.add("c_v14_20", password_for_20, ["[reward_str_for_20] 珍珠公主狄奥"], [],
         "我想我丢了几颗珍珠在地上，你愿意捡起来吗?~")
     BackgroundSystem.add("e_v14_20", password_for_20, ["[reward_str_for_20] 女神伊丽莎"], [],
@@ -394,6 +394,6 @@ screen bg_unlocker(bg):
 
                 action Return()
 
-        textbutton "想知道密码吗？ ":
+        textbutton "想知道密码吗? ":
             action OpenURL('https://jq.qq.com/?_wv=1027&k=9MsL1MC7')
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -32,7 +32,7 @@ label A_daily_15.line_c:
 
     scene a_daily15_2 with tstmgr
 
-    a "哦，嗨，乌喏，你今天怎么起得这么早？?"
+    a "哦，嗨，乌喏，你今天怎么起得这么早??"
 
 
 
@@ -48,7 +48,7 @@ label A_daily_15.line_c:
 
 
 
-    a "哦，你想吃点什么早餐吗？"
+    a "哦，你想吃点什么早餐吗?"
 
 
 
@@ -60,7 +60,7 @@ label A_daily_15.line_c:
 
     scene a_daily15_6 with tstmgr
 
-    a "老妈.......我还没那么老！ ~"
+    a "老妈.......我还没那么老! ~"
 
 
 
@@ -78,7 +78,7 @@ label A_daily_15.line_c:
 
 
 
-    g "你怎么能每天都起得这么早，而且还精力充沛？人生是如此的不公平~."
+    g "你怎么能每天都起得这么早，而且还精力充沛?人生是如此的不公平~."
 
 
 
@@ -186,7 +186,7 @@ label A_daily_15.line_c:
 
     scene a_daily15_17 with tstmgr
 
-    a "我这就将成为一个母亲了吗？?"
+    a "我这就将成为一个母亲了吗??"
 
 
 
@@ -238,7 +238,7 @@ label A_daily_15.line_d:
 
     scene a_daily15_6 with tstmgr
 
-    a "蛤？?"
+    a "蛤??"
 
 
 
@@ -358,7 +358,7 @@ label A_daily_15.line_d:
 
     scene a_daily15_17 with tstmgr
 
-    a "我真的会成为一个母亲吗？"
+    a "我真的会成为一个母亲吗?"
 
 
 

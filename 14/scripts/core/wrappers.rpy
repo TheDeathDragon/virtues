@@ -173,7 +173,7 @@ init -2 python:
 
 
     def not_implemented_message():
-        Push("对不起，这个故事将在未来的版本中实现。")
+        Push("对不起，这个故事将在未来的版本中实现.")
 
 
 

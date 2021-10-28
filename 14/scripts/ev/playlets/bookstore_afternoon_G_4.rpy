@@ -8,7 +8,7 @@ label bookstore_afternoon_G_4:
 
     scene bookstore_afternoon_g_4_2 with tstmgr
 
-    g "哦，我能帮什么忙？"
+    g "哦，我能帮什么忙?"
 
 
 
@@ -34,7 +34,7 @@ label bookstore_afternoon_G_4:
 
     scene bookstore_afternoon_g_4_5 with tstmgr
 
-    player "什么？不，我只是到处走走，不用管我。."
+    player "什么?不，我只是到处走走，不用管我.."
 
 
 
@@ -42,7 +42,7 @@ label bookstore_afternoon_G_4:
 
 
 
-    "男人A" "算了吧，我，我自己去找吧。."
+    "男人A" "算了吧，我，我自己去找吧.."
 
 
 
@@ -58,11 +58,11 @@ label bookstore_afternoon_G_4:
 
     scene bookstore_afternoon_g_4_7 with tstmgr
 
-    g "主人... [P], 你不需要这么......敏感。那位先生只是想问问题."
+    g "主人... [P], 你不需要这么......敏感.那位先生只是想问问题."
 
 
 
-    player "Eh... ... 我什么也没做。我只是...作为你的保镖站在这里."
+    player "Eh... ... 我什么也没做.我只是...作为你的保镖站在这里."
 
 
 

@@ -12,7 +12,7 @@ label bnb_frontyard_morning_C_1:
 
     scene bnb_frontyard_morning_c_1_1 with tstmgr
 
-    player "嗯，狄奥？你怎么会在这里？"
+    player "嗯，狄奥?你怎么会在这里?"
 
 
 

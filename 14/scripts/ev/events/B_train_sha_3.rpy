@@ -1031,7 +1031,7 @@ label B_train_sha_3:
 
 
 
-    player "好！森！我射了!"
+    player "好!森!我射了!"
 
 
     stop sound

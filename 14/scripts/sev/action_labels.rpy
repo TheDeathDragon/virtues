@@ -590,7 +590,7 @@ label find_A_clothing:
 
         a "Hello, [P]."
 
-        a "谢谢你来见我。我现在无聊得要命."
+        a "谢谢你来见我.我现在无聊得要命."
 
         a "… … … …"
 
@@ -618,7 +618,7 @@ label find_A_restaurant:
     a "[P.name]?"
     player "嗨，维拉."
     a "我能为你做些什么?"
-    player "请给我一杯啤酒，什么都不要。我只是在等你下班."
+    player "请给我一杯啤酒，什么都不要.我只是在等你下班."
     scene a_restaurant_slight_surprise with tstmgr
     a "Oh, 好吧..."
     scene bar_background with tstmgr
@@ -640,7 +640,7 @@ label hang_park:
         scene park_day_background with tstmgr
     else:
         scene park_night_background with tstmgr
-    "我在公园里走了走。没有什么特别的."
+    "我在公园里走了走.没有什么特别的."
 
     $ time_proceed(1)
     jump action_post

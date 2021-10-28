@@ -8,7 +8,7 @@ label CDE_duo_4:
 
     scene cde_duo_4_1 with dissolve
 
-    d "那么，你有没有调查过为什么妈妈会在晚上去森林？?"
+    d "那么，你有没有调查过为什么妈妈会在晚上去森林??"
 
     scene cde_duo_4_2 with tstmgr
 

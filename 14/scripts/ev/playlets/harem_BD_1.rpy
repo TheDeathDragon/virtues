@@ -34,7 +34,7 @@ label harem_BD_1:
 
     scene harem_bd_1_5 with tstmgr
 
-    b "对不起，艾琳......。我又迷失了自我..."
+    b "对不起，艾琳.......我又迷失了自我..."
 
 
 
@@ -64,7 +64,7 @@ label harem_BD_1:
 
     scene harem_bd_1_8 with tstmgr
 
-    d "你在说什么呢？我实际上有点...喜欢它~"
+    d "你在说什么呢?我实际上有点...喜欢它~"
 
 
 

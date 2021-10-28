@@ -16,7 +16,7 @@ label mansion_swimpool_afternoon_E_1:
 
 
 
-    e "甭管了。你可以走近一点，坐一坐."
+    e "甭管了.你可以走近一点，坐一坐."
 
 
 

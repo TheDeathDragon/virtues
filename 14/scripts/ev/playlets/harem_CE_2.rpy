@@ -32,7 +32,7 @@ label harem_CE_2:
 
     scene harem_ce_2_4 with tstmgr
 
-    c "妈妈？小心点，我们在公司里!"
+    c "妈妈?小心点，我们在公司里!"
 
 
 

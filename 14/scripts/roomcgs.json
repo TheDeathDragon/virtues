@@ -24,7 +24,7 @@
     "action": ["livingroom"],
     "cg": "a_livingroom_2",
     "period": ["LateNight"],
-    "text": ["薇拉正在沙发上打盹。也许她太累了.", "... ... ... ..."]
+    "text": ["薇拉正在沙发上打盹.也许她太累了.", "... ... ... ..."]
   },
   {
     "nz": "A",
@@ -32,7 +32,7 @@
     "action": ["livingroom"],
     "cg": "a_livingroom_3",
     "period": ["Morning", "LateNight"],
-    "text": ["薇拉正在看电视，看起来有点紧张。也许是一部惊悚电影", "... ... ... ..."]
+    "text": ["薇拉正在看电视，看起来有点紧张.也许是一部惊悚电影", "... ... ... ..."]
   },
   {
     "nz": "A",
@@ -50,7 +50,7 @@
     "cg": "g_livingroom_1",
     "period": ["Morning", "Evening"],
     "pre_event": ["G_MoveIn"],
-    "text": ["乌诺正在看书。我想知道那是什么书...", "... ... ... ..."]
+    "text": ["乌诺正在看书.我想知道那是什么书...", "... ... ... ..."]
   },
   {
     "nz": "G",
@@ -59,7 +59,7 @@
     "cg": "g_livingroom_2",
     "period": ["Morning", "Evening"],
     "pre_event": ["G_MoveIn"],
-    "text": ["乌诺正在与一位客人交谈。她话不多，但每个人都喜欢和她交谈.", "... ... ... ..."]
+    "text": ["乌诺正在与一位客人交谈.她话不多，但每个人都喜欢和她交谈.", "... ... ... ..."]
   },
   {
     "nz": "G",
@@ -68,7 +68,7 @@
     "cg": "g_livingroom_3",
     "period": ["Morning", "Evening", "LateNight"],
     "pre_event": ["G_MoveIn"],
-    "text": ["乌诺又在拍摄关于她的乳房的视频了。妈的，她为什么要在公共客厅里做这个？", "... ... ... ..."]
+    "text": ["乌诺又在拍摄关于她的乳房的视频了.妈的，她为什么要在公共客厅里做这个?", "... ... ... ..."]
   },
   {
     "nz": "A",
@@ -199,7 +199,7 @@
     "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "period": ["Morning", "Evening"],
     "pre_event": ["G_MoveIn"],
-    "text": ["乌诺正在拍摄另一个关于她在厕所的胸部的视频。好吧...", "... ... ... ..."]
+    "text": ["乌诺正在拍摄另一个关于她在厕所的胸部的视频.好吧...", "... ... ... ..."]
   },
   {
     "nz": "D",
@@ -289,7 +289,7 @@
     "cg": "e_toilet_#_2",
     "period": ["Forenoon", "Afternoon", "Evening", "LateNight"],
     "pre_event": ["pcsj"],
-    "text": ["她在做什么？从这个位置看不清楚", "... ... ... ..."]
+    "text": ["她在做什么?从这个位置看不清楚", "... ... ... ..."]
   },
   {
     "nz": "D",

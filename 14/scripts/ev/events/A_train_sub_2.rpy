@@ -303,7 +303,7 @@ label A_train_sub_2:
 
     scene a_train_sub_2_22 with tstmgr
 
-    player "淫荡的女仆！你怎么敢在你的主人射精之前高潮?"
+    player "淫荡的女仆!你怎么敢在你的主人射精之前高潮?"
 
 
 

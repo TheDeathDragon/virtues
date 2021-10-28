@@ -492,7 +492,7 @@ screen about():
 
 
             if gui.about:
-                text "感谢游玩！"
+                text "感谢游玩!"
                 add seperator
                 text "[gui.about!t]"
                 add seperator
