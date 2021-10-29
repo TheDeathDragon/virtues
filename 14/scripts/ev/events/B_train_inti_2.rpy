@@ -1054,8 +1054,9 @@ label B_train_inti_2:
 
             stop music fadeout 1.0
 
-            $ MainMenu(confirm=False)()
-
+            if not _replaying_event:
+                "*森柠的悲剧结局达成!*"
+                $ MainMenu(confirm=False)()
 
     stop music fadeout 1.0
 

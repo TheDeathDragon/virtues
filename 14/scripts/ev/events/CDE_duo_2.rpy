@@ -1043,9 +1043,6 @@ label CDE_duo_2:
 
 
 
-    scene void with tstmgr
-
-    "*在版本v12中继续*......"
 
     stop music fadeout 1.0
 

@@ -1,9 +1,14 @@
+image logo = "gui/logo.png"
+define screen_center = Position(xpos=0.5, ypos=0.5)
+
 label splashscreen:
 
     scene expression gui.main_menu_background
     show expression gui.splash_art with dissolve
+    show logo at screen_center with dissolve
     with Pause(0.7)
     hide expression gui.splash_art with dissolve
+    hide logo at screen_center with dissolve
 
 image title:
     "gui/title.png"
