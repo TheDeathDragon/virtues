@@ -153,8 +153,8 @@ init python:
             relation = nz.relation
         return "{}_{}_{}_{}".format(nz.code.lower(), relation, nz.clothes, "default") 
 
-    password_for_10 = "19202"
-    password_for_20 = "82511"
+    password_for_10 = "flngsm"
+    password_for_20 = "smngfl"
     password_forbit = "𗀀"
     reward_str_for_10 = "{color=#dd6574}{size=-3}$10 奖励{/size}{/color}"
     reward_str_for_20 = "{color=#f4cc6c}{size=-3}$20 奖励{/size}{/color}"
