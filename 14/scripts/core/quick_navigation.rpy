@@ -1,6 +1,7 @@
 init python:
-    config.keymap["game_menu"].remove('mouseup_3')
-
+    if 'mouseup_3' in config.keymap["game_menu"]:
+        config.keymap["game_menu"].remove('mouseup_3')
+        
     def quick_navigation():
         if _menu:
             _invoke_game_menu()
