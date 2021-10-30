@@ -8,7 +8,9 @@ label CDE_duo_4:
 
     scene cde_duo_4_1 with dissolve
 
-    d "那么，你有没有调查过为什么妈妈会在晚上去森林??"
+    d "那么，你有没有调查过为什么妈妈会在晚上去森林？?"
+
+
 
     scene cde_duo_4_2 with tstmgr
 
@@ -109,7 +111,7 @@ label CDE_duo_4:
 
     scene cde_duo_4_13 with tstmgr
 
-    d "什么?没有!"
+    d "什么?不行!"
 
 
 
@@ -173,7 +175,7 @@ label CDE_duo_4:
 
     scene cde_duo_4_21 with tstmgr
 
-    c "无论如何，我现在回[P]那里了，明天见~"
+    c "无论如何，我现在要回[P]那里了，明天见~"
 
 
 

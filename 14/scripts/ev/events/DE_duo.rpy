@@ -488,19 +488,189 @@ label DE_duo:
 
 
 
-            "未完待续."
+            if E.love < 55:
 
-            jump DE_duo_choice_2
-        "和她们一起睡午觉":
+                "进一步的情节将在伊莉莎的好感度达到55后解锁."
+
+                "你可以随时在位于你卧室的'情节回放'按钮中重放这个事件."
+
+                jump DE_duo_choice_2
+            else:
+
+                scene de_duo1_76 with tstmgr
+
+                player "... ... ... ..."
+
+                "她们紧紧地搂住我的胳膊,我现在什么也做不了......"
+
+                "但是......"
+
+                scene de_duo1_77 with tstmgr
+
+                "我还可以......稍微移动我的手......"
+
+                "伊莉莎姨妈的长腿......"
+
+                scene de_duo1_78 with tstmgr
+
+                pause
+
+                scene de_duo1_77 with tstmgr
+
+                pause
+
+                scene de_duo1_78 with tstmgr
+
+                pause
+
+                scene de_duo1_57 with tstmgr
+
+                e "嗯嗯？"
+
+                player "哦,我把你吵醒了吗？对不起,我只是......"
+
+                scene de_duo1_58 with tstmgr
+
+                e "*微笑* ... ... ... ..."
+
+                scene de_duo1_59 with tstmgr
+
+                e "Shhhhh... ..."
+
+                e "*Whispering* Come with me~"
+
+                player "... ... ... ..."
+
+                scene void with tstmgr
+
+                "... ... ... ... ... ..."
+
+
+                "稍后......"
+
+                scene de_duo1_60 with tstmgr
+
+                d "Zzzz... zzz... ... ... ..."
+
+                scene de_duo1_61 with tstmgr
+
+                d "*醒来* ... ... ... ..."
+
+                scene de_duo1_62 with tstmgr
+
+                d "Emmmmm? 妈妈？[P]? 你在哪里？"
+
+                scene de_duo1_63 with tstmgr
+
+                e "在这里,宝贝儿~"
+
+                e "这里太热了,所以我和[P]下水了~你想加入我们吗？"
+
+                scene de_duo1_64 with tstmgr
+
+                d "嗯嗯.......不,我宁愿再睡几分钟~"
+
+                scene de_duo1_65 with tstmgr
+
+                d "Zzzzzz~~~~ Zzzzzz~~~~ Zzzzzz~~~~"
+
+                scene de_duo1_66 with tstmgr
+
+                e "瞌睡虫~"
+
+                scene de_duo1_67 with tstmgr
+
+                e "但是......幸运的是她没有和我们一起下水,否则......"
+
+                e "她会......发现的......"
+
+                scene de_duo1_68 with tstmgr
+                play sound de_duo1_68 loop
+                pause
+
+                e "她的母亲......像个妓女一样... ...正在被操......"
+
+                e "*压抑的呻吟* Emmmmmm~~ohhhh~~.......就是那个地方...... ...是的......"
+
+                player "嘘......"
+
+                E "不能......要保持安静~~~"
+
+                "你的鸡巴......这么硬......这么热......充满了力量.......爱死它了......太爱了......"
+
+                e "我是......一个不知羞耻的母亲......"
+
+                stop sound
+                scene de_duo1_69 with tstmgr
+                play sound de_duo1_69 loop
+                pause
+
+                e "*压抑的呻吟* Awwwww~~ uuuhh~~ 不... ... ahhhhh~~~~"
+
+                e "我正在被操......同时看着我的小女儿天使般的睡脸.....太兴奋了.......太不知羞耻了~~"
+
+                e "啊~~~呵呵~~~是的......哦~~~"
+
+                e "这真是......午睡后最好的运动......"
+
+                "是的~~~嗯~~~嗯~~~~嗯~~~~"
+
+                player "准备好接受我的精液,阿姨~"
+
+                e "就......按你的要求做吧~~~"
+
+                player "我射了!"
+
+                stop sound
+                scene de_duo1_70 with tstmgr
+                play sound cumshot
+                $ flashlight()
+
+                e "*压抑的呻吟* Wuuuuuuuummmmm~~~~~~~~~"
+
+                scene de_duo1_71 with tstmgr
+                play sound cumshot
+
+                e "是的~~火热的精液~~~在我体内全部射出来吧...哦~~~~~"
+
+                "Elisa的身体在水中随着高潮的到来而用力的颤抖."
+
+                scene de_duo1_72 with tstmgr
+
+                d "Emmmmm？怎么了,妈妈？"
+
+                e "我......我只是脚抽筋了,别担心,不严重~"
+
+                scene de_duo1_73 with tstmgr
+
+                d "哦,好的,小心点......"
+
+                scene de_duo1_74 with tstmgr
+
+                d "Zzzzzz...Zzz...Zzz...Zzz..."
+
+                scene de_duo1_75 with tstmgr
+
+                e "我们应该......现在出去......"
+
+                "整个池子都充满了我们的爱液......"
+
+                "必须要......换水......"
+
+                scene void with tstmgr
+
+                "... ... ... ..."
+        "和她们一起睡一觉":
 
 
 
 
-            player "(Hmmmm... ... ... ...)"
+            player "（嗯...... ...... ......）"
 
             scene de_duo1_32 with tstmgr
 
-            player "(我觉得太累了.我想我应该闭上眼睛,像她们一样小睡一会儿.)"
+            player "（算了吧,我也觉得很累.我想我应该闭上眼睛,像她们一样打个盹.)"
+        
 
             scene void with tstmgr
 

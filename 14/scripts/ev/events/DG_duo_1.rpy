@@ -9,7 +9,7 @@ label DG_duo_1:
 
     scene dg_duo_1_1 with tstmgr
 
-    d "Ha!乌诺!~~~今天是国际猫日!~我们要做一整天的猫女!你准备好了吗??Meow!"
+    d "Ha!乌诺!~~~今天是国际猫咪日!~我们要做一整天的猫娘!你准备好了吗??Meow!"
 
 
 
@@ -605,9 +605,160 @@ label DG_duo_1:
 
 
 
-            "未完待续.在艾琳和乌诺的后宫接受值达到20后,剩下的情节将在未来的更新中继续."
+            if D. harem < 15 or G.harem < 20:
 
-            jump DG_duo_1_choice_2
+                "进一步的情节将在艾琳的后宫值达到15,乌诺达到20后解锁."
+
+                "你可以随时在位于你卧室的'情节回放'按钮中重放这个事件."
+
+                jump DG_duo_1_choice_2
+            else:
+
+
+                player "我......还没有."
+
+                scene dg_duo_1_67 with tstmgr
+
+                player "*往下看* ... ... ... ..."
+
+                scene dg_duo_1_68 with tstmgr
+
+                "女孩们" "... ... ... ..."
+
+                g "Oh, 我知道了~"
+
+                scene dg_duo_1_54 with tstmgr
+
+                d "等等,乌诺,你是不是想.... ..."
+
+                scene dg_duo_1_55 with tstmgr
+
+                "乌诺毫不犹豫地把我勃起的肉棒从裤子里拿出来."
+
+                d "乌诺......"
+
+                "主人的巨物需要平静下来~"
+
+                scene dg_duo_1_56 with tstmgr
+
+                g "我是......主人的宠物,宠物应该在主人需要的时候帮助他......"
+
+                g "让我帮助你,主人~"
+
+                scene dg_duo_1_57 with tstmgr
+
+                pause
+
+                scene dg_duo_1_56 with tstmgr
+
+                pause
+
+                scene dg_duo_1_57 with tstmgr
+
+                pause
+
+                scene dg_duo_1_56 with tstmgr
+
+                pause
+
+                scene dg_duo_1_57 with tstmgr
+
+                pause
+
+                scene dg_duo_1_56 with tstmgr
+
+                pause
+
+                scene dg_duo_1_57 with tstmgr
+
+                pause
+
+                player "Ahhh~ 乌诺, 你真的是太棒了... ..."
+
+                g "我是主人最喜欢的宠物吗?"
+
+                d "Awwwww! 我也能做到!"
+
+                scene dg_duo_1_58 with tstmgr
+
+                d "我也要成为......主人最喜欢的宠物~"
+
+                scene dg_duo_1_59 with tstmgr
+
+                pause
+
+                scene dg_duo_1_60 with tstmgr
+
+                pause
+
+                scene dg_duo_1_59 with tstmgr
+
+                pause
+
+                scene dg_duo_1_60 with tstmgr
+
+                pause
+
+                scene dg_duo_1_59 with tstmgr
+
+                pause
+
+                scene dg_duo_1_60 with tstmgr
+
+                pause
+
+                scene dg_duo_1_59 with tstmgr
+
+                pause
+
+                scene dg_duo_1_60 with tstmgr
+
+                pause
+
+                player "Ohhh... 女孩们, 你们真是太棒了!~"
+
+                player "现在把你们的奶子并拢,我要赏赐你们最喜欢的东西了~"
+
+                g "如你所愿,主人~"
+
+                scene dg_duo_1_61 with tstmgr
+
+                d "像这样吗?"
+
+                d "嗯......我的乳房看起来好小......"
+
+                player "我的意思是......"
+
+                scene dg_duo_1_62 with tstmgr
+
+                $ flashlight()
+
+                player "让它们一起!"
+
+                scene dg_duo_1_63 with tstmgr
+
+                "女孩们" "Awwwwwwww~~~~"
+
+                scene dg_duo_1_64 with tstmgr
+                play sound cumshot
+                $ flashlight()
+
+                g "主人... 射精了!~"
+
+                d "好...好多~"
+
+                scene dg_duo_1_65 with tstmgr
+
+                pause
+
+                player "做的很棒,小猫咪们... ..."
+
+                scene dg_duo_1_66 with tstmgr
+
+                player "你们都是我.. 最喜欢的宠物~"
+
+                "... ... ... ..."
+
 
     stop music fadeout 1.0
 
