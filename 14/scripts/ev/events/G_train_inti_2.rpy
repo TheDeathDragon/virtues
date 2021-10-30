@@ -323,7 +323,7 @@ label G_train_inti_2:
 
             player "因此,你将不再是唯一一个受到人们关注的人.他们会把我们当作一个整体来看待."
 
-            player "也许这也会给我带来一些女粉丝~我希望看到这样的评论:"我也想让他那样操我."~"
+            player "也许这也会给我带来一些女粉丝~我希望看到这样的评论:\"我也想让他那样操我.\"~"
 
             "说实话,我不确定这是否真的有帮助,但至少可以让她觉得她不是一个人.我认为这非常重要."
 
@@ -521,7 +521,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_27 with tstmgr
 
-            g "欢迎回家,[P]".
+            g "欢迎回家,[P]"
 
             "女孩终于笑了.自从她搬到这里后,她开始只在看到他时才微笑."
 
@@ -782,7 +782,7 @@ label G_train_inti_2:
 
             "她的眼睛里已经没有星星了."
 
-            player"......".
+            player"......"
 
             "我们仍然像以前那样爱着对方.我们的性生活还像以前一样完美和谐,但我们的关系一定,一定有问题."
 
@@ -870,7 +870,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_62 with tstmgr
 
-            player "我将放弃我的工作,从明天开始,每天和你呆在一起.
+            player "我将放弃我的工作,从明天开始,每天和你呆在一起."
 
             scene g_train_inti_2_63 with tstmgr
 
@@ -933,7 +933,7 @@ label G_train_inti_2:
 
             g "是的,一起!"
 
-           scene g_train_inti_2_69 with tstmgr
+            scene g_train_inti_2_69 with tstmgr
 
             g "今晚我们在网上订些食物吧! 我又想吃炸鸡了!~"
 

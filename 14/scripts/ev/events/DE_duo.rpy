@@ -503,7 +503,7 @@ label DE_duo:
 
                 "她们紧紧地搂住我的胳膊,我现在什么也做不了......"
 
-                "但是......".
+                "但是......"
 
                 scene de_duo1_77 with tstmgr
 
@@ -529,7 +529,7 @@ label DE_duo:
 
                 player "哦,我把你吵醒了吗？对不起,我只是......"
 
-                场景 de_duo1_58 with tstmgr
+                scene de_duo1_58 with tstmgr
 
                 e "*微笑* ... ... ... ..."
 
@@ -546,7 +546,7 @@ label DE_duo:
                 "... ... ... ... ... ..."
 
 
-                "稍后......".
+                "稍后......"
 
                 scene de_duo1_60 with tstmgr
 
@@ -592,7 +592,7 @@ label DE_duo:
 
                 e "*压抑的呻吟* Emmmmmm~~ohhhh~~.......就是那个地方...... ...是的......"
 
-                player "嘘......".
+                player "嘘......"
 
                 E "不能......要保持安静~~~"
 
@@ -660,16 +660,16 @@ label DE_duo:
                 scene void with tstmgr
 
                 "... ... ... ..."
-        "和她们一起睡一觉".
+        "和她们一起睡一觉":
 
 
 
 
-            player"（嗯...... ...... ......）"
+            player "（嗯...... ...... ......）"
 
             scene de_duo1_32 with tstmgr
 
-            player"（算了吧,我也觉得很累.我想我应该闭上眼睛,像她们一样打个盹.)
+            player "（算了吧,我也觉得很累.我想我应该闭上眼睛,像她们一样打个盹.)"
         
 
             scene void with tstmgr
