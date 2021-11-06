@@ -25,7 +25,7 @@ label sleep_A:
     elif rdc(2):
         scene sleep_a_2 with tstmgr
         a "我明天还要上班,[P.name].别...做太久了."
-    elif True:
+    else:
         scene sleep_a_3 with tstmgr
         a "差不多了...我想睡觉..."
         "... ... ... ..."
@@ -49,7 +49,7 @@ label sleep_C:
         scene sleep_c_2 with tstmgr
         c "等等~~不要玩我的乳头!~~~"
         "... ... ... ..."
-    elif True:
+    else:
         scene sleep_c_3 with tstmgr
         c "晚安,我的小处男~"
         "... ... ... ..."
@@ -73,7 +73,7 @@ label sleep_G:
         scene sleep_g_2 with tstmgr
         g "Awwwwwwww~~~~~yes,yes,继续这样操我~~"
         "... ... ... ..."
-    elif True:
+    else:
         scene sleep_g_3 with tstmgr
         g "(梦呓)鸡......炸鸡......"
         "... ... ... ..."

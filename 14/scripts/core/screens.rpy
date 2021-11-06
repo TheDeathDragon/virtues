@@ -238,7 +238,8 @@ screen quick_menu():
             textbutton _("历史") action ShowMenu('history')
             textbutton _("前进") action Skip() alternate Skip(fast=True, confirm=True)
             textbutton _("自动") action Preference("auto-forward", "toggle")
-            textbutton _("读档") action ShowMenu('save')
+            textbutton _("存档") action ShowMenu('save')
+            textbutton _("读档") action QuickSave()
             textbutton _("快速读档") action QuickLoad()
             textbutton _("设置") action ShowMenu('preferences')
 

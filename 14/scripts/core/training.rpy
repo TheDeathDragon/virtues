@@ -3,7 +3,7 @@ default TRAINING = {
         "B": TrainingStatus("B"),
         "C": TrainingStatus("C"),
         "D": TrainingStatus("D"),
-        "E": TrainingStatus("E"),
+        "E": TrainingStatus("E", shame=1),
         "F": TrainingStatus("F"),
         "G": TrainingStatus("G", sub=1, shame=1)
     }
