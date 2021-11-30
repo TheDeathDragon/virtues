@@ -1,6 +1,6 @@
 default general_hint_seen = False
-define general_hint_text = '''{size=+10}{color=#e8888a}General Hints{/color}{/size}
-1. Most events in school happen at daytime. '''
+define general_hint_text = '''{size=+10}{color=#e8888a}小提醒{/color}{/size}
+1. 学校里的大多数活动都发生在白天. '''
 screen general_hint_window():
     zorder 87
 

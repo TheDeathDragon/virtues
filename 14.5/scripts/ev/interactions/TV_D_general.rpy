@@ -14,9 +14,9 @@ label TV_D_general:
 
 
 
-    bubble_d "Great! It’s time for a break."
+    bubble_d "棒!是时候休息了."
 
-    bubble_d "You are the best, [P]!"
+    bubble_d "你是最棒的,[P]!"
 
 
 
@@ -36,7 +36,7 @@ label TV_D_general:
 
     d "... ... ... ..."
 
-    d "It’s like I’m sitting on a sofa monster."
+    d "就像我坐在一个沙发怪物上."
 
 
 
@@ -54,9 +54,9 @@ label TV_D_general:
 
 
 
-    d "Oww... itchy... ..."
+    d "Oww...好痒......"
 
-    d "Bad sofa, bad sofa..."
+    d "坏沙发,坏沙发..."
 
 
 
@@ -74,9 +74,9 @@ label TV_D_general:
 
 
 
-    d "But nevermind. I like the way you kissing my face."
+    d "但无所谓.我喜欢你吻我的脸."
 
-    d "My skin is softer than Theo, don’t you think?"
+    d "我的皮肤比狄奥多拉还软,你不觉得吗?"
 
     jump interaction_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

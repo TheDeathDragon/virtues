@@ -5,7 +5,7 @@ label F_daily_4:
         scene void with tstmgr
         play music happy
 
-        "It was a sunny afternoon, I was wandering at the campus, and suddenly... ..."
+        "那是一个阳光明媚的下午,我漫步在校园里,突然......"
 
 
 
@@ -17,7 +17,7 @@ label F_daily_4:
 
 
 
-        "I turned around and saw... ..."
+        "我回头一看......"
 
 
 
@@ -31,17 +31,17 @@ label F_daily_4:
 
         scene void with tstmgr
 
-        "And then I was knocked out on the ground by that clean kick."
+        "然后我被那干净的一脚踢倒在地."
 
 
 
         scene f_daily4_2 with tstmgr
 
-        f "You!"
+        f "你!"
 
 
 
-        "I... I am totally dead. She must be here to revenge what I did to her the other day..."
+        "我...我感觉要死了.她一定是来报复我那天对她所做的事的..."
 
 
 
@@ -51,23 +51,23 @@ label F_daily_4:
 
 
 
-        "Yeah, I went too far that day..."
+        "Yeah,那天我太过分了..."
 
 
 
         scene f_daily4_2 with flashback
 
-        f "You should be so ashamed of what you did to me!"
+        f "你应该为你对我所做的感到羞耻!"
 
 
 
-        player "I’m... sorry... ..."
+        player "我...对不起......"
 
 
 
         scene f_daily4_3 with tstmgr
 
-        f "I already said I submitted and you still didn’t let me go! That was against the rules! Cheater!"
+        f "我已经说了投降,你还是不放开我!那是犯规的!骗子!"
 
 
 
@@ -75,7 +75,7 @@ label F_daily_4:
 
 
 
-        "That was... not exactly what I thought she would say."
+        "这...和我想的不太一样."
 
 
 
@@ -85,99 +85,99 @@ label F_daily_4:
 
         scene f_daily4_4 with tstmgr
 
-        f "What was your trick?"
+        f "你耍了什么把戏?"
 
 
 
-        player "My trick?"
+        player "把戏?"
 
 
 
-        f "Your tongue... you licked me and made me lose my strength with your tongue. How did you do that?"
+        f "你的舌头...你舔我,用舌头使我软弱.你是怎么做到的?"
 
 
 
-        player "I... I... ... ..."
+        player "我...我........."
 
 
 
-        "Yep, this girl seems to know nothing about sex and gender. I couldn’t believe this kind of people really exist in the modern world until I saw her."
+        "这个女孩似乎对性和性别方面的东西一无所知.直到我见到她,我才相信现代世界真的存在这样的人."
 
 
 
         scene f_daily4_5 with tstmgr
 
-        f "And I remembered that you once touched my chest before... That also felt very great. You must have some unique tricks, so tell me what they are."
+        f "我记得你曾经摸过我的胸...那感觉也很好.你一定有什么绝招,就告诉我吧."
 
 
 
-        "Damn... how should I explain that?"
+        "Damn...我该怎么解释呢?"
 
 
 
-        player "That was just... a general massage, nothing special..."
+        player "那只是...普通的按摩,没什么特别的..."
 
 
 
-        f "Then can you massage me again? Because... ..."
+        f "那你能再给我按摩一次吗?因为......"
 
 
 
         scene f_daily4_4 with tstmgr
 
-        f "It was so comfortable. I never had such an experience before..."
+        f "太舒服了.我以前从未有过这样的经历..."
 
 
 
-        player "I... ... ... ..."
+        player "我............"
 
 
 
         scene f_daily4_6 with tstmgr
 
-        f "Come to my room and make me comfortable again when you have time. I’ll take that as your apology."
+        f "有时间再到我房间来,让我舒服.我就接受你的道歉."
 
 
 
-        "I guess she didn’t give me the chance to refuse, so..."
+        "我想她没有给我拒绝的机会,所以..."
 
 
 
-        player "Okay, okay, whatever you say..."
+        player "Okay,okay,照你说的做..."
 
 
 
         scene f_daily4_7 with tstmgr
 
-        f "Great! I can’t wait! Thank you, [P]. You are really a good friend!"
+        f "Great!我等不及了!谢谢你!,[P].你真是个好朋友!"
 
 
 
-        "Her anger disappeared like a wind. That’s... a good character, I guess..."
+        "她的愤怒像一阵风一样消失了.这...我想她是个性格挺好..."
 
 
 
-        player "(Smiling wryly) Friend... huh... ..."
+        player "(苦笑)朋友...huh......"
 
 
 
-        player "Then how about... you releasing me first?..."
+        player "然后呢...你先放开我?..."
 
 
 
         scene f_daily4_8 with tstmgr
 
-        f "Oh, yeah, sorry~"
+        f "Oh,yeah,抱歉~"
 
 
 
         scene f_daily4_9 with tstmgr
 
-        "She released my collar, but I didn’t really feel any relieved."
+        "她松开了我的衣领,但我并没有真正感到轻松."
 
 
 
-        "I started to feel bad about this. This innocent girl fully trusts me as a friend, but I lied to her and took advantages at her! I guess I deserved that kick."
+        "我开始为此感到难过.这个天真的女孩完全相信我是她的朋友,但是我欺骗了她,利用了她!我想这是我活该."
 
 
 
@@ -185,31 +185,31 @@ label F_daily_4:
 
 
 
-        "I need to teach her the knowledge of sex fairly so no one else can take advantage at her again. Yes, that’s what a friend really should do."
+        "我需要公平地教她关于性的知识,这样别人就不会再占她便宜了.是的,这才是一个朋友真正应该做的."
 
 
 
         scene f_daily4_10 with tstmgr
 
-        f "Hmmm? Are you alright? Your face looks grim."
+        f "Hmmm?你还好吗?你的脸看起来很严肃."
 
 
 
-        player "Nothing, Rachel. And... eh, again, I am very sorry for what I did to you earlier. I promise I’ll make up for you."
+        player "没什么,瑞秋.就是...eh,再次为我之前对你所做的道歉.我保证会补偿你的."
 
 
 
         scene f_daily4_11 with tstmgr
 
-        f "Wow... ... you look super handsome when you are being serious. But why so serious? I wasn’t really mad at you... ..."
+        f "Wow......你严肃的时候看起来超级帅.但为什么要这么严肃呢?我不是真的生你的气......"
 
 
 
-        player "No, you don’t understand..."
+        player "No,你不明白..."
 
 
 
-        player "Nevermind, let’s talk about it later. I’ll find you in your room again when I have time."
+        player "没关系,我们以后再谈.当我有时间的时候,我会再去你的房间找你."
 
 
 
@@ -219,11 +219,11 @@ label F_daily_4:
 
 
 
-        f "Now I’m heading for the training. See you then~"
+        f "现在我要去训练了.到时候见~"
 
 
 
-        player "Bye, Rachel."
+        player "Bye,瑞秋."
 
 
 
@@ -242,7 +242,7 @@ label F_daily_4:
         scene void with tstmgr
         play music happy
 
-        "It was a sunny afternoon, I was wandering at the campus, and suddenly I heard..."
+        "那是一个阳光明媚的下午,我正在校园里漫步,突然我听到..."
 
 
 
@@ -256,55 +256,55 @@ label F_daily_4:
 
         scene f_daily4_9 with dissolve
 
-        "I turned around and saw an ebony beauty standing behind me."
+        "我转过身,看见一个乌木美人站在我身后."
 
 
 
-        player "Oh, hi, Rachel. I didn’t even hear your footsteps."
+        player "Oh,hi,瑞秋.我甚至没有听到你的脚步声."
 
 
 
-        f "You know~ I am quite free this afternoon. Do you want to... spend some time with me?"
+        f "你知道的,今天下午我有空.你想...花点时间陪我吗?"
 
 
 
-        player "Spend some time... ... Wait, are you asking me for a date?"
+        player "花一些时间......等等,你是在约我吗?"
 
 
 
         scene f_daily4_10 with tstmgr
 
-        f "Date?"
+        f "约你?"
 
 
 
         scene f_daily4_9 with tstmgr
 
-        f "Yeah, I think so~"
+        f "Yeah,我想是吧~"
 
 
 
-        player "Oh, eh, okay. I do have a lot of time to spend this afternoon. What do you want to do?"
+        player "Oh,eh,okay.今天下午我确实有空.你想做什么?"
 
 
 
         scene f_daily4_11 with tstmgr
 
-        f "Great! Let’s go to my room so you can massage my breasts like the last time!~"
+        f "Great!我们去我的房间,像上次那样给我按摩胸!~"
 
 
 
-        player "I... I... ... ..."
+        player "我...我........."
 
 
 
         scene f_daily4_12 with tstmgr
 
-        "Yep, this girl seems to know nothing about sex and gender. I couldn’t believe this kind of people really exist in the modern world until I saw her."
+        "这个女孩似乎对性和性别方面的东西一无所知.直到我见到她,我才相信现代世界真的存在这样的人."
 
 
 
-        "I started to feel bad about this. This innocent girl fully trusts me as a friend, but I lied to her and took advantages at her with that... breasts massage thing!"
+        "我开始为此感到难过.这个天真的女孩完全相信我是她的朋友,但我却骗了她,利用了她.乳房按摩的事情!"
 
 
 
@@ -312,17 +312,17 @@ label F_daily_4:
 
 
 
-        "I need to teach her the knowledge of sex fairly so no one else can take advantage at her again. Yes, that’s what a friend really should do."
+        "我需要公平地教她关于性的知识,这样别人就不会再占她便宜了.是的,这才是一个朋友真正应该做的."
 
 
 
         scene f_daily4_10 with tstmgr
 
-        f "Hmmm? Are you alright? Your face looks grim."
+        f "Hmmm?你还好吗?你的脸看起来很严肃."
 
 
 
-        player "Nothing, Rachel. And... eh, I’ll find you in your room again when I have time."
+        player "没什么,瑞秋.就是...eh,当我有时间的时候,我会再去你的房间找你."
 
 
 
@@ -332,11 +332,11 @@ label F_daily_4:
 
 
 
-        f "Now I’m heading for the training. See you then~"
+        f "现在我要去训练了.到时候见~"
 
 
 
-        player "Bye, Rachel."
+        player "Bye,瑞秋."
 
 
 

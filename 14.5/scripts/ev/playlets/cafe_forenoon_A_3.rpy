@@ -2,21 +2,21 @@ label cafe_forenoon_A_3:
 
     scene cafe_background with tstmgr
 
-    "I came to Vera's workplace in the morning, but didn't find her."
+    "我早上来到薇拉的工作场所,但没有找到她."
 
 
 
-    "Seems like she still doesn't want to see me."
+    "看来她还是不想见我."
 
 
 
-    "I left with disappointment."
+    "我失望地离开了."
 
 
 
     scene a_cafe_weird with tstmgr
 
-    a "(Looking at [P]'s back) [P]... ... ... ..."
+    a "(看着 [P] 的背影) [P]... ... ... ..."
 
 
 

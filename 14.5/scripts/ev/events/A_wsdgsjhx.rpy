@@ -2,63 +2,63 @@ label A_wsdgsjhx:
 
     scene a_love1_1 with tstmgr
 
-    narrator "I picked Vera up again tonight after she got off work."
+    narrator "薇拉今晚下班后,我又来接她."
 
-    player "How was your day?"
+    player "今天怎么样?"
 
     scene a_love1_2 with tstmgr
 
-    a "Eh, It was fine, you?"
+    a "En,我很好.你呢?"
 
-    player "Well, nothing special happened."
+    player "Well,没什么特别的."
 
-    a "You know, there was a drunk guest spitting on Alice just before you came."
+    a "你知道,就在你来之前,有个喝醉了的客人朝爱丽丝吐口水."
 
-    player "Really? That's unfortunate for her."
+    player "真的吗?她可真不幸."
 
-    a "What even more unfortunate is, she couldn't help but say the F word in front of that guest. Our manager amerced her for half a day's wage."
+    a "更不幸的是,她在客人面前忍不住说脏话,经理罚她半天工资."
 
-    player "Dang, I bet she'll end up quiting because of that."
+    player "Huh,我猜她要辞职了."
 
-    a "Yeah she mentioned quitting to me, but who knows."
+    a "这也是她对我说的话.但谁知道呢."
 
-    narrator "It has been a few days since Vera and I were able to communicate pleasantly like friends. She's more talkative and has even become accustomed to waiting for me to pick her up after work."
+    narrator "从薇拉和我能像朋友一样愉快地交流到现在已经有几天了.她已经习惯每天等我来接她,在我面前她变得越来越健谈."
 
-    narrator "As a girl from the countryside who has no friends in the city, she is very lonely. She needs someone to talk with, so here I am. "
+    narrator "作为一个没有朋友的乡下女孩,她很孤独.她需要有人倾诉,所以我来充当这个角色."
 
     narrator "... ... ... ..."
 
-    player "Oh, I almost forgot. Here..."
+    player "Oh,我差点忘了.给..."
 
     scene a_love1_3 with tstmgr
 
-    narrator "I handed her a chain of keys."
+    narrator "我递给她一串钥匙."
 
-    player "Remember what I said about providing you a house to live some days ago?"
+    player "还记得几天前我说过要给你一所房子住吗?"
 
-    player "These are the keys to your new house, and I have texted you the address. You can move in there tomorrow if you want."
+    player "这些是你新房子的钥匙,我已经把地址发短信给你了.如果你愿意,你可以明天搬进去."
 
     a "Ah..."
 
     scene a_love1_4 with tstmgr
 
-    a "Thank you..."
+    a "谢谢你..."
 
-    player "Do you need any help moving?"
+    player "你需要我帮你搬家吗?"
 
-    a "I can handle this alone. I don't have many luggages."
+    a "我一个人就能搞定.我没有很多行李."
 
-    player "Alright. Just call me if you have any problems."
+    player "好吧.如果你有任何问题尽管打电话给我."
 
-    a "Thank you..."
+    a "谢谢你..."
 
     scene a_love1_5 with tstmgr
 
-    a "*Murmuring*...You really are a good man..."
+    a "...(小声)你真是个好人..."
 
-    player "Did you just say something?"
+    player "你刚才说什么?"
 
-    a "No, nothing at all."
+    a "没有,什么也没说."
 
     narrator "... ... ... ..."
 

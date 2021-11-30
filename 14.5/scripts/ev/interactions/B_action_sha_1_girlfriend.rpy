@@ -2,7 +2,7 @@ label B_action_sha_1_girlfriend:
 
     scene void with tstmgr
 
-    "Evening, in a nightclub..."
+    "晚上,在一家夜店..."
 
 
 
@@ -12,7 +12,7 @@ label B_action_sha_1_girlfriend:
 
 
 
-    b "(Being a little flustered) What should we do now?"
+    b "(有点慌张)我们现在该怎么办?"
 
 
 
@@ -23,46 +23,46 @@ label B_action_sha_1_girlfriend:
     label B_action_sha_1_girlfriend_choice_1:
 
     menu:
-        "Go to the restroom with her" if True:
+        "和她一起去洗手间" if True:
 
 
             scene b_action_sha_1_2 with tstmgr
 
-            b "Restroom? You mean... ... Oh... ..."
+            b "洗手间?你的意思是说......Oh......"
 
             scene b_action_sha_1_3 with tstmgr
 
-            b "(Blushed) ... ... ... ..."
+            b "(脸红)............"
 
-            b "Okay... ..."
+            b "嗯......"
 
             scene void with tstmgr
 
-            "A few moments later..."
+            "不一会儿..."
 
             scene b_action_sha_1_4 with dissolve
 
-            b "This place stinks... ..."
+            b "这个地方很臭......"
 
             scene b_action_sha_1_5 with tstmgr
 
-            "Girl" "*Moaning from the next door* Ohhhhhhhhh!~~ Yes~ Fuck me harder!~~~~"
+            "女孩""*隔壁传来的呻吟声*Ohhhhhhhhh!~~Yes~用力操我!~~~~"
 
             scene b_action_sha_1_6 with tstmgr
 
-            b "(Blushed) Wow... ... ... ..."
+            b "(脸红)Wow............"
 
             scene b_action_sha_1_7 with tstmgr
 
-            player "You know, we should probably do the same thing."
+            player "你知道的,我们应该做同样的事情."
 
             scene b_action_sha_1_8 with tstmgr
 
-            b "No, no sex, thanks."
+            b "不,不做爱,谢谢."
 
             scene b_action_sha_1_9 with tstmgr
 
-            b "I’ll... do it with my mouth... again... ..."
+            b "我会...用我的嘴...再做一次......"
 
             scene void with tstmgr
 
@@ -72,19 +72,19 @@ label B_action_sha_1_girlfriend:
 
             pause
 
-            "I took off my shirt and suit pants and enjoyed to be served by her tongue."
+            "我脱下衬衫和西装裤,享受着她的舌头."
 
-            player "Ahhhh... Sen, you are getting better at this... ..."
+            player "Ahhhh...森,你做得越来越好了......"
 
-            b "Of course I am. I practice it with a cucumber everyday~"
+            b "当然了.我每天都用黄瓜练习~"
 
-            player "What? Damn, you are such a horny girl."
+            player "什么?Damn,你真是个好色的女孩."
 
-            player "It’s weird that a horny girl like you would be afraid of having sex..."
+            player "像你这样好色的女孩害怕做爱是很奇怪的..."
 
-            b "I... I am not horny..."
+            b "我...我不好色..."
 
-            player "Ahhhhh... I’m going to cum!~"
+            player "Ahhhhh...我要射了!~"
 
             scene b_action_sha_1_10 with tstmgr
 
@@ -92,7 +92,7 @@ label B_action_sha_1_girlfriend:
 
             scene b_action_sha_1_11 with tstmgr
 
-            "She tried her best to cover my glans with her mouth."
+            "她尽力用嘴含住我的龟头."
 
             scene b_action_sha_1_12 with tstmgr
 
@@ -100,7 +100,7 @@ label B_action_sha_1_girlfriend:
 
             scene b_action_sha_1_13 with tstmgr
 
-            "But I came so much that she couldn’t cover it all..."
+            "但我射的太多了,她没办法完全含住..."
 
             scene b_action_sha_1_14 with tstmgr
 
@@ -120,65 +120,65 @@ label B_action_sha_1_girlfriend:
 
             pause
 
-            b "Oh... my... God... ..."
+            b "Oh...我的...天......"
 
             scene b_action_sha_1_17 with tstmgr
 
-            b "How did you... cum so much... ..."
+            b "你怎么能...射这么多......"
 
-            b "For a second I thought I was going to drown in your cum..."
+            b "有那么一秒钟我以为我会被你的精液淹死..."
 
-            b "How am I able to walk out like this?"
+            b "我怎么能这样走出去?"
 
             scene b_action_sha_1_18 with tstmgr
 
             b "... ... ... ..."
 
-            b "(What would it feel like if all of his cum comes into my vagina?... ...)"
-        "Stay with her here" if True:
+            b "(如果他的精液全部进入我的阴道会是什么感觉?......)"
+        "在这里陪着她" if True:
 
 
 
 
             scene b_action_sha_1_19 with tstmgr
 
-            b "Stay here? Okay... ... as long as you are with me~"
+            b "呆在这里?Okay......只要你和我在一起~"
 
-            "Girl" "*Moaning from the other table* Ohhhhhhhhh!~~ Yes~ yes~~~~"
+            "女孩""*另一张桌子上的呻吟声*Ohhhhhhhhh!~~Yes~yes~~~~"
 
             scene b_action_sha_1_20 with tstmgr
 
             b "Hmmmm?... ... ... ..."
 
-            b "Wait, the man and the woman over there, are they... ...?"
+            b "等等,那边的那个男的和女的,他们......?"
 
-            player "Ehh, yeah, they are having sex."
+            player "Ehh,yeah,他们在做爱."
 
-            b "How, how could they be so bold?"
+            b "他,他们怎么能这么大胆?"
 
             scene b_action_sha_1_21 with tstmgr
 
-            player "Well, the light is dark, the music is loud, and everyone else is busy at dancing. No one would notice what they are doing except us."
+            player "Well,黑灯瞎火的,音乐声还这么大,其他人都忙着跳舞.除了我们,没有人会注意到他们在做什么."
 
             scene b_action_sha_1_22 with tstmgr
 
-            b "I still can’t believe it that I’m witnessing them having sex right next to me... ..."
+            b "我还是不敢相信我现在正在见证一场性爱......"
 
-            b "They looked... so happy... ..."
+            b "他们看起来...很享受......"
 
-            player "Sex is indeed something that can make people happy~"
+            player "性确实是一种能让人享受的东西~"
 
-            player "You know, we should probably do the same thing like them~"
+            player "你知道吗,我们也许应该和他们做同样的事情~"
 
             scene b_action_sha_1_23 with tstmgr
 
-            b "What? No, no sex, thanks."
+            b "什么?不,不做爱,谢谢."
 
             scene b_action_sha_1_24 with tstmgr
 
-            player "Ahhh... okay, let’s just kiss then~"
+            player "Ahhh...okay,那我们就接吻吧~"
 
-            b "W... wait......"
+            b "等...等等......"
 
             scene b_action_sha_1_25 with tstmgr
 
@@ -186,15 +186,15 @@ label B_action_sha_1_girlfriend:
 
             scene b_action_sha_1_26 with tstmgr
 
-            b "Wummmmmmmm~~~~ Love... you... ..."
+            b "Wummmmmmmm~~~~爱...你......"
 
             scene b_action_sha_1_27 with tstmgr
 
-            "She didn’t resist when I put my hand on her breast in the public. I guess what is happening at the other table has increased her courage."
+            "当我在公共场合把手放在她的胸前时,她并没有抗拒.我猜在另一桌发生的事增加了她的勇气."
 
             scene b_action_sha_1_28 with tstmgr
 
-            "So... ... ... ..."
+            "所以............"
 
             scene b_action_sha_1_29 with tstmgr
 
@@ -202,21 +202,21 @@ label B_action_sha_1_girlfriend:
 
             scene b_action_sha_1_30 with tstmgr
 
-            b "Wait... [P]... This is... ..."
+            b "等等...[P]...这......"
 
             scene b_action_sha_1_31 with tstmgr
 
-            "Girl" "*Moaning from the other table* Fuck me, fuck me harder!~~~"
+            "女孩""*另一张桌子上的呻吟声*操我,用力的操我!~~~"
 
             scene b_action_sha_1_32 with tstmgr
 
-            "Girl" "*Moaning from the other table* Give me that big dick! Yes!!~~~~ Ohhhhhhh~~~~~~"
+            "女孩""*另一张桌子上的呻吟声*给我你的大鸡巴!Yes!!~~~~Ohhhhhhh~~~~~~"
 
             scene b_action_sha_1_33 with tstmgr
 
             $ flashlight()
 
-            "Girl" "*Moaning from the other table* I’m cuming!!!!!!!~~~~~~~~"
+            "女孩""*另一张桌子上的呻吟声*我要泄了!!!!!!!~~~~~~~~"
 
 
 

@@ -2,15 +2,15 @@ label downtown_afternoon_F_1:
 
     scene downtown_afternoon_f_1_1 with dissolve
 
-    "Wow, look, a beauty is over there..."
+    "Wow,看,那边有一位美女..."
 
 
 
-    player "Wait a minute... ..."
+    player "等一会......"
 
 
 
-    player "Rachel? Is that you?"
+    player "瑞秋?是你吗?"
 
 
 
@@ -26,39 +26,39 @@ label downtown_afternoon_F_1:
 
 
 
-    player "Holy... It's really you! I never saw you dressing like this before."
+    player "Holy...真的是你!我以前从没见过你穿成这样."
 
 
 
     scene downtown_afternoon_f_1_4 with tstmgr
 
-    f "I just bought it last week. It was on 70%% off, so... ..."
+    f "我上周才买的.它打了七折,所以......"
 
 
 
     scene downtown_afternoon_f_1_3 with tstmgr
 
-    f "How does it look?"
+    f "它看起来怎么样?"
 
 
 
-    player "It looks... very attractive, and very sexy."
+    player "看起来...非常有吸引力,也非常性感."
 
 
 
     scene downtown_afternoon_f_1_5 with tstmgr
 
-    f "What? Me? Sexy!?"
+    f "什么?我吗?性感!?"
 
 
 
     scene downtown_afternoon_f_1_4 with tstmgr
 
-    f "Thank you for saying that! I'm going to dress it on my next running match!"
+    f "谢谢你这么说!我要在我的下一次跑步比赛中穿上它!"
 
 
 
-    player "That... might not be a good idea though... ..."
+    player "但...这可能不是个好主意......"
 
 
 

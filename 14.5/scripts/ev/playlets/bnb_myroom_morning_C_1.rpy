@@ -2,7 +2,7 @@ label bnb_myroom_morning_C_1:
 
     scene void with tstmgr
 
-    "??" "Wake up."
+    "??" "醒一醒."
 
 
 
@@ -10,15 +10,15 @@ label bnb_myroom_morning_C_1:
 
 
 
-    "??" "Wake up."
+    "??" "醒一醒."
 
 
 
-    player "Ha, ah, what? Zzzzzzzzzz..."
+    player "Ha,ah,什么?Zzzzzzzzzz..."
 
 
 
-    "??" "Your sleeping face looks rediculous. Don't be like a baby, get your ass off your bed~"
+    "??" "你睡觉时的脸看起来很好玩.别像个婴儿,把你的屁股从床上抬起来~"
 
 
 
@@ -26,11 +26,11 @@ label bnb_myroom_morning_C_1:
 
 
 
-    "Ahhh... ... I hate to be woken by other people. It's like my personal space is getting invaded."
+    "Ahhh......我讨厌被别人吵醒.就像我的私人空间被侵犯了."
 
 
 
-    "But... ..."
+    "但是......"
 
 
 
@@ -40,15 +40,15 @@ label bnb_myroom_morning_C_1:
 
 
 
-    "It is so good to see her smiling face every time when I open my eyes in the morning."
+    "早上睁开眼睛看到她的笑脸真是太好了."
 
 
 
-    player "Hi, Theo..."
+    player "Hi,狄奥..."
 
 
 
-    c "Morning, sleepy head."
+    c "早上好,懒虫."
 
 
 

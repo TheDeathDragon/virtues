@@ -2,27 +2,27 @@ label school_campus_afternoon_F_1:
 
     scene void with tstmgr
 
-    "I encoutered Rachel at the campus this afternoon."
+    "我今天下午在校园里遇到瑞秋."
 
 
 
     scene school_campus_afternoon_f_1_1 with tstmgr
 
-    f "Are you sure you want to challenge me with arm wrestling?"
+    f "你确定要和我扳手腕吗?"
 
 
 
-    player "Hell yeah."
+    player "绝对是的."
 
 
 
-    player "Whoever loses needs to buy a dinner for the other one."
+    player "谁输了,谁就得请对方吃一顿饭."
 
 
 
     scene school_campus_afternoon_f_1_2 with tstmgr
 
-    f "Hah, you are going to lose a lot of money."
+    f "Hah,你会损失很多钱的."
 
 
 
@@ -42,11 +42,11 @@ label school_campus_afternoon_F_1:
 
 
 
-    f "You are too weak."
+    f "你太弱了."
 
 
 
-    f "And now you need to bring me to the finest restaurant in this city for dinner."
+    f "现在你要带我去城里最好的餐厅吃饭."
 
 
 

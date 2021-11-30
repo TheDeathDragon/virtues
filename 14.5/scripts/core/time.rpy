@@ -17,44 +17,44 @@ init -2 python:
 init -3 python:
     DAY_PERIOD_NAME = [
         None,
-        _("Morning"),
-        _("Forenoon"),
-        _("Afternoon"),
-        _("Evening"),
-        _("LateNight"),
-        _("LateNight")
+        _("早晨"),
+        _("上午"),
+        _("下午"),
+        _("晚上"),
+        _("深夜"),
+        _("深夜")
     ]
 
     DAY_PERIOD_STR = [
         None,
-        _("Morning"),
-        _("Forenoon"),
-        _("Afternoon"),
-        _("Evening"),
-        _("Late Night"),
-        _("Late Night")
+        _("早晨"),
+        _("上午"),
+        _("下午"),
+        _("晚上"),
+        _("深夜"),
+        _("深夜")
     ]
 
     WEEK_DAY_NAME = [
         None,
-        _("Monday"),
-        _("Tuesday"),
-        _("Wednesday"),
-        _("Thursday"),
-        _("Friday"),
-        _("Saturday"),
-        _("Sunday"),
+        _("星期一"),
+        _("星期二"),
+        _("星期三"),
+        _("星期四"),
+        _("星期五"),
+        _("星期六"),
+        _("星期天"),
     ]
 
     WEEK_DAY_STR = [
         None,
-        _("Monday"),
-        _("Tuesday"),
-        _("Wednesday"),
-        _("Thursday"),
-        _("Friday"),
-        _("Saturday"),
-        _("Sunday"),
+        _("星期一"),
+        _("星期二"),
+        _("星期三"),
+        _("星期四"),
+        _("星期五"),
+        _("星期六"),
+        _("星期天"),
     ]
 
     total_period_of_day = 6.0

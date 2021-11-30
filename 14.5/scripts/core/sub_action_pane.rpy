@@ -16,7 +16,7 @@ screen sub_action_panel(action):
             spacing 30
         for child_action in action.children:
             if child_action.displaying:
-                fixed xfill  yfill :
+                fixed xfill :
 
 
                     button:

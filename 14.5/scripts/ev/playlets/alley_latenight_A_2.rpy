@@ -2,15 +2,15 @@ label alley_latenight_A_2:
 
     scene alley_latenight_a_2_1 with tstmgr
 
-    a "Why do we have to take this way? It's scary... ..."
+    a "为什么我们要走这条路?有点可怕......"
 
 
 
-    player "This is a shortcut, so..."
+    player "这是近道,所以..."
 
 
 
-    player "You can hold my hand if it helps."
+    player "你可以握着我的手如果这能让你感觉好点."
 
 
 
@@ -24,13 +24,13 @@ label alley_latenight_A_2:
 
 
 
-    player "(Ha ha, this is why I brought her here.)"
+    player "(Haha,这就是我带她走这的原因.)"
 
 
 
     scene alley_latenight_a_2_3 with tstmgr
 
-    a "I'm scared... ..."
+    a "我害怕......"
 
 
 

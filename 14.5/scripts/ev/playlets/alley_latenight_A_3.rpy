@@ -2,31 +2,31 @@ label alley_latenight_A_3:
 
     scene alley_latenight_a_3_1 with tstmgr
 
-    a "What do you like for tomorrow's breakfast?"
+    a "明天的早餐你想吃什么?"
 
 
 
-    player "I'm not fussy about food. Anything you make will be fine."
+    player "我对食物不挑剔.你做什么都行."
 
 
 
     scene alley_latenight_a_3_2 with tstmgr
 
-    a "Hmmm... ... but there must be something you prefer to eat."
+    a "Hmmm......但你肯定有喜欢吃的东西."
 
 
 
     scene alley_latenight_a_3_3 with tstmgr
 
-    player "I prefer to eat you. You seem delicious..."
+    player "我更喜欢吃你.你看起来很好吃..."
 
 
 
-    a "(Moaning with lust) Wuummm... ... ... ..."
+    a "(欲望的呻吟)Wuummm............"
 
 
 
-    a "You jerk... ..."
+    a "流氓......"
 
 
 

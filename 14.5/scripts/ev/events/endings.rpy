@@ -2,37 +2,37 @@ label suicide_ending:
 
     scene home_livingroom_day_background with fade
 
-    narrator "Am I... truly a pathetic loser without my dad's money?"
+    narrator "我真是个可怜的失败者在没有我爸的钱的情况下?"
 
-    narrator "No matter how hard I tried, I still could not afford my bills."
+    narrator "不管我怎么努力,我还是付不起账单."
 
-    narrator "Aunt Elisa is now totally disappointed at me. Theodora has fired me for my incapability. Even Senning and Irene started to look down on me."
+    narrator "伊莉莎阿姨现在对我非常失望.狄奥多拉因为我无能而解雇了我.甚至森柠和艾琳也开始看不起我."
 
-    narrator "Fuck my pathetic life."
+    narrator "去他妈的我可怜的生活."
 
-    narrator "Fortunately, I still have Vera by my side."
+    narrator "幸运的是,薇拉还在我身边."
 
     scene bjsj_a13 with tstmgr
 
     a "[P.name], well..."
 
-    a "We need to talk..."
+    a "我们需要谈谈..."
 
-    player "What happened?"
+    player "发生什么事了?"
 
-    a "I am... I am moving out."
+    a "我要...我要搬出去了."
 
-    a "I know you are facing serious financial trouble. I think it would be best for you to take my bedroom for B&B use. It may help you overcome this situation."
-
-    player "... ... ... ..."
-
-    a "I hope you can get better."
-
-    a "Farewell."
+    a "我知道你正面临严重的经济困难.我认为你最好把我的卧室也租出去.它可能会帮助你克服这种情况."
 
     player "... ... ... ..."
 
-    narrator "She left."
+    a "我希望你能好起来."
+
+    a "再会."
+
+    player "... ... ... ..."
+
+    narrator "她走了."
 
     player "... ... ... ..."
 
@@ -40,33 +40,33 @@ label suicide_ending:
 
     player "... ... ... ..."
 
-    player "Whose fault do you think it is?"
+    player "你认为这是谁的错?"
 
-    player "Ha? Answer me! I'm asking you!"
+    player "Ha?回答我!我在问你!"
 
-    player "You... the voice in my head... It is all because of you!"
+    player "你...我脑海里的声音...都是因为你!"
 
-    player "You controlled my mind, manipulated my actions. You caused everything!"
+    player "你控制了我的思想,控制了我的行动.你造成了一切!"
 
-    player "Ah... Fuck... Is this some kind of DID?"
+    player "Ah...操...这是某种多重人格吗?"
 
-    player "I need, I need to kick you out of my head."
+    player "我需要,我需要把你赶出我的脑海."
 
     scene gg_gun with tstmgr
 
     narrator "... ... ... ..."
 
-    player "Ha... I will never hear you again... if I use this..."
+    player "Ha...我再也听不到你的声音了...如果我用这个..."
 
-    player "HAHAHA! I win, I win, finally! Farewell, the voice in my head."
+    player "HAHAHA!我赢了,我赢了,终于赢了!再见了,我的脑海里的那个声音."
 
-    narrator "(Gun shouting) BANG!"
+    narrator "(枪声)砰!"
 
     narrator "... ... ... ..."
 
     scene black with tstmgr
 
-    narrator "Bad End."
+    narrator "悲剧."
 
     $ MainMenu(confirm=False)()
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

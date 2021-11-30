@@ -2,7 +2,7 @@ label Doggie_A_maid:
 
     scene a_gf_2_default with tstmgr
 
-    bubble_a "As you wish, master."
+    bubble_a "如你所愿,主人."
 
 
 
@@ -26,7 +26,7 @@ label Doggie_A_maid:
 
     $ flashlight()
 
-    a "I’m cuming~~~~~~"
+    a "我去了~~~~~~"
 
     scene void with tstmgr
 

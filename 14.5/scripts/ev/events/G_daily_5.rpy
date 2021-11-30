@@ -3,7 +3,7 @@ label G_daily_5:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, while I was doing my college assignments in my room..."
+    "今晚晚些时候,当我在房间里做大学作业时."
 
 
 
@@ -13,23 +13,11 @@ label G_daily_5:
 
 
 
-    player "Shit, this calculus bullshit is hard as hell."
+    player "Shit,微积分这狗屁玩意太难了."
 
 
 
-    player "I have been wracking my brain for 2 hours and still have no clue about how to solve these goddamned questions."
-
-
-
-    player "... ... ... ..."
-
-
-
-    player "Ah, forget it. I’ll go find Senning tomorrow and ask her for help."
-
-
-
-    player "Now I need to find a way to reduce my stress."
+    player "我在这儿已经坐了两个小时了,还是不知道该怎么解决这些该死的问题."
 
 
 
@@ -37,7 +25,19 @@ label G_daily_5:
 
 
 
-    player "And I know exactly what I should do right now."
+    player "Ah,不管了.我明天去找森柠,请她帮忙."
+
+
+
+    player "现在我需要找到一种减轻压力的方法."
+
+
+
+    player "... ... ... ..."
+
+
+
+    player "我知道我现在应该做什么."
 
 
 
@@ -47,49 +47,49 @@ label G_daily_5:
 
 
 
-    "I walked up to the door to Uno's room..."
+    "过了一会儿,我来到乌诺的房门前."
 
 
 
-    "*Knock, knock, knock...*"
+    "*咚,咚,咚...*"
 
 
 
-    g "It is not locked."
+    g "门没锁."
 
 
 
     scene g_daily5_2 with dissolve
 
-    player "Eh, hey, evening, Uno... ..."
+    player "Eh,hey,晚上好,乌诺......"
 
 
 
-    player "Are you busy now?"
+    player "你现在忙吗?"
 
 
 
-    g "Emm... ... No..."
+    g "Emm......不忙..."
 
 
 
-    player "Oh, that’s great. Ahh... can you come to my room...for the ‘thing’?"
+    player "Oh,太好了.啊...你能来我的房间,让我们做“那件事”好吗??"
 
 
 
     scene g_daily5_3 with tstmgr
 
-    g "The ‘thing’?... ..."
+    g "“那件事”?......"
 
 
 
     scene g_daily5_4 with tstmgr
 
-    g "Sigh... ... ... ..."
+    g "唉............"
 
 
 
-    g "Fine..."
+    g "好吧..."
 
 
 
@@ -99,21 +99,21 @@ label G_daily_5:
 
 
 
-    "Sometime later, in my room."
+    "一段时间后,在我的房间."
 
 
 
     scene g_daily5_5 with dissolve
 
-    "Well, this is definitely one of the best ways a man can relieve stress."
+    "Well,这绝对是男人减轻压力的最好方法."
 
 
 
-    "Holding a lovely young girl in your arms...feeling their soft skin...fondling their round, bouncy tits...and listening to their soft moaning..."
+    "把一个可爱的小女孩抱在怀里,感受她柔软的皮肤,用你喜欢的方式揉她的大奶子,听她断断续续的呻吟."
 
 
 
-    "Yeah, the best way to reduce stress ever."
+    "Yeah,这是减轻压力的最好方法."
 
 
 
@@ -121,47 +121,47 @@ label G_daily_5:
 
 
 
-    "Our deal only permits 30 seconds of touching a day, but recently I discovered that..."
+    "我们有协议,我每天只能摸她的胸部30秒,但我最近才发现..."
 
 
 
-    "She may do a countdown during my touch, but she won’t really stop me even when the time is up."
+    "她可能会在我摸的时候倒计时,但她不会真的阻止我,即使时间到了."
 
 
 
-    "This girl in my arms, Uno, is a girl with a ‘pet personality’."
+    "我怀里的这个女孩,乌诺,是一个“宠物性格”的女孩."
 
 
 
-    "Don’t get me wrong. I’m not saying that she has a fetish of master & pet role playing thing. What I’m trying to say is..."
+    "别误会我.我不是说她有一个主人和宠物角色扮演的迷恋.我想说的是..."
 
 
 
-    "She is just... so submissive."
+    "她只是...很顺从."
 
 
 
-    "If you are busy with your things, she will take good care of herself and never bother you. You may not even notice her existence."
+    "如果你忙着你的事情,她会照顾好自己,不会打扰你.你甚至可能没有注意到她的存在."
 
 
 
-    "But when you are in need of her, she will always be there and answer your calls without any complaint."
+    "但当你需要她的时候,她总会在那里,毫无怨言地回应你."
 
 
 
-    "Right now we have been like this for 2 minutes and she is still in my arms, curling up, enduring my touch, and not making any noise."
+    "现在我们这样已经2分钟了,她还在我的怀里,蜷缩着,忍受着我的抚摸,没有发出任何声音."
 
 
 
-    "This girl is amazing... ..."
+    "这个女孩太妙了......"
 
 
 
-    g "Haven’t you got tired of doing this everyday?"
+    g "你每天都这样还不腻吗?"
 
 
 
-    player "Hah? I will never get tired of these pudding-like tits."
+    player "Hah?我永远不会厌倦这些像布丁一样的乳头."
 
 
 
@@ -169,31 +169,31 @@ label G_daily_5:
 
 
 
-    player "What? Are you not enjoying it?"
+    player "什么?你不喜欢吗?"
 
 
 
-    g "No... ... ... ..."
+    g "不............"
 
 
 
-    player "But you are getting more and more sensitive every time after my touching."
+    player "但是每次被我摸之后,你都变得越来越敏感."
 
 
 
     scene g_daily5_6 with tstmgr
 
-    g "Hmm? Am I?"
+    g "Hmm?我有吗?"
 
 
 
-    player "Yeah, let me show you... ..."
+    player "Yeah,让我演示给你看......"
 
 
 
     scene g_daily5_7 with tstmgr
 
-    "I suddenly grabbed her left breast harder and used two of my fingers to squeeze her nipple forcefully."
+    "我突然用力抓住她的左胸,用我的两个手指用力挤压她的乳头."
 
 
 
@@ -203,11 +203,11 @@ label G_daily_5:
 
     scene g_daily5_8 with tstmgr
 
-    "Her body shook so hard that I could barely keep my arms around her."
+    "她的身体剧烈地颤抖着,我几乎无法用双臂抱住她."
 
 
 
-    player "See how sensitive you are right now?"
+    player "看看你现在有多敏感?"
 
 
 
@@ -217,25 +217,25 @@ label G_daily_5:
 
 
 
-    g "I don’t like this..."
+    g "我不喜欢这样..."
 
 
 
-    player "I’m actually helping you to become a better porn star. The more sensitive you act in your videos, the more pleasure people will get watching them."
+    player "我实际上是在帮助你成为一个更好的色情明星.你在视频中表现得越敏感,人们看的时候就会越开心."
 
 
 
-    g "Emm? Is that so?"
+    g "Emm?真的是这样么?"
 
 
 
-    player "Of course. You are going to be popular on the porn sites."
+    player "当然.你会在色情网站上很受欢迎."
 
 
 
     scene g_daily5_10 with tstmgr
 
-    player "When are we making another video? I can’t wait to see more horny expressions on your cute little face."
+    player "我们什么时候再拍视频?我迫不及待地想看到你可爱的小脸上更多的淫荡表情."
 
 
 
@@ -243,17 +243,17 @@ label G_daily_5:
 
 
 
-    g "We can do that again... in a few days... I guess."
+    g "我们可以再来一次...过几天...我想."
 
 
 
-    player "That’s good to know. And..."
+    player "很高兴知道这个.还有..."
 
 
 
     scene g_daily5_11 with tstmgr
 
-    player "Has anyone told you about what a small and delicate face you have? It feels like baby skin."
+    player "有没有人告诉过你,你有一张多么娇嫩的小脸?摸起来像婴儿的皮肤."
 
 
 
@@ -263,21 +263,21 @@ label G_daily_5:
 
 
 
-    player "What are you doing?"
+    player "你在做什么?"
 
 
 
-    g "Your hand feels so rough. Get it off... ..."
+    g "你的手好粗糙.拿开......"
 
 
 
     scene g_daily5_13 with tstmgr
 
-    player "Oh girl, you are so damn cute~"
+    player "Oh女孩,你太可爱了~"
 
 
 
-    g "I’m not cute!"
+    g "我不可爱!"
 
 
 
@@ -287,11 +287,11 @@ label G_daily_5:
 
 
 
-    "After that, I caressed her face for another 10 minutes before I let her go."
+    "在那之后,我又抚摸了她的脸,而不是她的胸,又过了10分钟我才放开她."
 
 
 
-    "And all of my stress is gone, just like that. Yeah!"
+    "我所有的压力都消失了,就像这样.Yeah!"
 
 
 

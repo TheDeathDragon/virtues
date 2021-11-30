@@ -9,27 +9,27 @@ label G_daily_13:
 
     scene g_daily11_1 with tstmgr
 
-    "Female clerk A" "Pss, pss, Senning, come here."
+    "女职员A""Pss,pss,森柠,来这里."
 
 
 
     scene g_daily13_1 with tstmgr
 
-    b "Is there anything I can help?~"
+    b "有什么我可以帮忙的吗?~"
 
 
 
-    "Female clerk B" "Have you heard the gossip about Uno?"
+    "女职员B""你听说过关于乌诺的流言吗?"
 
 
 
     scene g_daily13_2 with tstmgr
 
-    b "What gossip?"
+    b "什么流言?"
 
 
 
-    "Female clerk A" "That she is actually an amateur pornstar!"
+    "女职员A""她其实是个素人色情明星!"
 
 
 
@@ -39,15 +39,15 @@ label G_daily_13:
 
 
 
-    "Female clerk B" "Yeah, it surprised me so much when I first heard it."
+    "女职员B""Yeah,当我第一次听说的时候,我非常惊讶."
 
 
 
-    "Female clerk A" "I thought she is a good girl, but who knows... ..."
+    "女职员A""我以为她是个好女孩,可是谁知道呢......"
 
 
 
-    "Female clerk B" "What a bitch~"
+    "女职员B""婊子而已~"
 
 
 
@@ -59,13 +59,13 @@ label G_daily_13:
 
     scene g_daily13_5 with tstmgr
 
-    b "It is very impolite to talk about people behind their back. We will not be friends anymore if I hear you say bad things about Uno again!"
+    b "在别人背后议论别人是很不礼貌的.如果我再听到你说乌诺的坏话我们就不再是朋友了!"
 
 
 
     scene g_daily11_1 with tstmgr
 
-    "Senning walked away angrily."
+    "森柠生气地走开了."
 
 
 

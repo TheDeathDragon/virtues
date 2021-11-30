@@ -3,57 +3,57 @@ label gysj_4:
     scene park_woodpath_day_background with tstmgr
     play music happy
 
-    narrator "I feel like I am lack of exercise lately."
+    narrator "我觉得我最近缺乏锻炼."
 
-    narrator "It's has been a while since the last time I went to a gym. Many things happened these days and I don't have time or spare money for a work-out in the gym."
+    narrator "我已经有一段时间没有去健身房了.这些天发生了很多事情,我没有时间也没有多余的钱去健身房锻炼."
 
-    narrator "So I decided to come to the park and do some exercises for free."
+    narrator "所以我决定来公园免费做一些运动."
 
-    narrator "I have my running vest on today. So yeah, let's have a run."
-
-    narrator "... ... ... ..."
-
-    narrator "I started running."
+    narrator "我今天穿了跑步背心.好的,我们来跑一跑."
 
     narrator "... ... ... ..."
 
-    narrator "20 minutes later..."
+    narrator "我开动了."
 
-    player "(Breathing harshly) Ah... this is... weird..."
+    narrator "... ... ... ..."
 
-    player "(Breathing harshly) Why do I feel so... tired?"
+    narrator "20分钟后..."
 
-    player "(Breathing harshly) Uh... Uh... Uh..."
+    player "(急促呼吸)Ah...这...有点奇怪..."
 
-    player "(Breathing harshly) You..."
+    player "(急促呼吸)为什么我感觉这么...累?"
+
+    player "(急促呼吸)Uh...Uh...Uh..."
+
+    player "(急促呼吸)你..."
 
     scene void with tstmgr
 
-    player "(Breathing harshly) You gotta be kidding me..."
+    player "(急促呼吸)这不是在开玩笑吧..."
 
-    narrator "Suddenly, darkness came over my eyes, and I fell down on the ground. "
+    narrator "突然,黑暗笼罩了我的眼睛,我倒在了地上."
 
-    narrator "I tried to get up, but I have lost all my strength. There is nothing I can do."
+    narrator "我试图站起来,但我浑身无力.我做不到."
 
-    narrator "Ah... Fainted while running, this is embarrassing... Don't know who's gonna find me... "
+    narrator "Ah...跑步时晕倒了,真尴尬...不知道谁会找到我..."
 
-    narrator "I lost consciousness in the next second..."
+    narrator "下一秒我就失去了知觉..."
 
     narrator "... ... ... ..."
 
     narrator "... ... ... ... ... ..."
 
-    "Girl's Voice" "Emm?... ..."
+    "女孩的声音""Emm?... ..."
 
-    "Girl's Voice" "Are you... are you okay?"
+    "女孩的声音""你...你还好吗?"
 
     player "... ... ... ..."
 
     scene gysj4_1 with tstmgr
 
-    player "Eh... What happened..."
+    player "Eh...发生了什么..."
 
-    narrator "The voice brought me back to the world again. I opened my eyes, waiting for my vision to gradually clear up."
+    narrator "这个声音把我带回到这个世界.我睁开眼睛,等待我的视线逐渐清晰."
 
     scene gysj4_2 with tstmgr
 
@@ -61,66 +61,66 @@ label gysj_4:
 
     player "Hmm?"
 
-    f "Wait... I think we have met before."
+    f "等等...我想我们以前见过面."
 
-    player "Yeah... you look familiar..."
+    player "Yeah...你看起来很眼熟..."
 
     scene gysj1_2 with flashback
 
     pause
 
-    narrator "I once saw a girl dressing like this running in the park, it must be her."
+    narrator "我曾经看到一个女孩穿成这样在公园里跑步,一定是她."
 
     scene gysj4_2 with flashback
 
-    f "Are you [P]? That bankrupted young rich dude? "
+    f "你是[P]吗?那个破产的年轻富翁?"
 
-    narrator "And her face... looks familiar, too."
+    narrator "还有她的脸...看起来也很眼熟."
 
     scene f_school_day_wink with flashback
 
     pause
 
-    f "Oh, okay. Anyway, I am Rachel, glad to meet you."
+    f "Oh,好吧.不管怎样,我是瑞秋,很高兴见到你."
 
     scene gysj4_2 with flashback
 
-    narrator "Oh, yeah. I remembered..."
+    narrator "Oh,yeah.我想起来了..."
 
-    player "Hi, Rachel... "
+    player "嗨,瑞秋..."
 
     scene gysj4_3 with tstmgr
 
-    f "Wow, you still remember my name! "
+    f "Wow,你还记得我的名字!"
 
 
     menu:
-        "That's not a complicated name":
+        "这个名字并不难记":
 
 
-            player "Well... That's not hard to remember..."
+            player "Well...这个名字并不难记..."
 
-            player "And I'm not bankrupted..."
+            player "我也没有破产..."
 
-            f "Alright, alright. My fault. "
-        "I never forget beauty's name":
+            f "好吧,好吧.我的错."
+        "这么漂亮的小姐姐我可忘不了":
 
 
 
-            player "Well... I never forget a beauty's name."
+            player "Well...这么漂亮的小姐姐我可忘不了."
 
-            f "Wow... Is this a flirting?"
+            f "Wow...切."
 
-            f "Anyway, no one has said that to me before. Thanks."
+            f "不管怎么说,以前没人这么对我说过.谢谢."
 
-            player "You are... welcome..."
+            player "不用...谢..."
 
             scene f_wood_normal with tstmgr
 
 
-    f "So... why are you lying here?"
+    f "所以...你为什么躺在这里?"
 
-    player "I'm meditating, do you believe that?"
+    player "我在冥想,你信吗?"
 
     scene f_wood_weird with tstmgr
 
@@ -128,76 +128,76 @@ label gysj_4:
 
     f "Nope."
 
-    f "I think you just passed out for some reason. "
+    f "我想你是由于某种原因昏过去的."
 
     player "... ... ... ..."
 
-    f "Ah, nevermind. Do you need me to call you an ambulance?"
+    f "Ah,无所谓了.需要我为你叫救护车吗?"
 
-    player "No... I think I will be fine in just a minute. Just... give me some time."
+    player "不...我想我马上就好了.只是...给我点时间."
 
-    narrator "I sat up with difficulty."
+    narrator "我艰难的坐起来."
 
-    player "See... I'm fine."
+    player "看...我很好."
 
     scene f_wood_frown with tstmgr
 
-    f "No, your face looks terrible. I think You got sunstroke, might be a mild one since you can still talk. Come on, I will carry you to the bench nearby and bring you some water."
+    f "不,你的脸色看起来糟透了.我想你中暑了,可能比较轻,因为你还能说话.来吧,我把你背到附近的凳子上,给你拿点水来."
 
     player "... ... ... ..."
 
-    narrator "Might be a good idea to listen to her."
+    narrator "听她的话可能是个好主意."
 
-    player "Thanks..."
+    player "谢谢..."
 
     scene gysj4_4 with tstmgr
 
-    narrator "She then helped me stand up, and carried me on her shoulder. "
+    narrator "她随即扶我站起来,把我背在她的肩上."
 
     scene gysj4_5 with tstmgr
 
-    f "Let's go, be careful, you are very weak. Just don't move too fast."
+    f "走吧,小心点,你很虚弱.别走得太快."
 
-    player "Okay, ma'am... "
+    player "好的..."
 
-    player "But are you okay with this? I mean, does it feel heavy?"
+    player "但你受得了吗?我的意思是,感觉重吗?"
 
-    f "You know, you are actually lighter than I thought. "
+    f "你知道吗,你比我想象的要轻."
 
-    narrator "It seems like she can carry a 170-pound male as easy as pie."
+    narrator "看起来她能轻而易举地抱起一个170磅重的男人."
 
-    player "I never saw a girl with so much strength before. "
+    player "我从来没见过这么强壮的女孩."
 
-    f "Well, thank you. You are quite handsome, too."
+    f "Well,谢谢你!你也很帅."
 
     player "... ... ... ..."
 
     scene gysj4_6 with tstmgr
 
-    narrator "Now my arm is around her neck, my body is close to her body, and my right hand is pressing her breast by coincidence."
+    narrator "现在,我的手臂搂着她的脖子,我的身体紧贴着她的身体,而我的右手正好压着她的乳房."
 
-    narrator "I can feel that her breast is deforming into different shapes by the pressing of my hand. It feels... really good."
+    narrator "我能感觉到她的乳房在我的按压下正在变形.感觉...非常好."
 
 
-    narrator "And the most important thing is, she doesn't seem to care about it."
+    narrator "最重要的是,她似乎并不在乎."
 
     scene gysj4_7 with tstmgr
 
-    f "How do you feel? "
+    f "你感觉如何?"
 
-    player "Soft..."
+    player "很软..."
 
-    player "No, no, I mean, I feel better now. Thanks for your help."
+    player "不,不,我是说,我现在感觉好多了.谢谢你的帮助."
 
-    f "Okay, we are almost there. Just sit on the bench, and I'll bring you some water. "
+    f "好的,差不多了.坐在凳子上,我给你拿些水来."
 
-    player "Thanks..."
+    player "谢谢..."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "She left me on the bench, and then brought me some water. I was soon recovered under her care."
+    narrator "她把我留在长凳上,然后给我拿来了一些水.在她的照顾下,我很快就恢复了."
 
     narrator "... ... ... ..."
 

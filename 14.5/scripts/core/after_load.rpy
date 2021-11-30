@@ -1,21 +1,21 @@
 default escaped_events = []
 label escape:
     hide screen quick_navigation
-    call screen hint("This escape button is to allow you to escape from any condition that leads to inability to continue the game. You can re-enter the events you escaped from, by open this menu on the Map, or wait until it's clickable again. (Please report any situation that requires you to use this, so we can fix it!)")
+    call screen hint("这个逃脱按钮可以让你从任何导致无法继续游戏的情况中解脱出来.你可以通过在地图上打开此菜单,或等待它再次可单击,来重新进入逃脱的事件.(请报告任何需要你使用这个的情况,以便我们可以修复它!)")
     menu:
-        "Confirm":
+        "确认":
             if cEvent:
                 $ escaped_events.append(cEvent)
             $ show_map()
             jump pauser
-        "Re-enter escaped events" if escaped_events and is_scene("Map"):
+        "重新进入逃离的事件" if escaped_events and is_scene("Map"):
             python:
                 while(escaped_events):
                     event = store.escaped_events.pop(0)
                     if event and not seen(event):
                         run_event(event)
-            "All escaped events are seen."
-        "Cancel":
+            "全部逃离的事件都已经展示."
+        "取消":
             return
 
 default persistent.version = config.version
@@ -24,8 +24,8 @@ init python:
 
     if persistent.version != config.version:
         persistent.update_note_dontshowagain = False
-        print("global version is %s, older than current version." % persistent.version)
         persistent.version = config.version
+        print("global version is %s, older than current version." % persistent.version)
         print("global version set to %s.\n" % persistent.version)
 
     def migrate_event(old, new):

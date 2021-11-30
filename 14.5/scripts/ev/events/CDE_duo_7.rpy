@@ -3,11 +3,11 @@ label CDE_duo_7:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Elisa’s suburban bungalow..."
+    "深夜,在伊莉莎的郊区房里..."
 
 
 
-    "This place used to be a secret paradise for me and Elisa, but now... ..."
+    "这个地方曾经是我和伊莉莎的秘密天堂,但现在... ..."
 
 
 
@@ -17,73 +17,73 @@ label CDE_duo_7:
 
 
 
-    "A new member has joined the party~"
+    "一名新成员加入了~"
 
 
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
-    c "Am I... doing a good job?"
+    c "我是否......做得不错?"
 
 
 
-    player "Yeah, it’s awesome~ The way you rubbed my dick and my body with your tits are just amazing~"
+    player "是的,这太棒了!你用你的奶子摩擦我的鸡巴和我的身体的方式实在是太刺激了~"
 
 
 
-    player "I can feel your hard nipples pressing my skin. It must not be easy for you to keep doing it."
+    player "我可以感觉到你坚硬的乳头压迫着我的皮肤.对你来说,这样做一定不容易."
 
 
 
     scene cde_duo_7_2 with tstmgr
 
-    c "Yeah... ... My nipples... are too sensitive, but... I can still hold on~"
+    c "是啊... ... 我的乳头... ... 太敏感了,但是... ... 我还能坚持下去~"
 
 
 
-    e "You are getting better and better at serving, honey~ I’m proud of you."
+    e "你的技巧越来越好了,亲爱的~我为你感到骄傲."
 
 
 
-    c "I don’t think... this is something that worth being proud of... ..."
+    c "我不认为......这是值得骄傲的事情... ..."
 
 
 
-    c "But... I do start to enjoy doing it~"
+    c "但是... 我确实开始喜欢做这件事了~"
 
 
 
-    c "Feeling the cock slowly getting hard on my chest... ... is really... satisfying~"
+    c "感觉到鸡巴在我胸前慢慢变硬......真的是......很满足~"
 
 
 
-    player "Theo, I... ..."
+    player "狄奥, 我... ..."
 
 
 
     scene cde_duo_7_3 with tstmgr
 
-    e "Knock, knock, mister~ Don’t forget me here."
+    e "敲了敲,主人~不要忘了我～"
 
 
 
     scene cde_duo_7_4 with tstmgr
 
-    "My face was suddenly attacked by something extremely soft... with a great milk fragrance."
+    "我的脸突然被一个极其柔软的东西袭击了......有一种巨大的牛奶香味."
 
 
 
-    c "Hmmmm? Your cock... suddenly got more erected."
+    c "Hmmmm? 你的鸡巴......突然变得更加挺拔了."
 
 
 
-    c "Ah, okay, I get it, mom has better boobs than I do."
+    c "啊,好吧,我明白了,妈妈的胸部比我的好."
 
 
 
-    player "That's not true, I... ..."
+    player "不是这样的,我... ..."
 
 
 
@@ -93,51 +93,51 @@ label CDE_duo_7:
 
 
 
-    c "Wow... That’s so dominating~ Yeah... ... mom’s boobs are indeed better than mine~"
+    c "哇......太惊艳了~是啊......妈妈的胸确实比我的好~"
 
 
 
-    c "But I’m not going to be jealous of my mom anyway~"
+    c "但无论如何,我不会嫉妒我的妈妈~"
 
 
 
     scene cde_duo_7_6 with tstmgr
 
-    player "*Drinking* Glug~~ glug~~ glug~~ gulum~~~~~"
+    player "*吮吸* Glug~~ glug~~ glug~~ gulum~~~~~"
 
 
 
-    e "Yes, yes, drinking my milk like a little calf~"
+    e "是的,是的,像小牛一样喝着我的牛奶~"
 
 
 
     scene cde_duo_7_7 with tstmgr
 
-    e "And... ... another one... ..."
+    e "还有......另一个... ..."
 
 
 
     scene cde_duo_7_8 with tstmgr
 
-    player "*Drinking* Glug~~ glug~~ glug~~ glug~~ glug~~~~~"
+    player "*吮吸* Glug~~ glug~~ glug~~ glug~~ glug~~~~~"
 
 
 
-    e "Ohhhh~~ This is so good~~~"
+    e "Ohhhh~~ 这简直太爽了~~~"
 
 
 
     scene cde_duo_7_9 with tstmgr
 
-    e "It’s still so hard to believe... someone would love my lactated breasts so much~~"
+    e "我还是很难相信......有人会这么喜欢我的哺乳期的乳房~~"
 
 
 
-    e "I have waited such a man to show up for two decades, and now... finally... ..."
+    e "我等待这样一个人出现已经二十年了,而现在......终于... ..."
 
 
 
-    e "It... worths waiting~"
+    e "它......值得等待~"
 
 
 
@@ -149,17 +149,17 @@ label CDE_duo_7:
 
     scene cde_duo_7_11 with tstmgr
 
-    player "Elisa, there is something I want to do for a long time... ..."
+    player "伊莉莎,有件事我想做很久了... ..."
 
 
 
-    e "What is it, darling?"
+    e "怎么了,亲爱的?"
 
 
 
     scene cde_duo_7_12 with tstmgr
 
-    player "That... ..."
+    player "就是... ..."
 
 
 
@@ -171,23 +171,23 @@ label CDE_duo_7:
 
 
 
-    player "*Drinking* Glug~~ glug~ wuuuummmm~~ wummm~~ gulum~~~"
+    player "*吮吸* Glug~~ glug~ wuuuummmm~~ wummm~~ gulum~~~"
 
 
 
-    player "(Two nipples, at the same time... ...)"
+    player "(两个乳头,在同一时间... ...)"
 
 
 
-    e "This is... this is too intense~~~"
+    e "这......这太激烈了~~~"
 
 
 
-    e "Both of my nipples... awwwww~~ You are squeezing them too hard!~~~~~~~"
+    e "我的两个乳头......啊呜~~你捏得太用力了!~~~~~~~"
 
 
 
-    e "Awwww... ... Something is coming out of my chest~~~ but this time... is going to be... ..."
+    e "Awwww... ... 有东西要从我的胸腔里出来了~~~但这次......是要被... ..."
 
 
 
@@ -195,15 +195,15 @@ label CDE_duo_7:
     play sound cumshot
     $ flashlight()
 
-    e "Crazyyyyyyyyyyyyyyyyyyyyy!!!!~~~~~~~~~~~"
+    e "要去了了了了了!!!!~~~~~~~~~~~"
 
 
 
-    "Elisa had such a great orgasm and she was cumming with her breasts~"
+    "伊莉莎在强烈颤抖中高潮了,她的下面和她的咪咪一起喷射了出来~"
 
 
 
-    "At the same moment..."
+    "在同一时刻..."
 
 
 
@@ -217,27 +217,27 @@ label CDE_duo_7:
 
     scene cde_duo_7_16 with tstmgr
 
-    c "So... hot... and sticky... ..."
+    c "如此...热...和粘稠... ..."
 
 
 
     scene cde_duo_7_17 with tstmgr
 
-    player "*Drinking hard* Glug~~~ glug~~~ glug~~~ glug~~~~"
+    player "*认真的吮吸* Glug~~~ glug~~~ glug~~~ glug~~~~"
 
 
 
-    "Oh shit, Elisa’s milk is still keeping flowing out. Her nipples are like faucets that couldn’t be turned off now. I feel like I’m going to suffocate myself any second if I stop drinking... ..."
+    "哦,该死,伊莉莎的奶水还在不停地流出来.她的乳头就像水龙头,现在无法关闭.我觉得如果我不喝了,我随时都会把自己憋死... ..."
 
 
 
     scene cde_duo_7_18 with tstmgr
 
-    e "Ahhh... ... This is... so... soooooo good... ..."
+    e "Ahhh... ... 这真是......太......太好啦... ..."
 
 
 
-    e "It’s so good... to be a woman with lactating breasts... ..."
+    e "做一个有哺乳期乳房的女人......真是太好了... ..."
 
 
 
@@ -251,73 +251,73 @@ label CDE_duo_7:
 
 
 
-    "Sometime later..."
+    "后来的某个时候..."
 
 
 
     scene cde_duo_7_19 with dissolve
 
-    player "Tonight was... so wonderful... ..."
+    player "今晚是...如此美妙... ..."
 
 
 
-    c "Might be wonderful for you, but I didn’t have any orgasm tonight since I’m on my period..."
+    c "对你来说可能很好,但我今晚没有任何高潮,因为我在经期..."
 
 
 
     scene cde_duo_7_20 with tstmgr
 
-    player "Ehh, sorry about that... ..."
+    player "诶,对不起了... ..."
 
 
 
-    c "It’s not your fault... ... ... ..."
+    c "这并不是你的错... ... ... ..."
 
 
 
     scene cde_duo_7_21 with tstmgr
 
-    c "What are you thinking, mom?"
+    c "你在想什么,妈妈?"
 
 
 
     scene cde_duo_7_22 with tstmgr
 
-    e "I was thinking... ..."
+    e "我在想... ..."
 
 
 
-    e "Is it a little inappropriate for us to leave Irene alone at home?"
+    e "我们把艾琳一个人留在家里,是不是有点不合适?"
 
 
 
     scene cde_duo_7_23 with tstmgr
 
-    c "Yeah... ... I think it’s about time to tell her everything."
+    c "是的... ... 我想现在是时候告诉她一切了."
 
 
 
-    c "I have given her enough implications. I think she will accept it if we tell her the truth now."
+    c "我已经给了她足够的暗示.我想如果我们现在告诉她真相,她会接受的."
 
 
 
     scene cde_duo_7_24 with tstmgr
 
-    c "In fact, I don’t even think I need to imply her anything. I mean, she was the one who tried to steal her sister’s fiance. She is the same kind of person as us. We are all... perverted sluts~"
+    c "事实上,我甚至认为我不需要暗示她什么.我的意思是,她是那个试图偷走她姐姐未婚夫的人...她和我们是同一类人...我们都是......变态的荡妇~"
 
 
 
-    c "And it’s about time to let her face her true nature~"
+    c "现在是时候让她面对自己的真实本性了~"
 
 
 
-    player "What are you going to do exactly?"
+    player "你到底要做什么?"
 
 
 
     scene cde_duo_7_25 with tstmgr
 
-    c "You will know when the time comes~ By that time all you have to do is to keep silence and let your cock do the talking~"
+    c "当时间到了,你会知道的~到那时,你要做的就是保持沉默,让你的老二来说话~"
 
 
 
@@ -327,7 +327,7 @@ label CDE_duo_7:
 
     scene cde_duo_7_26 with tstmgr
 
-    e "I feel like I’m in a conspiracy against my own daughter. Awwwww... ..."
+    e "我觉得我是在密谋针对我自己的女儿. Awwwww... ..."
 
 
 

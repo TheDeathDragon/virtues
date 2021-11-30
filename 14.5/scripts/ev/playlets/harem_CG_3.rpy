@@ -2,11 +2,11 @@ label harem_CG_3:
 
     scene harem_cg_3_3 with dissolve
 
-    g "Theo... Your have such a soft body~~~"
+    g "狄奥... 你的身体如此柔软~~~"
 
 
 
-    c "You too... ..."
+    c "你也是... ..."
 
 
 
@@ -16,45 +16,45 @@ label harem_CG_3:
 
 
 
-    player "What are you guys doing in my room?"
+    player "你们在我的房间里做什么呢?"
 
 
 
     scene harem_cg_3_2 with tstmgr
 
-    c "We were waiting for you, but you came too late and we couldn’t wait any longer~"
+    c "我们一直在等你,但你来得太晚了,我们不能再等了~"
 
 
 
-    g "So we are... entertaining ourselves~"
+    g "因此,我们正在......自娱自乐~"
 
 
 
-    g "Do you want to join us, master?"
+    g "你想加入我们吗,主人?"
 
 
 
-    player "Actually... I like to watch you entertaining yourself... ..."
+    player "实际上... 我喜欢看你自娱自乐... ..."
 
 
 
-    g "Oh, okay then~"
+    g "Oh, okay 那么~"
 
 
 
     scene harem_cg_3_3 with tstmgr
 
-    g "Theo, let’s keep going and show master how close we are~"
+    g "狄奥, 让我们继续吧,让主人看看我们有多接近~"
 
 
 
-    c "You naughty cat... ..."
+    c "你这只淘气的猫... ..."
 
 
 
     scene harem_cg_3_4 with tstmgr
 
-    g "Look~ look~ master~ It is your favorite boobs sandwich~"
+    g "看~看~主人~这是你最喜欢的胸部三明治~"
 
 
 
@@ -64,31 +64,31 @@ label harem_CG_3:
 
     scene harem_cg_3_5 with tstmgr
 
-    player "Shit, I have to feel this myself~"
+    player "妈的,我必须亲自感受一下~"
 
 
 
-    g "I know master wouldn’t miss it~"
+    g "我知道主人不会错过的~"
 
 
 
     scene harem_cg_3_6 with tstmgr
 
-    player "Ohhh... These huge tender boobs... all belong to me!!!"
+    player "Ohhh... 这些巨大的温柔的胸部......都是属于我的!!!"
 
 
 
-    g "Yes, they are all master's private belongings~"
+    g "是的,它们都是主人的私人物品~"
 
 
 
     scene harem_cg_3_7 with tstmgr
 
-    c "Yaaaahhh~~~ My nipple!~ Wait~~"
+    c "Yaaaahhh~~~ 我的乳头!~ 等等~~"
 
 
 
-    g "Master really loves boobs so much... ..."
+    g "主人真的很喜欢胸部... ..."
 
 
 

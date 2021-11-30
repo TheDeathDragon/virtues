@@ -3,65 +3,65 @@ label E_daily_1:
     scene e_mansion_inside_smile with tstmgr
     play music happy
 
-    e "Hi, [P], It's so good to see you today."
+    e "Hi,[P],今天很高兴见到你."
 
-    e "You know, after Theodora moved out, this house became... empty. Irene and I are expecting you everyday. Your coming will make this place lively again."
+    e "你知道,狄奥多拉搬走后,这个房子变成了...空的了.艾琳和我每天都在等你.你的到来将使这个地方重新活跃起来."
 
-    player "Don't mention it, Aunt Elisa. This place is like the second home to me. I enjoy coming here every time."
+    player "别客气,伊莉莎阿姨.这个地方就像我的第二个家.我喜欢来这里."
 
-    narrator "I'm saying the truth. I do have a deep feeling about this mansion. "
+    narrator "我说的是实话.我对这栋别墅确实有很深的感情."
 
-    narrator "5 years ago when I was still in high school, my dad went abroad on business for half a year. Before he left, he asked Aunt Elisa to look after me. So during the time when he was not here, I lived with Aunt Elisa's family in this mansion all along. "
+    narrator "五年前,当我还在上高中的时候,我爸爸去国外出差半年.临走前,他让伊莉莎阿姨照顾我.所以在他不在的那段时间里,我一直和伊莉莎一家住在这栋别墅里."
 
-    narrator "That was quite a memory."
+    narrator "那真是一段美好的回忆."
 
     scene e_mansion_inside_laugh with tstmgr
 
-    e "Thanks for saying that."
+    e "谢谢你的夸奖."
 
-    player "So if you don't mind me to ask..."
+    player "如果你不介意我问些问题的话..."
 
     scene e_mansion_inside_smile with tstmgr
 
-    e "Sure, anything."
+    e "当然,说吧."
 
-    player "Why didn't you let me move in here after my dad got into trouble? I thought you would invite me, but instead you told me that I should take care of myself."
+    player "我爸爸惹上麻烦后,你为什么不让我搬进来?我以为你会邀请我,但你却告诉我要照顾好自己."
 
     scene e_mansion_inside_frown with tstmgr
 
     e "... ... ... ..."
 
-    e "I do want you to move in here and live with us, but I thought that is not the best for you. You can't stay in the comfort zone forever. You have grown up and you need to learn how to survive in this society by yourself."
+    e "我确实想让你搬过来和我们一起住,但我觉得那不太适合你.你不能永远呆在舒适区.你已经长大了,需要学习如何在这个社会中生存."
 
-    player "I see..."
+    player "我明白了..."
 
     scene e_mansion_inside_normal2 with tstmgr
 
-    e "You are such a capable young man, I'm sure that you will make bigger success than your father did once you have enough experience."
+    e "你是一个很有能力的年轻人,我相信一旦你有足够的经验,你会比你爸爸取得更大的成功."
 
-    player "I'm... flattered..."
+    player "我...受宠若惊..."
 
-    e "You know, your father and I, we used to have arguments about your family education. I thought he spoiled you too much."
+    e "你知道,你爸爸和我,我们过去常常为你的家庭教育争吵.我认为他把你惯坏了."
 
-    e "But I'm not your mother, so I don't have the right to put my oar in his decision. "
+    e "但我不是你的妈妈,所以我没有权利对他的决定表示反对."
 
-    e "But this time we had a consensus. He agreed with me that we should let you explore your life more on your own."
+    e "但这次我们达成了共识.他同意我的观点,我们应该让你更多地探索自己的生活."
 
     scene e_mansion_inside_smile with tstmgr
 
-    e "And it seems like you are doing well. I'm so happy for you."
+    e "看起来你做得很好.我真为你高兴."
 
-    player "Thanks, Aunt Elisa. I promise that I won't let you down."
+    player "谢谢,伊莉莎阿姨.我保证不会让你失望."
 
     e "... ... ... ..."
 
-    e "Glad to hear that."
+    e "很高兴听你这么说."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time with Aunt Elisa."
+    narrator "我和伊莉莎阿姨呆了一段时间."
 
     narrator "... ... ... ..."
 

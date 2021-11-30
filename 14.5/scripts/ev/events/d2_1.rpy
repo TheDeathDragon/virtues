@@ -1,6 +1,6 @@
 label d2_1:
 
-    "The next morning, while I was still in sleep..."
+    "第二天早上,我还在睡觉..."
 
 
 
@@ -12,15 +12,15 @@ label d2_1:
 
 
 
-    "??" "Wake up."
+    "??" "醒一醒."
 
 
 
-    player "Ha, ah, what? Zzzzzzzzzz..."
+    player "Ha,ah,什么?Zzzzzzzzzz..."
 
 
 
-    "??" "Your sleeping face looks ridiculous. Don't be like a baby, get your ass off your bed."
+    "??" "你熟睡的脸看起来很可笑.别像个婴儿,从床上滚下来."
 
 
 
@@ -28,81 +28,81 @@ label d2_1:
 
 
 
-    "Ahhhh... ... I hate to be woken by other people. It's like my personal space is getting invaded."
+    "Ahhhh......我讨厌被别人吵醒.就像我的私人空间好像被侵犯了."
 
 
 
-    "I don't even need to open my eyes to see who that is. I live in a luxury hotel suite, and there is only one person has the key to this room besides me."
+    "我甚至不需要睁开眼睛就能知道那是谁.我住在一个豪华的酒店套房,除了我之外只有一个人有这个房间的钥匙."
 
 
 
     scene day2_c1 with dissolve
 
-    "This woman, Theodora, my norminal fiancee, daughter of ShinyRost Inc's president. ShinyRost is one of the biggest companies in this city."
+    "这个女人,狄奥多拉,我的未婚妻,新光公司总裁的女儿.新光是这个城市最大的公司之一."
 
 
 
-    "Although we have engaged, there is no actual romance between us. We were just obeying our parents' wishes."
+    "虽然我们已经订婚了,但我们之间并没有真正的爱情.我们只是遵从父母的意愿."
 
 
 
-    "My dad and her mom are friends in life and allies in business. They are happy to furtherly improve their alliance relationship by setting a marriage for their children."
+    "我爸爸和她妈妈是生活中的朋友,也是生意上的盟友.他们很乐意通过为孩子建立婚姻来进一步增进他们的同盟关系."
 
 
 
-    "I have known this girl since childhood. She is two years older than me. I had a crush on her when we were in highschool. We were so close during that time that I almost confessed my love to her, but unfortunately it didn't work out at last."
+    "我从小就认识这个女孩.她比我大两岁.我在高中的时候就喜欢上她了.在那段时间里,我们是如此亲密,以至于我几乎都要向她表白,但不幸的是,这事没成."
 
 
 
-    "After that, our relationship became bad these years for... hmm... ... no reason."
+    "从那以后,这些年我们的关系变得很糟糕因为...hmm......没有原因."
 
 
 
-    "What can you say? I missed my chance and we can’t be back again. This is life."
+    "你能说什么?我错过了机会,我们也回不去了.这就是生活."
 
 
 
-    "But now she is still on my potential-true-love list. Although I know she is a workaholic with apathy to sex, a cold and untouchable woman that no one can really get into her heart, but... she was my first crush and first crush is always special."
+    "但现在她仍然在我的潜在真爱名单上.虽然我知道她是一个对性漠不关心的工作狂,一个冷酷无情的女人,没有人能真正进入她的心,但是...她是我的初恋,而初恋总是很特别的."
 
 
 
-    "Thus I'm okay with this engagement, and to my surprise, so is she. I don’t really know her reason, maybe she just want to take it as an excuse to refuse those thirsty middle-age rich dudes' pursuing so she can immerse herself in the business world?"
+    "因此,我同意订婚,令我惊讶的是,她也同意了.我真的不知道她是为什么,也许她只是想以此为借口,拒绝那些饥渴的中年富家公子的追求,这样她就可以沉浸在商业世界里了?"
 
 
 
     scene day2_c2 with tstmgr
 
-    c "What are you looking at?"
+    c "你在看什么?"
 
 
 
-    player "Your tits."
+    player "你的胸."
 
 
 
-    c "(Looking at me with a face of despising) Ha ha, funny... ... ... ..."
+    c "(一脸鄙视地看着我)Haha,有趣............"
 
 
 
-    "Although I think I still like her, I always act rudely and obscenely in front of her. It is not the real me, of course. I guess I am just trying to draw her attention."
+    "虽然我认为我仍然喜欢她,但我总是在她面前表现粗鲁和下流.当然,这不是真实的我.我想我只是想引起她的注意."
 
 
 
     scene day2_c3 with tstmgr
 
-    c "I don't have time for this. You need to get up from that bed now. It is already noon."
+    c "我没时间和你说这个.你现在得从床上起来.已经是中午了."
 
 
 
-    player "Why do you care? I don’t have class today. I can sleep as long as I want."
+    player "你为什么关心这个?我今天没课.我想睡多久就睡多久."
 
 
 
-    c "I have told you two days ago that a business partner of my mom is holding a pool party this afternoon. We need to go together."
+    c "我两天前告诉过你,今天下午我妈妈的一个商业伙伴要举办一个泳池派对.我们需要一起去."
 
 
 
-    player "Why do I have to attend a party held by a person I don't even know? You can just go alone."
+    player "为什么我要参加一个我都不认识的人举办的聚会?你可以一个人去."
 
 
 
@@ -118,47 +118,47 @@ label d2_1:
 
     scene day2_c4 with tstmgr
 
-    c "You really want me to be surrounded by a dozen of half-naked men alone?"
+    c "你真的想让我被一群半裸的男人包围吗?"
 
 
 
-    "he suddenly pulled her dress down for a bit. Her tits were about to burst out."
+    "她突然把她的衣服拉下来了一点.她的乳房几乎要迸出来了."
 
 
 
-    player "Shit... What are you doing?..."
+    player "操...你在做什么?..."
 
 
 
-    "I am getting an erection."
+    "我现在勃起了."
 
 
 
     scene day2_c5 with tstmgr
 
-    "To be honest, I can't remember how many times I have masturbated while imagining her tits."
+    "老实说,我不记得有多少次我在想象她的胸的时候手淫了."
 
 
 
-    "Those amazing tits... I want to put my hands in that cleavage, I want to stick my dick into it, I want to drown myself in it... ..."
+    "这对惊人的胸...我想把手伸进去,我想把我的鸡儿插进去,我想把自己溺死在里面......"
 
 
 
-    player "I... ..."
+    player "我......"
 
 
 
     scene day2_c4 with tstmgr
 
-    c "You really should have a look at your face, little virgin. You are pathetic."
+    c "你真该看看你的脸,小处男.你真可怜."
 
 
 
-    player "Little virgin? No one has called me that before."
+    player "小处男吗?以前没人这么叫过我."
 
 
 
-    c "Stop bitching around, just get on your clothes and go with me."
+    c "别发牢骚了,穿上衣服跟我走."
 
 
 
@@ -166,7 +166,7 @@ label d2_1:
 
 
 
-    player "Alright... I will go."
+    player "Alright...来了."
 
 
 
@@ -176,35 +176,35 @@ label d2_1:
 
 
 
-    "Sometime later, Theodora and I arrived at the party location, an upscale indoor swimming pool. It would cost a lot of money to book this whole place for an afternoon, whoever hosted it must be a super-rich dude."
+    "过了一段时间,狄奥多拉和我到达了聚会地点,一个高档的室内游泳池.将整个地方包一个下午要花很多钱,主办这个地方的人一定是个超级有钱的家伙."
 
 
 
     scene day2_c6 with tstmgr
 
-    "Theodora changed her cold face at the first second when we got there. She smiled to the others with politeness and passion, acted a lot more conversable than when she was with me."
+    "狄奥多拉在我们到达的前一秒钟就改变了她冰冷的脸.她礼貌而热情地向大家微笑,比和我在一起时更健谈."
 
 
 
-    "She always knows how to use her charm to make the maximum profit. Look at her swimming suit. That is one of the sexiest costumes I have ever seen in my life. She is using it to get an advantage position when negotiating with people who were stunned at her body."
+    "她总是知道如何利用自己的魅力来获取最大的利益.看她的游泳衣.那是我这辈子见过的最性感的服装之一.她在和那些被她的身体吓呆了的人谈判时,利用这个优势."
 
 
 
-    "She acts like a dissolute social butterfly, but I know that is not the real her. She was born an actor, now she is just playing her role."
+    "她表现得像个放荡的交际花,但我知道那不是真正的她.她天生是个演员,现在她只是在演她的角色."
 
 
 
-    "She is playing a dangerous game. I have noticed how those men stared at her, like hungry beasts staring at a meal feast. That is why she needs me, her fiance, to be here and keep her out of potential harassment."
+    "她在玩一场危险的游戏.我注意到那些人是怎样盯着她看的,就像饥饿的野兽盯着一顿大餐.这就是为什么她需要我,她的未婚夫,在这里让她远离潜在的骚扰."
 
 
 
-    "Ha, these poor guys are all fooled. Theodora is not as adorable as she looks."
+    "Ha,这些可怜的家伙都被她的行为愚弄了.她不像看上去那么可爱."
 
 
 
     scene day2_c7 with tstmgr
 
-    "Look at what she is doing! She bent over to show off her big breasts and pretended like it's an accident."
+    "看看她在做什么!她弯下腰炫耀她的大胸,假装这是意外."
 
 
 
@@ -214,7 +214,7 @@ label d2_1:
 
 
 
-    "Shit, I cannot move my eyes away from her tits..."
+    "妈的,我的视线都离不开她的胸了..."
 
 
 
@@ -224,11 +224,11 @@ label d2_1:
 
 
 
-    "She smiled at me, but it was more like a sneer. What is she trying to say?"
+    "她朝我笑了笑,但更像是一种讥笑.她想说什么?"
 
 
 
-    player "Whatever... ... ... ..."
+    player "无所谓了............"
 
 
 
@@ -240,57 +240,57 @@ label d2_1:
 
     scene day2_c11 with dissolve
 
-    "Sometime later, Theodora came to me and sat beside me."
+    "过了一会儿,狄奥多拉来到我身边,坐在我旁边."
 
 
 
-    c "You don’t seem very happy."
+    c "你看起来不太高兴."
 
 
 
-    player "What should I be happy about? I don't even want to be here. I don't know anyone here, and I didn't even wear my favorite swim trunk."
+    player "我应该高兴什么?我甚至不想待在这里.我在这里一个人都不认识,我甚至没有穿我最喜欢的泳裤."
 
 
 
-    c "That's all?"
+    c "说完了?"
 
 
 
-    player "What else could it be?"
+    player "还能是什么呢?"
 
 
 
     scene day2_c12 with tstmgr
 
-    c "Alright, nevermind."
+    c "好吧,当我没说."
 
 
 
-    "Man A" "Hi there, Miss Shinyrost."
+    "男人A""你好,新光小姐."
 
 
 
     scene day2_c13 with tstmgr
 
-    "Some men came to us at this moment. They basically ignored me and started talking to Theodora."
+    "这时有几个人向我们走来.他们基本上不理我,开始和狄奥多拉交谈."
 
 
 
-    "Man A" "Do you want to join us downstairs and have some drinks? We can talk more about the business there."
+    "男人A""你想和我们一起下楼喝点什么吗?我们可以在那里多谈一谈生意."
 
 
 
-    "Man B" "And there will be a dance party later this evening. Would you like to come, young lady?"
+    "男人B""今晚晚些时候会有一个舞会.你愿意来吗,小姐?"
 
 
 
-    "Man C" "It will be so great if you show up there. And I’d like to introduce my elder son to you. His name is... ..."
+    "男人C""如果你能来那就太好了.我想把我的大儿子介绍给你.他的名字是......"
 
 
 
     scene day2_c14 with tstmgr
 
-    c "Thank you, gentlemen, but I... ... ... ..."
+    c "谢谢,先生们,但我............"
 
 
 
@@ -300,89 +300,89 @@ label d2_1:
 
 
 
-    "It is obvious that she doesn’t want to go with them. Should I help her out?"
+    "很明显,她不想和他们一起去.我应该帮她吗?"
 
 
 
     label d2_1_choice_1:
 
     menu:
-        "Help her":
+        "帮她":
 
 
             scene day2_c16 with tstmgr
 
-            player "Stop right there, gentlemen. Can’t you see we were having a conversation?"
+            player "够了,先生们.你没看见我们在谈话吗?"
 
-            "Those men are surprised at my rudeness."
+            "那些人对我的粗鲁感到惊讶."
 
-            "Man A" "And you are?..."
+            "男人A""你是?..."
 
-            player "I’m her fiance. Is there a problem?"
+            player "我是她的未婚夫.有什么问题吗?"
 
-            "Man A" "What the hell?"
+            "男人A""什么鬼?"
 
             $ add(C, C.love, 1)
-        "Be quiet":
+        "保持沉默":
 
 
 
 
-            "Well, they are not aiming at me, so I think I’ll just stay here and be silence."
+            "Well,他们不是冲着我来的,所以我想我还是呆在这里,保持沉默吧."
 
-            c "I... I’d like to. But my fiance and I are going to have a date in the evening, sorry... ..."
+            c "我...我很乐意.但是我和未婚夫晚上要约会,抱歉......"
 
-            "Man A" "Your fiance?"
+            "男人A""你未婚夫?"
 
-            "Sigh... ... I knew she wouldn’t let me get off so easily."
+            "唉...我知道她不会轻易放过我的."
 
-            "Alright, I’ll help her for this time."
+            "Alright,我就帮他这次."
 
             scene day2_c16 with tstmgr
 
-            player "Yeah, I’m Theodora’s fiance. Is there a problem?"
+            player "Yeah,我是狄奥多拉的未婚夫.有什么问题吗?"
 
 
 
     scene day2_c17 with tstmgr
 
-    c "I apologized for his surliness and for not introducing him to you earlier. This is [P], and yes, we have engaged..."
+    c "我为他的无礼和没有早点把他介绍给你们道歉.这是[P],andyes,我们已经订婚了..."
 
 
 
-    "Man C" "What? Why did you and your mother never tell anyone about it?"
+    "男人C""什么?为什么你和你妈妈从不告诉任何人这件事?"
 
 
 
-    c "That was... a long story... ..."
+    c "这...说来话长......"
 
 
 
-    "Man B" "[P]?... ... I think I have heard of this name elsewhere... ..."
+    "男人B""[P]?......我想我在别处听说过这个名字......"
 
 
 
-    player "Now can you give us a moment? My fiancee and I have a lot of things to discuss."
+    player "现在你能给我们一点时间吗?我的未婚妻和我有很多话要说."
 
 
 
     scene day2_c18 with tstmgr
 
-    "Man A" "How dare you talk to me like this!?"
+    "男人A""你怎么敢这样跟我说话!?"
 
 
 
-    "Man B" "(Interrupted Man A) Sorry, son, we apologized. You two have a good time."
+    "男人B""(打断了男人A)对不起,孩子,我们道歉.祝你们玩得愉快."
 
 
 
-    "Man B" "We have prepared some food and wines downstairs, feel free to join us if you like."
+    "男人B""我们在楼下准备了一些食物和酒,如果你愿意,请随时加入我们."
 
 
 
     scene day2_c19 with tstmgr
 
-    "The three men left in a hurry."
+    "三个人匆匆离开了."
 
 
 
@@ -392,19 +392,19 @@ label d2_1:
 
 
 
-    "Man A" "Why did you pull me back? I was about to give that young bastard a lesson!"
+    "男人A""你为什么要把我拉回来?我正要教训那个小混蛋一顿!"
 
 
 
-    "Man B" "I have heard of his name before. Do you know who his father is?"
+    "男人B""我以前听说过他的名字.你知道他父亲是谁吗?"
 
 
 
-    "Man C" "Hmmm? Who is it?"
+    "男人C""Hmmm?是谁?"
 
 
 
-    "Man B" "His father is... ... ... ..."
+    "男人B""他的父亲是............"
 
 
 
@@ -412,23 +412,23 @@ label d2_1:
 
 
 
-    "Man A" "Oh, shit, is that true? Damn, I didn’t know."
+    "男人A""Oh,shit,真的吗?Damn,我不知道."
 
 
 
-    "Man C" "No wonder he dared to talk to us like that. His father has the power to wipe us out off this city with a single snap."
+    "男人C""难怪他竟敢那样对我们说话.他父亲有能力让我们在这个城市一无所有."
 
 
 
-    "Man A" "Yeah, that was close, thanks, old buddy."
+    "男人A""Yeah,好险啊,谢谢,老兄."
 
 
 
-    "Man B" "That’s fine. And... ... I just heard some rumors recently about his father... ..."
+    "男人B""没事.还有...我最近听到一些关于他父亲的谣言......"
 
 
 
-    "Man B" "His father is going to have a big trouble... ... He won’t be able to talk to us like that soon... ..."
+    "男人B""他的父亲将会有大麻烦......他很快就不能这样跟我们说话了......"
 
 
 
@@ -442,13 +442,13 @@ label d2_1:
 
 
 
-    c "Why are you still holding me? They are already gone."
+    c "你为什么还搂着我?他们已经走了."
 
 
 
     scene day2_c21 with tstmgr
 
-    player "Oh, eh, sorry..."
+    player "Oh,eh,抱歉..."
 
 
 
@@ -458,25 +458,25 @@ label d2_1:
 
     scene day2_c22 with tstmgr
 
-    c "You did... quite a good job back there."
+    c "你...刚刚做的不错."
 
 
 
-    c "Thanks... ... ... ..."
+    c "谢谢............"
 
 
 
-    "Her voice became softer than usual. It made me feel... ... unreal."
+    "她的声音变得比平时柔和了.这让我觉得...有点不真实."
 
 
 
-    player "Theo, I... ..."
+    player "狄奥,我......"
 
 
 
     scene day2_c23 with tstmgr
 
-    c "I’m tired. Can you drive me back to my mother’s house now?"
+    c "我累了.你现在能开车送我回我妈妈家吗?"
 
 
 
@@ -484,17 +484,17 @@ label d2_1:
 
 
 
-    player "Of course..."
+    player "当然..."
 
 
 
     scene day2_c24 with tstmgr
 
-    c "And... I guess my mom is going to invite you to have the dinner with us again..."
+    c "And...我想我妈妈又要邀请你和我们一起吃饭了..."
 
 
 
-    player "I... I’d love to do that."
+    player "我...我很乐意."
 
 
 
@@ -510,7 +510,7 @@ label d2_1:
 
 
 
-    "After that, I drove Theodora back to her mother’s mansion and had the dinner with her family together."
+    "之后,我开车送狄奥多拉回了她母亲的别墅,和她的家人一起吃了晚饭."
 
 
 

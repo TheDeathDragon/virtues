@@ -16,7 +16,7 @@ label company_afternoon_C_1:
 
 
 
-    player "(Suddenly awake) What? What happened?"
+    player "(突然惊醒)怎么了?发生了什么?"
 
 
 
@@ -24,7 +24,7 @@ label company_afternoon_C_1:
 
 
 
-    player "Sorry, I know I was not supposed to nap at work. I was too tired."
+    player "对不起,我知道我不应该在工作时打盹.我太累了."
 
 
 
@@ -34,7 +34,7 @@ label company_afternoon_C_1:
 
 
 
-    c "I will spare you for this time. Keep working."
+    c "这次我饶了你.继续工作."
 
 
 

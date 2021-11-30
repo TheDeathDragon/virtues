@@ -2,39 +2,39 @@ label bungalow_latenight_E_1:
 
     scene bungalow_latenight_e_1_1 with tstmgr
 
-    "After a wild sex with Aunt Elisa in the bungalow..."
+    "在平房里和伊莉莎阿姨疯狂做爱后..."
 
 
 
-    e "*Breathing heavily* Huh... huh... huhh... huh... ..."
+    e "*喘着粗气*Huh...huh...huhh...huh......"
 
 
 
     scene bungalow_latenight_e_1_2 with tstmgr
 
-    e "Do you... want to eat anything? I can make you some noodles if you are hungry."
+    e "你...想吃点什么吗?如果你饿了,我可以给你做些面条."
 
 
 
     scene bungalow_latenight_e_1_3 with tstmgr
 
-    player "Wait, you haven't been exhausted yet? I feel like I can't even move my legs."
+    player "等等,你还没累吗?我觉得我的腿都动不了了."
 
 
 
     scene bungalow_latenight_e_1_4 with tstmgr
 
-    e "You can't expect to make a middle-age woman exhausted by sex. Sex will only bring me even more energy~"
+    e "你不能指望把一个中年女人弄得精疲力尽.性爱只会给我带来更多的能量~"
 
 
 
-    e "I'm okay to start another round if you want~"
+    e "如果你愿意,我可以再来一轮~"
 
 
 
     scene bungalow_latenight_e_1_5 with tstmgr
 
-    player "Let's... let's just have a rest for now... ..."
+    player "让我们...让我们暂时休息一下吧......"
 
 
 

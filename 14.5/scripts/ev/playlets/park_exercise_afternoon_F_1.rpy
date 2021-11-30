@@ -2,33 +2,33 @@ label park_exercise_afternoon_F_1:
 
     scene void with tstmgr
 
-    "Rachel and I were walking in the park."
+    "瑞秋和我在公园散步."
 
 
 
     scene f_wood_frown with tstmgr
 
-    f "Hmmm... ... ... Why do they all look at me?"
+    f "Hmmm.........为什么他们都看着我?"
 
 
 
-    f "Is there something on my face?"
+    f "我脸上有什么东西吗?"
 
 
 
-    player "I think they were just attracted by your body shape, just like me."
+    player "我想他们只是被你的身材吸引了,就像我一样."
 
 
 
     scene f_wood_weird with tstmgr
 
-    f "Emm, people are weird..."
+    f "Emm,人们真奇怪..."
 
 
 
     scene f_wood_wink with tstmgr
 
-    f "But since we are friends, I will allow you to touch my abs if you want."
+    f "但是既然我们是朋友,如果你愿意,我可以让你摸我的腹肌."
 
 
 

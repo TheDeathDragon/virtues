@@ -3,19 +3,19 @@ label A_train_sha_2:
     scene void with tstmgr
     play music happy
 
-    "Some days later, in an afternoon, I decided to check on Vera in the clothing store she works at..."
+    "几天后的一个下午,我决定到薇拉工作的服装店去看看她..."
 
 
 
     scene a_train_sha_2_1 with dissolve
 
-    a "Ah~ [P], welcome~"
+    a "Ah~[P],欢迎~"
 
 
 
     scene a_train_sha_2_2 with tstmgr
 
-    a "But unfortunately this is really not a good time. Today is a national holiday and we are very busy. I don’t really have time for chatting."
+    a "但很不幸,现在不是时候.今天是国庆节,我们都很忙.我真的没有时间聊天."
 
 
 
@@ -25,53 +25,53 @@ label A_train_sha_2:
 
     scene a_train_sha_2_1 with tstmgr
 
-    a "I will see you again when I’m done with today’s work..."
+    a "等我做完今天的工作再来找你..."
 
 
 
-    player "But who said I am here just for a chat? I am here to buy some clothes~"
+    player "但谁说我来这里只是为了聊天的?我来这儿买衣服~"
 
 
 
     scene a_train_sha_2_3 with tstmgr
 
-    a "We only sell women clothes here."
+    a "我们这里只卖女装."
 
 
 
-    player "Yeah, I’m here to buy some clothes for you, as a gift~"
+    player "Yeah,我来给你买些衣服,作为礼物~"
 
 
 
     scene a_train_sha_2_5 with tstmgr
 
-    a "Oh, eh... thanks... ..."
+    a "Oh,eh...谢谢......"
 
 
 
-    player "And as a salesperson, you will have to stay with the customer until he buys something or leaves. That’s your job, right?~"
+    player "作为一名销售人员,你必须和顾客呆在一起,直到他买东西或离开.这是你的工作,对吧?~"
 
 
 
-    player "We are going to have a lot of fun today~"
+    player "我们今天会玩得很开心的~"
 
 
 
     scene a_train_sha_2_4 with tstmgr
 
-    a "So this is your plan, huh? Tricky~"
+    a "这就是你的计划,huh?狡猾~"
 
 
 
-    a "And what do you want to buy for me exactly?"
+    a "你到底想给我买什么?"
 
 
 
-    player "Well, that depends on how satisfied I will be with your service..."
+    player "Well,那要看我对你的服务有多满意了..."
 
 
 
-    a "Jerk~"
+    a "哼~"
 
 
 
@@ -81,97 +81,97 @@ label A_train_sha_2:
 
 
 
-    "A few moments later, in a fitting room..."
+    "过了一会儿,在试衣间里..."
 
 
 
     scene a_train_sha_2_6 with dissolve
 
-    a "My manager is going to kill me for disappearing at this busy hour."
+    a "我在这么忙的时候不见了,经理会杀了我的."
 
 
 
-    player "Don’t worry, I’m gonna buy a lot of things today and they will all be counted as credits to you. Your manager won’t blame you for anything~"
+    player "别担心,我今天会买很多东西,都算你的业绩.你的经理不会为任何事责怪你~"
 
 
 
     scene a_train_sha_2_7 with tstmgr
 
-    a "Humph~ You spend all that money just to stay with me for a while? I feel like I am a rich prostitute or something~"
+    a "Humph~你花那么多钱就为了和我在一起一段时间?我觉得自己像个有钱的妓女~"
 
 
 
-    player "I can just leave if you don’t feel happy about this."
+    player "如果你不高兴,我可以走."
 
 
 
     scene a_train_sha_2_8 with tstmgr
 
-    a "Jerk... ... ... ..."
+    a "傻瓜............"
 
 
 
-    player "Vera... ... ... ..."
+    player "薇拉............"
 
 
 
     scene a_train_sha_2_9 with tstmgr
 
-    a "Wuummmm~~~ Kiss~~~~"
+    a "Wuummmm~~~吻~~~~"
 
 
 
     scene a_train_sha_2_10 with tstmgr
 
-    player "Wow, Vera, you didn’t wear briefs today?"
+    player "Wow,薇拉,你今天没穿内裤?"
 
 
 
     scene a_train_sha_2_11 with tstmgr
 
-    a "Because... I have this feeling... that you would come to me during the day~"
+    a "因为...我有种感觉...你白天会到我这里来~"
 
 
 
-    a "So I am... prepared already~"
+    a "所以我...准备好了已经~"
 
 
 
     scene a_train_sha_2_12 with tstmgr
 
-    player "Oh girl, I can’t believe how shameless you have become... ..."
+    player "Oh女孩,我真不敢相信你竟变得如此放荡......"
 
 
 
-    a "And... whose fault is that?"
+    a "...这是谁的错?"
 
 
 
     scene a_train_sha_2_13 with tstmgr
 
-    player "Ho~ You dare to question a customer?"
+    player "Ho~你竟敢质疑顾客?"
 
 
 
-    a "Sor... sorry... ..."
+    a "抱...抱歉......"
 
 
 
-    player "That’s not enough~"
+    player "这是不够的~"
 
 
 
     scene a_train_sha_2_14 with tstmgr
 
-    player "I want you to look at yourself in the mirror and confess what a shameless slut you are~"
+    player "我要你看着镜子里的自己,承认你是一个多么无耻的荡妇~"
 
 
 
-    a "This is... too much... ..."
+    a "这...太......"
 
 
 
-    player "Just say it out, girl~"
+    player "说出来吧,女孩~"
 
 
 
@@ -183,21 +183,21 @@ label A_train_sha_2:
 
     scene a_train_sha_2_17 with tstmgr
 
-    a "I am... a shameless slut. I cannot live without [P]’s mighty dick for a single day~"
+    a "我是...一个无耻的荡妇.没有[P]粗壮的鸡巴,我一天也活不下去~"
 
 
 
-    a "I don't wear any underwears because I am desperate to get filled by [P]’s sperm~"
+    a "我不穿内衣,因为我渴望被[P]的精子填满~"
 
 
 
     scene a_train_sha_2_16 with tstmgr
 
-    a "Awwww... ... I don’t even recognize myself in the mirror anymore~~"
+    a "Awwww......我都认不出镜子里的自己了~~"
 
 
 
-    a "[P]... it’s all your fault~"
+    a "[P]...都是你的错~"
 
 
 
@@ -209,27 +209,27 @@ label A_train_sha_2:
 
     scene a_train_sha_2_18 with tstmgr
 
-    "Manager" "Have anyone seen Vera?"
+    "经理""有人见过薇拉吗?"
 
 
 
-    "Salesperson A" "I think... I just saw her leading a customer to the fitting rooms."
+    "售货员A""我...我刚看到她带一位顾客去试衣间了."
 
 
 
-    "Manager" "And where she is now? A lot of customers are waiting!"
+    "经理""她现在在哪里?有这么多顾客等着服务!"
 
 
 
-    "Salesperson A" "I don’t know... She doesn’t seem to be out from the fitting room area yet."
+    "售货员A""我不知道...她好像还没从试衣间出来."
 
 
 
-    "Manager" "Ha? How could it be?"
+    "经理""Ha?这怎么可能?"
 
 
 
-    "Manager" "Shit, she must be deserting somewhere. I’m gonna dock her wage badly!"
+    "经理""Shit,她一定是跑到什么地方去了.我要狠狠扣她的工资!"
 
 
 
@@ -239,7 +239,7 @@ label A_train_sha_2:
 
 
 
-    "At the same time..."
+    "同时..."
 
 
 
@@ -249,23 +249,23 @@ label A_train_sha_2:
 
 
 
-    a "*Restricted moaning* Emmm~ mmm~ uhh~ How do you... uwwww~ like my service, dear customer?"
+    a "*克制的呻吟*Emmm~mmm~uhh~你喜欢...uwwww~我的服务吗,尊敬的顾客?"
 
 
 
-    player "Your service? Why do I feel like I am the one that serves? Look at your face in the mirror, you are enjoying this too much~"
+    player "你的服务?为什么我觉得是我在服务?看看镜子里你的脸,你太享受了~"
 
 
 
-    a "Because this feels so good~ It’s like you are giving my vagina a massage with that big dick~"
+    a "因为这感觉太好了~就像你在用那根大鸡巴给我的小穴按摩一样~"
 
 
 
-    player "Ah-hah, so I am truly the one that serves~"
+    player "Ah-hah,所以我才是真正的服务对象~"
 
 
 
-    a "Love you~"
+    a "爱你~"
 
 
 
@@ -273,19 +273,19 @@ label A_train_sha_2:
 
 
 
-    a "It feels so strange to look myself being fucked like this in the mirror~"
+    a "看着自己在镜子里这样被操,感觉好奇怪~"
 
 
 
-    a "It’s like... a live porn~"
+    a "这就像...色情直播~"
 
 
 
-    player "Well, just let me know if you want to make videos during sex, I am kinda professional at that now~"
+    player "Well,如果你想拍黄片就告诉我,我现在在这方面很专业~"
 
 
 
-    a "I’ll... think about that... ..."
+    a "我会...考虑的......"
 
 
     stop sound
@@ -295,27 +295,27 @@ label A_train_sha_2:
 
 
 
-    a "Awwww~ Yes~~ Your wriggling dick~ ohhhh~~~"
+    a "Awwww~Yes~~你的大鸡巴~ohhhh~~~"
 
 
 
-    player "Keep your voice down, girl. You know there is only a curtain between us and the outside, right?"
+    player "小点声,女孩.你知道我们和外界之间只有一道帘子,对吧?"
 
 
 
-    a "I... can’t help~~~ [P]~~~ you are so powerful~~~"
+    a "我...忍不住~~~[P]~~~你好猛~~~"
 
 
 
-    a "Awwwwww~ yes, yes, punish me, punish this shameless girl with that wriggling dick~~"
+    a "Awwwwww~yes,yes,惩罚我,用你这根大鸡巴惩罚这个无耻的女孩~~"
 
 
 
-    a "My slutty pussy... is all yours to take~~~"
+    a "我淫荡的小穴...是你的~~~"
 
 
 
-    player "I’m... I’m cumming!!!"
+    player "我...我要射了!!!"
 
 
     stop sound
@@ -323,15 +323,15 @@ label A_train_sha_2:
 
     $ flashlight()
 
-    a "Oh, wait, wait!"
+    a "Oh,等等,等等!"
 
 
 
-    "She suddenly stood up and got away from me."
+    "她突然站起来,抽离我的鸡巴."
 
 
 
-    player "Vera? What the hell?"
+    player "薇拉?什么鬼?"
 
 
 
@@ -340,19 +340,19 @@ label A_train_sha_2:
 
     $ flashlight()
 
-    "And then she swallowed my dick deeply in her mouth and drank all my cum without any hesitation."
+    "然后她把我的鸡巴深深地含进嘴里毫不犹豫地喝光了我的精液."
 
 
 
     scene a_train_sha_2_23 with tstmgr
 
-    player "Eh... Vera, why did you... ..."
+    player "Eh...薇拉,为什么你......"
 
 
 
     scene a_train_sha_2_24 with tstmgr
 
-    a "*Swallowing* ... ... ... ..."
+    a "*吞咽*............"
 
 
 
@@ -364,21 +364,21 @@ label A_train_sha_2:
 
     scene a_train_sha_2_27 with tstmgr
 
-    a "I’m not wearing any underwear today, so... I can’t let you cum in my pussy, otherwise the fluid will all leak out and everyone will know what happened."
+    a "我今天没穿内裤,所以...我不能让你内射,否则精液会全部流出大家都会知道发生了什么."
 
 
 
-    player "Oh, wow, that was... very thoughtful... ..."
+    player "Oh,wow,这...想的很周到......"
 
 
 
     scene a_train_sha_2_25 with tstmgr
 
-    a "Your cum is not as sticky as it used to be~ You must have came for too many times recently."
+    a "你的精液不像以前那么黏了~你最近一定射了很多次了."
 
 
 
-    player "I guess so... ..."
+    player "我想是吧......"
 
 
 
@@ -388,7 +388,7 @@ label A_train_sha_2:
 
 
 
-    "We left the fitting room some time later. I bought a lot of things in the store in order to increase Vera’s performance, but she still got scolded by her manager anyway... ..."
+    "一段时间后,我们离开了试衣间.为了提高薇拉的表现,我在店里买了很多东西,但她还是被经理骂了一顿......"
 
     stop music fadeout 1.0
 

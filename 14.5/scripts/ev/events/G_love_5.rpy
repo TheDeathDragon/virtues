@@ -7,63 +7,63 @@ label G_love_5:
 
 
 
-    "Later this evening, Uno and I are making another porn video in her room..."
+    "今晚晚些时候,乌诺和我在她的房间里制作另一个色情视频..."
 
 
 
     scene g_love_4_6 with tstmgr
 
-    player "Hello guys, today I’m gonna play a little game with MissU."
+    player "Hello伙计们,今天我要和U小姐玩一个小游戏."
 
 
 
     scene g_love_4_7 with tstmgr
 
-    g "What... what game? You didn’t mention that."
+    g "什么...什么游戏?你没说过."
 
 
 
-    player "Don’t be nervous. The rule is very simple. I’m going to touch your tits with some random objects and you need to guess what they are."
+    player "别紧张.规则很简单.我要用一些随机的物体碰你的乳头,你需要猜出它们是什么."
 
 
 
-    g "That doesn’t sound like a fun game..."
+    g "这听起来不像是一个有趣的游戏..."
 
 
 
-    player "Okay but we are playing it anyway because that is the theme of this video. Now let’s start it, shall we?"
+    player "好的,但我们还是要玩下去因为这是本视频的主题.现在我们开始吧,好吗?"
 
 
 
-    player "Here comes the first item."
+    player "第一个来了."
 
 
 
     scene g_love_5_1 with tstmgr
 
-    "I gently poke her nipple with one of my fingers."
+    "我用一个手指轻轻地戳她的乳头."
 
 
 
-    g "(Moaning with lust) Wummmmm~~~~"
+    g "(欲望的呻吟)Wummmmm~~~~"
 
 
 
-    player "Can you take a guess of what it is?"
+    player "你能猜一猜是什么吗?"
 
 
 
     scene g_love_5_2 with tstmgr
 
-    g "Wummm... this is easy..."
+    g "Wummm...这很容易..."
 
 
 
-    g "It’s your finger. I mean, the index finger of your right hand."
+    g "这是你的手指.我是说,你右手的食指."
 
 
 
-    g "You touch me with it everyday, so... it’s not hard to guess at all..."
+    g "你每天都用它来摸我,所以...这一点也不难猜..."
 
 
 
@@ -77,55 +77,55 @@ label G_love_5:
 
     scene g_love_5_3 with tstmgr
 
-    player "Alright, let’s try another one."
+    player "好吧,我们再试试另一个."
 
 
 
-    g "(Swallowing) ... ... ... ..."
+    g "(吞下)............"
 
 
 
-    player "Here it comes!"
+    player "它来了!"
 
 
 
     scene g_love_5_4 with tstmgr
 
-    g "Awwwwwwwww~~~~ it’s so freezing!"
+    g "Awwwwwwwww~~~~好冷!"
 
 
 
     scene g_love_5_5 with tstmgr
 
-    g "Master! It's so cold and it's burning~! Stop!"
+    g "主人,又冷又热,停!"
 
 
 
-    player "Well, you have to tell me what it is first."
+    player "Well,你得先告诉我是什么."
 
 
 
     scene g_love_5_6 with tstmgr
 
-    g "It's the stick ice cream you bought last week, apple flavor!"
+    g "这是你上周买的棒状冰淇淋,苹果味的!"
 
 
 
-    player "Oh, wow, that was impressive."
+    player "Oh,wow,厉害."
 
 
 
-    player "Alright... ..."
+    player "好吧......"
 
 
 
-    player "As a reward, you are allowed to eat this stick ice cream."
+    player "作为奖励,你可以吃这种棒状冰淇淋."
 
 
 
     scene g_love_5_7 with tstmgr
 
-    g "Ah? I don’t want to..."
+    g "Ah?我不想..."
 
 
 
@@ -135,13 +135,13 @@ label G_love_5:
 
 
 
-    player "Yes, yes, use your tongue..."
+    player "Yes,yes,用你的舌头..."
 
 
 
     scene g_love_5_9 with tstmgr
 
-    player "And now let me help you clean the ice cream that left on your nipple."
+    player "现在让我来帮你清理乳头上的冰淇淋."
 
 
 
@@ -155,7 +155,7 @@ label G_love_5:
 
     scene g_love_5_10 with tstmgr
 
-    player "Ha, this is so great... Apple flavored nipple, ha... ..."
+    player "Ha,这太棒了...苹果味乳头,ha......"
 
 
 
@@ -163,19 +163,19 @@ label G_love_5:
 
 
 
-    g "[P]... wummm... this is... enough... hummmmm..."
+    g "[P]...wummm...这...够了...hummmmm..."
 
 
 
     scene void with tstmgr
 
-    player "Alright, time for the next one."
+    player "好了,下一题时间到了."
 
 
 
     scene g_love_5_11 with tstmgr
 
-    player "Here comes the big event. Let’s see if you can figure out what this is."
+    player "重量级的东西来了.看看你能不能猜出这是什么."
 
 
 
@@ -187,17 +187,17 @@ label G_love_5:
 
 
 
-    g "What is this?"
+    g "这是什么?"
 
 
 
     scene g_love_5_12 with tstmgr
 
-    g "It feels like a stick... ... But... ..."
+    g "它摸起来像根棍子......但是......"
 
 
 
-    g "It is so hot... and so hard... and has a weird scent..."
+    g "它又热...又硬.有一种奇怪的气味..."
 
 
 
@@ -205,29 +205,29 @@ label G_love_5:
 
 
 
-    g "Is this... Is this... ..."
+    g "是...是......"
 
 
 
-    player "Do you have anything in mind?"
+    player "你有什么想法吗?"
 
 
 
-    g "Is this... a spoiled sausage?"
+    g "这是...一根变质的香肠?"
 
 
 
     scene g_love_5_13 with tstmgr
 
-    player "Nope, wrong answer~"
+    player "Nope,答案错误~"
 
 
 
-    g "Wummmm... Is it a corn dog?"
+    g "Wummmm...是玉米热狗吗?"
 
 
 
-    player "Ha, wrong again~"
+    player "Ha,又错了~"
 
 
 
@@ -237,7 +237,7 @@ label G_love_5:
 
     scene g_love_5_14 with tstmgr
 
-    g "Can I... taste it with my mouth?"
+    g "我可以...用我的嘴尝一下吗?"
 
 
 
@@ -245,25 +245,25 @@ label G_love_5:
 
 
 
-    "Well, things are going even better than I planned."
+    "Well,事情比我计划的还要好."
 
 
 
-    player "Of course. You can lick it, suck it, just don’t bite it, okay?"
+    player "当然可以.你可以舔它,吸它,但不要咬它,好吗?"
 
 
 
-    g "Okay... ..."
+    g "嗯......"
 
 
 
-    player "And I need you to change a position..."
+    player "我需要你换个位置..."
 
 
 
     scene g_love_5_15 with tstmgr
 
-    g "Change a position?"
+    g "换个位置?"
 
 
 
@@ -275,11 +275,11 @@ label G_love_5:
 
     scene g_love_5_16 with tstmgr
 
-    g "Why do I have to kneel down? It is so weird..."
+    g "为什么我要跪着?太奇怪了..."
 
 
 
-    player "You ask too much, girl, now take your tongue out and taste the thing as you want."
+    player "你问的太多了,女孩,现在把你的舌头伸出来,尝尝你想要的东西."
 
 
 
@@ -293,145 +293,145 @@ label G_love_5:
 
 
 
-    "Her little tongue was carefully licking my glans. This felt so great."
+    "她的小舌头小心翼翼地舔着我的龟头.这感觉太棒了."
 
 
 
     scene g_love_5_18 with tstmgr
 
-    g "Smelly... big... hard... hot... and it’s like a living thing."
+    g "又臭...又大...又硬...又热...它就像一个有生命的东西."
 
 
 
-    g "I can feel it pulsing violently... ... ... ..."
+    g "我能感觉到它剧烈地跳动............"
 
 
 
     scene g_love_5_19 with tstmgr
 
-    g "Wait, is it... ..."
+    g "等等,这是......"
 
 
 
-    g "Is it your penis?"
+    g "是你的鸡儿吗?"
 
 
 
-    player "Ha! Bingo! You are amazing, MissU~"
+    player "Ha!是了!你真了不起,U小姐~"
 
 
 
     scene g_love_5_20 with tstmgr
 
-    g "Awwwww... I don’t feel happy at all. This is so disgusting... ..."
+    g "Awwwww...我一点也不开心.这太恶心了......"
 
 
 
-    player "No, you definitely should be happy right now because you are the reason that my penis got so hard."
+    player "不,你现在应该很开心因为是你让我的鸡儿变得这么硬."
 
 
 
-    player "It’s all because of you, MissU. You are so sexy."
+    player "都是因为你,U小姐.你真性感."
 
 
 
     scene g_love_5_21 with tstmgr
 
-    g "Ohhh... ... okay... ... thanks for... saying that."
+    g "Ohhh......okay......谢谢...你这么说."
 
 
 
-    player "Now you are responsible to calm it down..."
+    player "现在你有责任让它冷静下来..."
 
 
 
     scene g_love_5_20 with tstmgr
 
-    g "Calm it down? What are you talking about?"
+    g "让它冷静下来?你在说什么?"
 
 
 
-    player "Can you put it inside your cleavage?"
+    player "你能把它放在乳沟里吗?"
 
 
 
-    g "What? We didn’t talk about this before..."
+    g "什么?我们之前没说过这个..."
 
 
 
-    player "Hmm... yeah, but it’s a reasonable request, isn’t it? I always made you so comfortable in front of the camera, but you never pay me back... ..."
+    player "Hmm...yeah,但这是个合理的要求,不是吗?我总是让你在镜头前表现得很自在,但你从来没有回报过我......"
 
 
 
-    player "Besides, the audiences are desperate to see how you would play with a penis. Haven't you read the comments of our last video?"
+    player "此外,观众们都迫不及待地想知道你会如何玩弄鸡儿.你看了我们上个视频的评论了吗?"
 
 
 
     scene g_love_5_19 with tstmgr
 
-    g "Oww... but... you should... at least let me know what you are up to earlier."
+    g "Oww...但是...你应该...至少早点让我知道你要做的事."
 
 
 
-    player "I’ll do that the next time. But for now, can you please give my penis a little massage with your big soft tits?"
+    player "下次我会的.但是现在,你能不能用你柔软的大奶子给我的鸡儿做个小按摩?"
 
 
 
     scene g_love_5_20 with tstmgr
 
-    g "I hate you... ..."
+    g "我讨厌你......"
 
 
 
     scene void with tstmgr
 
-    "She was complaining, but still, she obediently put my dick in her cleavage as I asked."
+    "她在抱怨,但她还是顺从地按我的要求把我的鸡儿插在她的乳沟里."
 
 
 
     scene g_love_5_22 with dissolve
 
-    g "I... I never did such a thing before, so... ..."
+    g "我...我以前从来没做过这样的事,所以......"
 
 
 
-    g "Is... is it good?"
+    g "这...这样吗?"
 
 
 
-    player "Ohhh... ... ... ... This is... so damn good!"
+    player "Ohhh............这...太他妈棒了!"
 
 
 
     scene g_love_5_23 with tstmgr
 
-    "My dick is now being squeezed by these two soft elastic meat walls. It is a totally different experience from fucking a pussy."
+    "我的鸡儿现在正被这两堵柔软有弹性的肉墙挤压着.这和性交是完全不同的体验."
 
 
 
-    "It's not as stimulating as a vagina, but it's sooooo comfortable."
+    "我的意思是,当你做爱的时候你可能会感到更多的刺激,但是乳交更多的是关于舒适.奶子越大,越软,就越能给你带来舒适."
 
 
 
-    "Right now I feel like my dick is the fucking king of the world."
+    "现在我觉得我的鸡儿是他妈这个世界上的王."
 
 
 
-    player "You really have this talent, MissU... ..."
+    player "你真的很有天赋,U小姐......"
 
 
 
-    player "Now try move your tits up and down."
+    player "现在试着上下移动你的胸."
 
 
 
-    g "You don’t have to tell me that... I have watched plenty of titjob videos before... ..."
+    g "你不用告诉我怎么做...我以前看过很多关于乳交的视频......"
 
 
 
     scene g_love_5_24 with tstmgr
 
-    g "I just need to... ..."
+    g "我只需要......"
 
 
 
@@ -441,39 +441,39 @@ label G_love_5:
 
 
 
-    player "Shit... I never thought you would do it so well for your first time!~"
+    player "Shit...我从来没想过你第一次能做得这么好!~"
 
 
 
-    g "Your dick... is so big... and so hot... ..."
+    g "你的鸡儿...太大...太热了......"
 
 
 
-    g "I can’t see it... ... I can only imagine the picture of it in my head."
+    g "我看不到...我只能在脑海中想象它的样子."
 
 
 
-    g "I can imagine its girthy shape... its pulsating veins... its magnificent length... ..."
+    g "我能想象它的形状有多难看...它可怕的大小...它宏伟的长度......"
 
 
 
-    g "It made me so excited..."
+    g "这让我很兴奋..."
 
 
 
-    "Oh dear... I did ask her to try to describe her feeling in the videos, but I didn’t think she would get so good at it so quickly..."
+    "天哪...我确实要求她试着在视频中描述她的感受,但我没想到她能在这么短的时间内如此擅长..."
 
 
 
-    "This girl is born to be a porn star."
+    "这个女孩天生就是色情明星."
 
 
 
-    g "It is quivering like a living being. No... it is like a filthy demon who tries to break out of the holy seal of my breasts."
+    g "它像有生命的东西一样在颤动.不...这就像一个肮脏的魔鬼试图摆脱我的封印的胸部."
 
 
 
-    g "I won’t let you get away~~"
+    g "我不会让你离开的~~"
 
 
 
@@ -483,25 +483,25 @@ label G_love_5:
 
 
 
-    g "(Moaning with lust) Ahh... ahh... ahh... ahhhhh... ..."
+    g "(欲望的呻吟)Ahh...ahh...ahh...ahhhhh......"
 
 
 
-    g "Sir Demon Dick is getting so hard~~"
+    g "鸡儿恶魔爵士越来越难对付了~~"
 
 
 
-    g "I can feel that something... is about to come out... ..."
+    g "我能感觉到...就要出来了......"
 
 
 
     scene g_love_5_27 with tstmgr
 
-    "She suddenly surrounded my glans with her mouth."
+    "她突然把我的龟头含进了嘴里."
 
 
 
-    player "Shit, I’m cuming!"
+    player "Shit,我要射了!"
 
 
 
@@ -511,31 +511,31 @@ label G_love_5:
 
 
 
-    "A large amount of my white fluid burst out from my dick and soiled her face."
+    "大量的白色液体从我的鸡儿里喷出来,弄脏了她的脸."
 
 
 
     scene g_love_5_29 with tstmgr
 
-    g "Awwww... ... it’s all over my face..."
+    g "Awwww......弄得我满脸都是..."
 
 
 
-    g "Something dirty... smelly... and stringy... ..."
+    g "又脏...又臭...又黏......"
 
 
 
-    player "You did such a good job, MissU."
+    player "你做得很好,U小姐."
 
 
 
     scene g_love_5_30 with tstmgr
 
-    g "Is... that so?"
+    g "是...是吗?"
 
 
 
-    player "Of course, and I guess this is it for today. I’m going to shut off the camera now."
+    player "当然,我想今天就到这里了.我现在要把相机关了."
 
 
 
@@ -549,17 +549,17 @@ label G_love_5:
 
     scene g_love_5_31 with tstmgr
 
-    g "Bye people, thanks for watching my first... titjob video. I hope you enjoy it~"
+    g "大家再见,感谢收看我的第一次...乳交视频.希望你喜欢~"
 
 
 
-    player "Wait, wtf?"
+    player "等等,wtf?"
 
 
 
     scene void with tstmgr
 
-    "And that was the end of the video."
+    "这就是视频的结尾."
 
 
 
@@ -567,41 +567,41 @@ label G_love_5:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene g_love_5_32 with dissolve
 
-    g "Ewwwww... I need to wash my face, otherwise I’m going to puke."
+    g "Ewwwww...我需要洗脸,否则我要吐了."
 
 
 
-    g "I can’t believe I really... let you cum on my face... ..."
+    g "我不敢相信我真的...让你射在我脸上......"
 
 
 
     scene g_love_5_33 with tstmgr
 
-    "*Video sound* ‘Bye people, thanks for watching my first... titjob video. I hope you enjoy it~’"
+    "*视频声音*‘大家再见,感谢收看我的第一次...乳交视频.希望你喜欢~’"
 
 
 
-    g "Hmmm? Why are you keeping replaying that?"
+    g "Hmmm?你为什么一直重播那个?"
 
 
 
-    player "Because I've never seen you act like that before..."
+    player "因为我从没见过你这么做..."
 
 
 
-    player "You looked... so horny... and so bold. It’s like... you were a total different person with that blinder on."
+    player "你看起来...很淫荡...很大胆.这就像...你戴着那副眼罩,完全变了个人."
 
 
 
     scene g_love_5_34 with tstmgr
 
-    g "Stop making fun of me. I'm heading to the bathroom!"
+    g "别再取笑我了.我要去洗手间了!"
 
 
 

@@ -2,15 +2,15 @@ label park_stroll_evening_B_1:
 
     scene park_stroll_evening_b_1_1 with tstmgr
 
-    player "Ehh... ... Why do we have to come here in the evening?"
+    player "Ehh......为什么我们要晚上来这里?"
 
 
 
-    b "My friend Teresa said this park is haunted."
+    b "我的朋友特蕾莎说这个公园闹鬼."
 
 
 
-    b "Sometimes people would hear some weird voices here at night."
+    b "有时在晚上人们会听到一些奇怪的声音."
 
 
 
@@ -20,35 +20,35 @@ label park_stroll_evening_B_1:
 
     scene park_stroll_evening_b_1_2 with tstmgr
 
-    b "Shh... ... did you hear that?"
+    b "Shh......你听到了吗?"
 
 
 
-    player "What?"
+    player "什么?"
 
 
 
-    b "Quiet, listen carefully..."
+    b "安静,仔细听..."
 
 
 
     scene void with tstmgr
 
-    "Woman" "Ah... Master, punish me, put your big cock inside my dirty pussy, please."
+    "女人""Ah...主人,惩罚我,请把你的大鸡儿放到我肮脏的小穴里."
 
 
 
-    "Man" "(Slapping woman's butt) You are nothing but a fucking dog. What does a dog suppose to say?"
+    "男人""(拍打女人的屁股)你只是一条狗.狗会说什么?"
 
 
 
-    "Woman" "(Groaning) Arf, arf, woof... Ah... harder, harder please... Woof, woof..."
+    "女人""(呻吟)Arf,arf,woof...Ah...用力,用力,拜托...Woof,woof..."
 
 
 
     scene park_stroll_evening_b_1_3 with tstmgr
 
-    "Senning and I looked at each other awkwardly."
+    "我和森柠尴尬地对视了一下."
 
 
 
@@ -56,11 +56,11 @@ label park_stroll_evening_B_1:
 
 
 
-    player "I... I'll walk you back to your apartment."
+    player "我...我送你回你的公寓."
 
 
 
-    "Senning nodded her head."
+    "森柠点了点头."
 
 
 

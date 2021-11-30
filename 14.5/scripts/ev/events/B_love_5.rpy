@@ -3,19 +3,19 @@ label B_love_5:
     scene b_daily10_6 with tstmgr
     play music sorrow
 
-    "Senning has been a little strange recently. She got nervous every time when I tried to talk to her and always blushed."
+    "森柠最近有点奇怪.每次我想和她说话时,她都很紧张,总是脸红."
 
 
 
-    "And she still hasn’t given my shirt back. That’s not the issue though. I don’t really care about that shirt."
+    "她还没还我衬衫.但这不是问题所在.我真的不在乎那件衬衫."
 
 
 
-    "But I do care about her. I want to know if she is having some troubles right now."
+    "但我在乎她.我想知道她现在是不是有什么麻烦."
 
 
 
-    "I guess I will just go find her in her apartment and check her out."
+    "我想我会去她的公寓看看她."
 
 
 
@@ -25,11 +25,11 @@ label B_love_5:
 
 
 
-    "Some time later..."
+    "一段时间后..."
 
 
 
-    "I was at the door of Senning’s apartment room."
+    "我在森柠公寓的门口."
 
 
 
@@ -37,21 +37,21 @@ label B_love_5:
 
 
 
-    "*knock, knock, knock*"
+    "*咚咚咚*"
 
 
 
-    b "Teresa? Is that you? The door is not locked."
+    b "特蕾莎?是你吗?门没锁."
 
 
 
-    "Ehh... Seems like she has mistook me for a wrong person. Anyway, I think I’ll just open the door."
+    "Ehh...她好像把我当成别人了.不管怎样,我想我还是开门吧."
 
 
 
     scene b_love_5_1 with dissolve
 
-    b "If you are here to return my notebook, just put it on my bed. I’m... ..."
+    b "如果你是来还我的笔记本的,就把它放在我的床上.我......"
 
 
 
@@ -73,15 +73,15 @@ label B_love_5:
 
     scene b_love_5_4 with tstmgr
 
-    b "Why are you here?!"
+    b "你为什么在这?!"
 
 
 
-    player "I... I’m sorry..."
+    player "我...我很抱歉..."
 
 
 
-    player "I’ll leave immediately!"
+    player "我马上离开!"
 
 
 
@@ -91,7 +91,7 @@ label B_love_5:
 
 
 
-    b "Don't look at me! Go away!"
+    b "别看我,快出去!"
 
 
 
@@ -99,11 +99,11 @@ label B_love_5:
 
 
 
-    player "Wait... ..."
+    player "等等......"
 
 
 
-    player "Is that my shirt you are wearing?"
+    player "你穿的是我的衬衫吗?"
 
 
 
@@ -117,17 +117,17 @@ label B_love_5:
 
 
 
-    b "I... I can explain..."
+    b "我...我可以解释..."
 
 
 
-    b "I... ..."
+    b "我......"
 
 
 
     scene b_love_5_4 with tstmgr
 
-    b "No no no, you should get out now!"
+    b "不不不,你现在应该出去!"
 
 
 
@@ -135,7 +135,7 @@ label B_love_5:
 
 
 
-    player "I’ll wait outside."
+    player "我就在外面等着."
 
 
 
@@ -145,11 +145,11 @@ label B_love_5:
 
     scene void with tstmgr
 
-    "A few moments later."
+    "几分钟后."
 
 
 
-    "She let me in her room again after changing her clothes."
+    "她换了衣服后又让我进了她的房间."
 
 
 
@@ -159,17 +159,17 @@ label B_love_5:
 
 
 
-    player "Hi... Sen."
+    player "Hi...森."
 
 
 
-    player "Sorry for entering your room without your permission."
+    player "对不起,未经你的允许就进入了你的房间."
 
 
 
     scene b_love_5_8 with tstmgr
 
-    player "But... do you want to explain why you were wearing my shirt?"
+    player "但是...你能解释一下为什么穿着我的衬衫吗?"
 
 
 
@@ -177,55 +177,55 @@ label B_love_5:
 
 
 
-    b "I like that shirt... very much. So... ..."
+    b "我喜欢那件衬衫...非常.所以......"
 
 
 
-    player "I’m not a fool, Sen. Tell me the real reason."
+    player "我不傻,森,告诉我真正的原因."
 
 
 
-    b "I... I don’t know... ..."
+    b "我...我不知道......"
 
 
 
-    "Her body is shaking. This elegant girl is now suffering in deep embarrassment."
+    "她的身体在颤抖.这个优雅的女孩现在正陷入深深的尴尬之中."
 
 
 
-    b "I just can’t help doing that. I was addicted to it."
+    b "我就是忍不住.我上瘾了."
 
 
 
-    player "Hmm... you were addicted to... transvestism?"
+    player "Hmm...你沉迷于...异性装扮癖?"
 
 
 
-    b "What? No, I mean... ..."
+    b "什么?不,我的意思是......"
 
 
 
-    "She hesitated for a moment, and finally got the courage to open her mouth again."
+    "她犹豫了一会儿,最后鼓起勇气说."
 
 
 
-    b "I... I was addicted to your scent left on that shirt."
+    b "我...我对你留在衬衫上的气味上瘾了."
 
 
 
-    b "I know it sounds weird... Please don’t hate me for that."
+    b "我知道这听起来很奇怪...请不要因此而讨厌我."
 
 
 
-    player "Yeah, that indeed sounds weird."
+    player "Yeah,听起来确实很奇怪."
 
 
 
-    player "Is there a particular reason? I mean, is it because of my perfume or my bromhidrosis?"
+    player "有什么特别的原因吗?是因为我的香水还是腋臭?"
 
 
 
-    "I don’t have bromhidrosis by the way. It was just a joke."
+    "顺便说一下,我没有腋臭.这只是个玩笑."
 
 
 
@@ -233,49 +233,49 @@ label B_love_5:
 
 
 
-    "She hesitated again."
+    "她又犹豫了."
 
 
 
-    b "(Whispering) It is because... I like you... ..."
+    b "(低语)这是因为...我喜欢你......"
 
 
 
-    player "Em? What? I didn’t hear you."
+    player "Em?什么?我没听见."
 
 
 
-    b "(Whispering in a even lower voice) Like you... ..."
+    b "(用更低的声音)喜欢你......"
 
 
 
-    "I really could not hear her clearly."
+    "我真的听不清她的话."
 
 
 
-    player "Ehh... sorry, can you say that again? Your voice is too small."
+    player "Ehh-抱歉,你能再说一遍吗?你说话太小声了."
 
 
 
-    "She looked very embarrassed and seemed about to drop tears."
+    "她看起来很尴尬,好像要掉眼泪了."
 
 
 
-    b "Why are you forcing a lady to say this..."
+    b "你为什么要逼一个女生说这些..."
 
 
 
-    b "Fine... ... ... ..."
+    b "好吧............"
 
 
 
     scene b_love_5_9 with tstmgr
 
-    b "(Shouting) I! Like! You!"
+    b "(超大声)我!喜欢!你!"
 
 
 
-    b "Did you hear it now? Damn you!"
+    b "你现在听到了吗?妈的!"
 
 
 
@@ -289,15 +289,15 @@ label B_love_5:
 
     scene b_love_5_10 with tstmgr
 
-    b "Oh, did I just say the curse word?"
+    b "Oh,我刚才说脏话了吗?"
 
 
 
-    b "Sorry... ... ... ..."
+    b "抱歉............"
 
 
 
-    player "Was that... a love confession?"
+    player "这是...表白吗?"
 
 
 
@@ -305,27 +305,27 @@ label B_love_5:
 
 
 
-    player "I don’t know what to say... ..."
+    player "我不知道该说什么......"
 
 
 
-    player "But... ..."
+    player "但是......"
 
 
 
     scene b_love_5_11 with tstmgr
 
-    player "I like you, too, Senning."
+    player "我也喜欢你,森柠."
 
 
 
-    player "Since the first time I saw you in the college."
+    player "自从我在大学里第一次见到你我就喜欢上你了."
 
 
 
     scene b_love_5_12 with tstmgr
 
-    b "For real?"
+    b "真的?"
 
 
 
@@ -337,20 +337,20 @@ label B_love_5:
 
     scene b_love_5_14 with tstmgr
 
-    b "Then why didn’t you tell me earlier, so I wouldn’t be in an embarrassed situation like this!"
+    b "那你为什么不早点告诉我,这样我就不会陷入这样的尴尬境地了!"
 
 
 
     scene b_love_5_15 with tstmgr
 
-    b "Ahhhhhh!!!!! You are so bad! I hate you!"
+    b "Ahhhhhh!!!!!你真坏!我讨厌你!"
 
 
 
     label B_love_5_choice_1:
 
     menu:
-        "Stop her by a kiss (girlfriend route)":
+        "给她一个吻(女朋友的路线)":
 
 
             scene b_love_5_16 with tstmgr
@@ -367,102 +367,102 @@ label B_love_5:
 
             scene b_love_5_19 with tstmgr
 
-            "This probably is the longest kiss so far in my life. Her response was inexperienced but lovely. She wriggled her little tongue hard through my teeth, trying to please me."
+            "这可能是我一生中吻得最长的一次.她的回应没有经验,但很可爱.她用她的小舌头在我的牙齿上使劲地蠕动,试图取悦我."
 
-            "And I was indeed pleased by it."
+            "我的确为此感到高兴."
 
             scene b_love_5_20 with tstmgr
 
-            "After my lips separated from hers, I moved my head close to her left ear, gently bit her earlobe, and whispered..."
+            "当我的嘴唇和她的嘴唇分开后,我把头靠近她的左耳,轻轻地咬着她的耳垂,小声地说..."
 
-            player "Sen... ... ..."
+            player "森........."
 
-            player "Do you want to be my girlfriend?"
+            player "你想做我的女朋友吗?"
 
             b "... ... ... ..."
 
             scene b_love_5_21 with tstmgr
 
-            b "Finally... ..."
+            b "终于......"
 
-            b "Yes, I do."
+            b "是的,我想."
 
-            "Girl A" "(Opening the door) Hi Sen, I’m here to return your notebook. Thanks so much for the... ..."
+            "女孩A""(开门)Hi森,我来还你的笔记本.非常感谢......"
 
             scene b_love_5_22 with tstmgr
 
-            "Girl A" "Oh my Goddess! Who is this guy?"
+            "女孩A""我的天,这个人是谁?"
 
-            b "Oh... ... Hi, Teresa."
+            b "Oh......Hi,特蕾莎."
 
             scene b_love_5_23 with tstmgr
 
-            b "This is my boyfriend, [P]."
+            b "这是我的男朋友,[P]."
 
-            player "Eh, nice to meet you."
+            player "Eh,很高兴见到你."
 
-            "Girl A" "... ...Nice to meet you, too."
+            "女孩A""......我也很高兴见到你."
 
-            "Girl A" "Jesus, Sen. Why didn’t you tell me you have a boyfriend?"
+            "女孩A""上帝啊,森.你为什么不告诉我你有男朋友?"
 
-            b "Sorry... ..."
+            b "抱歉......"
 
-            "Girl A" "I, I will leave you guys alone. You two have a nice day."
+            "女孩A""我,我不打扰你们了.祝你们俩今天玩得开心."
 
-            "The girl quickly shut the door and left."
+            "女孩迅速关上门离开了."
 
             scene b_love_5_24 with tstmgr
 
-            player "Now no one is going to interrupt us again."
+            player "现在没人会再打扰我们了."
 
-            b "What do you want to do?..."
+            b "你想做什么?..."
 
-            player "I want to... be closer with you."
+            player "我想...与你更进一步."
 
             scene b_love_5_25 with tstmgr
 
             b "Oww... ... [P]..."
 
-            player "I can’t believe I’m holding your breasts in my hands."
+            player "我不敢相信我正摸着你的胸."
 
-            player "I have dreamed about it for so long."
+            player "这是我日思夜想的."
 
-            b "Me too... ..."
+            b "我也是......"
 
-            b "Your lips... your fingers... I have already tasted them in my dreams..."
+            b "你的嘴唇...你的手指...我在梦中已经感受过了..."
 
-            b "dozens... no... hundreds of times."
+            b "几十次...不...几百次."
 
             scene b_love_5_26 with tstmgr
 
-            player "Oh, Sen... ..."
+            player "Oh,森......"
 
             b "Ummm... ... ... ..."
 
-            b "But, [P]... I think this should be it for now... ..."
+            b "但是,[P]...我......"
 
-            player "What?"
+            player "什么?"
 
-            b "I know I am ruining this moment, but... I am not ready for the next step yet..."
+            b "我知道我要毁了这一刻的气氛,但是...我还没有准备好更进一步..."
 
             player "... ... ... ..."
 
-            player "If you say so."
+            player "如果你这么说的话."
 
-            "This girl is still a virgin and she wants to play it slow. I can understand that. Right now it might be best to respect her decision."
+            "这个女孩还是处女,她想慢慢来.我能理解.现在最好尊重她的决定."
 
             scene b_love_5_27 with tstmgr
 
-            player "I will wait until you are ready."
+            player "我会等你准备好."
 
-            b "Thank you, [P]."
+            b "谢谢你,[P]."
 
-            b "My boyfriend... ..."
+            b "我的男朋友......"
 
             "... ... ... ..."
 
             $ B.relation = "girlfriend"
-        "Stop her by covering her mouth (sex partner route)":
+        "堵住她的嘴(性伴侣路线)":
 
 
 
@@ -473,91 +473,91 @@ label B_love_5:
 
             b "Lemmmmm... gommmmm!..."
 
-            player "I need you to calm down, Sen."
+            player "我需要你冷静下来,森."
 
-            player "Now I am here, you don’t have to smell the scent of my shirt again."
+            player "现在我在这里,你不必再闻我衬衫的味道了."
 
-            player "You can just put your nose on my body and smell the hell of it."
+            player "你可以把你的鼻子放在我身上然后闻一闻."
 
-            player "So how do you like the scent on my hand, huh?"
+            player "你觉得我手上的味道怎么样,huh?"
 
-            player "Is it the same as the scent that you addict to?"
+            player "它和你喜欢的香味一样吗?"
 
             scene b_love_5_29 with tstmgr
 
-            b "I... ... ... ..."
+            b "我............"
 
             scene b_love_5_30 with tstmgr
 
-            b "(Greedily smelling) ... ... ... ..."
+            b "(贪婪地闻)............"
 
-            b "... Yes... this scent... ..."
+            b "...是的...就是这个味道......"
 
-            b "And it smells stronger... and more masculine..."
+            b "闻起来更香...充满了男性荷尔蒙..."
 
-            b "(Greedily smelling) ... ... ... ..."
+            b "(贪婪地闻)............"
 
-            b "Put your hand away please... ... Otherwise... ..."
+            b "请把手拿开......否则......"
 
             scene b_love_5_31 with tstmgr
 
-            player "I didn’t know you are such a thirsty girl."
+            player "我不知道你这么饥渴."
 
-            b "No... I’m not... ..."
+            b "不...我没有......"
 
-            player "Then why are you keep licking my finger?"
+            player "那你为什么一直舔我的手指?"
 
-            b "I... ... You made me do it... ..."
+            b "我...是你让我这么做的......"
 
             scene b_love_5_38 with tstmgr
 
-            "Girl A" "(Opening the door) Hi Sen, I’m here to return your notebook. Thanks so much for the... ..."
+            "女孩A""(开门)Hi森,我来还你的笔记本.非常感谢......"
 
-            "Girl A" "What the hell? Who are you? Get away from her now! I will call the police!"
+            "女孩A""什么鬼?你是谁?离她远点!不然我要报警了!"
 
-            player "Relax, girl. I am Senning’s boyfriend."
+            player "放松,女孩.我是森柠的男朋友."
 
-            "Girl A" "What the fuck are you talking about? Senning never told me she has a boyfriend."
+            "女孩A""你他妈的在说什么?森柠从没告诉过我她有男朋友."
 
-            player "Alright then, Sen, tell her yourself."
+            player "好吧,森,你自己告诉她."
 
-            b "He... is... my... boyfriend... ..."
+            b "他...是...我的...男朋友......"
 
-            "Girl A" "Sen?"
+            "女孩A""森?"
 
             scene b_love_5_32 with tstmgr
 
-            b "Stop looking at me, Teresa! Get out, please!"
+            b "特蕾莎!请出去!"
 
-            "Girl A" "... ... ... ..."
+            "女孩A""... ... ... ..."
 
-            "Girl A" "Senning, if you need help..."
+            "女孩A""森柠,如果你需要帮助的话..."
 
-            b "Just go!"
+            b "出去!"
 
-            "Girl A" "... ... ... ..."
+            "女孩A""... ... ... ..."
 
-            "Girl A" "Fine..."
+            "女孩A""好吧..."
 
-            "The girl left with some hesitation."
+            "女孩有些犹豫地离开了."
 
-            player "I think she will tell everybody about what she saw..."
+            player "我想她会告诉大家她所看到的..."
 
-            player "that you are actually a horny girl."
+            player "你其实是个好色的女孩."
 
-            b "Nooo... ... ... ..."
+            b "不............"
 
-            "Her struggle became intense after hearing what I said, and her breathe became heavier and more lustful at the same time."
+            "听了我的话后,她的呼吸变得更加沉重,更加充满欲望."
 
-            player "You are excited, aren’t you?"
+            player "你很兴奋,是吗?"
 
             scene b_love_5_33 with tstmgr
 
-            b "No... ..."
+            b "没有......"
 
-            player "These heavy breasts... I have dreamed about touching them for so long."
+            player "这对大奶子...我做梦都想摸."
 
-            player "And now they are just exposed to me defenselessly."
+            player "现在它们就这样暴露在我面前."
 
             b "Ahh... ... ..."
 
@@ -565,47 +565,47 @@ label B_love_5:
 
             b "[P]... ... ... ..."
 
-            "I think she is going to cry in the next few seconds."
+            "我想几秒钟后她就会哭了."
 
-            b "Please... just let me go..."
+            b "请...放开我..."
 
-            b "You have humiliated me enough today... ... And... ..."
+            b "你今天已经够羞辱我的了......而且......"
 
-            b "I am not ready for the next step yet... ..."
+            b "我还没有做好更进一步的准备......"
 
-            b "Just... stop... ... ... ..."
+            b "...停下............"
 
-            b "Please... ... ... ..."
+            b "拜托............"
 
             player "... ... ... ..."
 
-            "Her begging actually made me feel guilty. I mean, it’s exciting to humiliate an elegant girl like her and watch her surrender to her own lust, but... ..."
+            "她的乞求让我感到内疚.我的意思是,羞辱一个像她这样优雅的女孩,看着她屈服于自己的欲望,是令人兴奋的,但是......"
 
-            "It's not rightful. I am hurting her feeling."
+            "这样是不对的.我伤害了她的感情."
 
-            b "(Moaning with oppressed lust) Ahh... ... ... ..."
+            b "(压抑着呻吟)Ahh............"
 
-            player "Sorry, Sen... Please forgive me."
+            player "抱歉,森...请原谅我."
 
-            b "(Moaning with oppressed lust) [P]... ... ... ..."
+            b "(压抑着呻吟)[P]............"
 
             scene void with tstmgr
 
-            "I released her."
+            "我放开了她."
 
-            "Well, guess this is the end of our friendship. Oh boy, what have you done?"
+            "Well,我想我们的友谊到此为止了.天啊,你做了什么?"
 
-            "This girl already said that she likes you. You could just give her a kiss and ask her to be your girlfriend like every gentleman would do."
+            "这个女孩已经说过她喜欢你了.你可以给她一个吻,让她做你的女朋友,就像每个绅士都会做的那样."
 
-            "But instead, you acted like a freaking rapist and ruined everything."
+            "但你却表现得像个变态的强奸犯,把一切都毁了."
 
             scene b_love_5_35 with tstmgr
 
-            player "Sen... I... I am so sorry."
+            player "森...我...我很抱歉."
 
-            player "I know you are probably not going to forgive me, but..."
+            player "我知道你可能不会原谅我,但是..."
 
-            player "If there is anything that I can do to fix this... ..."
+            player "如果我能做点什么......"
 
             b "... ... ... ..."
 
@@ -613,33 +613,33 @@ label B_love_5:
 
             scene b_love_5_36 with tstmgr
 
-            b "Don't worry. It's... okay."
+            b "不用担心.我...还好."
 
-            player "Emm? What?"
+            player "Emm?什么?"
 
-            player "You are not mad at me?"
+            player "你不生我的气?"
 
-            b "I am indeed mad at you for embarrassing me in front of my friend, but..."
+            b "你在我朋友面前让我难堪,我真的很生气,但是..."
 
-            b "But... ... I actually feel very happy."
+            b "但是...我真的感到很高兴."
 
             scene b_love_5_37 with tstmgr
 
-            b "I am happy that... our relationship finally became more... intimate."
+            b "我很高兴...我们的关系终于变得...亲密."
 
-            b "And I think... we should keep this relationship."
+            b "我认为...我们应该保持这种关系."
 
-            player "Oh, Sen... ... Of course."
+            player "Oh,森......当然."
 
-            b "Now I need to find Teresa and explain what just happened..."
+            b "现在我要找到特蕾莎,解释刚刚发生的事..."
 
-            player "Sorry... ..."
+            player "抱歉......"
 
-            b "The next time... please don't let other people see it."
+            b "下次...请不要让别人看到."
 
             player "... ... ... ..."
 
-            player "I promise."
+            player "我答应你."
 
             scene void with tstmgr
 

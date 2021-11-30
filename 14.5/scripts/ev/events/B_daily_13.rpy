@@ -3,7 +3,7 @@ label B_daily_13:
     scene void with tstmgr
     play music happy
 
-    "I was wandering on the campus, and happened to meet with Senning and her friend, Teresa."
+    "我在校园里闲逛,碰巧遇见了森柠和她的朋友特蕾莎."
 
 
 
@@ -13,7 +13,7 @@ label B_daily_13:
 
 
 
-    player "Hi there, ladies."
+    player "嗨,女士们."
 
 
 
@@ -25,13 +25,13 @@ label B_daily_13:
 
     scene b_daily13_3 with tstmgr
 
-    "Teresa" "Emmm... ..."
+    "特蕾莎""Emmm... ..."
 
 
 
     scene b_daily13_4 with tstmgr
 
-    "Teresa" "Go ahead, don’t mind me."
+    "特蕾莎""去吧,不用管我."
 
 
 
@@ -43,15 +43,15 @@ label B_daily_13:
 
     scene b_daily13_6 with tstmgr
 
-    "Senning then ran into my arms and burried her head in my chest."
+    "然后,森柠跑到我的怀里,把她的头埋在我的胸膛."
 
 
 
-    b "*Smelling, smelling*... ..."
+    b "*嗅,嗅*......"
 
 
 
-    b "Hahhhh... ... so satisfying... ..."
+    b "Hahhhh......真满足......"
 
 
 
@@ -59,51 +59,51 @@ label B_daily_13:
 
 
 
-    "She absorbed my scent so greedily like my body is some kind of incense."
+    "她贪婪地吸着我的气味,好像我的身体是一种香."
 
 
 
     scene b_daily13_7 with tstmgr
 
-    player "What are you doing?"
+    player "你在做什么?"
 
 
 
-    b "Recharging... ..."
+    b "充电中......"
 
 
 
-    b "I was so tired today... ... Two classes... one exam... ..."
+    b "我今天好累......两节课...一次考试......"
 
 
 
-    b "I need to charge myself with your scent. It refreshes me so well..."
+    b "我需要用你的气味给自己充电.它使我精神焕发..."
 
 
 
     scene b_daily13_8 with tstmgr
 
-    player "Sounds like you are a cellphone."
+    player "听起来你是个手机一样."
 
 
 
-    b "And you are my exclusive charger..."
+    b "你是我唯一的充电器..."
 
 
 
     scene b_daily13_9 with tstmgr
 
-    "Teresa" "... ... ... ..."
+    "特蕾莎""... ... ... ..."
 
 
 
-    "Teresa" "Dumb couple..."
+    "特蕾莎""这一对酸死我了..."
 
 
 
     scene b_daily13_10 with tstmgr
 
-    "Teresa" "Hmmm... I wish I can meet a good man like him someday."
+    "特蕾莎""Hmmm...我希望有一天能遇到像他那样棒的人."
 
 
 

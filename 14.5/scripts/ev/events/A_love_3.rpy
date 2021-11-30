@@ -3,105 +3,105 @@ label A_love_3:
     scene void with tstmgr
     play music sorrow
 
-    player "So... how's your work lately?"
+    player "所以...你最近工作怎么样?"
 
     scene a_room_night_frown with tstmgr
 
-    a "Nothing special."
+    a "没什么特别的."
 
     scene a_room_night_normal with tstmgr
 
-    a "Sorry, but I really need to rest now. We can talk tomorrow."
+    a "对不起,我现在真的需要休息.我们可以明天再谈."
 
-    narrator "She is so tired after work that she doesn't even want to talk with me."
+    narrator "她下班后太累了,甚至不想和我说话."
 
-    player "I really think that you should at least quit one job. These jobs are overwhelming you. "
+    player "我真的认为你至少应该辞掉一份工作.这些工作让你应接不暇."
 
     scene a_room_night_frown with tstmgr
 
-    a "Not until I save up enough money."
+    a "除非我存够了钱,否则我不会这样做的."
 
-    player "But you won't be able to save up anything if you're too exhausted to go to work."
+    player "但是没有一个健康的身体,你就不可能存下任何东西."
 
     a "... ... ... ..."
 
-    a "We have talked about this. Don't worry about me, I am fine."
+    a "我们已经讨论过了.别为我担心,我很好."
 
     player "... ... ... ..."
 
-    player "If you say so."
+    player "如果你这么说的话."
 
-    player "Just so you know, I will always be there if you need me. "
+    player "我只是想让你知道,如果你需要我的时候,我会一直在."
 
     scene a_room_night_normal with tstmgr
 
-    a "Thanks, [P]..."
+    a "谢谢,[P]..."
 
-    player "Alright, I will see you tomorrow. You have a good rest."
+    player "好的,明天见.你好好休息一下."
 
-    player "Good night."
+    player "晚安."
 
     scene void with tstmgr
 
     a "... ... ... ..."
 
-    a "Wait, [P]..."
+    a "等等,[P]..."
 
     scene a_love_3_5 with tstmgr
 
-    a "Can you give me a... hug?"
+    a "你能...抱抱我吗?"
 
-    player "Hug?"
+    player "拥抱?"
 
     scene a_love_3_6 with tstmgr
 
-    a "Just for a few seconds..."
+    a "就几秒钟..."
 
     player "Eh... okay."
 
     scene a_love_3_1 with tstmgr
 
-    narrator "She came closer to me and put her head on my shoulder."
+    narrator "她走近我,把头靠在我的肩上."
 
-    a "I'm just... too tired..."
+    a "我只是...太累了..."
 
     scene a_love_3_2 with tstmgr
 
-    narrator "I gently wrapped my arms around her."
+    narrator "我轻轻地搂着她."
 
-    player "You know you can always choose to come back and help me with our B&B business. "
+    player "你知道的,你可以选择回来帮我打理我们的民宿业务."
 
     a "... ... ... ..."
 
-    a "Thank you, for everything."
+    a "谢谢你所做的一切."
 
-    a "At least... now I know there is a shoulder for me to lean on."
+    a "至少...现在我知道我有一个肩膀可以依靠."
 
-    narrator "We held each other for a little while."
+    narrator "我们拥抱了一会儿."
 
     scene a_general_1_hug_3 with tstmgr
 
-    a "Thanks, [P]. I feel... much better now."
+    a "谢谢,[P].我觉得...好多了."
 
-    player "Anytime, Vera."
+    player "我一直都在,薇拉."
 
     scene a_love_3_3 with tstmgr
 
-    narrator "I released her from the hug and took my arms off her body like all gentlemen would do. "
+    narrator "我松开了手,像所有的绅士一样把我的胳膊从她身上拿开."
 
-    a "(Speaking in a very low voice) Don't leave me..."
+    a "(细若蚊蝇的声音)不要离开我..."
 
-    player "Hm? Did you say something?"
+    player "Hm?你说什么?"
 
-    a "... ... Nothing..."
+    a "......没什么..."
 
     scene a_love_3_4 with tstmgr
 
-    a "Good night, [P]."
+    a "晚安,[P]."
 
     player "... ... ... ..."
 
-    player "Good night, Vera. "
+    player "晚安,薇拉."
 
     scene void with tstmgr
 

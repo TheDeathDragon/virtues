@@ -3,23 +3,23 @@ label C_train_sha_1:
     scene void with tstmgr
     play music happy
 
-    "It’s lunch time, Theodora and I left the office together and headed to a restaurant nearby."
+    "午饭时间到了,狄奥多拉和我一起离开办公室,前往附近的一家餐馆."
 
 
 
     scene c_train_sha_1_1 with dissolve
 
-    "Luckily, we are the only people in the lift."
+    "幸运的是,我们是电梯里唯一的人."
 
 
 
     scene c_train_sha_1_2 with tstmgr
 
-    player "What do you like for lunch?~"
+    player "你午餐喜欢吃什么?~"
 
 
 
-    c "Ah, don’t worry about me. I’m having a diet so a Caesar salad is all I need. Let’s just go to a restaurant you like."
+    c "Ah,别为我担心.我正在节食,所以只需要一份凯撒沙拉.我们就去你喜欢的餐馆吧."
 
 
 
@@ -31,11 +31,11 @@ label C_train_sha_1:
 
     $ flashlight()
 
-    "Suddenly, the lift made a loud noise and stopped working."
+    "突然,电梯发出一声巨响,停止了工作."
 
 
 
-    c "Hmmmm? Again?"
+    c "Hmmmm?又来?"
 
 
 
@@ -45,7 +45,7 @@ label C_train_sha_1:
 
 
 
-    c "This is the second time, right? Someone has to be responsible for this. I’ll talk to mom after we get out."
+    c "这是第二次了,对吧?总得有人对此负责.我们出去后我会和妈妈谈谈."
 
 
 
@@ -53,63 +53,63 @@ label C_train_sha_1:
 
 
 
-    "So here we are, stuck in the lift together just like the last time. I’m not really worried about anything though because I know this situation will be fixed very soon."
+    "我们被困在电梯里,就像上次一样.我并不担心任何事情,因为我知道这种情况很快就会得到解决."
 
 
 
-    "The last time we were stuck here, I wished I could get out as soon as possible because I felt awkward to stay with Theodora alone. But everything has changed since then... ..."
+    "上次我们被困在这里的时候,我希望我能尽快离开,因为我觉得独自和狄奥多拉呆在一起很尴尬.但从那以后,一切都变了......"
 
 
 
     scene c_train_sha_1_5 with tstmgr
 
-    player "So... what should we do now?"
+    player "所以...我们现在该怎么办?"
 
 
 
     scene c_train_sha_1_6 with tstmgr
 
-    c "We will get out in 10 minutes anyway, so why don’t you just calm down and meditate for a little while?"
+    c "反正我们十分钟后就出来了,你何不静下心来好好冥想一会儿呢?"
 
 
 
     scene c_train_sha_1_7 with tstmgr
 
-    player "Hmmmm... ... Maybe we can have a kiss?"
+    player "Hmmmm......也许我们可以来个吻?"
 
 
 
-    c "Kiss?"
+    c "吻?"
 
 
 
     scene c_train_sha_1_8 with tstmgr
 
-    c "*Putting a finger on her lips* ... ... ... ..."
+    c "*把一个手指放在她的嘴唇上*............"
 
 
 
     scene c_train_sha_1_9 with tstmgr
 
-    c "*Then putting the finger on [P]’s lips* ... ... ... ..."
+    c "*然后把手指放在[P]的嘴唇上*............"
 
 
 
     scene c_train_sha_1_10 with tstmgr
 
-    c "Alright, that was a great kiss~"
+    c "好了,这是个很棒的吻~"
 
 
 
     scene c_train_sha_1_11 with tstmgr
 
-    player "Doesn't feel like one at all... ..."
+    player "一点儿也不棒......"
 
 
 
     scene c_train_sha_1_12 with tstmgr
 
-    player "How about let’s have a quick bang here?"
+    player "不如我们来个速战速决吧?"
 
 
 
@@ -119,49 +119,49 @@ label C_train_sha_1:
 
 
 
-    c "Are you out of your mind?"
+    c "你疯了吗?"
 
 
 
     scene c_train_sha_1_14 with tstmgr
 
-    player "I know it’s kinda... inappropriate, but it feels like such a waste if we just stand here and do nothing for the whole time, don’t you think?"
+    player "我知道这有点...不合适,但如果我们一直站在这里什么都不做,感觉就很浪费,你不觉得吗?"
 
 
 
-    player "I don’t want to waste any second when we are together. Life is so short and we only have very limited years to spend with each other... ..."
+    player "当我们在一起的时候,我不想浪费任何一秒.生命是如此短暂,我们只有非常有限的时间来彼此度过......"
 
 
 
     scene c_train_sha_1_15 with tstmgr
 
-    c "*Looked at [P] with surprise and flushed* ... ... ... ..."
+    c "*惊讶地看着[P],脸红了*............"
 
 
 
-    c "Wow... ... That... was epic..."
+    c "Wow......你...好会说..."
 
 
 
     scene c_train_sha_1_16 with tstmgr
 
-    c "Thanks for saying that... ..."
+    c "谢谢你这么说......"
 
 
 
     scene c_train_sha_1_17 with tstmgr
 
-    c "Okay then... But we have to deal with the camera up there first. Wait a sec... ..."
+    c "Okay...但我们得先对付上面的摄像头.等会......"
 
 
 
     scene c_train_sha_1_18 with tstmgr
 
-    c "Hold me up."
+    c "抱起我."
 
 
 
-    player "Hold you up? You mean... ..."
+    player "抱着你吗?你的意思是......"
 
 
 
@@ -171,47 +171,47 @@ label C_train_sha_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene c_train_sha_1_19 with dissolve
 
-    player "Are you... are you done yet? I... I can’t hold much longer... ..."
+    player "你...你弄完了吗?我...我撑不了多久了......"
 
 
 
-    c "Seriously? You can’t even hold me up for a minute? I thought you are stronger than this~"
+    c "认真的吗?一分钟你都抱不住吗?我还以为你比这强壮呢~"
 
 
 
-    player "It’s not about my strength... ..."
+    player "这与我的强壮无关......"
 
 
 
-    player "I... can’t breathe... ... I’m going to suffocate in your breasts... ..."
+    player "我...不能呼吸...我要窒息在你的胸里了......"
 
 
 
-    c "Hmmmmm? Oh, sorry..."
+    c "Hmmmmm?Oh,抱歉..."
 
 
 
-    c "I’m almost there. I just need to cut this line and..."
+    c "快了.我只需要剪断这条线..."
 
 
 
-    c "Done!"
+    c "好了!"
 
 
 
     scene c_train_sha_1_20 with tstmgr
 
-    player "I can't hold it anymore!"
+    player "我再也忍受不了了!"
 
 
 
-    c "Wait, wait, be steady!"
+    c "等等,等等,稳住!"
 
 
 
@@ -227,94 +227,94 @@ label C_train_sha_1:
 
 
 
-    "A few moments later, in the monitor room..."
+    "过了一会儿,在监控室里..."
 
 
 
-    "Security A" "Emmmm? Why did the camera in that lift stop working?"
+    "保安A""Emmmm?电梯里的摄像头为什么不工作了?"
 
 
 
-    "Security manager" "*Talking to a maintenance member* How long does it take until you get that lift back to work?"
+    "保安经理""*和维修人员谈话*你要多久才能把电梯修好?"
 
 
 
-    "Maintenance" "Won’t be long, in a few minutes, I think."
+    "维修人员""不会太久,我想就几分钟."
 
 
 
-    "Security manager" "Damn... What is happening in that lift? The camera was fine when I checked it last time and it was only minutes ago. But now it’s not working anymore."
+    "保安经理""Damn...电梯里发生了什么?我上次检查的时候摄像头还没坏,而且就在几分钟前.但现在它不工作了."
 
 
 
-    "The security manager picked up the intercom and tried to communicate with people in that lift."
+    "安全经理拿起对讲机,试图和电梯里的人交流."
 
 
 
-    "Security manager" "Hello, Miss Shinyrost, is everything okay? The lift will be back online in minutes."
+    "保安经理""Hello,新光小姐,没事吧?电梯将在几分钟内恢复正常运行."
 
 
 
-    "And no one in the lift responded him."
+    "电梯里没有人回应他."
 
 
 
-    "Security manager" "... ... ... ..."
+    "保安经理""... ... ... ..."
 
 
 
-    "Security manager" "Shit, it starts to make me worry. What on earth is going on in that lift?"
+    "保安经理""Shit,这让我开始担心.电梯里到底发生了什么事?"
 
 
 
-    "Meanwhile, in the lift..."
+    "同时,在电梯里..."
 
 
 
     scene c_train_sha_1_22 with dissolve
     play sound c_train_sha_1_22 loop
 
-    player "Theodora! Theodora! Theodora!"
+    player "狄奥多拉!狄奥多拉!狄奥多拉!"
 
 
 
-    c "Ahh~ Calm... calm down, [P], no need... to be so rush... ..."
+    c "Ahh~冷...冷静点,[P],没有必要...这么急......"
 
 
 
-    player "Are you sure you don’t want to answer that call?"
+    player "你确定不想接那个电话吗?"
 
 
 
-    c "Stop... stop talking... ... Just concentrate on... on... me... ..."
+    c "别...别说话......把注意力集中在...我...身上......"
 
 
 
-    c "They will... fix it very soon. You have to... finish... before that... ..."
+    c "他们会...尽快修好它.你必须...做完...在那之前......"
 
 
 
-    c "*Restrained moaning* Ahhhh... ... mmmmm... ... Uahhhh~~"
+    c "*克制的呻吟*Ahhhh......mmmmm......Uahhhh~~"
 
 
 
-    c "I can’t believe... I’m being fucked in a lift~~~"
+    c "我不敢相信...我在电梯里被操了~~~"
 
 
 
     scene c_train_sha_1_24 with tstmgr
 
-    player "By the man you love, right?"
+    player "被你爱的人,对吧?"
 
 
 
     scene c_train_sha_1_25 with tstmgr
 
-    c "Humph, don't let it get to your head. No matter how many times you fuck me, you are still just a little virgin to me~"
+    c "Humph,别让它冲昏了你的头脑.不管你操我多少次,对我来说你还是个小处男~"
 
 
 
-    player "You know, Theo, you don’t need to pretend to be tough at all since I have known your weakness... ..."
+    player "你知道吗,西奥,你根本不需要假装强硬因为我知道你的弱点......"
 
 
 
@@ -324,25 +324,25 @@ label C_train_sha_1:
 
     scene c_train_sha_1_26 with tstmgr
 
-    c "Ahhhhhhh~~~ Don’t touch my nipple~~~~~"
+    c "Ahhhhhhh~~~别碰我的乳头~~~~~"
 
 
 
-    "Suddenly, the lift started working again, which meant that we only had about one minute before it reached the ground floor."
+    "突然,电梯又开始工作了,这意味着我们只有大约一分钟的时间就到达底层了."
 
 
 
     scene c_train_sha_1_27 with tstmgr
 
-    c "Stop... stop playing around. You should... either cum right now or let me get up~"
+    c "别...别做了.你要么...现在就射,要么让我起来~"
 
 
 
-    player "Alright, Theo, I’ll hurry up!"
+    player "好吧,西奥,我会抓紧时间的!"
 
 
 
-    "I took back my hand from her tits and sped up..."
+    "我把手从她的乳房上缩回来,加快了速度..."
 
 
     stop sound
@@ -352,27 +352,27 @@ label C_train_sha_1:
 
 
 
-    c "Ahhh~~~ I can’t believe~~~ I allowed you to do this~~~"
+    c "Ahhh~~~我不敢相信~~~我允许你这么做了~~~"
 
 
 
-    c "This lift... can stop at any floor... ..."
+    c "这电梯...可能会停在任何一层......"
 
 
 
-    c "What are we going to do if it suddenly stopped at a floor and someone finds us?"
+    c "如果它突然停了下来,有人发现我们,我们该怎么办?"
 
 
 
-    player "Don’t worry, I’ll finish it very soon!"
+    player "别担心,我很快就做完!"
 
 
 
-    c "You... you better be! Because... ... I don't want others to see my naked breasts... ..."
+    c "你...你最好这样!因为...我不想让别人看到我裸露的胸......"
 
 
 
-    c "Only... you... can see them... ..."
+    c "只有...你...能看......"
 
 
     stop sound
@@ -382,25 +382,25 @@ label C_train_sha_1:
 
 
 
-    "It turned out that we had less time than we thought. The lift suddenly stopped at the 8th floor."
+    "结果我们的时间比我们想象的要少.电梯在八楼突然停住."
 
 
 
-    "The door opened, a man got inside, and he saw... ..."
+    "门开了,一个男人走了进来,他看见......"
 
 
 
     scene c_train_sha_1_28 with dissolve
 
-    "White collar A" "(Wow... what a beauty~)"
+    "白领A""(Wow...真是个美人儿~)"
 
 
 
-    "He didn’t find anything strange except Theodora’s flushed face."
+    "除了狄奥多拉绯红的脸,他没有发现任何奇怪的东西."
 
 
 
-    "Well, but if he could have observed a little more carefully... ... ... ..."
+    "Well,但如果他能观察得更仔细一点............"
 
 
 
@@ -410,11 +410,11 @@ label C_train_sha_1:
 
 
 
-    player "*Whispering* Ouch, why are you standing on my foot?"
+    player "*低语*Ouch,你为什么踩我的脚?"
 
 
 
-    c "Shhhh, quiet... ... ... ..."
+    c "Shhhh,安静............"
 
 
 

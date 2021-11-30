@@ -10,7 +10,7 @@ screen bigclock():
         has vbox:
             xalign 0.2 yalign 0.5
         text _("{}").format(DAY_PERIOD_NAME[t.period])
-        text _("Week {}, {}").format(t.week, str(t.day))
+        text _("第{}周, {}").format(t.week, str(t.day))
 
 style bigclock_text:
     size 40
@@ -41,7 +41,7 @@ transform clock_atl:
 screen clock_glow():
     zorder 87
     add Image("gui/clock/clock_glow.png", xpos=clock.xpos, ypos=clock.ypos, xoffset=clock.xoffset-10, yoffset=clock.yoffset-10)
-    text "Click to skip a time period":
+    text "点击跳过一个时间段":
         size 16
         xalign 1.0 xoffset -56
         ypos 15

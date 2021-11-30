@@ -3,31 +3,31 @@ label gysj_2:
     scene park_woodpath_day_background with tstmgr
     play music happy
 
-    narrator "I came to the path in the woods again. What am I expecting?"
+    narrator "我又来到树林里的小路上.我在期待什么?"
 
-    player "Maybe I can meet that running girl again?"
+    player "也许我还能再见到那个跑步的女孩?"
 
-    narrator "I walked alone for a while."
+    narrator "我独自走了一会儿."
 
     scene gysj2_1 with tstmgr
 
-    player "Wait, is that..."
+    player "等等,这是..."
 
-    player "Hey! Senning!"
+    player "Hey!森柠!"
 
     scene gysj2_2 with tstmgr
 
-    b "Oh, hi, [P.name], such a coincidence. What are you doing here?"
+    b "Oh,hi,[P.name],好巧.你在这里干什么?"
 
-    player "I live nearby. I always come here and take a walk if I have nothing else to do."
+    player "我住在附近.如果我没有别的事可做的话,我总是来这里散步."
 
-    player "So why are you here? I never saw you here before."
+    player "所以你怎么在这?我以前从未在这里见过你."
 
-    b "I happened to cash some checks in a bank one block away from here. So I decided to come and take a walk before going back to school."
+    b "我碰巧在离这儿不远的一个街区的一家银行兑现了一些支票.所以我决定在回学校之前来散散步."
 
-    player "Can I join you?"
+    player "我能加入你吗?"
 
-    b "Why not? It would be nice to have someone to talk with while walking."
+    b "为什么不呢?走路的时候有人说话真好."
 
     narrator "... ... ... ..."
 

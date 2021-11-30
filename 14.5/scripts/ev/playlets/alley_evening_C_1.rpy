@@ -2,19 +2,19 @@ label alley_evening_C_1:
 
     scene alley_evening_c_1_1 with tstmgr
 
-    c "You know, my mom was thinking about buying this place and making it a business street."
+    c "我妈妈想买下这个地方,把它变成商业街."
 
 
 
-    c "What do you think?"
+    c "你觉得如何?"
 
 
 
-    player "I don't know much about business... ..."
+    player "我不太懂商业......"
 
 
 
-    player "But yeah, I prefer to go to a busniss street than a dark alley with you."
+    player "但是,我更喜欢和你去商业街,而不是黑暗的小巷."
 
 
 
@@ -22,7 +22,7 @@ label alley_evening_C_1:
 
 
 
-    c "That's sweet."
+    c "这很贴心."
 
 
 

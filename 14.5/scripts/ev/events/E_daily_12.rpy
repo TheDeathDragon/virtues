@@ -3,7 +3,7 @@ label E_daily_12:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Elisa’s room..."
+    "深夜,在伊莉莎的房间里..."
 
 
 
@@ -13,7 +13,7 @@ label E_daily_12:
 
 
 
-    e "I can’t sleep at all..."
+    e "我根本睡不着..."
 
 
 
@@ -21,27 +21,27 @@ label E_daily_12:
 
 
 
-    e "Every time I close my eyes, the scenes of that night would leap out of my mind."
+    e "每当我闭上眼睛,那天晚上的情景就会从我的脑海中浮现出来."
 
 
 
     scene e_daily12_2 with flashback
 
-    e "That was probably the best night in my life."
+    e "那可能是我一生中最美好的一晚."
 
 
 
-    e "His young body was so strong, and so addictive... ... I would do anything just to spend a night with him again... ... ... ..."
+    e "他年轻的身体如此强壮,如此令人上瘾...我愿意做任何事,只要能再和他共度一晚............"
 
 
 
     scene e_daily12_3 with tstmgr
 
-    e "Awwwwwwwww!... ... No, Elisa, stop being ridiculous!"
+    e "Awwwwwwwww!......No,伊莉莎,别傻了!"
 
 
 
-    e "Ahhhhhh... It is driving me crazy... ..."
+    e "Ahhhhhh...它快把我逼疯了......"
 
 
 
@@ -51,7 +51,7 @@ label E_daily_12:
 
 
 
-    "Elisa tossed about all night and couldn’t fall asleep until dawn."
+    "伊莉莎辗转反侧,直到天亮才睡着."
 
 
 
@@ -59,41 +59,41 @@ label E_daily_12:
 
 
 
-    "The next afternoon..."
+    "第二天下午..."
 
 
 
     scene e_daily12_4 with tstmgr
 
-    player "Hi, Aunt Elisa, I’m here for the tutoring."
+    player "Hi,伊莉莎阿姨,我是来辅导艾琳的."
 
 
 
-    e "Nice to see you, [P]..."
+    e "很高兴见到你,[P]..."
 
 
 
-    player "Wait, you don’t look so well, what happened?"
+    player "等等,你看起来不太好,发生了什么事?"
 
 
 
     scene e_daily12_5 with tstmgr
 
-    e "My insomnia has gotten worse. I... couldn’t sleep last night."
+    e "我的失眠更严重了.我...我昨晚睡不着."
 
 
 
     scene e_daily12_6 with tstmgr
 
-    e "Don’t worry about it though, it’s just a minor issue~"
+    e "不过别担心,这只是个小问题~"
 
 
 
-    e "But I think I'd better catch some sleep now. See you later..."
+    e "但我想我最好现在睡一会儿.待会见..."
 
 
 
-    player "See you later, auntie."
+    player "待会见,阿姨."
 
 
 
@@ -103,35 +103,35 @@ label E_daily_12:
 
 
 
-    "Later, in Elisa's room..."
+    "之后,在伊莉莎的房间里..."
 
 
 
     scene e_daily12_7 with dissolve
 
-    e "Sigh... ... I feel exhausted."
+    e "唉......我感觉很疲倦."
 
 
 
-    e "Things are getting worse everyday. I have to find a solution to it."
+    e "事情一天比一天糟.我必须找到一个解决方案."
 
 
 
-    e "But... for now, please just let me sleep... ..."
+    e "但是...现在,请让我睡觉吧......"
 
 
 
     scene e_daily12_8 with tstmgr
 
-    "Elisa fell on her bed and closed her eyes. Her pants were still half off but she didn’t care about it anymore. She was just so tired."
+    "伊莉莎倒在床上,闭上了眼睛.她的裤子才脱了一半,但她已经不在乎了.她只是太累了."
 
 
 
-    e "Please... just let me stop thinking about [P]... ... for a sleep... ..."
+    e "请...不要再让我想到[P]了......让我好好睡一觉......"
 
 
 
-    "She soon fell into a shallow sleep."
+    "她很快就进入浅睡了."
 
 
 
@@ -143,7 +143,7 @@ label E_daily_12:
 
     scene e_daily12_8 with dissolve
 
-    "Sometime later, although Elisa was still asleep, somehow she felt that a person just got into the room and came to her bed."
+    "过了一段时间,虽然伊莉莎还在睡觉,但不知怎的,她感到有人刚走进房间,来到她的床前."
 
 
 
@@ -159,29 +159,29 @@ label E_daily_12:
 
 
 
-    e "(Did... someone just... get on my bed?)"
+    e "(刚才...是不是有人...上了我的床?)"
 
 
 
-    e "(Or am I... in a dream?)"
+    e "(还是说...我在做梦?)"
 
 
 
-    e "(I couldn’t open my eyes, they are so heavy... ...)"
+    e "(我睁不开眼睛,它们太重了......)"
 
 
 
-    e "([P]... ... is that you?)"
+    e "([P]......是你吗?)"
 
 
 
     scene e_daily12_11 with tstmgr
 
-    "A person is on the top of her body, but there was nothing she could do about it. She couldn’t move her body nor open her eyes. It’s like her body is no longer belonging to her anymore."
+    "一个人趴在她的身上,但她却无能为力.她无法移动身体,也无法睁开眼睛.就好像她的身体不再属于她了."
 
 
 
-    e "([P]... It must be you... ...)"
+    e "([P]...一定是你......)"
 
 
 
@@ -193,19 +193,19 @@ label E_daily_12:
 
     scene e_daily12_13 with tstmgr
 
-    e "(What do you want to do to me, [P]?)"
+    e "(你想对我做什么,[P]?)"
 
 
 
-    e "(Are you going to do the same thing to me as I did to you at those nights?)"
+    e "(你会像我在那些夜晚那样对你那样对我吗?)"
 
 
 
-    e "(This is... not right, but... ...)"
+    e "(这是...不对的,但......)"
 
 
 
-    e "(I think you have the right to take revenge on me... ...)"
+    e "(我想你有权利报复我......)"
 
 
 
@@ -215,21 +215,21 @@ label E_daily_12:
 
 
 
-    e "(Yes... kissing my breasts... ... so aggressive~)"
+    e "(Yes...吻我的胸......好强硬~)"
 
 
 
-    e "(I’m not going to resist, so please just be as aggressive as you want to me... ...)"
+    e "(我不会反抗的,所以请对我有多强硬就有多强硬......)"
 
 
 
     scene e_daily12_15 with tstmgr
 
-    e "(Ahhhhhh... ... you really like auntie’s breasts, don’t you?)"
+    e "(Ahhhhhh......你真的很喜欢阿姨的胸,不是吗?)"
 
 
 
-    e "(They are all yours now, so... no need to rush...)"
+    e "(它们现在都是你的了,所以...没必要着急...)"
 
 
 
@@ -239,15 +239,15 @@ label E_daily_12:
 
 
 
-    e "(Ohhh... I felt that he just pulled up my bra... This is... embarrassing.)"
+    e "(Ohhh...我感觉他拉起了我的胸罩...这...好尴尬.)"
 
 
 
-    e "(What a bold boy you are~)"
+    e "(你真是个大胆的孩子~)"
 
 
 
-    e "(So what you are going to do with my nude breasts? Will you... ...)"
+    e "(那你要拿我的裸胸做什么?你......)"
 
 
 
@@ -257,31 +257,31 @@ label E_daily_12:
 
 
 
-    e "(Yes, yes, sucking my nipple like a baby... ... and get my milk~~)"
+    e "(Yes,yes,像婴儿一样吮吸我的乳头...喝我的牛奶~~)"
 
 
 
-    e "(Awwwwww~~~ the way you suck... makes me so horny~~~)"
+    e "(Awwwwww~~~你吸的方式...让我欲火焚身~~~)"
 
 
 
     scene e_daily12_18 with tstmgr
 
-    e "([P]~~~ [P]~~~ I... can’t... ...)"
+    e "([P]~~~[P]~~~我...我......)"
 
 
 
-    e "(It feels so great~)"
+    e "(感觉太棒了~)"
 
 
 
     scene e_daily12_19 with tstmgr
 
-    e "(Yes~~~ yes~~~ the other one~~~)"
+    e "(Yes~~~yes~~~另一个~~~)"
 
 
 
-    e "*Comfortably moaning out* [P]... ... [P]... ..."
+    e "*舒服地呻吟*[P]......[P]......"
 
 
 
@@ -289,67 +289,67 @@ label E_daily_12:
 
 
 
-    "Irene’s voice suddenly rang out from the air."
+    "空中突然传来艾琳的声音."
 
 
 
     scene e_daily12_20 with tstmgr
 
-    e "Ah? What?"
+    e "Ah?什么?"
 
 
 
-    e "*Opening eyes with difficulty* ... ... ... ..."
+    e "*艰难的睁开眼睛*............"
 
 
 
     scene e_daily12_21 with tstmgr
 
-    d "Good evening, mommy~"
+    d "晚上好,妈咪~"
 
 
 
-    e "Irene... it’s you... ..."
+    e "艾琳...是你......"
 
 
 
-    e "(So it was not [P]... ... Owww... why do I feel upset about this?)"
+    e "(所以不是[P]......Owww...为什么我对此感到失望?)"
 
 
 
-    d "Of course it’s me~ Who else could it be?"
+    d "当然是我,还能是谁呢?"
 
 
 
     scene e_daily12_22 with tstmgr
 
-    d "You have slept for hours. I’m starving now~~"
+    d "你已经睡了好几个小时了.我饿了现在~~"
 
 
 
-    e "Really? Sorry, honey. I’ll go make you some dinner right away..."
+    e "真的吗?对不起,亲爱的,我马上去给你做晚饭..."
 
 
 
-    e "Just give me a minute to dress up... ..."
+    e "给我一分钟穿一下衣服......"
 
 
 
     scene e_daily12_23 with tstmgr
 
-    d "You seem tired today, mommy. Maybe you should give yourself a break and let’s order some Japanese food instead~"
+    d "妈妈,你今天看起来很累.也许你应该让自己休息一下,我们来点日本菜吧~"
 
 
 
-    e "... ... Yeah, that’s a good idea. Is [P] still here?"
+    e "......Yeah,这个主意不错.[P]还在这吗?"
 
 
 
-    d "No, he left an hour ago."
+    d "No,他一小时前离开了."
 
 
 
-    e "Okay... ..."
+    e "嗯......"
 
 
 
@@ -359,45 +359,45 @@ label E_daily_12:
 
     scene e_daily12_24 with tstmgr
 
-    d "Did you just mistake me into [P]?"
+    d "你刚才是不是把我误认为[P]了?"
 
 
 
-    e "I... ... no, I was in a dream and... I guess [P] was part of it."
+    e "我......no,我做了个梦...我想我梦到[P]了."
 
 
 
-    e "Anyway, my credit cards are in a pocket of my pants, you can just go get them and call the restaurant."
+    e "不管怎样,我的信用卡在我裤子的口袋里,你可以去拿,然后打电话给餐厅."
 
 
 
     scene e_daily12_21 with tstmgr
 
-    d "Okay, thanks mom~~"
+    d "Okay,谢谢妈妈~~"
 
 
 
     scene e_daily12_25 with tstmgr
 
-    "Irene left the bed..."
+    "艾琳离开了床..."
 
 
 
     scene e_daily12_26 with tstmgr
 
-    e "Sigh... ..."
+    e "唉......"
 
 
 
-    e "(This is getting worse, I can't stop thinking about [P] now... ... I have to... ...)"
+    e "(更糟的是,我现在停不下来想[P]...我必须......)"
 
 
 
-    e "(I have to stay away from [P]... ...)"
+    e "(我必须远离[P]......)"
 
 
 
-    e "(Yes, that might be the only way... ...)"
+    e "(Yes,这可能是唯一的办法......)"
 
 
 

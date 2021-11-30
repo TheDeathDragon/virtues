@@ -9,89 +9,89 @@ label ACG_duo_4:
 
     scene acg_duo_4_1 with dissolve
 
-    "Vera and Uno are talking in the livingroom... ..."
+    "薇拉和乌诺在客厅里谈话... ..."
 
 
 
-    player "Hi there, girls."
+    player "嗨,姑娘们."
 
 
 
     scene acg_duo_4_2 with tstmgr
 
-    g "Ah, master is home~"
+    g "啊,主人回来了~"
 
 
 
-    a "Welcome home, mas... ..."
+    a "欢迎回家,主... ..."
 
 
 
     scene acg_duo_4_3 with tstmgr
 
-    a "Wait, Uno, why do you always call him ‘master’?"
+    a "等等,乌诺,为什么你总是叫他'主人'?"
 
 
 
-    a "I thought it was only a... role-play game during... you know... ..."
+    a "我以为这只是一个... ...角色扮演的情趣,在... ...你知道的... ..."
 
 
 
     scene acg_duo_4_4 with tstmgr
 
-    g "Because master is master~"
+    g "因为主人就是主人~"
 
 
 
-    a "I don’t know what you are talking about... ..."
+    a "我不知道你在说什么... ..."
 
 
 
     scene acg_duo_4_5 with tstmgr
 
-    a "Anyway... ..."
+    a "无论如何... ..."
 
 
 
     scene acg_duo_4_6 with tstmgr
 
-    a "Welcome home, [P]~"
+    a "欢迎回家, [P]~"
 
 
 
     scene acg_duo_4_7 with tstmgr
 
-    g "Master~ Master~~"
+    g "主人~ 主人~~"
 
 
 
-    player "Oh, wow, babes... ..."
+    player "Oh, wow, 宝贝们... ..."
 
 
 
     scene acg_duo_4_8 with tstmgr
 
-    player "To be honest, it still feels so unbelievable that... I’m holding both of you in my arms right now..."
+    player "说实话,我仍然觉得很不可思议,因为... 我现在正把你们两个抱在怀里..."
 
 
 
     scene acg_duo_4_9 with tstmgr
 
-    g "What’s so unbelievable?"
+    g "W有什么不可思议的?"
 
 
 
-    player "I mean, normally girls would get angry when they find out their boy is... having a relationship with other girls."
+    player "我的意思是,通常情况下,当女孩发现她们的男孩......与其他女孩有关系时,她们会很生气."
 
 
 
-    a "Hmmmm... that’s true."
+    a "Hmmmm... 确实."
 
 
 
     scene acg_duo_4_10 with tstmgr
 
-    g "No, Uno is totally fine with that~"
+    g "不,乌诺对此完全没有意见~"
 
 
 
@@ -101,61 +101,61 @@ label ACG_duo_4:
 
 
 
-    "Yeah, both Uno and Theo are the kind of girls who don’t care about polygamy at all."
+    "是的,乌诺和西奥都是那种完全不关心一夫多妻制的女孩."
 
 
 
     scene acg_duo_4_10 with tstmgr
 
-    "But Vera... ..."
+    "但是薇拉... ..."
 
 
 
     scene acg_duo_4_12 with tstmgr
 
-    a "I thought... I would be angry... ..."
+    a "I我觉得... 我可能会生气... ..."
 
 
 
-    a "I am a jealous girl, I didn’t want to share my precious thing with others..."
+    a "我是一个善妒女孩,我不想和别人分享我宝贵的东西..."
 
 
 
     scene acg_duo_4_13 with tstmgr
 
-    a "And I was afraid that... you will leave me after you found other girls more attractive than me..."
+    a "我担心......你会在发现其他女孩比我更有吸引力之后离开我..."
 
 
 
     scene acg_duo_4_14 with tstmgr
 
-    player "Vera... ... ... ..."
+    player "薇拉... ... ... ..."
 
 
 
     scene acg_duo_4_15 with tstmgr
 
-    a "But... ..."
+    a "但是... ..."
 
 
 
     scene acg_duo_4_16 with tstmgr
 
-    a "I have gotten used to living with you guys already."
+    a "我已经习惯于和你们一起生活了."
 
 
 
-    a "[P], Uno, Theo, and I... ... We are like a family~"
+    a "[P], 乌诺、西奥和我... ...我们就像一个家庭~"
 
 
 
     scene acg_duo_4_17 with tstmgr
 
-    a "How would I be jealous of my family?"
+    a "我怎么会嫉妒我的家人呢?"
 
 
 
-    g "Vera~~~"
+    g "薇拉~~~"
 
 
 

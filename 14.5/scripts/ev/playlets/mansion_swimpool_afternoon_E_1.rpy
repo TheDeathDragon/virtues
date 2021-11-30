@@ -6,7 +6,7 @@ label mansion_swimpool_afternoon_E_1:
 
 
 
-    e "[P]? Aren't you supposed to help Irene with her homework right now?"
+    e "[P]? 你现在不是应该帮助艾琳做作业吗?"
 
 
 
@@ -16,7 +16,7 @@ label mansion_swimpool_afternoon_E_1:
 
 
 
-    e "Nevermind. You can come closer and have a seat."
+    e "甭管了.你可以走近一点,坐一坐."
 
 
 

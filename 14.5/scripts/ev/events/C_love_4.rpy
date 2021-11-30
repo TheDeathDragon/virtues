@@ -3,73 +3,73 @@ label C_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, in Elisa’s mansion. Theodora and I were invited here for dinner."
+    "今天晚些时候,在伊莉莎家.狄奥多拉和我被邀请来这里吃晚饭."
 
 
 
     scene c_love_4_1 with tstmgr
 
-    player "Thanks for the wonderful meal, Aunt Elisa."
+    player "谢谢你的美餐,伊莉莎阿姨."
 
 
 
     scene c_love_4_2 with tstmgr
 
-    e "You are welcome, honey."
+    e "不客气,亲爱的."
 
 
 
     scene c_love_4_3 with tstmgr
 
-    e "Are you two going to stay here for tonight?"
+    e "你们俩今晚要在这里过夜吗?"
 
 
 
-    player "We... ..."
+    player "我们......"
 
 
 
     scene c_love_4_4 with tstmgr
 
-    "I looked to Theodora and she answered me with shrugging her shoulders. It seems to be best to not disappoint Aunt Elisa for now."
+    "我看了看狄奥多拉,她耸了耸肩回答我.现在看来最好别让伊莉莎阿姨失望."
 
 
 
-    player "We'd like to stay here for tonight if you allow us."
+    player "如果你允许的话,我们今晚想在这里过夜."
 
 
 
     scene c_love_4_5 with tstmgr
 
-    e "Great! I will clean up your bedroom so you two can stay there together."
+    e "太棒了!我来打扫你的卧室,这样你们俩就可以呆在一起了."
 
 
 
     scene c_love_4_6 with tstmgr
 
-    c "Wait, what? He and I... are going to share a room?"
+    c "等等,什么?我和他...我们要共用一个房间吗?"
 
 
 
-    e "What’s the matter?"
+    e "有什么问题吗?"
 
 
 
-    c "I... I think there is no need for that. I can just sleep in my own room."
+    c "我...我认为那没有必要.我可以睡在自己的房间里."
 
 
 
     scene c_love_4_7 with tstmgr
 
-    e "Nonsense. I will never divide you two lovebirds apart."
+    e "说什么呢.我怎么可能把你俩分开."
 
 
 
-    e "Just wait here for a moment and I will clean up the room for you two."
+    e "请在这里等一会儿,我来为你们打扫房间."
 
 
 
-    c "But... ... ... ..."
+    c "但是............"
 
 
 
@@ -79,11 +79,11 @@ label C_love_4:
 
 
 
-    "Aunt Elisa has made up her mind. Right now it is not wise to reject her."
+    "伊莉莎阿姨已经下定决心了.现在拒绝她是不明智的."
 
 
 
-    "Some time later, in the guestroom."
+    "过了一会儿,在客房里."
 
 
 
@@ -93,31 +93,31 @@ label C_love_4:
 
 
 
-    "Theodora and I sat together on the bed with only a bath towel and underwear. Man, this is awkward."
+    "狄奥多拉和我一起坐在床上,只有一条浴巾和内裤.伙计,这太尴尬了."
 
 
 
     scene c_love_4_9 with tstmgr
 
-    c "Sometimes I really hate my mom for overplanning."
+    c "有时候我真的很讨厌我妈妈安排太多."
 
 
 
-    player "(Swallowing) ... ... ... ..."
+    player "(吞下)............"
 
 
 
-    player "At least she didn’t ask us to bath together."
+    player "至少她没让我们一起洗澡."
 
 
 
     scene c_love_4_10 with tstmgr
 
-    c "But she didn’t even prepare pajamas for us. Are we supposed to sleep together naked?"
+    c "但她连睡衣都没给我们准备.我们应该一起裸睡吗?"
 
 
 
-    player "Ehh... I can sleep on the ground if you want."
+    player "Ehh...如果你愿意,我可以睡在地上."
 
 
 
@@ -127,55 +127,55 @@ label C_love_4:
 
     scene c_love_4_11 with tstmgr
 
-    c "No need. I know you are trying to be nice, but... it kind of hurts a girl’s feeling."
+    c "没有必要.我知道你是想做个好人,但是...这有点伤害女孩的感情."
 
 
 
-    player "What?"
+    player "什么?"
 
 
 
     scene c_love_4_12 with tstmgr
 
-    c "Am I so unattractive to you that you don’t even want to stay with me in the same bed?"
+    c "难道我对你没有吸引力,你甚至不想和我在同一张床上?"
 
 
 
     scene c_love_4_13 with tstmgr
 
-    player "I... I never thought of that before."
+    player "我......我从没这么想过."
 
 
 
-    player "So... what should we do now?"
+    player "所以...我们现在该怎么办?"
 
 
 
-    c "We sleep. What else do you expect?"
+    c "睡觉.你还想要做什么?"
 
 
 
     scene c_love_4_14 with tstmgr
 
-    player "Eh... sex?"
+    player "Eh...做爱?"
 
 
 
-    player "I mean, your mom even prepared us a pack of condoms in that drawer."
+    player "我是说,你妈妈甚至在抽屉里给我们准备了一盒避孕套."
 
 
 
-    player "She will start to suspect if she finds out that none of them got used tonight."
+    player "如果她发现今晚没有人使用它们,她会开始怀疑的."
 
 
 
     scene c_love_4_15 with tstmgr
 
-    c "Then I will tell her that you came directly inside me and she is likely to have her first grandkid in the next 10 months. Now stop thinking shit and sleep."
+    c "那样的话我会告诉她我们没有戴套就做了,而且她很可能在未来10个月内拥有她的第一个孙子.现在停止胡思乱想,睡觉吧."
 
 
 
-    c "One more thing, don’t do anything stupid. I am a light sleeper."
+    c "还有一件事,别做傻事.我睡眠很浅."
 
 
 
@@ -183,7 +183,7 @@ label C_love_4:
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
@@ -193,7 +193,7 @@ label C_love_4:
 
 
 
-    "Later tonight..."
+    "今晚晚些时候..."
 
 
 
@@ -209,7 +209,7 @@ label C_love_4:
 
     scene c_love_4_17 with tstmgr
 
-    player "(How the fuck can I fall asleep while she is lying beside me with only a bath towel on?)"
+    player "(她躺在我旁边,身上只披了一条浴巾,这我他妈的怎么睡得着?)"
 
 
 
@@ -219,11 +219,11 @@ label C_love_4:
 
     scene c_love_4_18 with tstmgr
 
-    player "(Shit, look at those jelly mountains.)"
+    player "(Shit,看看那对‘果冻山’.)"
 
 
 
-    player "(Just imagine holding them in my hands can make me cum.)"
+    player "(光想象一下把它们握在手里就能让我射了.)"
 
 
 
@@ -233,15 +233,15 @@ label C_love_4:
 
 
 
-    player "(Will she wake up if I touch her?)"
+    player "(如果我碰她一下,她会醒吗?)"
 
 
 
-    player "(She did say that she is a light sleeper, but... ...)"
+    player "(她确实说过她睡得很浅,但是......)"
 
 
 
-    player "(Anyhow, it worths a try.)"
+    player "(不管怎样,这值得一试.)"
 
 
 
@@ -251,39 +251,39 @@ label C_love_4:
 
 
 
-    player "(Jesus Christ... ...)"
+    player "(天哪......)"
 
 
 
-    player "(I must be in heaven right now.)"
+    player "(我现在一定在天堂.)"
 
 
 
-    player "(Her skin is so soft and delicate. It’s even softer than my lips.)"
+    player "(她的皮肤又软又嫩.它甚至比我的嘴唇还软.)"
 
 
 
     scene c_love_4_21 with tstmgr
 
-    player "(Now let me see the full view of these jelly mountains.)"
+    player "(现在让我看看这对果冻山的全貌.)"
 
 
 
     scene c_love_4_22 with tstmgr
 
-    player "(Oh, man... ...)"
+    player "(Oh,天......)"
 
 
 
-    player "(These are the fucking Himalayas...)"
+    player "(这是该死的喜马拉雅山...)"
 
 
 
-    player "(I don’t think I can hold anymore.)"
+    player "(我想我撑不住了.)"
 
 
 
-    player "(I want to... stick my dick into her cleavage.)"
+    player "(我想...把我的鸡儿插进她的乳沟.)"
 
 
 
@@ -293,7 +293,7 @@ label C_love_4:
 
 
 
-    c "Get off me."
+    c "放开我."
 
 
 
@@ -303,7 +303,7 @@ label C_love_4:
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
@@ -313,35 +313,35 @@ label C_love_4:
 
 
 
-    c "You just couldn’t help yourself, can you?"
+    c "你就是忍不住,对吧?"
 
 
 
-    player "Sorry... ..."
+    player "抱歉......"
 
 
 
-    c "Sigh... ..."
+    c "唉......"
 
 
 
-    c "I’ll give you one more chance. Control yourself or go sleep on the ground."
+    c "我再给你一次机会.控制住你自己,否则就睡在地上."
 
 
 
-    c "Now leave me alone. I’m not in the mood."
+    c "现在离我远点.我没心情."
 
 
 
     scene c_love_4_26 with tstmgr
 
-    player "Okay, okay. I’m sorry. I don’t know what happened to me. I was out of my mind."
+    player "Okay,okay.我很抱歉.我不知道我怎么了.我疯了."
 
 
 
     scene c_love_4_16 with tstmgr
 
-    player "You... have a good night."
+    player "你...晚安."
 
 
 
@@ -357,7 +357,7 @@ label C_love_4:
 
 
 
-    c "(Sigh... ... ... ...)"
+    c "(唉............)"
 
 
 
@@ -367,7 +367,7 @@ label C_love_4:
 
 
 
-    "One night later..."
+    "一夜之后..."
 
 
     stop music fadeout 1.0

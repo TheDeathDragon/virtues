@@ -2,33 +2,33 @@ label find_A_restaurant_evening_E_1:
 
     scene find_a_restaurant_evening_e_1_1 with tstmgr
 
-    "Emm? Are those Aunt Elisa and... Vera?"
+    "Emm?那是伊莉莎阿姨和...薇拉?"
 
 
 
-    "Seems like they are getting along pretty well."
+    "她们似乎相处得很好."
 
 
 
     scene find_a_restaurant_evening_e_1_2 with tstmgr
 
-    e "He still peed on his bed until he was 8. Can you believe it?"
+    e "他8岁时还在尿床.你能相信吗?"
 
 
 
-    a "No way..."
+    a "不可能..."
 
 
 
-    "Hah, what a pathetic boy."
+    "Hah,多么可怜的孩子."
 
 
 
-    "Wait... ... ... ..."
+    "等等............"
 
 
 
-    "Are they talking about me?"
+    "她们在说我吗?"
 
 
 

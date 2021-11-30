@@ -2,17 +2,17 @@ label mansion_swimpool_latenight_C_1:
 
     scene void with tstmgr
 
-    "I heard some noise coming from the swimming pool."
+    "我听到游泳池里有声音."
 
 
 
-    "It was Theodora."
+    "是狄奥多拉."
 
 
 
     scene mansion_swimpool_latenight_c_1_1 with tstmgr
 
-    player "Theodora?"
+    player "狄奥多拉?"
 
 
 
@@ -20,19 +20,11 @@ label mansion_swimpool_latenight_C_1:
 
 
 
-    c "Why are you here? It's late night."
+    c "你为什么在这里?已经这么晚了."
 
 
 
-    player "Your mom gave me a key to this house the other day. She said I can come her anytime I want."
-
-
-
-    c "... ... ... ..."
-
-
-
-    player "Can I join you?"
+    player "你妈妈前几天给了我一把房子的钥匙.她说我想什么时候来就什么时候来."
 
 
 
@@ -40,7 +32,15 @@ label mansion_swimpool_latenight_C_1:
 
 
 
-    c "No, I'd rather stay here alone."
+    player "我能加入你吗?"
+
+
+
+    c "... ... ... ..."
+
+
+
+    c "不,我宁愿一个人呆在这里."
 
 
 

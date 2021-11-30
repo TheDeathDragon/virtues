@@ -3,17 +3,17 @@ label E_daily_7:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is from Elisa’s perspective*"
+    "*下面的情节是伊莉莎的视角*"
 
 
 
     scene e_daily6_2 with tstmgr
 
-    e "([P] is going to stay at my house for tonight again...)"
+    e "([P]今晚还要在我家过夜吗...)"
 
 
 
-    e "(Sigh... he comes too often these days...)"
+    e "(唉...这些天他来的太频繁了...)"
 
 
 
@@ -25,53 +25,53 @@ label E_daily_7:
 
     scene e_love_5_31 with flashback
 
-    e "(I can’t help keeping replaying what happened that day in my mind...)"
+    e "(我不禁回想起那天发生的事...)"
 
 
 
-    e "(I wish he can treat me in that way again.)"
+    e "(我希望他能再那样对待我.)"
 
 
 
     scene e_daily7_1 with flashback
 
-    e "(But... it’s not right... ...)"
+    e "(但是...那是不对的......)"
 
 
 
-    e "(I used to take him as my own kid to care, but now look what we have done... ...)"
+    e "(我曾经把他当成自己的孩子来照顾,但是现在看看我们做了什么......)"
 
 
 
     scene e_daily6_2 with tstmgr
 
-    e "(Admit it, Elisa. You are not a young girl anymore, you should face the truth.)"
+    e "(承认吧,伊莉莎.你已经不再是一个年轻的女孩了,你应该面对现实.)"
 
 
 
-    e "(And the truth is, you are fascinated with that boy...)"
+    e "(事实是,你被这个男孩迷住了...)"
 
 
 
     scene e_daily7_2 with tstmgr
 
-    e "(He has grown into an attractive man. His fit muscles, charming smile, and the way he touched you... ... Oh...)"
+    e "(他已长成为一个有魅力的人.他健美的肌肉,迷人的微笑,还有他抚摸你的方式......Oh...)"
 
 
 
     scene e_daily7_3 with tstmgr
 
-    e "(And he doesn’t discriminate your lactating breasts like the other men did. He even seems to... love them...)"
+    e "(他也不像其他男人那样歧视你的乳汁.他甚至似乎...喜欢它们...)"
 
 
 
     scene e_daily7_1 with tstmgr
 
-    e "(Sigh... why didn’t you meet a man like him 15 years earlier?)"
+    e "(唉...你为什么15年前没遇到像他这样的人?)"
 
 
 
-    e "(Now everything is too late. You know there is no future between you and him. He is your future son-in-law. How are you going to face Theodora for the rest of your life if she finds out anything?)"
+    e "(现在一切都太迟了.你知道你和他之间没有未来.他是你未来的女婿.如果狄奥多拉发现了什么,往后的日子你将如何面对她?)"
 
 
 
@@ -81,11 +81,11 @@ label E_daily_7:
 
     scene e_daily7_4 with tstmgr
 
-    e "(Wait, what if... ...)"
+    e "(等等,如果......)"
 
 
 
-    "Suddenly, a crazy idea came up into my mind. It was so crazy that made me, a 40-year-old decent lady trembled like a frightened child."
+    "突然,一个疯狂的想法出现在我的脑海里.这太疯狂了,让我这个40岁的正经女人像个受惊的孩子一样颤抖."
 
 
 
@@ -95,7 +95,7 @@ label E_daily_7:
 
 
 
-    "Later tonight..."
+    "今晚晚些时候..."
 
 
 
@@ -107,19 +107,19 @@ label E_daily_7:
 
     scene e_daily7_6 with tstmgr
 
-    player "Strange... ... Why do I feel so dizzy right now?"
+    player "奇怪...为什么我突然感到头晕?"
 
 
 
     scene e_daily7_7 with tstmgr
 
-    player "Guess I have spent too much time on my cellphone."
+    player "我想我在手机上花的时间太多了."
 
 
 
     scene e_daily7_8 with tstmgr
 
-    player "Time to sleep..."
+    player "是时候睡觉了..."
 
 
 
@@ -137,7 +137,7 @@ label E_daily_7:
 
 
 
-    "Half an hour later..."
+    "半小时后..."
 
 
 
@@ -155,31 +155,31 @@ label E_daily_7:
 
     scene e_daily7_11 with tstmgr
 
-    e "Turned out... that drug really worked... ..."
+    e "看来...那个药真的起作用了......"
 
 
 
-    e "If that pharmacist was right, then there is no way he can wake up before dawn."
+    e "如果药剂师是对的,他就不可能在黎明前醒来."
 
 
 
     scene e_daily7_13 with tstmgr
 
-    e "Oh... Elisa, What have you done?"
+    e "Oh...伊莉莎,你做了什么?"
 
 
 
-    e "I know that I can’t go further with this young man, but at least... for now... just let me look at him quietly for a few moments."
+    e "我知道我不能和这个年轻人走得太远,但至少...现在...让我静静地看他一会儿."
 
 
 
-    e "That’s all I want. It makes me feel relieved just looking at his sleeping face."
+    e "这就是我想要的.看着他熟睡的脸,我感到如释重负."
 
 
 
     scene e_daily7_9 with tstmgr
 
-    player "(Talking in sleep) Theo... ... ... ..."
+    player "(梦话)狄奥............"
 
 
 
@@ -191,71 +191,71 @@ label E_daily_7:
 
     scene e_daily7_12 with tstmgr
 
-    e "Ha~ he is dreaming about Theo right now."
+    e "Ha~他现在正梦到狄奥呢."
 
 
 
-    e "It must be a sweet, beautiful dream... ..."
-
-
-
-    scene e_daily7_9 with tstmgr
-
-    player "(Talking in sleep) Irene... ... ... ..."
-
-
-
-    scene e_daily7_11 with tstmgr
-
-    e "Irene? She is in his dream, too?"
-
-
-
-    scene e_daily7_12 with tstmgr
-
-    e "Hmmm... that’s reasonable. I mean, they are very close..."
+    e "这一定是一个甜蜜,美丽的梦......"
 
 
 
     scene e_daily7_9 with tstmgr
 
-    player "(Talking in sleep) Elisa... ... ... ..."
+    player "(睡梦中)艾琳............"
 
 
 
     scene e_daily7_11 with tstmgr
 
-    e "Wait, I am also in his dream?"
+    e "艾琳?她也在他的梦里吗?"
 
 
 
     scene e_daily7_12 with tstmgr
 
-    e "And... this is the first time he calls me ‘Elisa’ instead of ‘Aunt Elisa’. What is he dreaming about exactly?"
+    e "Hmmm...这是合理的.我的意思是,他们非常亲近..."
+
+
+
+    scene e_daily7_9 with tstmgr
+
+    player "(梦话)伊莉莎............"
+
+
+
+    scene e_daily7_11 with tstmgr
+
+    e "等等,我也在他的梦里?"
+
+
+
+    scene e_daily7_12 with tstmgr
+
+    e "还有...这是他第一次叫我“伊莉莎”而不是“伊莉莎阿姨”.他到底梦到了什么?"
 
 
 
     scene void with tstmgr
 
-    "Meanwhile, in [P]’s dream..."
+    "同时,在[P]的梦里..."
 
 
 
     scene e_daily7_14 with flashback
 
-    e "Come on, [P]. Play with us..."
+    e "来吧,[P].我们一起玩吧..."
 
 
 
-    d "Can you... stay with us till morning?"
+    d "你能...和我们一起待到早上吗?"
 
 
 
-    c "You’d better make us happy, otherwise... ..."
+    c "你最好让我们高兴,否则......"
 
 
 
-    player "Yes, yes, yes! Let’s have fun together, ladies!!!"
+    player "Yes,yes,yes!让我们一起玩,女士们!!!"
 
 
 
@@ -265,11 +265,11 @@ label E_daily_7:
 
 
 
-    e "His... penis, is swelling up..."
+    e "他的...鸡儿,正在变大..."
 
 
 
-    e "(Swallowing hard) I wonder what it is like... ..."
+    e "(使劲吞咽)我想知道它长什么样子......"
 
 
 
@@ -279,19 +279,19 @@ label E_daily_7:
 
 
 
-    e "I’m..."
+    e "我..."
 
 
 
     scene e_daily7_15 with tstmgr
 
-    e "I’m just going to take a look... I won’t do anything further... ..."
+    e "我就看看...我不会做任何出格的事了......"
 
 
 
     scene e_daily7_13 with tstmgr
 
-    e "No one... will find out..."
+    e "没有人...会发现..."
 
 
 
@@ -303,25 +303,25 @@ label E_daily_7:
 
     scene e_daily7_16 with tstmgr
 
-    e "(Shouting surprisedly) Wow~~~"
+    e "(诧异地喊着)Wow~~~"
 
 
 
-    e "I can’t believe what I’m looking at right now... How could it be so big!?"
+    e "我不敢相信我现在看到的...它怎么能这么大!?"
 
 
 
-    e "He has really grown a lot since highschool..."
+    e "他自高中以来真的长了很多..."
 
 
 
     scene e_daily7_15 with tstmgr
 
-    e "Emm? On the second thought, he is dreaming about me and my daughters while his penis got erected like this?"
+    e "Emm?再一想,他梦到了我和我的女儿们,他的鸡儿就这样竖起来了?"
 
 
 
-    e "That... doesn’t sound right... ..."
+    e "这...听起来不对......"
 
 
 
@@ -329,17 +329,17 @@ label E_daily_7:
 
 
 
-    e "But... Such an amazing penis it is..."
+    e "但是...这是根美妙的鸡儿..."
 
 
 
-    e "I wonder... what it feels like in my hand..."
+    e "我想知道...它在我手里是什么感觉..."
 
 
 
     scene e_daily7_13 with tstmgr
 
-    e "No, I mean, I... I think I should calm it down, right? It is not healthy for him if it keeps hard like this for too long."
+    e "不,我是说,我...我想我应该让它平静下来,对吗?如果这种情况持续太久,对他的健康是不利的."
 
 
 
@@ -349,23 +349,23 @@ label E_daily_7:
 
 
 
-    "I quietly got on his bed..."
+    "我悄悄地上了他的床..."
 
 
 
     scene e_daily7_17 with tstmgr
 
-    e "My... God... ... it looks even more magnificent from this angle."
+    e "我的...天......从这个角度看,它更壮观."
 
 
 
     scene e_daily7_18 with tstmgr
 
-    e "This boy was born to be a lady killer."
+    e "这个男孩天生就是个妇女杀手."
 
 
 
-    e "Good for you, Theo, good for you... ..."
+    e "你真幸福,狄奥,你真幸福......"
 
 
 
@@ -375,63 +375,63 @@ label E_daily_7:
 
 
 
-    e "Now I just need to..."
+    e "现在我只需要..."
 
 
 
     scene e_daily7_19 with tstmgr
 
-    "I gently gripped his penis with my hand."
+    "我用手轻轻地抓住他的鸡儿."
 
 
 
-    e "(Swallowing hard) ... ... ... ..."
+    e "(用力吞咽)............"
 
 
 
-    e "What am I doing?... ... This is... so unrighteous..."
+    e "我在干什么?......这太...太罪恶了..."
 
 
 
     scene e_daily7_20 with tstmgr
 
-    e "But... ..."
+    e "但是......"
 
 
 
     scene e_daily7_21 with tstmgr
 
-    e "This is the first penis I have seen in real life for 15 years..."
+    e "这是我15年来第一次在现实生活中看到鸡儿..."
 
 
 
     scene e_daily7_20 with tstmgr
 
-    e "Such a young... powerful... huge dick~~"
+    e "一个如此年轻的...强有力的...巨大的鸡儿~~"
 
 
 
     scene e_daily7_21 with tstmgr
 
-    e "What would it be like if it comes into my... ..."
+    e "如果它进入我的身体会是什么样子......"
 
 
 
     scene e_daily7_20 with tstmgr
 
-    e "No, stop right there, woman, you are thinking too much."
+    e "不,别说了,女人,你想得太多了."
 
 
 
     scene e_daily7_21 with tstmgr
 
-    e "Hmm? It started to quiver..."
+    e "Hmm?它开始颤抖..."
 
 
 
     scene e_daily7_20 with tstmgr
 
-    e "Does it mean that... ..."
+    e "这是否意味着......"
 
 
 
@@ -445,7 +445,7 @@ label E_daily_7:
 
     scene e_daily7_23 with tstmgr
 
-    e "Oh my God... how could he cum so much? Some even splashed on my face... ..."
+    e "OhmyGod...他怎么能射那么多?有些甚至溅到我的脸上......"
 
 
 
@@ -453,35 +453,35 @@ label E_daily_7:
 
 
 
-    e "I want to know... what it tastes like..."
+    e "我想知道...尝起来像什么..."
 
 
 
     scene e_daily7_24 with tstmgr
 
-    e "(Licking) ... ... ... ..."
+    e "(舔)............"
 
 
 
     scene e_daily7_25 with tstmgr
 
-    e "Yes... this masculine flavor... ..."
+    e "Yes...这阳刚的味道......"
 
 
 
-    e "(Licking) Zip... zip... zip... zip... ..."
+    e "(舔)Zip...zip...zip...zip......"
 
 
 
     scene e_daily7_24 with tstmgr
 
-    e "Sigh... ..."
+    e "唉......"
 
 
 
     scene e_daily7_26 with tstmgr
 
-    e "Alright, now I need to clean this mess up before he wakes up."
+    e "好了,现在我要在他醒来之前把这烂摊子收拾干净."
 
 
 

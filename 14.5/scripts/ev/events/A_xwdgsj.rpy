@@ -2,51 +2,51 @@ label A_xwdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Vera works at a clothing store every afternoon. Perhaps I could encounter her there and see if I can strike up a conversation."
+    narrator "据杰克说,薇拉每天下午在一家服装店工作.也许我能在那儿碰到她.那将是改善我们关系的好办法."
 
     narrator "... ... ... ..."
 
     scene dressstore_background with tstmgr
 
-    narrator "I found the store he mentioned and walked in."
+    narrator "我下午去了那家服装店."
 
-    narrator "Hmm... This place looks quite nice. If Vera really works here, she might get a fair wage."
+    narrator "Hmm...这个地方看起来很不错.如果薇拉真的在这里工作,她可能会得到一份公平的工资."
 
-    narrator "I soon found Vera. Her face and body shape make her so conspicuous in this store."
+    narrator "我很快就找到了薇拉.她的脸蛋和身材使她在店里很显眼."
 
     scene a_dressstore_unhappy with tstmgr
 
-    narrator "Wow, nice uniform."
+    narrator "Wow,漂亮的制服."
 
-    player "Vera? What a coincidence. Do you work here?"
-
-    a "... ... ... ..."
-
-    a "Yes, I work at this place every afternoon."
+    player "薇拉?好巧啊.你在这儿工作吗??"
 
     a "... ... ... ..."
 
-    a "Why are you here? We only sell women's clothing."
+    a "Yes,我每天下午都在这个地方工作."
 
-    player "Oh... About that..."
+    a "... ... ... ..."
 
-    a "Are you stalking me?"
+    a "你怎么来了?我们只卖女装."
 
-    player "What? No, God, how would you think that way?"
+    player "Oh...关于这个..."
 
-    player "I am just trying to... buy a gift for my...aunt."
+    a "你在跟踪我吗?"
+
+    player "什么?不,天哪,你怎么会这么想?"
+
+    player "我只是想...给我阿姨买个礼物."
 
     scene a_dressstore_frown with tstmgr
 
-    a "Your aunt?"
+    a "阿姨?"
 
-    player "Yes, I can show you her picture."
+    player "Yes,我可以让你看看她的照片."
 
-    a "There is no need for that..."
+    a "没有必要这样做..."
 
-    a "So... What would you like to buy?"
+    a "所以...你想买什么?"
 
-    player "I don't know yet. I'm just looking around."
+    player "我还不知道.我只是随便看看."
 
     a "Oh... Okay..."
 
@@ -54,45 +54,45 @@ label A_xwdgsj:
 
     player "... ... ... ..."
 
-    narrator "As a salesperson, she is supposed to talk with the guest all the time...but she is certainly not in the mood talking with me right now."
+    narrator "作为一名销售人员,她应该一直与客人交谈.但是她现在肯定没有心情和我说话."
 
-    narrator "This is awkward."
+    narrator "太尴尬了."
 
     player "Eh... Well..."
 
-    player "It's pretty late in the afternoon so you should be getting off soon, right? Would you like to join me for dinner?"
+    player "时间不早了,你一定要下班了吧?我想请你吃晚饭."
 
     scene a_dressstore_weird with tstmgr
 
-    a "Dinner?"
+    a "晚饭?"
 
     scene a_dressstore_frown with tstmgr
 
-    a "Thank you, but no."
+    a "谢谢你,但是不用了."
 
-    a "I prefer to go home directly after work these days."
+    a "这些天下班后我宁愿直接回家."
 
-    player "I understand that."
+    player "我理解."
 
-    a "Sorry."
+    a "抱歉."
 
-    player "Then how about letting me drive you home?"
+    player "那我开车送你回家吧."
 
     scene a_dressstore_weird with tstmgr
 
     a "... ... ... ..."
 
-    a "Why are you... ..."
+    a "你为什么......"
 
     scene a_dressstore_smile3 with tstmgr
 
-    a "Alright. Thanks for your kindness."
+    a "好吧.谢谢你的好意."
 
-    player "Great!"
+    player "棒!"
 
     narrator "... ... ... ..."
 
-    narrator "Later, I drove her home and we had a conversation along the way. I have a feeling that things are getting better between us."
+    narrator "之后,我开车送她回家.我们在路上聊了会.我有一种感觉,我们之间的关系正在好转."
 
 
     $ add(A, A.love, 1)

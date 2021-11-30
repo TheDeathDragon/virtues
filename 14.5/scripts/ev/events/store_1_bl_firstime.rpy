@@ -3,75 +3,75 @@ label store_1_bl_firstime:
     scene void with tstmgr
     play music sorrow
 
-    "Today I came to Posia’s Astrology Shop once again and... ..."
+    "今天我又一次来到波西亚的占星商店......"
 
 
 
     scene store_1_bl_firstime_1 with dissolve
 
-    "Posia" "*Wet kissing* Wummm~~~ wummm~~~Mmm~~~"
+    "波西亚""*湿吻*Wummm~~~wummm~~~Mmm~~~"
 
 
 
-    player "Posia... ... ... ..."
+    player "波西亚............"
 
 
 
     scene store_1_bl_firstime_2 with tstmgr
 
-    "Posia" "*Left [P]’s mouth reluctantly* Huhhh... ... ... ..."
+    "波西亚""*不情愿的离开[P]的嘴*Huhhh............"
 
 
 
     scene store_1_bl_firstime_3 with tstmgr
 
-    "Posia" "Good news for you, the chosen one. Your saliva just told me that today is your lucky day~"
+    "波西亚""对你这个被选中的人来说,这是个好消息.你的口水告诉我今天是你的幸运日~"
 
 
 
-    player "Oh, that’s good to hear."
+    player "Oh,很高兴听到你这么说."
 
 
 
     scene store_1_bl_firstime_4 with tstmgr
 
-    player "So... ... ... ..."
+    player "所以............"
 
 
 
-    player "Can I... eh... have another cleansing service today?"
+    player "今天...eh...可以再来一次净化服务吗?"
 
 
 
-    "Posia" "Hmmmmmm... ... but you don’t need that. Today is your lucky day, remember?"
+    "波西亚""Hmmmmmm......但你不需要那个.今天是你的幸运日,记得吗?"
 
 
 
-    player "Oh, yeah, but... ..."
+    player "Oh,yeah,但是......"
 
 
 
-    "Posia" "... ... ... ..."
+    "波西亚""... ... ... ..."
 
 
 
     scene store_1_bl_firstime_5 with tstmgr
 
-    "Posia" "You have been addicted to my services, haven’t you?"
+    "波西亚""你已经对我的服务上瘾了,是不是?"
 
 
 
-    player "I... I... ..."
+    player "我...我......"
 
 
 
     scene store_1_bl_firstime_6 with tstmgr
 
-    "Posia" "But unfortunately, darling, I am not a whore. I won’t give you a blowjob just to satisfy your sexual desire."
+    "波西亚""但不幸的是,亲爱的,我不是妓女.我不会为了满足你的性欲而给你口交."
 
 
 
-    "Posia" "You will have to wait until another time when you are in bad luck again~"
+    "波西亚""你得等到下次你再倒霉的时候.~"
 
 
 
@@ -79,51 +79,51 @@ label store_1_bl_firstime:
 
 
 
-    player "Fine... ... Sorry for asking."
+    player "Fine......是我唐突了."
 
 
 
     scene store_1_bl_firstime_7 with tstmgr
 
-    "Posia" "However, there is a new service I can provide to you~"
+    "波西亚""但是有一项新服务我可以提供给你~"
 
 
 
-    "Posia" "The ‘blessing’ service~"
+    "波西亚""“祝福”服务~"
 
 
 
-    player "What do you mean by that?... ..."
+    player "这是什么意思?......"
 
 
 
     scene store_1_bl_firstime_8 with tstmgr
 
-    "Posia" "I will sprinkle my magical water on your body to bless you so your good luck may stay longer~"
+    "波西亚""我将在你身上洒上我的魔法水,祝福你,让你的好运气可以多停留一些时间~"
 
 
 
-    "Posia" "But I cannot guarantee the amount of the magical water I can produce. I will need your help on that~"
+    "波西亚""但我不能保证我能产出多少魔法水.我需要你的帮助~"
 
 
 
-    player "The amount of water... you can produce? What kind of water is that?"
+    player "产出水...你生产吗?那是什么水?"
 
 
 
     scene store_1_bl_firstime_9 with tstmgr
 
-    "She blinked to me, and then... ..."
+    "她向我眨了眨眼睛,然后......"
 
 
 
     scene store_1_bl_firstime_11 with tstmgr
 
-    "She took off her dress."
+    "她脱下衣服."
 
 
 
-    "Posia" "That water comes from my pussy, do you get it now? It’s my love juice~"
+    "波西亚""那水是从我的小穴流出来的,你现在明白了吗?这是我的爱情果汁~"
 
 
 
@@ -131,37 +131,37 @@ label store_1_bl_firstime:
 
 
 
-    player "Why am I not even surprised anymore... ..."
+    player "为什么我一点也不惊讶了......"
 
 
 
-    player "Posia... you must be the weirdest fortuneteller on this planet... ..."
+    player "波西亚...你一定是这个星球上最奇怪的算命师了......"
 
 
 
     scene store_1_bl_firstime_12 with tstmgr
 
-    "Posia" "Hah~ thanks for your admiration~"
+    "波西亚""Hah~谢谢你的赞赏~"
 
 
 
     scene store_1_bl_firstime_13 with tstmgr
 
-    "Posia" "Now, the chosen one, how much the magical water do you think you can make me produce with your... ... mighty cock?"
+    "波西亚""现在,被选中的人,你能让我产生多少魔法水......用你的大鸡巴?"
 
 
 
-    player "You mean... I can have sex with you?"
+    player "你的意思是...我可以和你做爱?"
 
 
 
     scene store_1_bl_firstime_14 with tstmgr
 
-    "Posia" "Well, sexual intercourse is the most efficient way to make me wet, so... yeah~"
+    "波西亚""Well,性交是把我弄湿的最有效的方法,所以...yeah~"
 
 
 
-    "Posia" "Put your cock inside me so I can immerse it with my magical water~"
+    "波西亚""把你的鸡巴放在我里面,这样我就可以用我的魔法水浸泡它~"
 
 
 
@@ -169,30 +169,30 @@ label store_1_bl_firstime:
 
 
 
-    player "Ahhhh!!! Whatever!"
+    player "Ahhhh!!!不管了!"
 
 
 
     scene store_1_bl_firstime_15 with tstmgr
     play sound store_1_bl_firstime_15 loop
 
-    "I took off my clothes in less than a second and put her against the wall."
+    "不到一秒钟,我就脱下了衣服,把她按在墙上."
 
 
 
-    "Posia" "Wow, no need to rush~ I’m not going anywhere~"
+    "波西亚""Wow,不用着急,我哪儿也不去~"
 
 
 
-    player "You have teased me with kisses and blowjobs for so long, now finally... ..."
+    player "你用吻和口交来戏弄我太久了,现在终于......"
 
 
 
-    "Posia" "Humph~ humph~ What a childish boy~"
+    "波西亚""Humph~humph~多幼稚的孩子啊~"
 
 
 
-    "Posia" "Ahh... ... wait... ... that’s too deep... ..."
+    "波西亚""Ahh......等等......太深了......"
 
 
 
@@ -203,23 +203,23 @@ label store_1_bl_firstime:
 
 
 
-    "Posia" "Ohh~~~ ohhh~~~ this is~~~ this is bad~~~"
+    "波西亚""Ohh~~~ohhh~~~这~~~这太坏了~~~"
 
 
 
-    "Posia" "A harem master’s cock... ... is so hard to deal with... ..."
+    "波西亚""后宫主人的鸡巴......好硬......"
 
 
 
-    "Posia" "Yes, yes, keep going~~ make me... wetter~~~"
+    "波西亚""Yes,yes,继续~~让我...更湿~~~"
 
 
 
-    "Posia" "Ahhh~~ Uhhhh~~~~ Ohhhh~~~~"
+    "波西亚""Ahhh~~ Uhhhh~~~~ Ohhhh~~~~"
 
 
 
-    player "I'm... cumming... ..."
+    player "我...要射了......"
 
 
 
@@ -229,7 +229,7 @@ label store_1_bl_firstime:
 
     $ flashlight()
 
-    "Posia" "Ohhhhhhhhhhhh!!!!~~~"
+    "波西亚""Ohhhhhhhhhhhh!!!!~~~"
 
 
 
@@ -243,31 +243,31 @@ label store_1_bl_firstime:
 
     scene store_1_bl_firstime_18 with tstmgr
 
-    player "Huhh... ... that was so close. I almost came inside..."
+    player "Huhh......好险.我差点就射进去了..."
 
 
 
-    "Posia" "Wow~ you are so nice, but actually I don’t really mind it~"
+    "波西亚""Wow~你很好,不过我其实并不介意~"
 
 
 
     scene store_1_bl_firstime_19 with tstmgr
 
-    "Posia" "I guess now I have completely figured out how you could have a harem~ You have great performance in sex, and you won’t let your lust take control of you even at the last second before you came."
+    "波西亚""我想现在我已经完全明白你是如何拥有后宫的了——你在性方面表现出色,即使在你射之前的最后一秒,你也不会让你的欲望控制你."
 
 
 
-    "Posia" "A beast with a caring mind~~ Girl’s favorite~"
+    "波西亚""有爱心的野兽~~女孩的最爱~"
 
 
 
-    player "Eh... thanks for saying that, I..."
+    player "Eh...谢谢你这么说,我..."
 
 
 
     scene store_1_bl_firstime_20 with tstmgr
 
-    "Posia" "Don't look at me with those soulful eyes, darling. I have no interest in joining your harem~ You have got my blessing since you absorbed enough of my magical water with your cock, now I need to take a bath and you should leave~"
+    "波西亚""别用深情的眼神看着我,亲爱的.我没有兴趣加入你的后宫~你已经得到我的祝福,因为你的鸡巴吸收了我的魔法水,现在我需要洗个澡,你应该离开了~"
 
 
 
@@ -275,15 +275,15 @@ label store_1_bl_firstime:
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
-    player "See you... the next time... and thank you for... ... eh..."
+    player "下次...见...还有谢谢......eh..."
 
 
 
-    player "Your services..."
+    player "你的服务..."
 
 
 

@@ -2,7 +2,7 @@ label mansion_tutor_afternoon_E_2:
 
     scene d_room_background with tstmgr
 
-    "At the time when I was tutoring Irene, Aunt Elisa quietly opened the door with a crack and looked inside..."
+    "在我给艾琳做辅导的时候,伊莉莎阿姨悄悄地打开了门上的一条缝,往里面看..."
 
 
 
@@ -12,11 +12,11 @@ label mansion_tutor_afternoon_E_2:
 
 
 
-    e "I'll just... watch you from here... quietly."
+    e "我就...在这里看着你...安静地."
 
 
 
-    e "Sigh... ... I wish I could sit on your legs like Irene..."
+    e "唉......我希望我能像艾琳那样坐在你腿上..."
 
 
 
@@ -26,7 +26,7 @@ label mansion_tutor_afternoon_E_2:
 
 
 
-    player "Why does it feel like someone is watching me?"
+    player "为什么感觉好像有人在看着我?"
 
 
 

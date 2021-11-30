@@ -5,37 +5,37 @@ label Special_2:
     scene special_2_1 with tstmgr
     play music happy
 
-    e "Awww... ... The sun is so beautiful today, it’s so sad that Irene couldn’t come with us."
+    e "Awww... ... 今天天气真不错啊, 可惜艾琳不能和我们一起出来."
 
 
 
-    c "There is nothing sad about that. This is just a regular beach walk, mom. We can do this everyday if we want."
+    c "这没什么好可惜的. 这只是一个很普通的海边散步而已, 妈妈. 只要我们想,我们可以每天都来."
 
 
 
     scene special_2_2 with tstmgr
 
-    c "And I’m kinda happy to see she is not here. I can finally get to enjoy a day of peace and quiet~"
+    c "看到她不在这里,我还真有点高兴.因为我终于可以享受平静和安宁的一天了.~"
 
 
 
-    c "By the way... ..."
+    c "顺便说一下... ..."
 
 
 
     scene special_2_3 with tstmgr
 
-    c "Can you move your hand out of my ass? There are so many people here... ..."
+    c "你能把你的手从我的屁股上挪开吗?这里有这么多人... ..."
 
 
 
-    player "What’s the matter? You seem to enjoy~"
+    player "有什么问题?你不是很喜欢吗~"
 
 
 
     scene special_2_4 with tstmgr
 
-    c "Jerk~"
+    c "混蛋~"
 
 
 
@@ -57,75 +57,75 @@ label Special_2:
 
     scene special_2_7 with tstmgr
 
-    player "Hey, Sen, what a coincidence~"
+    player "Hey, 森, 真巧啊~"
 
 
 
     scene special_2_8 with tstmgr
 
-    player "Wait, you can’t be here alone. If you are here, then... ..."
+    player "等等, 你不可能一个人在这里.如果你在这里,那么说... ..."
 
 
 
     scene special_2_9 with tstmgr
 
-    player "*Looking ahead* ... ... ... ..."
+    player "*四处张望* ... ... ... ..."
 
 
 
     scene special_2_10 with tstmgr
 
-    "Lady Minna" "Tut... ... ... ..."
+    "明娜女士" "Tut... ... ... ..."
 
 
 
-    player "Hi there, Lady Minna~"
+    player "嗨!这里, 明娜女士~"
 
 
 
     scene special_2_11 with tstmgr
 
-    e "Huh, what a bad luck... ..."
+    e "哼,真不走运... ..."
 
 
 
     scene special_2_12 with tstmgr
 
-    "Lady Minna" "Aren’t you willing to see me, my favorite 40s lady?"
+    "明娜女士" "你不愿意见到我吗,我最喜欢的40岁女士?"
 
 
 
     scene special_2_11 with tstmgr
 
-    e "You are a crazy woman, I will be infected by your craziness if I talk with you."
+    e "你是个疯女人, 如果我和你说话,我也会变成一个疯子."
 
 
 
     scene special_2_13 with tstmgr
 
-    c "Eh... ... I don’t understand, do they have a beef?"
+    c "Eh... ... 我不清楚, 他们是不是有矛盾?"
 
 
 
     scene special_2_14 with tstmgr
 
-    c "I thought they were friends, at least... superficial ones."
+    c "我以为他们是朋友,至少是......表面上的朋友."
 
 
 
-    player "It confuses me as well... ..."
+    player "这也让我很困惑... ..."
 
 
 
     scene special_2_15 with tstmgr
 
-    player "Do you know anything about it, Sen?"
+    player "森,你知道为什么吗?"
 
 
 
     scene special_2_16 with tstmgr
 
-    b "I... I don’t know what’s going on, either. But... my mom does have a bad temper. She always quarrels with my three other aunts back home."
+    b "我... 我也不知道为什么.但是......我妈妈的脾气确实不好,她总是和我在老家的另外三个姨妈争吵."
 
 
 
@@ -137,7 +137,7 @@ label Special_2:
 
 
 
-    "Lady Minna" "*@&^#&^@*#^&!@^#&*&*@&**"
+    "明娜女士" "*@&^#&^@*#^&!@^#&*&*@&**"
 
 
 
@@ -149,39 +149,39 @@ label Special_2:
 
 
 
-    c "Ah... I thought I can finally get to enjoy a day of peace and quiet~~ They look as childish as Irene... ..."
+    c "Ah... 我以为我终于可以享受安宁和平静的一天了~~ 他们看起来和艾琳一样幼稚... ..."
 
 
 
     scene special_2_14 with tstmgr
 
-    b "What are they fighting about exactly?"
+    b "他们到底在争论什么?"
 
 
 
     scene special_2_18 with tstmgr
 
-    player "Anyone wants to have some cold drink?"
+    player "有谁想要些冷饮?"
 
 
 
     scene special_2_19 with tstmgr
 
-    c "Count me in."
+    c "算我一个."
 
 
 
     scene special_2_20 with tstmgr
 
-    b "Shouldn't we... stop them?"
+    b "我们是不是应该......阻止她们?"
 
 
 
-    player "Nah, they both look scary right now. I don’t think it’s a good idea to interrupt them."
+    player "不, 他们现在看起来都很吓人.我不认为打断她们是个好主意."
 
 
 
-    player "Maybe they will chill down and become friends again when we come back. They are all grown ladies, they know what they are doing."
+    player "或许当我们回来的时候,他们会冷静下来,再次成为朋友.她们都是成年女性,她们清楚自己在做什么."
 
 
 
@@ -201,11 +201,11 @@ label Special_2:
 
 
 
-    "Sometime later, we came back and found that Lady Minna and Elisa were still arguing with each other. We had to drag them away from each other."
+    "不知过了多久,我们回来时发现明娜女士和伊莉莎还在争吵.我们不得不把他们从彼此身边分开."
 
 
 
-    "After that, the daughters took their mothers back to their own places."
+    "之后,女儿们把她们的母亲带回了各自的地方."
 
 
 

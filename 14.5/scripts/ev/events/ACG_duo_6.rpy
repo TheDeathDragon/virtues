@@ -7,9 +7,7 @@ label ACG_duo_6:
 
 
 
-    "Late night, in my room..."
-
-
+    "深夜,在我的房间里..."
 
     scene acg_duo_6_1 with dissolve
     play sound acg_duo_6_1 loop
@@ -17,83 +15,84 @@ label ACG_duo_6:
 
 
 
-    c "This is... the second meeting of the family council."
+
+    c "这是......第二次家庭会议."
 
 
 
-    c "I... I... ohhhhhhh~~~~~"
+    c "我......我......噢噢噢~~~~~"
 
 
 
-    g "Hmmmm... ... Do you need to take a breath, Theo?"
+    g "嗯.......你需要休息一下吗,西奥?"
 
 
 
-    c "I’m... ... fine... ..."
+    c "我............很好......"
 
 
 
-    c "So... eh... ... The topic of tonight is... ..."
+    c "那么......嗯.......今晚的话题是... ..."
 
 
 
-    c "Family... culture~~ Ohhhh~~~~"
+    c "家庭......文化~~哦~~~~~~"
 
 
 
-    a "What do you mean?"
+    a "这是什么意思?"
 
 
 
-    c "Every family... should have its own family culture. It can be as simple as... a little custom or... rules... ..."
+    c "每个家庭...都应该有自己的家庭文化.它可以是简单的......一个小习俗或......规则......"
 
 
 
-    a "Emmmmm... ... Like going picnic once per week?"
+    a "嗯嗯.......比如每周去野餐一次?"
 
 
 
-    c "Yes~~~ Something... like that... ..."
+    c "是的~~~像这样的......"
 
 
 
-    g "Oh oh oh, how about this? We have to crawl like cats when we are home~"
+    g "哦,哦,这个怎么样?我们在家的时候要像猫一样爬行~"
 
 
 
-    c "Are you... nuts?"
+    c "你是......疯子?"
 
 
 
-    a "How about a soccer night every Saturday?"
+    a "每周六的足球之夜怎么样?"
 
 
 
-    g "But I don’t know anything about soccer at all..."
+    g "但我对足球一点都不了解......"
 
 
 
-    a "Oh, I see... ..."
+    a "哦,我明白了......"
 
 
 
-    a "Do you have any idea, Theo?"
+    a "你有什么想法吗,西奥?"
 
 
 
-    c "Can’t you see... ... I am... busy right now?"
+    c "你看不出来吗.......我......现在很忙?"
 
 
 
-    c "I cannot... think... ... His cock... is corrupting my mind~~~~"
+    c "我不能......思考.......他的鸡巴......正在夺取我的....思考能力~~~~"
 
 
 
-    c "I’m... I’m... I’m... ..."
+    c "我... 我...我... 我......我......"
 
 
 
-    c "Cumming!!!~~~~~~~~"
+    c "去了!!!~~~~~~~~"
 
 
     stop sound
@@ -101,29 +100,29 @@ label ACG_duo_6:
     play sound cumshot
     $ flashlight()
 
-    c "OHhhhhhhhhhhhhhhhhh!!~~~~~~~~"
+    c "OHhhhhhhhhhhhhhhhh!!!~~~~~~~~"
 
 
 
-    "Theodora had a great orgasm... ... Ah, I almost came too, it was so close~"
+    "狄奥多拉去了.......啊,我也差点就来了,就差那么一点点~"
 
 
 
     scene acg_duo_6_3 with tstmgr
 
-    a "Theodora was quivering so violently... ..."
+    a "狄奥多拉正剧烈地颤抖着......"
 
 
 
-    g "But master hasn’t came yet, his dick is still so erected."
+    g "但是主人还没有射精呢,他的鸡巴还是那么挺拔."
 
 
 
-    c "Huh... huh... huh... I have... done my best... ..."
+    c "Huh... huh... huh...我已经......尽力了......"
 
 
 
-    a "Don’t worry, I will take care of him now~"
+    a "别担心,我现在会照顾好他的~"
 
 
 
@@ -139,11 +138,11 @@ label ACG_duo_6:
 
 
 
-    a "Awwww~ Now I got [P]’s wet dick... is inside me~~~"
+    a "啊~~现在[P]的湿鸡巴......在我体内~~~"
 
 
 
-    a "Yes~~ huh... ... ohhhh~~ so good~~ [P]~~~"
+    a "是的~~ huh... ... ohhhh~~ 好爽~~[P]~~"
 
 
 
@@ -151,19 +150,19 @@ label ACG_duo_6:
 
 
 
-    g "Can you share your idea now, Theo?"
+    g "你现在能分享你的想法吗,西奥?"
 
 
 
-    c "Actually I don’t have anything good, either. You know, I was from a small family. We don’t really have any specific custom."
+    c "其实我也没有什么好东西.你知道,我来自一个小家庭.我们其实没有什么具体的习俗."
 
 
 
-    c "We have bath together all the time, if that counts, but... ..."
+    c "我们一直在一起洗澡,如果这也算的话,但是......"
 
 
 
-    c "We can’t do that here, the bathroom of this house is just too small for all of us to do that."
+    c "我们没办法在这里这样做,这个房子的浴室太小了."
 
 
 
@@ -171,15 +170,15 @@ label ACG_duo_6:
 
 
 
-    a "[P]~~~ Please don't leave me~~~ both you and your dick, awwwwww~~~~"
+    a "[P]~~~请不要离开我~~~你和你的鸡巴都不要离开我,啊啊啊~~~~"
 
 
 
-    g "Vera is so... dedicatedly... ..."
+    g "薇拉是如此......敬业......"
 
 
 
-    c "Humph~ I thought she was an introverted person, but turned out she is as slutty as us."
+    c "Humph~我还以为她是个内向的人,原来她和我们一样淫荡."
 
 
     stop sound
@@ -191,77 +190,78 @@ label ACG_duo_6:
 
 
 
-    c "Wow... that’s it? I thought you could last longer, Vera~"
+    c "Wow... 就这?我以为你能坚持更长的时间,薇拉~."
 
 
 
     scene acg_duo_6_6 with tstmgr
 
-    a "I... have held... as long as I can... ..."
+    a "我......已经尽可能地坚持......"
 
 
 
-    g "And master still hasn’t came. How remarkable~"
+    g "而主人仍然没有来.多么了不起啊~"
 
 
 
-    c "I think it was because we both lasted for too short a time. Our bodies are getting more and more sensitive... by being trained by his cock everyday."
+    c "我想这是因为我们俩坚持的时间都太短了.我们的身体越来越敏感......每天都被他的鸡巴训练."
 
 
 
     scene acg_duo_6_7 with tstmgr
 
-    g "Yes~ now I could cum as soon as master sticks his mighty dick inside me~"
+    g "是的~现在只要主人把他强大的鸡巴插进我淫荡的身体,就可以射了~"
 
 
 
     scene acg_duo_6_8 with tstmgr
 
-    a "Uno... ... It’s... your turn now... ..."
+    a "乌诺.......现在......轮到你了......"
 
 
 
     scene acg_duo_6_9 with tstmgr
 
-    g "Uh, not today, I’m in my period~"
+    g "呃,今天不行,我在经期~"
 
 
 
     scene acg_duo_6_10 with tstmgr
 
-    a "That’s... unfortunate... ..."
+
+    a "那可真是......不走运......"
 
 
 
-    player "... ... ... ..."
+    player"............"
 
 
 
-    player "It’s not unfortunate at all, come here, Uno~"
+    player "没关系,过来,乌诺~"
 
 
 
     scene acg_duo_6_11 with tstmgr
 
-    g "Aww?"
+    g "啊?"
 
 
 
     scene acg_duo_6_12 with tstmgr
 
-    g "Aye aye, master~"
+    g "Aye aye,主人~"
 
 
 
-    c "Wait, what do you want to do? I won’t allow you to hurt Uno."
+    c "等等,你想做什么?我不允许你伤害乌诺."
 
 
 
-    player "Relax~ how would I ever hurt any of you angels?~ I just want to make Uno have fun too~"
+    player "放心吧~我怎么会伤害你们任何一个天使呢~我只是想让乌诺也玩得开心~"
 
 
 
-    player "No penetration is needed~"
+    player "不需要插进去~"
 
 
 
@@ -277,7 +277,7 @@ label ACG_duo_6:
 
 
 
-    player "I’ll make you enjoy the night like your sisters do, Uno~"
+    player "我会让你像你的姐妹们一样享受夜晚的生活,乌诺~"
 
 
 
@@ -291,43 +291,43 @@ label ACG_duo_6:
 
 
 
-    g "Ma~~~ master~~ "
+    g "主~~~ 主人~~ "
 
 
 
-    g "Master is rubbing my pussy with his mighty penis~ Awww~~ This feels so good~~~"
+    g "主人正在用他强大的鸡巴摩擦我的小穴~~~这感觉真好~~~"
 
 
 
-    c "Humph, that’s why he deserves to be loved by many."
+    c "Humph,这就是为什么他被那么多人喜欢."
 
 
 
-    g "I’m so happy!~~~ Thanks for thinking of me so much~~~"
+    g "我太高兴了!~~~谢谢你这么为我着想~~~"
 
 
 
-    a "Uno looks so enjoying... ..."
+    a "乌诺看起来很享受......"
 
 
 
-    a "Awww... ... I want to be treated like this too~"
+    a "Awww... ...我也想得到这样的待遇~"
 
 
 
-    c "Humph~ I still prefer to get that cock in my pussy directly~"
+    c "哼~我还是喜欢让那根鸡巴直接插进我的小穴~"
 
 
 
-    g "Master is... making me the happiest sex slave in the world!~~~~"
+    g "主人是......让我成为世界上最幸福的性奴!~~~~"
 
 
 
-    g "I’m cumming!!~~~"
+    g "我要去了!~~~"
 
 
 
-    player "Me... too... ..."
+    player "我......也是......"
 
 
 
@@ -339,33 +339,33 @@ label ACG_duo_6:
 
 
 
-    "Uno and I orgasmed at the same time."
+    "我和乌诺同时达到了高潮."
 
 
 
     scene acg_duo_6_16 with tstmgr
 
-    g "Ah~ master... ... finally came... ..."
+    g "Ah~ 主人... ... 终于去了... ..."
 
 
 
-    a "Good job, Uno!"
+    a "干得漂亮,乌诺!"
 
 
 
     scene acg_duo_6_17 with tstmgr
 
-    c "But we still haven’t come up with a result. Does anyone have more idea about the family custom thing?"
+    c "但我们还是没有得出结果.有谁对家庭习俗的事情有更多的想法吗?"
 
 
 
     scene acg_duo_6_18 with tstmgr
 
-    g "How about... ... a special goodbye kiss that only he would do to us... ..."
+    g "emmmm......一个特别的告别之吻,只有他才会对我们做......"
 
 
 
-    g "A kiss... not on our lips, but on our nipples~"
+    g "一个吻......不是吻我们的嘴唇,而是吻我们的乳头~"
 
 
 
@@ -375,17 +375,17 @@ label ACG_duo_6:
 
 
 
-    g "We are all... master’s titty slaves, right?"
+    g "我们都是......主人的奶子奴隶,对吗?"
 
 
 
-    c "Hmmmmm... ... That’s really perverted, but I kinda like it~"
+    c "Hmmmmm... ...这真的很变态,但我有点喜欢它~"
 
 
 
     scene acg_duo_6_20 with tstmgr
 
-    a "Uno~ You are so smart!~"
+    a "乌诺~你真聪明~"
 
 
 
@@ -399,17 +399,17 @@ label ACG_duo_6:
 
     scene acg_duo_6_21 with tstmgr
 
-    c "So it’s decided, from now on we will have our own family custom, the goodbye kiss on nipples!"
+    c "所以决定,从现在开始,我们将有自己的家庭习俗,告别时亲吻乳头!"
 
 
 
-    c "The second meeting of the family council ends perfectly!"
+    c "第二次家庭会议完美结束!"
 
 
 
     scene acg_duo_6_22 with tstmgr
 
-    "Vera&Uno" "Yeah!"
+    "薇拉和乌诺" "Yeah!"
 
 
 
@@ -417,7 +417,7 @@ label ACG_duo_6:
 
 
 
-    "A special gyoodbye kiss, huh~ Not bad~"
+    "一个特别的告别之吻,huh~不错啊~"
 
 
 

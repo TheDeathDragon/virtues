@@ -4,11 +4,11 @@ label harem_DG_2:
 
     scene harem_dg_2_1 with tstmgr
 
-    g "Meow! Get away from me!"
+    g "Meow!离我远一点!"
 
 
 
-    d "Meow meow meow~~ No way! I'm going to stay on your cute plump soft body for the whole day!"
+    d "Meowmeowmeow~~没门!我要在你可爱丰满柔软的身体上待一整天!"
 
 
 
@@ -16,13 +16,13 @@ label harem_DG_2:
 
 
 
-    "The two kitties are having a good time together and didn't even notice me..."
+    "这两只小猫在一起玩得很开心,甚至没有注意到我..."
 
 
 
     scene harem_dg_2_2 with tstmgr
 
-    g "You are so annoying! I'm going to tell the master that you are bullying me~"
+    g "你真烦人!我要去告诉主人你在欺负我~"
 
 
 
@@ -32,37 +32,37 @@ label harem_DG_2:
 
     scene harem_dg_2_3 with tstmgr
 
-    d "*Sucking nipple* Yummmmmmm... ..."
+    d "*吸吮乳头*Yummmmmmm......"
 
 
 
-    g "Awwwwwwww~~~~ Irene~~~~"
+    g "Awwwwwwww~~~~艾琳~~~~"
 
 
 
     scene harem_dg_2_4 with tstmgr
 
-    g "Hmmmmmm? Master? Help~ help me~~"
+    g "Hmmmmmm?主人?救命~救救我~~"
 
 
 
     scene harem_dg_2_5 with tstmgr
 
-    d "Master? Do you want to have a bite on Uno's nipple too?"
+    d "主人?你也想咬一下乌诺的乳头吗?"
 
 
 
-    player "Ehhhh... I... ... ... ..."
+    player "Ehhhh...我............"
 
 
 
-    player "Yeah, I'd like to do that~"
+    player "Yeah,我也想这样做~"
 
 
 
     scene harem_dg_2_6 with tstmgr
 
-    g "Yaaaahhhhhhhhhh~~~~ Master is bullying me too~~~~"
+    g "Yaaaahhhhhhhhhh~~~~主人也在欺负我~~~~"
 
 
 

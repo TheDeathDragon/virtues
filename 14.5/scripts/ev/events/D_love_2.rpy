@@ -3,95 +3,95 @@ label D_love_2:
     scene map_day with tstmgr
     play music happy
 
-    narrator "Time to find Irene for another tutoring lesson."
+    narrator "是时候找艾琳上另一节补习课了."
 
     scene e_mansion_inside_normal2 with tstmgr
 
-    e "Good afternoon, [P]."
+    e "下午好,[P]."
 
-    player "Good afternoon, Aunt Elisa. Is Irene home yet?"
+    player "下午好,伊莉莎阿姨.艾琳回来了吗?"
 
     scene e_mansion_inside_frown with tstmgr
 
     e "... ... ... ..."
 
-    e "Unfortunately, [P], today's tutoring may have to cancel."
+    e "不幸地是,[P],今天的辅导可能要取消了."
 
-    player "What happened?"
+    player "发生什么事了?"
 
-    e "I just received a call from Irene's teacher. She said that Irene sprained her ankle at school earlier today and now she is at the infirmary of her school."
+    e "我刚接到艾琳老师的电话.她说艾琳今天早些时候在学校扭伤了脚踝,现在她在学校的医务室."
 
-    player "Oh no, is it serious?"
+    player "哦,不,严重吗?"
 
-    e "I don't think so, they should have sent her to a hospital if it is serious. "
+    e "应该不,如果严重的话,他们应该就送她去医院了."
 
-    player "(Reliving) Thank God..."
+    player "(松一口气)谢天谢地..."
 
     scene e_mansion_inside_smile with tstmgr
 
     e "... ... ... ..."
 
-    e "It's glad to see that you care about her."
+    e "很高兴看到你关心她."
 
-    player "Yeah... I mean... She is like a little sister to me..."
+    player "Yeah...我的意思是...她就像我的小妹妹..."
 
-    e "So could you please bring her home for me? I'm about to have a video conference in 5 minutes, can't get away."
+    e "你能帮我把她带回家吗?5分钟后我要开个视频会议,我现在没空."
 
-    player "Eh... Sure, I'm happy to do that."
+    player "Eh...当然,我很乐意这么做."
 
     scene e_mansion_inside_laugh with tstmgr
 
-    e "Thank you so much, [P]. You can drive my car, the key is in the garage."
+    e "非常感谢你,[P].你可以开我的车,钥匙在车库里."
 
-    player "No big deal, Aunt Elisa. I will go check her out and bring her home in no time."
+    player "这没什么,伊莉莎阿姨.我马上去看看她,然后把她带回家."
 
     scene void with tstmgr
 
-    narrator "I then left the mansion and headed to Irene's high school."
+    narrator "然后我离开了公寓,去了艾琳的高中."
 
     narrator "... ... ... ..."
 
-    narrator "20 minutes later, at the infirmary of Irene's high school."
+    narrator "20分钟后,在艾琳高中的医务室."
 
     scene d_love2_1 with tstmgr
 
-    player "Irene! Are you alright?"
+    player "艾琳!你还好吗?"
 
     scene d_love2_2 with tstmgr
 
-    d "[P]? I didn't expect you to be here. Where is my mom? She didn't come with you?"
+    d "[P]?我没想到你会来.我妈妈在哪?她没有和你一起来吗?"
 
-    player "She is kinda busy right now. So, eh, what happened to you? I heard that you sprained your ankle."
+    player "她现在有点忙.你怎么了?我听说你扭伤了脚踝."
 
     scene d_love2_3 with tstmgr
 
-    d "Nothing serious. It's just an accident."
+    d "没有那么严重.这只是个意外."
 
-    narrator "I moved my sight down and tried to check her wound. "
+    narrator "我把视线向下移动,试图检查她的伤口."
 
     scene d_love2_4 with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "What a pair of legs..."
+    narrator "多棒的腿啊..."
 
-    narrator "Is she allowed to keep her stockings on when she has a sprained ankle? I don't know..."
+    narrator "她扭伤了脚踝还能她穿长袜吗?我不知道..."
 
     scene d_love2_5 with tstmgr
 
-    d "What are you looking at?"
+    d "你在看什么?"
 
-    player "Eh... Well... just checking your ankle, nothing else."
+    player "Eh...Well...只是检查一下你的脚踝,没别的."
 
-    d "Really?"
+    d "真的?"
 
-    player "Yes, of course. I mean, what else can it be?"
+    player "是的,不然呢?"
 
-    player "By the way, where is the nurse? I didn't see anyone in this infirmary."
+    player "顺便问一下,护士在哪儿?我在医务室没看到任何人."
 
     scene d_love2_3 with tstmgr
 
-    d "She went to the warehouse to find me a walking stick. "
+    d "她去仓库给我找拐杖去了."
 
     player "Oh, okay..."
 
@@ -99,51 +99,51 @@ label D_love_2:
 
     scene d_love2_5 with tstmgr
 
-    d "Let's not wait for her. I want to go home right now."
+    d "我们别等她了.我现在就想回家."
 
-    player "But... how are you able to move yourself if you don't get that walking stick?"
+    player "但是...如果你没有那根拐杖,你怎么走路?"
 
     scene d_love2_2 with tstmgr
 
-    d "You can carry me on your back, just like what you always did when we were little."
+    d "你可以把我背在背上,就像我们小时候你经常做的那样."
 
-    player "But... we have grown up..."
+    player "但是...我们长大了..."
 
     scene d_love2_3 with tstmgr
 
-    d "Are you saying that I'm heavier than before?"
+    d "你是说我比以前重了吗?"
 
-    player "What? No, but..."
+    player "什么?不不,但是..."
 
     scene d_love2_2 with tstmgr
 
     player "... ... ... ..."
 
-    player "Fine, I'll carry you. Come here."
+    player "好吧,我背你.来."
 
     scene d_love2_6 with tstmgr
 
-    narrator "I carefully put her on my back. Well, to be honest, I am quite happy to do this."
+    narrator "我小心翼翼地把她背在背上.嗯,说实话,我很乐意这么做."
 
-    narrator "She is petite like a little animal. I didn't feel any weight on my shoulder. Her lovely breasts were pressing my back. Ah, how wonderful."
+    narrator "她像小动物一样娇小.我没有感到肩上有任何重量.她可爱的乳房压着我的背.啊,多么美妙."
 
-    narrator "Her soft skin was covered by that silky white stockings, and it feels so great to grasp it in my hands."
+    narrator "她柔软的皮肤被丝质的白色长袜覆盖着,用我的手握住它的感觉太棒了."
 
     scene d_love2_7 with tstmgr
 
-    narrator "I can feel her breathing near my ears and smell her body scent. Her scent is like milk, it's fragrant and sweet."
+    narrator "我能感觉到她在我耳边的呼吸,我闻到她身上的气味.像牛奶一样,又香又甜."
 
-    d "You are such a reliable big brother, [P]."
+    d "你真是个可靠的大哥哥,[P]."
 
-    d "Have you ever carried anyone else on your back?"
+    d "你曾经背过别人吗?"
 
     scene d_love2_8 with tstmgr
 
-    player "Well, that would be many. Let's see... Mary, Lucy, Felicia, Tomoko, Giovanna..."
+    player "Well,可能背过很多.我让想一想...玛丽,露西,费利西亚,托梅科,乔凡娜..."
 
-    d "What... How could you..."
+    d "什么...你怎么能..."
 
-    player "Nah, I'm just kidding. You are the only one that I have ever carried in my life."
+    player "Nah,我只是在开玩笑.这是我第一次背别人."
 
     scene d_love2_9 with tstmgr
 
@@ -151,57 +151,57 @@ label D_love_2:
 
     scene d_love2_10 with tstmgr
 
-    d "(Licking) ... ... ... ..."
+    d "(舔)............"
 
-    player "What are you doing?..."
+    player "你在干什么?..."
 
-    narrator "She suddenly put her tongue out and started to lick my face. "
+    narrator "她突然伸出舌头,开始舔我的脸."
 
     scene d_love2_11 with tstmgr
 
-    narrator "This is... weird. I never get licked by girls like this before. It feels like... I am being licked by a pet puppy right now."
+    narrator "这有点...奇怪.我从来没有被这样的女孩舔过.感觉...我现在正被一只宠物小狗舔着."
 
-    player "Why... are you doing this...?"
+    player "为什么...你...?"
 
-    narrator "Irene didn't answer. She just kept licking my skin and sometimes with a soft moan. "
+    narrator "艾琳没有回答.她只是不停地舔我的皮肤,有时还轻轻地呻吟一声."
 
-    narrator "Ah shit, I'm about to lose myself if she keeps doing this for another few seconds..."
+    narrator "哇操,如果她再这样做几秒钟,我就要疯了..."
 
     scene d_love2_12 with tstmgr
 
-    narrator "And she suddenly stopped."
+    narrator "她突然停了下来."
 
-    d "Now you have my scent on your skin."
+    d "现在你的皮肤上有我的味道了."
 
-    player "Ehh... what does that suppose to mean?"
+    player "Ehh...这意味着什么?"
 
-    d " It means that you have become my exclusive carrier, no one else can get on your back again."
+    d "这意味着你只能背我了,不能再背别人了."
 
-    player "What are you? A dog that leaves marks on its territory?"
+    player "你是什么?在自己的领地上留下标记的小狗吗?"
 
-    d "I'm just your little sister, o ~ nii ~ chan ~..."
+    d "我只是你的小妹妹,o~nii~chan~(腹黑妹妹控兄记)..."
 
-    narrator "Now my heart beats as fast as hell by hearing her last word. Deep down in my heart, there is a beast that wants to throw this puppy on the bed immediately and fuck her till night."
+    narrator "听到她说完最后一句话,我的心跳急速加快.在我的内心深处,有一个野兽想要把这只小狗马上扔到床上,和她做爱直到晚上."
 
-    narrator "But... ..."
+    narrator "但是......"
 
-    narrator "Calm... the fuck, down, [P]. You can't be defeated by a young girl's tongue and whisper. You are better than this."
+    narrator "冷静...他妈的,[P].你不可能被一个年轻女孩的舌头和耳语打败.顶住."
 
     player "... ... ... ..."
 
-    player "I'm... Let's... "
+    player "我...我们走吧..."
 
-    player "Let me take you home now. "
+    player "让我带你回家吧."
 
     d "... ... ... ..."
 
-    d "Sure..."
+    d "当然..."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I then took Irene back to Aunt Elisa, and joined them for dinner in the evening..."
+    narrator "然后我把艾琳带回伊莉莎阿姨那里,晚上和她们一起吃了晚饭..."
 
     narrator "... .... .. ..."
 

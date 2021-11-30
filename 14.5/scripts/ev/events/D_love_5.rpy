@@ -3,19 +3,19 @@ label D_love_5:
     scene void with tstmgr
     play music happy
 
-    "The next morning..."
+    "第二天早上..."
 
 
 
-    "*Knock, knock, knock*"
+    "*咚咚咚*"
 
 
 
-    a "Coming right now..."
+    a "来了..."
 
 
 
-    "Vera opened the front door of the house."
+    "薇拉打开房子的前门."
 
 
 
@@ -27,73 +27,73 @@ label D_love_5:
 
     scene d_love_5_26 with tstmgr
 
-    a "Emm? A little girl?"
+    a "Emm?一个小女孩?"
 
 
 
-    d "I’m not a little girl. I am 18 already."
+    d "我不是小女孩.我已经18岁了."
 
 
 
-    a "Oh, sorry..."
+    a "Oh,抱歉..."
 
 
 
     scene d_love_5_2 with tstmgr
 
-    d "It doesn’t matter. Does [P] live in here?"
+    d "没关系.[P]住在这吗?"
 
 
 
     scene d_love_5_26 with tstmgr
 
-    a "Yeah, he is in the... ... Wait, I don’t even know your name."
+    a "Yeah,他在......等等,我还不知道你叫什么."
 
 
 
     scene d_love_5_1 with tstmgr
 
-    d "You can call me Irene! I knew [P] since I was 3."
+    d "你可以叫我艾琳!我三岁时就认识[P]了."
 
 
 
     scene d_love_5_27 with tstmgr
 
-    a "Hi, Irene. I am Vera, [P]'s assistant."
+    a "Hi,艾琳.我是薇拉,[P]的助手."
 
 
 
     scene d_love_5_3 with tstmgr
 
-    d "Nice to see you! You are so beautiful!"
+    d "很高兴见到你!你真漂亮!"
 
 
 
     scene d_love_5_28 with tstmgr
 
-    a "Oh... ehh... thanks... ..."
+    a "Oh...ehh...谢谢......"
 
 
 
     scene d_love_5_29 with tstmgr
 
-    player "Hmm? Irene? Why are you here?"
+    player "Hmm?艾琳?你怎么在这里?"
 
 
 
     scene d_love_5_2 with tstmgr
 
-    d "Wow, [P]! You really live here!"
+    d "Wow,[P]!你真的住在这里!"
 
 
 
-    d "I just got your address from Theo yesterday, so I decided to come here and check if it is really your home."
+    d "我昨天刚从狄奥那里得到你的地址,所以我决定来这里看看这是不是你的家."
 
 
 
     scene d_love_5_29 with tstmgr
 
-    player "Okay, but... aren’t you supposed to be on the way to school? Right now you are at the opposite end of the city."
+    player "Okay,但是...你不是应该在去学校的路上吗?现在你应该在城市的另一端."
 
 
 
@@ -109,13 +109,13 @@ label D_love_5:
 
     scene d_love_5_30 with tstmgr
 
-    player "Alright, I’ll walk you to school. Let’s go."
+    player "好了,我送你去学校.我们走吧."
 
 
 
     scene d_love_5_2 with tstmgr
 
-    d "Really? You are the best, [P]!"
+    d "真的吗?你最好了,[P]!"
 
 
 
@@ -125,21 +125,21 @@ label D_love_5:
 
 
 
-    "Some time later, on the way to Irene’s highschool."
+    "一段时间后,在去艾琳高中的路上."
 
 
 
     scene d_love_5_5 with tstmgr
 
-    d "School is boring... ... I don’t want to be there... ..."
+    d "学校很无聊...我不想去那里......"
 
 
 
-    player "Yeah, yeah, I understand how you feel."
+    player "Yeah,yeah,我理解你的感受."
 
 
 
-    player "But things will be better once you get into college."
+    player "但是一旦你上了大学,一切都会好起来的."
 
 
 
@@ -149,13 +149,13 @@ label D_love_5:
 
     scene d_love_5_6 with tstmgr
 
-    d "That doesn’t help... ..."
+    d "一点也不管用......"
 
 
 
     scene d_love_5_7 with tstmgr
 
-    d "Oh, wait, I want to show you something!"
+    d "Oh,等等,我想给你看些东西!"
 
 
 
@@ -165,47 +165,47 @@ label D_love_5:
 
     scene d_love_5_9 with tstmgr
 
-    d "Dah-dah! Neko ear!"
+    d "Dah-dah!猫耳朵!"
 
 
 
     scene d_love_5_10 with tstmgr
 
-    d "Meow~~~~"
+    d "喵呜~~~~"
 
 
 
-    "Shit... That’s so damn cute."
+    "Shit...这太他妈可爱了."
 
 
 
     scene d_love_5_11 with tstmgr
 
-    d "Meow~~ Meow~~~ Meow~~~~"
+    d "喵呜~~喵呜~~~喵呜~~~~"
 
 
 
-    "I think I’m going to have a heart attack..."
+    "我想我要心脏病发作了..."
 
 
 
     scene d_love_5_8 with tstmgr
 
-    d "Wow, you are dumbfounded like a blockhead. You must really like me wearing this!~"
+    d "Wow,你像个傻瓜一样目瞪口呆.你一定很喜欢我戴这个!~"
 
 
 
-    d "Uno was right. No man can ever resist a neko girl!"
+    d "乌诺是正确的.没有男人能抗拒一个猫女孩!"
 
 
 
     scene d_love_5_12 with tstmgr
 
-    d "Do you want to carry me in your arms, master?"
+    d "你想抱着我吗,主人?"
 
 
 
-    "Her voice was so seductive like Siren’s song. I think she can definitely manipulate every man on earth with that voice and those cat ears..."
+    "她的声音像塞壬(希腊神话中用声音诱惑人的海妖)的歌声一样诱人.我认为她绝对可以用她的声音和猫耳朵操纵地球上的每一个男人..."
 
 
 
@@ -217,31 +217,31 @@ label D_love_5:
 
     scene d_love_5_13 with tstmgr
 
-    d "(Slightly surprised) Wow... ..."
+    d "(有点惊讶)Wow......"
 
 
 
-    "She is so light. I feel like I am carrying an actual cat in my arms."
+    "她是如此的轻.我感觉我怀里抱着一只真正的猫."
 
 
 
     scene d_love_5_14 with tstmgr
 
-    d "This feels so good! I’m like a princess! Yeah~~~"
+    d "感觉真好!我就像个公主!Yeah~~~"
 
 
 
-    player "Princesses don’t have cat ears."
+    player "公主没有猫耳朵."
 
 
 
-    d "Hmmm... ... cat princesses?"
+    d "Hmmm......猫公主?"
 
 
 
     scene d_love_5_15 with tstmgr
 
-    d "Anyway, your princess orders you to keep carrying her until she reaches school!~"
+    d "不管怎样,你的公主命令你一直抱着她,直到她到达学校!~"
 
 
 
@@ -249,7 +249,7 @@ label D_love_5:
 
 
 
-    player "Roger that."
+    player "收到."
 
 
 
@@ -259,17 +259,17 @@ label D_love_5:
 
 
 
-    "Some time later, we arrived at Irene’s highschool."
+    "过了一段时间,我们来到了艾琳的高中."
 
 
 
     scene d_love_5_16 with tstmgr
 
-    d "Thank you for taking me here, [P]."
+    d "谢谢你送我,[P]."
 
 
 
-    player "You are welcome. See you after school."
+    player "不客气.放学后见."
 
 
 
@@ -277,117 +277,117 @@ label D_love_5:
 
 
 
-    "She didn’t leave."
+    "她没有离开."
 
 
 
-    player "Anything else?"
+    player "怎么了?"
 
 
 
     scene d_love_5_17 with tstmgr
 
-    d "Can I get a goodbye kiss?"
+    d "我能得到一个吻别吗?"
 
 
 
-    "She suddenly got close to me and press her little body on my chest."
+    "她突然靠近我,把她的小身体压在我的胸口上."
 
 
 
-    "A goodbye... kiss?"
+    "一个吻...别?"
 
 
 
-    "O... okay... I guess. So... ..."
+    "O...okay...我想可以吧.那么......"
 
 
 
     label D_love_5_choice_1:
 
     menu:
-        "Kiss her forehead":
+        "吻她的额头":
 
 
             scene d_love_5_18 with tstmgr
 
-            "So be it... ..."
+            "那么......"
 
             scene d_love_5_31 with tstmgr
 
             d "Awwww... ... ... ..."
 
-            "Student A" "Wait, is that Shinyrost from 12th grade?"
+            "学生A""等等,那是12年级的新光(艾琳家的姓)吗?"
 
-            "Student B" "No fucking way... Who the hell is that old man?"
+            "学生B""不会吧...那老头是谁?"
 
-            "Old man? That hurts. I’m only 21 for God’s sake. Damn these millennials."
+            "老头吗?这真伤我的心.看在上帝的份上,我才21岁.这些该死的千禧一代."
 
-            "But... well, I’m quite enjoying feeling those envious eyesights coming from the teenage boys."
+            "但是...well,我很喜欢那些十几岁男孩羡慕的眼神."
 
-            player "Alright, now go, take care."
+            player "好了,走吧,路上小心."
 
             scene d_love_5_21 with tstmgr
 
-            d "Humph... why didn’t you aim for my lips?"
+            d "Humph...你为什么不亲我的嘴唇?"
 
-            player "I... ... ... ..."
+            player "我............"
 
             scene d_love_5_23 with tstmgr
 
-            d "Nevermind. Bye bye!~"
+            d "算了.拜拜!~"
 
             scene void with tstmgr
 
-            "She turned around and left for school."
+            "她转身去学校了."
 
             player "... ... ... ..."
-        "Kiss her mouth":
+        "吻她的嘴":
 
 
 
 
-            "So be it... ..."
+            "那么......"
 
             scene d_love_5_19 with tstmgr
 
             d "Wummmm... ... ... ..."
 
-            "Wait... I was aiming for her forehead, but why I got her lips instead?"
+            "等下...我的目标是她的额头,但为什么我亲到了她的嘴唇?"
 
-            "Ahhhh... forget it. She didn’t reject me anyway. I’m just going to enjoy this moment."
+            "Ahhhh...不管了.反正她也没有拒绝我.我只想享受这一刻."
 
-            d "(Moaning with pleasure) Uah... Uahmmmm... ... ... ..."
+            d "(愉快地呻吟)Uah...Uahmmmm............"
 
             scene d_love_5_20 with tstmgr
 
-            player "Irene... ..."
+            player "艾琳......"
 
-            "Student A" "Wait, is that Shinyrost from 12th grade?"
+            "学生A""等等,那是12年级的新光(艾琳家的姓)吗?"
 
-            "Student B" "No fucking way... Who the hell is that old man?"
+            "学生B""不会吧...那老头是谁?"
 
-            "Old man? That hurts. I’m only 21 for God’s sake. Damn these millennials."
+            "老头吗?这真伤我的心.看在上帝的份上,我才21岁.这些该死的千禧一代."
 
-            "But... well, I’m quite enjoying feeling those envious eyesights coming from the teenage boys."
+            "但是...well,我很喜欢那些十几岁男孩羡慕的眼神."
 
             scene d_love_5_22 with tstmgr
 
-            d "Am I a good kisser?"
+            d "我是个接吻高手吗?"
 
-            d "I practiced a lot with my pillow."
+            d "我经常用枕头练习."
 
-            player "It was... wonderful."
+            player "这很...美妙."
 
             scene d_love_5_23 with tstmgr
 
-            d "We can try again at your tutoring class..."
+            d "我们可以在你的辅导课上再试一次..."
 
-            d "Bye bye!~"
+            d "拜拜!~"
 
             scene void with tstmgr
 
-            "She turned around and left for school."
+            "她转身去学校了."
 
             player "... ... ... ..."
 

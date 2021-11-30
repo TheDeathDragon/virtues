@@ -3,47 +3,47 @@ label C_love_5:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, in Theodora’s office."
+    "下午,在狄奥多拉的办公室."
 
 
 
     scene c_love_5_1 with tstmgr
 
-    c "Uh... ... you are getting better at this every day."
+    c "Uh......你每天都在进步."
 
 
 
-    c "Have you ever thought of being a professional masseur?"
+    c "你有没有想过成为一名专业的按摩师?"
 
 
 
-    player "Nope, why should I?"
+    player "不,我为什么要这么做?"
 
 
 
     scene c_love_5_2 with tstmgr
 
-    "She tilted her head back and looked at me in the face with her trademark fake smile."
+    "她仰起头,用她招牌式的假笑看着我的脸."
 
 
 
-    c "I thought you love to touch a woman body."
+    c "我以为你喜欢摸女人的身体."
 
 
 
-    player "Well, I won’t admit that. I’m a man of virtue."
+    player "Well,我不会承认的.我是个有美德的人."
 
 
 
-    c "Uh-huh, how do you explain that night in my mother’s house?"
+    c "Uh-huh,你怎么解释那天晚上在我妈妈家的事?"
 
 
 
-    player "Oh... About that... ..."
+    player "Oh...关于那个......"
 
 
 
-    c "And you always try to move your hands down to my breasts during massaging. Don’t you think I haven’t noticed?"
+    c "你总是在按摩的时候把你的手移到我的胸上.你以为我没注意到吗?"
 
 
 
@@ -51,27 +51,27 @@ label C_love_5:
 
 
 
-    c "You don’t even have anything to say to defend yourself?"
+    c "你连为自己辩护的话都没有吗?"
 
 
 
-    player "I... ..."
+    player "我......"
 
 
 
     scene c_love_5_3 with tstmgr
 
-    "Shit, I was totally stunned by her upturned face and milky neck. She looks so damn sexy from this angle."
+    "Shit,我被她仰起的脸和乳白色的脖子完全惊呆了.从这个角度看,她真他妈的性感."
 
 
 
-    "The only thing in my head right now is the urge of bending down and feeling the softness of her mouth... ..."
+    "现在我脑子里唯一想的就是弯下身去感受她柔软的嘴......"
 
 
 
     scene c_love_5_4 with tstmgr
 
-    "I gently took her head in my hands. It is something that happened unconsciously. I didn’t really know what I was thinking."
+    "我轻轻地把她的头捧在手里.这是无意识做的.我真的不知道自己在想什么."
 
 
 
@@ -81,23 +81,23 @@ label C_love_5:
 
     scene c_love_5_5 with tstmgr
 
-    c "Wait, are you trying to kiss me?"
+    c "等等,你想亲我吗?"
 
 
 
     scene c_love_5_6 with tstmgr
 
-    player "I... what? No, I would never... ..."
+    player "我...什么?不,我永远不会......"
 
 
 
-    "I released her head in a flurry."
+    "我慌乱中松开了她的头."
 
 
 
     scene c_love_5_7 with tstmgr
 
-    c "Yeah, yeah, whatever. Little virgin."
+    c "Yeah,yeah,随你怎么说.小处男."
 
 
 
@@ -105,39 +105,39 @@ label C_love_5:
 
 
 
-    player "(Damn, I really hate to be called like that.)"
+    player "(Damn,我真的很讨厌别人这样叫我.)"
 
 
 
     scene day2_c4 with flashback
 
-    c "You really should take a look at your face, little virgin. You are pathetic."
+    c "你真该看看你的脸,小处男.你真可怜."
 
 
 
     scene c_daily6_10 with flashback
 
-    c "Don’t take it too serious, little virgin."
+    c "别太认真了,小处男."
 
 
 
     scene c_love_5_7 with flashback
 
-    player "(I have to let her know it is a mistake to belittle me.)"
+    player "(我必须让她知道,轻视我是个错误.)"
 
 
 
-    player "(She always acts like everything is in her control, but now she is totally defenseless to me...)"
+    player "(她总是表现得好像一切都在她的掌控之下,但现在她对我毫无防备...)"
 
 
 
-    player "(All I need to do is... ...)"
+    player "(我只需要......)"
 
 
 
     scene c_love_5_8 with tstmgr
 
-    c "Wait, what do you think you are doing?"
+    c "等等,你以为你在干什么?"
 
 
 
@@ -147,7 +147,7 @@ label C_love_5:
 
 
 
-    "I forced my tongue down her throat and felt the wonderful moisture of her mouth."
+    "我强制性的把舌头伸进她的嘴里,感受着那美妙的湿热."
 
 
 
@@ -157,15 +157,15 @@ label C_love_5:
 
     scene c_love_5_11 with tstmgr
 
-    c "I... I will let you pay for this... ..."
+    c "我...我会让你为此付出代价的......"
 
 
 
-    "To my surprise, she seemed like an inexperienced kisser. Her tongue moved stiffly and she didn’t know how to control her teeth appropriately, either."
+    "令我惊讶的是,她似乎没有接吻的经验.她的舌头僵硬地动着,她也不知道如何适当地控制她的牙齿."
 
 
 
-    "But overall, it was an amazing deep kiss."
+    "但总的来说,这是一个美妙的深吻."
 
 
 
@@ -173,17 +173,17 @@ label C_love_5:
 
 
 
-    player "You... don’t kiss much, right?"
+    player "你...不常接吻,对吧?"
 
 
 
     scene c_love_5_12 with tstmgr
 
-    c "I... ..."
+    c "我......"
 
 
 
-    player "Yeah, you once told me that you never fell in love with anyone before. So... I guess it is reasonable that you didn’t have many intimate experiences with others."
+    player "Yeah,你曾经告诉我,你从来没有爱上过任何人.所以...我想这是合理的,你没有很多与别人亲密接触的经验."
 
 
 
@@ -191,19 +191,19 @@ label C_love_5:
 
 
 
-    "Suddenly, another question came into my mind."
+    "突然,我又想到了一个问题."
 
 
 
-    player "Have you... ..."
+    player "你......"
 
 
 
-    player "Have you ever had sex with a man before?"
+    player "你以前和男人发生过性关系吗?"
 
 
 
-    "She was first surprised at my question, but soon returned to normal again."
+    "她起初对我的问题感到惊讶,但很快又恢复了正常."
 
 
 
@@ -221,37 +221,37 @@ label C_love_5:
 
     scene c_love_5_13 with flashback
 
-    c "You don’t remember, do you?"
+    c "你不记得了,是吗?"
 
 
 
-    "Her voice is mixed with sorrow and a bit of irony. However, I couldn’t understand what she means."
+    "她的声音中夹杂着悲伤和一点讽刺.然而,我不明白她是什么意思."
 
 
 
-    player "What are you talking about?"
+    player "你在说什么?"
 
 
 
-    c "Nothing."
+    c "没什么."
 
 
 
-    "*More of that plot will be included in the Extra Chapter II releasing in April.*"
+    "*更多的情节将包含在4月份发布的外传Ⅱ中.*"
 
 
 
     scene c_love_5_15 with tstmgr
 
-    c "And as for your question, I only had one night of sex experience before."
+    c "至于你的问题,我之前只有一晚的性经验."
 
 
 
-    c "I was fucked by a despicable jerk when I was in highschool. That’s it."
+    c "我上高中的时候被一个卑鄙的混蛋操了.就是这样."
 
 
 
-    player "What???!!!... ..."
+    player "什么???!!!......"
 
 
 
@@ -259,15 +259,15 @@ label C_love_5:
 
 
 
-    "I don’t know what I should say. This girl, this frigid girl who never fell in love before, just admitted with understatement that she was once fucked by a ‘despicable jerk’. Man, I felt so damn terrible."
+    "我不知道该说什么.这个女孩,这个从来没有谈过恋爱的高冷女孩,只是轻描淡写地说出她曾经被一个“卑鄙的混蛋”操过.伙计,我感觉糟透了."
 
 
 
-    c "Huh? What’s wrong?"
+    c "Huh?怎么了?"
 
 
 
-    c "Wait, are you feeling uncomfortable for me?"
+    c "等等,你为我感到不舒服吗?"
 
 
 
@@ -281,35 +281,35 @@ label C_love_5:
 
 
 
-    player "... ... who was that guy?"
+    player "......那家伙是谁?"
 
 
 
-    c "It was... ... ... ..."
+    c "是............"
 
 
 
     scene c_love_5_15 with tstmgr
 
-    c "Wait a minute, why do you care? You are acting like a naive teenager who just got dumped by his first crush."
+    c "等一下,你为什么关心这个?你表现得像一个刚被初恋对象抛弃的天真的少年."
 
 
 
     scene c_love_5_17 with tstmgr
 
-    c "Grow up, little virgin."
+    c "长大点,小处男."
 
 
 
-    player "Stop... calling me that!"
+    player "别...这样叫我!"
 
 
 
-    "She successfully provoked me with her words and attitude. Shit, I swear I will find my chance for revenge."
+    "她的话和态度成功地激怒了我.妈的,我发誓我会找到报复的机会."
 
 
 
-    "*(Phone Ringing) Dudududududu... Duduududududu... ...*"
+    "*(电话铃声)Dudududududu...Duduududududu......*"
 
 
 
@@ -319,13 +319,13 @@ label C_love_5:
 
 
 
-    c "I need to take this call."
+    c "我得接这个电话."
 
 
 
     scene c_love_5_19 with tstmgr
 
-    c "Hi, William, how are you?"
+    c "Hi,威廉,你好吗?"
 
 
 
@@ -333,17 +333,17 @@ label C_love_5:
 
 
 
-    "And the chance of revenge came just in time! She is busy at the phone call right now. She won't be able to stop me if I do something weird."
+    "报复的机会来得正是时候!她现在正忙着接电话.如果我做了什么奇怪的事,她也阻止不了我."
 
 
 
     scene c_love_5_20 with tstmgr
 
-    c "You are asking me to dinner?"
+    c "你要请我吃晚餐?"
 
 
 
-    c "That's so nice of you... ..."
+    c "你真是太好了......"
 
 
 
@@ -353,25 +353,25 @@ label C_love_5:
 
     scene c_love_5_21 with tstmgr
 
-    c "What the hell?!"
+    c "什么鬼?!"
 
 
 
     scene c_love_5_22 with tstmgr
 
-    c "No, I was not talking to you, sorry..."
+    c "不,我没在跟你说话,抱歉..."
 
 
 
-    c "My secretary just knocked off my cup... ..."
+    c "我的秘书把我的杯子碰掉了......"
 
 
 
-    "Huh, seems like she can still remain calm right now."
+    "Huh,她看起来还能保持镇静."
 
 
 
-    "But what if I do this?"
+    "但如果我这样做呢?"
 
 
 
@@ -381,91 +381,91 @@ label C_love_5:
 
 
 
-    c "(Whispering) What are you thinking?... ..."
+    c "(低语)你在想什么?......"
 
 
 
-    c "(Whispering) Stop... ..."
+    c "(低语)停......"
 
 
 
-    c "Oh, nothing, I was just... coughing... ..."
+    c "Oh,没什么,我只是...咳嗽......"
 
 
 
-    c "And about your dinner invitation... ..."
+    c "至于你的晚餐邀请......"
 
 
 
     scene c_love_5_24 with tstmgr
 
-    c "I would love to... ... Ummmmm... ... ... ..."
+    c "我很乐意......Ummmmm............"
 
 
 
-    c "But... ..."
+    c "但是......"
 
 
 
     scene c_love_5_25 with tstmgr
 
-    c "Wait, don’t pinch them!"
+    c "等等,别掐它们!"
 
 
 
-    c "(Moaning with lust) Aww... Uammmmm... ... ... ..."
+    c "(欲望的呻吟)Aww...Uammmmm............"
 
 
 
-    c "I... I didn’t say anything about pinching... ... You must heard it wrong..."
+    c "我...我没说什么关于掐的......你一定是听错了..."
 
 
 
     scene c_love_5_26 with tstmgr
 
-    "She quivered hard as I continuously sitimulating her nipples."
+    "当我不断地刺激她的乳头时,她剧烈地颤抖着."
 
 
 
-    c "I’m... ahh... I’m... ahhhh... ..."
+    c "我...ahh...我...ahhhh......"
 
 
 
-    c "I’m having a fever right now... So... sorry... ..."
+    c "我现在发烧了...所以...抱歉......"
 
 
 
-    c "I can’t go to dinner with you... ..."
+    c "我不能和你一起去吃晚餐......"
 
 
 
-    c "I’ll... I’ll call you back... ..."
+    c "我...我之后再打给你......"
 
 
 
-    "She shut the phone off as soon as she could."
+    "她尽快地关掉了电话."
 
 
 
     scene c_love_5_27 with tstmgr
 
-    c "Stop... now... ..."
+    c "停下...现在......"
 
 
 
-    player "Hah! You need to beg me for that!"
+    player "Hah!你得求我才行!"
 
 
 
-    player "Admit it! You are enjoying my touch very much, aren't you?"
+    player "承认吧!你很享受我的抚摸,对吗?"
 
 
 
-    c "You... ... idiot... ... ... ..."
+    c "你......笨蛋............"
 
 
 
-    c "I won’t... say that again!"
+    c "我不会...再说一遍!"
 
 
 
@@ -475,21 +475,21 @@ label C_love_5:
 
 
 
-    player "I'm sorry, oh my God."
+    player "对不起,天啊."
 
 
 
     scene c_love_5_29 with tstmgr
 
-    player "I didn’t know you have so much strength..."
+    player "我不知道你有这么大的力气..."
 
 
 
-    c "Never underestimate a girl, idiot. I know how to protect myself."
+    c "永远不要低估一个女孩,笨蛋.我知道如何保护自己."
 
 
 
-    c "Now get the hell out of my office."
+    c "现在他妈的滚出我的办公室."
 
 
 
@@ -497,11 +497,11 @@ label C_love_5:
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
-    "She doesn’t seem to be really mad at me. I should leave as quickly as I can before she changes her mind."
+    "她似乎并没有真的生我气.我应该在她改变主意之前尽快离开."
 
 
 
@@ -511,17 +511,17 @@ label C_love_5:
 
 
 
-    "I left the room."
+    "我离开了房间."
 
 
 
-    c "(Looked disappointed for some reason) ... ... ... ..."
+    c "(因为某种原因看起来很失望)............"
 
 
 
     scene c_love_5_31 with tstmgr
 
-    c "Does my chest really attract him so well?"
+    c "我的胸真的那么吸引他吗?"
 
 
 
@@ -529,11 +529,11 @@ label C_love_5:
 
 
 
-    c "The way he played my nipples... ..."
+    c "他玩弄我乳头的方式......"
 
 
 
-    c "Was I really enjoying it?"
+    c "我真的很享受吗?"
 
 
 
@@ -553,7 +553,7 @@ label C_love_5:
 
 
 
-    "Some time later..."
+    "一段时间后..."
 
 
 

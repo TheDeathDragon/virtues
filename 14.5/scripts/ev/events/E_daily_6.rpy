@@ -3,29 +3,29 @@ label E_daily_6:
     scene void with tstmgr
     play music sorrow
 
-    "This afternoon, I came to Aunt Elisa’s house for the tutoring, as always."
+    "今天下午,我像往常一样来到伊莉莎阿姨家做家教."
 
 
 
-    "However, I am a little afraid of seeing Aunt Elisa after yesterday..."
+    "然而,昨天之后,我有点害怕见到伊莉莎阿姨..."
 
 
 
     scene e_love_5_30 with flashback
 
-    "What happened yesterday was like a dream. Those lactating huge tits..."
+    "昨天发生的事就像一场梦.那些正在分泌乳汁的大奶子..."
 
 
 
     scene e_love_5_34 with flashback
 
-    "and Aunt Elisa’s lewd face... ..."
+    "还有伊莉莎阿姨那张淫荡的脸......"
 
 
 
     scene void with tstmgr
 
-    "Those pictures kept flashing before my eyes last night. I couldn’t even sleep."
+    "昨晚那些场景一直在我眼前闪烁.我甚至无法入睡."
 
 
 
@@ -35,19 +35,19 @@ label E_daily_6:
 
     scene e_daily6_1 with tstmgr
 
-    e "Ah, [P], welcome... ..."
+    e "Ah,[P],欢迎......"
 
 
 
-    player "Aunt Elisa..."
+    player "伊莉莎阿姨..."
 
 
 
-    player "I... want to apologize for what happened yesterday."
+    player "我...我想为昨天发生的事道歉."
 
 
 
-    player "I went too far..."
+    player "我有点走远了..."
 
 
 
@@ -57,17 +57,17 @@ label E_daily_6:
 
 
 
-    e "We all went too far..."
+    e "我们都走远了..."
 
 
 
     scene e_daily6_1 with tstmgr
 
-    e "Let's just... forget it, okay? You must be hungry, I’ll... ... go prepare some snacks."
+    e "我们就...忘记它吧,好吗?你一定饿了,我...去准备一些零食."
 
 
 
-    player "O... okay, thanks..."
+    player "O...okay,谢谢..."
 
 
 

@@ -2,7 +2,7 @@ label bnb_groom_evening_G_1:
 
     scene void with tstmgr
 
-    player "(Opening the door) Hey, Uno, dinner is ready. Do you want to... ..."
+    player "(开门)Hey,乌诺,晚餐准备好了.你想......"
 
 
 
@@ -12,7 +12,7 @@ label bnb_groom_evening_G_1:
 
 
 
-    player "Sorry about... ..."
+    player "抱歉......"
 
 
 
@@ -22,21 +22,21 @@ label bnb_groom_evening_G_1:
 
 
 
-    g "Thanks for asking, but I’m in a diet now so... I’ll pass."
+    g "谢谢你的邀请,但我现在在节食,所以...我就不吃了."
 
 
 
-    player "Diet, huh... So who was the one that ordered fried chicken last night?"
+    player "节食,huh...那么昨晚是谁点的炸鸡?"
 
 
 
     scene bnb_groom_evening_g_1_3 with tstmgr
 
-    g "That’s why I am in a diet now~"
+    g "这就是我为什么现在节食~"
 
 
 
-    player "Fine... ... Perfect logic."
+    player "好吧...完美的逻辑."
 
 
 

@@ -3,11 +3,11 @@ label C_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "Later, in Theodora’s office."
+    "之后,在狄奥多拉的办公室."
 
 
 
-    "*The following plot is from Theodora’s perspective.*"
+    "*下面的情节是从狄奥多拉的视角展开的.*"
 
 
 
@@ -23,7 +23,7 @@ label C_daily_11:
 
     scene c_daily11_2 with tstmgr
 
-    c "Sigh, can’t concentrate at all..."
+    c "唉,根本无法集中精神..."
 
 
 
@@ -47,23 +47,23 @@ label C_daily_11:
 
     scene c_daily11_2 with flashback
 
-    c "So it really happened. We really fucked that night..."
+    c "所以它真的发生了.那天晚上我们真的做爱了..."
 
 
 
-    c "Ah... so embarrassing..."
+    c "Ah...真尴尬..."
 
 
 
     scene c_daily11_3 with tstmgr
 
-    c "‘You are like my guardian angel’? I can’t believe it! Why did I even say that? Fucking alcohol... ..."
+    c "‘你就像我的守护天使’?我简直不敢相信!我为什么要这么说?该死的酒......"
 
 
 
     scene c_daily11_4 with tstmgr
 
-    c "Or... do I really like him?"
+    c "还是...我真的喜欢他?"
 
 
 
@@ -73,13 +73,13 @@ label C_daily_11:
 
     scene c_daily11_5 with tstmgr
 
-    c "I did have a crush on him when I was a stupid teenage girl back in highschool. And that didn’t end well."
+    c "当我还是一个愚蠢的高中女生的时候,我确实迷恋过他.结果并不是很好."
 
 
 
     scene c_daily11_4 with tstmgr
 
-    c "So what’s the difference now? I am no longer that naive little girl, but he is still a playboy as he used to be. And it’s not wise to be into a playboy too much because he may fail me anytime."
+    c "那么现在有什么不同呢?我不再是那个天真的小女孩,而他仍然是那个曾经的花花公子.过分迷恋花花公子是不明智的,因为他随时都可能让我失望."
 
 
 
@@ -89,73 +89,73 @@ label C_daily_11:
 
     scene c_daily11_6 with tstmgr
 
-    c "(Looking upset) Sigh... ... ... ... ... ..."
+    c "(看着心烦)唉.................."
 
 
 
     scene void with tstmgr
 
-    "*Door knocking sound* Knock... knock... knock... ..."
+    "*敲门的声音*咚...咚...咚......"
 
 
 
     scene c_daily11_7 with tstmgr
 
-    c "Emm? Come in."
+    c "Emm?请进."
 
 
 
-    player "Hi, Theo... ..."
+    player "Hi,狄奥......"
 
 
 
     scene c_daily11_8 with tstmgr
 
-    c "What are you doing here?"
+    c "你怎么来了?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    player "I bought you some flowers..."
+    player "我给你买了些花..."
 
 
 
-    c "F... flowers? What is this supposed to mean?"
+    c "花...花吗?什么意思?"
 
 
 
-    player "I don’t know. I thought you may like them."
+    player "我不知道.我想你会喜欢的."
 
 
 
-    c "Are you trying to... please me?"
+    c "你是想...让我高兴吗?"
 
 
 
-    player "Eh... no, I mean, I am just trying to... take the responsibility. You know... after what happened that night..."
+    player "Eh...no,我是说,我只是想...负责.你知道的...那天晚上发生的事..."
 
 
 
     scene c_daily11_9 with tstmgr
 
-    c "Ha, what can you do? We are already engaged, you will have to make a proposal right now if you want to ‘take more responsibility’."
+    c "Ha,你能做什么?我们已经订婚了,如果你想“承担更多的责任”,现在就得求婚.."
 
 
 
-    player "Oh... that... yeah, you are right... ..."
+    player "Oh...that...yeah,你是对的......"
 
 
 
-    c "Thanks for the flowers, by the way. But actually I was expecting to receive something else. Flowers are too out-of-fashion. We are not at 80s anymore."
+    c "顺便说一句,谢谢你的花.但实际上我期待的是别的东西.花太过时了.我们可不是80多岁的人."
 
 
 
     scene c_daily11_10 with tstmgr
 
-    player "I... ah... yes, shit, this is so awkward. I’ll come back with something else."
+    player "我...ah...yes,shit,这太尴尬了.我再给你送点别的."
 
 
 
@@ -163,13 +163,13 @@ label C_daily_11:
 
 
 
-    c "There is no need for that, I’ll take the flowers, thank you."
+    c "不用了,这花我收下了,谢谢."
 
 
 
     scene c_daily11_11 with tstmgr
 
-    player "Oh, you will? Eh, okay, here you go."
+    player "Oh,是吗?好吧,给你."
 
 
 
@@ -179,7 +179,7 @@ label C_daily_11:
 
 
 
-    player "Now I guess I should... go back to my work then."
+    player "现在我想我应该...回去工作."
 
 
 
@@ -191,7 +191,7 @@ label C_daily_11:
 
     scene void with tstmgr
 
-    "He then ran away from my office like I am a ghost or something..."
+    "然后他从我的办公室跑了出来,好像我是鬼一样..."
 
 
 
@@ -205,13 +205,13 @@ label C_daily_11:
 
 
 
-    c "That was... actually cute."
+    c "这...其实很可爱."
 
 
 
     scene c_daily11_15 with tstmgr
 
-    c "Maybe he is too dumb to be a playboy?"
+    c "也许他太笨了不能当花花公子?"
 
 
 

@@ -3,25 +3,25 @@ label ACG_duo_9:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, while I was not at home..."
+    "下午,当我不在家的时候..." 
 
 
 
     scene acg_duo_9_1 with dissolve
 
-    a "Girls, I’m off to do some food shopping, what do you guys want to eat this week?"
+    a "姑娘们,我去买菜了,你们这周想吃什么?"
 
 
 
     scene acg_duo_9_2 with tstmgr
 
-    g "Everything is fine~ I love everything Vera cooks~"
+    g "一切都很好~我喜欢薇拉做的所有东西~"
 
 
 
     scene acg_duo_9_3 with tstmgr
 
-    c "Same."
+    c "同."
 
 
 
@@ -31,23 +31,23 @@ label ACG_duo_9:
 
 
 
-    c "Wait a minute... ..."
+    c "等一下... ..."
 
 
 
     scene acg_duo_9_5 with tstmgr
 
-    c "Actually there are some food I think we need... ... Oysters, walnuts, leeks, crabs, fishes."
+    c "其实有一些食物我认为是我们需要的.......牡蛎、核桃、韭菜、螃蟹、鱼肉."
 
 
 
-    a "Seafoods~ What a great option for dinner~ [P] will love it too~"
+    a "海鲜~真是晚餐的好选择~[P]也会喜欢的~"
 
 
 
     scene acg_duo_9_7 with tstmgr
 
-    c "Yeah, of course he will love it. All those food are good for his sexual performance."
+    c "是的,他当然会喜欢它.所有这些食物对他的性能力都有好处."
 
 
 
@@ -59,51 +59,51 @@ label ACG_duo_9:
 
     scene acg_duo_9_8 with tstmgr
 
-    a "You are not satisfied with [P]’s performance on bed?"
+    a "你对[P]在床上的表现不满意?"
 
 
 
     scene acg_duo_9_9 with tstmgr
 
-    g "Theodora is too greedy~"
+    g "狄奥多拉太饥渴了~"
 
 
 
-    c "Hmmmmmmmm... ... Nope, actually I am a little dissatisfied at his fertility."
+    c "Hmmmmmmmm... ... 不,实际上我对他的生育能力有点不满意."
 
 
 
     scene acg_duo_9_10 with tstmgr
 
-    g "Fertility?"
+    g "生育能力?"
 
 
 
     scene acg_duo_9_11 with tstmgr
 
-    c "I mean, we have done no birth control creampie for so many times, but none of us is pregnant yet."
+    c "我的意思是,我们已经做了这么多次无节育措施的性爱,但我们都还没有怀孕"
 
 
 
     scene acg_duo_9_12 with tstmgr
 
-    a "Guess we just lacked a little bit of luck... ..."
+    a "我猜我们只是缺少一点运气... ..."
 
 
 
     scene acg_duo_9_13 with tstmgr
 
-    c "I think so, and that’s why we need some external help, for example, food therapy~"
+    c "我想是的,这就是为什么我们需要一些外部帮助,例如,食物疗法~"
 
 
 
-    g "But... why are you so eager for being a mother? We are still young."
+    g "但...... 为什么你如此渴望成为一名母亲?我们仍然年轻."
 
 
 
     scene acg_duo_9_14 with tstmgr
 
-    c "I don’t know, maybe I just love kids."
+    c "我不知道,也许我只是喜欢孩子."
 
 
 
@@ -115,11 +115,11 @@ label ACG_duo_9:
 
     scene acg_duo_9_17 with tstmgr
 
-    c "... ... ... ... Yeah, maybe~"
+    c "... ... ... ... 或许吧~"
 
 
 
-    g "Theodora and Irene have such a great relationship~"
+    g "狄奥多拉和艾琳的关系如此之好~"
 
 
 
@@ -129,27 +129,27 @@ label ACG_duo_9:
 
 
 
-    c "(Or maybe I just want to be able to lactate like mom... so he can taste the flavor of my milk... ...)"
+    c "(或者,也许我只是希望能够像妈妈一样泌乳......这样他就能尝到我的乳汁的味道... ...)"
 
 
 
     scene acg_duo_9_1 with tstmgr
 
-    a "Alright, I’ll buy the food you asked, see you guys later~"
+    a "好吧,我去买你要的食物,回头见~"
 
 
 
-    g "Ah, wait, the goodbye kiss!"
+    g "啊,等等,告别之吻!"
 
 
 
     scene acg_duo_9_8 with tstmgr
 
-    a "Hmmmmm? I thought only [P] needs to do the goodbye kiss to us."
+    a "嗯嗯?我以为只有[P]需要对我们做告别之吻."
 
 
 
-    g "It’s our family custom, so everyone in the family should do it when leaving home~"
+    g "这是我们的家庭习俗,所以家里的每个人都应该在离开家的时候这样做~"
 
 
 
@@ -159,7 +159,7 @@ label ACG_duo_9:
 
     scene acg_duo_9_18 with tstmgr
 
-    a "Just... finish it quick... ..."
+    a "只是......快速完成它... ..."
 
 
 
@@ -181,45 +181,45 @@ label ACG_duo_9:
 
 
 
-    a "This is... not in the family custom... ..."
+    a "这......不符合家庭习俗... ..."
 
 
 
     scene acg_duo_9_20 with dissolve
 
-    a "U... Uno... ... you’ve been kissing me... for too long... ..."
+    a "乌... 乌诺... ...你已经吻了我... ...太久了... ..."
 
 
 
-    g "Because... Vera tastes so sweet~"
+    g "因为... 薇拉的味道很甜~"
 
 
 
-    a "Theodora, say something... ..."
+    a "狄奥多拉,说点什么啊... ..."
 
 
 
-    c "I’m enjoying what I am looking at~"
+    c "我很喜欢我正在看的东西~"
 
 
 
-    a "Awww... ... I have to go now... otherwise... I’ll be too late to make dinner... ..."
+    a "Awww... ... 我得走了......否则...... 我就来不及做晚饭了... ..."
 
 
 
-    c "We can order food online for tonight~"
+    c "我们可以在网上订购今晚的食物~"
 
 
 
-    a "But... ... what about [P]’s food therapy?"
+    a "但是......[P]的食物治疗怎么办?"
 
 
 
-    c "Well, on the second thought~ I’m not really that rush to become a mother anyway~"
+    c "好吧,再想想~反正我也不是真的那么急着要当妈妈~"
 
 
 
-    a "That’s not... what you said 10 minutes ago... ..."
+    a "这不是......你10分钟前所说的... ..."
 
 
 

@@ -2,33 +2,33 @@ label mansion_guestroom_evening_C_1:
 
     scene mansion_guestroom_evening_c_1_1 with tstmgr
 
-    player "Theo... ... Why don’t you take your glasses off?"
+    player "狄奥... ... 你为什么不把你的眼镜摘下来?"
 
 
 
-    c "I want to... see you more clearly when we are having sex."
+    c "我想......在我们做爱的时候,更清楚地看到你."
 
 
 
     scene mansion_guestroom_evening_c_1_2 with tstmgr
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
-    c "Do you prefer to see me with my glasses off?"
+    c "你更喜欢看我摘下眼镜的样子吗?"
 
 
 
-    player "No, it doesn’t matter at all~ You are so beautiful no matter what you wear~"
+    player "不,这一点都不重要~无论你穿什么,你都是如此美丽~"
 
 
 
-    player "Love you~"
+    player "爱你~"
 
 
 
-    c "Love... you too~"
+    c "我也爱你~"
 
 
 

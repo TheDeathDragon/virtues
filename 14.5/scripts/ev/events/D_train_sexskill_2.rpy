@@ -2,61 +2,61 @@ label D_train_sexskill_2:
 
     scene void with tstmgr
     play music happy
-    "A few days later, I came to Irene for the tutoring as usual... ..."
+    " 几天后,我像往常一样来找艾琳进行辅导... ..."
 
 
 
     scene d_train_sexskill_2_1 with dissolve
 
-    player "Emmmm? Why are you still on bed, lazy one~"
+    player "咦.你为什么还躺在床上,小懒虫~"
 
 
 
-    player "Get dressed up. It's tutoring time!"
+    player "穿好衣服.辅导时间到了!"
 
 
 
     scene d_train_sexskill_2_2 with tstmgr
 
-    d "Hmmmmm... ... Nope~"
+    d "Hmmmmm... ... 才不呢~"
 
 
 
-    player "Eh, what do you mean ‘nope’?"
+    player "Eh, 你说什么?"
 
 
 
     scene d_train_sexskill_2_3 with tstmgr
 
-    d "I mean... I’m not doing any tutoring lesson anymore~"
+    d "我是说...我不想要再补习了~"
 
 
 
-    player "Hah? What’s going on?"
+    player "哈.发生什么事了?"
 
 
 
     scene d_train_sexskill_2_4 with tstmgr
 
-    d "I just got the acceptance notice from your college~"
+    d "我刚刚收到你们学院的录取通知书~"
 
 
 
-    player "An acceptance notice from college? Wow, congratulation!"
+    player "大学的录取通知书.哇,祝贺你!"
 
 
 
     scene d_train_sexskill_2_5 with tstmgr
 
-    player "But the semester isn’t over yet, you still have final exams to take, so... ..."
+    player "但这个学期还没有结束,你还有期末考试要参加,所以... ..."
 
 
 
-    d "Forget about them, they are not important now~"
+    d "忘记他们吧,他们现在并不重要~"
 
 
 
-    d "I can just finish them regularly and get a regular grade. I don’t need to take extra lessons for them anymore."
+    d "我只要定期完成它们,就能得到一个正常的成绩.我不需要再为它们补课了.."
 
 
 
@@ -66,13 +66,13 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_6 with tstmgr
 
-    player "So I guess... I don’t have the reason to come here anymore."
+    player "所以我想... 我没有理由再来这里了."
 
 
 
     scene d_train_sexskill_2_7 with tstmgr
 
-    d "Hmmmm? Wait, no, that’s not what I meant!"
+    d "Hmmmm? 等等,不,这不是我的意思!"
 
 
 
@@ -82,11 +82,11 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_8 with tstmgr
 
-    d "Okay... ... I’ll continue to take your lessons. Just... come to see Irene as often as before, please..."
+    d "好吧... ... 我会继续听你的课.只是......请像以前一样经常来找艾琳...."
 
 
 
-    "Awwww... ... This poor little girl~"
+    "Awwww... ... 这个可怜的小姑娘~"
 
 
 
@@ -96,11 +96,11 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_9 with tstmgr
 
-    d "And... ... can we have a day off, only for today?"
+    d "还有......我们能不能放一天假,只在今天.?"
 
 
 
-    player "Sure, today is a day to celebrate. Let’s take a break~"
+    player "当然,今天是一个值得庆祝的日子.让我们休息一下~"
 
 
 
@@ -116,37 +116,37 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_5 with tstmgr
 
-    player "So... have you thought about what major you are going to choose in college?"
+    player "那么......你想过你在大学里要选择什么专业吗?"
 
 
 
     scene d_train_sexskill_2_11 with tstmgr
 
-    d "I haven’t thought that far yet~"
+    d "我还没有想到那么远~"
 
 
 
-    player "Why not? It’s quite a realistic question for you."
+    player "为什么不呢.这对你来说是一个相当现实的问题."
 
 
 
     scene d_train_sexskill_2_12 with tstmgr
 
-    d "But... I feel anxious just thinking about it..."
+    d "但是... 光是想一想我就觉得很焦虑..."
 
 
 
-    d "I just want to live a little easier, enjoy every moment with people I love, and leave all those heavy matters to tomorrow."
+    d "我只想活得轻松一点,和我爱的人一起享受每一刻,把所有那些沉重的事情留给明天.."
 
 
 
-    player "It sounds like you are not ready to be an adult yet."
+    player "听起来你还没有准备好成为一个成年人."
 
 
 
     scene d_train_sexskill_2_13 with tstmgr
 
-    d "I guess so... ..."
+    d "或许吧... ..."
 
 
 
@@ -156,49 +156,49 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_14 with tstmgr
 
-    d "[P], maybe... in the rest days of this semester, you can teach me more about the adult stuff in your tutoring lessons."
+    d "[P],也许......在这个学期剩下的日子里,你可以在你的辅导课上教我更多关于成人的东西.."
 
 
 
-    d "I mean... more about sex~"
+    d "我的意思是......更多关于性的内容~"
 
 
 
-    player "I think you are already an expert of it. We have almost done everything besides vaginal sex~"
+    player "我想你已经是这方面的专家了.除了阴道性交,我们几乎什么都做过了~."
 
 
 
-    d "How would I become an expert while I am still a virgin?"
+    d "我还是个处女,怎么会成为专家?"
 
 
 
-    d "Come on, [P], getting rid of virginity is an essential step of becoming a real adult!"
+    d "来吧,[P],摆脱童贞是成为一个真正的成年人的必要步骤!"
 
 
 
     scene d_train_sexskill_2_15 with tstmgr
 
-    player "We... we had a deal, remember? I’m not going to do that until you graduate from highschool. I’m a responsible dude."
+    player "我们......我们有一个协议,记得吗.在你从高中毕业之前,我不会这样做.我是一个负责任的人."
 
 
 
     scene d_train_sexskill_2_16 with tstmgr
 
-    d "[P] is boring like an old man... ..."
+    d "[P]像个老头子一样无聊... ..."
 
 
 
     scene d_train_sexskill_2_17 with tstmgr
 
-    d "Seriously, are you really not interested in Irene’s virginal pussy?"
+    d "说真的,你真的对艾琳的处女小穴不感兴趣吗?"
 
 
 
-    player "Eh... ... I just want to wait until you grow up a little more before doing that."
+    player "呃......我只是想等你再长大一点再做这件事."
 
 
 
-    d "I’m already 18... ..."
+    d "我已经18岁了... ..."
 
 
 
@@ -208,37 +208,37 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_18 with tstmgr
 
-    d "Whatever, you are just so boring~"
+    d "管他呢,你就是这么无聊~"
 
 
 
     scene d_train_sexskill_2_19 with tstmgr
 
-    d "I’m going to dress up and go out, see you later~"
+    d "我要穿衣出去了,回头见~"
 
 
 
-    player "Where are you going?"
+    player "你要去哪里."
 
 
 
     scene d_train_sexskill_2_20 with tstmgr
 
-    d "My friends and I are going to celebrate my acceptance to college~"
+    d "我和我的朋友们将庆祝我被大学录取~"
 
 
 
-    player "Oh, eh, okay, can I go with you?"
+    player "哦,嗯,好的,我可以和你一起去吗?"
 
 
 
     scene d_train_sexskill_2_21 with tstmgr
 
-    d "No, you are too old for us~"
+    d "不,你对我们来说太老了~"
 
 
 
-    player "I’m still in early 20s, for god’s sake... ..."
+    player "看在上帝的份上,我仍然是20岁出头的人... ..."
 
 
 
@@ -246,13 +246,13 @@ label D_train_sexskill_2:
 
 
 
-    player "So... will there be any boys?"
+    player "那么......是否会有任何男孩?"
 
 
 
     scene d_train_sexskill_2_22 with tstmgr
 
-    d "No, there will only be g... ..."
+    d "不,只会有女... ..."
 
 
 
@@ -262,17 +262,17 @@ label D_train_sexskill_2:
 
 
 
-    "Irene suddenly realized something..."
+    "艾琳突然意识到一件事..."
 
 
 
     scene d_train_sexskill_2_24 with tstmgr
 
-    d "Actually, I mean, yes, there will be a lot of boys~"
+    d "事实上,我的意思是,是的,会有很多男孩~"
 
 
 
-    d "And they are definitely not as boring as you~"
+    d "而且他们绝对不像你那么无聊~"
 
 
 
@@ -282,17 +282,17 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_25 with tstmgr
 
-    d "I don’t know, maybe at least one of them will be willing to discuss more about adult stuff with me~"
+    d "我不知道,也许他们中至少有一个人愿意与我讨论更多关于成人的事情~"
 
 
 
     scene d_train_sexskill_2_26 with tstmgr
 
-    d "Anyway, see you around~"
+    d "总之,再见了~"
 
 
 
-    "Irene turned around and walked to the door, but suddenly... ..."
+    "艾琳转身走到门口,但突然间... ..."
 
 
 
@@ -312,7 +312,7 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_29 with tstmgr
 
-    player "I’m not letting you go anywhere today... ..."
+    player "今天我不会让你去任何地方... ..."
 
 
 
@@ -320,7 +320,7 @@ label D_train_sexskill_2:
 
     $ flashlight()
 
-    player "And I’m definitely not letting you discuss adult stuff with any boy!"
+    player "而且我绝对不会让你和任何男孩讨论成人的东西.!"
 
 
 
@@ -336,35 +336,35 @@ label D_train_sexskill_2:
 
 
 
-    "I ripped off her clothes and threw her roughly on the bed like throwing a doll..."
+    "我扯下她的衣服,把她粗暴地扔在床上,就像扔一个洋娃娃..."
 
 
 
     scene d_train_sexskill_2_32 with tstmgr
 
-    d "[P] looks so scary... ..."
+    d "[P]看起来真可怕... ..."
 
 
 
     scene d_train_sexskill_2_33 with tstmgr
 
-    player "You just crossed my line, girl..."
+    player "你刚刚越过了我的底线,女孩..."
 
 
 
-    player "If you were trying to make me jealous, you made it, but you shouldn’t have done that."
+    player "如果你想让我吃醋,你成功了,但你不应该这样做."
 
 
 
-    player "Now I’m pissed off."
+    player "现在我很生气了."
 
 
 
-    d "I... I’m sorry... ..."
+    d "我... 我很抱歉... ..."
 
 
 
-    player "You are my girl and my girl only!"
+    player "你是我的女孩,也只能是我的女孩!"
 
 
 
@@ -374,51 +374,51 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_34 with tstmgr
 
-    d "Awwww~~~ the jealous [P] is so cute and the angry [P] is so charming!"
+    d "啊~~~嫉妒的[P]好可爱,愤怒的[P]好有魅力!"
 
 
 
-    d "Are you going to punish me? Are you going to punish me? How do you want to punish me?"
+    d "你要惩罚我吗.你要惩罚我吗.!你想怎么惩罚我?"
 
 
 
     scene d_train_sexskill_2_35 with tstmgr
 
-    player "There will be no punishment, I'll just give you what you want."
+    player "不会有惩罚,我只会给你想要的东西."
 
 
 
-    player "I will penetrate your viginal pussy with my dick and occupy your little womb with my seed."
+    player "我将用我的鸡巴插入你的处女小穴,用我的子孙占据你的粉嫩子宫."
 
 
 
-    player "Damn, do you have any idea how hard it is to hold myself back everyday from taking your virginity away?"
+    player "该死的,你知道每天忍住不夺走你的贞操有多难吗?"
 
 
 
-    player "I was trying to be a good dude but you just don’t understand."
+    player "我是想做个好男人,但你就是不明白."
 
 
 
-    d "Sor... sorry... ..."
+    d "对... 对不起... ..."
 
 
 
-    player "So I guess now there is no need for holding myself back any longer... ..."
+    player "因此,我想现在没有必要再保留自己了... ..."
 
 
 
     scene d_train_sexskill_2_36 with tstmgr
 
-    d "Awwwwwwww~~~ [P]’s finger~~~"
+    d "Awwwwwwww~~~~[P]的手指~~~"
 
 
 
-    player "I’m going to be the first man who takes this horny pussy... ..."
+    player "我将成为第一个占有这个淫荡的小穴的男人... ..."
 
 
 
-    d "And... ... the last man too~~~"
+    d "同时也是......最后一个人~~~"
 
 
 
@@ -428,39 +428,39 @@ label D_train_sexskill_2:
 
 
 
-    player "Here, taste your horny fluid yourself and remember this taste. Soon it will never taste the same anymore because it is going be tainted with the smell of my sperm forever."
+    player "来,自己尝尝你的淫水,记住这个味道.很快,它的味道将不再相同,因为它将永远被我的精子的味道所玷污."
 
 
 
     scene d_train_sexskill_2_38 with tstmgr
 
-    d "*Sucking the finger hard like a baby* Zuumm~~ zimm~ simmm~~ simmm~~~"
+    d "*像婴儿一样用力吮吸手指* Zuumm~~zimm~~simmm~~simmm~~~"
 
 
 
-    d "Irene is... zimmm~~~ so excited~~ simmmm~~ simmm~~~"
+    d "艾琳已经... zimmm~~~ 性奋了~~ simmmm~~ simmm~~~"
 
 
 
     scene d_train_sexskill_2_39 with tstmgr
 
-    d "[P]~~ [P]~~ I can’t wait~~ Please~~ I want you to taint my pussy with your cum so bad~~~"
+    d "[P]~~[P]~~我等不及了~~求你了~~我想让你用你的精液玷污我的小穴,我再也等不及了~~~"
 
 
 
     scene d_train_sexskill_2_40 with tstmgr
 
-    d "I’ve waited too long for this day... ..."
+    d "为了这一天,我已经等了很久... ..."
 
 
 
-    d "I... I will prove that I can do it as good as Theo!"
+    d "我... 我将证明我可以做得和狄奥一样好!"
 
 
 
     scene d_train_sexskill_2_41 with tstmgr
 
-    player "Now, Irene, take a deep breath..."
+    player "现在,艾琳,深吸一口气..."
 
 
 
@@ -468,7 +468,7 @@ label D_train_sexskill_2:
 
 
 
-    player "And... ..."
+    player "然后... ..."
 
 
 
@@ -476,7 +476,7 @@ label D_train_sexskill_2:
 
     $ flashlight()
 
-    d "Owwwwwww!~~~ Wait, wait, it hurts so much, too much!"
+    d "Owwwwwww!~~~ 等等,等等,太疼了,太疼了!"
 
 
 
@@ -490,7 +490,7 @@ label D_train_sexskill_2:
 
 
 
-    d "Let's... let's just try again!"
+    d "让我们......让我们再试一次吧!"
 
 
 
@@ -498,7 +498,7 @@ label D_train_sexskill_2:
 
 
 
-    player "Fine~"
+    player "好吧~"
 
 
 
@@ -516,23 +516,23 @@ label D_train_sexskill_2:
 
 
 
-    player "Maybe we should... ..."
+    player "或许我们应该... ..."
 
 
 
-    d "Again! Again! This time... ..."
+    d "再来! 再来!这一次... ..."
 
 
 
-    d "Try make it quick and make it done even before I feel pain... ..."
+    d "尽量使其快速,并在我感到疼痛之前完成... ..."
 
 
 
-    player "I see... ..."
+    player "我明白了... ..."
 
 
 
-    player "Now... ... ... ..."
+    player "现在... ... ... ..."
 
 
 
@@ -544,31 +544,31 @@ label D_train_sexskill_2:
 
 
 
-    "The wall of the young girl’s vagina, which had been tightly bonded for 18 years, is now forced open by my dick."
+    "年轻女孩的阴壁已经紧紧地结合了18年,现在被我的小弟弟强行打开."
 
 
 
-    d "Fin... finally... ..."
+    d "终... 终于... ..."
 
 
 
-    d "Ha~ I was so smart! I knew it was a good idea to make it quick!~"
+    d "哈~我真是太聪明了! 我知道这是个好主意,可以让它变得很快!~"
 
 
 
-    d "Awwww~ It still hurts... ... but... ..."
+    d "呜呜呜~还是很疼......但是......"
 
 
 
-    "Her vagina is getting wetter every second, it seems like she is actually in pleasure?... ..."
+    "她的小穴每秒都在变湿,似乎她真的在享受?... ..."
 
 
 
-    d "I can feel... something else... something different... something good~~~"
+    d "我能感觉到......别的东西......不同的东西......好的东西~~~"
 
 
 
-    d "So this is how it feels... to have a dick in my pussy~~"
+    d "这就是......有一个家伙在我的小穴里的感觉~~"
 
 
 
@@ -576,11 +576,11 @@ label D_train_sexskill_2:
 
 
 
-    player "I'm going to move now, Irene."
+    player "我现在要动了,艾琳."
 
 
 
-    d "P... please... ..."
+    d "请... 请便... ..."
 
 
 
@@ -594,23 +594,23 @@ label D_train_sexskill_2:
 
 
 
-    player "Ahhh... ... It feels... really different from your anus... ..."
+    player "啊... ... 这感觉......真的与你的肛门不同... ..."
 
 
 
-    player "This is... tighter... and much much juicier~"
+    player "这......更加紧密......和更多的多汁~"
 
 
 
-    d "Awwwwwww~~~ Yes, Huhh~ ahhh~ pussy is... much better than anus. It brings me... aww~~~ more pleasure as well~"
+    d "Awwwwwww~~~是的,Huh~ ahhh~~小穴...比肛门好得多.它带给我......更多的快乐~"
 
 
 
-    d "This is so strange... ... Your big bad dick is tearing my little pussy apart, but... there is... more and more pleasure~~~"
+    d "这真是太奇怪了.......你的大鸡巴正在撕裂我的小穴,但是......有......越来越多的快乐~~~"
 
 
 
-    d "I... already began to love doing this~~~"
+    d "我......已经开始喜欢做这个了~~~"
 
 
     stop sound
@@ -624,31 +624,31 @@ label D_train_sexskill_2:
 
 
 
-    d "It's... even deeper~~~ [P]'s dick... Awwww... so strong~~~"
+    d "这......更深了~~~[P]的小弟弟......啊啊啊......好强啊~~~~"
 
 
 
-    d "Bad~~ bad [P]~~~ Why didn’t you fuck my pussy earlier? Why didn’t you let me know how good it is earlier?"
+    d "坏~~坏[P]~~你为什么不早点操我的小穴.你为什么不早点让我知道它有多好?"
 
 
 
-    d "You made me... ahhh~~ hhhh~~ think that vaginal sex is a scary thing! Bad [P]! Bad [P]!"
+    d "你让我......啊~~啊~~觉得小穴性交是一件很可怕的事情! 坏[P]!坏[P]!"
 
 
 
-    player "I just... don’t want to hurt you. You are delicate like a porcelain doll and all I want to do is protect you from getting any harm... ..."
+    player "我只是...不想伤害你.你像一个瓷娃娃一样精致,我想做的就是保护你,不让你受到任何伤害......"
 
 
 
-    player "Thanks for making me angry today though, otherwise... ... I might still not have the heart to do this."
+    player "谢谢你今天让我生气,否则.......我可能还是没有心思去做这件事."
 
 
 
-    d "Awwwww~~ Bad [P]! Bad [P]!~~"
+    d "Awwwww~~坏[P]! 坏[P]!~~"
 
 
 
-    d "Ahhhhh~~~ hhhhh~~ I actually... want you to... ... break this porcelain doll~~~ ahhhh~~~~ wwwwww~~~"
+    d " ...打碎这个瓷娃娃~~~啊~~~~~~~ wwwwww~~~~"
 
 
 
@@ -662,19 +662,19 @@ label D_train_sexskill_2:
 
 
 
-    player "So you want me to be rougher? Fine, let’s do it!"
+    player "所以你想让我更粗暴一些.好吧,让我们开始吧!"
 
 
 
-    "I pinned her soft body underneath me and fucked her in a frenzy like a heartless pile driver..."
+    "我把她柔软的身体压在身下,像个没心没肺的打桩机一样疯狂地干她..."
 
 
 
-    d "Hhhhh~~ Bad [P]~~ bad [P]~~ good cock~~ good cock~~~"
+    d "Hhhhh~~坏[P]~~坏[P]~~好鸡巴~~好鸡巴~~~~"
 
 
 
-    d "Irene loves~~ loves to be fucked like this~~ so so much~~~"
+    d "艾琳喜欢~喜欢这样被操~非常非常喜欢~~~"
 
 
 
@@ -682,11 +682,11 @@ label D_train_sexskill_2:
 
 
 
-    d "My virginal pussy... is being ravaged... tainted... abused... ... It is going to become bad [P]’s captive~~~"
+    d "我的处女小穴......正在被蹂躏......被玷污......被虐待......它将成为坏[P]的俘虏~~~"
 
 
 
-    player "Ahhhhh... ... Irene... ... I’m cumming!~~~"
+    player "啊啊啊......艾琳... ... 我射了!~~~"
 
 
     stop sound
@@ -698,25 +698,25 @@ label D_train_sexskill_2:
 
 
 
-    "I pulled my dick out of her at the last second and then ejaculated everything I got on top of her..."
+    "我在最后一秒将我的鸡巴从她体内拔出,然后在她身上射出了所有的东西...."
 
 
 
     scene d_train_sexskill_2_48 with tstmgr
 
-    d "Awwwwww... ... ... ..."
+    d "呜呜呜... ... ... ..."
 
 
 
-    "She looked at me with those curious big eyes while her whole body was covered in my cum... Damn, she is so cute!~"
+    "她用那双好奇的大眼睛看着我,而她的整个身体都被我的精液所覆盖......该死的,她太可爱了~"
 
 
 
-    d "[P], why didn’t you cum inside me?"
+    d "[P],你为什么不在我体内射精?"
 
 
 
-    player "I just... want to see your body being corrupted in my cum~"
+    player "我只是......想看到你的身体在我的精液中被腐蚀~"
 
 
 
@@ -724,29 +724,29 @@ label D_train_sexskill_2:
 
 
 
-    player "So... how do you feel right now?"
+    player "那么......你现在的感觉如何?"
 
 
 
     scene d_train_sexskill_2_49 with tstmgr
 
-    d "I feel incredibly wonderful~ because I am now finally a grown woman!~"
+    d "我感到无比的美妙~因为我现在终于成为了一个成熟的女人!~"
 
 
 
-    d "And... hee hee~ Theo will be so pissed off~~"
+    d "而且......嘿嘿~狄奥会很生气的~~"
 
 
 
     scene d_train_sexskill_2_50 with tstmgr
 
-    d "It still hurts though, I guess I will not go out today... and I may have to take a day off from school tomorrow... ..."
+    d "不过还是很疼,我想我今天不会出去了......明天我可能要向学校请假一天... ..."
 
 
 
     scene d_train_sexskill_2_51 with tstmgr
 
-    d "But it’s not a big deal since I already got the acceptance to college~"
+    d "但这不是什么大问题,因为我已经得到了大学的录取通知书~"
 
 
 
@@ -756,15 +756,15 @@ label D_train_sexskill_2:
 
 
 
-    d "Thank you for making me a real woman, [P]"
+    d "谢谢你让我成为一个真正的女人,[P] "
 
 
 
-    player "Irene... ..."
+    player "艾琳... ..."
 
 
 
-    player "Alright, I'll carry you to the bathroom. You need to wash yourself~"
+    player "好吧,我抱你去浴室.你需要清洗自己~"
 
 
 

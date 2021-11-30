@@ -2,21 +2,21 @@ label find_A_restaurant_evening_A_3:
 
     scene bar_background with tstmgr
 
-    "I came to Vera's workplace in the evening, but couldn't find her."
+    "我晚上来到薇拉的工作地点,但找不到她."
 
 
 
-    "Seems like she still doesn't want to see me."
+    "看来她还是不想见我."
 
 
 
-    "I left with disappointment."
+    "我失望地离开了."
 
 
 
     scene a_restaurant_slight_surprise with tstmgr
 
-    a "(Looking at [P]'s back) [P]... ... ... ..."
+    a "(看着[P]的背影)[P]............"
 
 
 

@@ -3,33 +3,33 @@ label B_daily_17:
     scene void with tstmgr
     play music sorrow
 
-    "Senning stayed with her mother in the hotel room for last night. Now it’s time to pay them a visit."
+    "森柠昨晚和她母亲一起睡在酒店房间里.现在是时候去拜访她们了."
 
 
 
     scene b_daily17_1 with tstmgr
 
-    b "Ah, [P]! Welcome!~"
+    b "Ah,[P]!欢迎!~"
 
 
 
-    player "Hi, Sen, and..."
+    player "Hi,森柠,还有..."
 
 
 
-    player "Good afternoon, Lady Minna."
+    player "下午好,明娜夫人."
 
 
 
-    "Lady Minna" "Uh-huh~"
+    "明娜夫人""Uh-huh~"
 
 
 
-    "Lady Minna" "We have been waiting for you for a long time. Come here, sit with me."
+    "明娜夫人""我们已经等你很久了.过来,和我一起坐."
 
 
 
-    b "I’ll go make you some tea~"
+    b "我去给你泡点茶~"
 
 
 
@@ -39,55 +39,55 @@ label B_daily_17:
 
 
 
-    "I took a seat next to Lady Minna..."
+    "我坐在明娜夫人旁边..."
 
 
 
     scene b_daily17_3 with tstmgr
 
-    "Lady Minna" "Senning told me a lot about you last night. Thank you for taking care of her during these years. I mean it."
+    "明娜夫人""昨晚森柠跟我说了很多关于你的事.谢谢你这些年来对她的照顾.我是认真的."
 
 
 
-    player "It’s fine... ..."
+    player "都是小事......"
 
 
 
     scene b_daily17_4 with tstmgr
 
-    "Man... Senning has told me about her conservative family culture, but her mother doesn’t seem to be a conservative person at all. Look at those legs... ..."
+    "伙计.森柠告诉过我她保守的家庭文化,但她的母亲似乎根本不是一个保守的人.看看这腿......"
 
 
 
     scene b_daily17_5 with tstmgr
 
-    player "So... Lady Minna, would you like to tell me about how you are going to make Senning stay in this country after her graduation?"
+    player "所以...明娜夫人,你能告诉我你打算怎样让森柠毕业后留在这个国家吗?"
 
 
 
     scene b_daily17_6 with tstmgr
 
-    "Lady Minna" "Coming straight to the point, hah, I like it~"
+    "明娜夫人""开门见山,hah,我喜欢~"
 
 
 
-    "Lady Minna" "Well, it’s not hard at all. I have many ways."
+    "明娜夫人""Well,这一点也不难.我有很多方法."
 
 
 
     scene b_daily17_7 with tstmgr
 
-    "Lady Minna" "You see, Senning’s father has many offsprings and Senning is his favorite. He wants her to get back and help him run the family business."
+    "明娜夫人""你知道,森柠的父亲有很多孩子,但森柠是他的最爱.他想让她回来帮他经营家族生意."
 
 
 
-    "Lady Minna" "So what I need to do is just to convince him that she is able to help even if she stays here. For example, I can suggest him to expand his business to your country and let Senning take charge of it."
+    "明娜夫人""所以我要做的就是让他相信即使她留在这里也能帮上忙.例如,我可以建议他将业务扩展到贵国,由森柠负责."
 
 
 
     scene b_daily17_8 with tstmgr
 
-    "Lady Minna" "But that will be quite... I don’t know, irresponsible, right? Throwing millions of dollars into a new market that doesn’t belong to us just to make you two stay together? It’s like a childish romantic novel from a teenage writer. The real world doesn’t work that way."
+    "明娜夫人""但那将是相当...我不知道怎么说,很不负责任,对吧?把几百万美元投入一个不属于我们的新市场就为了让你们在一起?就像青少年作家写的幼稚浪漫小说.现实世界不是这样的."
 
 
 
@@ -97,41 +97,41 @@ label B_daily_17:
 
     scene b_daily17_9 with tstmgr
 
-    "Lady Minna" "So let’s be more realistic. There is an easier and cheaper way~"
+    "明娜夫人""所以让我们更现实一点.有一个更简单,更方便的方法~"
 
 
 
-    player "Which is?"
+    player "是什么?"
 
 
 
     scene b_daily17_10 with tstmgr
 
-    "Lady Minna" "Just go make her pregnant within a year."
+    "明娜夫人""让她在一年内怀孕吧."
 
 
 
-    player "What? Are you serious?"
+    player "什么?你是认真的?"
 
 
 
-    "Lady Minna" "As I said, senning is her father’s favorite offspring. He won’t be so cruel to break you up and make her child grow up without a father."
+    "明娜夫人""正如我所说,森柠是她父亲最喜欢的孩子.他不会那么残忍地拆散你们让她的孩子在没有父亲的情况下长大."
 
 
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "Also, as you know, we are a conservative family. Being a single mother is not acceptable there. Senning will have to stay with you if she gets pregnant."
+    "明娜夫人""而且,你也知道,我们是一个保守的家庭.在那里做一个单身母亲是不可能的.如果森柠怀孕了,她就得陪着你."
 
 
 
-    player "Conservative... ... hah... ..."
+    player "保守......hah......"
 
 
 
     scene b_daily17_12 with tstmgr
 
-    "Lady Minna" "So what do you say?~"
+    "明娜夫人""那么你怎么说?~"
 
 
 
@@ -142,12 +142,12 @@ label B_daily_17:
     label B_daily_17_choice_1:
 
     menu:
-        "I’ll try my best":
+        "我会尽力的":
 
 
-            player "I... I didn’t plan to have a child at such a young age, but... ... if it is for Senning, I will try my best."
+            player "我...我并没有计划在这么小的时候要孩子,但是......如果是为了森柠,我一定会尽力的."
 
-            "Lady Minna" "Good... ..."
+            "明娜夫人""很好......"
 
             player "... ... ... ..."
         "... ... ... ...":
@@ -159,73 +159,73 @@ label B_daily_17:
 
 
 
-    player "Wait, I just noticed one thing..."
+    player "等等,我刚注意到一件事..."
 
 
 
-    player "You said Senning’s father has many offsprings. It sounds like... you are not the mother of all of them?"
+    player "说过森柠的父亲有很多孩子.这听起来像...你不是他们所有人的母亲?"
 
 
 
     scene b_daily17_13 with tstmgr
 
-    "Lady Minna" "Of course I’m not. Senning is the only child I have."
+    "明娜夫人""我当然不是.森柠是我唯一的孩子."
 
 
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "Senning’s father has four wives and I am one of them. He bought a house for each of us so we won’t fight each other."
+    "明娜夫人""森柠的父亲有四个妻子,我是其中之一.他给我们每个人都买了房子,这样我们就不会打架了."
 
 
 
-    player "Wow, for real? Is that even legal?"
+    player "Wow,真的吗?这合法吗?"
 
 
 
     scene b_daily17_10 with tstmgr
 
-    "Lady Minna" "For a man to have four wives? Of course not, but money solves everything."
+    "明娜夫人""一个男人有四个老婆?当然不合法,但钱能解决一切."
 
 
 
-    player "That’s... ... cool... ..."
+    player "这...酷......"
 
 
 
-    "‘Conservative family’... ... huh, I don’t even know what conservative means anymore."
-
-
-
-    scene b_daily17_11 with tstmgr
-
-    "Lady Minna" "I can’t say I like the other three women, but I’m okay with living with them. The four of us play mahjong everyday and I always win~"
-
-
-
-    scene b_daily17_12 with tstmgr
-
-    "Lady Minna" "So you see, I am not an opposer of polygamy. That’s why I didn’t forbid Senning from being with you even though I have known about your engagement with another woman."
+    "‘保守的家庭’......huh,我都不知道保守是什么意思了."
 
 
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "The daughter of Elisa Shinyrost... ... Humph~"
+    "明娜夫人""我不能说我喜欢其他三个女人,但我愿意和她们住在一起.我们四个人每天打麻将,我总是赢~"
 
 
 
     scene b_daily17_12 with tstmgr
 
-    "Lady Minna" "You know, I have met that blonde gorgeous once during a fashion week many years ago, but I guess she has forgot who I am."
+    "明娜夫人""所以你看,我并不反对一夫多妻.所以我才没有禁止森柠和你在一起即使我知道你和另一个女人订婚了."
 
 
 
-    player "How did you know about my... engagement?"
+    scene b_daily17_11 with tstmgr
+
+    "明娜夫人""伊莉莎新光的女儿......Humph~"
 
 
 
-    "Lady Minna" "It’s not a secret anyway. Maybe Senning has been aware of that too. Maybe she just doesn’t care, either."
+    scene b_daily17_12 with tstmgr
+
+    "明娜夫人""你知道,我在许多年前的一个时装周上见过那个金发美女一次,但我想她已经忘了我是谁了."
+
+
+
+    player "你怎么知道我...订婚了?"
+
+
+
+    "明娜夫人""这已经不是什么秘密了.也许森柠也意识到了这一点.也许她也不在乎."
 
 
 
@@ -233,73 +233,73 @@ label B_daily_17:
 
     $ flashlight()
 
-    b "What are you guys talking about? The tea is ready~"
+    b "你们在说什么?茶已经沏好了~"
 
 
 
-    player "We... ..."
+    player "我们......"
 
 
 
     scene b_daily17_15 with tstmgr
 
-    "Lady Minna" "We were talking about the next test I prepared for [P]."
+    "明娜夫人""我们在谈论我为[P]准备的下一个测试.."
 
 
 
     scene b_daily17_16 with tstmgr
 
-    b "There are more tests? I thought [P] has passed all of them."
+    b "还有更多的测试吗?我还以为[P]都通过了呢."
 
 
 
     scene b_daily17_17 with tstmgr
 
-    "Lady Minna" "Well, he has proved that he is good enough to be my little girl’s boyfriend, but is he good enough to be her future husband? We don’t know that yet~"
+    "明娜夫人""Well,他已经证明了他很优秀,可以做我女儿的男朋友,但他是否足够优秀,可以做她未来的丈夫呢?我们还不知道~"
 
 
 
     scene b_daily17_18 with tstmgr
 
-    b "What’s the difference?"
+    b "有什么区别?"
 
 
 
     scene b_daily17_19 with tstmgr
 
-    "Lady Minna" "Oh girl, there are a lot of differences~"
+    "明娜夫人""Oh女孩,有很多区别~"
 
 
 
-    "Lady Minna" "Come and find me tomorrow to begin the test, will you, [P]?"
+    "明娜夫人""明天来找我开始测试,好吗,[P]?"
 
 
 
-    b "Why don’t you just test him right now?"
+    b "你为什么不现在就测试他呢?"
 
 
 
     scene b_daily17_20 with tstmgr
 
-    "Lady Minna" "We will need your avoidance to ensure the fairness~"
+    "明娜夫人""我们需要你的回避,以确保公平~"
 
 
 
-    b "Mama, are you serious?"
+    b "妈妈,你是认真的吗?"
 
 
 
     scene b_daily17_21 with tstmgr
 
-    b "Awwwwww... ... it sounds like a tough test. Please go easy on him."
+    b "Awwwwww......听起来这是个很难的测试.请对他手下留情."
 
 
 
-    "Lady Minna" "Relax, I’m not going to eat him~"
+    "明娜夫人""别紧张,我不会吃了他的~"
 
 
 
-    "Lady Minna" "Now where is the tea? I’m thirsty to death~"
+    "明娜夫人""茶在哪里?我渴死了~"
 
 
 
@@ -309,7 +309,7 @@ label B_daily_17:
 
 
 
-    "I spent the rest of the afternoon with the mother and the daughter."
+    "下午剩下的时间,我和这对母女待在一起."
 
 
 

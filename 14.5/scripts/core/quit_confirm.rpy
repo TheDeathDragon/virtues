@@ -29,7 +29,7 @@ screen quit_confirm():
             add "qcb"
             vbox:
                 align .5, .5
-                label "Are you sure you want to quit?":
+                label "你确定要退出吗?":
                     style "confirm_prompt"
                     xalign 0.5
                 null height 90
@@ -42,10 +42,10 @@ screen quit_confirm():
         vbox:
             align .5, .95
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
-            text "To find out more about this game, take a look at our homepage:"
+            text "想知道解锁密码吗，加群了解更多吧～"
             button:
-                text "{u}https://www.patreon.com/NoMeme{/u}" style "link"
-                action OpenURL("https://www.patreon.com/NoMeme")
+                text "{u}点击加群{/u}" style "link"
+                action OpenURL("https://jq.qq.com/?_wv=1027&k=9MsL1MC7")
 
 
     key "game_menu" action Return(False)

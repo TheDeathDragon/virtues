@@ -3,17 +3,17 @@ label G_train_sub_3:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, in the livingroom... ..."
+    "午后,在客厅里... ..."
 
 
 
-    "*The following plot is from Uno’s perspective*"
+    "*下面的情节是从乌诺出发*"
 
 
 
     scene g_train_sub_3_1 with tstmgr
 
-    g "[P], I just found a super interesting mobile game~~"
+    g "[P], 我刚刚发现一个超级有趣的手机游戏~~"
 
 
 
@@ -25,11 +25,11 @@ label G_train_sub_3:
 
     scene g_train_sub_3_3 with tstmgr
 
-    "[P] is talking with somebody on the phone."
+    "[P]正在与某人通电话."
 
 
 
-    player "Next week? I don’t know, man. I’m kinda busy these days... ..."
+    player "下个星期?我不知道,伙计.我这些天有点忙... ..."
 
 
 
@@ -47,11 +47,11 @@ label G_train_sub_3:
 
     scene g_train_sub_3_3 with tstmgr
 
-    "Friend A" "Come on, dude, it’s my bachelor party. How can you miss it?"
+    "友人A" "来吧,伙计,这是我的单身派对.你怎么能错过它?"
 
 
 
-    "Friend A" "Strippers, big suite, everything, it will be so fun~"
+    "友人A" "脱衣舞娘,大套房,所有的一切,这将会非常有趣~"
 
 
 
@@ -61,39 +61,39 @@ label G_train_sub_3:
 
 
 
-    g "Meow meow meow~~"
+    g "喵呜喵呜~~"
 
 
 
     scene g_train_sub_3_7 with tstmgr
 
-    player "Hmmm? Wait a moment... ..."
+    player "Hmmm? 等一下... ..."
 
 
 
-    "Friend A" "What was that sound?"
+    "友人A" "什么声音?"
 
 
 
     scene g_train_sub_3_8 with tstmgr
 
-    player "Eh... ... It’s my cat. She is trying to play with me."
+    player "Eh... ... 这是我的猫.她正试图和我玩."
 
 
 
     scene g_train_sub_3_9 with tstmgr
 
-    g "Purrrrrrrr~~~~"
+    g "Purrrrrrrrr~~~~"
 
 
 
-    player "Sit, kitty, sit, daddy is talking on the phone."
+    player "坐下,猫咪,坐下,爸爸在讲电话."
 
 
 
     scene g_train_sub_3_10 with tstmgr
 
-    g "Meow meow~"
+    g "喵呜喵呜~"
 
 
 
@@ -101,13 +101,13 @@ label G_train_sub_3:
 
 
 
-    player "Damn, you must be the cutest kitten in this world~"
+    player "该死的,你一定是这个世界上最可爱的小猫~"
 
 
 
     scene g_train_sub_3_11 with tstmgr
 
-    player "Come here, you plumpy thing~~"
+    player "过来,你这个胖家伙~"
 
 
 
@@ -119,7 +119,7 @@ label G_train_sub_3:
 
     scene g_train_sub_3_13 with tstmgr
 
-    player "Yeah, be good and let me rub your body~"
+    player "对,乖乖的,让我给你擦身子~"
 
 
 
@@ -153,71 +153,71 @@ label G_train_sub_3:
 
 
 
-    player "What a smart kitten... ... always be so obedient to your master."
+    player "多么聪明的小猫啊......总是那么听从主人的安排."
 
 
 
-    player "You know who owns you, right?"
+    player "你知道谁拥有你,对吗?"
 
 
 
-    g "Meow meow meow~~~"
+    g "喵呜 喵呜 喵呜~~~"
 
 
 
     scene g_train_sub_3_15 with tstmgr
 
-    player "Yes, yes, lick my finger just like that, good girl... ..."
+    player "是的,是的,就像这样舔我的手指,好姑娘... ..."
 
 
 
-    "Friend A" "Eh... ... Hello?"
+    "友人A" "Eh... ... Hello?"
 
 
 
-    player "Oh, shit, sorry, man, I was too immersed in... ... caressing my cat."
+    player "哦,该死,对不起,伙计,我太沉浸在......爱抚我的猫了."
 
 
 
-    "Friend A" "I can tell that you... really love your cat, huh... ..."
+    "友人A" "我可以看出,你......真的很爱你的猫,呵呵... ..."
 
 
 
     scene g_train_sub_3_16 with tstmgr
 
-    player "Yep, she is my treasure~"
+    player "是的,她是我的宝贝~"
 
 
 
-    "Friend A" "You are so lucky, dude, my cat doesn’t even allow me to touch him. He just stays under the fridge every day until after I go to bed."
+    "友人A" "你太幸运了,老兄,我的猫甚至不允许我碰它.他每天只呆在冰箱下面,直到我睡觉后才离开."
 
 
 
-    "Friend A" "I wish I could have a cat that I can caress all the time... ..."
+    "友人A" "我希望我可以有一只可以一直给我摸的猫... ..."
 
 
 
-    "Friend A" "Wait, can I come over and play with your cat now?"
+    "友人A" "等等,我现在可以过去和你的猫玩吗?"
 
 
 
     scene g_train_sub_3_17 with tstmgr
 
-    player "Eh... ... No, no way, definitely not."
+    player "呃.......不,不可能,绝对不可能."
 
 
 
-    player "I mean... she is very timid and she won’t let any stranger touch her."
+    player "我的意思是......她非常胆小,她不会让任何陌生人碰她."
 
 
 
     scene g_train_sub_3_18 with tstmgr
 
-    player "I am the only one she is willing to get intimate with~"
+    player "我是她唯一愿意与之亲密接触的人~"
 
 
 
-    "Friend A" "Oh, okay, I get it. Yeah, cats are easy to stress out, you have to be careful."
+    "友人A" "哦,好的,我明白了.是的,猫很容易给人压力,你必须要小心."
 
 
 
@@ -227,41 +227,41 @@ label G_train_sub_3:
 
 
 
-    "Friend A" "Oh my, that sounds too damn adorable! What kind of cat is that?"
+    "友人A" "哦,我的天,这听起来太他妈可爱了! 那是哪种猫?"
 
 
 
     scene g_train_sub_3_20 with tstmgr
 
-    player "*Slurring* She is a... ... I... I don’t know... ... a Ragdoll?"
+    player "*含糊不清* 她是一个... ... I... 我不知道......一个布偶猫?"
 
 
 
-    "Friend A" "Ah, yeah, I heard that Ragdolls are all friendly and soft. What color does she have?"
+    "友人A" "啊,是的,我听说布偶猫都很友好,很柔软.她有什么颜色?"
 
 
 
-    player "Red... ... I guess?"
+    player "红... ... 色?"
 
 
 
-    "Friend A" "Oh shit, that’s quite rare! I have never seen a red Ragdoll in real life. Dude, can we do a facetime now so you can show me your cat?"
+    "友人A" "哦,妈的,这可真够稀罕的!我从来没有在现实生活中见过红布偶猫.老兄,你能不能拍个照,让你给我看看你的猫.?"
 
 
 
     scene g_train_sub_3_21 with tstmgr
 
-    player "*Looking at Uno* ... ... ... ..."
+    player "*望着乌诺* ... ... ... ..."
 
 
 
     scene g_train_sub_3_20 with tstmgr
 
-    player "Sorry, my camera is dead. Maybe next time."
+    player "对不起,我的相机坏了.也许下一次."
 
 
 
-    "Friend A" "What a pity... ..."
+    "友人A" "多么可惜啊 多么可惜啊... ..."
 
 
 
@@ -273,11 +273,11 @@ label G_train_sub_3:
 
 
 
-    "Friend A" "Ohhhhh~~~ That was so cute!"
+    "友人A" "Ohhhhh~~~ 这真是太可爱了!"
 
 
 
-    player "*Immersing head in Uno’s breasts* Wuuuuuuuummmm~~~~~"
+    player "*将头沉浸在乌诺的乳房中* Wuuuuuuuummmm~~~~~"
 
 
 
@@ -285,23 +285,23 @@ label G_train_sub_3:
 
 
 
-    "Friend A" "Eh... what are you doing this time?"
+    "友人A" "呃......你这次又要干了什么?"
 
 
 
-    player "My cat... ... wwuuuuummmm~~~ is letting me rub my face in her boobs... no, I mean, in her belly~~~"
+    player "我的猫...... ... wwuuuuummmm~~~让我的脸在她的胸部......不,我的意思是,在她的肚子上摩擦~~~"
 
 
 
-    "Friend A" "Okay... ..."
+    "友人A" "Okay... ..."
 
 
 
-    g "Meow~~~~"
+    g "喵呜~~~~"
 
 
 
-    player "You... you bad kitten, you can’t do whatever you want just because you’re cute!"
+    player "你......你这只坏小猫,你不能因为你可爱就为所欲为!"
 
 
 
@@ -357,65 +357,65 @@ label G_train_sub_3:
 
 
 
-    "Friend A" "... ... ... ..."
+    "友人A" "... ... ... ..."
 
 
 
-    "Friend A" "Are you... spanking your cat?"
+    "友人A" "你在......打你的猫的屁股?"
 
 
 
     scene g_train_sub_3_26 with tstmgr
 
-    player "Yeah, of course, what else can it be?"
+    player "是的,当然了,还能是什么呢?"
 
 
 
-    "Friend A" "... ... ... ..."
+    "友人A" "... ... ... ..."
 
 
 
-    "Friend A" "How could it make such a... ... crisp sound? It’s like you are spanking a real person."
+    "友人A" "它怎么能发出如此... ...清脆的声音?就像你在打一个真正的人的屁股一样."
 
 
 
-    player "That’s so ridiculous~ Why would you think that way?~"
+    player "太荒唐了~你怎么会有这种想法?~"
 
 
 
-    player "Anyway, sorry man, I am really not available next week. I have to... eh... take care of my cat~"
+    player "总之,对不起,我下周真的没空.我必须...呃...照顾我的猫~"
 
 
 
-    "Friend A" "Come on, dude, is a stripper less attractive to you than a cat?"
+    "友人A" "来吧,伙计,对你来说,猫比脱衣舞女更有吸引力吗?"
 
 
 
     scene g_train_sub_3_27 with tstmgr
 
-    player "Yep, absolutely, I am a cat person~"
+    player "是的,绝对的,我是个爱猫人士~"
 
 
 
-    "Friend A" "That will be such a shame... ..."
+    "友人A" "这将是一个巨大的耻辱... ..."
 
 
 
     scene g_train_sub_3_28 with tstmgr
 
-    player "Goodbye, man~ I have to... go take care of my cat now~"
+    player "再见,伙计,我必须......现在去照顾我的猫~"
 
 
 
     scene g_train_sub_3_29 with tstmgr
 
-    player "*Cutting the phone* ... ... ... ..."
+    player "*挂断电话* ... ... ... ..."
 
 
 
     scene g_train_sub_3_30 with tstmgr
 
-    player "And now... ..."
+    player "那么现在... ..."
 
 
 
@@ -423,77 +423,77 @@ label G_train_sub_3:
 
     $ flashlight()
 
-    player "Tell me, why did you try to interrupt me?"
+    player "告诉我,你为什么要打断我?"
 
 
 
     scene g_train_sub_3_32 with tstmgr
 
-    g "Because Uno doesn’t want master to go to that party~"
+    g "因为乌诺不希望主人去参加那个聚会~"
 
 
 
-    g "Uno wants master to stay with me at home everyday~"
+    g "乌诺想要主人每天在家里陪我~"
 
 
 
-    g "Uno will be sad if master leaves Uno alone and has fun with some strippers instead... ..."
+    g "如果主人把乌诺一个人留在那里,而和一些脱衣舞女郎一起玩耍,乌诺会很伤心... ..."
 
 
 
     scene g_train_sub_3_33 with tstmgr
 
-    g "Uno... can do much more for master than a stripper~"
+    g "乌诺......能为主人做的事比脱衣舞娘多得多~"
 
 
 
-    player "Well, you don’t need to worry about that at all. I’m not gonna leave my cutest ragdoll alone~~~"
+    player "好吧,你根本不需要担心这个问题.我不会丢下我最可爱的布偶猫不管的~~~"
 
 
 
     scene g_train_sub_3_34 with tstmgr
 
-    g "Master is the best!"
+    g "主人最棒了!"
 
 
 
-    player "But I’m a little curious about what you mean by ‘you can do much more for me than a stripper?’"
+    player "但我有点好奇,你说的 你能为我做的比脱衣舞娘多得多 是什么意思?’"
 
 
 
     scene g_train_sub_3_35 with tstmgr
 
-    g "Hmmmmmm~ For example... ..."
+    g "Hmmmmmm~ 例如... ..."
 
 
 
     scene g_train_sub_3_36 with tstmgr
 
-    g "Uno can take care of master’s sexual desire whenever master is in need~"
+    g "只要主人有需要,乌诺就能解决主人的性欲~"
 
 
 
-    player "Ho... is that so~"
+    player "呵...是这样的吗~"
 
 
 
     scene g_train_sub_3_37 with tstmgr
 
-    g "Yes, because... Uno is master’s pet, slave, personal belonging, blah blah blah~"
+    g "是的,因为... 乌诺是主人的宠物、奴隶、个人财产,等等等等~"
 
 
 
-    "My... ... This girl never feels embarrassed to express her submission to me."
+    "我的... ... 这个女孩从来没有觉得不好意思向我表达她的奴性."
 
 
 
     scene g_train_sub_3_38 with tstmgr
 
-    player "Alright then... ..."
+    player "好吧... ..."
 
 
 
-    player "A good kitten like you should definitely be rewarded~"
+    player "像你这样的好猫猫绝对应该得到奖励~"
 
 
 
@@ -501,11 +501,11 @@ label G_train_sub_3:
 
     $ flashlight()
 
-    g "Ohhhhhhhhhhh~~~~ Master~~~"
+    g "Ohhhhhhhhhhh~~~~ 主人~~~"
 
 
 
-    "I gripped her little peachy ass and pushed my dick hard into her pussy."
+    "我抓着她的蜜桃型的屁股,把我的鸡巴使劲往她的小穴里推.."
 
 
 
@@ -515,23 +515,23 @@ label G_train_sub_3:
 
 
 
-    "My dick plunged to the deepest of her almost immediately, bringing her to a mild orgasm in just an instant."
+    "我的鸡巴几乎立刻就插到了她的最深处,在一瞬间就把她带到了一个轻微的高潮."
 
 
 
-    "She arched her back a little and began to convulse continuously, but at the same time she was still trying her best to accommodate my move."
+    "她稍稍拱起背部,开始不断抽搐,但同时她仍在尽力适应我的动作."
 
 
 
-    player "Uno... ... My little ragdoll~~"
+    player "乌喏...... 我的小布偶猫~~"
 
 
 
-    g "Nyaaaaahhhh~~~~~~ Master~~~ Love you~~~~"
+    g "Nyaaaaahhhh~~~~~~ 主人~~~ 爱你~~~~"
 
 
 
-    g "This is... the best reward ever~~~"
+    g "这是......有史以来最好的奖励~~~"
 
 
     stop sound
@@ -541,23 +541,23 @@ label G_train_sub_3:
 
 
 
-    "I couldn’t see her face from this angle, but I could see her sexy back and meaty ass, as well as two bouncing titties in a distance."
+    "从这个角度我看不到她的脸,但我可以看到她性感的背部和肉感的臀部,以及远处两个跳动的奶子."
 
 
 
-    "This is such a gorgeous picture... ..."
+    "这幅画真是太美了... ..."
 
 
 
-    g "Master, Uno is... better than a stripper, right?"
+    g "主人,乌诺是......比脱衣舞娘好,对吗?"
 
 
 
-    player "You are the best, Uno... ..."
+    player "你是最棒的,乌诺... ..."
 
 
 
-    g "Meow~~~ Meow~~~~ Meowwwwaaaaaahhh~~~~~"
+    g "喵呜~~~ 喵呜~~~~ 喵喵喵喵喵~~~~~"
 
 
     stop sound
@@ -567,23 +567,23 @@ label G_train_sub_3:
 
 
 
-    g "Master~~ master~~ awwwww~~~ You are so strong~~"
+    g "主人~~ 主人~~ awwwww~~~ 你真是健壮~~"
 
 
 
-    g "Huhhhhhhhhh~~ Uno’s tits... are dancing so wildly~~"
+    g "咦~~~乌诺的奶子......跳得很狂野~~"
 
 
 
-    g "They are celebrating master’s penetration... and welcoming master’s sperm~~~"
+    g "他们正在庆祝主人的插入...并欢迎主人的精子~~~"
 
 
 
-    player "As you wish, my little ragdoll~"
+    player "如你所愿,我的小布偶猫~"
 
 
 
-    player "Now embrace my cum!"
+    player "现在!!拥抱我的精液吧!!!"
 
 
     stop sound
@@ -595,29 +595,17 @@ label G_train_sub_3:
 
 
 
-    "Ahhhhh... ... That was so good~"
+    "Ahhhhh... ... 这真是太棒了~"
 
 
 
     scene g_train_sub_3_44 with tstmgr
 
-    player "Good kitty~ You just squeezed out every last drop of my cum. Now my balls are empty~"
+    player "好猫咪~你刚刚挤掉了我最后一滴精液.现在我的蛋蛋已经空了~"
 
 
 
-    player "Hmmmmmmmm... ... Wait a second... ..."
-
-
-
-    scene g_train_sub_3_45 with tstmgr
-
-    pause
-
-
-
-    scene g_train_sub_3_46 with tstmgr
-
-    pause
+    player "Hmmmmmmmm... ... 等一下... ..."
 
 
 
@@ -652,7 +640,7 @@ label G_train_sub_3:
 
 
     scene g_train_sub_3_46 with tstmgr
-    play sound cumshot
+
     pause
 
 
@@ -669,13 +657,25 @@ label G_train_sub_3:
 
 
 
-    player "Okay, now my balls are really empty~ Nice job, kitty~"
+    scene g_train_sub_3_45 with tstmgr
+
+    pause
+
+
+
+    scene g_train_sub_3_46 with tstmgr
+    play sound cumshot
+    pause
+
+
+
+    player "好了,现在我的蛋蛋真的空了~ 干得好,小猫咪~"
 
 
 
     scene g_train_sub_3_47 with tstmgr
 
-    g "Nya... Nyah~~~~ Uno is so happy~"
+    g "Nya... Nyah~~~~乌诺是如此的快乐~"
 
 
 

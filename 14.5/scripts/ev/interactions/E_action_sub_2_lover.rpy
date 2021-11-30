@@ -2,13 +2,13 @@ label E_action_sub_2_lover:
 
     scene void with tstmgr
 
-    "Morning, in Elisa’s house... ..."
+    "上午,在伊莉莎的家里 ... ..."
 
 
 
     scene e_action_sub_2_1 with dissolve
 
-    player "Hello, anyone home?"
+    player "你好,有人在家吗?"
 
 
 
@@ -16,11 +16,11 @@ label E_action_sub_2_lover:
 
 
 
-    player "Auntie? Are you there?"
+    player "姑妈?你在吗??"
 
 
 
-    e "I’m in my room~"
+    e "我在我的房间里~"
 
 
 
@@ -32,42 +32,42 @@ label E_action_sub_2_lover:
 
     scene e_action_sub_2_2 with dissolve
 
-    e "Morning, sweetie~ I’ve been waiting for you since 6 am~"
+    e "早上好,亲爱的~我从早上6点就开始等你了~"
 
 
 
-    player "Wow... ... Elisa... ... You tied yourself up again~"
+    player "Wow... ... 伊莉莎... ... 你又把自己绑起来了~"
 
 
 
-    player "I thought you would only do such a thing in our secret bungalow..."
+    player "我以为你只会在我们的秘密平房里做这种事..."
 
 
 
     scene e_action_sub_2_3 with tstmgr
 
-    e "I’m... getting bolder these days, ha~"
+    e "我......这些天越来越大胆了,哈~"
 
 
 
     scene e_action_sub_2_4 with tstmgr
 
-    player "And... wow, you knotted up your nipples again, so kinky~"
+    player "还有......哇,你又把你的乳头打结了,太变态了~"
 
 
 
-    e "I... I know you would like it."
+    e "我知道你会喜欢它."
 
 
 
 
     scene e_action_sub_2_37 with tstmgr
 
-    e "Irene has already left home for school, we have... a lot of time~"
+    e "艾琳已经离开家去上学了,我们有......很多的时间~"
 
 
 
-    e "Is there... anything you want to do to me?"
+    e "有没有......你想对我做什么?"
 
 
 
@@ -78,36 +78,36 @@ label E_action_sub_2_lover:
     label E_action_sub_2_lover_choice_1:
 
     menu:
-        "Play her boobs":
+        "胸部":
 
 
             scene e_action_sub_2_5 with tstmgr
 
-            player "Tying up your own nipples like this... ... how did you even come up with this idea?"
+            player "像这样把自己的乳头绑起来......你怎么会有这样的想法?"
 
             scene e_action_sub_2_6 with tstmgr
 
-            e "The knots on the milk bags really turn you on, right?"
+            e "牛奶袋上的绳结真的让你兴奋,对吗?"
 
-            player "Yeah... ... This is the ultimate art of bondage. It only used two small knots to stimulate male’s sadism maximum~"
+            player "是的... ... 这就是捆绑的终极艺术.它只用了两个小结,最大限度地刺激了男性的虐待欲~"
 
             scene e_action_sub_2_7 with tstmgr
 
-            player "Look at these juicy melons... ..."
+            player "看看这些多汁的果实 ... ..."
 
-            player "Your nipples, do they hurt?"
+            player "你的乳头,它们会痛吗?"
 
-            e "It hurts quite much... ... the knots are a little bit too tight, but... ... I’m enjoying it~"
+            e "很疼......结有点太紧,但.......我很享受这个过程~"
 
             scene e_action_sub_2_8 with tstmgr
 
             $ flashlight()
 
-            player "Of course you are~ you are the sluttiest aunt in the world~"
+            player "当然,你是~你是世界上最淫荡的姨妈~"
 
             e "Ohhhhhhhh~~~~"
 
-            e "Yes, yes, my nipples~~~~ Awwww... ... keep pinching them like that~"
+            e "是的,是的,我的乳头~~~~ Awwww... ...继续这样捏着它们~"
 
             scene e_action_sub_2_9 with tstmgr
 
@@ -115,11 +115,11 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhhhhhhhhh!!!!~~~~~"
 
-            player "Wow... Elisa, your nipples are hard like stone now. Are you sure it is fine?"
+            player "哇哦... 伊莉莎,你的乳头现在像石头一样硬了.你确定它是好的吗?"
 
-            e "Please... I am enjoying it so much~ Just abusing them as you want~~~"
+            e "求你了... 我非常喜欢它~只要你想虐待他们就好了~~~"
 
-            player "Well, if that is what you want... ..."
+            player "好吧,如果这是你想要的... ..."
 
             scene e_action_sub_2_10 with tstmgr
 
@@ -127,7 +127,7 @@ label E_action_sub_2_lover:
 
             e "Ahhhhhhhhhhhhh!!!!!!!!~~~~~~~"
 
-            e "Nipples... are going to be ripped off~~~"
+            e "乳头......要被扯掉了~~~"
 
             scene e_action_sub_2_9 with tstmgr
 
@@ -171,17 +171,17 @@ label E_action_sub_2_lover:
 
             scene e_action_sub_2_11 with tstmgr
 
-            player "Oh my... those knots really do the job. No milk leaks out at all no matter what I do~"
+            player "哦,天哪......这些结真的很管用.不管我怎么做,牛奶都不会漏出来~"
 
-            e "My breasts... are going to... explode... ..."
+            e "我的乳房...要...爆炸了... ..."
 
-            player "Do you need me to get those knots off for you?"
+            player "你需要我帮你把这些结打掉吗?"
 
-            e "No, no, keep abusing my breasts~~~ I love the way you abuse my breasts~~~"
+            e "不,不,继续虐待我的乳房~~~我喜欢你虐待我乳房的方式~~~"
 
             scene e_action_sub_2_12 with tstmgr
 
-            player "Alright, there is something else I want to do~ I always want to feel what it is like to punch these milk bags... ..."
+            player "好吧,我还想做一件事~我一直想感受一下打这些牛奶袋是什么感觉... ..."
 
             scene e_action_sub_2_13 with tstmgr
             play sound spank
@@ -189,7 +189,7 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhh!!~~~~~"
 
-            player "Ha, it feels better than the finest sandbag~"
+            player "哈,这感觉比最好的沙袋还要好~"
 
             scene e_action_sub_2_12 with tstmgr
 
@@ -221,7 +221,7 @@ label E_action_sub_2_lover:
 
             e "Owwwwwwwwww!~~~~~"
 
-            "Wow, I could feel the ripples of fat and milk in her boobs from my punch~"
+            "哇,我可以感觉到我的拳头在她的乳房上荡起了脂肪和牛奶的涟漪.~"
 
             scene e_action_sub_2_14 with tstmgr
 
@@ -251,13 +251,13 @@ label E_action_sub_2_lover:
             play sound spank
             $ flashlight()
 
-            e "This is it, this is it, I can’t take it anymore! Take the knots off! Take them off now!"
+            e "这就是它,这就是它,我再也受不了了! 把绳结解开!现在就把它们拿掉!"
 
-            "It looks like she has reached the limit of what she can bear."
+            "看起来她已经达到了她所能承受的极限."
 
             scene e_action_sub_2_16 with tstmgr
 
-            player "As you wish, auntie~"
+            player "如你所愿,姑妈~"
 
             scene e_action_sub_2_17 with tstmgr
             play sound cumshot
@@ -265,10 +265,10 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhhhhhhhhhhhhh!!!~~~~~~~"
 
-            "Her breasts erupted like volcanoes for more than one minute. A huge amount of milk spurted from her nipples and even converged in a puddle on her bed."
+            "她的乳房像火山一样喷发了1分多钟.大量的乳汁从她的乳头喷出,甚至在她的床上汇聚成一滩."
 
-            "Ahhhh... What a waste! The next time I will use something to collect every drop of her milk!~"
-        "Tie her up":
+            "啊......太浪费了! 下次我会用东西来收集她的每一滴奶!~"
+        "把她绑起来":
 
 
 
@@ -277,15 +277,15 @@ label E_action_sub_2_lover:
 
             scene e_action_sub_2_18 with tstmgr
 
-            e "Oh? You are... tying my arms?"
+            e "哦,你在......绑住我的手臂?"
 
-            player "Yep~ It can’t be called as bondage if you can still move your limbs freely, right?"
+            player "是的,如果你的四肢还能自由活动,那就不能称为束缚,对吗?"
 
             scene e_action_sub_2_19 with tstmgr
 
-            e "Okay... ... just do whatever you like~ I’m looking forward to see what you are going to do to me~"
+            e "好吧......你想做什么就做什么吧~我很期待看到你要对我做什么~"
 
-            player "You will be surprised, auntie~"
+            player "你会惊讶的,阿姨~"
 
             scene e_action_sub_2_20 with tstmgr
 
@@ -293,13 +293,13 @@ label E_action_sub_2_lover:
 
             e "Ohhhhh?~"
 
-            e "You... tied my arms and feet all together? Now I can’t move at all."
+            e "你......把我的胳膊和脚都绑在一起?现在我完全不能动了."
 
-            e "What... do you want to do to me?"
+            e "你...想对我做什么?"
 
             scene e_action_sub_2_21 with tstmgr
 
-            player "Well, auntie, I would like to see you being fucked by a tool~"
+            player "好吧,阿姨,我想看看你被一个工具操的样子~"
 
             e "Awwww... ..."
 
@@ -309,13 +309,13 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhhh~~~~"
 
-            "I suddenly sticked this electric dildo into her pussy and turned on the switch."
+            "我突然把这个电动假阳具插进她的小穴里,然后打开了开关."
 
             scene e_action_sub_2_23 with tstmgr
 
-            player "Now just enjoy, auntie~"
+            player "现在就好好享受吧,姨妈~"
 
-            e "Wa... wait... ..."
+            e "等... 等一下... ..."
 
             scene e_action_sub_2_24 with tstmgr
 
@@ -323,47 +323,47 @@ label E_action_sub_2_lover:
 
             pause
 
-            e "Ohhhhhhh~~~ It is vibrating so hard!~~~~"
+            e "Ohhhhhhh~~~这震动!~~~~"
 
-            "This scene is just breathtaking. Her huge jelly boobs are bouncing so hard along with the vibration of that dildo. It turns me so on just looking at these soft mountains of fat."
+            "这一幕实在是令人叹为观止.她巨大的果冻般的乳房随着假阳具的振动而剧烈地跳动着.仅仅看着这些柔软的脂肪山,我就觉得很兴奋.."
 
-            "Right now she can’t move her arms and legs at all, the only thing she can move is that pair of huge boobs. Oh my... that makes her boobs look even more magnificent and lewd~"
+            "现在她的胳膊和腿根本不能动,唯一能动的是那对巨大的乳房.哦,我的......这使她的胸部看起来更加雄伟和淫荡~"
 
-            "Her labia is keeping stretching and contracting itself like it is a living thing. It is trying to swallow the whole dildo in her pussy. Man, young girls can't do such a trick, only a mature lady like Elisa can make the most of her body like this."
+            "她的下面的嘴唇一直在拉伸和收缩,就像它是一个活物.它正试图吞下她小穴里的整个假阳具.年轻的女孩是做不到这样的技巧的,只有像伊莉莎这样成熟的女士才能把自己的身体发挥到极致."
 
-            e "This is... too much~~ I can’t... hhhhhh~~~"
+            e "这是......太多~~我不能... hhhhhh~~~"
 
-            e "Ahh~~~ hhh~~~ [P]~~~ no... don’t look at me~~~"
+            e "Ahh~~~ hhh~~~ [P]~~~ 不...别看我~~~"
 
             scene e_action_sub_2_25 with tstmgr
 
             pause
+我觉得我被假阳具强奸了
+            e "我觉得我被假阳具强奸了!~~~~"
 
-            e "I feel like I’m being raped by a dildo!~~~~"
+            e "Ohhhhhh~~~ 我将会爱上这种感觉~~~"
 
-            e "Ohhhhhh~~~ I’m going to fall in love with this feel~~~"
+            e "我是如此一个肮脏的女人~~~ Awwwwwwwww~~~~"
 
-            e "I’m such a dirty woman~~~ Awwwwwwwww~~~~"
-
-            "Ah, shit, I can’t just stand here and watch her having all the fun alone~"
+            "啊,该死,我不能只站在这里,看着她独自享受所有的乐趣~"
 
             scene e_action_sub_2_26 with tstmgr
 
-            player "How does it feel, auntie? Are you enjoying it?"
+            player "感觉如何,姑妈?你喜欢它吗?"
 
-            e "Awwwwww~~~ It is driving me crazy, but... ..."
+            e "Awwwwww~~~ 这让我很抓狂,但... ..."
 
-            e "I feel that... something is missing... ..."
+            e "我觉得......缺少一些东西... ..."
 
-            e "I need... a real cock~~~~"
+            e "我需要......一个真正的鸡巴~~~~"
 
             scene e_action_sub_2_27 with tstmgr
 
-            player "Alright, you will have what you want, but first... ..."
+            player "好吧,你会得到你想要的东西,但首先... ..."
 
             scene e_action_sub_2_28 with tstmgr
 
-            player "Let’s make you have an orgasm~"
+            player "让我们让你有一个高潮~"
 
             scene e_action_sub_2_29 with tstmgr
             play sound spank
@@ -371,13 +371,13 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhhhhhh!!!~~~~~~"
 
-            "I slapped hard on her belly, making her body trembled violently."
+            "我用力拍打她的腹部,使她的身体剧烈地颤抖起来."
 
-            e "Awwwwww~ You can’t slap my belly while the dildo is vibrating inside it~~~~~ I will lose my mind!!!~~~"
+            e "Awwwwww~ 你不能在假阳具在体内振动时拍打我的腹部,~~~~~,我会失去理智.!!!~~~"
 
             scene e_action_sub_2_28 with tstmgr
 
-            player "Well, that’s exactly what I want~"
+            player "嗯,这正是我想要的~"
 
             scene e_action_sub_2_29 with tstmgr
             play sound spank
@@ -395,7 +395,7 @@ label E_action_sub_2_lover:
 
             e "Yeeeeeeeeeh!!!~~~~~"
 
-            e "I... I’m cumming!!!~~~~~~~~~"
+            e "我射了!!!~~~~~~~~~"
 
             scene e_action_sub_2_30 with tstmgr
             play sound cumshot
@@ -403,15 +403,15 @@ label E_action_sub_2_lover:
 
             e "Ohhhhhhhhhhhhhhhhhhh!!!~~~~~~~~~"
 
-            "Elisa had a great orgasm. I think I have never seen her squirting this hard before~"
+            "伊莉莎发出了前所未有的高潮.我想我从未见过她如此用力地喷出水来~"
 
             scene e_action_sub_2_31 with tstmgr
 
-            player "It’s glad to see you so enjoying, auntie~"
+            player "很高兴看到你这么开心,阿姨~"
 
-            e "I... I... ... can’t... ... awwww... ..."
+            e "我... 我... ... 不能... ... awwww... ..."
 
-            player "And now, you will have the real cock you want~"
+            player "而现在,你将拥有你想要的真正的鸡巴.~"
 
             scene void with tstmgr
 
@@ -423,21 +423,21 @@ label E_action_sub_2_lover:
 
             e "Huh... huh... huh... ... ohhhhh~~~"
 
-            "I untied her limbs, pressed her against the wall, and penetrated her pussy with my big real dick."
+            "我解开她的四肢,把她按在墙上,用我的大鸡巴插进她的小穴里."
 
-            e "Yes, yes, the real cock... [P]’s cock... ... inside me... ..."
+            e "Yes, yes, 真正的鸡巴... [P]的鸡巴......在我体内... ..."
 
-            e "Thank you for... satisfying the wish of this horny slut~"
+            e "谢谢你......满足了这个好色的荡妇的愿望~"
 
-            e "But... owwwww... I am so ugly... ... My breasts... they are so saggy that can even reach my bellybutton... ..."
+            e "但是......呜呜呜.......我是如此的丑陋... ... 我的乳房... ... 它们是如此的下垂,甚至可以达到我的肚脐眼... ..."
 
-            e "Don’t... look at me~~~"
+            e "不要...看着我~~~"
 
-            player "What the hell are you talking about? Stop feeling inferior, you have one of the sexiest bodies on earth~ Can you feel how hard my dick is? It is all because of you~"
+            player "你到底在说什么?不要再自卑了,你有地球上最性感的身体之一~你能感觉到我的阴茎有多硬吗?这都是你的功劳~"
 
-            e "But... ..."
+            e "但是... ..."
 
-            player "Enough, I don’t allow you to feel inferior to your body anymore because now your body is my property. No one has the right to judge my property except me!"
+            player "够了,我不允许你再为自己的身体感到自卑,因为现在你的身体是我的财产.除了我,没有人有权利评判我的财产!"
 
             e "Wow... ... [P]... ..."
 
@@ -446,21 +446,21 @@ label E_action_sub_2_lover:
             play sound e_action_sub_2_33 loop
             pause
 
-            e "That's so bossy~~ but I love it so much~~"
+            e "太霸道了~~但我太喜欢了~~"
 
-            e "Yes... you are right, you have conquered me so... my body... my heart... are all your properties."
+            e "是的...你是对的,你已经征服了我...我的身体...我的心...都是你的财产."
 
-            e "Only you... can judge it... ..."
+            e "只有你......可以判断它... ..."
 
-            player "I love you, Elisa, and I love every inch of your body~"
+            player "我爱你,伊莉莎,我爱你的每一寸身体~"
 
-            e "I’m so happy~~~~~"
+            e "我很高兴~~~~~"
 
-            player "And now... I’m going to stain your pussy again with my cum to let you know who is in charge here~"
+            player "而现在... 我又要用我的精液来玷污你的小穴,让你知道谁才是这里的主人~"
 
-            e "Please... ... direct to my womb~"
+            e "请......直接到我的子宫来~"
 
-            player "I’m cumming!"
+            player "我射了!"
 
             stop sound
             scene e_action_sub_2_34 with tstmgr
@@ -469,17 +469,17 @@ label E_action_sub_2_lover:
 
             e "Ahhhhhhhhhhhh!~~~~~~"
 
-            "I ejected all the sperm in my balls into Elisa’s vagina..."
+            "我把蛋蛋里的精子都射进了伊莉莎的小穴里..."
 
             scene e_action_sub_2_35 with tstmgr
 
             e "Huh... huh... huh... huh... ..."
 
-            player "That was so great, auntie. Thanks for letting me taste the fascination of your mature body~"
+            player "这真是太好了,阿姨.谢谢你让我品尝到你成熟身体的魅力~"
 
             scene e_action_sub_2_36 with tstmgr
 
-            e "And I thank you... ... for everything."
+            e "我感谢你......的一切."
 
     scene void with tstmgr
 

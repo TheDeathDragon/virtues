@@ -2,13 +2,13 @@ label school_library_afternoon_B_3:
 
     scene school_library_afternoon_b_3_1 with tstmgr
 
-    b "*Sneezing* Huhhh~~~~"
+    b "*打喷嚏*Huhhh~~~~"
 
 
 
     scene school_library_afternoon_b_3_2 with tstmgr
 
-    b "I want to have a nap..."
+    b "我想小睡一会儿..."
 
 
 
@@ -20,11 +20,11 @@ label school_library_afternoon_B_3:
 
     scene school_library_afternoon_b_3_4 with tstmgr
 
-    b "*Put head on [P]'s shoulder* Hee hee~~~"
+    b "*把头放在[P]的肩膀上*Heehee~~~"
 
 
 
-    player "Sen... ..."
+    player "森......"
 
 
 

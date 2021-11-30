@@ -3,33 +3,33 @@ label E_daily_8:
     scene void with tstmgr
     play music sorrow
 
-    "After today’s tutoring class with Irene..."
+    "今天和艾琳上完辅导课后..."
 
 
 
     scene e_daily8_1 with tstmgr
 
-    e "How was the tutoring, kids?"
+    e "孩子们,辅导的怎么样?"
 
 
 
     scene e_daily8_2 with tstmgr
 
-    d "It was really helpful! [P] is the best!"
+    d "这真的很有帮助![P]是最棒的!"
 
 
 
-    e "That’s good to hear~"
+    e "很高兴听到这个消息~"
 
 
 
-    e "Are you leaving now, [P]?"
+    e "你现在就要走吗,[P]?"
 
 
 
     scene e_daily8_3 with tstmgr
 
-    player "Yeah, I have already booked an Uber. See you tomorrow, Aunt Elisa and Irene."
+    player "Yeah,我已经叫了车.明天见,伊莉莎阿姨和艾琳."
 
 
 
@@ -37,49 +37,49 @@ label E_daily_8:
 
 
 
-    e "Take care."
+    e "路上小心."
 
 
 
     scene void with tstmgr
 
-    "I turned around and approached the front door, but suddenly, everything went round and round in my head and I almost fell on the ground."
+    "我转过身,朝前门走去,但突然间,我脑袋感觉天旋地转,我几乎摔倒在地."
 
 
 
     scene e_daily8_4 with tstmgr
 
-    d "Oh no! Are you okay, [P]?"
+    d "Ohno!你还好吗,[P]?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
     scene e_daily8_5 with tstmgr
 
-    d "Mommy! We need to call him an ambulance! He looks awful!"
+    d "妈咪!我们得给他叫辆救护车!他看起来很糟糕!"
 
 
 
-    e "Don’t worry. I think [P] is just too tired. Now help me carry him to his room. He will be back to normal after a good sleep."
+    e "别担心.我认为[P]只是太累了.现在帮我把他抬到他的房间去.让他好好睡一觉,他就会恢复的."
 
 
 
     scene e_daily8_6 with tstmgr
 
-    d "But... ..."
+    d "但是......"
 
 
 
     scene e_daily8_7 with tstmgr
 
-    e "Trust me. He will be fine~"
+    e "相信我.他会没事的~"
 
 
 
-    d "Okay... ..."
+    d "嗯......"
 
 
 
@@ -89,25 +89,25 @@ label E_daily_8:
 
 
 
-    "Later tonight..."
+    "今晚晚些时候..."
 
 
 
     scene e_daily8_8 with tstmgr
 
-    e "Sorry, [P]. I might put too much drug in your tea... I will reduce the dose the next time, I promise."
+    e "抱歉,[P].我可能在你的茶里放了太多的药...我保证下次会减少剂量的."
 
 
 
-    e "Now just... let me make it up for you... ..."
+    e "现在...让我来补偿你......"
 
 
 
-    e "By using these breasts..."
+    e "用我的胸..."
 
 
 
-    e "You like them, don’t you? ... ..."
+    e "你喜欢它们,不是吗?......"
 
 
 
@@ -121,15 +121,15 @@ label E_daily_8:
 
 
 
-    e "This pair of cumbersome breasts... finally got some uses..."
+    e "这一对笨重的乳房...终于有了一些用途..."
 
 
 
-    e "They are heavy... and lactating... ... but at least they are huge and soft enough to please a man in this way..."
+    e "它们很重...还不断分泌乳汁......但至少它们又大又软,足够以这种方式取悦男人..."
 
 
 
-    e "It’s such a pity that you can’t enjoy this when you are awake~"
+    e "真遗憾,你不能醒着享受这一切~"
 
 
 
@@ -141,7 +141,7 @@ label E_daily_8:
 
 
 
-    e "Yes... yes... cum as much as you want~~~"
+    e "Yes...yes...想怎么射就怎么射~~~"
 
 
 
@@ -151,7 +151,7 @@ label E_daily_8:
 
     scene e_daily8_11 with dissolve
 
-    e "Thanks... for the feast..."
+    e "谢谢...这次盛宴..."
 
 
 
@@ -159,7 +159,7 @@ label E_daily_8:
 
 
 
-    e "Now it’s time to clean you up... ..."
+    e "现在是时候清理你了......"
 
 
 

@@ -3,53 +3,54 @@ label B_train_sha_3:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Senning’s perspective*"
+    "*下面的情节来自森柠的视角*"
 
 
 
     "... ... ... ..."
 
 
-
-    "Later tonight, in Senning’s room..."
+    "今晚晚些时候,在森柠的房间里..."
 
 
 
     scene b_train_sha_3_1 with dissolve
 
-    b "Mama, are you going to stay here for tonight?~"
+    b "妈妈,你今晚要在这里过夜吗?~"
 
 
 
-    "Lady Minna" "Of course, I want to stay with my little girl as long as I can~"
+    "明娜女士" "当然,只要我有机会,我想和我的小宝贝在一起,~"
 
 
 
     scene b_train_sha_3_2 with tstmgr
 
-    "Lady Minna" "Oh, wait, I can no longer call you a ‘little girl’ anymore. Thanks to [P], you have now become a real woman, a real mature woman~"
+    
+    "明娜女士""哦,等等,我不能再叫你'小姑娘'了.感谢[P],你现在已经成为一个真正的女人,一个真正的成熟女人~"
 
 
 
-    "Lady Minna" "I’m proud of you, honey~"
+
+    "明娜女士" "我为你感到骄傲,亲爱的~"
 
 
 
     scene b_train_sha_3_3 with tstmgr
 
-    b "Mama... ... ... ..."
+    b "妈... ... ... ..."
 
 
 
     scene b_train_sha_3_4 with tstmgr
 
-    "Lady Minna" "Did you enjoy it?"
+    "明娜女士" "你喜欢吗?"
 
 
 
     scene b_train_sha_3_5 with tstmgr
 
-    b "Enjoy?... ..."
+    b "喜欢?... ..."
 
 
 
@@ -63,7 +64,7 @@ label B_train_sha_3:
 
 
 
-    b "He was... so strong, so powerful, but at the same time... so gentle as well."
+    b "他是......如此强大,如此有力量,但同时......也如此温柔."
 
 
 
@@ -73,13 +74,13 @@ label B_train_sha_3:
 
 
 
-    b "And he maximized my pleasure every time he pumped his huge thing into my... ..."
+    b "而他每次将他那巨大的东西抽入我的身体时,都能最大限度地带给我快感... ..."
 
 
 
     scene b_train_sha_3_8 with tstmgr
 
-    "Lady Minna" "Sennning... ..."
+    "明娜女士" "森柠......"
 
 
 
@@ -91,81 +92,81 @@ label B_train_sha_3:
 
 
 
-    b "What I was talking about? That was so... lascivious. Sorry, mama... ..."
+    b "我在说什么?这真是......太淫荡了.对不起,妈妈... ..."
 
 
 
     scene b_train_sha_3_10 with tstmgr
 
-    "Lady Minna" "Don’t be, honey, as a mature woman, sometimes it’s not shameful to be lascivious at all."
+    "明娜女士""别这样,亲爱的,作为一个成熟的女人,有时荒淫无度一点也不可耻."
 
 
 
-    "Lady Minna" "In fact... ... I think you need to learn to be more lascivious a bit. It can be a weapon of yours~"
+    "明娜女士""事实上.......我认为你需要学会更淫荡一点.这可以成为你的一个武器~"
 
 
 
     scene b_train_sha_3_11 with tstmgr
 
-    b "A weapon? What do you mean, mama?"
+    b "一件武器?你是什么意思,妈妈?"
 
 
 
-    "Lady Minna" "Now you have seen your opponent. What do you think of her?"
+    "明娜女士" "现在你已经看到了你的对手.你觉得她怎么样?"
 
 
 
-    b "Opponent?"
+    b "对手?"
 
 
 
     scene b_train_sha_3_12 with tstmgr
 
-    "Lady Minna" "That silver girl from the Shinyrost family."
+    "明娜女士""那个银色的女孩,来自Shinyrost家族"
 
 
 
     scene b_train_sha_3_13 with tstmgr
 
-    b "Oh, Miss Theodora?"
+    b "哦,狄奥多拉小姐?"
 
 
 
-    "Lady Minna" "Yeah, that girl is really a stunner. She can definitely be a threat."
+    "明娜女士" "是的,那个女孩真的是个尤物.她绝对可以成为一个威胁."
 
 
 
     scene b_train_sha_3_14 with tstmgr
 
-    b "Mama, you mean... [P] may dump me because of her?"
+    b "妈妈,你是说...[P]可能会因为她而抛弃我?"
 
 
 
-    "Lady Minna" "Uh-huh, everything could happen these days."
+    "明娜女士" "嗯哼,这些天一切都可能发生."
 
 
 
-    b "I... I don’t think [P] will do that to me... ..."
+    b "我......我不认为[P]会对我这样做......"
 
 
 
-    "Lady Minna" "But it never hurts to improve your charm further and learn one trick or two to compete with western girls like that Theodora."
+    "明娜女士""但进一步提高你的魅力,学习一两招,与狄奥多拉这样的西方女孩竞争,总是没有坏处的."
 
 
 
-    b "What do you mean?"
+    b "你是什么意思??"
 
 
 
     scene b_train_sha_3_15 with tstmgr
 
-    "Lady Minna" "That Theodora has bigger breasts than you and she acts wilder too, just look at her dressing style. She reveals her bra and half of her breasts to people all the time."
+    "明娜女士""那个狄奥多拉的乳房比你大,她的行为也更狂野,看看她的穿衣风格就知道了.她每天都裸露着她的胸罩和半个乳房."
 
 
 
     scene b_train_sha_3_16 with tstmgr
 
-    "Lady Minna" "She knows how to use her lasciviousness as a weapon to attract males. She may really get more of [P]’s favor than you if you don’t get prepared."
+    "明娜女士""她知道如何用她的淫荡作为武器来吸引男性.如果你不做好准备,她可能真的会比你得到更多[P]的青睐."
 
 
 
@@ -173,17 +174,17 @@ label B_train_sha_3:
 
 
 
-    "Lady Minna" "In order to compete with her, you need to learn about her tricks too."
+    "明娜女士" "为了与她竞争,你也需要学习她的技巧."
 
 
 
     scene b_train_sha_3_17 with tstmgr
 
-    "Lady Minna" "And don’t worry, girl, mama got you here~ I will teach you everything I know to get a man’s heart~"
+    "明娜女士""别担心,女孩,妈妈把你带到这里了~我会教你我所知道的一切,以获得男人的心~"
 
 
 
-    b "Mama... looks scary... ..."
+    b "妈妈......看起来很吓人......"
 
 
 
@@ -197,13 +198,13 @@ label B_train_sha_3:
 
 
 
-    "A few days later... ..."
+    "几天后......"
 
 
 
     scene b_train_sha_3_18 with dissolve
 
-    "Afternoon, on a street of downtown... ..."
+    "下午,在市中心的一条街道上......"
 
 
 
@@ -211,7 +212,7 @@ label B_train_sha_3:
 
 
 
-    player "(Senning told me to meet her here in the afternoon, but... where she is?)"
+    player "(森柠告诉我下午在这里见她,但是......她在哪里??)"
 
 
 
@@ -219,13 +220,13 @@ label B_train_sha_3:
 
 
 
-    "Suddenly, I heard Senning’s voice from behind."
+    "突然,我听到森柠的声音从后面传来."
 
 
 
     scene b_train_sha_3_19 with tstmgr
 
-    player "*Turning around* Hi, Sen, I thought... ... ... ..."
+    player "*转过身来* 嗨,森,我想... ... ... ..."
 
 
 
@@ -233,17 +234,17 @@ label B_train_sha_3:
 
 
 
-    player "Wait a minute... ..."
+    player "等下... ..."
 
 
 
-    player "What happened? Why are you dressing like this? You always refuses to wear any revealing clothes."
+    player "发生了什么事?你为什么要穿成这样?你总是拒绝穿任何暴露的衣服."
 
 
 
     scene b_train_sha_3_20 with tstmgr
 
-    b "My mom said... I have to train myself to be opener... like western girls."
+    b "我妈妈说... 我必须训练自己,变得更加开放......像西方女孩一样."
 
 
 
@@ -251,75 +252,75 @@ label B_train_sha_3:
 
 
 
-    player "Why does she want you to be like a western girl?"
+    player "为什么她想让你像个西方女孩一样?"
 
 
 
     scene b_train_sha_3_21 with tstmgr
 
-    b "Because it would make me look sexier... ..."
+    b "因为它能让我看起来更性感... ..."
 
 
 
-    player "It doesn’t make any sen... ... Oh, I see... ..."
+    player "这没有任何意义...... ... 哦,我明白了... ..."
 
 
 
-    player "What you are wearing right now looks indeed sexier than that black&white long-sleeved shirt you always wear."
+    player "你现在穿的衣服看起来确实比你总是穿的那件黑白长袖衬衫更性感."
 
 
 
     scene b_train_sha_3_22 with tstmgr
 
-    player "But don’t you think it is too much? This is kinda too open even by western standards."
+    player "但你不觉得这太过分了吗?即使按照西方的标准,这也有点太开放了"
 
 
 
-    player "How long have you been standing here? Did anyone try to accost you?"
+    player "你在这里站了多久了?有没有人试图与你搭讪?"
 
 
 
-    b "Just about 5 minutes... and no... ..."
+    b "只需5分钟左右......而且没有......"
 
 
 
-    player "It's so lucky that I met you before anyone else..."
+    player "我在别人之前就遇到了你真是太幸运了......"
 
 
 
     scene b_train_sha_3_21 with tstmgr
 
-    b "Mama said I have to push myself to the limit... ..."
+    b "妈妈说我必须把自己推到极限... ..."
 
 
 
-    b "I hate her!!!!"
+    b "我讨厌她!!!!"
 
 
 
-    player "Where is she right now?"
+    player "她现在在哪里?"
 
 
 
     scene b_train_sha_3_23 with tstmgr
 
-    b "I don’t know, she is probably hiding somewhere nearby and observing us with a weird smile."
+    b "我不知道,她可能躲在附近的某个地方,带着姨母笑观察着我们."
 
 
 
     scene b_train_sha_3_24 with tstmgr
 
-    b "What should we do now?... ..."
+    b "那现在呢,我们去哪?... ..."
 
 
 
-    player "I don’t think you can go on a date with such a dress. Come on, I will take you back to your apartment."
+    player "我不认为你能穿着这样的衣服去约会.来吧,我带你回你的公寓."
 
 
 
     scene b_train_sha_3_25 with tstmgr
 
-    b "No no no! My life will be destroyed if any of my friends in school sees me dressing like this. I can’t go back to my apartment now!"
+    b "No no no! 如果我在学校的任何朋友看到我穿成这样,我就要社死了.我现在不能回我的公寓!"
 
 
 
@@ -327,7 +328,7 @@ label B_train_sha_3:
 
 
 
-    player "Then let’s go to my house and you can borrow something to wear from Vera."
+    player "那我们去我家吧,你可以向薇拉借点衣服穿."
 
 
 
@@ -343,11 +344,11 @@ label B_train_sha_3:
 
     scene b_train_sha_3_26 with tstmgr
 
-    b "So... [P], do you think that I should dress opener in the daily life?"
+    b "所以... [P], 你认为我应该在日常生活中打扮地更加开放吗?"
 
 
 
-    player "You don’t need to change yourself just to please me, silly. I just want you to be yourself."
+    player "你不需要为了取悦我而改变自己,傻瓜.我只想让你做你自己."
 
 
 
@@ -359,7 +360,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_28 with tstmgr
 
-    player "Besides... no matter how conservative and elegantly you dress, I know what a horny girl you are deep inside."
+    player "此外......无论你穿得多么保守和优雅,我都知道你内心深处是一个多么好色的女孩."
 
 
 
@@ -367,45 +368,45 @@ label B_train_sha_3:
 
 
 
-    b "Can we go now? My butt feels... cold... ..."
+    b "我们现在可以走了吗?我的屁股感觉......很冷......"
 
 
 
     scene b_train_sha_3_29 with tstmgr
 
-    b "The feeling of the wind blowing on my butt is so strange~"
+    b "风吹在我屁股上的感觉是如此的陌生~"
 
 
 
-    player "Alright, girl, let’s go~"
+    player "好了,女孩,我们走吧~"
 
 
 
-    b "Sorry for ruining the date... ..."
+    b "对不起,毁了这个约会... ..."
 
 
 
-    player "We can continue dating in my house~"
+    player "我们可以在我的房子里继续约会~"
 
 
 
-    player "And you can show me and me alone how open you can be with this dress on... ..."
+    player "你可以单独向我展示你穿上这件衣服后可以有多开放... ..."
 
 
 
     scene b_train_sha_3_30 with tstmgr
 
-    b "That... sounds good."
+    b "听起来不错."
 
 
 
-    "Damn, it turns me so on just imagining what is going to happen in my bedroom~ Thank you so much, Lady Minna!"
+    "该死的,光是想象在我的卧室里会发生什么,就已经让我很兴奋了~非常感谢你,明娜女士!"
 
 
 
     scene void with tstmgr
 
-    "However... ..."
+    "但是... ..."
 
 
 
@@ -413,7 +414,7 @@ label B_train_sha_3:
 
     $ flashlight()
 
-    "Teresa" "Hmmmm? Senning? Is that you?"
+    "特莉莎" "嗯?森柠?这是你?"
 
 
 
@@ -423,31 +424,31 @@ label B_train_sha_3:
 
     scene b_train_sha_3_31 with tstmgr
 
-    b "TTTTTTTTTTTTT... ... Teresa?!!!"
+    b "特特特特... ... 莉莎?!!!"
 
 
 
     scene b_train_sha_3_35 with tstmgr
 
-    "Teresa" "Good... afternoon."
+    "特莉莎" "下午... 好."
 
 
 
     scene b_train_sha_3_32 with tstmgr
 
-    b "What... what a coincidence, awwwwwww..."
+    b "真是......真是太巧了, awwwwwww..."
 
 
 
     scene b_train_sha_3_35 with tstmgr
 
-    "Teresa" "Why are you dressing like this?"
+    "特莉莎" "你为什么要穿成这样?"
 
 
 
     scene b_train_sha_3_33 with tstmgr
 
-    b "About this... ... I... ..."
+    b "这个嘛... ... 我... ..."
 
 
 
@@ -459,75 +460,75 @@ label B_train_sha_3:
 
     scene b_train_sha_3_35 with tstmgr
 
-    "Teresa" "Ah, I see..."
+    "特莉莎" "啧, 我懂啦..."
 
 
 
     scene b_train_sha_3_36 with tstmgr
 
-    "Teresa" "I won’t tell anyone about this, you can count me on that."
+    "特莉莎" "我不会告诉任何人这件事,你可以相信我."
 
 
 
     scene b_train_sha_3_31 with tstmgr
 
-    b "Oh, thank you!"
+    b "Oh, 感激不尽!"
 
 
 
     scene b_train_sha_3_36 with tstmgr
 
-    "Teresa" "It’s rare to see that a girl is willing to change herself so much for a man. You must really love him..."
+    "特莉莎" "很少看到一个女孩愿意为一个男人如此改变自己.你一定是真的爱他..."
 
 
 
-    "Teresa" "I’m happy for you, Senning."
+    "特莉莎" "我为你感到高兴,森柠."
 
 
 
-    b "Teresa... ..."
+    b "特莉莎... ..."
 
 
 
     scene b_train_sha_3_37 with tstmgr
 
-    "Teresa" "*Pointing at you* But you... ..."
+    "特莉莎" "*指着你*但你... ..."
 
 
 
     scene b_train_sha_3_38 with tstmgr
 
-    "Teresa" "You are really a kinky dude..."
+    "特莉莎" "你真的是个变态的家伙..."
 
 
 
-    "Teresa" "Last time you made her moan out so loud at night, and this time you made her dress like a hooker on the street..."
+    "特莉莎" "上次你让她在晚上大声淫叫,这次你让她在街上穿得像个妓女...."
 
 
 
-    "Teresa" "I thought you were a good guy when I first saw you, but it seems like I was totally wrong."
+    "特莉莎" "我第一次见到你的时候以为你是个好人,但看来我完全错了."
 
 
 
-    "Teresa" "I really don’t think you are good enough for Senning. If you dare to make her sad, I promise you that I will kick the shit out of your ass."
+    "特莉莎" "我真的认为你配不上森柠.如果你敢让她伤心,我向你保证,我会把你的头都打下来."
 
 
 
-    player "Eh... Okay, I will... keep that in mind."
+    player "呃......好吧,我会......记住这一点."
 
 
 
-    "Damn, I was so wronged. I mean, neither of those two things she mentioned was my fault."
+    "该死的,我太委屈了.我是说,她提到的那两件事都不是我的错."
 
 
 
-    "But nevermind, I’m happy to know that Senning has such a good friend in college~"
+    "不过算了,我很高兴知道森柠在大学里有这么一个好朋友~"
 
 
 
     scene b_train_sha_3_39 with tstmgr
 
-    "Teresa" "See you in the class, Senning, and... just take care of youself. Bye... ..."
+    "特莉莎" "课上见,森柠,记得......照顾好你自己.再见... ..."
 
 
 
@@ -537,7 +538,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_40 with tstmgr
 
-    "Teresa left in a hurry."
+    "特莉莎 匆匆忙忙地走了."
 
 
 
@@ -545,7 +546,7 @@ label B_train_sha_3:
 
 
 
-    player "Alright, Sen, let’s just go to my place now and... ..."
+    player "好了,森,我们现在就去我那里,然后... ..."
 
 
 
@@ -553,75 +554,75 @@ label B_train_sha_3:
 
     $ flashlight()
 
-    "Suddenly, Senning clamped her tits on my arm."
+    "突然,森柠用她的奶子夹住了我的胳膊."
 
 
 
-    player "Sen?"
+    player "森?"
 
 
 
-    b "Wait... wait a moment."
+    b "等......等一下."
 
 
 
     scene b_train_sha_3_42 with tstmgr
 
-    b "Something... is wrong with me... ..."
+    b "我感觉......有些不对劲......"
 
 
 
-    player "What are you talking about?"
+    player "什么?"
 
 
 
-    b "I don’t know, it just feels so strange... ..."
+    b "我不知道,它感觉很陌生... ..."
 
 
 
-    b "At the moment when Teresa found us, I thought my life was doomed. I thought everyone in the school will know how shameless I am after today. I even began to think about transferring to another college."
+    b "当特莉莎找到我们的那一刻,我以为我的人生已经失败了.我在想今天之后,学校里的每个人都会知道我是多么的无耻,淫荡,毫无底线.我甚至已经开始考虑转学."
 
 
 
-    b "But it seems like I was just thinking too much. Teresa is a reliable friend and I know she won’t tell anyone else about my secret. My life will not be doomed yet."
-
-
-
-    scene b_train_sha_3_43 with tstmgr
-
-    b "However, I feel like... at that moment, a switch has been flipped in my heart."
-
-
-
-    scene b_train_sha_3_44 with tstmgr
-
-    player "What switch?"
+    b "但看来我只是想得太多了.特莉莎是一个可靠的朋友,我相信她不会把我的秘密告诉其他人.我暂时还不会社死."
 
 
 
     scene b_train_sha_3_43 with tstmgr
 
-    b "I don’t know, I feel like I am different now. I feel like... everything just doesn’t matter anymore. The sense of shame, the manners of a lady, the reputation of a good girl... all those things don’t matter to me anymore."
+    b "然而,我觉得......在那一刻,我心中的一个开关已经被打开了."
 
 
 
     scene b_train_sha_3_44 with tstmgr
 
-    "She wiggled her butt restlessly like a flirtatious hooker as she spoke. It seems like she has really lost the sense of shame..."
+    player "什么开关?"
+
+
+
+    scene b_train_sha_3_43 with tstmgr
+
+    b "我不知道,我觉得我现在已经不同了.我觉得......一切都不再重要了.羞耻感,礼仪,声誉......所有这些东西对我来说都不再重要了."
+
+
+
+    scene b_train_sha_3_44 with tstmgr
+
+    "她说话时不安分地扭动着屁股,像一个试图挑逗客人的妓女.似乎她真的失去了羞耻感..."
 
 
 
     scene b_train_sha_3_45 with tstmgr
 
-    b "I even began to wonder why I used to take those things so seriously."
+    b "我甚至开始想,为什么我以前会把这些事情看得那么严重."
 
 
 
-    b "I feel like I can now walk down the street with this dress without any shame."
+    b "我觉得我现在可以穿着这条裙子走在街上,并感觉不到任何羞耻感."
 
 
 
-    b "What’s wrong with me, [P]? Am I becoming a real slut?"
+    b "我怎么了,[P]?我是不是变成了一个真正的荡妇?"
 
 
 
@@ -631,59 +632,59 @@ label B_train_sha_3:
 
     scene b_train_sha_3_46 with tstmgr
 
-    player "I think... ... you just got an adrenaline rush from being too nervous, which somehow paralyzed your mind and affected the way you think."
+    player "我认为......你只是因为太紧张而肾上腺素激增,这在某种程度上麻痹了你的头脑,影响了你的思考方式."
 
 
 
-    player "You should have heard of some similar stories before, right? Like a coward suddenly became fearless and acted like a true warrior when facing a great danger."
+    player "你以前应该听说过一些类似的故事,比如一个懦夫在面对巨大的危险时,突然变得无所畏惧,表现得像一个真正的战士一样."
 
 
 
-    player "It’s like your potential has been triggered in an emergency."
+    player "就像你的潜力在紧急情况下被激发了一样."
 
 
 
-    b "I have potential... to be a slut?"
+    b "我有成为一个荡妇...的潜力?"
 
 
 
-    player "Ehhh... ... I don’t know, girl."
+    player "Ehhh... ... 我不知道该怎么回答."
 
 
 
-    "Actually... I think this is the real her, a girl who inherited her mother’s carnality. She was just suppressing her real self by etiquettes and traditions all the time."
+    "事实上... 我认为这才是真正的她,一个继承了她母亲肉体的女孩.她只是一直在用礼仪和传统来压制她的真实自我."
 
 
 
-    "And now... Pandora’s box was opened."
+    "而现在... 潘多拉的盒子被打开了."
 
 
 
     scene b_train_sha_3_47 with tstmgr
 
-    b "Wha... whatever... ... I’m happy to be a... to be your slut anyway~"
+    b "什......什么......都可以啦.....我很高兴成为... ...成为你的荡妇~"
 
 
 
     scene b_train_sha_3_48 with tstmgr
 
-    b "I want you to... fuck me... right here right now. I just can’t wait anymore~~~."
+    b "我想让你......操我......就在这里,现在.我不能再等了~~~."
 
 
 
-    b "I want to have more of your scent on my body... ... I want to be caressed by your virile hands~~"
+    b "我想被你的气息填满.......我想被你阳刚的双手抚摸~~"
 
 
 
-    player "Sen... ... ... ..."
+    player "森... ... ... ..."
 
 
 
-    "Senning has completely lost herself in lust now. Hmmm... should I be happy about this? Will she turn back to normal after she calms down? Damn, I don’t know."
+    "森柠现在已经完全迷失在情欲中了.嗯......我应该为此感到高兴吗?她冷静下来后会变正常吗?该死,我不知道."
 
 
 
-    "But I do know one thing, that we are not going home just yet... ... ... ..."
+    "但我知道一件事,那就是我们还不能回家... ... ... ..."
 
 
 
@@ -693,23 +694,23 @@ label B_train_sha_3:
 
 
 
-    "Sometime later, in the Corner of a quiet square... ..."
+    "稍后,在一个安静的广场角落里... ..."
 
 
 
     scene b_train_sha_3_49 with dissolve
 
-    "If someone walks into the alley at this point, they will definitely be stunned by this view."
+    "如果有人在这个时候走进小巷,一定会被这景象惊呆."
 
 
 
-    "The girl dressed like a hooker was panting heavily and her huge sweating breasts were shaking with her breath."
+    "穿得像妓女的女孩喘着粗气,她那巨大的出汗的乳房随着她的呼吸颤抖."
 
 
 
     scene b_train_sha_3_50 with tstmgr
 
-    "Her head was roughly grabbed by a man and tilted back to the limit. But she didn’t seem upset at all, in fact she was expressing her joy with titillating moaning."
+    "她的头被一个男人粗暴地抓住并向后倾斜到极限.但她似乎一点也不难过,事实上,她在用激烈的淫叫声来表达她的喜悦."
 
 
 
@@ -719,7 +720,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_51 with tstmgr
 
-    "The man grabbed one of her tits and rubbed it so hard as if he was playing with a worthless toy..."
+    "那个男人紧紧抓住她的一个乳房,使劲揉搓,好像在玩一个不值钱的玩具..."
 
 
 
@@ -747,13 +748,13 @@ label B_train_sha_3:
 
     pause
 
-    player "How could they be so soft... ..."
+    player "这对乳房怎么能如此柔软... ..."
 
 
 
     scene b_train_sha_3_53 with tstmgr
 
-    player "*Kissing* ... ... ... ..."
+    player "*亲吻* ... ... ... ..."
 
 
 
@@ -767,11 +768,11 @@ label B_train_sha_3:
 
 
 
-    b "[P]’s saliva... ... so sweet~~"
+    b "[P]的口水... ... 真是甘甜~~"
 
 
 
-    player "Sen... ..."
+    player "森... ..."
 
 
 
@@ -781,13 +782,13 @@ label B_train_sha_3:
 
     scene b_train_sha_3_55 with tstmgr
 
-    player "I’m sure every man on the street who sees your ass will imagine the feeling of holding it in his hands..."
+    player "我相信每个在街上看到你屁股的男人都会想象把它握在手里的感觉..."
 
 
 
     scene b_train_sha_3_56 with tstmgr
 
-    player "But only I know how good this feeling really is~"
+    player "但只有我知道这种感觉真的有多好~"
 
 
 
@@ -797,13 +798,13 @@ label B_train_sha_3:
 
     scene b_train_sha_3_57 with tstmgr
 
-    b "And only I know... how good it feels to be touched by your hands~"
+    b "只有我知道......被你的手抚摸的感觉有多好~"
 
 
 
     scene b_train_sha_3_58 with tstmgr
 
-    player "*Kissing* ... ... ... ..."
+    player "*亲吻* ... ... ... ..."
 
 
 
@@ -817,19 +818,19 @@ label B_train_sha_3:
 
 
 
-    b "I have tasted... enough of your saliva with my mouth..."
+    b "我已经用我的嘴尝尽了......你的口水..."
 
 
 
-    b "Now... another of my mouth... wants to taste something else~~~"
+    b "现在...我的另一张嘴...想品尝点别的东西~~~"
 
 
 
-    player "Wow, Sen, you have really become... somebody different... ..."
+    player "森,你真的变地......不同了.... ..."
 
 
 
-    player "(Now I am a little unsure about whether I want the old her back or not... ...)"
+    player "(现在我有点不确定我是否想让以前的她回来... ...)"
 
 
 
@@ -845,23 +846,23 @@ label B_train_sha_3:
 
 
 
-    "Ah... yes, it really happens. I am fucking the most elegant girl in school outdoors while she is dressing like a hooker."
+    "但......是啊,它真的发生了.我在户外与学校里最优雅的女孩做爱,而且她穿得像个妓女."
 
 
 
-    "This is only our second sex, but she seems to be getting used to being penetrated by me already."
+    "这只是我们的第二次性交,但她似乎已经习惯了被我插入."
 
 
 
-    "Each of my thrusts brought out a lot of fluid from her tender pussy. It gradually forming a puddle on the ground."
+    "我的每一次插入都从她的嫩穴中带出大量的粘稠淫汁.它逐渐在地上形成一个水坑."
 
 
 
-    b "This is... this is too hard~~ Yaahhh~~~"
+    b "这... 这太硬了~~ Yaahhh~~~"
 
 
 
-    b "[P]’s big penis... is making my pussy completely a mess~~~~"
+    b "[P]的大鸡巴......把我的小穴搅得一团糟~~~~"
 
 
     stop sound
@@ -871,11 +872,11 @@ label B_train_sha_3:
 
 
 
-    b "Mama... Mama... ... It’s all your fault!~~~"
+    b "妈妈... 妈妈... ... 这都是你的错!~~~"
 
 
 
-    b "I used to... be a good girl as you expected... ... But now... ... Awwwwwww~~~~ I can’t get back anymore and it’s all because of you!!!~~~"
+    b "我曾经......像你期望的那样是个好女孩.......但是现在... ... Awwwwwww~~~~,我再也回不去了,这都是因为你.!!!~~~"
 
 
 
@@ -883,23 +884,23 @@ label B_train_sha_3:
 
 
 
-    player "Sorry, Sen, it’s my fault too... ..."
+    player "对不起,森,这也是我的错... ..."
 
 
 
-    b "[P]... ... No... [P] is always right~"
+    b "[P]... ... No... [P]永远都是对的~"
 
 
 
-    b "If [P] wants me to be like a whore forever, I will be like a whore forever, because... [P] is [P]~~ [P] is special!~"
+    b "如果[P]想让我永远像个妓女,我就会永远像个妓女,因为.......【P]是[P]~~[P]是特别的!~"
 
 
 
-    player "Sen... ..."
+    player "森... ..."
 
 
 
-    b "I... I... I think I’m going to... ..."
+    b "我... 我... 我想我要... ..."
 
 
     stop sound
@@ -907,15 +908,15 @@ label B_train_sha_3:
     play sound cumshot
     $ flashlight()
 
-    b "Cumming!!!~~~~~~~~~~~~~~~"
+    b "啊!!!~~~~~~~~~~~~~~~"
 
 
 
-    "She had a great orgasm in a violent shudder... ..."
+    "她在剧烈的颤抖中达到了巨大的高潮... ..."
 
 
 
-    "Let’s hope no one heard her voice~"
+    "但愿没有人听到她的声音~"
 
 
 
@@ -925,45 +926,45 @@ label B_train_sha_3:
 
 
 
-    b "[P]... [P]... ... Thank you for fulfilling this capricious request of mine~"
+    b "[P]... [P]... ... 谢谢你满足了我这个任性的要求~"
 
 
 
-    b "Let’s... go home now... ..."
+    b "我们......现在回家吧......"
 
 
 
-    player "Emmmm... ... What?"
+    player "Emmmm... ... 什么?"
 
 
 
     scene b_train_sha_3_63 with tstmgr
 
-    player "That’s kinda rude, my lady. I mean, I haven’t came yet~"
+    player "虽然不是很礼貌,但是,我的女士.我还没射呢~"
 
 
 
-    b "Oh, we are not finished yet?"
+    b "哦,我们还没有结束?"
 
 
 
-    player "Eh, yeah, normally a sex ends with male ejaculation."
+    player "呃,是的,通常情况下,一场性爱以男方的射精结束."
 
 
 
-    "She is still so inexperienced at intercourse, but that’s okay, I think she will become a master of it in no time... ... under my training~"
+    "她在性交方面还是那么没有经验,但这没关系,我想她很快就会成为一个高手......在我的训练之下~"
 
 
 
-    b "Sorry, [P]... ..."
+    b "对不起, [P]... ..."
 
 
 
-    b "But now I don’t even have enough strength to stand... ..."
+    b "但是现在光是站着就是对我的体力的极大挑战... ..."
 
 
 
-    player "It’s okay, just leave your body to me~"
+    player "没关系,把你的身体交给我就可以了~"
 
 
 
@@ -979,19 +980,19 @@ label B_train_sha_3:
 
 
 
-    b "Ahh... wuuuuuu... ... [P]... so powerful... ..."
+    b "Ahh... wuuuuuu... ... [P]... 你真是太强壮了... ..."
 
 
 
-    b "How could you... be so strong?... ..."
+    b "你怎么能...如此强大?... ..."
 
 
 
-    b "You are... supporting me with that huge penis... ..."
+    b "你......用那根巨大的鸡巴支撑着我... ..."
 
 
 
-    b "[P]'s penis... Awwwwww~~~~ is even harder than just now~~~"
+    b "[P]的阴茎... Awwwwww~~~~,比刚才更硬了~~~"
 
 
     stop sound
@@ -1001,35 +1002,35 @@ label B_train_sha_3:
 
 
 
-    b "Mama... mama... ... Awwwwwww~~~~~"
+    b "妈... 妈妈... ... Awwwwwww~~~~~"
 
 
 
-    b "Are you watching this? Your little daughter is exhausted from being fucked... and she is now being used like a tool... ..."
+    b "你在看这个吗?你的小女儿被干得筋疲力尽......她现在正被当作飞机杯来使用... ..."
 
 
 
-    b "There is... no elegance in her anymore... ..."
+    b "她......不再有优雅的气质了... ..."
 
 
 
-    b "She will... become a whore... who worships [P]'s penis... forever... ..."
+    b "她将......成为一个妓女......永远拜伏于[P]的阴茎.. ..."
 
 
 
-    player "Sen... ..."
+    player "森... ..."
 
 
 
-    "She still feels guilty at having sex outdoors even if she has submitted to her carnal nature. This guiltiness will consume her only sanity left and she may really lose herself and degenerate into a slut completely. "
+    "即使她已经服从于自己的淫欲,但她仍然对在户外发生性行为感到内疚.这种内疚感会吞噬她仅剩的理智,她可能真的会失去自我,完完全全的堕落成一个荡妇. "
 
 
 
-    "I don't... really want that to happen, so... ..."
+    "我不......太希望这种情况发生,所以"
 
 
 
-    player "Alright, Sen, I’m cumming!"
+    player "好!森!我射了!"
 
 
     stop sound
@@ -1041,58 +1042,57 @@ label B_train_sha_3:
 
 
 
-    "She actually came again at the same time. Our love fluids mixed together and corrupted her tight tender pussy completely... ..."
+    "她居然和我一起再次高潮了.我们的爱液混合在一起,腐蚀着她紧致的嫩穴... ..."
 
 
 
     scene b_train_sha_3_67 with tstmgr
 
-    b "[P]'s seed... Awwwwww... ... My belly... is so warm... ..."
+    b "[P]的精子... 呜呜呜... ... 在我的肚子... ...是如此的温暖... ..."
 
 
 
     scene b_train_sha_3_68 with tstmgr
 
-    b "Mama... Your daughter just got a creampie on the street... ..."
+    b "妈妈... 你的女儿刚刚在大街上被人内射了... ..."
 
 
 
-    b "Does... Does it end now?"
+    b "现在... 现在是否可以结束?"
 
 
 
-    player "Yeah, Sen, that’s the end of one sex... ..."
+    player "是的,森,这将会是一次性交的结尾... ..."
 
 
 
-    player "Let’s go home now~"
+    player "我们现在回家吧~"
 
 
 
-    b "Good... good idea... ... ... ..."
+    b "好...好主意... ... ... ..."
 
 
 
     scene void with tstmgr
 
-    "Meanwhile... ..."
+    "与此同时... ..."
 
 
 
     scene b_train_sha_3_69 with dissolve
 
-    "Lady Minna" "(Holy fucking shit... ... ... ...)"
+    "明娜女士""（真他妈的该死............）"
 
 
 
     scene b_train_sha_3_70 with tstmgr
 
-    "Lady Minna" "(This is... a little beyond my expectation... ...)"
+    "明娜女士""（这......有点超出我的预料......）"
 
 
 
-    "Lady Minna" "(What I have done... ... ... ...)"
-
+    "明娜女士""（我到底都做了些什么啊............）"
 
 
     scene void with tstmgr

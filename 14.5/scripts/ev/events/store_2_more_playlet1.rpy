@@ -8,41 +8,41 @@ label store_2_more_playlet1:
 
     scene store_2_more_playlet1_1 with tstmgr
 
-    player "Lady Minna... ... I don’t think this is... ... a good way to... .."
+    player "明娜夫人......我不认为这是......一个好方法....."
 
 
 
-    "Lady Minna" "What are you talking about? I’ve wanted to do this for a long time~"
+    "明娜夫人""你在说什么?我想这么做已经很久了~"
 
 
 
-    "Lady Minna" "Ahhhhh... ... The satisfaction makes me feel so alive~"
+    "明娜夫人""Ahhhhh......这种满足感让我觉得自己很有活力~"
 
 
 
-    "Lady Minna" "Yes, yes, keep your poor penis erected like that~ Ohhh~~ look at it~"
+    "明娜夫人""Yes,yes,把你可怜的小弟弟竖成那样~Ohhh~~看看它~"
 
 
 
     scene store_2_more_playlet1_2 with tstmgr
 
-    "Lady Minna" "I'm sure you have used that penis to conquer a lot of women before, but unfortunately, I am the conquerer here~"
+    "明娜夫人""我相信你以前用这根鸡巴征服过很多女人,但不幸的是,我才是征服者~"
 
 
 
-    "Lady Minna" "Hmmmm... What is that face? You don’t like this?"
+    "明娜夫人""Hmmmm...这是什么表情?你不喜欢这样?"
 
 
 
-    player "Eh... I... I don’t know, I don’t... do this very often..."
+    player "Eh...我...我不知道,我不...经常这样做..."
 
 
 
-    "Lady Minna" "Do you feel shame? Ha~ that’s right~ Just cum in this great shame~"
+    "明娜夫人""你感到羞耻吗?哈~那是对的~就在这巨大的耻辱感中射精吧~"
 
 
 
-    player "I... I’m cumming!!!"
+    player "我...我要射了!!!"
 
 
 
@@ -54,25 +54,25 @@ label store_2_more_playlet1:
 
 
 
-    "I... can’t believe I really have an orgasm with the stimulation of her foot... ..."
+    "我...真不敢相信我真的在她脚的刺激下达到了高潮......"
 
 
 
     scene store_2_more_playlet1_4 with tstmgr
 
-    "Lady Minna" "Oh dear, this feels so great~ You did a good job, son."
+    "明娜夫人""哦,亲爱的,这感觉太棒了~你做得很好,儿子."
 
 
 
-    "Lady Minna" "I think I should teach Senning how to do this too~"
+    "明娜夫人""我想我也应该教森柠怎么做~"
 
 
 
-    player "No, please, no... ... ... ..."
+    player "No,拜托,no............"
 
 
 
-    "This is so fucking ashamed. I promise I’m gonna fight back one day!"
+    "这太他妈丢人了.我保证总有一天我会反击的!"
 
 
 

@@ -2,195 +2,195 @@ label bjsj:
 
     narrator "... ... ... ... ..."
 
-    narrator "The next day, the afternoon."
+    narrator "第二天下午."
 
     scene home_background with tstmgr
 
-    narrator " Vera is waiting for me outside the house."
+    narrator "薇拉在房子外面等我."
 
-    player "Hi, Vera."
+    player "Hi,薇拉."
 
     scene a_bjsj_smile with tstmgr
 
-    a "Have you brought all your bags here?"
+    a "你把所有的行李都带来了吗?"
 
-    player "Yep."
+    player "是的."
 
-    a "Well then. Let's get inside and I'll show you the house."
+    a "那么.我们进去吧,我带你看看房子."
 
-    a "I remember that before I moved in, you once asked your father to mail you the key to this house."
+    a "我记得在我搬进来之前,你曾让你爸爸把这房子的钥匙寄给你."
 
-    a "So... does that mean you have never been inside this house before?"
+    a "所以...这是不是说你以前从未进过这房子?"
 
-    player "Oh, yes, you guessed right. I never had a chance to get inside the house yet."
+    player "哦,是的,你猜对了.我还从来没有进入这个房子."
 
-    a "Well then, I will be your guide."
+    a "那好吧,我来给你带路."
 
-    player "Thank you very much."
+    player "非常感谢."
 
     player "... ... ... ..."
 
-    narrator "Well, I had already come inside the house a few days before while she was taking a bath. But I'd better keep that as a secret."
+    narrator "嗯,几天前她洗澡的时候,我已经进去过了.但我最好保密."
 
     narrator "... ... ... ..."
 
-    narrator "I followed Vera into the gate."
+    narrator "我跟着薇拉进了大门."
 
     scene home_frontyard_day_background with tstmgr
 
-    a "This is the front yard. It is well designed. I bet it will impress the B&B guests."
+    a "这是前院.它设计得很好.我敢打赌它一定会给民宿的客人留下深刻的印象."
 
     scene home_livingroom_day_background with tstmgr
 
-    a "This is the living room. It's not that big, but it's lovely."
+    a "这是客厅.它没有那么大,但是很可爱."
 
     scene home_kitchen_day_background with tstmgr
 
-    a "This is the kitchen. Well, to be honest, this place is a little bit too small."
+    a "这是厨房.嗯,说实话,这个地方有点太小了."
 
-    player "Yeah, it's obviously not big enough for a 5-bedroom house."
+    player "Yeah,它显然不够大,不适合五居室的房子."
 
-    player "It needs a reconstruction after we have enough money."
+    player "我们有足够的钱后,它需要重建."
 
-    a "Reconstruct it?"
+    a "重建它?"
 
-    player "Yes, we can definitely do that. And not just the kitchen, we can even reconstruct the entire house if we are wealthy enough."
+    player "是的,我们一定能做到.不仅是厨房,如果我们足够富有,我们甚至可以重建整个房子."
 
-    player "We can expand the house, create more bedrooms, or build a swimming pool. What my dad bought was not only this house, but also the land of this whole area. There is enough space for the expanding project."
+    player "我们可以扩建房子,创造更多的卧室,或者建一个游泳池.我爸爸不仅买了这所房子,还买了这整个地区的土地.有足够的空间进行扩建工程."
 
-    a "That sounds inspiring..."
+    a "这听起来真让人兴奋..."
 
-    a "Anyway, let's keep moving."
+    a "不管怎样,我们继续走吧."
 
     scene home_shower_day_background with tstmgr
 
-    a "This is the main bathroom."
+    a "这是主浴室."
 
-    narrator "Oh yeah, I remember this place..."
+    narrator "哦,是的,我记得这个地方..."
 
     narrator "... ... ... ..."
 
     scene void with tstmgr
 
-    narrator "After a while, Vera has shown me the entire house."
+    narrator "过了一会儿,薇拉带我看了整个房子."
 
-    a "So... which bedroom do you prefer to set yourself?"
+    a "所以...你想住哪个房子?"
 
-    player "I saw there are two bedrooms upstairs, and you have picked one of them as your room. I would like to choose the other one as mine. Let's take the ground level for B&B service and the second level as our living space."
+    player "我看到楼上有两间卧室,你挑了一间作为你的房间.我想选另一个作为我的.我们可以把一层用做民宿服务,然后二层作为我们的生活空间."
 
-    a "Uh huh, that's a good idea."
+    a "Uhhuh,这是个好主意."
 
     narrator "... ... ... ..."
 
     scene myroom_original_background with tstmgr
 
-    a "So this will be your room."
+    a "那么,这就是你的房间."
 
-    player "Yes, I'm very satisfied with it."
+    player "是的,我很满意."
 
-    a "Alright. Now let me help you with your baggage."
+    a "好吧.现在让我帮你拿行李."
 
     scene bjsj_a1 with tstmgr
 
-    narrator "We left the room and went downstairs."
+    narrator "我们离开房间下楼去了."
 
-    narrator "She was in front of me. All of a sudden, a question came into my mind."
+    narrator "她在我前面.我突然想到一个问题."
 
-    player "Hey, Vera. What's the wifi password?"
+    player "Hey,薇拉.wifi密码是多少?"
 
     scene bjsj_a2 with tstmgr
 
-    narrator "She turned to look at me after hearing my words, but suddenly slipped and lost her balance."
+    narrator "她听到我的话,转过身来看着我,但突然滑倒了,失去了平衡."
 
-    player "Vera!"
+    player "薇拉!"
 
     scene bjsj_a3 with tstmgr
 
-    narrator "She screamed, and fell to my body."
+    narrator "她尖叫着,倒在我的身上."
 
     scene bjsj_a4 with tstmgr
 
-    narrator "But I couldn't balance myself, either."
+    narrator "但我也无法站稳."
 
     scene void with tstmgr
 
-    narrator "Then we fell on the ground together..."
+    narrator "然后我们一起倒在地上..."
 
     scene bjsj_a5 with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Well, this is... quite a posture..."
+    narrator "嗯,这真是...不寻常的姿势..."
 
-    narrator "Her body is so light..."
+    narrator "她的身体很轻..."
 
     scene bjsj_a6 with tstmgr
 
-    a "Are, are you alright?"
+    a "你没事吧?"
 
     player "Eh, hmm......"
 
-    player "My head hurts......"
+    player "我头有点痛......"
 
     scene bjsj_a7 with tstmgr
 
-    a "Sorry, I didn't mean it. Do you need to go to the hospital?"
+    a "抱歉,我不是故意的.你需要去医院吗?"
 
-    narrator "No, not at all. In fact, I felt like I was in heaven."
+    narrator "不,用不上.事实上,我觉得自己就像在天堂一样."
 
     scene bjsj_a8 with tstmgr
 
-    narrator "Her breasts were pressing against my chest tightly. I can easily see her deep cleavage by putting my eyes downard slightly."
+    narrator "她的胸紧紧地贴着我的胸膛.我把眼睛稍微往下一点,就能很容易地看到她深深的乳沟."
 
-    narrator "This pair of big brown tits really made me dizzy."
+    narrator "这对棕色的大胸真让我头晕."
 
-    narrator "I want to... touch it... so bad..."
+    narrator "我想...摸摸它...这太..."
 
-    narrator "Speaking of \"touch,\" wait, where are my hands?"
+    narrator "说到\"摸摸,\",我的手在哪里?"
 
     scene bjsj_a9 with tstmgr
 
-    narrator "I realize that my hands are sticking on her butt, and she doesn't even notice them!"
+    narrator "我突然意识到我的手放在她的屁股上,她甚至没有注意到!"
 
-    narrator "This is too erotic, I really want to enjoy it for a little more time."
+    narrator "这太色情了,我真的想再享受一段时间."
 
     scene bjsj_a10 with tstmgr
 
-    a "Sorry, I'm getting up right now."
+    a "对不起,我现在要起来了."
 
-    narrator "Wait, my enjoyment ends so quickly?"
+    narrator "等等,我的快乐这就结束了?"
 
     scene bjsj_a11 with tstmgr
 
-    narrator "Vera lifted her head up and prepare to get up from my body."
+    narrator "薇拉抬起头,准备离开我的身体."
 
     scene bjsj_a12 with tstmgr
 
-    narrator "But she seemed to realize something of a sudden. She stopped moving, and her face turned red."
+    narrator "但她似乎突然意识到了什么.她停了下来,脸变红了."
 
-    narrator "Did she realize that I am holding her butt, or did she feel that my dick is hard as hell right now?"
+    narrator "她意识到我抱着她的屁股了吗?还是她觉得我的鸡儿现在硬得要命?"
 
-    a "Sorry... sorry..."
+    a "对不起...对不起..."
 
-    narrator "She kept apologizing and quickly got up from me."
+    narrator "她不停地道歉,很快从我身边站了起来."
 
     scene bjsj_a13 with tstmgr
 
-    narrator "We pretended like nothing happened after that, but she feared to look me in the eyes."
+    narrator "在那之后,我们假装什么都没发生,但她不敢看我的眼睛."
 
     a "... ... ... ..."
 
-    narrator "God, She is cute."
+    narrator "天哪.她真可爱."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "With Vera's help, I moved into the house and started to prepare the B&B business."
+    narrator "在薇拉的帮助下,我搬进了房子,开始准备民宿的生意."
 
-    call screen hint("From now on, you can manage your own B&B service in the B&B panel, and find Vera in her room every morning and midnight.")
+    call screen hint("从现在开始,你可以在民宿面板上管理你自己的民宿服务,每天早上和午夜都可以在薇拉的房间里找到她.")
 
-    call screen hint("Vera is the only girl living in the house for now, but there will be others, be patient.")
+    call screen hint("薇拉是目前唯一住在这所房子里的女孩,但还会有其他人,耐心点.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

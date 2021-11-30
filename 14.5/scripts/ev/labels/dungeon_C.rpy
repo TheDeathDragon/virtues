@@ -1,8 +1,8 @@
 label dungeon_C:
     menu:
-        "Get her on the bed":
+        "让她躺在床上":
             jump dungeon_C.c_dungeon_1
-        "Immobilize her head and arms":
+        "固定她的头部和手臂":
 
             jump dungeon_C.c_dungeon_2
 
@@ -18,33 +18,33 @@ label dungeon_C.c_dungeon_1:
 
     scene c_dungeon_1_1 with dissolve
 
-    c "I... I can’t believe it... ..."
+    c "难... 难以置信... ..."
 
 
 
     scene c_dungeon_1_2 with tstmgr
 
-    c "How dare you to put a fake cock... inside me? I have never... awwwwww... ..."
+    c "你怎么敢把一个假鸡巴......放进我身体里?我从来没有... awwwwww... ..."
 
 
 
-    player "But it feels good, doesn’t it?"
+    player "但是你已经开始开始爱上它的感觉了,对吧?"
 
 
 
-    c "It feels like nothing... comparing to your cock... ..."
+    c "它相比于你的鸡巴... 不值一提... ..."
 
 
 
     scene c_dungeon_1_3 with tstmgr
 
-    player "Ohhhh... babe~ It’s so glad to hear that~"
+    player "Ohhhh... 宝贝~ 真庆幸听到了这些~"
 
 
 
     scene c_dungeon_1_4 with tstmgr
 
-    player "And now... ..."
+    player "所以现在... ..."
 
 
 
@@ -92,15 +92,15 @@ label dungeon_C.c_dungeon_1:
 
     scene c_dungeon_1_7 with tstmgr
 
-    player "Ahhh~ Shit, I can play with your boobs for an entire day~"
+    player "妈的,我可以和你的胸部玩上一整天~"
 
 
 
-    c "You can’t just play my boobs every time when we are together. Isn’t there something else you can do?"
+    c "我们在一起时,你不能每次都玩我的胸部.难道你就没有别的花样了吗?"
 
 
 
-    player "Oh... I see, let’s try something new then~"
+    player "哦......我明白了,那我们就试试新东西吧~"
 
 
 
@@ -110,7 +110,7 @@ label dungeon_C.c_dungeon_1:
 
 
 
-    c "Ehh... Are you going to... ..."
+    c "呃......你是要... ..."
 
 
 
@@ -125,14 +125,14 @@ label dungeon_C.c_dungeon_1:
     scene c_dungeon_1_8 with tstmgr
 
     pause
-
+  
 
 
     scene c_dungeon_1_9 with tstmgr
 
     $ flashlight()
 
-    c "How dare you! How could you slap my boobs like that!~~~"
+    c "你敢! 你怎么能这样拍打我的胸部!~~~"
 
 
 
@@ -174,7 +174,7 @@ label dungeon_C.c_dungeon_1:
     play sound spank
     $ flashlight()
 
-    c "I... I can’t hold it!~~~~"
+    c "我... 我撑不住了!~~~~"
 
 
 
@@ -188,15 +188,15 @@ label dungeon_C.c_dungeon_1:
 
     scene c_dungeon_1_11 with tstmgr
 
-    player "So~ what made you cum exactly? The dildo or the slapping?"
+    player "那么~到底是什么让你射了?是假阳具还是胸上的打击?"
 
 
 
-    c "I... I don’t know... ..."
+    c "我... 我不知道... ..."
 
 
 
-    player "Either way it proves that you are a pervert~"
+    player "无论哪种方式,都证明你是个变态~"
 
 
 
@@ -216,19 +216,19 @@ label dungeon_C.c_dungeon_2:
 
     scene c_dungeon_2_1 with dissolve
 
-    c "Ah, damn... ... I’m already regretting this... ..."
+    c "啊,该死......我已经开始后悔了... ..."
 
 
 
-    c "This is... too fucked up... ..."
+    c "这......太操蛋了... ..."
 
 
 
-    player "Come on~ It will be fine~"
+    player "来吧~会没事的~"
 
 
 
-    c "I don’t think s... ..."
+    c "我不认为这... ..."
 
 
 
@@ -238,27 +238,27 @@ label dungeon_C.c_dungeon_2:
 
 
 
-    c "Ahhhhh!~ Fuck you, I haven’t even finished that sentence!"
+    c "啊啊啊!~去你的,我还没说完这句话呢!"
 
 
 
-    player "But I just couldn’t wait anymore~"
+    player "但我就是不能再等了~"
 
 
 
-    player "How could I ever reject this gorgeous big ass of yours?"
+    player "我怎么能拒绝你这美丽的大屁股呢?"
 
 
 
-    c "Ah~~~ Fuck you~~~~~~"
+    c "Ah~~~ 操你妈的~~~~~~"
 
 
 
-    player "Ha~ But now I can fuck you in every way I want while you can’t even move~"
+    player "但现在我可以用我想要的各种方式操你,而你甚至不能移动~"
 
 
 
-    c "I hate you!!~~~~~~"
+    c "我憎恨你!!~~~~~~"
 
 
     stop sound
@@ -268,35 +268,35 @@ label dungeon_C.c_dungeon_2:
 
 
 
-    player "Shut up. You are now my prisoner and all you can do is getting your ass up and welcoming my dick!~"
+    player "闭嘴吧.你现在是我的囚犯,你现在唯一能做的就是把你的屁股抬起来,迎接我的鸡巴!~"
 
 
 
-    c "I... I... ... Ohhhhhhh~~~~ awwwhhhh~~~~"
+    c "我... 我... ... Ohhhhhhh~~~~ awwwhhhh~~~~"
 
 
 
-    player "Your pussy is getting wetter. Did what I said make you more excited?"
+    player "你的小穴越来越湿了.我说的话让你更兴奋了吗?"
 
 
 
-    player "You are so damn horny~"
+    player "你真他妈好色~"
 
 
 
-    c "Ahhh~~ uhhhh~~ I’m~~~ awwwwww whatever~~~~~"
+    c "Ahhh~~ uhhhh~~ 我~~~ awwwwww 算了~~~~~"
 
 
 
-    c "I only become horny... in front of you~~~~~"
+    c "我只有在你面前才会变得饥渴...~~~~~"
 
 
 
-    player "My good girl~"
+    player "我的好女孩~"
 
 
 
-    player "I’m cumming!~~~~~"
+    player "射了!~~~~~"
 
 
     stop sound
@@ -310,15 +310,15 @@ label dungeon_C.c_dungeon_2:
 
     scene c_dungeon_2_5 with tstmgr
 
-    player "Ah~ That was so awesome... ..."
+    player "啊~这真是太棒了... ..."
 
 
 
-    c "You... ... bastard... ..."
+    c "你这个......混蛋... ..."
 
 
 
-    player "Do you want to start another round with this position?~"
+    player "你想用这个姿势再来一轮吗?~"
 
 
 
@@ -326,7 +326,7 @@ label dungeon_C.c_dungeon_2:
 
 
 
-    c "Whatever~"
+    c "都行啦~"
     stop music fadeout 1.0
     jump dungeon.end
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

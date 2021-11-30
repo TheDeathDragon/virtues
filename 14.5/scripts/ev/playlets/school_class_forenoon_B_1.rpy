@@ -6,15 +6,15 @@ label school_class_forenoon_B_1:
 
 
 
-    b "I got a seat for you. Come here~"
+    b "我给你留了个座位.来这里~"
 
 
 
-    player "Thanks, Sen."
+    player "谢谢,森."
 
 
 
-    b "You are welcome."
+    b "不客气."
 
 
 

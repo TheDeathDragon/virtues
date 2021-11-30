@@ -9,37 +9,37 @@ label G_daily_15:
 
     scene g_daily_15_1 with dissolve
 
-    g "When should we make another video, master?"
+    g "主人,我们什么时候再拍一个视频?"
 
 
 
-    player "Are you eager to do that?"
+    player "你想要这样做吗?"
 
 
 
     scene g_daily_15_2 with tstmgr
 
-    g "No~ I just want to know about master’s plan~"
+    g "不,我只想知道主人的计划~"
 
 
 
     scene g_daily_15_3 with tstmgr
 
-    player "Well, I think there is no need to be rush. We are not really making a living from it anyway. Let’s just slow down a bit~"
+    player "好吧,我想没有必要着急.反正我们也不是真的靠这个吃饭的.我们还是慢一点吧~"
 
 
 
-    g "Oh, okay... ..."
+    g "哦,好吧......"
 
 
 
-    player "... ... ... ..."
+    player"............"
 
 
 
     scene g_daily_15_4 with tstmgr
 
-    player "Wait, sorry, Uno, am I being too possessive lately?"
+    player "等等,对不起,乌诺,我最近的占有欲是不是太强了?"
 
 
 
@@ -49,93 +49,93 @@ label G_daily_15:
 
 
 
-    player "Now I control your social media accounts and I always go to your work place to check if you are in trouble... ..."
+    player "现在我控制着你的社交媒体账户,而且我总是去你的工作场所,检查你是否有麻烦......"
 
 
 
-    player "You don't have any private space at all. If you don't like it, I... ..."
+    player "你根本就没有任何私人空间.如果你不喜欢它,我......"
 
 
 
     scene g_daily_15_6 with tstmgr
 
-    g "Not at all~ I like you being possessive about me so much~~~"
+    g "一点也不~我很喜欢你对我的占有欲~~~"
 
 
 
     scene g_daily_15_7 with tstmgr
 
-    player "Huh?"
+    player "嗯?"
 
 
 
     scene g_daily_15_8 with tstmgr
 
-    g "It just feels so relaxing to leave you to decide everything for me~"
+    g "让你为我决定一切,感觉很轻松啊~~"
 
 
 
     scene g_daily_15_9 with tstmgr
 
-    g "The more possessive you are, the more sense of security I feel~"
+    g "你的占有欲越强,我就越有安全感~"
 
 
 
-    player "... ... You know, most people would be nervous when dealing with a possessive guy."
+    player "......你知道,大多数人在面对一个占有欲强的人时都会感到紧张."
 
 
 
     scene g_daily_15_10 with tstmgr
 
-    g "I’m not most people~ I am just a pet of yours, and a pet doesn't need private space~~"
+    g "我不是大多数人~我只是你的一个宠物,而宠物不需要私人空间~~"
 
 
 
-    player "Uno... ..."
+    player "乌诺......"
 
 
 
-    "That’s kind of a morbid thought, I have to say, but... well, I have no problem with that~"
+    "不得不说这是一种病态的想法,但是......好吧,我没有问题~"
 
 
 
-    "She is probably one of the most sexually open-minded girls I’ve ever met, but at the same time she is also one of the loyalest too."
+    "她可能是我见过的性观念最开放的女孩之一,但同时她也是最忠诚的一个."
 
 
 
-    "And... she is definitely becoming more and more depending on me lately."
+    "而且......她最近肯定越来越依赖我了."
 
 
 
     scene g_daily_15_11 with tstmgr
 
-    g "Master~ there is something I want to ask for a long time. As a possessive man like you, why would you allow me to make porn videos? Are you okay with letting others see my naked body?"
+    g "主人~有件事我想问很久了.作为你这样一个占有欲很强的人,你为什么会允许我拍色情录像?你不介意让别人看到我的裸体吗?"
 
 
 
-    player "It’s... something you like to do, right? I don’t want to impose my will on you."
+    player "这是......你喜欢做的事情,对吗?我不想把我的意志强加给你."
 
 
 
     scene g_daily_15_12 with tstmgr
 
-    player "And I do like to show off to people about how hot my girl is~"
+    player "而且我确实喜欢向人们炫耀我的女孩有多性感~"
 
 
 
-    player "Guess I’m not that possessive after all~"
+    player "我想我的占有欲可能没有那么强~"
 
 
 
     scene g_daily_15_13 with tstmgr
 
-    g "Hmmmmmmmm... ... I’d rather you could be more possessive about me."
+    g "Hmmmmmmmm... ...我希望你能对我有更多的占有欲."
 
 
 
     scene g_daily_15_14 with tstmgr
 
-    g "I don’t even need this room. You can just put a chain on me and cell me in a cage in your room everyday..."
+    g "我甚至不需要这个房间.你可以给我戴上链子,每天把我关在你房间的笼子里..."
 
 
 
@@ -143,23 +143,23 @@ label G_daily_15:
 
 
 
-    player "I might really do that when we are looking for some kinky play during sex, but no, I don’t think we are going to do this in daily life."
+    player "当我们在性爱中寻找一些古怪的玩法时,我可能真的会这么做,但我想我们在日常生活中不会这么做."
 
 
 
     scene g_daily_15_15 with tstmgr
 
-    g "Oh, okay, whatever master wants~"
+    g "哦,好的,无论主人想要什么~"
 
 
 
-    player "... ... ... ..."
+    player"...... ... ......"
 
 
 
     scene g_daily_15_16 with tstmgr
 
-    player "Silly girl~"
+    player "傻姑娘~"
 
 
 

@@ -3,77 +3,77 @@ label C_daily_13:
     scene void with tstmgr
     play music happy
 
-    "Theodora and I came to Aunt Elisa’s house for dinner tonight."
+    "今晚狄奥多拉和我去伊莉莎阿姨家吃晚餐."
 
 
 
     scene c_daily13_1 with tstmgr
 
-    e "Welcome, lovebirds~~"
+    e "欢迎,小情侣~~"
 
 
 
-    e "I heard that you two finally decided to live together. I’m so happy for you!"
+    e "我听说你们俩终于决定住在一起了.我真为你高兴!"
 
 
 
     scene c_daily13_2 with tstmgr
 
-    e "I was expecting this day to come ever since you were in highschool and now it finally came true!"
+    e "从你上高中起,我就一直期待着这一天的到来,现在终于实现了!"
 
 
 
-    d "(Seems unhappy) Hmmmmmmmm... ... ... ..."
+    d "(似乎不开心)Hmmmmmmmm............"
 
 
 
     scene c_daily13_1 with tstmgr
 
-    e "How do you like [P]’s house, Theo?"
+    e "狄奥,你觉得[P]的房子怎么样?"
 
 
 
     scene c_daily13_3 with tstmgr
 
-    c "Eh... it is crowded."
+    c "Eh...很挤."
 
 
 
-    "I think she was implying that there are more than one woman living in my house."
+    "我想她是在暗示我家里住着不止一个女人."
 
 
 
     scene c_daily13_4 with tstmgr
 
-    e "Crowded? Oh, yeah, [P] is hosting b&b service in his place. There must be many guests living there."
+    e "挤?Oh,yeah,[P]在他家提供民宿服务,一定有很多客人住在那里."
 
 
 
     scene c_daily13_5 with tstmgr
 
-    c "Humph... yeah, and I actually enjoy to live with that crowdedness anyway."
+    c "Humph...yeah,我其实很享受那种拥挤的生活."
 
 
 
     scene c_daily13_6 with tstmgr
 
-    e "Glad to hear that~"
+    e "很高兴听你这么说~"
 
 
 
     scene c_daily13_3 with tstmgr
 
-    c "There is only one thing I don’t like about his house."
+    c "他的房子只有一点我不喜欢."
 
 
 
-    player "Hmm? What is it?"
+    player "Hmm?是什么?"
 
 
 
     scene c_daily13_7 with tstmgr
 
-    c "You don’t have a swimming pool. You know how much I love swimming, don’t you?"
+    c "你没有游泳池.你知道我有多喜欢游泳,对吗?"
 
 
 
@@ -83,23 +83,23 @@ label C_daily_13:
 
     scene c_daily13_8 with tstmgr
 
-    c "Relax, I was just joking. I don’t really care about it."
+    c "放松点,我只是开个玩笑.我真的不在乎."
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
     scene c_daily13_9 with tstmgr
 
-    e "Yeah, you can always come back here for swimming."
+    e "Yeah,你可以随时回来游泳."
 
 
 
     scene c_daily13_10 with tstmgr
 
-    c "Thanks, mom."
+    c "谢谢,妈妈."
 
 
 
@@ -107,21 +107,21 @@ label C_daily_13:
 
 
 
-    player "(Maybe I should expand my house and make a pool for her?)"
+    player "(也许我应该扩大我的房子,为她建一个游泳池?)"
 
 
 
-    player "(Hmm... yeah, it will be great if I can see her wearing bikinis at home.)"
+    player "(Hmm...yeah,如果我能在家里看到她穿着比基尼那就太好了.)"
 
 
 
     scene c_daily13_11 with tstmgr
 
-    c "Emm? Are you in a daze? What’s the matter?"
+    c "Emm?你在发呆吗?有什么事吗?"
 
 
 
-    player "No, nothing... ... ... ..."
+    player "No,没什么............"
 
 
 
@@ -131,7 +131,7 @@ label C_daily_13:
 
 
 
-    "Sometime later, we were on the way back home..."
+    "一段时间后,我们在回家的路上..."
 
 
 
@@ -141,23 +141,23 @@ label C_daily_13:
 
 
 
-    c "You didn’t talk much tonight. What was on your mind?"
+    c "你今晚没怎么说话.你在想什么?"
 
 
 
-    player "I was thinking... ... maybe we can create a swimming pool in the house."
+    player "我在想...也许我们可以在房子里建一个游泳池."
 
 
 
     scene c_daily13_13 with tstmgr
 
-    c "Wait, you really took that serious? I was just joking."
+    c "等等,你当真了?我只是开个玩笑."
 
 
 
     scene c_daily13_14 with tstmgr
 
-    player "So which plan do you prefer? Outdoor pool or indoor pool?"
+    player "那么你更喜欢哪种计划呢?室外游泳池还是室内游泳池?"
 
 
 
@@ -167,27 +167,27 @@ label C_daily_13:
 
     scene c_daily13_15 with tstmgr
 
-    c "Indoor. It will make me feel safer."
+    c "室内.这会让我觉得更安全."
 
 
 
-    player "Alright. What do you think if we make a pool at basement? We have a huge basement but it was kept unused for a long time. It could be a perfect location."
+    player "Alright.我们在地下室建个游泳池怎么样?我们有一个巨大的地下室,但它被闲置了很长一段时间.这可能是一个完美的位置."
 
 
 
     scene c_daily13_16 with tstmgr
 
-    c "Whatever you like~"
+    c "你喜欢就好~"
 
 
 
-    "Her voice sounded happy and airy. I think I never heard she talking like that before."
+    "她的声音听起来愉悦而轻快.我想我以前从未听过她那样说话."
 
 
 
     scene c_daily13_17 with tstmgr
 
-    "It may take months to build that pool, I’d better make a detailed plan for it later..."
+    "建那个游泳池可能要花几个月的时间,我最好之后制定一个详细的计划..."
 
 
 

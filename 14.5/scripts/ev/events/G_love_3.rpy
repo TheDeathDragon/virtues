@@ -3,16 +3,16 @@ label G_love_3:
     scene void with dissolve
     play music happy
 
-    "User ID: MissU."
-    "5050 Followers."
-    "8 Videos."
-    "152,317 Video Views."
+    "用户名:MissU."
+    "5050粉丝."
+    "8个视频."
+    "152317视频播放."
 
-    "Latest Video: second_video_in_my_new_room."
-    "2 days ago."
-    "100k views."
+    "最新视频:新房间的第二个视频."
+    "2天前."
+    "100k播放."
 
-    "Video begins."
+    "视频开始."
 
     scene g_love_3_1 with longdissolve
 
@@ -22,7 +22,7 @@ label G_love_3:
 
     scene g_love_3_3 with tstmgr
 
-    "*The noise of man coming inside the room*"
+    "*人走进房间的声音*"
 
     scene g_love_3_4 with tstmgr
 
@@ -30,9 +30,9 @@ label G_love_3:
 
     scene g_love_3_5 with tstmgr
 
-    player "Are you ready for this?"
+    player "你准备好了吗?"
 
-    g "(Speaking in a very low voice) Shhhh... You are not supposed to talk."
+    g "(用很低的声音说话)嘘嘘嘘...你不应该说话."
 
     player "... ... ... ..."
 
@@ -45,7 +45,7 @@ label G_love_3:
     scene g_love_3_8 with tstmgr
     pause
 
-    g "(Making a nervous sound) Aw... ..."
+    g "(发出紧张的声音)Aw......"
 
     scene g_love_3_9 with tstmgr
     pause
@@ -53,67 +53,67 @@ label G_love_3:
     scene g_love_3_10 with tstmgr
     pause
 
-    player "How do you feel?"
+    player "你感觉如何?"
 
     g "... ... ... ..."
 
-    player "Why keeping silence all the time? People want to hear your moaning."
+    player "为什么一直沉默?人们想听你的呻吟."
 
-    g "I... ... ... ..."
+    g "我............"
 
     scene g_love_3_11 with tstmgr
 
     g "Ouch..."
 
-    g "Don't... thrust my nipple."
+    g "不要...捏我的乳头."
 
-    g "It hurts..."
+    g "疼..."
 
-    player "But I bet you feel more pleasure than pain, right?"
+    player "但我打赌你会觉得快乐多于痛苦,对吧?"
 
     g "... ... ... ..."
 
-    player "How about this?"
+    player "这个怎么样?"
 
     scene g_love_3_12 with tstmgr
 
-    g "(Making pleasure sound) Ahhhhhwwwww... ... ..."
+    g "(发出快乐的声音)Ahhhhh........."
 
     scene g_love_3_13 with tstmgr
 
-    g "I... I think..."
+    g "我...我认为..."
 
-    g "That's enough for a video. Please let me go."
+    g "这些足够做个视频了.请让我走..."
 
 
     menu:
-        "Stop shooting the video":
+        "停止拍摄视频":
 
             player "... ... ... ..."
 
             scene void with tstmgr
 
-            "Video ends."
+            "视频结束."
 
-            "Comments" "\"OMG, she actually talks!\" -- from Anonymous."
+            "评论""\"OMG,她居然说话了!\" -- from Anonymous."
 
-            "Comments" "\"Why fucking stopped in the middle? I was just about to finish the job!\" -- from Lxh."
+            "评论""\"为什么他妈的中途就停了?我刚要撸完!\" -- from Lxh."
 
-            "Comments" "\"This couple has so much potential!\" -- from Pornlover456."
+            "评论""\"这对新人很有潜力!\" -- from Pornlover456."
 
-            "Comments" "\"I wish they could fuck.\" -- from XXXSXXX."
+            "评论""\"我希望他们能做爱.\" -- from XXXSXXX."
 
             "... ... ... ..."
 
             scene g_love_3_23 with tstmgr
 
-            g "I got more than 3k followers today. Guess we made a suceess."
+            g "我今天有超过3千名粉丝.我想我们成功了."
 
             scene g_love_3_24 with tstmgr
 
-            g "Thank you, [P]."
+            g "谢谢你,[P]."
 
-            player "We make a good team together. Just let me know when you want to shoot more videos."
+            player "我们组成了一个很好的团队.如果你想拍更多的视频,请告诉我."
 
             scene g_love_3_25 with tstmgr
 
@@ -124,94 +124,94 @@ label G_love_3:
             scene void with tstmgr
 
             "... ... ... ..."
-        "Keep shooting the video":
+        "继续拍摄视频":
 
 
-            player "I don't think so."
+            player "我不这么认为."
 
             scene g_love_3_14 with tstmgr
 
-            g "What?..."
+            g "什么?..."
 
-            "She shivered violently as I kissed her neck."
+            "我吻她的脖子时,她猛地打了个寒颤."
 
             scene g_love_3_15 with tstmgr
 
-            g "Ah... My neck... is sensitive."
+            g "停...我的脖子很敏感."
 
-            g "If you keep doing this..."
+            g "如果你继续这样做..."
 
             scene g_love_3_16 with tstmgr
 
-            player "Your nipples are getting harder. "
+            player "你的乳头越来越硬了."
 
-            g "Neck... nipples... stop... ..."
+            g "脖子...乳头...停下来......"
 
             scene g_love_3_17 with tstmgr
 
-            g "Ah...I...haah...I'm...leaking...ooooh."
+            g "(发出淫荡的声音)Ahh,ahh,ehh,no..."
 
-            g "This...ah! Isn't...awww...part of the deal-Ahhhhhn~"
+            g "这不是事先说好的."
 
             scene g_love_3_18 with tstmgr
 
-            g "I'm going to... I'm going to..."
+            g "我要...我要..."
 
-            player "You are going to cum? From only neck-kissing and nipple-touching?"
+            player "你要高潮了?只亲吻脖子和乳头抚弄?"
 
-            player "You must be the horniest girl on this planet."
+            player "你一定是这个星球上最敏感的女孩."
 
-            g "Stop embarrassing me..."
+            g "别让我尴尬..."
 
-            g "I'm... I'm..."
+            g "我...我..."
 
             scene g_love_3_19 with tstmgr
 
-            g "I'm cumming!!!!!!!"
+            g "我高潮了!!!!!!!"
 
             $ flashlight()
 
             scene g_love_3_20 with tstmgr
 
-            "She trembled like she was being shocked by a stun gun."
+            "她颤抖着,就像被电击枪击中了一样."
 
             scene g_love_3_21 with tstmgr
 
-            "And then she collapsed in my arms."
+            "然后她倒在我怀里."
 
             scene g_love_3_22 with tstmgr
 
             g "[P]... [P]... "
 
-            "Hmm... I think she has passed out."
+            "Hmm...我想她是昏过去了."
 
-            g "You are... a jerk... ..."
+            g "你是...混蛋......"
 
             player "... ... ... ..."
 
             scene void with tstmgr
 
-            "Video ends."
+            "视频结束."
 
-            "Comments" "\"OMG, this is amazing, absolutely amazing.\" -- from Anonymous."
+            "评论""\"OMG,这太棒了,太棒了.\" -- from Anonymous."
 
-            "Comments" "\"I thought this kind of girls only exist in anime.\" -- from Lxh."
+            "评论""\"我以为这种女孩只存在于动漫里.\" -- from Lxh."
 
-            "Comments" "\"This couple has so much potential!\" -- from Pornlover456."
+            "评论""\"这对新人很有潜力!\" -- from Pornlover456."
 
-            "Comments" "\"I wish they could fuck.\" -- from XXXSXXX."
+            "评论""\"我希望他们能做爱.\" -- from XXXSXXX."
 
             "... ... ... ..."
 
             scene g_love_3_23 with tstmgr
 
-            g "I got more than 5k followers today. Guess we made a success."
+            g "我今天有5000多名粉丝.看来我们成功了."
 
             scene g_love_3_24 with tstmgr
 
-            g "Thank you, [P]."
+            g "谢谢你,[P]."
 
-            player "We make a good team together. Just let me know when you want to shoot more videos."
+            player "我们组成了一个很好的团队.如果你想拍更多的视频,请告诉我."
 
             scene g_love_3_25 with tstmgr
 
@@ -219,19 +219,19 @@ label G_love_3:
 
             g "Okay..."
 
-            player "So... how does it feel to... you know, cum in front of the camera?"
+            player "所以...感觉怎么样?在镜头前."
 
-            player "I kinda feel sorry about that."
+            player "我有点抱歉."
 
             scene g_love_3_26 with tstmgr
 
             g "... ... ... ..."
 
-            g "I'd rather not to talk about it."
+            g "我不想谈这件事."
 
-            player "And...is there a reason you have orgasms so... easily?"
+            player "为什么你会那么容易就...高潮呢?"
 
-            g "Stop saying that..."
+            g "别说了..."
 
             scene void with tstmgr
 

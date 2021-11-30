@@ -2,23 +2,23 @@ label harem_BG_1:
 
     scene harem_bg_1_1 with tstmgr
 
-    b "(Smelling) ... ... ... ..."
+    b "(闻)............"
 
 
 
-    g "Senning?"
+    g "森柠?"
 
 
 
-    b "(Smelling) ... ... ... ..."
+    b "(闻)............"
 
 
 
-    g "What are you doing?"
+    g "你在做什么?"
 
 
 
-    b "Hmmmmmm... ... I smelled [P]'s scent on your body... ..."
+    b "Hmmmmmm......我在你身上闻到了[P]的气味......"
 
 
 
@@ -28,41 +28,41 @@ label harem_BG_1:
 
     scene harem_bg_1_2 with tstmgr
 
-    g "It's... kinda normal, right? I'm living in his house, after all."
+    g "这是...挺正常的,对吧?我毕竟是住在他的房子里."
 
 
 
-    b "I guess so... ..."
+    b "我想是吧......"
 
 
 
     scene harem_bg_1_3 with tstmgr
 
-    b "(Smelling) ... ... ... ..."
+    b "(闻)............"
 
 
 
-    g "Why are you getting so close to me?"
+    g "你为什么离我这么近?"
 
 
 
     scene harem_bg_1_4 with tstmgr
 
-    b "[P]'s scent... mixed with Uno's scent... ..."
+    b "[P]的气味...混合着乌诺的气味......"
 
 
 
-    b "Awwwww~~~ It smells so good~~~"
+    b "Awwwww~~~闻起来好香~~~"
 
 
 
     scene harem_bg_1_5 with tstmgr
 
-    b "I want to... smell more of it... ..."
+    b "我想...多闻一点......"
 
 
 
-    g "This is... this is so strange... ..."
+    g "这...感觉怪怪的......"
 
 
 

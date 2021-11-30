@@ -59,14 +59,14 @@ init -2 python:
     def next_stage(owner, obj, handle=True):
         obj.next_stage()
         if not obj.out_of_content:
-            Push(_("{}'s {} unlocked, new plot unlocked").format(owner, obj))
+            Push(_("{}的{}解锁,新的情节解锁").format(owner, obj))
         else:
             try:
                 storyline_owner = obj.nz
             except AttributeError:
                 storyline_owner = owner
-            Push(_("You have reached the end of {}'s storyline for now.").format(storyline_owner))
-            Push(_("Please wait for our next update."))
+            Push(_("现在你已经到达了{}的故事线的结尾.").format(storyline_owner))
+            Push(_("请等待我们的下一次更新."))
             return
 
     def lock(obj, handle=True):
@@ -84,16 +84,16 @@ init -2 python:
         
         if type(obj) is Harem:
             if obj.value + value > obj.max_value:
-                Push(_("{}'s harem acceptance level can't be further raised in current version.").format(storyline_owner))
+                Push(_("在当前版本中,{}的后宫接受水平无法进一步提高.").format(storyline_owner))
                 return
         
         if obj.is_plot_locked:
             if obj is B.love:
                 if seen("B_love_1"): 
-                    Push("I am tired of studying right now, perhaps I should spend some time on Vera")
+                    Push("我现在学习已经够了,也许我应该花些时间在薇拉身上")
             if obj is A.love:
                 if seen("A_love_1"):
-                    Push("I have spent too much time on Vera, maybe I should go to classes more often.")
+                    Push("我在薇拉身上花的时间太多了,也许我应该去上上课.")
             return
         
         if obj.is_stage_locked:
@@ -101,15 +101,15 @@ init -2 python:
             return
         
         if obj.out_of_content:
-            Push(_("You have reached the end of {}'s storyline for now.").format(storyline_owner))
-            Push(_("Please wait for our next update."))
+            Push(_("现在你已经到达了{}的故事线的结尾.").format(storyline_owner))
+            Push(_("请等待我们的下一次更新."))
             return
         
         r = obj.add(value, chance)
         if r != 0.0:
-            Push(_("{}'s {} increased by {}").format(owner, obj, r))
+            Push(_("{}的{}增加了{}").format(owner, obj, r))
         else:
-            Push(_("{}'s {} is unchanged").format(owner, obj))
+            Push(_("{}的{}没有变化").format(owner, obj))
         
         if obj.is_stage_locked:
             _stage_lock_notification(owner, obj)
@@ -117,63 +117,63 @@ init -2 python:
     def _stage_lock_notification(owner, obj):
         if obj.owner == 'A':
             if obj >= 30:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它.").format(owner, obj))
         
         elif obj.owner == 'B':
             if obj >= 60 and not seen("B_daily_21"):
-                Push(_("You should improve the relationship with Minna and Irene first."))
+                Push(_("你应该先和明娜和艾琳搞好关系."))
             elif obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         elif obj.owner == 'C':
             if obj >= 40:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         elif obj.owner == 'D':
             if obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         elif obj.owner == 'E':
             if obj >= 45:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         elif obj.owner == 'F':
             if obj >= 25 and not seen("A_love_5"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Vera."))
+                Push(_("在你改善与薇拉的关系后，更多关于雷切尔的故事将被解锁."))
             elif obj is F.love and obj >= 30 and not seen("B_train_inti_1"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Senning."))
+                Push(_("更多关于瑞秋的故事将在你与森宁改善关系后解锁."))
             elif obj is F.love and obj >= 35 and not seen("G_train_sha_2"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Uno."))
+                Push(_("在你改善与乌诺的关系后，更多关于瑞秋的故事将被解锁."))
             elif obj is F.love and obj >= 40 and not seen ('ACG_duo_4'):
-                Push(_("You should raise Vera, Theo, and Uno's harem acceptance first."))
+                Push(_("你应该先提高维拉、西奥和乌诺的后宫度."))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         elif obj.owner == 'G':
             if obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{}的{}已经满了,在她的房间找到她提升她的属性.").format(owner, obj))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(owner, obj))
         
         return
 
     def sub(owner, obj, value):
         r = obj.sub(value)
-        Push(_("{}'s {} decreased by {}").format(owner, obj.name, value))
+        Push(_("{}的{}减少了{}").format(owner, obj.name, value))
 
 
     def not_implemented_message():
-        Push("Sorry, this story will be implemented in future version.")
+        Push("对不起，这个故事将在未来的版本中实现.")
 
 
 
@@ -230,7 +230,7 @@ init -2 python:
         
         @classmethod
         def stage_locked(cls, obj):
-            Push(_("{}'s {} is full, try unlock it by the relevant event").format(obj.owner.name, obj.name))
+            Push(_("{}的{}已经满了,尝试通过相关事件解锁它").format(obj.owner.name, obj.name))
         
         @classmethod
         def plot_locked(cls, obj):
@@ -239,77 +239,77 @@ init -2 python:
                     return
             except AttributeError:
                 pass
-            Push(_("{}'s {} locked, try unlock it by the relevant event").format(obj.owner.name, obj.name))
+            Push(_("{}的{}未解锁,尝试通过相关事件解锁它").format(obj.owner.name, obj.name))
         
         @classmethod
         def unlocked(cls, obj):
             pass
             if isinstance(obj, Meter):
-                Push(_("{}'s {} locked").format(obj.owner.name, obj.name))
+                Push(_("{}的{}未解锁").format(obj.owner.name, obj.name))
         
         @classmethod
         def increase(cls, obj, value):
             if value == 0.0:
                 cls.unchanged()
             else:
-                Push(_("{}'s {} increased by {}").format(obj.owner.name, obj.name, value))
+                Push(_("{}的{}增加了{}").format(obj.owner.name, obj.name, value))
         
         @classmethod
         def decrease(cls, obj, value):
             if value == 0.0:
                 cls.unchanged()
             else:
-                Push(_("{}'s {} decreased by {}").format(obj.owner.name, obj.name, value))
+                Push(_("{}的{}减少了{}").format(obj.owner.name, obj.name, value))
         
         @classmethod
         def unchanged(cls, obj):
-            Push(_("{}'s {} is unchanged").format(obj.owner.name, obj.name))
+            Push(_("{}的{}没有发生变化").format(obj.owner.name, obj.name))
         
         @classmethod
         def cash_zero(cls, obj, value):
-            Push(_("{} lost all the savings, {} in total".format(obj.name, value)))
+            Push(_("{}失去了所有的积蓄,总计{}".format(obj.name, value)))
         
         @classmethod           
         def cash_earn(cls, person, value, thing):
-            Push(_("You have earned ${} from {}").format(value, thing))
+            Push(_("你赚了${}从{}").format(value, thing))
         
         @classmethod
         def purchase_succeeded(cls, obj, thing, value):
-            Push(_("{0}'s savings decreased by ${1} for purchasing {2}").format(obj.name, value, thing))
+            Push(_("{0}的储蓄减少了${1}因为支付{2}").format(obj.name, value, thing))
         
         @classmethod
         def purchase_failed(cls, thing):
-            Push(_("No enough money for buying {}").format(thing))
+            Push(_("没有足够的钱买{}").format(thing))
         
         @classmethod
         def payment_succeeded(cls, obj, thing, value):
-            Push(_("{0}'s savings decreased by ${1} for paying {2}").format(obj.name, value, thing))
+            Push(_("{0}的储蓄减少了${1}因为支付{2}").format(obj.name, value, thing))
         
         @classmethod
         def payment_failed(cls, thing):
-            Push(_("No enough money for paying {}").format(thing))
+            Push(_("没有足够的钱支付{}").format(thing))
             run_event('suicide_ending')
         
         @classmethod
         def notify_new_location(cls, *args):
-            Push(_("{} unlocked").format(*args))
+            Push(_("{}未解锁").format(*args))
         
         @classmethod
         def time_pass(cls, value):
             if value == 1:
-                Push(_("{} period of time passed").format(value))
+                Push(_("{}段时间过去了").format(value))
             else:
-                Push(_("{} periods of time passed").format(value))
+                Push(_("{}段时间过去了").format(value))
         
         @classmethod
         def lock_in_version(cls, obj):
-            Push(_("You have reached the end of {}'s storyline for now.").format(obj.owner))
-            Push(_("Please wait for our next update."))
-        
+            Push(_("现在你已经到达了{}的故事线的结尾.").format(obj.owner))
+            Push(_("请等待我们的下一次更新."))
+
         @classmethod
         def out_of_content(cls, obj):
-            Push(_("You have reached the end of {}'s storyline for now.").format(obj.owner))
-            Push(_("Please wait for our next update."))
+            Push(_("现在你已经到达了{}的故事线的结尾.").format(obj.owner))
+            Push(_("请等待我们的下一次更新."))
 
 
 default available_interactions = defaultdict(set)
@@ -414,7 +414,7 @@ init python:
             old = available_interactions.get(nz.code, set())
             new = set(get_nz_interaction_labels(nz.code))
             for label in (new - old):
-                Push('New interaction with {} "{}" unlocked.'.format(nz, get_interaction(label).name))
+                Push('新的互动与 {} "{}" 已解锁.'.format(nz, get_interaction(label).name))
             available_interactions[nz.code] = new
 
     def get_nz_clothes(nz_code):
@@ -426,7 +426,7 @@ init python:
             new = set(get_nz_clothes(nz.code))
             for clothes in (new - old):
                 if not clothes.startswith("Default"):
-                    Push('{}\'s new outfit "{}" unlocked.'.format(nz, clothes))
+                    Push('{} 的新装扮 "{}" 已解锁.'.format(nz, clothes))
             available_clothes[nz.code] = new
 
     def to_next_day():

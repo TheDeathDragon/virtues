@@ -5,83 +5,83 @@ label d3_1:
 
     scene nightclub_background with tstmgr
 
-    "The second day, evening. I was here at the Citidal Nightclub."
+    "第二天,晚上.我在西蒂尔夜店."
 
 
 
-    player "Wow... So many girls here."
+    player "Wow...这里好多女孩."
 
 
 
-    "Jake" "Enjoy the night, bro. Take this as repayment for you helping me with preparing that economics exam."
+    "杰克""好好享受这个夜晚吧,兄弟.这是对你帮我准备经济学考试的报答."
 
 
 
-    player "Honestly, Jake, you can count on me for all the exams in the rest of your life."
+    player "老实说,杰克,你下半生所有的考试都可以指望我."
 
 
 
-    "Jake" "Nice. That's exactly what I want to hear from you. Now go have some fun."
+    "杰克""很好.这正是我想听你说的.现在去找点乐子吧."
 
 
 
-    player "You too, bro."
+    player "你也是,兄弟."
 
 
 
-    "Jake is a celebrity of the nightclub circle in this city. Compared to him, I was like a nerd that knows nothing about having fun. I bet he will wake up in a big bed tomorrow with five naked girls."
+    "杰克是这个城市夜店圈的名人.和他比起来,我就像个书呆子,根本不知道如何找乐子.我打赌他明天会在一张大床上醒来,和五个裸女在一起."
 
 
 
-    "Well, I can also be like him because you know, I’m rich. But I won’t. A one-night-stand is only supposed to be a way of resolving my sex desire. 1v1 is enough, 1v5 is nothing but a waste of my time and energy."
+    "Well,我也可以像他一样,因为我很有钱.但我不会.一夜情只是我解决性欲的一种方式.1v1就够了,1v5只是浪费我的时间和精力."
 
 
 
-    "Unless... all those five girls are the ones I love."
+    "除非...这五个女孩都是我爱的."
 
 
 
-    "Ahhhhhh... ... ... ... Stop thinking about that wild harem daydream!"
+    "Ahhhhhh............别再想那些疯狂的后宫白日梦了!"
 
 
 
-    "Girl A" "Hi, handsome, drink with me~"
+    "女孩A""Hi,帅哥,来喝一杯~"
 
 
 
-    player "Oh, Hi, Tina, long time no see."
+    player "Oh,Hi,蒂娜,好久不见."
 
 
 
-    "Soon, another girl came by my side."
+    "很快,另一个女孩来到我身边."
 
 
 
-    "Girl B" "Mind if we sit here, handsome?"
+    "女孩B""介意我们坐在这里吗,帅哥?"
 
 
 
-    "Girl A" "Hey, he is mine."
+    "女孩A""Hey,他是我的."
 
 
 
-    "Girl B" "You can't have him all to yourself."
+    "女孩B""你难道想独享吗."
 
 
 
-    "See, this is the advantage of being rich and good-looking. Every girl likes you."
+    "瞧,这就是有钱和帅气的好处.每个女孩都喜欢你."
 
 
 
-    player "Calm down, girls. I will buy a drink for both of you."
+    player "冷静点,女孩们.我给你们俩买杯饮料."
 
 
 
-    "I am surrounded by these two girls in the dim light. They boldly put their warm bodies close to mine, and touch my arms with their plump breasts. This is a nice way to sell themselves. I would definitely take one of them to the hotel if it was one year ago."
+    "在昏暗的灯光下,我被这两个女孩包围着.她们大胆地把他们温暖的身体靠近我,用她们丰满的乳房碰我的手臂.这是推销自己的好方法.如果是一年前,我肯定会带她们中的一个去酒店."
 
 
 
-    "But now things are different. I won't be seduced by these tricks anymore. Now what I more wish to see is..."
+    "但现在情况不同了.我再也不会被这些把戏诱惑了.现在我更希望看到的是..."
 
 
 
@@ -89,15 +89,15 @@ label d3_1:
 
 
 
-    "What I more wish to see is..."
+    "我更希望看到的是..."
 
 
 
-    "Wait... ..."
+    "等等......"
 
 
 
-    player "(Shit, who the hell is that?)"
+    player "(妈的,那是谁?)"
 
 
 
@@ -107,31 +107,31 @@ label d3_1:
 
 
 
-    "There is a girl sitting in the corner alone. She looks nervous, quiet and incompatible with others."
+    "有一个女孩独自坐在角落里.她看起来紧张,安静,和别人格格不入."
 
 
 
-    "I can’t move my eyes away from her. She looked so pure, so shy, and so inexperienced, like the angel who falls from the sky to the dirt."
+    "我的目光无法从她身上移开.她看上去那么纯洁,那么害羞,那么缺乏经验,就像从天上掉到地上的天使."
 
 
 
-    "That cheap dress cannot hide her good shape. Her face looks exotic. Maybe she has Latin American or Mideast descent?"
+    "那件廉价的衣服掩盖不了她的好身材.她的脸看起来很有异国情调.也许她有拉丁美洲或中东血统?"
 
 
 
     scene day3_a2 with tstmgr
 
-    "And those breasts... Oh God... I am deeply attracted. That's exactly my type!"
+    "还有那个胸...OhGod...我被深深地吸引了.那正是我喜欢的类型!"
 
 
 
     scene nightclub_background with tstmgr
 
-    player "Enjoy your wines, ladies. I will be right back."
+    player "女士们,享受你们的葡萄酒吧.我马上就回来."
 
 
 
-    "I took out my arms from those girls, stood up, and walked to that girl."
+    "我从那些女孩手中抽出双臂,站起来,向那个女孩走去."
 
 
 
@@ -141,25 +141,25 @@ label d3_1:
 
 
 
-    player "Good evening, miss. Mind if I sit here?"
+    player "晚上好,小姐.介意我坐在这里吗?"
 
 
 
     scene day3_a4 with tstmgr
 
-    "??" "Oh, eh, of course not... No, I mean, actually yes..."
+    "??" "Oh,eh,当然不...不,我是说,实际上..介意..."
 
 
 
-    "??" "I'm waiting for my friend."
+    "??" "我在等我的朋友."
 
 
 
-    "Her friend? Did she come here with a guy? I will be so upset if that's true."
+    "她的朋友吗?她是和一个男人一起来的吗?如果那是真的,我会很难过."
 
 
 
-    player "Who is your friend?"
+    player "你朋友是谁?"
 
 
 
@@ -167,23 +167,23 @@ label d3_1:
 
 
 
-    "??" "Her name is Jennifer. She is my neighbor... and the one who brought me here."
+    "??" "她的名字叫詹妮弗.她是我的邻居...是她把我带到这里来的."
 
 
 
-    "Great, it’s not a male friend!~"
+    "太好了,不是男性朋友!~"
 
 
 
-    player "Is this your first time here?"
+    player "这是你第一次来这里吗?"
 
 
 
-    "??" "Eh... yes..."
+    "??" "Eh...是的..."
 
 
 
-    player "Am I the first one to chat with you here?"
+    player "我是第一个在这里和你聊天的人吗?"
 
 
 
@@ -191,13 +191,13 @@ label d3_1:
 
 
 
-    player "Well, today must be my lucky day. Would you allow me to buy you a drink?"
+    player "嗯,今天一定是我的幸运日.我可以请你喝一杯吗?"
 
 
 
     scene day3_a5 with tstmgr
 
-    "??" "I don't think..."
+    "??" "谢谢你的好意,我..."
 
 
 
@@ -205,51 +205,51 @@ label d3_1:
 
 
 
-    "??" "Nevermind, thank you, you are so generous."
+    "??" "算了,谢谢你,你真大方."
 
 
 
-    "I took a seat next to her after buying her a drink, though she just said this seat belongs to her friend."
+    "我给她买了一杯酒,在她旁边坐下,她却说这个座位是她朋友的."
 
 
 
-    "She didn't stop me. It means either that ‘friend’ of her doesn't exist, or she doesn't hate me being here. No matter what the fact is, it is good news to me."
+    "她没有阻止我.这意味着要么她的“朋友”不存在,要么她不讨厌我在这里.不管事实是什么,这对我来说都是好消息."
 
 
 
-    player "By the way, my name is [P]."
+    player "对了,我叫[P]."
 
 
 
-    a "I’m Vera. Nice to meet you."
+    a "我是薇拉.很高兴见到你."
 
 
 
-    "We soon started to chat like friends. I learned that she came from the countryside to this city to earn a better living. She is now struggling in poverty, but she believes that life will get better if she works harder."
+    "我们很快开始像朋友一样聊天.我知道她从农村来到这个城市是为了更好地生活.她现在在贫困中挣扎,但她相信,如果她努力工作,生活会变得更好."
 
 
 
-    "Uh-huh, a Cinderella type of girl, with courage, dream, and independence. Very respectable."
+    "Uh-huh,一个灰女孩式的女孩,有勇气,梦想和独立.非常受人尊敬."
 
 
 
-    "We kept drinking while talking. She became much more extroverted than earlier under the influence of alcohol."
+    "我们边说边喝.在酒精的影响下,她变得比之前外向得多.."
 
 
 
-    "I think I like to talk with her. It feels... relieved. That's weird, actually. I came from a rich family and she is from the bottom of the society, our lives are on the different paths. There are not supposed to be many things that we can talk about with each other. But... ..."
+    "我想我喜欢和她说话.感觉...很放松.实际上,这很奇怪.我来自一个富裕的家庭,而她来自社会的底层,我们有着不同的生活轨迹.我们应该没有太多的事情可以互相谈论.但......"
 
 
 
-    "Why do I feel so comfortable when talking with this girl?... ..."
+    "为什么我和这个女孩说话时感觉那么舒服?......"
 
 
 
-    "We went dancing after drank enough wine, then continued to drink after we got tired, and cycled back and forth until we were finally drunk."
+    "我们喝足了酒便去跳舞,累了就继续喝,然后一来二去,直到喝得酩酊大醉."
 
 
 
-    "It was a fun night... ..."
+    "一个有趣的夜晚......"
 
 
 
@@ -257,25 +257,25 @@ label d3_1:
 
 
 
-    a "I should go home... It is too late."
+    a "我该回家了...已经很晚了."
 
 
 
-    player "(Hiccupping) Oh, please, please let me walk you home. You are drunk already, I won't let you go alone."
+    player "(打嗝Oh,拜托,拜托,让我送你回家吧.你已经喝醉了,我不会让你一个人走的."
 
 
 
-    a "You... You are too kind..."
+    a "你...你太好了..."
 
 
 
-    a "OK... Let's go..."
+    a "OK...我们走吧..."
 
 
 
     scene void with tstmgr
 
-    "We left the nightclub together and headed to her place."
+    "我们一起离开夜店,前往她的住处."
 
 
 
@@ -283,25 +283,25 @@ label d3_1:
 
 
 
-    "Her home is not far from here. It only took us less than fifteen minutes to walk there. She opened the door. We got inside. Everything happened naturally."
+    "她家离这儿不远.我们走到那里只花了不到15分钟.她打开了门.我们在里面.一切发生的很自然."
 
 
 
     scene a_initial_background with tstmgr
 
-    "Oh... although I have been aware of her poverty, but this... this is still something I didn't expect."
+    "Oh...虽然我已经意识到她的贫穷,但这...这仍然是我没有预料到的."
 
 
 
-    "What the hell is this place? She lives here for the whole time? Ew... it looks even worse than a jail cell."
+    "这是什么鬼地方?她一直住在这里?Ew...它看起来甚至比监狱更糟糕."
 
 
 
-    a "I don't usually... have many guests here..."
+    a "我家里通常...没有很多客人..."
 
 
 
-    a "You can just... sit wherever you like."
+    a "你可以...你喜欢坐哪儿就坐哪儿."
 
 
 
@@ -309,41 +309,41 @@ label d3_1:
 
 
 
-    a "Oh, yeah... you don't have many options..."
+    a "Oh,yeah...你好像什么选择的余地..."
 
 
 
-    a "I only have one chair, no couch, no carpet. Sorry... I know this place sucks. you can sit on my bed if you want."
+    a "我只有一把椅子,没有沙发,没有地毯.对不起...我知道这地方糟透了.如果你愿意,你可以坐在我的床上."
 
 
 
-    "Her voice sounds upset and frustrated. I think the alcohol has amplified her emotions in some way."
+    "她的声音听起来很沮丧.我认为酒精在某种程度上放大了她的情绪."
 
 
 
-    "But anyway, I'm kind of happy about sitting on her bed."
+    "但不管怎样,坐在她床上我还是很开心的."
 
 
 
-    a "I'm... I'm going to make you some tea. The public kitchen is not far from here, I'll be back in minutes..."
+    a "我...我去给你沏点茶.公共厨房离这儿不远,我一会儿就回来..."
 
 
 
-    player "No, there is no need for that. Just... stay here, please."
+    player "不,没有必要.就...待在这就好了,拜托."
 
 
 
-    a "O, okay..."
+    a "好,好吧..."
 
 
 
-    a "If you say so..."
+    a "如果你这么说的话..."
 
 
 
     scene day3_fix_0 with tstmgr
 
-    "She took her seat next to me."
+    "她在我旁边坐下."
 
 
 
@@ -353,35 +353,35 @@ label d3_1:
 
     scene day3_fix_1 with tstmgr
 
-    a "You shouldn't be here. I shouldn't let you see this."
+    a "你不应该来这里.我不应该让你看到这些."
 
 
 
-    a "You must want to laugh at me... about my shitty home, shitty life..."
+    a "你一定想嘲笑我...关于我糟糕的家,糟糕的生活..."
 
 
 
-    "I think she is about to cry. She pretended to be strong and independent at day, trying to fight a way out of poverty. But now the alcohol has torn her camouflage apart and revealed her vulnerable heart to a stranger."
+    "我想她快要哭了.她白天假装坚强独立,努力摆脱贫困.但现在酒精撕破了她的伪装,在陌生人面前暴露了她脆弱的内心."
 
 
 
     scene day3_fix_2 with tstmgr
 
-    player "No, eh, I would never judge a person by its wealth."
+    player "No,eh,我永远不会以财富来判断一个人."
 
 
 
-    "Well, that's true since money is nothing but a number to me."
+    "Well,这是真的,因为钱对我来说只是一个数字."
 
 
 
     scene day3_fix_3 with tstmgr
 
-    player "Besides, I think your place is quite... unique."
+    player "此外,我认为你的房间很...独特."
 
 
 
-    "Well, that's also true... I have never been in any place like this before."
+    "Well,这也是真的...我以前从未到过这样的地方"
 
 
 
@@ -391,43 +391,43 @@ label d3_1:
 
 
 
-    a "Thanks..."
+    a "谢谢..."
 
 
 
     scene day3_fix_5 with tstmgr
 
-    "I moved closer to her."
+    "我向她靠近了一点."
 
 
 
-    player "Have you thought of going back to your hometown? You know, you don’t have to be here and push yourself so hard."
+    player "你想过回你的家乡吗?你知道,你不需要在这里把自己逼得那么紧."
 
 
 
     scene day3_fix_28 with tstmgr
 
-    a "But... I wish to make a better life and I cannot do that at the place where I came from. That was just a small, stagnant town."
+    a "但是...我希望过上更好的生活,这在我的家乡是做不到的.那只是一个萧条的小镇."
 
 
 
-    player "I see... ... ... ..."
+    player "我明白了............"
 
 
 
     scene day3_fix_29 with tstmgr
 
-    player "But this city is not as good as you think it is. There are opportunities that can make you a better life, and there are also traps that can easily destroy everything you have."
+    player "但是这个城市并没有你想的那么好.有些机会可以让你过上更好的生活,也有些陷阱可以轻易摧毁你所拥有的一切."
 
 
 
-    player "You are just a vulnerable girl. You can’t survive here alone."
+    player "你只是一个脆弱的女孩.你不能独自在这里生存."
 
 
 
     scene day3_fix_30 with tstmgr
 
-    a "But... I have to take my chance... ..."
+    a "但是...我必须碰碰运气......"
 
 
 
@@ -435,71 +435,71 @@ label d3_1:
 
 
 
-    player "Do you have a boyfriend?"
+    player "你有男朋友吗?"
 
 
 
     scene day3_fix_31 with tstmgr
 
-    a "Boyfriend? Hmmmmm... ... no... ..."
+    a "男朋友?Hmmmmm......no......"
 
 
 
-    player "Well, then you should find one because that will be the only man you can rely on in this city."
+    player "Well,那你应该找一个,因为那将是这个城市里你唯一可以依靠的男人."
 
 
 
     scene day3_fix_32 with tstmgr
 
-    a "Oh... ... eh... ... thanks... ..."
+    a "Oh......eh......谢谢......"
 
 
 
-    player "And you should learn to protect yourself. For example, you shouldn’t invite any man to your place unless you know him very well."
+    player "你应该学会保护自己.例如,你不应该邀请任何人到你的住处,除非你非常了解他."
 
 
 
-    player "Hmmmmm... ... yeah, you were not supposed to let me in, but it’s okay. I’m a good guy."
+    player "Hmmmmm......yeah,你不该让我进来的,但没关系.我是个好人."
 
 
 
     scene day3_fix_34 with tstmgr
 
-    "I spoke like I was her mentor or something, trying to tell her some rules, some concepts to survive in this city. She just sat there and listened. I didn’t notice it but the light in her eyes were getting stronger."
+    "我就像她的导师一样,试图告诉她一些在这个城市生存的规则和理念.她只是坐在那里听着.我没有注意到,但她眼中的光芒越来越强烈."
 
 
 
-    "And finally, she interrupted me with... ..."
+    "最后,她打断了我......"
 
 
 
     scene day3_fix_33 with tstmgr
 
-    a "Do you... want to be my boyfriend?..."
+    a "你...你想做我的男朋友吗?..."
 
 
 
-    "Alcohol is really a magical thing, sometimes it can make everything easier. People will think different, be easily moved, and say something that they wouldn’t choose to say when they are sober."
+    "酒精真的是一个神奇的东西,有时候它能让一切变得简单.人们会有不同的想法,很容易被感动,会说一些清醒时不会说的话."
 
 
 
-    player "What??"
+    player "什么??"
 
 
 
     scene day3_fix_35 with tstmgr
 
-    a "Ne... nevermind. I didn’t know what I was talking about... ..."
+    a "没...没什么.我不知道自己在说什么......"
 
 
 
     scene day3_fix_36 with tstmgr
 
-    a "It’s just... ... you seem like a good man, and I kinda enjoy... staying with you... ..."
+    a "只是...你看起来是个好人,我还挺喜欢...和你呆在一起的......"
 
 
 
-    player "Vera... ... ... ..."
+    player "薇拉............"
 
 
 
@@ -517,27 +517,27 @@ label d3_1:
 
 
 
-    player "I... ..."
+    player "我......"
 
 
 
-    "She was not the only one who got influenced by alcohol. I was also half-drunk at that moment and the only thing that came up into my half-chaotic mind is that..."
+    "她不是唯一一个受酒精影响的人.那一刻我也半醉了,唯一浮现在我半混沌的脑海里的就是..."
 
 
 
-    "I should put this girl too, on my potential-true-love list, because she just shook my heart with those bashful words."
+    "我应该把这个女孩也列在我的潜在真爱名单上,因为她那羞涩的话语震撼了我的心."
 
 
 
     scene day3_fix_7 with tstmgr
 
-    "I put my hand gently around her shoulder and held one of her hand in my hand. She didn't seem to resist it."
+    "我轻轻地把手放在她的肩膀上,把她的一只手握在手里.她似乎并没有抗拒."
 
 
 
     scene day3_fix_8 with tstmgr
 
-    player "I enjoy to stay with you, too..."
+    player "我也喜欢和你待在一起..."
 
 
 
@@ -547,63 +547,63 @@ label d3_1:
 
 
 
-    "And thus we kissed. Everything just happened so smoothly."
+    "我们就这样接吻了.一切都那么的顺利."
 
 
 
-    a "(Moaning softly) Wmmm... ..."
+    a "(轻声呻吟)Wmmm......"
 
 
 
     scene day3_fix_10 with tstmgr
 
-    "My left hand climbed on one of her breasts. Her moaning became intense, but she didn't stop me."
+    "我的左手摸上了她的一个乳房.她的呻吟越来越强烈,但她没有阻止我."
 
 
 
-    "I left her mouth after a half-minute long kiss."
+    "我吻了她半分钟才离开她的嘴."
 
 
 
     scene day3_fix_11 with tstmgr
 
-    a "I never thought... kissing could be so... comfortable."
+    a "我从来没想过...接吻可以是如此的...舒服."
 
 
 
-    a "And I never had kiss before, either..."
+    a "我以前也从来没有接吻过..."
 
 
 
-    player "Vera... ... ... ..."
+    player "薇拉............"
 
 
 
     scene day3_fix_12 with tstmgr
 
-    "I kissed her again and used my hand to grasp her dress at the same time."
+    "我又吻了她一下,同时用手抓住她的衣服."
 
 
 
     scene day3_fix_13 with tstmgr
 
-    "Then I ripped down her dress and revealed her tits out."
+    "然后我扯下她的裙子,露出她的乳头."
 
 
 
-    "She trembled a little, but still, didn't resist me."
+    "她有点发抖,但还是没有反抗我."
 
 
 
     scene day3_fix_14 with tstmgr
 
-    "I touched her nude breast softly with my palm and fingers, held it in my hand to feel its weight."
+    "我用手掌和手指轻柔地触摸她裸露的乳房,拿在手里感受它的重量."
 
 
 
     scene day3_fix_15 with tstmgr
 
-    "God, it felt so wonderful."
+    "天啊,感觉太棒了."
 
 
 
@@ -613,15 +613,15 @@ label d3_1:
 
     scene day3_fix_16 with tstmgr
 
-    "After another half-minute long kiss, I pushed her on the bed and got rid of her dress. She looked at me directly in the eyes with curiosity, expectancy, desire, and fear as well."
+    "又吻了半分钟,我把她推到床上,脱掉了她的衣服.她直视着我的眼睛,带着好奇,期待,渴望和恐惧."
 
 
 
-    player "Just leave it to me. I will take care of everything~"
+    player "就交给我吧.我会处理好一切的~"
 
 
 
-    a "Please... be gentle..."
+    a "请...温柔点..."
 
 
 
@@ -631,17 +631,17 @@ label d3_1:
 
 
 
-    a "Wait... What are you doing?"
+    a "等等...你在干什么?"
 
 
 
-    a "Are you trying to..."
+    a "你是想..."
 
 
 
     scene day3_fix_18 with tstmgr
 
-    a "Ohhhhhh~~~ That place is not for licking!"
+    a "Ohhhhhh~~~那里不能舔!"
 
 
 
@@ -651,61 +651,61 @@ label d3_1:
 
 
 
-    a "Your tongue... is inside my..."
+    a "你的舌头...伸到了我的..."
 
 
 
-    a "(Moaning with pleasure and lust) Oh my... don't... oh... Ahhh..."
+    a "(因快乐和欲望而呻吟)我的天...别...oh...Ahhh..."
 
 
 
-    a "It... feels... Ahhh... ..."
+    a "这...感觉...Ahhh......"
 
 
 
-    a "I can't... think straight..."
+    a "我无法...思考了..."
 
 
 
     scene day3_fix_20 with tstmgr
 
-    "My tongue is inside her vagina, tasting her fluid, and enjoying the feeling of being wrapped by the delicate meat wall of her pussy."
+    "我的舌头在她的小穴里,品尝着她的淫液,享受着被她小穴精致的肉壁包裹着的感觉."
 
 
 
-    "I can feel that she is getting wetter every second."
+    "我能感觉到她每一秒都在变得更湿."
 
 
 
-    a "(Groaning with pleasure and lust) Oh no... Ah, Ah, Ah... Ummm..."
+    a "(因快乐和欲望而呻吟)Ohno...Ah,Ah,Ah...Ummm..."
 
 
 
-    "I then took out my tongue, and started to lick her clitoris. Her groaning became louder and her body kept shaking."
+    "然后我伸出舌头,开始舔她的阴蒂.她的呻吟声越来越大,她的身体不停地颤抖."
 
 
 
     scene day3_fix_21 with tstmgr
 
-    a "Stop... stop... stop... if you keep doing that..."
+    a "停...停...停...如果你继续这样的话..."
 
 
 
-    a "I will... cum..."
+    a "我会...泄的..."
 
 
 
-    a "(Groaning with pleasure and lust) Ah, ah, ah, ah... ..."
+    a "(因快乐和欲望而呻吟)Ah,ah,ah,ah......"
 
 
 
-    "She is going to cum in just a few seconds. The throb of her body tells me everything."
+    "她几秒钟后就要高潮了.她身体的悸动告诉了我一切."
 
 
 
     scene day3_fix_22 with tstmgr
 
-    "And I suddenly stopped."
+    "我突然停了下来."
 
 
 
@@ -713,15 +713,15 @@ label d3_1:
 
 
 
-    a "Why did you... stop?"
+    a "为什么你...停了?"
 
 
 
-    a "I was just about to..."
+    a "我正要..."
 
 
 
-    player "(Smiled roguishly) Just about to what?"
+    player "(调皮地笑了笑)要什么?"
 
 
 
@@ -731,11 +731,11 @@ label d3_1:
 
     scene day3_fix_23 with tstmgr
 
-    a "Nothing..."
+    a "没什么..."
 
 
 
-    player "Do you want me to keep going? I'll make you even more comfortable, but only after you tell me you want it."
+    player "你想让我继续吗?我会让你更舒服的,但你得告诉我你想要的."
 
 
 
@@ -745,115 +745,115 @@ label d3_1:
 
 
 
-    a "I... ..."
+    a "我......"
 
 
 
-    a "I want it..."
+    a "我想要..."
 
 
 
-    a "Please... make me more comfortable..."
+    a "请...让我更舒服..."
 
 
 
-    "That's all I need to hear."
+    "这就是我想听到的."
 
 
 
     scene day3_fix_25 with tstmgr
 
-    "I put my dick above her vagina."
+    "我把我的鸡儿放在她的小穴上面."
 
 
 
-    a "Wait... Are you going to...? ... ..."
+    a "等等...你要...?......"
 
 
 
-    a "On... on the second thought... maybe... ..."
+    a "再...再考虑一下...也许......"
 
 
 
     scene day3_fix_26 with tstmgr
 
-    a "(Screaming with lust and panic) YYYeeeeeeeeeeeee... ... ... ..."
+    a "(充满欲望和恐惧的尖叫)YYYeeeeeeeeeeeee............"
 
 
 
-    "Holy shit. How could she be so tight? It feels like my penis is going to be pinched off."
+    "我的天.她怎么能这么紧呢?感觉我的鸡儿要被夹断了."
 
 
 
-    "I can't even completely stick it in. Shit, seems like I have to push harder."
+    "我甚至不能完全把它塞进去.妈的,看来我得加把劲了."
 
 
 
     scene day3_fix_27 with tstmgr
 
-    "And here we go!"
+    "好了!"
 
 
 
-    a "(Screaming loudly) AHHHHHHHHHHHH!!!!"
+    a "(大声尖叫)AHHHHHHHHHHHH!!!!"
 
 
 
-    "Wait, is she still a virgin?"
+    "等等,她还是处女吗?"
 
 
 
-    "I realized that my penis has just broken through something. It must be her hymen."
+    "我意识到我的鸡儿顶破了一个东西.那一定是她的处女膜."
 
 
 
     scene day3_a32 with tstmgr
     play sound day3_a32 loop
 
-    "I started to move. And it seems like she has passed out after I broke her virginity."
+    "我开始抽动.好像我刺破她的处女膜后她就昏过去了."
 
 
 
-    "Is that because of pleasure or panic? Or maybe both?"
+    "是因为快乐还是恐慌?或者两个都有?"
 
 
 
-    "Was I being too... rude?"
+    "我是不是太...粗鲁了?"
 
 
 
-    "Nevermind, I'll ask her when she wakes."
+    "算了,等她醒了我会问她的."
 
 
     stop sound
     scene day3_a33 with tstmgr
     play sound day3_a33 loop
 
-    "I speeded up and fucked her harder. And She was waked by my action."
+    "我加快速度,更用力地操她.她被我的动作弄醒了."
 
 
 
-    a "What... happened?"
+    a "发...发生了什么?"
 
 
 
-    a "I feel... weird..."
+    a "我感觉...怪怪的..."
 
 
 
-    a "Ohhhh~~~ I am about to... cum... again... ..."
+    a "Ohhhh~~~我...又要...泄了......"
 
 
 
-    player "Me too, girl. I am going to cum very soon, too."
+    player "我也是,女孩.我也很快就要射了."
 
 
 
-    a "Wait... Please do it outside, please..."
+    a "等等...请射到外面,拜托..."
 
 
 
-    a "I... ... ... ..."
+    a "我............"
 
 
     stop sound
@@ -868,7 +868,7 @@ label d3_1:
 
 
 
-    "We reached the orgasm at the same time. And I pulled my dick out the last second before I came."
+    "我们同时达到了高潮.在我射之前的最后一秒,我把我的鸡儿拔了出来."
 
 
 
@@ -878,7 +878,7 @@ label d3_1:
 
 
 
-    "Ah... I feel exhausted. And she was out of consciousness again."
+    "Ah...我感到精疲力竭.她又失去了知觉."
 
 
 
@@ -886,17 +886,17 @@ label d3_1:
 
 
 
-    "This might be one of my best sexual experiences in all these years."
+    "这可能是这些年来我最好的性经历之一."
 
 
 
     scene day3_a36 with tstmgr
 
-    "Well... Now it may be a good time to sleep..."
+    "Well...现在可能是睡觉的好时间..."
 
 
 
-    "We lied together and quickly fell asleep, like two shameless animals."
+    "我们躺在一起,很快就睡着了,像两个不知羞耻的动物."
 
 
 

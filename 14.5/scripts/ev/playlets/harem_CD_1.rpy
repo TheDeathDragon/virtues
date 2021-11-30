@@ -10,7 +10,7 @@ label harem_CD_1:
 
     scene harem_cd_1_1 with dissolve
 
-    "Irene is waiting for her pickup after school."
+    "艾琳放学后正在等人接她."
 
 
 
@@ -22,33 +22,33 @@ label harem_CD_1:
 
     scene harem_cd_1_3 with tstmgr
 
-    d "Ha! Over here!"
+    d "Ha!在这边!"
 
 
 
     scene harem_cd_1_4 with tstmgr
 
-    player "Sorry we were late. How long have you been waiting, Irene?"
+    player "对不起,我们迟到了.你等了多久了,艾琳?"
 
 
 
-    d "I just got off school a few minutes ago, so don't worry~"
+    d "我几分钟前刚从学校出来,所以不用担心~"
 
 
 
-    d "Why is Theo here, too? Mommy didn't tell me that you were both coming for me."
+    d "为什么狄奥也在这里?妈妈没告诉我你们两个都来接我."
 
 
 
     scene harem_cd_1_5 with tstmgr
 
-    c "What, I'm not welcome here?"
+    c "怎么,我在这里不受欢迎?"
 
 
 
     scene harem_cd_1_6 with tstmgr
 
-    player "We... were having a date, so... ..."
+    player "我们...我们在约会,怎么了......"
 
 
 
@@ -58,7 +58,7 @@ label harem_CD_1:
 
     scene harem_cd_1_7 with tstmgr
 
-    d "Whatever, I need a hug!~~"
+    d "不管怎样,我需要一个拥抱!~~"
 
 
 
@@ -68,13 +68,13 @@ label harem_CD_1:
 
     scene harem_cd_1_8 with tstmgr
 
-    player "(Noticed The look in Theodora's eyes) ... ... ... ..."
+    player "(注意到了狄奥多拉的眼神)............"
 
 
 
     scene harem_cd_1_9 with tstmgr
 
-    player "Come here, Theo."
+    player "过来,狄奥."
 
 
 

@@ -9,65 +9,65 @@ label G_daily_12:
 
     scene g_daily12_1 with dissolve
 
-    player "Hey, Vera, have we received any letters from the bank recently?"
+    player "Hey,薇拉,我们最近收到过银行的来信吗?"
 
 
 
     scene g_daily12_2 with tstmgr
 
-    a "The bank? I... I don’t think so."
+    a "银行吗?我...我想没有."
 
 
 
-    player "Emmm... That’s strange. The bank said that they have sent a letter out already."
+    player "Emmm...奇怪.银行说他们已经寄出了一封信."
 
 
 
     scene g_daily12_3 with tstmgr
 
-    player "Don't worry, it’s not a big deal, I’ll just call them and let them send it again."
+    player "别担心,没什么大不了的,我打电话给他们,让他们再发一次."
 
 
 
     scene g_daily12_4 with tstmgr
 
-    a "Maybe it’s my fault. I might have made a mistake and tossed it in the trash together with those harassment letters for Uno. There were just too many of them."
+    a "也许是我的错.我可能把它和那些给乌诺的骚扰信一起扔进了垃圾桶.它们太多了."
 
 
 
     scene g_daily12_5 with tstmgr
 
-    g "Sorry... ... ... ..."
+    g "抱歉............"
 
 
 
     scene g_daily12_6 with tstmgr
 
-    a "Oh, no, Uno, I didn’t mean to... ..."
+    a "Oh,no,乌诺,我不是故意的......"
 
 
 
     scene g_daily12_7 with tstmgr
 
-    g "This is really my fault."
+    g "这真的是我的错."
 
 
 
-    a "No no no, it’s not your fault. I didn’t... ..."
+    a "Nonono,这不是你的错.我没有......"
 
 
 
     scene g_daily12_8 with tstmgr
 
-    "Vera turned to look at me with flustered eyes."
+    "薇拉转过身来,用慌乱的眼神看着我."
 
 
 
-    a "[P], I really wasn’t complaining..."
+    a "[P],我真的没有抱怨..."
 
 
 
-    player "Yeah, Uno, Vera wasn’t blaming you."
+    player "Yeah,乌诺,薇拉没有怪你."
 
 
 
@@ -77,51 +77,51 @@ label G_daily_12:
 
     scene g_daily12_9 with tstmgr
 
-    g "I know, but... ..."
+    g "但是我明白......"
 
 
 
-    g "Sigh... I don’t feel so well. I guess I should go catch some sleep."
+    g "唉...我感觉不太舒服.我想我该去睡会儿了."
 
 
 
-    g "Sorry... and see you tomorrow."
+    g "对不起...明天见."
 
 
 
     scene void with tstmgr
 
-    "Uno then left the room..."
+    "乌诺随后离开了房间..."
 
 
 
     scene g_daily12_10 with dissolve
 
-    a "Awwwww... I’m so stupid... ..."
+    a "Awwwww...我真笨......"
 
 
 
-    a "She must be having a really tough time. I was supposed to spend more time with her and comfort her as a friend, but awwwwww... ..."
+    a "她一定过得很艰难.我应该花更多的时间陪她,以朋友的身份安慰她,但是awwwwww......"
 
 
 
     scene g_daily12_11 with tstmgr
 
-    player "It’s okay, Vera."
+    player "没关系,薇拉."
 
 
 
-    player "But... why do you think she must be having a tough time?"
+    player "但是...为什么你认为她一定很难受?"
 
 
 
-    "I do have noticed that Uno seemed to be a little distressed these days, but that is normal, right? Everybody gets distressed sometime."
+    "我确实注意到乌诺最近有点郁闷,但这是正常的,对吧?每个人都会有沮丧的时候."
 
 
 
     scene g_daily12_12 with tstmgr
 
-    a "She receives more than 20 harassment letters every single day and this situation has been going on for quite a while. There must be a lot more harassments to her on the internet or even in the real life. How could she not be having a tough time?"
+    a "她每天都会收到20多封骚扰信,这种情况已经持续了一段时间.在网络上,甚至在现实生活中,对她的骚扰肯定更多.她怎么可能不难受呢?"
 
 
 
@@ -131,17 +131,17 @@ label G_daily_12:
 
 
 
-    player "I... I didn’t realize it could be so serious..."
+    player "我...我没想到事情会这么严重..."
 
 
 
-    a "Seriously, what happened to her? Why did she begin to receive so many harassments all in a sudden."
+    a "说真的,她怎么了?为什么她突然开始受到这么多的骚扰."
 
 
 
     scene g_daily12_14 with tstmgr
 
-    player "She... eh... it is complicated. I’ll talk to her tomorrow."
+    player "她...eh...有点复杂.我明天跟她谈谈."
 
 
 
@@ -151,13 +151,13 @@ label G_daily_12:
 
     scene g_daily12_15 with tstmgr
 
-    a "Please let me know if there is anything I can do for her."
+    a "如果有什么我能帮她的,请告诉我."
 
 
 
     scene g_daily12_16 with tstmgr
 
-    player "I will, Vera. Now stop thinking too much."
+    player "我会的,薇拉.现在不要想太多了."
 
 
 
@@ -169,11 +169,11 @@ label G_daily_12:
 
     scene g_daily12_17 with dissolve
 
-    "Later tonight, while I was sleeping..."
+    "今晚晚些时候,当我正在睡觉的时候..."
 
 
 
-    "*Door opening sound* ... ... ... ..."
+    "*门打开的声音*............"
 
 
 
@@ -197,19 +197,19 @@ label G_daily_12:
 
     scene g_daily12_21 with tstmgr
 
-    player "*Waking up* Hmmmmmm?"
+    player "*醒来*Hmmmmmm?"
 
 
 
-    player "(When did Uno come?)"
+    player "(乌诺什么时候来的?)"
 
 
 
-    "The red-haired kitty is curling up in my arms and sleeping nice and soundly. She is snoring gently and it sounds just like a kitty’s purring."
+    "红头发的小猫正蜷缩在我的怀里,睡得很香.她在轻轻地打鼾,听起来就像小猫的呼噜声."
 
 
 
-    "I guess she is taking my arms as the safest place."
+    "我猜她把我的臂弯当成最安全的地方."
 
 
 
@@ -219,11 +219,11 @@ label G_daily_12:
 
     scene g_daily12_22 with tstmgr
 
-    player "It must be hard for you these days, Uno... But don’t worry, I will always be around and protect you..."
+    player "这些日子你一定很难过,乌诺...但别担心,我会一直在你身边保护你的..."
 
 
 
-    player "My little kitty~"
+    player "我的小猫咪~"
 
 
 

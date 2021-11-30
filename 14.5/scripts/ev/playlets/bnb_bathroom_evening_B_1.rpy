@@ -2,33 +2,33 @@ label bnb_bathroom_evening_B_1:
 
     scene void with tstmgr
 
-    "This evening, Senning came to my house for bathing."
+    "今天晚上,森柠来我家洗澡."
 
 
 
     scene bnb_bathroom_latenight_b_1_1 with tstmgr
 
-    b "That was so comfortable."
+    b "这真是太舒服了."
 
 
 
-    b "Thanks for letting me take a bath here."
+    b "谢谢你让我在这里洗澡."
 
 
 
-    player "So why don't you just bath in your apartment?"
+    player "所以你为什么不在自己公寓里洗澡呢?"
 
 
 
-    b "The public bathroom in my apartment doesn't have bathtubs, so... ..."
+    b "我公寓的公共浴室没有浴缸,所以......"
 
 
 
-    b "I mean, how can people call a room without bathtubs bathroom?"
+    b "我是说,没有浴缸的房间怎么能叫浴室呢?"
 
 
 
-    player "Well, good point. I never think of that before... ..."
+    player "Well,说得好.我以前从没想过这个......"
 
 
 

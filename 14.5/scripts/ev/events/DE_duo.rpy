@@ -3,23 +3,23 @@ label DE_duo:
     scene de_duo1_1 with tstmgr
     play music happy
 
-    d "Hey, [P], come here."
+    d "Hey,[P],过来."
 
 
 
-    player "Irene, aren’t we supposed to have today’s tutoring lesson right now?"
+    player "艾琳,我们今天的辅导课不是应该现在就上吗?"
 
 
 
-    d "Mom has agreed that I can have a break for today."
+    d "妈妈同意我今天可以休息一下."
 
 
 
-    e "Come and join us in this beautiful afternoon, [P]."
+    e "来和我们一起共度这个美好的下午吧,[P]."
 
 
 
-    "Oh, shit... They looked so damn sexy with those skimpy swimsuits on."
+    "Oh,shit...她们穿着那些暴露的泳衣看起来真他妈的性感."
 
 
 
@@ -27,19 +27,19 @@ label DE_duo:
 
 
 
-    player "But I don’t have swimming trunks with me."
+    player "但是我没有带泳裤."
 
 
 
-    d "Don't worry, you don’t have to jump into the water. Just take off your clothes and have a sunbath with us."
+    d "别担心,你不下水.脱掉你的衣服和我们一起晒日光浴吧."
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
-    "Who would ever reject to have a sunbath with two super sexy ladies?"
+    "谁会拒绝和两个超级性感的女人一起做日光浴呢?"
 
 
 
@@ -49,19 +49,19 @@ label DE_duo:
 
 
 
-    "A few moments later."
+    "几分钟后."
 
 
 
     scene de_duo1_2 with tstmgr
 
-    player "Alright, ladies. What should I do now?"
+    player "好吧,女士们.我现在该怎么做?"
 
 
 
     scene de_duo1_3 with tstmgr
 
-    player "(God... These bikinis are crazy. I can hardly control my penis from getting hard. )"
+    player "(God...这些比基尼太疯狂了.我几乎不能控制我的鸡巴不变硬.)"
 
 
 
@@ -73,77 +73,77 @@ label DE_duo:
 
     scene de_duo1_4 with tstmgr
 
-    d "Mom?"
+    d "妈妈?"
 
 
 
     scene de_duo1_5 with tstmgr
 
-    e "Such a strong body..."
+    e "好强壮的身体..."
 
 
 
-    "Aunt Elisa put her hand on my body lightly."
+    "伊莉萨阿姨轻轻地把手放在我身上."
 
 
 
-    player "Eh... Aunt Elisa?"
+    player "Eh...伊莉萨阿姨?"
 
 
 
     scene de_duo1_6 with tstmgr
 
-    e "I’m fine. Now you need to have some sunscreen on your body. I will help."
+    e "我很好.现在你需要在身上涂一些防晒霜.我来帮你吧."
 
 
 
     scene de_duo1_7 with tstmgr
 
-    d "Wait. I want to help, too."
+    d "等等.我也想帮忙."
 
 
 
     scene de_duo1_8 with tstmgr
 
-    e "Irene... ... ... ..."
+    e "艾琳............"
 
 
 
     scene de_duo1_9 with tstmgr
 
-    e "Fine, [P]. Which of us do you prefer to choose?"
+    e "好吧,[P].你选哪一个?"
 
 
 
-    player "Oh man... ... ... ..."
+    player "噢天............"
 
 
 
     label DE_duo_choice_1:
 
     menu:
-        "Irene":
+        "艾琳":
 
 
             scene de_duo1_10 with tstmgr
 
-            player "If Irene really wants to help me... ... ... ..."
+            player "如果艾琳真的想帮我............"
 
-            d "Great!"
+            d "棒!"
 
             scene de_duo1_11 with tstmgr
 
             e "... ... ... ..."
 
-            e "Okay then, he is yours now, Irene. I will go get some drinks."
+            e "好吧,现在他是你的了,艾琳.我去拿些饮料."
 
-            d "See you later, mom."
+            d "待会见,妈妈."
 
             scene de_duo1_12 with tstmgr
 
-            d "Now it’s only you and me, [P]."
+            d "现在只有你和我了,[P]."
 
-            d "you should go lie on a chair."
+            d "你应该去躺在椅子上."
 
             player "O... okay... ..."
 
@@ -153,33 +153,33 @@ label DE_duo:
 
             scene de_duo1_13 with tstmgr
 
-            player "Eh... Irene, I don’t really think this is a good position to put sunscreen on me..."
+            player "Eh...艾琳,我不认为这是给我涂防晒霜的好位置..."
 
             scene de_duo1_14 with tstmgr
 
-            d "Don’t you like me sitting on your body?"
+            d "你不喜欢我坐在你身上吗?"
 
-            player "I... ..."
+            player "我......"
 
             scene de_duo1_15 with tstmgr
 
-            d "Then just shut up and let me do the work."
+            d "那就闭嘴,我来做就好了."
 
             scene de_duo1_16 with tstmgr
 
-            "She pressed her soft body against my chest and gently squirmed it like a snake."
+            "她把她柔软的身体贴在我的胸口上,像蛇一样轻轻地扭动着."
 
-            "This girl is fucking seducing me right now. How could she dare to do such things when her mother is nearby?"
+            "这个女孩现在正在勾引我.她妈妈在附近,她怎么敢做这种事?"
 
             scene de_duo1_17 with tstmgr
 
-            d "My breasts are not as big as my moms, but... ..."
+            d "我的胸没有我妈妈那么大,但是......"
 
-            d "Do you want to have a touch?"
+            d "你想摸一下吗?"
 
-            player "I... ... ... ..."
+            player "我............"
 
-            "Suddenly, we heard a sound of footsteps. Aunt Elisa is coming back."
+            "突然,我们听到了脚步声.伊莉莎阿姨要回来了."
 
             scene de_duo1_18 with tstmgr
 
@@ -187,55 +187,55 @@ label DE_duo:
 
             scene de_duo1_19 with tstmgr
 
-            "She left my body and lied next to me."
+            "她离开了我的身体,躺在我身边."
 
             scene de_duo1_20 with tstmgr
 
-            d "Hi, mommy."
+            d "Hi,妈咪."
 
-            e "Oh, glad to see you two are getting along with each other."
+            e "Oh,很高兴看到你们两个相处得很好."
 
             scene de_duo1_21 with tstmgr
 
-            e "I’d like to join you."
+            e "我也想加入你们."
 
-            player "(Oh my... ... I must be in heaven...)"
+            player "(我的......我一定是在天堂...)"
 
             scene void with tstmgr
 
-            "Some time later... ..."
+            "一段时间后......"
 
             scene de_duo1_22 with tstmgr
 
             player "... ... ... ..."
 
-            "Both Aunt Elisa and Irene are in a nap right now."
+            "伊莉莎阿姨和艾琳现在都睡着了."
 
-            "Perhaps... it’s my time to do something."
+            "也许...我该做点什么."
 
             "... ... ... ..."
-        "Aunt Elisa":
+        "伊莉莎阿姨":
 
 
 
 
-            player "If Aunt Elisa wishes to help me... ... ... ..."
+            player "如果伊莉莎阿姨愿意帮我的话............"
 
-            e "Good choice."
+            e "明智的选择."
 
             d "Hmmmmm... ... ... ..."
 
             scene de_duo1_11 with tstmgr
 
-            d "I will go get some drinks, see you later."
+            d "我去拿点饮料,待会见."
 
-            e "Don’t drink too much cold."
+            e "不要喝太多的冷饮."
 
             scene de_duo1_23 with tstmgr
 
-            e "Now it’s only you and me, [P]."
+            e "现在只有你和我了,[P]."
 
-            e "You should go lie on a chair."
+            e "你应该去躺在椅子上."
 
             player "O... okay... ..."
 
@@ -245,29 +245,29 @@ label DE_duo:
 
             scene de_duo1_24 with tstmgr
 
-            player "Eh... Aunt Elisa, I don’t really think this is a good position to put sunscreen on me..."
+            player "Eh...伊莉莎阿姨,我觉得这个位置不适合给我涂防晒霜..."
 
             scene de_duo1_25 with tstmgr
 
-            e "Don’t worry, auntie got this."
+            e "别担心,阿姨来处理."
 
-            player "I... ... ... ..."
+            player "我............"
 
             scene de_duo1_26 with tstmgr
 
-            "She pressed her soft body against my chest and gently squirmed it like a snake."
+            "她把她柔软的身体贴在我的胸口上,像蛇一样轻轻地扭动着."
 
-            "Is she... seducing me? Isn’t she afraid of letting Irene see this?"
+            "她是在...勾引我吗?她不怕让艾琳看到这个吗?"
 
             scene de_duo1_27 with tstmgr
 
-            e "You really have grown up a lot during these years... ..."
+            e "这些年你真的长大了很多......"
 
             scene de_duo1_28 with tstmgr
 
-            player "Aunt Elisa... ..."
+            player "伊莉莎阿姨......"
 
-            "Suddenly, we heard a sound of footsteps. Irene is coming back."
+            "突然,我们听到了脚步声.艾琳回来了."
 
             scene de_duo1_29 with tstmgr
 
@@ -275,39 +275,39 @@ label DE_duo:
 
             scene de_duo1_30 with tstmgr
 
-            "She left my body and lied next to me."
+            "她离开了我的身体,躺在我身边."
 
             scene de_duo1_31 with tstmgr
 
-            e "Hello, Irene."
+            e "Hello,艾琳."
 
-            d "Why do you two stay so close to each other?"
+            d "你们俩为什么挨得这么近?"
 
             scene de_duo1_21 with tstmgr
 
-            d "Let me join you~"
+            d "我也来加入你们~"
 
-            player "(Oh my... ... I must be in heaven...)"
+            player "(我的......我一定是在天堂...)"
 
-            e "Hmm... This feels relaxing."
+            e "Hmm...这感觉很舒服."
 
-            e "Now it is a good time to clear our mind and have a rest."
+            e "现在是清空大脑并且休息的好时候了."
 
             player "... ... ... ..."
 
             scene void with tstmgr
 
-            "Some time later... ..."
+            "一段时间后......"
 
             scene de_duo1_22 with tstmgr
 
             player "... ... ... ..."
 
-            player "(How could they fall in asleep so quickly?)"
+            player "(她们怎么这么快就睡着了?)"
 
-            "Both Aunt Elisa and Irene are in a nap right now."
+            "伊莉莎阿姨和艾琳现在都睡着了."
 
-            "Perhaps... it’s my time to do something."
+            "也许...我该做点什么."
 
             "... ... ... ..."
 
@@ -316,16 +316,16 @@ label DE_duo:
     label DE_duo_choice_2:
 
     menu:
-        "Touch Irene":
+        "摸艾琳":
 
 
 
 
-            if D.love < 30:
+            if not seen('D_love_6'):
 
-                "Further plot will be unlocked after you improve the relationship with Irene."
+                "进一步的情节将在你改善与艾琳的关系后解锁."
 
-                "You can always replay this event in the ‘subplay replay’ button located in your bedroom."
+                "你可以在你卧室的“重播”按钮中重播这个事件."
 
                 jump DE_duo_choice_2
             else:
@@ -333,19 +333,19 @@ label DE_duo:
 
                 scene de_duo1_33 with tstmgr
 
-                "Irene is lying her head on my chest like a little animal."
+                "艾琳像小动物一样把头靠在我的胸前."
 
-                "Damn, she is cute... ..."
+                "Damn,她太可爱了......"
 
                 scene de_duo1_34 with tstmgr
 
-                "And her little butt is right beside my hand. I want to... ..."
+                "她的小屁股就在我的手边.我想......"
 
                 scene de_duo1_35 with tstmgr
 
-                "Touch it... ... ... ..."
+                "摸摸............"
 
-                "This... lovely springy meatball... feels so amazing..."
+                "这个...可爱又有有弹力的肉丸...感觉太神奇了..."
 
                 scene de_duo1_36 with tstmgr
 
@@ -353,75 +353,75 @@ label DE_duo:
 
                 scene de_duo1_37 with tstmgr
 
-                d "(Realized what was happening) [P]?... ..."
+                d "(意识到发生了什么)[P]?......"
 
                 scene de_duo1_38 with tstmgr
 
                 d "Hah!~~~~"
 
-                player "Oh, hi, Irene. Did I wake you up? I’m sorry... ..."
+                player "Oh,hi,艾琳.我吵醒你了吗?我很抱歉......"
 
                 scene de_duo1_39 with tstmgr
 
-                d "Maybe I should tell mommy about what were you doing to me~"
+                d "也许我应该告诉妈妈你对我做了什么~"
 
-                d "How dare you touch me like that in front of mommy? Didn’t you worry that she might find out?"
+                d "你怎么敢在妈妈面前那样碰我?你不担心她会发现吗?"
 
                 scene de_duo1_40 with tstmgr
 
-                player "Well, I would like to take that risk, because you are just too tempting~"
+                player "Well,我愿意冒这个险,因为你太诱人了~"
 
-                d "Then how about let’s do some even more risky things?"
+                d "那我们来做一些更冒险的事情怎么样?"
 
-                player "What are you suggesting?"
+                player "你的建议是什么?"
 
-                d "I mean... ... ... ..."
+                d "我的意思是............"
 
                 scene de_duo1_41 with tstmgr
 
-                d "(Kissing) Wummmmmm~~~~ wummmm~~~~ wummm~~~"
+                d "(吻)Wummmmmm~~~~wummmm~~~~wummm~~~"
 
-                player "Irene... ... ... ..."
+                player "艾琳............"
 
                 scene de_duo1_42 with tstmgr
 
-                "She kissed me with her soft cold lips, and at the same time, she slowly moved her hand down to my crotch..."
+                "她用她柔软冰冷的嘴唇吻了我,同时,她慢慢地把手移到我的胯部..."
 
                 scene de_duo1_43 with tstmgr
 
-                "And then she took off my pants. Her action was so clean that I didn’t even realize it until my penis was in her hand."
+                "然后她脱下了我的裤子.她的动作是如此干净利落,以至于我甚至都没有意识到,直到我的鸡儿在她的手中."
 
-                player "Shit, Irene, what are you doing?"
+                player "Shit,艾琳,你要做什么?"
 
                 scene de_duo1_44 with tstmgr
 
                 d "Shhh... ... ... ..."
 
-                player "This is way too risky. We should stop."
+                player "这太冒险了.我们应该停下来."
 
-                d "That’s not what this huge dick told me~"
+                d "这个大块头可不是这么跟我说的~"
 
-                d "Relax, mommy is a heavy sleeper. She wouldn’t wake up even if I suck her nipple right now~"
+                d "放松,妈妈睡得很沉.即使我现在吮她的奶头,她也不会醒的~"
 
-                player "Hmmmm... that was a weird example, but okay, I get it."
+                player "Hmmmm...这是一个奇怪的比喻,但是好吧,我明白了."
 
                 scene de_duo1_46 with tstmgr
 
-                player "So... what’s now, Irene?"
+                player "所以...现在要做什么,艾琳?"
 
                 scene de_duo1_47 with tstmgr
 
-                d "What do you want me to do?~"
+                d "你想让我做什么?~"
 
                 scene de_duo1_45 with tstmgr
 
-                player "You are the one who holds my dick, so... you decide."
+                player "你握着我的鸡儿,所以...你决定."
 
                 d "Okay~~~"
 
                 scene de_duo1_48 with tstmgr
 
-                "She suddenly lowered her head and put my dick in her mouth."
+                "她突然低下头,把我的鸡巴放进她嘴里."
 
                 player "Ohhhh... ... shit... ..."
 
@@ -429,21 +429,21 @@ label DE_duo:
 
                 pause
 
-                d "(Swallowing) Hummm~~~ hummm~~~ hummm~~~ hummm~~~"
+                d "(吞下)Hummm~~~hummm~~~hummm~~~hummm~~~"
 
-                d "So... ... big... ..."
+                d "好......大......"
 
-                "Damn, I never felt so excited before. Aunt Elisa is sleeping by my side and her young daughter is giving me a blowjob!"
+                "Damn,我从来没有这么兴奋过.伊莉莎阿姨睡在我旁边,她的小女儿给我口交!"
 
-                "I don’t know what I should think right now. I wish this blowjob can last longer because I want to feel more of Irene’s warm little mouth."
+                "我不知道我现在该怎么想.我希望这次口交能持续更久,因为我想更多地感受到艾琳温暖的小嘴巴."
 
-                "But at the same time, I wish we can finish it as soon as possible because Aunt Elisa may wake up anytime."
+                "但同时,我希望我们能尽快做完,因为伊莉莎阿姨随时可能醒来."
 
-                "Ahhhhh... ... this is so suffering! But it makes me even more excited!!!!"
+                "Ahhhhh......这太难顶了!但这让我更加兴奋!!!!"
 
-                d "(Swallowing) Hummm~~~ hummm~~~ hummm~~~ hummm~~~"
+                d "(吞下)Hummm~~~hummm~~~hummm~~~hummm~~~"
 
-                player "Ahhhh... ... shit... ... I’m cuming... ... ... ..."
+                player "Ahhhh......shit......我要射了............"
 
                 scene de_duo1_50 with tstmgr
 
@@ -463,7 +463,7 @@ label DE_duo:
 
                 scene de_duo1_55 with tstmgr
 
-                d "(Swallowing hard) ... ... ... ..."
+                d "(用力吞咽)............"
 
                 scene de_duo1_56 with tstmgr
 
@@ -471,28 +471,28 @@ label DE_duo:
 
                 scene de_duo1_52 with tstmgr
 
-                d "That was... so sticky..."
+                d "这...好黏..."
 
-                player "Irene... ... ... ..."
+                player "艾琳............"
 
                 scene de_duo1_53 with tstmgr
 
-                player "You should go clean your face now. We can’t let your mommy see you like this..."
+                player "你现在应该去洗脸了.我们不能让你妈妈看到你这样..."
 
                 d "Okay~~~~~"
 
                 scene void with tstmgr
 
                 "... ... ... ..."
-        "Touch Elisa":
+        "摸伊莉莎":
 
 
 
             if E.love < 55:
 
-                "The further plot will be unlocked after Elisa's love level reaches 55."
+                "进一步的情节将在伊莉莎的好感度达到55后解锁."
 
-                "You can always replay this event in the ‘subplay replay’ button located in your bedroom."
+                "你可以随时在位于你卧室的'情节回放'按钮中重放这个事件."
 
                 jump DE_duo_choice_2
             else:
@@ -501,15 +501,15 @@ label DE_duo:
 
                 player "... ... ... ..."
 
-                "They are holding my arms so tightly, there is nothing I can do right now..."
+                "她们紧紧地搂住我的胳膊,我现在什么也做不了......"
 
-                "But... ..."
+                "但是......"
 
                 scene de_duo1_77 with tstmgr
 
-                "I can still... move my hands a little... ..."
+                "我还可以......稍微移动我的手......"
 
-                "Aunt Elisa’s long legs... ..."
+                "伊莉莎姨妈的长腿......"
 
                 scene de_duo1_78 with tstmgr
 
@@ -525,13 +525,13 @@ label DE_duo:
 
                 scene de_duo1_57 with tstmgr
 
-                e "Hmmmmm?"
+                e "嗯嗯?"
 
-                player "Oh, did I wake you up? Sorry, I was just... ..."
+                player "哦,我把你吵醒了吗?对不起,我只是......"
 
                 scene de_duo1_58 with tstmgr
 
-                e "*Smiling* ... ... ... ..."
+                e "*微笑* ... ... ... ..."
 
                 scene de_duo1_59 with tstmgr
 
@@ -545,7 +545,8 @@ label DE_duo:
 
                 "... ... ... ... ... ..."
 
-                "Sometime later... ..."
+
+                "稍后......"
 
                 scene de_duo1_60 with tstmgr
 
@@ -553,21 +554,21 @@ label DE_duo:
 
                 scene de_duo1_61 with tstmgr
 
-                d "*Waking up* ... ... ... ..."
+                d "*醒来* ... ... ... ..."
 
                 scene de_duo1_62 with tstmgr
 
-                d "Emmmmm? Mommy? [P]? Where are you?"
+                d "Emmmmm? 妈妈?[P]? 你在哪里?"
 
                 scene de_duo1_63 with tstmgr
 
-                e "Over here, sweetie~"
+                e "在这里,宝贝儿~"
 
-                e "It’s too hot here so [P] and I got into water~ Do you want to join us?"
+                e "这里太热了,所以我和[P]下水了~你想加入我们吗?"
 
                 scene de_duo1_64 with tstmgr
 
-                d "Hmmmmmm... ... No, I’d rather nap for another few minutes~"
+                d "嗯嗯.......不,我宁愿再睡几分钟~"
 
                 scene de_duo1_65 with tstmgr
 
@@ -575,100 +576,101 @@ label DE_duo:
 
                 scene de_duo1_66 with tstmgr
 
-                e "Sleepy head~"
+                e "瞌睡虫~"
 
                 scene de_duo1_67 with tstmgr
 
-                e "But... luckily she didn’t get into water with us, otherwise... ..."
+                e "但是......幸运的是她没有和我们一起下水,否则......"
 
-                e "She will... find out... ..."
+                e "她会......发现的......"
 
                 scene de_duo1_68 with tstmgr
                 play sound de_duo1_68 loop
                 pause
 
-                e "That her mother... is being fucked... like a whore... ..."
+                e "她的母亲......像个妓女一样... ...正在被操......"
 
-                e "*Restricted moaning* Emmmmmm~~ huhhhhh... ... That spot... ... yes... ..."
+                e "*压抑的呻吟* Emmmmmm~~ohhhh~~.......就是那个地方...... ...是的......"
 
-                player "Shhhh... ..."
+                player "嘘......"
 
-                e "Can’t... ... keep quiet~~~"
+                E "不能......要保持安静~~~"
 
-                e "Your penis... so hard... so hot... full with strength... ... Love it... so much... ..."
+                "你的鸡巴......这么硬......这么热......充满了力量.......爱死它了......太爱了......"
 
-                e "I’m... such a shameless mother... ..."
+                e "我是......一个不知羞耻的母亲......"
 
                 stop sound
                 scene de_duo1_69 with tstmgr
                 play sound de_duo1_69 loop
                 pause
 
-                e "*Restricted moaning* Awwwww~~ uuuhhhh~ No... ... ahhhhh~~~~"
+                e "*压抑的呻吟* Awwwww~~ uuuhh~~ 不... ... ahhhhh~~~~"
 
-                e "I’m being fucked... while looking at my little daughter’s angelic sleeping face... ... So sinful... so excited~~"
+                e "我正在被操......同时看着我的小女儿天使般的睡脸.....太兴奋了.......太不知羞耻了~~"
 
-                e "Ahhhh~~ huhhhh~~~ yes... ... ohhh~~"
+                e "啊~~~呵呵~~~是的......哦~~~"
 
-                e "This is really... the best exercise after a nap... ..."
+                e "这真是......午睡后最好的运动......"
 
-                e "Yes~~~ uhhhh hhh~~ hhh~~ huhh~~~"
+                "是的~~~嗯~~~嗯~~~~嗯~~~~"
 
-                player "Be prepared of my cum, auntie~"
+                player "准备好接受我的精液,阿姨~"
 
-                e "Just... do as you want~~~"
+                e "就......按你的要求做吧~~~"
 
-                player "I’m cumming!"
+                player "我射了!"
 
                 stop sound
                 scene de_duo1_70 with tstmgr
                 play sound cumshot
                 $ flashlight()
 
-                e "*Restricted moaning* Wuuuuuuuummmmmmm~~~~~~~~~"
+                e "*压抑的呻吟* Wuuuuuuuummmmm~~~~~~~~~"
 
                 scene de_duo1_71 with tstmgr
                 play sound cumshot
 
-                e "Yes~~ hot cum~~~ pump them all inside me... ohhh~~~~"
+                e "是的~~火热的精液~~~在我体内全部射出来吧...哦~~~~~"
 
-                "Elisa's body is trembling hard in the water along with the orgasm."
+                "Elisa的身体在水中随着高潮的到来而用力的颤抖."
 
                 scene de_duo1_72 with tstmgr
 
-                d "Emmmmm? What’s wrong, mommy?"
+                d "Emmmmm?怎么了,妈妈?"
 
-                e "I... I just got a cramp in my foot, don't worry, nothing serious~"
+                e "我......我只是脚抽筋了,别担心,不严重~"
 
                 scene de_duo1_73 with tstmgr
 
-                d "Oh, okay, be careful... ..."
+                d "哦,好的,小心点......"
 
                 scene de_duo1_74 with tstmgr
 
-                d "Zzzzzz... zzz... zzz... zzz... ..."
+                d "Zzzzzz...Zzz...Zzz...Zzz..."
 
                 scene de_duo1_75 with tstmgr
 
-                e "We should... get out now... ..."
+                e "我们应该......现在出去......"
 
-                e "The entire pool has been filled with our fluids... ..."
+                "整个池子都充满了我们的爱液......"
 
-                e "Has to... change the water... ..."
+                "必须要......换水......"
 
                 scene void with tstmgr
 
                 "... ... ... ..."
-        "Have a nap with them":
+        "和她们一起睡一觉":
 
 
 
 
-            player "(Hmmmm... ... ... ...)"
+            player "（嗯...... ...... ......）"
 
             scene de_duo1_32 with tstmgr
 
-            player "(Nevermind, I feel tired, too. I think I should close my eyes and have a nap just like them.)"
+            player "（算了吧,我也觉得很累.我想我应该闭上眼睛,像她们一样打个盹.)"
+        
 
             scene void with tstmgr
 

@@ -2,33 +2,33 @@ label G_action_sub_3_girlfriend:
 
     scene void with tstmgr
 
-    "Evening, in the livingroom... ..."
+    "晚上,在客厅里 ... ..."
 
 
 
     scene g_action_sub_3_1 with dissolve
 
-    g "Nya~~~"
+    g "Nia~~~"
 
 
 
-    "Ah, here we go again, Uno has definitely addicted to play a cat."
+    "啊,我们又来了,乌诺肯定已经沉迷于被当成猫了."
 
 
 
-    player "Stop crawling around nakedly, girl. I mean, I’m okay with it, but don’t your knees hurt?"
+    player "别再光着身子爬来爬去了,姑娘.我的意思是,我没问题,但你的膝盖不疼吗??"
 
 
 
     scene g_action_sub_3_2 with tstmgr
 
-    g "Hmmmm... ... It does hurt a little... ..."
+    g "Hmmmm... ... 它确实有点疼... ..."
 
 
 
     scene g_action_sub_3_28 with tstmgr
 
-    g "But it’s okay, because master’s caressing can heal any pain~"
+    g "但没关系,因为主人的爱抚可以治愈任何痛苦~"
 
 
 
@@ -36,29 +36,27 @@ label G_action_sub_3_girlfriend:
 
 
 
-    "Suddenly, my phone began to ring."
+    "突然间,我的电话开始响起."
 
 
 
-    label G_action_sub_3_girlfriend_choice_1:
+    label G_action_sub_3_sexpartner_choice_1:
 
     menu:
-        "Take the call directly":
+        "直接接听电话":
 
 
             scene g_action_sub_3_3 with tstmgr
 
-            "Friend A" "How's it going, [P]?"
+            "友人A" "最近如何, [P]?"
 
-            player "I'm doing alright, bro, how was your bachelor party?"
+            player "我过的还行,兄弟,你的单身派对如何?"
 
-            player "Hi there, dude, how was your bachelor party?"
+            "友人A" "很好,如果你能来,那就更棒了."
 
-            "Friend A" "It was great and it would be greater if you could come."
+            player "Ha ha ha, 很遗憾... ..."
 
-            player "Ha ha ha, sorry about that... ..."
-
-            g "Nya~~~ nya~~~"
+            g "~~~ nia~~~"
 
             scene g_action_sub_3_4 with tstmgr
 
@@ -68,15 +66,15 @@ label G_action_sub_3_girlfriend:
 
             g "Meow~~~~"
 
-            "Friend A" "Huh, you are playing with your cat again?"
+            "友人A" "哼,你又在和你的猫玩了?"
 
-            player "Eh... yeah, that’s one of my favorite things to do~"
+            player "Eh... 是,这是我最喜欢做的事情之一~"
 
-            "Friend A" "What is she doing?"
+            "友人A" "她在做什么?"
 
             scene g_action_sub_3_6 with tstmgr
 
-            player "She is... ... hugging my leg as a pillar... and rubbing it with her soft plumpy body~"
+            player "她......把我的腿当做柱子一样抱着,用她柔软丰满的身体摩擦着我的腿~"
 
             scene g_action_sub_3_7 with tstmgr
 
@@ -88,11 +86,11 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_7 with tstmgr
 
-            "Friend A" "Oh my god that sounds so cute~"
+            "友人A" "哦,我的上帝,这听起来太可爱了~"
 
             scene g_action_sub_3_8 with tstmgr
 
-            player "Yeah, I think she is in heat."
+            player "是,我认为她正在发情."
 
             scene g_action_sub_3_7 with tstmgr
 
@@ -100,75 +98,75 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_8 with tstmgr
 
-            "Friend A" "Oh, then I guess you must be very busy comforting her these days."
+            "友人A" "Oh, 那我想你这些天一定很忙,在安慰她."
 
             scene g_action_sub_3_9 with tstmgr
 
-            player "You bet~"
+            player "那还用说~"
 
             scene g_action_sub_3_10 with tstmgr
 
-            g "Nyaaah~~~~~~~"
+            g "niaaah~~~~~~~"
 
-            player "Say hello to my friend, Uno~"
+            player "向我的朋友问好,乌喏~"
 
             g "Meoooowww~~~~~~"
 
-            "Uno’s voice is shrill like a 10-year-old, that makes her sound exactly like a real cat on the phone."
+            "乌诺的声音像10岁小孩一样尖锐,这使她听起来完全像一只真正的猫在打电话."
 
             scene g_action_sub_3_11 with tstmgr
 
-            "Friend A" "Oh, wow, she really understands what you say."
+            "友人A" "Oh, 哇,她真的明白你说什么."
 
             scene g_action_sub_3_12 with tstmgr
 
-            player "Yep, the smartest cat ever~"
+            player "没错,最聪明的猫~"
 
             scene g_action_sub_3_13 with tstmgr
 
             g "Purrrrr~~~~"
 
-            player "Oh my god... ... ... ..."
+            player "Oh我的天啊 ... ... ... ..."
 
-            "Friend A" "Eh... ... What is she doing now?"
+            "友人A" "Eh... ... 她现在在做什么?"
 
             scene g_action_sub_3_14 with tstmgr
 
-            player "She is lying on her back on my laps."
+            player "她仰面躺在我的腿上."
 
-            "Friend A" "Wow, I heard a cat will only reveal its belly to you when it trusts you completely. You must be a really good master~"
+            "友人A" "哇,我听说猫只有在完全信任你的情况下才会向你敞开肚皮.你一定是个非常好的主人~"
 
             scene g_action_sub_3_15 with tstmgr
 
-            player "Yep, I guess so~"
+            player "是的,我想是的~"
 
             scene g_action_sub_3_16 with tstmgr
 
-            g "Nyaaa~~~~~"
+            g "niaaa~~~~~"
 
-            "Friend A" "You know, I was thinking about buying a female cat too, can you tell me something about how to comfort a female cat in heat?"
+            "友人A" "你知道吗,我也在考虑买一只母猫,你能告诉我一些关于如何安慰发情的母猫吗?"
 
-            player "Oh, eh, okay, I’d like to~"
+            player "Oh, eh, 好的,没问题~"
 
             scene g_action_sub_3_17 with tstmgr
 
-            player "First, if she lies on her back on your laps like my uno, you can try rub or pat her belly."
+            player "首先,如果她像我的乌喏一样仰卧在你的腿上,你可以试着揉搓或拍打她的腹部."
 
             g "Purrrrrrrrr~~~~~"
 
             scene g_action_sub_3_18 with tstmgr
 
-            player "Like... ..."
+            player "就像... ..."
 
             scene g_action_sub_3_19 with tstmgr
             play sound spank
             $ flashlight()
 
-            player "This~~"
+            player "这样~~"
 
-            g "Nyaaaaaaaaaah!~~~~~"
+            g "niaaaaaaaaaah!~~~~~"
 
-            "Friend A" "You just... patted your cat?"
+            "友人A" "你刚刚......拍了你的猫?"
 
             scene g_action_sub_3_20 with tstmgr
 
@@ -178,19 +176,9 @@ label G_action_sub_3_girlfriend:
             play sound spank
             $ flashlight()
 
-            "Friend A" "... ... ... ..."
+            "友人A" "... ... ... ..."
 
-            "Friend A" "But... that sound... ..."
-
-            scene g_action_sub_3_20 with tstmgr
-
-            pause
-
-            scene g_action_sub_3_19 with tstmgr
-            play sound spank
-            $ flashlight()
-
-            player "What’s with the sound?"
+            "友人A" "But... that sound... ..."
 
             scene g_action_sub_3_20 with tstmgr
 
@@ -200,67 +188,69 @@ label G_action_sub_3_girlfriend:
             play sound spank
             $ flashlight()
 
-            g "Nyaaaaaah~~~~~"
+            player "这声音是怎么回事?"
 
-            "Friend A" "It sounds a little weird, but... nevermind... ..."
+            scene g_action_sub_3_20 with tstmgr
+
+            pause
+
+            scene g_action_sub_3_19 with tstmgr
+            play sound spank
+            $ flashlight()
+
+            g "niaaaaaah~~~~~"
+
+            "友人A" "这听起来有点奇怪,但......算了吧... ..."
 
             scene g_action_sub_3_21 with tstmgr
 
-            player "Alright, enough about patting, let’s talk about rubbing~"
+            player "好了,不说拍打了,我们来谈谈揉搓~"
 
             scene g_action_sub_3_22 with tstmgr
 
-            player "Try use only one finger to gently rub her belly... and... ..."
+            player "试着只用一根手指轻轻地揉搓她的腹部......而且... ..."
 
             scene g_action_sub_3_23 with tstmgr
 
-            player "Slowly... down to the bellybutton... ..."
+            player "慢慢地......下到肚脐处... ..."
 
-            g "Nyaaa~~~~~"
+            g "niaaa~~~~~"
 
-            "Friend A" "Wait, what? Cats have bellybutton?"
+            "友人A" "等等,什么?猫有肚脐眼?"
 
-            player "Huh? Bellybutton? Who said about bellybutton? I never said that, you must have heard it wrong."
+            player "Huh? 肚脐眼?谁说的肚脐眼?我从来没有说过,你一定是听错了."
 
-            "Friend A" "... ... ... ...?"
+            "友人A" "... ... ... ...?"
 
-            player "Anyway, let’s talk about something else... ... Sometimes rubbing and patting are not enough, you will have to do some other things to calm her down."
+            player "总之,让我们来谈谈其他的事情...... ... 有时摩擦和拍打是不够的,你必须做一些其他事情来让她平静下来."
 
             scene g_action_sub_3_24 with tstmgr
 
-            player "Such as... massaging her pubic area~"
+            player "比如......按摩她的小穴~"
 
             g "Meowwww~~~~~"
 
-            "Friend A" "Wait, stop... ..."
+            "友人A" "等待,停止... ..."
 
             scene g_action_sub_3_25 with tstmgr
 
-            player "Some people would use a dildo... ... I mean, a cotton swab to stick into their cat’s pussy, but I think massaging her with a hand is enough~"
+            player "有些人会用假阳具......我的意思是,用棉签插入他们的猫的小穴,但我认为用手按摩她已经足够了~"
 
             scene g_action_sub_3_24 with tstmgr
 
-            "Friend A" "This is getting even creepier than I thought... ..."
+            "友人A" "这比我想象的还要令人毛骨悚然... ..."
 
             scene g_action_sub_3_25 with tstmgr
 
-            player "Anyway, it is easy to see if she is satisfied with my massaging. She will tremble hard and her pussy will be wet with fluid with a musky smell~"
+            player "总之,很容易看出她对我的按摩是否满意.她会用力颤抖,她的阴部会被带有麝香味的液体打湿~"
 
             scene g_action_sub_3_24 with tstmgr
 
-            g "Nyaaaaaaah~~~~~"
+            g "niaaaaaaah~~~~~"
 
             scene g_action_sub_3_25 with tstmgr
 
-            player "Yep, sometimes she would moan like that too~"
-
-            scene g_action_sub_3_24 with tstmgr
-
-            pause
-
-            scene g_action_sub_3_25 with tstmgr
-
-            pause
+            player "是的,有时她也会发出这样的淫叫~"
 
             scene g_action_sub_3_24 with tstmgr
 
@@ -278,11 +268,19 @@ label G_action_sub_3_girlfriend:
 
             pause
 
-            g "Awwwwww~~ Nyaaaaaah!!~~~~~~"
+            scene g_action_sub_3_24 with tstmgr
+
+            pause
+
+            scene g_action_sub_3_25 with tstmgr
+
+            pause
+
+            g "Awwwwww~~ niaaaaaah!!~~~~~~"
 
             scene g_action_sub_3_24 with tstmgr
 
-            player "Yes, we are getting closer..."
+            player "是的,我们正逐渐接近..."
 
             scene g_action_sub_3_24 with tstmgr
 
@@ -314,27 +312,27 @@ label G_action_sub_3_girlfriend:
 
             g "Yaaaaaaaaaaaahhhh!!~~~~~ Aaaahhh~~~~~~~~~"
 
-            player "Uh-huh~ It looks like I just did a great job~"
+            player "Uh-huh~ 看起来我刚刚做的还不错~"
 
-            "Friend A" "She... ... orgasmed?"
+            "友人A" "她... ... 高潮了?"
 
             scene g_action_sub_3_27 with tstmgr
 
-            player "Yep~ now my cat has fully calmed down now~"
+            player "是的~现在我的猫已经完全安静下来了~"
 
             g "Huhhh~~~~ Meow~~~~"
 
-            "Friend A" "... ... ... ..."
+            "友人A" "... ... ... ..."
 
-            "Friend A" "I... I don’t want to have a female cat anymore... ... This is just too much... ..."
-        "Ask Uno to be quiet":
-
-
+            "友人A" "我不想再养一只母猫了... ... 这实在是太多了... ..."
+        "让乌诺安静点":
 
 
-            "*Phone ringing* Dududududu~~~ dudududu~~~~"
 
-            player "Shhhhhhhh, Uno, don’t make any voice out this time."
+
+            "*手机响起* Dududududu~~~ dudududu~~~~"
+
+            player "Shhhhhhhh, 乌诺,这次不要再发出任何声音了."
 
             scene g_action_sub_3_29 with tstmgr
 
@@ -342,13 +340,13 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_3 with tstmgr
 
-            "Friend A" "How's it going, [P]?"
+            "友人A" "进展如何, [P]?"
 
-            player "I'm doing alright, bro, how was your bachelor party?"
+            player "我过的不错,兄弟,你的单身派对如何?"
 
-            "Friend A" "It was great and it would be greater if you could come."
+            "友人A" "挺不错的,如果你能来,那就更棒了."
 
-            player "Ha ha ha, sorry about that... ..."
+            player "哈哈哈,抱歉了... ..."
 
             scene g_action_sub_3_4 with tstmgr
 
@@ -356,27 +354,25 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_30 with tstmgr
 
-            g "*Smiling* ... ... ... ..."
+            g "*笑g* ... ... ... ..."
 
             scene g_action_sub_3_4 with tstmgr
 
-            player "Eh... ... What are you doing?"
+            player "Eh... ... 你在做什么?"
 
-            "Friend A" "Me?"
+            "友人A" "我?"
 
             scene g_action_sub_3_31 with tstmgr
 
-            g "*Taking [P]'s dick out* ... ... ... ..."
+            player "Oh, no, 当我没说~"
 
-            player "Oh, no, forget about it~"
-
-            "What are you going to do with my dick, naughty cat?"
+            "你要对我的小弟弟做什么,淘气的猫咪?"
 
             scene g_action_sub_3_32 with tstmgr
 
-            g "*Smiling* ... ... ... ..."
+            g "*笑* ... ... ... ..."
 
-            "She wants to do me a handjob? Well, be my guest~"
+            "她想为我打手枪?那就请便吧~"
 
             scene g_action_sub_3_33 with tstmgr
 
@@ -386,9 +382,9 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_34 with tstmgr
 
-            g "*Struggling to align [P]’s dick to her pussy* Heh... ... ... ..."
+            g "*挣扎着将[P]的阴茎对准她的骚穴* Heh... ... ... ..."
 
-            player "(This looks weird, but... it is better than a handjob anyway~)"
+            player "(这看起来很奇怪,但是......无论如何都比手交好~)"
 
             "And finally... ..."
 
@@ -396,29 +392,29 @@ label G_action_sub_3_girlfriend:
 
             $ flashlight()
 
-            g "*Restricted moaning* Yaah... ... huh... ..."
+            g "*抑制的淫叫* Yaah... ... huh... ..."
 
-            "She finally found the spot and successfully swallowed my dick into her pussy."
+            "她终于找到了那个地方,并成功地将我的鸡巴吞入她的小穴."
 
-            "Friend A" "Wait, I think I just heard a girl’s sound... ..."
+            "友人A" "等等,我想我刚听到一个女孩的声音... ..."
 
-            player "Eh... You must have heard it wrong. There is only me in the room~"
+            player "Eh... 你一定是听错了.房间里只有我一个人~"
 
-            "Friend A" "Okay... ..."
+            "友人A" "Okay... ..."
 
             scene g_action_sub_3_36 with tstmgr
             play sound g_action_sub_3_36 loop
             pause
 
-            "Friend A" "Seriously, man, the marriage is not good as I thought at all. I thought living with a woman I love would be fun, but it is actually not."
+            "友人A" "说真的,伙计,婚姻根本不是我想象的那样好.我以为和一个我爱的女人生活在一起会很有趣,但实际上并非如此."
 
-            player "Oh? How is that?"
+            player "Oh?怎么回事?"
 
-            "Friend A" "I mean, now I have to be careful about every word I say because I don’t want to hurt her feeling in any possible way."
+            "友人A" "你懂的,现在我必须谨慎对待我说的每一句话,因为我不想以任何可能的方式伤害她."
 
-            "Friend A" "Sometime I wish she is a pet so I don’t need to worry about so many things anymore."
+            "友人A" "有时我希望她是一只宠物,这样我就不需要再担心这么多事情了."
 
-            "Friend A" "*Suddenly lowered his voice* Oh, shit, I hope she didn’t hear what I said."
+            "友人A" "*忽然压低了声音* 哦,该死,我希望她没有听到我刚刚说的话."
 
             player "Huh... ... ... ..."
 
@@ -427,26 +423,26 @@ label G_action_sub_3_girlfriend:
             play sound g_action_sub_3_37 loop
             pause
 
-            "Friend A" "Sigh... ... Think about it, my life will be so much easier if she is obedient to me and always loves me like a pet. But I guess that kind of girl just doesn’t exist in the real world, right?"
+            "友人A" "Sigh... ... 想想看,如果她对我言听计从,总是像宠物一样爱我,我的生活就会轻松很多.但我想这种女孩在现实世界中是不存在的,对吗?"
 
-            player "Eh... ... yeah, I... guess so."
+            player "Eh... ... ,我......猜是这样."
 
-            "Friend A" "Life is hard, man, life is hard. Women are just too hard to deal with."
+            "友人A" "生活中隐藏的忧伤如熄火之炉,能使心烧成灰烬,伙计,生活真是艰苦啊.女人实在是太难对付了."
 
-            "Friend A" "Trust me, don’t get into a marriage too easily."
+            "友人A" "相信我,不要轻易的进入婚姻."
 
-            player "I... I’ll remember that..."
+            player "我... 我会记得的..."
 
             stop sound
             scene g_action_sub_3_38 with tstmgr
             play sound cumshot
             $ flashlight()
 
-            g "*Restricted moaning* Awww... ... www... ... www~~~"
+            g "*压抑的呻吟* Awww... ... www... ... www~~~"
 
-            "Friend A" "... ... ... ..."
+            "友人A" "对己能真,对人就能去伪,就像黑夜接着白天,影子随着身形   ... ... ... ... ... ... ... ..."
 
-            "Friend A" "I swear to god that I just heard a girl’s moaning."
+            "友人A" "我向上帝发誓,我刚刚听到了淫叫声."
 
             scene g_action_sub_3_39 with tstmgr
 
@@ -454,66 +450,66 @@ label G_action_sub_3_girlfriend:
 
             scene g_action_sub_3_40 with tstmgr
 
-            player "Sorry, dude, just realized something urgent, gotta go~"
+            player "对不起,老兄,刚意识到有急事,得走了~"
 
-            "Friend A" "What?... ... ... ..."
+            "友人A" "蛤?... ... ... ..."
 
-            player "*Cut the phone* ... ... ... ..."
+            player "*挂断电话* ... ... ... ..."
 
             scene g_action_sub_3_41 with tstmgr
 
-            player "Now, slutty kitten, do you have any idea how I am going to punish you for your naughtiness?"
+            player "现在,放荡的小猫,你知道我将如何惩罚吗?"
 
-            g "*Excitedly moaning* Nyaa~~~ nyaa~~~"
+            g "*兴奋地呻吟着* niaa~~~ niaa~~~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later..."
+            "一段时间过后..."
 
             "... ... ... ..."
 
-            g "Ahhhhh!~~~ hhhhh!~~~ Spare me!~~ Please spare me!~~ Master!~~~~"
+            g "Ahhhhh!~~~ hhhhh!~~~ 放过我!~~求求你放过我!~~ 最尊贵的主人!~~~~"
 
             scene g_action_sub_3_42 with dissolve
             play sound g_action_sub_3_42 loop
             pause
 
-            "Well, this is the punishment I prepared for her, the kinkiest fucking position I have ever tried on any girls."
+            "好吧,这就是我为她准备的惩罚,是我在任何女孩身上尝试过的最变态的性交姿势."
 
-            "Although Uno always says she is plumpy, she actually has greater physical flexibility than most people. Even a yoga master will be surprised at how much she can bend her body~"
+            "虽然乌诺总是说她有些过度丰满,但实际上她的身体柔韧性比大多数人都强.即使是瑜伽大师也会对她的身体弯曲程度感到惊讶.~"
 
-            "But now the only thing she can do with her yoga talent is to please me in this kinky fucking position~"
+            "但现在她唯一能做的是用她的瑜伽天赋以这种变态的性交姿势取悦我~"
 
-            g "Master~~ master~~~ Spare me~~~ I will never do that again~~~"
+            g "主人~~ 好主人~~~ 放过我吧~~~我绝对不会再这样了~~~"
 
-            g "This position... is so strange~~~"
+            g "这个位置...太奇怪了~~~"
 
-            player "You will have to use your lewd body to allay my wrath and learn a lesson of how to be a good pet!"
+            player "你将不得不用你淫荡的身体来缓解我的愤怒,并学习如何成为一个好的宠物!"
 
             stop sound
             scene g_action_sub_3_43 with tstmgr
             play sound g_action_sub_3_43 loop
             pause
 
-            g "Ohhhhh~~~ hhhh~~~ Sorry~~ sorry, master~~"
+            g "Ohhhhh~~~ hhhh~~~ 抱歉~~ 实在抱歉, 亲爱的主人~~"
 
-            g "I will learn~~~ I will learn to be a good pet, a good sex slave, even a toilet~~~"
+            g "我将学习~~~我将学习成为一个好的宠物,一个好的性奴,甚至是一个马桶~~~"
 
-            g "Toilet? Ohhh~ yes, I am just like master's toilet now~~"
+            g "马桶?哦~是的,我现在就像是主人的马桶~"
 
-            g "Master~~ master~~ Please punish me more with the thrust of your mighty penis~~ Please use me as a toilet~~"
+            g "主人~~ 敬爱的主人~~ 请用你强大的鸡巴来惩罚我吧~~请把我当做马桶来使用吧~~"
 
-            g "I will take all of master’s wrath in my pussyyyyy~~~~~"
+            g "我将把主人的愤怒全部埋藏在我的小穴里里里里~~~~~"
 
-            player "This is what you were hoping for since the beginning, right? You did the prank because you wanted me to treat you in this kinky way, didn’t you?"
+            player "这就是你从一开始就希望的,对吗?你做这个恶作剧是因为你希望我以这种变态的方式对待你,不是吗?"
 
-            g "Yes, yes~ because the more punishments I receive from master, the more obedient I will become~ the better pet I will be~~~"
+            g "是的,是的,因为我从主人那里得到的惩罚越多,我就会变得越顺从,我就会成为更好的宠物~~~"
 
-            player "You are so damn helpless, Uno, but that’s why I love you so much~"
+            player "你是如此该死的堕落,乌诺,但这就是为什么我如此爱你~"
 
-            player "Ahhhhhh~~~ I’m cumming!!"
+            player "Ahhhhhh~~~ 我要射了!!"
 
             stop sound
             scene g_action_sub_3_44 with tstmgr
@@ -522,17 +518,17 @@ label G_action_sub_3_girlfriend:
 
             g "Awwwwwwwwww!!!~~~~~~"
 
-            "Ahhhh~~ I came so much in her vagina that it even overflowed~"
+            "Ahhhh~~ 我在她的小穴里射了真多,甚至溢出来了~"
 
             scene g_action_sub_3_45 with tstmgr
 
-            g "Master’s... toilet... ... I am... master’s... toilet... ..."
+            g "主人的... 好马桶... ... 我是... 主人的... 好马桶... ..."
 
-            g "Nya... aa... ah... ..."
+            g "nia... aa... ah... ..."
 
-            player "Uno... my pet girl... my precious~~"
+            player "乌诺...我的宠物女孩...我的宝贝~~"
 
-            "I wish that friend of mine is here so he will know that the obedient pet girls really exist, but nope, no, I won’t let him see this."
+            "我希望我的那个朋友在这里,这样他就会知道听话的宠物女孩真的存在,但不,不,我不会真让他看到这个."
 
 
 

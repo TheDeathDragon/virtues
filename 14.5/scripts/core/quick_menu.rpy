@@ -36,12 +36,12 @@ screen quick_menu():
                 xalign 0.5
                 yalign 1.0
 
-                textbutton _("Back") action Rollback()
-                textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
-                textbutton _("Auto") action Preference("auto-forward", "toggle")
-                textbutton _("Hide") action HideInterface()
+                textbutton _("返回") action Rollback()
+                textbutton _("跳过") action Skip() alternate Skip(fast=True, confirm=True)
+                textbutton _("自动") action Preference("auto-forward", "toggle")
+                textbutton _("隐藏") action HideInterface()
                 if _in_replay:
-                    textbutton _("End Replay") action EndReplay(confirm=False)
+                    textbutton _("结束播放") action EndReplay(confirm=False)
                 else:
-                    textbutton _("Menu") action ShowMenu()
+                    textbutton _("菜单") action ShowMenu()
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

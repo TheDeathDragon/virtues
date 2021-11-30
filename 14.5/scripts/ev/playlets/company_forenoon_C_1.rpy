@@ -2,11 +2,11 @@ label company_forenoon_C_1:
 
     scene company_afternoon_c_1_1 with tstmgr
 
-    player "Morning."
+    player "早上好."
 
 
 
-    c "(Nodding) ... ... ... ..."
+    c "(点头)............"
 
 
 
@@ -14,11 +14,11 @@ label company_forenoon_C_1:
 
 
 
-    player "You look... nice today."
+    player "你今天看起来...很不错."
 
 
 
-    c "(Nodding) ... ... ... ..."
+    c "(点头)............"
 
 
 
@@ -26,7 +26,7 @@ label company_forenoon_C_1:
 
 
 
-    player "Nevermind..."
+    player "算了..."
 
 
 

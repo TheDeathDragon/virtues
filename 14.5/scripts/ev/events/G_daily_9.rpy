@@ -3,23 +3,23 @@ label G_daily_9:
     scene void with tstmgr
     play music sorrow
 
-    "As Uno’s porn videos became more and more popular on the internet, my concern has grown as well. I am worried that her secret identity may get exposed."
+    "随着乌诺的色情视频在互联网上越来越受欢迎,我的担忧也随之增加.我担心她的秘密身份可能会暴露出来."
 
 
 
     scene g_love_4_15 with flashback
 
-    "I mean, she only used a blinder to cover her face in those videos, not even a mask, and she never hides her signature red tressed hair as well. People who have seen her videos may really recognize her in the real life."
+    "我的意思是,在那些视频中,她只用眼罩遮住脸,甚至不用面具,而且她从来没有隐藏过她标志性的染过的红色头发.看过她视频的人可能真的在现实生活中认出了她."
 
 
 
     scene void with flashback
 
-    "I should spend more time with her to prevent the potential harassments that she may encounter. Yeah, I should definitely do that."
+    "我应该花更多的时间和她在一起,防止她可能遇到的潜在骚扰.是的,我绝对应该这么做."
 
 
 
-    "Let’s start with picking her up from work more often."
+    "让我们从多接她下班开始吧."
 
 
 
@@ -29,17 +29,17 @@ label G_daily_9:
 
     scene g_daily9_1 with dissolve
 
-    "I came to the bookstore in the afternoon."
+    "我下午去了书店."
 
 
 
     scene g_daily9_2 with tstmgr
 
-    g "[P]? what are you doing here?"
+    g "[P]?你来这里做什么?"
 
 
 
-    player "Hi Uno, I’m here to pick you up from work."
+    player "Hi乌诺,我来接你下班."
 
 
 
@@ -49,31 +49,31 @@ label G_daily_9:
 
     scene g_daily9_3 with tstmgr
 
-    g "Are you sure you want to pick me up today instead of Vera?~~"
+    g "你确定今天来接我而不是薇拉吗?~~"
 
 
 
-    g "She will be jealous~"
+    g "她会嫉妒的~"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
     scene g_daily9_4 with tstmgr
 
-    g "I was just kidding~ I’m happy you could come~"
+    g "我只是开个玩笑,我很高兴你能来~"
 
 
 
     scene g_daily9_5 with tstmgr
 
-    g "I’m just about to get off work. Please give me 5 minutes~"
+    g "我正要下班.请给我5分钟~"
 
 
 
-    player "Okay... ..."
+    player "嗯......"
 
 
 
@@ -85,13 +85,13 @@ label G_daily_9:
 
     scene g_daily9_6 with dissolve
 
-    "Sometime later, we were on the way home... ..."
+    "一段时间后,我们在回家的路上......"
 
 
 
     scene g_daily9_7 with tstmgr
 
-    player "So... Uno, I have a question for you."
+    player "所以...乌诺,我有个问题要问你."
 
 
 
@@ -99,7 +99,7 @@ label G_daily_9:
 
 
 
-    player "Aren’t you afraid that your real identity may get exposed if someone recognizes you after he watches your porn videos?"
+    player "你不怕别人在看完你的色情视频后认出你来,你的真实身份可能会暴露吗?"
 
 
 
@@ -111,7 +111,7 @@ label G_daily_9:
 
     scene g_daily9_9 with tstmgr
 
-    g "Of course I am afraid of that possibility, but I guess that’s the risk I have to take... since I have chosen this route... ..."
+    g "我当然害怕这种可能性,但我想这就是我必须冒的风险.因为我选择了这条路......"
 
 
 
@@ -121,7 +121,7 @@ label G_daily_9:
 
     scene g_daily9_10 with tstmgr
 
-    player "I’ll protect you, no matter what happens."
+    player "不管发生什么事,我都会保护你."
 
 
 
@@ -137,7 +137,7 @@ label G_daily_9:
 
     scene g_daily9_12 with tstmgr
 
-    player "Do you... do you want to hold my hand?"
+    player "你...你想握住我的手吗?"
 
 
 
@@ -147,11 +147,11 @@ label G_daily_9:
 
 
 
-    player "I mean... we never held hands before, so I was thinking... ..."
+    player "我的意思是...我们从来没有牵过手,所以我在想......"
 
 
 
-    player "Since we are together now..."
+    player "既然我们现在在一起了..."
 
 
 
@@ -161,11 +161,11 @@ label G_daily_9:
 
     scene g_daily9_14 with tstmgr
 
-    "She cautiously put her delicate little hand into mine and this was it, we are holding hands for the first time."
+    "她小心翼翼地把她纤细的小手放到我的手里,这就是,我们第一次牵手."
 
 
 
-    "For some reason we all started feeling a little shy about it. Although we have done a lot of much more intimate things before, our hearts still beat fast when our hands were connected with each other."
+    "出于某种原因,我们都开始觉得有点害羞.虽然我们以前做过很多更亲密的事情,但当我们的手牵在一起时,我们的心跳仍然很快."
 
 
 
@@ -173,45 +173,45 @@ label G_daily_9:
 
 
 
-    player "Do you like how it feels?"
+    player "你喜欢这种感觉吗?"
 
 
 
     scene g_daily9_15 with tstmgr
 
-    g "I am more used to you touching my breasts instead of my hands but... ... either feels great... ..."
+    g "我更习惯你抚摸我的胸,而不是我的手,但是...也感觉很棒......"
 
 
 
-    "Passerby A" "Wow... look at that young couple. They are adorable..."
+    "路人A""Wow...看看那对年轻的夫妇.他们好可爱..."
 
 
 
-    "Passerby A" "I guess this is their first date. They look so shy and so nervous."
+    "路人A""我猜这是他们的第一次约会.他们看起来很害羞,很紧张."
 
 
 
-    "Passerby B" "I bet it will take them at least a year to move on to sex."
+    "路人B""我打赌他们至少需要一年的时间才能走到上床的阶段."
 
 
 
-    "Passerby A" "Yeah, look at that girl’s dressing style. She must be a super conservative girl."
+    "路人A""Yeah,看看那个女孩的穿衣风格.她一定是个超级保守的女孩."
 
 
 
     scene g_daily9_16 with tstmgr
 
-    player "*Noticed what they said* ... ... ... ..."
+    player "*注意到他们说了什么*............"
 
 
 
-    player "(Super conservative?)"
+    player "(超级保守?)"
 
 
 
     scene g_daily9_17 with tstmgr
 
-    player "(Ha... ... They have no idea.)"
+    player "(Ha......他们不知道.)"
 
 
 

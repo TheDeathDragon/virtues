@@ -5,53 +5,53 @@ label C_train_sexskill_2:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in the bathroom... ..."
+    "深夜,在浴室里......"
 
 
 
     scene c_train_sexskill_2_1 with dissolve
 
-    player "... ... Sometimes it feels kinda inconvenience to carry this tireless big thing all the time... ..."
+    player".......有时我觉得一直带着这个不知疲倦的大东西有点不方便......"
 
 
 
-    player "I mean, it was supposed to shrink when contacting with hot water, but instead it got erected, as always."
+    player "我的意思是,当接触到热水时,它应该缩小,但它却像往常一样竖起来了."
 
 
 
-    player "Maybe I can cool it down by a simple meditation? Yeah, someone told me that it is good to meditate during bath."
+    player "也许我可以通过简单的冥想使它冷却下来?是的,有人告诉我,洗澡时冥想很好."
 
 
 
     scene c_train_sexskill_2_2 with tstmgr
 
-    player "Just stretch out like this and close eyes... ..."
+    player "就像这样伸展身体,闭上眼睛......"
 
 
 
-    player "Imagine that I am a jellyfish that flows with the water... ..."
+    player "想象我是一只随水流动的水母......"
 
 
 
     scene c_train_sexskill_2_3 with tstmgr
 
-    player "... ... ... ..."
+    player"............"
 
 
 
     scene c_train_sexskill_2_4 with tstmgr
 
-    player "Ah, fuck it, flow with the water my ass, it doesn’t work at all. This tub is ridiculously small for me. I am not a jellyfish, I am a fucking Godzilla."
+    player "啊,他妈的,随水而流经我的屁股,一点都不灵.这个浴缸对我来说小得令人发指.我不是水母,我是他妈的哥斯拉."
 
 
 
-    player "Sigh... ... I guess I should get up."
+    player "叹息...... 我想我应该起来了."
 
 
 
     scene void with tstmgr
 
-    "Suddenly, the bathroom door was opened and Theodora walked inside nakedly."
+    "突然,浴室的门被打开了,狄奥多拉光着身子走了进来."
 
 
 
@@ -63,11 +63,11 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_6 with tstmgr
 
-    "She closed the door and leaned against it with eyes closed and face flushed."
+    "她关上了门,靠在门上,闭着眼睛,脸色通红."
 
 
 
-    player "Theo?"
+    player "西奥?"
 
 
 
@@ -75,7 +75,7 @@ label C_train_sexskill_2:
 
 
 
-    player "Eh... Are you here to bath with me?"
+    player "呃......你是来和我一起洗澡的吗?"
 
 
 
@@ -85,21 +85,21 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_7 with tstmgr
 
-    c "Yeah... ... ... ..."
+    c "是的...... ... ... ..."
 
 
 
-    "Okay, she is obviously being shy. She used to be the cold and passive one in our relationship, but now she has changed. This is the first time she takes initiative to make love to me."
+    "好吧,她显然是在害羞.在我们的关系中,她曾经是冷漠和被动的那个,但现在她已经改变了.这是她第一次主动和我做爱."
 
 
 
     scene c_train_sexskill_2_8 with tstmgr
 
-    "Her breasts fluttered slightly along with her nervous breathing. Those heavy fun bags, man, so lovely~"
+    "她的乳房随着她紧张的呼吸而微微颤动.那些沉重的奶袋,太可爱了~"
 
 
 
-    player "Eh... Are you coming closer?"
+    player "Eh...你走近了吗?"
 
 
 
@@ -109,69 +109,69 @@ label C_train_sexskill_2:
 
     scene void with tstmgr
 
-    "She took off her glasses, walked towards me in silence,and then squatted down."
+    "她摘下眼镜,默默地走向我,然后蹲了下来."
 
 
 
     scene c_train_sexskill_2_9 with dissolve
 
-    c "Why are you sitting in the tub like that? Are you a child?"
+    c "你为什么这样坐在浴缸里?你是个孩子吗?"
 
 
 
-    player "No, it’s just... ... whatever... ..."
+    player "不,只是............随便......"
 
 
 
     scene c_train_sexskill_2_10 with tstmgr
 
-    c "You make this tub look so small. Do you want me to get in or not?"
+    c "你让这个浴缸看起来那么小.你想让我进去还是不进去?"
 
 
 
-    player "It is crowded for two indeed, maybe you should wait two minutes for me to finish bathing and we can... ..."
+    player "两个人确实很拥挤,也许你应该等两分钟让我洗完澡,我们可以......"
 
 
 
     scene c_train_sexskill_2_11 with tstmgr
 
-    c "*Interrupting* Nope, I can’t wait."
+    c "*打断*不,我不能等."
 
 
 
     scene void with tstmgr
 
-    "She then got into the tub and straddled directly on my body."
+    "然后她钻进浴缸,直接跨坐在我的身上."
 
 
 
     scene c_train_sexskill_2_12 with dissolve
 
-    c "Don’t get me wrong, I’m not a bitch that can’t live without a cock everyday... ..."
+    c "别误会,我不是一个每天都离不开鸡巴的婊子......"
 
 
 
-    c "I just... ... need you to touch me~"
+    c "我只是......需要你来抚慰我~"
 
 
 
-    player "Hmmmm... ... Is there a difference?"
+    player "Hmmmm... 有什么不同吗?"
 
 
 
-    c "Maybe not~~"
+    c "也许没有~~"
 
 
 
-    c "Look, your favorite boobs are hanging right above your face~"
+    c "看,你最喜欢的胸部就挂在你的脸上~"
 
 
 
-    c "Do you want to take a bite? Do you want to take a bite?"
+    c "你想咬一口吗?你想咬一口吗?"
 
 
 
-    player "Ye... yes... ..."
+    player "是......是......"
 
 
 
@@ -179,7 +179,8 @@ label C_train_sexskill_2:
 
     $ flashlight()
 
-    c "No can do, you greedy bastard~ Take this~"
+
+    c "不可以,你这个贪婪的混蛋~拿着这个~"
 
 
 
@@ -187,33 +188,33 @@ label C_train_sexskill_2:
 
 
 
-    "I got punched by a boob, man... I’d like to be punched in this way everyday~"
+    "我被胸部打了一拳,伙计...... 我希望每天都能以这种方式被打一拳~"
 
 
 
     scene c_train_sexskill_2_12 with tstmgr
 
-    c "Aww~ Look at your adorable face~ You like to be treated like this, huh?"
+    c "Aww~看看你可爱的脸~你喜欢被这样对待,嗯?"
 
 
 
     scene c_train_sexskill_2_13 with tstmgr
 
-    c "So be it~"
+    c "那就这样吧~"
 
 
 
-    player "Wuuuuuuuummmmmm~~~~~~~~"
+    player "Wuuuuuuummmmmm~~~~~~~~"
 
 
 
     scene c_train_sexskill_2_12 with tstmgr
 
-    c "Don’t get suffocated, I don’t want to murder my fiance~"
+    c "不要被窒息了,我可不想谋杀我的未婚夫~"
 
 
 
-    player "I want... nipples... ..."
+    player "我想要......乳头......"
 
 
 
@@ -223,15 +224,15 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_14 with tstmgr
 
-    c "Alright, just for a few seconds~"
+    c "好吧,就几秒钟~"
 
 
 
-    c "Be... careful~"
+    c "要......小心~"
 
 
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
 
@@ -241,7 +242,7 @@ label C_train_sexskill_2:
 
 
 
-    "I seem to be a little bit too eager, but whatever, the red fruit on the top of this meat hill is all I care about right now."
+    "我似乎有点太心急了,但不管怎样,这肉山顶上的红果子是我现在关心的全部."
 
 
 
@@ -251,29 +252,29 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora’s body trembled violently, but to my surprise, she didn’t have an orgasm yet."
+    "狄奥多拉的身体剧烈地颤抖着,但令我惊讶的是,她还没有高潮."
 
 
 
-    c "I touch my nipples... every night... when I am alone... ... imitating your technique... ... imagining you are the one touching me... ..."
+    c "我会摸我的乳头......每天晚上......当我一个人时......模仿你的技巧......想象你是摸我的人......"
 
 
 
-    player "Humm~ humm~ auuumm~~ Why would you do that?"
+    player "Humm~ humm~ auuumm~~你为什么要这样做?"
 
 
 
-    c "To practice... ... so I won’t act like a helpless whore... when you have my nipples in your mouth."
+    c "为了练习......这样我就不会像个无助的妓女......当你把我的乳头含在嘴里时."
 
 
 
-    player "Good for you wuummmm~~ You are doing so much better than before~ Zummmmmm~~"
+    player "对你来说很好,wuummmm~~你做得比以前好多了~ Zummmmmm~~"
 
 
 
     scene c_train_sexskill_2_17 with tstmgr
 
-    c "Am I?... ..."
+    c "真的吗?... ..."
 
 
 
@@ -295,7 +296,7 @@ label C_train_sexskill_2:
 
 
 
-    player "I will never get tired of these tasty rice cake~"
+    player "我永远不会厌倦这些美味的年糕~"
 
 
 
@@ -319,27 +320,27 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_20 with tstmgr
 
-    c "Don’t... pull it so hard~~~"
+    c "别......这么用力拉啊~~~"
 
 
 
     scene c_train_sexskill_2_21 with tstmgr
 
-    player "Zimm~~ simmm~~ huummmm~~~~ Theo~~~"
+    player "Zimm~~ simmm~~ huummmm~~~~ 西奥~~~"
 
 
 
-    player "I love you so much~~ zip~ zip~"
+    player "我真的好爱你啊~~ zip~ zip~"
 
 
 
-    c "Don’t fucking... say you love me when you have my nipple in your mouth!"
+    c "不要一边含着我的奶头一边说爱我啊,混蛋!"
 
 
 
     scene c_train_sexskill_2_22 with tstmgr
 
-    "Her legs went limp and couldn’t help to squat deeper."
+    "她的腿软了,忍不住蹲得更深."
 
 
 
@@ -349,77 +350,75 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_23 with tstmgr
 
-    "And then the top of my penis just slid into her vagina smoothly and unhindered."
+    "然后我的龟头就顺利无阻地滑入她的小穴."
 
 
 
-    "It wasn’t because she was not as tight as before, it was because her pussy has recognized my penis as its master~"
+    "这不是因为她没有以前那么紧,而是因为她的小穴已经承认我的鸡巴是它的主人~"
 
 
 
     scene c_train_sexskill_2_24 with tstmgr
 
-    c "Sorry... ... that was dangerous, I might have broken your cock if it didn't slid in my body in coincidence... ..."
+    c "对不起......那很危险,如果你的鸡巴没有巧合地滑进我的小穴,我可能会把它折断......"
 
 
 
-    player "That was not a coincidence~ Hummmm~~ My penis can always locate the entrance of your vagina~"
+    player "那不是巧合~哼哼~~我的鸡巴总是能找到你的小穴口~"
 
 
 
     scene c_train_sexskill_2_25 with tstmgr
 
-    c "... ... Idiot~"
+    c "... ... 白痴~"
 
 
 
     scene c_train_sexskill_2_26 with tstmgr
 
-    c "Well, I didn’t really want to fuck today, but since your swelling cock has happened to get in my pussy... ..."
+    c "好吧,我今天其实并不想做爱,但由于你膨胀的鸡巴碰巧进入了我的小穴......"
 
 
 
-    scene c_train_sexskill_2_27 with tstmgr
+    scene c_train_sexskill_2_27 with tstmg
 
-    c "I guess it is my responsibility to cool it down~"
-
-
+    c "我想这是我的责任,我会让它冷静下来~"
 
     scene c_train_sexskill_2_28 with tstmgr
 
-    player "You just don’t want to admit that you are actually eager for this, huh~ But you will admit it after I fuck the hell out of you~"
+    player "你只是不想承认你其实很想这样做,嗯~但在我把你干的死去活来之后你就会承认的~"
 
 
 
-    player "Now let me put my feet down from the edge of the tub so I can move more easily... ..."
+    player "现在让我把我的脚从浴缸边缘放下来,这样我就可以更容易地移动......"
 
 
 
     scene c_train_sexskill_2_29 with tstmgr
 
-    c "Well, you don’t need to do that, just sit back there and leave everything to me~"
+    c "好吧,你不需要这么做,就坐着,把一切都交给我吧~"
 
 
 
-    c "This time... let me fuck the hell out of you~"
+    c "这一次......让我把你干死吧~"
 
 
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
 
     scene c_train_sexskill_2_30 with tstmgr
 
-    c "Are you ready for this? Try not to moan like a little girl~"
+    c "你准备好了么?可不要像个小女孩一样呻吟~"
 
 
 
-    player "Just bring it on~"
+    player "就这样吧~"
 
 
 
-    c "I... will just... ..."
+    c "我......会......"
 
 
 
@@ -429,31 +428,31 @@ label C_train_sexskill_2:
 
 
 
-    c "Ahh~ yes~~ this cock... is mine... ..."
+    c "啊~太棒了~~这个鸡巴...是我的..."
 
 
 
-    player "Theo, this is so good~~~"
+    player "西奥,这太爽了~~~"
 
 
 
-    player "Just let me know when you are tired and I will take charge."
+    player "你什么时候累了,就交给我吧."
 
 
 
-    c "Don’t... underestimate me~~ I can do this... ... I can... ... fuck the hell out of you... wwwwwww~~~"
+    c "不要......小看我~~我可以做到的.......我可以............把你干得死去活来......wwwwwww~~~"
 
 
 
-    c "Ahhh~~ hhhh~~~ Wait~~~ ohhhhhhh~~~"
+    c "Ahhh~~ hhhh~~~ 等等~~~ ohhhhhhh~~~"
 
 
 
-    c "I will... conquer this cock~~~ this cocky cock~~~ I... I must~~~"
+    c "我一定要......征服这只鸡巴~~~这只鸡巴~~~我.我必须~~~"
 
 
 
-    c "Otherwise... I will be conquered by it~~~ awwwww~~~~"
+    c "不然... 我就会被它所征服~~~ awwwww~~~~"
 
 
 
@@ -467,31 +466,31 @@ label C_train_sexskill_2:
 
 
 
-    c "You are... about to cum, right?"
+    c "你是......要高潮了,对吗?"
 
 
 
-    player "Eh... nope."
+    player "Eh... 才没有."
 
 
 
-    c "No... no fucking way... ... I have done so much~~~"
+    c "不......他妈的不可能.......我已经做了这么多~~~"
 
 
 
-    c "Awwwwww~~ mmmmmmmm~~~ This cock~~~~~ I can’t... ..."
+    c "Awwwwww~~ mmmmmmmm~~~ 这个鸡巴~~~~~ 我不能... ..."
 
 
 
-    "Theodora is trying her best to make me cum, just look at how hard her boobs are bouncing. But unfortunately, she is messing with the wrong dick~"
+    "狄奥多拉正在努力让我射精,只要看看她的胸部是富有魅力,但不幸的是,她惹错了鸡巴~"
 
 
 
-    c "Ohhhh~~~ your cock is getting harder~~~ awwwww~~~ You will cum in a minute, I just need to..."
+    c "哦~~~你的鸡巴越来越硬了~~~啊~~~你马上就会射了,我只需要......"
 
 
 
-    c "Hold for another minute~~~"
+    c "再坚持一分钟~~~"
 
 
 
@@ -499,7 +498,7 @@ label C_train_sexskill_2:
 
 
 
-    c "But I can't!!!~~~~~~~~"
+    c "但我不能!!!~~~~~~~~"
 
 
     stop sound
@@ -511,7 +510,7 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora orgasmed violently and lost her strength... ..."
+    "狄奥多拉猛烈地达到了高潮,浑身无力的到在我身上... ..."
 
 
 
@@ -521,19 +520,19 @@ label C_train_sexskill_2:
 
 
 
-    c "I lost... to you again... ..."
+    c "我又输给了你......"
 
 
 
-    c "Now just do whatever you want. I know you haven’t satisfied yet."
+    c "现在就做你想做的事吧.我知道你还没有满足."
 
 
 
-    c "I guess I am just destined to be the sex slave of you... and your cock... ..."
+    c "我想我只是注定要成为你和你的鸡巴的性奴............"
 
 
 
-    player "Zimmmm~~ siiip~~~ Smart girl~"
+    player "Zimmmm~~ siiip~~~聪明的女孩~"
 
 
 
@@ -543,25 +542,25 @@ label C_train_sexskill_2:
 
     scene c_train_sexskill_2_35 with tstmgr
 
-    player "Now... ..."
+    player "现在... ..."
 
 
 
     scene c_train_sexskill_2_36 with tstmgr
 
-    "I gently turned her around and held her from behind."
+    "我轻轻地把她转过来,从后面抱住了她."
 
 
 
     scene c_train_sexskill_2_37 with tstmgr
 
-    player "Now just leave everything to me, and I will... ..."
+    player "现在把一切都交给我,我会......"
 
 
 
     scene c_train_sexskill_2_39 with tstmgr
 
-    c "And you will fuck the hell out of me~"
+    c "你会把我操得死去活来~"
 
 
 
@@ -577,7 +576,7 @@ label C_train_sexskill_2:
 
 
 
-    c "Awwwww... ahhhhh~~~ hhhh~~~ Wait, this... this is... ..."
+    c "Awwwww... ahhhhh~~~ hhhh~~~ 等等, 这是... 我我...啊ohhhhhhh... ..."
 
 
 
@@ -587,27 +586,27 @@ label C_train_sexskill_2:
 
 
 
-    c "You are treating me like... I am an item... ..."
+    c "你对我的态度就像......我是一个玩具...... 我是一个玩具......"
 
 
 
-    "Theodora has lost all her strength. She failed to conquer my dick, so now she became the conquered."
+    "狄奥多拉已经失去了她的精力.她没能征服我的小弟弟,所以现在她成了被征服者."
 
 
 
-    c "This is insane... ... hhh... hhhh... ... How could you have so much strength to... ..."
+    c "这太疯狂了......hhh......hhh.......你怎么会有这么大的力量来.... ..."
 
 
 
-    c "Move me up and down to serve your hateful cock?"
+    c "举着我的屁股操,为你可恨的鸡巴服务?"
 
 
 
-    player "Hateful? But your pussy is holding a different opinion~~ Can you feel how wet it has become?"
+    player "可恨?但你的小穴却好像不一样呢~~你能感觉到它变得多么湿润吗?"
 
 
 
-    c "Whatever... ..."
+    c "才没有......"
 
 
     stop sound
@@ -617,39 +616,39 @@ label C_train_sexskill_2:
 
 
 
-    c "I’m already a slave of your cock... anyway... ..."
+    c "我已经是你鸡巴的奴隶了......反正......"
 
 
 
-    c "Ohhhh... hhhh... yes... ..."
+    c "哦......啊......是的......"
 
 
 
-    c "I’m just enjoying... everything you do on me... ..."
+    c "我只是在享受......你在我身上做的一切......"
 
 
 
-    c "Ohhhhhhh~~~ it gets so deep~~~~"
+    c "哦~~~~~~它变得如此之深~~~~"
 
 
 
-    c "Your cock... is desperate to fertilize me... ... It wants to occupy my womb~~~~"
+    c "你的鸡巴......好像很想让我受精......它想占领我的子宫~~~~"
 
 
 
-    c "But there is nothing I can do because... now I am just your sex slave~"
+    c "但我无能为力,因为......现在我只是你的性奴~"
 
 
 
-    player "I love to see you being so obdient, Theo~"
+    player "我喜欢看你这么听话,西奥~"
 
 
 
-    player "Now... I'm about to... ..."
+    player "现在... 我就要... ..."
 
 
 
-    player "I’m cumming!!!~~~"
+    player "我要射了!~~~"
 
 
     stop sound
@@ -661,29 +660,29 @@ label C_train_sexskill_2:
 
 
 
-    "I came so much inside her that even made her belly look bigger... ..."
+    "我在她体内射了那么多,几乎让她的肚子大了一圈.... ..."
 
 
 
     scene c_train_sexskill_2_43 with tstmgr
 
-    c "Hot sperm... yes... ..."
+    c "滚烫的精液... 太棒了... ..."
 
 
 
-    c "Awwwwww... ... Why the fuck... am I smiling... ..."
+    c "Awwwwww... ... 为什么我他妈的......在笑?... ..."
 
 
 
-    c "I guess... I have really become a bitch that can’t live without your cock anymore... ..."
+    c "我想...... 我真的变成了一个没有你的鸡巴就活不下去的婊子了.... ..."
 
 
 
-    player "Isn’t that a good thing?"
+    player "这不是一件好事吗?"
 
 
 
-    c "Yeah... that’s... not bad... not bad at all... ..."
+    c "是的......那是......不坏......一点也不坏......"
 
 
 

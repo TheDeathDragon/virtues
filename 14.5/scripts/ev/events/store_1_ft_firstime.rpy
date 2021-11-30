@@ -9,53 +9,53 @@ label store_1_ft_firstime:
 
     scene store_1_ft_firstime_1 with tstmgr
 
-    "Posia" "So you want to know about your fortune, hah? That’s cute~"
+    "波西亚""所以你想知道你的命运,哈?太可爱了~"
 
 
 
-    player "But... that’s what you do, right? You are an astrologer and astrologers do fortunetellings."
+    player "但是...这就是你的工作,对吧?你是占星家,占星家算命."
 
 
 
     scene store_1_ft_firstime_2 with tstmgr
 
-    "Posia" "Hmmmmm... ... yeah, but I’m not like the other astrologers."
+    "波西亚""Hmmmmm......yeah,但我和其他占星家不一样."
 
 
 
-    player "So can you do it or not?"
+    player "所以你能不能做?"
 
 
 
     scene store_1_ft_firstime_1 with tstmgr
 
-    "Posia" "Of course I can~"
+    "波西亚""当然可以~"
 
 
 
-    player "Oh, okay, so... how will you do that? Do you need a crystal ball or something?"
+    player "Oh,okay,所以...你会怎么做呢?你需要水晶球什么的吗?"
 
 
 
     scene store_1_ft_firstime_3 with tstmgr
 
-    "Posia" "Nope, I have my own ways~"
+    "波西亚""Nope,我有我自己的方式~"
 
 
 
     scene store_1_ft_firstime_1 with tstmgr
 
-    "Posia" "Just put your head closer to me~"
+    "波西亚""把你的头靠近我~"
 
 
 
     scene store_1_ft_firstime_4 with tstmgr
 
-    player "Oh, you are going to observe my face, huh, I have heard of it before, physiognomy, right?"
+    player "Oh,你要观察我的脸,嗯,我以前听说过,面相术,对吧?"
 
 
 
-    "Posia" "Hmmmm... no~ just come more closer to me~"
+    "波西亚""Hmmmm...no~靠近我就好了~"
 
 
 
@@ -65,11 +65,11 @@ label store_1_ft_firstime:
 
     scene store_1_ft_firstime_5 with tstmgr
 
-    player "Okay... ... now what will you... ..."
+    player "Okay......现在你要做什么......"
 
 
 
-    "Posia" "... ... ... ..."
+    "波西亚""... ... ... ..."
 
 
 
@@ -77,61 +77,61 @@ label store_1_ft_firstime:
 
     $ flashlight()
 
-    "She suddenly cuddled my neck and covered my mouth with hers. I couldn’t even realize what happened until her tongue has invaded my mouth and twisted with my tongue."
+    "她突然搂住我的脖子,用她的嘴堵住我的嘴.我甚至不知道发生了什么,直到她的舌头侵入了我的嘴,和我的舌头扭在一起."
 
 
 
-    player "*Wet kissing* W... what are you... ..."
+    player "*湿吻*你...你......"
 
 
 
     scene store_1_ft_firstime_7 with tstmgr
 
-    "Posia" "*Wet kissing* Your saliva... ... will tell me... everything... ..."
+    "波西亚""*湿吻*你的口水...会告诉我...一切......"
 
 
 
-    player "*Wet kissing* What kind of fortunetelling... is this... ..."
+    player "*湿吻*这是什么算法...这......"
 
 
 
-    "Posia" "*Wet kissing* Wummm~~~ wummm~~~ wummm~~~"
+    "波西亚""*湿吻*Wummm~~~wummm~~~wummm~~~"
 
 
 
-    "She is no doubt one of the best kissers I ever know. Her tongue was agile like a moist little snake and it has basically occupied my mouth as its nest... ..."
+    "她无疑是我认识的最会接吻的人之一.她的舌头像一条潮湿的小蛇一样灵活,就像把我的嘴当作巢穴一般......"
 
 
 
     scene store_1_ft_firstime_8 with tstmgr
 
-    "Posia" "*Wet kissing* How... do you feel, my dear customer?~"
+    "波西亚""*湿吻*你觉得...如何,我亲爱的顾客?~"
 
 
 
     scene store_1_ft_firstime_9 with tstmgr
 
-    player "*Wet kissing* It is... amazing... ... so amazing... ..."
+    player "*湿吻*太...棒.....太妙了......"
 
 
 
-    "Posia" "*Wet kissing* Only the chosen one can have this service~"
+    "波西亚""*湿吻*只有被选中的人才能享受这项服务~"
 
 
 
-    "Posia" "*Wet kissing* But don’t touch my breast like that, okay? I’m not a whore~"
+    "波西亚""*湿吻*但别那样碰我的胸,好吗?我不是妓女~"
 
 
 
     scene store_1_ft_firstime_8 with tstmgr
 
-    player "Oh... eh... ... sorry."
+    player "Oh...eh......抱歉."
 
 
 
     scene store_1_ft_firstime_10 with tstmgr
 
-    "Posia" "And... ... that’s it. I have had enough of your saliva for a fortunetelling."
+    "波西亚""And......就是这样.我已经有你足够的口水来帮你算命了."
 
 
 
@@ -139,19 +139,19 @@ label store_1_ft_firstime:
 
 
 
-    player "... ... Seriously, I think you owe me an explanation. How could you know my fortune by a kiss?"
+    player "......说真的,我觉得你应该给我一个解释.你怎么能凭一个吻就知道我的命运呢?"
 
 
 
-    "Posia" "Well, honey, there is really nothing much to talk about. Every fortuneteller has its own method to do the job~ Physiognomy, palmistry, a crystal ball, or maybe a yin-yang diagram. Every method has the rationality for its existence."
+    "波西亚""Well,亲爱的,真的没什么可说的.每个算命的人都有自己的算命方法~面相术,手相,水晶球或者阴阳图.任何方法都有其存在的合理性."
 
 
 
-    "Posia" "As for me, I do the fortunetelling by absorbing people’s saliva~"
+    "波西亚""至于我,我是靠吸人的口水来算命的~"
 
 
 
-    "Posia" "But... well, it’s indeed a strange method, so I would only use such a method on the chosen ones like you~"
+    "波西亚""但是...well,这确实是一种奇怪的方法,所以我只会对像你这样被选中的人使用这种方法~"
 
 
 
@@ -159,109 +159,109 @@ label store_1_ft_firstime:
 
 
 
-    player "I don’t know what to say... ..."
+    player "我不知道该说什么......"
 
 
 
-    "Posia" "Now I’m going to tell what I just felt from your saliva~"
+    "波西亚""现在我要告诉你我从你的口水中感受到的~"
 
 
 
-    player "Oh, eh, go ahead."
+    player "Oh,eh,说吧."
 
 
 
     scene store_1_ft_firstime_11 with tstmgr
 
-    "Posia" "Hmmmmmmmmmm... ... ... ..."
+    "波西亚""Hmmmmmmmmmm... ... ... ..."
 
 
 
     scene store_1_ft_firstime_12 with tstmgr
 
-    "Posia" "Interesting... ..."
+    "波西亚""有趣......"
 
 
 
-    player "What... what’s interesting?"
+    player "什么...有趣?"
 
 
 
     scene store_1_ft_firstime_11 with tstmgr
 
-    "Posia" "One... two... three... four... ..."
+    "波西亚""One... two... three... four... ..."
 
 
 
-    "Posia" "Five... six... seven... ..."
+    "波西亚""Five... six... seven... ..."
 
 
 
     scene store_1_ft_firstime_13 with tstmgr
 
-    "Posia" "Strange, why will there be so many girls falling in love with you? I never had such a strange vision before... ..."
+    "波西亚""奇怪,为什么会有那么多女孩爱上你?我以前从未见过如此奇怪的景象......"
 
 
 
     scene store_1_ft_firstime_14 with tstmgr
 
-    "Posia" "But my vision will never go wrong. You are destined to be a harem master, congrats."
+    "波西亚""但我算的永远不会出错.你注定会成为后宫的主人,恭喜你."
 
 
 
-    "Oh dear, this fortuneteller seems to be really capable, otherwise how she could possibly know how much I want to have my own harem?"
+    "Oh天,这个算命的还真准,不然她怎么可能知道我有多想拥有自己的后宫呢?"
 
 
 
-    player "I... eh... thanks. That’s a good thing to me, right?"
+    player "我...eh...谢谢.这对我来说是件好事,对吧?"
 
 
 
     scene store_1_ft_firstime_15 with tstmgr
 
-    "Posia" "Who knows~ it may be a tragedy to you if you can’t satisfy all of them on the bed."
+    "波西亚""谁知道呢?如果你不能在床上满足所有的人,那对你来说可能是个悲剧."
 
 
 
-    player "Oh, yeah, shit, can you do another fortunetelling for me and tell me if I can satisfy them?"
+    player "Oh,yeah,shit,你能不能再给我算下,告诉我能不能满足她们?"
 
 
 
     scene store_1_ft_firstime_16 with tstmgr
 
-    "Posia" "Hmmmm, not yet. Only one fortunetelling for a day~"
+    "波西亚""Hmmmm,不行.一天只算一次~"
 
 
 
-    player "But... I’m your only customer. Can’t you make an exception?"
+    player "但是...我是你唯一的顾客.你不能破例一次吗?"
 
 
 
     scene store_1_ft_firstime_15 with tstmgr
 
-    "Posia" "Rules are rules. Sorry, darling~"
+    "波西亚""规矩就是规矩.对不起,亲爱的~"
 
 
 
     scene store_1_ft_firstime_17 with tstmgr
 
-    "Posia" "Just come and visit me more often, and you’ll have all you want~ and... ..."
+    "波西亚""只要多来看看我,你就会得到你想要的一切-还有......"
 
 
 
     scene store_1_ft_firstime_18 with tstmgr
 
-    "Posia" "I will make you even more comfortable~"
+    "波西亚""我会让你更舒服的~"
 
 
 
-    player "Even more comfortable than the kiss?"
+    player "甚至比接吻还舒服?"
 
 
 
     scene store_1_ft_firstime_19 with tstmgr
 
-    "Posia" "Who knows~ but I won’t fail my only customer anyway~"
+    "波西亚""谁知道呢?反正我不会让我唯一的客户失望的~"
 
 
 
@@ -269,13 +269,13 @@ label store_1_ft_firstime:
 
 
 
-    player "Alright, I’ll come back again."
+    player "好的,我会再来的."
 
 
 
     scene store_1_ft_firstime_20 with tstmgr
 
-    "Posia" "And I’ll be waiting for you~~"
+    "波西亚""我会一直等你~~"
 
 
 

@@ -2,29 +2,29 @@ label beach_afternoon_E_1:
 
     scene beach_afternoon_e_1_1 with tstmgr
 
-    player "Aunt Elisa, how do you like my massage?"
+    player "伊莉莎阿姨,你喜欢我的按摩吗?"
 
 
 
-    e "It... is... great... ..."
+    e "这......很棒......"
 
 
 
     scene beach_afternoon_e_1_2 with tstmgr
 
-    e "(Controlled moaning) Hmmmmm... hmmm... hmmm... ..."
+    e "(克制的呻吟)Hmmmmm...hmmm...hmmm......"
 
 
 
-    e "(His hands... have magic...)"
+    e "(他的手...有魔力一般...)"
 
 
 
-    e "(Such a pair of... warm... reliable... grown man’s hands it is...)"
+    e "(这样的一对...温暖...可靠...成年人的手...)"
 
 
 
-    player "I’m going to knead your back now."
+    player "我现在要给你揉背了."
 
 
 
@@ -34,15 +34,15 @@ label beach_afternoon_E_1:
 
 
 
-    player "Are you alright, Aunt Elisa?"
+    player "你没事吧,伊莉莎阿姨?"
 
 
 
-    e "Yes, yes, keep kneading that spot! It feels so comfortable!~~"
+    e "Yes,yes,继续揉那个地方!感觉好舒服!~~"
 
 
 
-    player "(Man, she looks so erotic...)"
+    player "(啊,她看起来好性感...)"
 
 
 

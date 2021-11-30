@@ -1,8 +1,8 @@
 label outdoors_E:
     menu:
-        "Take a walk":
+        "散步":
             jump outdoors_E.e_outdoors_1
-        "Put her against a wall":
+        "壁咚":
 
             jump outdoors_E.e_outdoors_2
 
@@ -12,17 +12,17 @@ label outdoors_E.e_outdoors_1:
 
     scene e_outdoors_1_1 with tstmgr
 
-    e "Oh dear, this is definitely one of the boldest things I have ever done in my life~"
+    e "哦,亲爱的,这绝对是我一生中做过的最大胆的事情之一~"
 
 
 
-    e "What if someone sees us?"
+    e "如果有人看到我们怎么办?"
 
 
 
     scene e_outdoors_1_2 with tstmgr
 
-    player "I guess he or she will be nose-bleed to death by looking at your stunning appearance~"
+    player "我想他或她会因为看到你迷人的外表而流血而亡的~"
 
 
 
@@ -32,21 +32,21 @@ label outdoors_E.e_outdoors_1:
 
     scene e_outdoors_1_3 with tstmgr
 
-    player "You are sweating so bad, auntie~ Are you nervous?"
+    player "姨妈,你出的汗真多啊!你很紧张吗?"
 
 
 
-    e "I’m... excited~ too excited~ Sorry for being so disgusting~"
+    e "我......很兴奋~太兴奋了~对不起,我太恶心了~"
 
 
 
-    player "What a juicy slut... ..."
+    player "真是个多汁的荡妇... ..."
 
 
 
     scene e_outdoors_1_4 with tstmgr
 
-    player "And now I’m going to make you even juicer~"
+    player "现在我将使你更加的多汁~"
 
 
 
@@ -54,7 +54,7 @@ label outdoors_E.e_outdoors_1:
 
 
 
-    e "What are you trying to... ..."
+    e "你想做... ..."
 
 
 
@@ -62,21 +62,21 @@ label outdoors_E.e_outdoors_1:
 
     $ flashlight()
 
-    e "Dooooooooooooo!!!!!~~~~~~~~"
+    e "什么!!!!!~~~~~~~~"
 
 
 
     scene e_outdoors_1_6 with tstmgr
 
-    e "What is that? A clothespin? It... ... hurts... ..."
+    e "那是什么?一个衣夹?它... ... 好痛... ..."
 
 
 
-    player "Don’t worry, it won’t really hurt you. I just want you to feel the stimulation~"
+    player "别担心,它不会真的伤害你.我只是想让你感受到这种刺激~"
 
 
 
-    player "And now... ..."
+    player "那么现在... ..."
 
 
 
@@ -88,7 +88,7 @@ label outdoors_E.e_outdoors_1:
 
 
 
-    e "My... my nipples... ..."
+    e "我... 我的乳头... ..."
 
 
 
@@ -102,21 +102,21 @@ label outdoors_E.e_outdoors_1:
 
     scene e_outdoors_1_9 with tstmgr
 
-    "She had a slight orgasm simply by the stimulation on her nipples, but her milk didn’t burst out violently as she always does. It seems like the clothespins have blocked her spouts of milk."
+    "仅仅是对她乳头的刺激,她就有了轻微的高潮,但她的乳汁并没有像往常那样猛烈地迸发出来.似乎是衣夹挡住了她的奶水喷出."
 
 
 
-    e "Please... please... ... take them off~~~ please... ..."
+    e "请......请......把它们拿下来~~~... ..."
 
 
 
     scene e_outdoors_1_10 with tstmgr
 
-    e "My breasts... are going to explode~~~~~"
+    e "我的乳房...要爆炸了~~~~~"
 
 
 
-    player "Wow... there really isn’t any milk coming out... ..."
+    player "Wow... 真的没有任何奶水流出... ..."
 
 
 
@@ -124,21 +124,21 @@ label outdoors_E.e_outdoors_1:
 
     $ flashlight()
 
-    e "Ahhhhhhhhh~~~ Don’t squeeze them like that!~"
+    e "Ahhhhhhhhh~~~ 不要像这样挤它们!~"
 
 
 
-    player "Still none... ..."
+    player "还真的没有... ..."
 
 
 
     scene e_outdoors_1_12 with tstmgr
 
-    e "It’s not funny to trick auntie like this. Just take them off, or... or auntie will get angry!"
+    e "这样骗姨妈可不好玩.把它们摘下来吧,否则......否则姨妈会生气的!"
 
 
 
-    player "Alright then, auntie~"
+    player "那好吧,姨妈~"
 
 
 
@@ -164,13 +164,13 @@ label outdoors_E.e_outdoors_1:
 
 
 
-    "That was so magnificent~ It was like I just opened the floodgate~"
+    "这真是太壮观了~就像我刚刚打开了水闸一样~"
 
 
 
     scene e_outdoors_1_16 with tstmgr
 
-    player "Ha~~ The entire park will be full with milk fragrance tomorrow~"
+    player "Ha~~ 明天整个公园将充满牛奶的芬芳~"
 
 
 
@@ -184,21 +184,21 @@ label outdoors_E.e_outdoors_2:
 
     scene e_outdoors_2_1 with tstmgr
 
-    e "[P]~~~ [P]~~~ Come on, don’t make me wait long~"
+    e "[P]~~~ [P]~~~ 来吧,不要让我等很久~"
 
 
 
-    "My shameless cow is wiggling her big ass at me and waiting for my penetration, but well, I’m not going to give her what she wants so easily. That’s just not a smart way to train your pet~"
+    "我这头无耻的母牛正在向我扭动她的大屁股,等待我的插入,但是,我不会轻易给她想要的东西.这不是训练你的宠物的聪明方法~"
 
 
 
     scene e_outdoors_2_2 with tstmgr
 
-    "Sometimes you have to learn to use tools to deal with your pet~"
+    "有时你必须学会使用工具来处理你的宠物~"
 
 
 
-    e "[P]~~~ [P]~~~ quick~~ fulfill me~~~"
+    e "[P]~~~ [P]~~~ 快~~满足我~~~"
 
 
 
@@ -206,7 +206,7 @@ label outdoors_E.e_outdoors_2:
 
     $ flashlight()
 
-    "Something penetrated Elisa's pussy at this moment... ..."
+    "有东西在这一刻插入了伊莉莎的小穴... ..."
 
 
 
@@ -216,13 +216,13 @@ label outdoors_E.e_outdoors_2:
 
     scene e_outdoors_2_4 with tstmgr
 
-    e "Hmmmmmm? It feels differently. It is... ... not your penis?"
+    e "Hmmmmmm? 这感觉,不对,这不是你的鸡巴?"
 
 
 
     scene e_outdoors_2_5 with tstmgr
 
-    e "Whatever~ as long as it can fill me~~"
+    e "只要能填满我就行~~"
 
 
 
@@ -232,23 +232,23 @@ label outdoors_E.e_outdoors_2:
 
 
 
-    e "Uh ahhh~~~ yes~~ the fake penis~~ yes~~~ ohhh~~"
+    e "呃......啊~~~是的~~~假阴茎~~是的~~~哦~~~~"
 
 
 
-    e "I can’t believe it... ... Even a fake penis can make me wet like this~"
+    e "我无法相信......即使是一个假阴茎也能让我湿成这样~"
 
 
 
-    e "Look... what you have turned me into... ..."
+    e "看看......你把我变成了什么样子... ..."
 
 
 
-    player "Ah... ... My dad will definitely kill me if he knows I have turned his best friend into a sex slave... ..."
+    player "啊......如果我爸爸知道我把他最好的朋友变成了性奴隶,他一定会杀了我的... ..."
 
 
 
-    e "No~~ I think he will be proud of you so much~"
+    e "不~~我想他会为你感到骄傲的~"
 
 
     stop sound
@@ -258,7 +258,7 @@ label outdoors_E.e_outdoors_2:
 
 
 
-    e "Why... why did you stop? I’m almost... almost... ..."
+    e "为什么......为什么你会停下来?我几乎...几乎... ..."
 
 
 
@@ -274,35 +274,35 @@ label outdoors_E.e_outdoors_2:
     play sound e_outdoors_2_7 loop
     pause
 
-    e "Awwwwwwwwww!!~~~ The real... the real penis!~~~"
+    e "Awwwwwwwwww!!~~~ 真正的......真正的鸡巴!~~~"
 
 
 
-    e "Thank you... thank you for rewarding me with your huge penis~~"
+    e "谢谢你......谢谢你用你巨大的鸡巴来奖励我~~"
 
 
 
-    e "I’m so... so grateful~"
+    e "我不胜感激~"
 
 
 
-    "See? This is how you should deal with your girl~ Don’t give her what she wants directly, but make it a surprise, and then she will be full of gratitude."
+    "See? 你应该这样对待你的女孩~不要直接给她想要的东西,而是要给她一个惊喜,然后她就会充满感激之情."
 
 
 
-    "Ah damn, I’m becoming eviler everyday."
+    "啊,该死的,我每天都在变坏."
 
 
 
-    e "My darling~~ yes~~~ ohhhh~~ just like that~~~"
+    e "我亲爱的~~是的~~哦~~就像这样~~~"
 
 
 
-    e "My pussy has been fucked into the shape of your penis~~~ Ohhhhhhh~~~~"
+    e "我的小穴已经是你鸡巴的形状了~~~ Ohhhhhhh~~~~"
 
 
 
-    player "Ahhh~ I'm cumming!!"
+    player "Ahhh~ 我要射了!!"
 
 
     stop sound
@@ -314,17 +314,17 @@ label outdoors_E.e_outdoors_2:
 
 
 
-    player "That was... too loud, auntie. Someone will definitely notice us."
+    player "那是......太吵了,阿姨.肯定会有人注意到我们."
 
 
 
     scene e_outdoors_2_9 with tstmgr
 
-    e "Whatever... ... Nothing matters anymore~~~"
+    e "我管不了那么多了......什么都不重要了~~~"
 
 
 
-    e "Just let me enjoy the aftertaste... for another moment..."
+    e "就让我再享受一会儿后劲吧......就一小会儿..."
 
 
 

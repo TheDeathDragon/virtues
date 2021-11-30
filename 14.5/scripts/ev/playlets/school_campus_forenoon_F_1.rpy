@@ -2,41 +2,41 @@ label school_campus_forenoon_F_1:
 
     scene void with tstmgr
 
-    "I was wandering in the campus with Rachel."
+    "我和瑞秋在校园里闲逛."
 
 
 
     scene school_day_background with tstmgr
 
-    player "So, what's your favorite movie?"
+    player "你最喜欢的电影是什么?"
 
 
 
     scene f_school_day_frown with tstmgr
 
-    f "Hmm? I have never thought of that. Why asking?"
+    f "Hmm?我从来没想过这个.为什么这么问?"
 
 
 
-    player "Just want to get to know more about you."
+    player "只是想更多地了解你."
 
 
 
     scene f_school_day_wink with tstmgr
 
-    f "Oh yeah, we are friends."
+    f "Oh,yeah,我们是朋友."
 
 
 
     scene f_school_day_frown with tstmgr
 
-    f "But... ... I don't think I have a favorite movie. Sorry."
+    f "但是...我想我没有最喜欢的电影.对不起."
 
 
 
     scene f_school_day_wink with tstmgr
 
-    f "I can tell you my favorite fitness Youtuber if you want."
+    f "如果你愿意,我可以告诉你我最喜欢的油管健身博主."
 
 
 
@@ -44,7 +44,7 @@ label school_campus_forenoon_F_1:
 
 
 
-    player "Okay, I guess... ..."
+    player "Okay,我想......"
 
 
 

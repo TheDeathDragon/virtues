@@ -7,83 +7,83 @@ label A_train_sexskill_1:
 
 
 
-    "The next day, 7 o’clock in the morning."
+    "第二天早上7点."
 
 
 
-    "A guest walked into the livingroom and encountered the owner of the house."
+    "一位客人走进客厅,遇到了房子的主人."
 
 
 
-    "Guest A" "Good morning, [P]."
+    "顾客A""早上好,[P]."
 
 
 
     scene a_love_6_1 with tstmgr
 
-    player "Oh, hi, Mr... ..."
+    player "Oh,hi,布......"
 
 
 
-    player "Mr. Brown. How did you sleep?"
+    player "布朗先生.睡得怎么样?"
 
 
 
-    "Guest A" "Pretty good. The mattress is soft enough for my vulnerable back."
+    "顾客A""很好.床垫对我脆弱的背部来说足够柔软."
 
 
 
-    player "Glad to hear that."
+    player "很高兴听你这么说."
 
 
 
-    "Guest A" "Is the breakfast ready yet? I can’t wait to taste what Vera has prepared for us today."
+    "顾客A""早饭准备好了吗?我迫不及待地想尝尝薇拉今天为我们准备的食物."
 
 
 
-    player "Eh... emm... Vera?"
+    player "Eh...emm...薇拉?"
 
 
 
     scene a_love_6_2 with tstmgr
 
-    player "She is still asleep yet. I’ll wake her up in half an hour."
+    player "她还在睡觉.我半小时后再叫醒她."
 
 
 
-    player "And the breakfast may have to wait, sorry."
+    player "抱歉,早餐可能要等一下."
 
 
 
-    "Guest A" "Oh, okay, don’t worry about it. Just let her rest."
+    "顾客A""Oh,okay,别担心.就让她休息吧."
 
 
 
     scene a_love_6_3 with tstmgr
 
-    player "Thanks... ..."
+    player "谢谢......"
 
 
 
-    "Guest A" "She is a good girl. You should cherish her more."
+    "顾客A""她是一个好女孩.你应该更加珍惜她."
 
 
 
-    player "Eh... I will. Thanks for caring."
+    player "Eh...我会的.谢谢你的关心."
 
 
 
     scene a_love_6_4 with tstmgr
 
-    "Guest A" "I wish I was 40 years younger..."
+    "顾客A""我希望我能年轻40岁..."
 
 
 
-    "Guest A" "Uah... ... Anyway, I’m going out for a walk. See you later."
+    "顾客A""Uah......不说了,我要出去走走.再见."
 
 
 
-    "Mr. Brown then left the room and went for a walk outside the house."
+    "然后布朗先生离开了房间,到屋外去散步."
 
 
 
@@ -93,19 +93,19 @@ label A_train_sexskill_1:
 
     scene a_love_6_5 with tstmgr
 
-    player "Seems like you are quite popular among our guests."
+    player "看来你在我们的客人中很受欢迎."
 
 
 
-    player "What will they think if they discover what we are doing right now?"
+    player "如果他们发现我们现在在做的事,他们会怎么想?"
 
 
 
-    a "You made me do this... ..."
+    a "是你逼我这么做的......"
 
 
 
-    player "But you seem to enjoy it very much."
+    player "但你似乎很喜欢."
 
 
 
@@ -115,7 +115,7 @@ label A_train_sexskill_1:
 
 
 
-    a "Of course not..."
+    a "才没有..."
 
 
 
@@ -125,7 +125,7 @@ label A_train_sexskill_1:
 
 
 
-    player "Oh... Vera... ..."
+    player "Ow...薇拉......"
 
 
 
@@ -135,23 +135,23 @@ label A_train_sexskill_1:
 
 
 
-    player "I’m... I'm about to cum..."
+    player "我...我要射了..."
 
 
 
     label A_love_6_choice_1:
 
     menu:
-        "Cum in her mouth":
+        "射在她嘴里":
 
 
-            player "I want to cum in your mouth."
+            player "我想射在你嘴里."
 
             scene a_love_6_9 with tstmgr
 
-            "Vera made a groan as a respond and used her tongue to stimulate my glans. Damn, she is getting better at this everyday."
+            "薇拉呻吟了一声作为回应,用她的舌头刺激我的龟头.妈的,她每天都在进步."
 
-            player "Perfect... Now... take my cum... ..."
+            player "完美...现在准备接受我的精液......"
 
             scene a_love_6_10 with tstmgr
 
@@ -159,7 +159,7 @@ label A_train_sexskill_1:
 
             a "Oahhhhhh... ... ... ..."
 
-            "She took my entire load in her mouth."
+            "她把我射的所有都含在嘴里."
 
             scene a_love_6_11 with tstmgr
 
@@ -167,31 +167,31 @@ label A_train_sexskill_1:
 
             scene a_love_6_12 with tstmgr
 
-            a "It was... so sticky... ..."
+            a "这太...黏了......"
 
-            player "Oh... Vera."
+            player "Oh...薇拉."
 
-            a "Now I need to get a quick shower and go to work. See you tonight."
+            a "现在我需要洗个澡,然后去上班.晚上见."
 
-            player "See you tonight."
+            player "晚上见."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Cum on her tits":
+        "射在她的乳头上":
 
 
 
 
-            player "I want to cum on your tits."
+            player "我想射在你乳头上."
 
-            a "On my... tits?"
+            a "我的...乳头上?"
 
             scene a_love_6_13 with tstmgr
 
-            "She was a little surprised at my request but still put her beautiful brown tits out and held my dick in her cleavage as I asked."
+            "她对我的要求有点惊讶,但还是把她美丽的棕色乳头露了出来,并按我的要求把我的鸡儿夹在她的乳沟里."
 
-            player "Perfect... Now be ready to take my cum... ..."
+            player "完美...现在准备接受我的精液......"
 
             scene a_love_6_14 with tstmgr
 
@@ -199,19 +199,19 @@ label A_train_sexskill_1:
 
             a "Oahhhhhh... ... ... ..."
 
-            a "It’s... so hot... ... ... ..."
+            a "它太...热了............"
 
             scene a_love_6_15 with tstmgr
 
-            a "Oh no, how am I going to work like this? I have to take a shower again."
+            a "Ohno,我怎么能这样去工作呢?我得再洗一次澡."
 
-            player "Sorry... ..."
+            player "抱歉......"
 
             scene a_love_6_16 with tstmgr
 
             a "Humph..."
 
-            a "Just be sure to make it up to me if I end up being late."
+            a "如果我上班迟到了,你要弥补我."
 
             scene void with tstmgr
 

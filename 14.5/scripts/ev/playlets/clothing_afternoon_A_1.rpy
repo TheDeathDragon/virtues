@@ -6,11 +6,11 @@ label clothing_afternoon_A_1:
 
 
 
-    a "You came again..."
+    a "你又来了..."
 
 
 
-    a "How many times do I have to remind you that this is a women's clothing store?"
+    a "我得提醒你多少次这是一家女装店?"
 
 
 
@@ -18,27 +18,27 @@ label clothing_afternoon_A_1:
 
 
 
-    player "Yeah, it is a little weird for a guy like me walking in this place alone."
+    player "Yeah,像我这样的人一个人来这里是有点奇怪."
 
 
 
     scene a_dressstore_smile3 with tstmgr
 
-    a "Glad you are aware of that."
+    a "很高兴你能意识到这一点."
 
 
 
-    player "So... have you considered change a job? You know, in a men's clothing store perhaps?"
+    player "所以...你考虑过换工作吗?你知道,也许去一家男装店?"
 
 
 
     scene a_dressstore_weird with tstmgr
 
-    a "What?"
+    a "什么?"
 
 
 
-    a "You are out of your mind... ..."
+    a "你疯了......"
 
 
 

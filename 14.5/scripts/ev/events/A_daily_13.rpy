@@ -3,31 +3,31 @@ label A_daily_13:
     scene a_daily13_1 with dissolve
     play music happy
 
-    a "Ah, [P], good morning~"
+    a "Ah,[P],早上好~"
 
 
 
-    player "Morning, Vera, I just got up from bed..."
+    player "早上好,薇拉,我刚起床..."
 
 
 
-    a "Breakfast is on the dining table, remember to clean the dishes once you are done, love you~"
+    a "早餐就在餐桌上,吃完记得洗碗,爱你~"
 
 
 
-    player "Are you going out for work? I thought we could have breakfast together..."
+    player "你要去上班了吗?我想我们可以一起吃早餐..."
 
 
 
     scene a_daily13_2 with tstmgr
 
-    a "Sorry... ..."
+    a "抱歉......"
 
 
 
     scene a_daily13_1 with tstmgr
 
-    a "Maybe tomorrow~"
+    a "也许明天吧~"
 
 
 
@@ -35,51 +35,51 @@ label A_daily_13:
 
 
 
-    player "Seriously, V, can’t you just quit that waitress job in the cafe. You don’t have to work that hard."
+    player "说真的,薇,你就不能辞掉咖啡厅服务员的工作吗?你不必这么努力工作."
 
 
 
     scene a_daily13_2 with tstmgr
 
-    a "But... I still need money for my plan..."
+    a "但是...我的计划还需要钱..."
 
 
 
-    player "What plan?"
+    player "什么计划?"
 
 
 
     scene a_daily13_3 with tstmgr
 
-    a "I’m planning for a trip around the world and I need a lot of money to do that."
+    a "我计划环游世界,我需要很多钱来实现这个计划."
 
 
 
-    player "Wow, really?"
+    player "Wow,真的?"
 
 
 
-    a "Yeah, and I was close to reach my goal sometime earlier when there were only you and me. But then Theo and Uno moved into the house, so I had to count them in, too."
+    a "Yeah,早在只有你和我的时候,我就快要达到我的目标了.但后来狄奥和乌诺搬进来了,所以我得把她们也算进去."
 
 
 
     scene a_daily13_4 with tstmgr
 
-    a "And now... ... me, you, Uno, Theo, Theo’s sister, Miss Lemon... ... there are just so many people. I will have to save more money for this trip... ..."
+    a "而现在...我,你,乌诺,狄奥,狄奥的妹妹,柠檬小姐...人实在太多了.我得为这次旅行存更多的钱......"
 
 
 
-    player "Who is Miss Lemon?"
+    player "柠檬小姐是谁?"
 
 
 
     scene a_daily13_5 with tstmgr
 
-    a "Senning, of course. She once told me that her name means ‘the lemon in the forest’~"
+    a "当然是森柠.她曾经告诉我,她的名字的意思是“森林里的柠檬”~"
 
 
 
-    player "Oh, I didn’t even know that..."
+    player "Oh,我都不知道..."
 
 
 
@@ -87,7 +87,7 @@ label A_daily_13:
 
 
 
-    player "Wait, you mean, you are saving money for making all of us travel together?"
+    player "等等,你是说,你在存钱让我们一起去旅行?"
 
 
 
@@ -95,29 +95,29 @@ label A_daily_13:
 
 
 
-    a "I was dreaming to travel around the world with all of my friends since I was a little girl~"
+    a "当我还是个小女孩的时候,我就梦想着和我所有的朋友一起环游世界~"
 
 
 
-    player "But... I mean, I’m sure all of them will be happy to travel with you. You don’t need to cover their spendings for them."
+    player "但是...我的意思是,我相信她们都很乐意和你一起去旅行.你不需要为她们付钱."
 
 
 
     scene a_daily13_6 with tstmgr
 
-    a "I just want to... do something for my friends..."
+    a "我只是想...为我的朋友做点什么..."
 
 
 
     scene a_daily13_7 with tstmgr
 
-    a "Oh, crap, we have chatted for too long, I’m going to be late for work!"
+    a "Oh,糟糕,我们聊了太久了,我上班要迟到了!"
 
 
 
     scene a_daily13_8 with tstmgr
 
-    a "See you later, [P]! Let’s talk again when I get back home~"
+    a "回头见,[P]!等我回家再谈~"
 
 
 
@@ -125,7 +125,7 @@ label A_daily_13:
 
 
 
-    player "See you later..."
+    player "回头见..."
 
 
 

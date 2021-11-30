@@ -2,19 +2,19 @@ label bnb_livingroom_morning_A_3:
 
     scene bnb_livingroom_morning_a_1_1 with tstmgr
 
-    a "Good morning."
+    a "早上好."
 
 
 
-    player "Morning, Vera."
+    player "早上好,薇拉."
 
 
 
-    a "Breakfast will be good in a minute, you can wait at the table."
+    a "早餐一会儿就好了,你可以在桌边等会."
 
 
 
-    player "Can I get a morning kiss?"
+    player "我能得到一个清晨之吻吗?"
 
 
 
@@ -24,23 +24,23 @@ label bnb_livingroom_morning_A_3:
 
 
 
-    player "Come on, there is no other people around."
+    player "拜托,周围没有其他人."
 
 
 
-    a "Fine... ..."
+    a "好吧......"
 
 
 
     scene bnb_livingroom_morning_a_3_2 with tstmgr
 
-    a "(Kissing) Wummmm... ... ... ..."
+    a "(亲吻)Wummmm............"
 
 
 
     scene bnb_livingroom_morning_a_3_3 with tstmgr
 
-    a "Alright, now stop interrupting me, go to the table."
+    a "好了,现在别打断我了,坐到桌边来."
 
 
 

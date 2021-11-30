@@ -3,40 +3,40 @@ label E_train_sub_2:
     scene void with tstmgr
     play music sorrow
 
-    "I once read a research paper about people’s sexual desire. It said that a male’s sexual desire would reach the peak at his 20s while a female would have the greatest desire at her 40s."
+    "我曾经读过一篇关于人们性欲的研究论文.它说,男性的性欲在20多岁时达到顶峰,而女性在40多岁时性欲最高."
 
 
 
-    "Which means, in a sense, a 20s male and a 40s female can be a perfect match for each other."
+    "这意味着,在某种意义上,20多岁的男性和40多岁的女性可能是完美的一对."
 
 
 
-    "I didn’t believe it before, but now I can’t agree more with it."
+    "我以前不相信,但现在我非常同意."
 
 
 
     scene e_train_sub_2_58 with dissolve
 
-    "Elisa and I, we are a perfect match."
+    "伊莉莎和我,我们是绝配."
 
 
 
-    "We care about each other, we know so much about each other, and we both have almost infinite sexual desires."
+    "我们关心对方,我们了解对方,我们都有几乎无限的性欲."
 
 
-    "Well, her sexual desire may be a little greater than mine, but I am getting better at satisfying her so it's not a problem."
+    "Well,她的性欲可能比我强一点,但现在越来越能满足她了,所以这不是问题."
 
 
 
     scene e_train_sub_2_59 with tstmgr
 
-    "That suburb bungalow has become the sex paradise for us. Once we get in there, we will throw everything behind and fuck like crazies."
+    "那间郊区的平房成了我们的做爱天堂.我们一进去,就会把一切抛在脑后疯狂地做爱."
 
 
 
     scene e_train_sub_2_60 with tstmgr
 
-    "How long do we have until someone else discovers this secret between us? We don't know and we don't care. All we need to do is to enjoy every moment we have right now and cum as much as we can."
+    "在别人发现我们之间的秘密之前我们还有多久时间可以这样?我们不知道,也不在乎.我们所要做的就是享受我们现在拥有的每一刻并尽可能地高潮."
 
 
 
@@ -50,49 +50,49 @@ label E_train_sub_2:
 
 
 
-    "In an evening... ..."
+    "在一个晚上......"
 
 
 
     scene e_train_sub_2_1 with dissolve
 
-    player "Alright, Irene. This is the end of the tutoring for today."
+    player "好了,艾琳.今天的辅导到此结束."
 
 
 
     scene e_train_sub_2_2 with tstmgr
 
-    d "Thank you, [P]~"
+    d "谢谢你,[P]~"
 
 
 
-    d "You know... ..."
+    d "你知道......"
 
 
 
-    d "Mommy is acting so weird these days. She Always leaves after dinner and come home at midnight. Do you have any idea about where she goes?"
+    d "妈妈最近表现得很奇怪.她总是晚饭后离开,午夜才回家.你知道她去哪了吗?"
 
 
 
     scene e_train_sub_2_3 with tstmgr
 
-    player "What?... ... I... ..."
+    player "什么?......我......"
 
 
 
-    "My phone suddenly started to vibrate. It was a text."
+    "我的手机突然开始震动.是一条短信."
 
 
 
     scene e_train_sub_2_4 with tstmgr
 
-    player "Sorry, I have to check this..."
+    player "抱歉,我得看一下..."
 
 
 
     scene e_train_sub_2_11 with dissolve
 
-    "‘I’m waiting~’"
+    "‘我在等你~’"
 
 
 
@@ -102,33 +102,33 @@ label E_train_sub_2:
 
 
 
-    d "What does it say? Who sent it to you?"
+    d "上面说什么?谁发给你的?"
 
 
 
     scene e_train_sub_2_6 with tstmgr
 
-    player "Ehh... It’s... from one of my colleagues."
+    player "Ehh...这是...来自我的一个同事."
 
 
 
-    d "Is everything alright?"
+    d "你还好吗?"
 
 
 
-    player "Oh, yeah, I mean... no, I need to go to the company right now. It’s... something emergency."
+    player "Oh,yeah,我的意思是...no,我现在就得去公司.有...急事."
 
 
 
     scene e_train_sub_2_7 with tstmgr
 
-    d "Awww... Okay, see you tomorrow~"
+    d "Awww...Okay,明天见~"
 
 
 
     scene e_train_sub_2_8 with tstmgr
 
-    player "Bye, Irene."
+    player "Bye,艾琳."
 
 
 
@@ -140,7 +140,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_10 with tstmgr
 
-    d "Suspicious... ..."
+    d "很可疑......"
 
 
 
@@ -150,69 +150,69 @@ label E_train_sub_2:
 
 
 
-    "The sex paradise, here I come~"
+    "性爱天堂,我来了~"
 
 
 
-    "I still don’t like that place though. It is just so hard to get through the forest. But the forest can’t stop me because I know what is waiting for me at the destination... ..."
+    "不过我还是不喜欢那个地方.要穿过这片森林实在太难了.但是森林阻止不了我,因为我知道在目的地等着我的是什么......"
 
 
 
     scene e_train_sub_2_12 with dissolve
 
-    e "I heard the footsteps. Is that you, [P]?"
+    e "我听到了脚步声.是你吗,[P]?"
 
 
 
     scene e_train_sub_2_13 with tstmgr
 
-    player "Ehhh... ... nope, I’m just a hobo who sneaks in for a night~"
+    player "Ehhh......nope,我只是个混日子的流浪汉~"
 
 
 
     scene e_train_sub_2_14 with tstmgr
 
-    player "And look what we have here~ Are you all alone tonight, ma’am?"
+    player "看看现在,今晚就你一个人吗,女士?"
 
 
 
-    e "oh, please don’t hurt me, hobo sir~ I will do everything~"
+    e "oh,请不要伤害我,流浪汉先生~我愿意做任何事~"
 
 
 
     scene e_train_sub_2_15 with tstmgr
 
-    player "Seriously, ma’am, what’s with the knots on your nipples?"
+    player "说真的,女士,你乳头上的东西是怎么回事?"
 
 
 
-    e "It’s because... they couldn’t stop leaking milk, so... ... ... ..."
+    e "这是因为...它们不停地漏奶,所以............"
 
 
 
     scene e_train_sub_2_16 with tstmgr
 
-    player "To be honest, I have never seen anything kinkier like this before. You mature ladies really know how to play with your body... ..."
+    player "说实话,我从没见过比这更奇怪的.你们这些成熟女人真会玩弄自己的身体......"
 
 
 
-    player "Does it really work?"
+    player "这样还会漏?"
 
 
 
     scene e_train_sub_2_17 with tstmgr
 
-    e "Yeah~ no milk is coming out anymore~"
+    e "Yeah~这样就再也没有奶流出来了~"
 
 
 
-    e "Maybe you should tie me up like this too~ or I may run away and call the police for help, hobo sir~"
+    e "也许你也应该把我这样绑起来,要不然我就要跑开报警了,流浪汉先生~"
 
 
 
     scene e_train_sub_2_18 with tstmgr
 
-    player "Oh yeah, thanks for reminding me. I’m going to make sure you are not going anywhere~"
+    player "Ohyeah,谢谢你提醒我.我要确保你哪儿也去不了~"
 
 
 
@@ -220,15 +220,15 @@ label E_train_sub_2:
 
 
 
-    player "On the second thought, auntie, are you sure you don’t want to free those nipples first? They look so poor~"
+    player "转念一想,阿姨,你确定不要先把乳头松开吗?它们看起来很可怜~"
 
 
 
-    e "Ha~ End of the role play? Alright then, you can do whatever you want, sweetie~"
+    e "Ha~角色扮演结束了吗?好吧,你想做什么就做什么,亲爱的~"
 
 
 
-    player "Great... ..."
+    player "很好......"
 
 
 
@@ -238,15 +238,15 @@ label E_train_sub_2:
 
     scene e_train_sub_2_19 with tstmgr
 
-    player "Does it hurt when I put my finger on it, auntie?"
+    player "阿姨,我把手指放在上面疼不疼?"
 
 
 
-    e "Just a little~"
+    e "一点点~"
 
 
 
-    player "Hang on, nipples, I’m rescuing you right now!"
+    player "坚持住,乳头,我正在救你!"
 
 
 
@@ -256,41 +256,41 @@ label E_train_sub_2:
 
 
 
-    e "And... ..."
+    e "... ..."
 
 
 
     scene e_train_sub_2_21 with tstmgr
 
-    e "Now they begin to leak again~"
+    e "现在又开始漏了~"
 
 
 
     label E_train_sub_2_choice_1:
 
     menu:
-        "Suck the milk out":
+        "把奶吸出来":
 
 
-            player "Don't worry, I will help you~"
+            player "别担心,我会帮你的~"
 
             scene e_train_sub_2_22 with tstmgr
 
-            player "I just realized that I have never tasted your milk before... Now it’s the time~"
+            player "我才意识到我从来没有尝过你的奶...现在是时候了~"
 
-            e "Oh... ... but... ..."
+            e "Oh......但是......"
 
             scene e_train_sub_2_23 with tstmgr
 
             player "Gu-lum~ wuum~ wumm~~ wumm~~"
 
-            e "[P]... ... awwwww~~~ Don’t suck too hard... ..."
+            e "[P]......awwwww~~~不要吸得太用力......"
 
             scene e_train_sub_2_24 with tstmgr
 
-            player "Elisa, this is... even tastier than I thought~"
+            player "伊莉莎,这...比我想的还要好喝~"
 
-            e "For real? I... ..."
+            e "真的吗?我......"
 
             player "... ... ... ..."
 
@@ -304,13 +304,13 @@ label E_train_sub_2:
 
             player "... ... ... ..."
 
-            e "Say something... [P]... ..."
+            e "说话...[P]......"
 
             scene e_train_sub_2_23 with tstmgr
 
             player "Wu-lum~~ aummm~~ ummm~~~"
 
-            e "Why are you so quiet? Awww... you were lying, right? It was not tasty at all... ..."
+            e "你怎么这么安静?哇...你在撒谎,对吧?它一点也不好吃......"
 
             scene e_train_sub_2_25 with tstmgr
 
@@ -322,35 +322,35 @@ label E_train_sub_2:
 
             e "Awwwwwwwwwwmmmmmm~~~~~"
 
-            "I suddenly kissed her with full of her milk in my mouth"
+            "我突然吻了她,嘴里充满了她的奶水"
 
-            e "*Swallowing* Gu-lum~~ gu-lum~~ wummmm... ... ... ..."
+            e "*咽*Gu-lum~~gu-lum~~wummmm............"
 
             scene e_train_sub_2_27 with tstmgr
 
-            e "*Breathing heavily* Huhh... huh... huh... ..."
+            e "*喘着粗气*Huhh...huh...huh......"
 
-            player "Now you have tasted it yourself, what do you say?"
+            player "现在你自己也尝过了,你觉得怎么样?"
 
-            e "It is indeed... not bad... ... but... ..."
+            e "它确实...不难喝...但......"
 
-            e "You just made me drink my own milk? Awwww... ... That was... too kinky, even for me... ..."
+            e "你让我喝我自己的奶?em...这...即使对我来说也太奇怪了......"
 
-            player "Well, auntie, it could be even kinkier~ Let me show you what I have learned about the art of bondage~"
-        "Nevermind":
-
-
+            player "Well,阿姨,这可能会更奇怪~让我向你展示我学到的关于束缚的艺术~"
+        "问题不大":
 
 
 
 
-            player "Don’t worry about it. Based on the past experience, your milk will spray out when you have an orgasm. It’s like your tits are having orgasms as well~"
 
-            player "So... all I need to do is to make you cum a few times, and there won’t be a leaking problem for the rest of the day~"
 
-            e "That’s... eh... smart... ..."
+            player "别担心.根据以往的经验,你的乳汁会在高潮时喷出来.就好像你的奶子也高潮了一样~"
 
-            player "And now, auntie, let me show you what I have learned about the art of bondage~"
+            player "所以...我只需要让你高潮几次,今天剩下的时间里就不会有漏的问题了~"
+
+            e "这...eh...聪明......"
+
+            player "现在,阿姨,让我给你看看我学到的束缚的艺术~"
 
 
 
@@ -360,53 +360,53 @@ label E_train_sub_2:
 
 
 
-    "Sometime later... ..."
+    "一段时间后......"
 
 
 
     scene e_train_sub_2_28 with dissolve
 
-    e "I... I can’t believe it. Where did you learn this?"
+    e "我...我简直不敢相信.你从哪儿学来的?"
 
 
 
-    e "I can’t see... but I can feel them, the tight ropes on my body... ..."
+    e "我看不到...但我能感觉到,我身上紧绷的绳索......"
 
 
 
-    e "You... tied me up like a professional~"
+    e "你...像专业人士一样把我绑起来~"
 
 
 
-    player "I learned it from the Japanese porns. Those dudes are all masters of bondage."
+    player "我是从日本色情片中学到的.那些人都是老手了."
 
 
 
     scene e_train_sub_2_29 with tstmgr
 
-    e "It... doesn't really restrain my arms or legs. I can still move freely. It is more like... ... a dress."
+    e "它...并不是真正束缚我的手脚.我仍然可以自由行动.它更像是......一条裙子."
 
 
 
     scene e_train_sub_2_30 with tstmgr
 
-    e "A... super lewd dress... ..."
+    e "一件...超级淫荡的衣服......"
 
 
 
     scene e_train_sub_2_31 with tstmgr
 
-    player "Now you are like an artwork, Elisa. I’m going to get a reward if I take a picture of you now and send it to a pornographic exhibition~"
+    player "现在你就像一件艺术品,伊莉莎.如果我现在给你拍张照片然后把它送到色情展览上我肯定能得奖~"
 
 
 
     scene e_train_sub_2_32 with tstmgr
 
-    e "I am... an artwork? I am... your artwork... ..."
+    e "我是...一个艺术品吗?我是...你的艺术作品......"
 
 
 
-    e "What are you going to... name the picture?"
+    e "你打算...给这个图片...取个什么名字?"
 
 
 
@@ -417,104 +417,104 @@ label E_train_sub_2:
     label E_train_sub_2_choice_2:
 
     menu:
-        "The Sex Slave":
+        "性奴":
 
 
             scene e_train_sub_2_33 with tstmgr
 
-            player "How about... The Sex Slave?~"
+            player "性奴...怎么样?~"
 
             scene e_train_sub_2_34 with tstmgr
 
-            e "Sex... slave? Me?"
+            e "性...奴?我?"
 
             scene e_train_sub_2_35 with tstmgr
 
-            "Hmmmmm... ... Maybe I went too far on that?"
+            "Hmmmmm......也许我说得太过分了?"
 
             e "... ... ... ..."
 
             scene e_train_sub_2_37 with tstmgr
 
-            e "Yes, if you want, I will always be your sex slave when we are in this bungalow~"
-        "The Sinful Mother":
+            e "Yes,如果你愿意,我将永远是你的性奴,当我们在这平房的时候~"
+        "有罪的母亲":
 
 
 
 
             scene e_train_sub_2_33 with tstmgr
 
-            player "How about... The Sinful Mother?~"
+            player "有罪的母亲...怎么样?~"
 
             scene e_train_sub_2_36 with tstmgr
 
-            e "Awwww... ... That’s a good name. I am indeed a bad mother... ..."
+            e "Awwww......好名字.我确实是个坏妈妈......"
 
-            e "Theodora and Irene... I can’t let them see me like this~"
+            e "狄奥多拉和艾琳...我不能让她们看到我这个样子~"
 
             scene e_train_sub_2_37 with tstmgr
 
-            e "They can’t know... how horny their mother is... ..."
-        "The Captive of Love":
+            e "她们不知道...她们的母亲多么好色......"
+        "爱情的俘虏":
 
 
 
 
             scene e_train_sub_2_33 with tstmgr
 
-            player "How about... The Captive of Love?~"
+            player "爱情的俘虏...怎么样?~"
 
             scene e_train_sub_2_36 with tstmgr
 
-            e "Wow, I love that name... ..."
+            e "Wow,我喜欢这个名字......"
 
             scene e_train_sub_2_37 with tstmgr
 
-            e "I am indeed... your captive~"
+            e "我真的...是你的俘虏~"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎......"
 
 
 
     scene e_train_sub_2_38 with tstmgr
 
-    e "So, is there... anything else that you will do to perfect this art work of yours?"
+    e "所以,...你还会做其他事来完善你的艺术作品吗?"
 
 
 
-    player "No... there is nothing. You are perfect already..."
+    player "No...就这样.你已经很完美了..."
 
 
 
     scene e_train_sub_2_39 with tstmgr
 
-    player "Look at that meaty ass... ..."
+    player "看看那肥硕的屁股......"
 
 
 
     scene e_train_sub_2_40 with tstmgr
 
-    player "And those... ... milk bags..."
+    player "还有这些...奶袋..."
 
 
 
     scene e_train_sub_2_41 with tstmgr
 
-    player "How could you restrict yourself from having sex for so many years with such a lewd body you have, Elisa? It was a fucking miracle!"
+    player "你怎么能克制自己淫荡的身体这么多年不做爱呢,伊莉莎?这真是个他妈的奇迹!"
 
 
 
-    e "I was... waiting for you to grow up~"
+    e "我...是在等你长大~"
 
 
 
-    player "Owww... My auntie... ..."
+    player "Owww...我的阿姨......"
 
 
 
-    "I know those were just some sweet words, but... damn, those were some really sweet words. Mature ladies always know how to make you hyped with only a few words~"
+    "我知道这只是些甜言蜜语,但是...该死,你说的话真贴心.成熟的女士总是知道如何用几个字让你兴奋起来~"
 
 
 
@@ -530,37 +530,37 @@ label E_train_sub_2:
 
     scene e_train_sub_2_43 with tstmgr
 
-    player "I want to fuck you right now, auntie..."
+    player "我现在就想操你,阿姨..."
 
 
 
     scene e_train_sub_2_44 with tstmgr
 
-    e "Very well~"
+    e "很好~"
 
 
 
-    "Elisa then climbed onto the table and... ..."
+    "伊莉莎爬上桌子......"
 
 
 
     scene e_train_sub_2_45 with tstmgr
 
-    e "Do what you must, honey~ I am all yours~"
+    e "做你必须做的,亲爱的~我是你的~"
 
 
 
-    player "Ohhhhh... auntie!"
+    player "Ohhhhh...阿姨!"
 
 
 
-    "As I said, Elisa and I, we are a perfect match."
+    "就像我说的,我和伊莉莎是绝配."
 
 
 
     scene e_train_sub_2_46 with tstmgr
 
-    player "I don’t know if the table can hold the two of us, but... here I come~"
+    player "我不知道这张桌子能不能容得下我们俩,但是...我来了~"
 
 
 
@@ -568,17 +568,17 @@ label E_train_sub_2:
 
 
 
-    player "Actually, auntie, I just noticed one thing... ..."
+    player "其实,阿姨,我注意到一件事......"
 
 
 
-    player "You always let me fuck from behind and we have almost never faced each other during sex."
+    player "你总是让我从背后操而且我们在做爱时几乎从来没有面对过对方."
 
 
 
     scene e_train_sub_2_47 with tstmgr
 
-    player "*Taking Elisa’s blinder off* Why don’t we try it now?~"
+    player "*摘掉伊莉莎的眼罩*为什么我们现在不试试呢?~"
 
 
 
@@ -588,7 +588,7 @@ label E_train_sub_2:
 
 
 
-    player "Ha~ This is better!"
+    player "Ha~好多了!"
 
 
 
@@ -596,29 +596,29 @@ label E_train_sub_2:
 
 
 
-    player "You... don’t like it?"
+    player "你...不喜欢?"
 
 
 
     scene e_train_sub_2_49 with tstmgr
 
-    e "I... still feel a little... embarrassed when looking directly at your face while we fuck... ..."
+    e "我...还是觉得有点...我们做爱的时候直接看着你的脸很尴尬......"
 
 
 
     scene e_train_sub_2_50 with tstmgr
 
-    player "Auntie... you look so lovely when being shy~"
+    player "阿姨...你害羞的时候看起来很可爱~"
 
 
 
-    player "But you’d better get used to it soon, because we are going to fuck till the end of the world!"
+    player "但你最好快点习惯,因为我们会一直干到世界末日!"
 
 
 
     scene e_train_sub_2_51 with tstmgr
 
-    e "Uhh? Wait a sec, wait~"
+    e "Uhh?等一下,等一下~"
 
 
 
@@ -628,31 +628,31 @@ label E_train_sub_2:
 
 
 
-    e "Ahhh~~ ahhh~~ I can't... I can’t look at you~"
+    e "Ahhh~~ahhh~~我不能...我不敢看你~"
 
 
 
-    player "What’s the matter? Just follow your heart, Elisa."
+    player "有什么问题吗?跟着你的心走,伊莉莎."
 
 
 
-    e "I will... lose myself in your face~ Ohhhhh~~~"
+    e "我将...在你面前迷失自我~Ohhhhh~~~"
 
 
 
-    "Aunt Elisa is getting wetter than normal. I feel like my dick is fully covered by her sticky fluid. This natural lubricant makes me be able to reach the deepest place of her tight pussy without any resistance."
+    "伊莉莎阿姨比平时更湿了.我感觉我的鸡巴被她黏糊糊的淫液完全包裹了.这种天然的润滑剂使我能够到达她紧绷的小穴的最深处,没有任何阻力."
 
 
 
-    e "Ohhh~~ Ahhuuuhh~~~ [P]~~~ It can’t be~~~"
+    e "Ohhh~~Ahhuuuhh~~~[P]~~~不可以~~~"
 
 
 
-    "So... ... she will get super excited when being fucked from front? That’s good to know~"
+    "所以...从前面操她她会更兴奋~"
 
 
 
-    "Her body is like an untapped golden mine. It surprises me every time we have sex. Now I know there are two ways that can make her hyped during sex — restraining her or looking her in the eyes. Ha~ What am I going to find more about her next time? I can’t wait~"
+    "她的身体就像未开采的金矿.每次做爱我都很惊讶.现在我知道有两种方法可以让她在做爱时兴奋起来——控制住她或者看着她的眼睛.哈~下次我能发现更多吗?我等不及了~"
 
 
     stop sound
@@ -666,31 +666,31 @@ label E_train_sub_2:
 
 
 
-    e "So fast~~ So hard~~ [P], awwwwww!!!~~~~~~~"
+    e "好快,好用力~~[P],awwwwww!!!~~~~~~~"
 
 
 
-    e "You... are... ... ohhhhh~~~ breaking me~~~ with your big dick~~~"
+    e "你.........ohhhhh~~~把我玩坏了~~~用你的大鸡巴~~~"
 
 
 
-    player "How long can you wait till you put down your hands and look at my face?"
+    player "你要多久才放下手来看着我的脸?"
 
 
 
-    e "I... ... ohhhhhhhhh~~~ I will~ I will do everything~~~ but... just... ... Ohhhhhh~~~"
+    e "我......ohhhhhhhhh~~~我可以做任何事,但是...只是......Ohhhhhh~~~"
 
 
 
-    e "[P]~~~ [P]~~~ darling~~ my love~~ my baby~~"
+    e "[P]~~~[P]~~~亲爱的~~我的爱人~~我的宝贝~~"
 
 
 
-    e "Wuuuuuuuuuuu~~~~ I’m... I’m cumming!!!~~~~~"
+    e "Wuuuuuuuuuuu~~~~我...我要高潮了!!!~~~~~"
 
 
 
-    player "Let’s cum together, auntie!!"
+    player "让我们一起高潮吧,阿姨!!"
 
     stop sound
 
@@ -703,13 +703,13 @@ label E_train_sub_2:
 
 
 
-    e "This is... this is... ... so crazy... ..."
+    e "这...这...太疯狂了......"
 
 
 
     scene e_train_sub_2_55 with tstmgr
 
-    player "Elisa... here comes the one last hit... ..."
+    player "伊莉莎...最后一击来了......"
 
 
 
@@ -723,39 +723,39 @@ label E_train_sub_2:
 
 
 
-    e "Titties... ... are cumming too!!!~~~~~"
+    e "奶头...也高潮了!!!~~~~~"
 
 
 
-    "Ha! Yes, such a magnificent scene it is!~ You won’t see it elsewhere!~"
+    "Ha!Yes,多么壮观的景色啊!在别的地方你绝对看不到这种场景!~"
 
 
 
     scene e_train_sub_2_57 with tstmgr
 
-    player "Did you have a good one, Elisa?"
+    player "你今天开心吗,伊莉莎?"
 
 
 
-    e "[P]... my honey... ... You are... so amazing... ..."
+    e "[P]...亲爱的......你太...不可思议了......"
 
 
 
-    e "Sorry for... currupting your body with milk... ..."
+    e "抱歉...用奶弄脏你的身体了......"
 
 
 
-    player "You are so adorable, auntie~"
+    player "你真是太可爱了,阿姨~"
 
 
 
-    player "Will you look me in the eyes the next time we fuck?"
+    player "下次我们做爱的时候你能看着我的眼睛吗?"
 
 
 
     scene e_train_sub_2_61 with tstmgr
 
-    e "Whatever you say~ I will be... obedient... ..."
+    e "无论你说什么,我都会...怪怪听话......"
 
 
 

@@ -2,23 +2,23 @@ label downtown_afternoon_C_1:
 
     scene downtown_afternoon_c_1_1 with tstmgr
 
-    player "So... ... What are we doing here?"
+    player "所以...我们在这里干什么?"
 
 
 
-    c "Nothing, I was just tired of working, so decided to get some fresh air outside."
+    c "没什么,我只是厌倦了工作,所以决定出去呼吸一下新鲜空气."
 
 
 
-    player "But why do I have to come with you?"
+    player "但是为什么要我和你一起去呢?"
 
 
 
-    c "I need a bodyguard, that's all."
+    c "我需要一个保镖,仅此而已."
 
 
 
-    player "Will I get paid for this?"
+    player "我能得到报酬吗?"
 
 
 
@@ -26,7 +26,7 @@ label downtown_afternoon_C_1:
 
 
 
-    c "It depends on your performance. Trying to please me if you can."
+    c "这取决于你的表现.试着让我高兴,如果你可以的话."
 
 
 

@@ -2,7 +2,7 @@ label bnb_bathroom_morning_A_2:
 
     scene bnb_bathroom_morning_a_2_1 with tstmgr
 
-    "Vera is having a shower in the bathroom..."
+    "薇拉正在浴室淋浴..."
 
 
 

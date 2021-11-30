@@ -5,119 +5,119 @@ label D_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "To be honest, I thought it should be an easy job. I mean, being a high school girl's private teacher, how hard could it be?"
+    narrator "老实说,我认为这应该是一项容易的工作.我的意思是,作为一个高中女生的私人教师,这能有多难?"
 
-    narrator "But the truth is, this job is much harder than I thought."
+    narrator "但事实是,这份工作比我想象的要困难得多."
 
     scene d_love1_1 with tstmgr
 
-    narrator "This young girl is luring me. I don't wanna believe it, but yes, she is luring me with her body all the time, consciously or unconsciously."
+    narrator "这个年轻女孩在引诱我.我不想相信,但是,是的,她一直在用她的身体引诱我,有意无意."
 
-    narrator "See, she is doing her homework right now, but at the same time, she is revealing half of her butt to me. Does she do it on purpose? I don't know."
+    narrator "你看,她现在正在做作业,但同时,她把屁股的一半露出来给我看.她是故意这样做的吗?我不知道."
 
-    narrator "The only thing I know is that I have to restrain my desire in front of her all the time, and that is not easy."
+    narrator "我所知道的唯一一件事就是我必须一直在她面前克制我的欲望,这并不容易."
 
-    narrator "Me and Irene, we grew up together, like brother and sister. Theoretically, I should be gratified to see her becoming more and more charming."
+    narrator "我和艾琳,我们一起长大,就像兄妹一样.从理论上讲,我应该很高兴看到她变得越来越迷人."
 
-    narrator "But now I notice that I have been attracted by her charm. It is not right. It is not right."
+    narrator "但现在我注意到我被她的魅力所吸引.这是不对的.这是不对的."
 
-    narrator "Just take a look at those white stockings... how can any man reject them..."
+    narrator "看看那些白色的丝袜...这谁顶得住呢..."
 
-    narrator "Maybe I can... get a little bit closer..."
+    narrator "也许我可以...再靠近一点..."
 
     scene d_love1_2 with tstmgr
 
     d "Emm..."
 
-    narrator "She suddenly made a voice, and then changed a sitting posture."
+    narrator "她突然发出一个声音,然后改变了坐姿."
 
     scene d_love1_3 with tstmgr
 
-    narrator "That butt... I really want to put my hands on it."
+    narrator "这屁股...我真想亲自上手."
 
     scene d_love1_2 with tstmgr
 
-    d "This is so hard."
+    d "这太难了."
 
-    player "Yes, this is so hard."
+    player "是的,这太难了."
 
-    d "[P.name], help me solve this question."
+    d "[P.name],帮我解决这个问题."
 
-    player "Oh, what?"
+    player "Oh,什么?"
 
-    narrator "I was suddenly back from the daydreaming. I realized that she is now bothered by a geometry problem."
+    narrator "我突然从白日梦中醒来.我意识到她现在正为一道几何题烦恼."
 
     scene d_love1_4 with tstmgr
 
-    player "Let's see..."
+    player "让我看一下..."
 
     player "... ... ... ..."
 
-    player "Geometry problem is always confusing."
+    player "几何问题总是令人困惑."
 
-    player "I see why it troubles you. It is a tricky one, but if you find the way to get this angle..."
+    player "我明白这事为什么使你烦恼了.这是一个棘手的问题,但是如果你能找到求这个角的方法..."
 
-    narrator "I took the pen from her hand and started to write on a scratch paper."
+    narrator "我从她手里拿过笔,开始在草稿纸上写."
 
-    narrator "Unintentionally, my face is close to her face. I can even feel her breath on my face. But now I have no time to enjoy this feeling, I am paying all my attention to solving her question."
+    narrator "不知不觉中,我的脸靠近了她的脸.我甚至能感觉到她的气息扑面而来.但现在我没有时间享受这种感觉,我把所有的注意力都放在解决她的问题上."
 
     d "... ... ... ..."
 
     scene d_love1_5 with tstmgr
 
-    d "(Kissing)"
+    d "(亲)"
 
-    narrator "I suddenly feel her soft lips on my face. You'll never know how sweet it feels like until it happens on you."
+    narrator "我突然感觉到她温柔的嘴唇贴在我脸上.直到它发生在你身上,你才会知道它有多甜蜜."
 
     scene d_love1_6 with tstmgr
 
     player "???"
 
-    player "Why do you kiss me?"
+    player "亲我干嘛?"
 
-    d "Mmm... You are too close..."
+    d "Mmm...你离我太近了..."
 
-    d "I can't control."
+    d "我控制不住."
 
-    narrator "She looks pitiful, like a poor puppy. This is so tempting."
+    narrator "她看起来很可怜,像一只可怜的小狗.这太诱人了."
 
-    narrator "Stay cool. Stay cool."
+    narrator "保持冷静.保持冷静."
 
-    narrator "What just happened was nothing but a kiss from sister to brother. It's a kiss of love, not a kiss of eroticism."
-
-    player "... ... ... ..."
-
-    d "Are you mad at me? I really not mean it."
+    narrator "刚才发生的事只不过是兄弟姐妹之间的一个吻.这是爱的吻,不是情欲的吻."
 
     player "... ... ... ..."
 
-    d "How about I let you kiss me back? Then we will be even."
+    d "你生我的气吗?我不是那个意思."
 
-    narrator "??? What the hell is this girl talking about?? I would never..."
+    player "... ... ... ..."
 
-    narrator "Damn, I really would like to give her mouth a kiss."
+    d "要不我也让你吻我?那我们就扯平了."
 
-    narrator "But I can't do that, right? I am a decent gentleman, a man of virtue. How can I do anything to a girl who hasn't gone to college yet?"
+    narrator "???这个女孩到底在说什么??我永远不会..."
 
-    narrator "But she is already 18 years old..."
+    narrator "妈的,我真想亲她的嘴."
 
-    narrator "No way, dammit! What are you thinking, [P.name]? Are you out of your mind?"
+    narrator "但我做不到,对吧?我是一个正派的绅士,一个有美德的人.我怎么能对一个没上过大学的女孩做点什么呢?"
+
+    narrator "但她已经18岁了..."
+
+    narrator "没办法,该死!你在想什么,[P.name]?你疯了吗?"
 
     scene void with tstmgr
 
-    narrator "I fled, ran to the toilet, and washed my face with cold water."
+    narrator "我跑到厕所,用冷水洗了个脸."
 
-    narrator "I have to calm down."
+    narrator "我必须冷静下来."
 
-    narrator "I'm not a fool. What just happened is definitely a lure. But why is that? Why does she try to lure me?"
+    narrator "我不傻.刚刚发生的事情绝对是个诱惑.但这是为什么呢?她为什么要引诱我?"
 
-    narrator "I have to figure out what she is up to. Before that, I need to control myself no matter what happens."
+    narrator "我得弄清楚她在想什么.在那之前,无论发生什么,我都要控制自己."
 
-    narrator "It is a test for my will power. Let's see if I can get through it."
+    narrator "这是对我意志力的考验.让我看看能不能顶住."
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time on tutoring Irene."
+    narrator "我花了一些时间辅导艾琳."
 
     narrator "... ... ... ..."
 

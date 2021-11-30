@@ -3,7 +3,7 @@ label ACG_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, I was watching TV in the livingroom."
+    "今天晚些时候,我在客厅看电视."
 
 
 
@@ -15,39 +15,39 @@ label ACG_duo_2:
 
     scene acg_duo_2_2 with tstmgr
 
-    a "Has the game started yet?"
+    a "比赛开始了吗?"
 
 
 
     scene acg_duo_2_3 with tstmgr
 
-    player "You mean today’s soccer match? Nope, the visiting team’s bus got attacked by some fanatic fans. The game has been canceled already."
+    player "你是说今天的足球赛吗?没,客队的大巴被一些狂热的球迷袭击了.比赛已经取消了."
 
 
 
-    a "Oh... that’s a pity."
+    a "Oh...真遗憾."
 
 
 
     scene acg_duo_2_4 with tstmgr
 
-    g "Can I watch animes?"
+    g "我可以看动漫吗?"
 
 
 
     scene acg_duo_2_5 with tstmgr
 
-    player "Hi there Uno~"
+    player "Hi乌诺~"
 
 
 
     scene acg_duo_2_6 with tstmgr
 
-    c "Huh, so many people here..."
+    c "Huh,你们都在..."
 
 
 
-    a "Hi there Theo~"
+    a "Hi西奥~"
 
 
 
@@ -55,17 +55,17 @@ label ACG_duo_2:
 
 
 
-    "Oh shit, this is not good, so not good... ..."
+    "Ohshit,不妙,不妙......"
 
 
 
     scene acg_duo_2_7 with tstmgr
 
-    "Ever since Theo moved in, I’ve been avoiding to stay with all the girls in the house together."
+    "自从西奥搬进来,我就一直避免和所有女孩待在一起."
 
 
 
-    "It feels... awkward. I mean, look, who am I supposed to talk with right now? Will the other two get jealous?"
+    "感觉...好尴尬.我是说,我现在该跟谁说话呢?另外两个会嫉妒吗?"
 
 
 
@@ -73,7 +73,7 @@ label ACG_duo_2:
 
 
 
-    "Maybe I should just keep my mouth shut until someone talks first, but... ..."
+    "也许我该先闭上嘴等别人开口,但是......"
 
 
 
@@ -89,21 +89,21 @@ label ACG_duo_2:
 
 
 
-    "It seems like I am not the only one who feels awkward here. Ah, shit, things are getting more awkward every second if we all keep silence."
+    "看来我不是唯一一个在这里感到尴尬的人.妈的,如果我们都保持沉默事情会变得越来越尴尬."
 
 
 
-    player "(Someone... please, just say something... ...)"
+    player "(你们...拜托,说点什么吧......)"
 
 
 
-    "Luckily, there is still one person I can count on now..."
+    "幸运的是,我现在还有一个可以依靠的人..."
 
 
 
     scene acg_duo_2_10 with tstmgr
 
-    player "*Looking to Theodora* ... ... ... ..."
+    player "*看向狄奥多拉*............"
 
 
 
@@ -113,33 +113,33 @@ label ACG_duo_2:
 
     scene acg_duo_2_11 with tstmgr
 
-    c "Sigh, okay, I get it."
+    c "唉,okay,我懂了."
 
 
 
     scene acg_duo_2_12 with tstmgr
 
-    c "It looks like we girls haven’t opened up our hearts to each other yet. We should do something to develop our relationship~"
+    c "看来我们女孩还没有对彼此敞开心扉呢.我们应该做点什么来发展我们的关系~"
 
 
 
     scene acg_duo_2_13 with tstmgr
 
-    c "Come with me, girls~"
+    c "跟我来,女孩们~"
 
 
 
-    a "Where... are we going?"
+    a "我们...去哪里?"
 
 
 
     scene acg_duo_2_14 with tstmgr
 
-    c "Let’s go to shower together, so that we can... share some girls secret and build our friendships while being completely candid to each other~"
+    c "我们一起去洗澡吧,这样我们就可以...分享一些女孩的秘密,在彼此坦诚的同时建立我们的友谊~"
 
 
 
-    c "When I say candid, I mean naked~"
+    c "我说的坦诚,是指裸体~"
 
 
 
@@ -151,29 +151,29 @@ label ACG_duo_2:
 
     scene acg_duo_2_16 with tstmgr
 
-    a "But... [P]?"
+    a "但是...[P]?"
 
 
 
-    c "Ah, he will just stay here and jerk off while imagining the scene in the bathroom~"
+    c "Ah,他会呆在这里,一边打飞机一边想象浴室里的场景~"
 
 
 
     scene acg_duo_2_17 with tstmgr
 
-    player "Ehhh... ... I don’t think I will do that, but don’t mind me. You girls have fun."
+    player "Ehhh......我想我不会那么做,但别介意我.你们玩得开心."
 
 
 
     scene acg_duo_2_18 with tstmgr
 
-    a "Okay then... ..."
+    a "好吧那......"
 
 
 
     scene void with tstmgr
 
-    "Vera then got up and left with Theodora..."
+    "薇拉起身和狄奥多拉一起离开了..."
 
 
 
@@ -183,7 +183,7 @@ label ACG_duo_2:
 
 
 
-    player "Aren’t you joining them, Uno?"
+    player "你不加入她们吗,乌诺?"
 
 
 
@@ -193,17 +193,17 @@ label ACG_duo_2:
 
     scene acg_duo_2_20 with tstmgr
 
-    g "*Kissing* ... ... ... ..."
+    g "*吻*............"
 
 
 
-    player "Wow, Uno~"
+    player "Wow,乌诺~"
 
 
 
     scene acg_duo_2_21 with tstmgr
 
-    "And... Uno left too..."
+    "然后...乌诺也离开了..."
 
 
 
@@ -213,57 +213,57 @@ label ACG_duo_2:
 
 
 
-    "A few minutes later..."
+    "几分钟后..."
 
 
 
     scene acg_duo_2_22 with tstmgr
 
-    player "*Watching TV alone* ... ... ... ..."
+    player "*独自看电视*............"
 
 
 
-    player "(Hah~ yeah, it is so relaxing to be alone~)"
+    player "(Hah~yeah,一个人很放松~)"
 
 
 
     scene acg_duo_2_23 with tstmgr
 
-    c "What are you doing?"
+    c "你在干什么?"
 
 
 
     scene acg_duo_2_24 with tstmgr
 
-    player "I am... ..."
+    player "我......"
 
 
 
     scene acg_duo_2_25 with tstmgr
 
-    player "Hmmm, Theo? Aren’t you supposed to be in the bathroom?"
+    player "Hmmm,西奥?你不是应该在浴室吗?"
 
 
 
-    c "Yeah, I’ll be back in a second. I am just here to tell you that..."
+    c "Yeah,我马上回来.我就是来告诉你这个的..."
 
 
 
-    c "Join us in the bathroom 10 minutes later, will you?"
+    c "十分钟后和我们一起去浴室,好吗?"
 
 
 
-    player "What? You mean... ..."
+    player "什么?你的意思......"
 
 
 
-    c "See you later~"
+    c "待会见~"
 
 
 
     scene acg_duo_2_26 with tstmgr
 
-    "Theodora went in the bathroom again..."
+    "狄奥多拉又进了浴室..."
 
 
 
@@ -273,21 +273,21 @@ label ACG_duo_2:
 
     scene void with tstmgr
 
-    "10 minutes later..."
+    "十分钟后..."
 
 
 
     scene acg_duo_2_27 with dissolve
 
-    player "It has been 10 minutes... ..."
+    player "已经10分钟了......"
 
 
 
-    player "Ah, damn, why do I start to feel nervous?"
+    player "Ah,damn,为什么我开始感到紧张?"
 
 
 
-    player "Anyway, I should... join them now, right? Okay then... ..."
+    player "无论如何,我应该...现在就加入她们,对吧?那么......"
 
 
 
@@ -297,11 +297,11 @@ label ACG_duo_2:
 
 
 
-    player "*Knocking the door* Eh, hello? Do you guys need... any help?"
+    player "*敲门*Eh,hello?你们需要...帮助吗?"
 
 
 
-    "No one answers... ..."
+    "无人应答......"
 
 
 
@@ -309,7 +309,7 @@ label ACG_duo_2:
 
 
 
-    "Still, no one answers... ..."
+    "还是无人应答......"
 
 
 
@@ -317,7 +317,7 @@ label ACG_duo_2:
 
 
 
-    player "*Opening the door* Theo?... ..."
+    player "*开门*西奥?......"
 
 
 
@@ -327,139 +327,139 @@ label ACG_duo_2:
 
 
 
-    a "Theo, Uno... ... What’s... wrong with you?"
+    a "西奥,乌诺......你们...怎么了?"
 
 
 
-    a "Awww... stop~~~"
+    a "Awww...停~~~"
 
 
 
-    c "Stop resisting, girl, just submit to your instinct like Uno and everything will be fine~"
+    c "别反抗了,女孩,就像乌诺一样服从你的本能,一切都会没事的~"
 
 
 
-    a "I feel... so hot... ... from the inside out..."
+    a "我觉得...好热...由内而外..."
 
 
 
-    player "Wow, my... ..."
+    player "Wow,我的......"
 
 
 
     scene acg_duo_2_29 with tstmgr
 
-    c "Oh, it has been 10 minutes already? Come closer and join us then~"
+    c "Oh,已经10分钟了?那就过来加入我们吧~"
 
 
 
-    player "What... have you done?"
+    player "你...做了什么?"
 
 
 
-    c "What do you think?"
+    c "你认为呢?"
 
 
 
     scene acg_duo_2_30 with tstmgr
 
-    "I noticed that there is an empty small bottle on the ground. Oh crap, that’s the aphrodisiac lotion I bought from the store on the beach."
+    "我注意到地上有一个小空瓶子.糟糕,那是我从海滩上的商店买的春药浴液."
 
 
 
-    "Theo has... used it all on Uno and Vera?"
+    "西奥已经...都用在乌诺和薇拉身上了?"
 
 
 
     scene acg_duo_2_31 with tstmgr
 
-    c "After today, there will be no awkwardness between us anymore~"
+    c "从今天开始,我们之间就不会再尴尬了~"
 
 
 
     scene acg_duo_2_32 with tstmgr
 
-    c "After... we have all revealed our most shameless side to each other, and to this man~"
+    c "在...我们都把自己最无耻的一面暴露给了对方,也暴露给了这个人之后~"
 
 
 
-    a "This doesn’t... feel right... ..."
+    a "这...感觉不太对......"
 
 
 
     scene acg_duo_2_33 with tstmgr
 
-    g "Or you can sit aside and watch [P], Theo and I having fun without you~"
+    g "或者你可以和[P]坐在旁边,西奥和我没有你也很开心~"
 
 
 
-    a "No... I’m not doing that~ I am [P]’s favorite... ..."
+    a "不...我不会这么做的~我是[P]的最爱......"
 
 
 
-    c "Huh? I can’t pretend I didn’t hear that~"
+    c "Huh?我不能假装没听到~"
 
 
 
     scene acg_duo_2_34 with tstmgr
 
-    c "[P] and I have been together ever since highschool~ He loves me the most without a doubt~"
+    c "[P]和我从高中就在一起了,毫无疑问他最爱我~"
 
 
 
     scene acg_duo_2_35 with tstmgr
 
-    g "Nope~ I am the one that [P] loves the most~ I am [P]’s precious tits slave~"
+    g "Nope~我是[P]最爱的人~我是[P]最爱的奶子奴隶~"
 
 
 
-    "Uno has told me that she didn’t like that name, but now she is flaunting that name in front of the other two girls. It looks like the potion has really changed her."
+    "乌诺告诉我她不喜欢这个名字,但现在她在另外两个女孩面前炫耀这个名字.看来浴液真的改变了她."
 
 
 
-    a "Tits... ... slave?"
+    a "奶子......奴隶?"
 
 
 
-    c "What is that?"
+    c "那是什么?"
 
 
 
     scene acg_duo_2_36 with tstmgr
 
-    "The girls suddenly turned to look at me in unison."
+    "女孩们突然异口同声地转过头来看着我."
 
 
 
-    player "I... I can explain... ..."
+    player "我...我可以解释......"
 
 
 
-    g "[P] made Uno his only tits slave because Uno has the sexiest tits in this house~ Phew, phew~ Are you jealous yet?~"
+    g "[P]让乌诺做他唯一的奶子奴隶因为乌诺的奶子是家里最性感的~Phew,phew~你嫉妒了吗?~"
 
 
 
     scene acg_duo_2_38 with tstmgr
 
-    c "*Looking down* ... ... ... ..."
+    c "*往下看*............"
 
 
 
-    a "*Looking down* ... ... ... ... ... ..."
+    a "*往下看*.................."
 
 
 
-    player "I... no, it’s not like... ..."
+    player "我...no,这可不像......"
 
 
 
     scene acg_duo_2_37 with tstmgr
 
-    c "I am jealous... ..."
+    c "我嫉妒了......"
 
 
 
-    a "*Nodding* ... ... ... ..."
+    a "*点头*............"
 
 
 
@@ -467,17 +467,17 @@ label ACG_duo_2:
 
 
 
-    "Oh my God... these three girls are acting so cute driven by the potion! I’m going to fund that potion-selling guy a huge amount of money once I got my dad’s money back. His potion can save the world!"
+    "OhmyGod...这三个女孩在浴液的驱使下表现得如此可爱!等我把我爸的钱拿回来我要给那个卖浴液的家伙一大笔钱.他的浴液可以拯救世界!"
 
 
 
     scene acg_duo_2_39 with tstmgr
 
-    c "But I have to hear that from himself, otherwise it doesn’t count~"
+    c "但我必须听到他自己说,否则就不算数~"
 
 
 
-    player "Hearing... from me?"
+    player "我...自己说?"
 
 
 
@@ -491,53 +491,53 @@ label ACG_duo_2:
 
     $ flashlight()
 
-    c "Tell us, [P], do you really think Uno has the best boobs among us three?~"
+    c "告诉我们,[P],你真觉得乌诺的胸是我们三个人中最好的吗?~"
 
 
 
-    g "Yes, tell them, phew~ phew~"
+    g "Yes,告诉她们,phew~phew~"
 
 
 
-    a "Awwwww... This doesn’t feel right, but I want to know the answer too... ..."
+    a "Awwwww...这感觉不太对,但我也想知道答案......"
 
 
 
     scene acg_duo_2_41 with tstmgr
 
-    "Shit... the three pairs of perfect boobs are setting on the edge of the bathtub like goods on the shelves. This scene is madness!"
+    "Shit...三对完美的乳房就像架子上的商品一样放在浴缸边上.这一幕太疯狂了!"
 
 
 
-    player "*Swallowing hard* ... ... ... ..."
+    player "*使劲吞咽*............"
 
 
 
     scene acg_duo_2_40 with tstmgr
 
-    g "Knock, knock, is anybody home?"
+    g "咚,咚,有人在家么?"
 
 
 
-    a "Say something, [P]..."
+    a "说吧,[P]..."
 
 
 
-    c "Ah~ I see, it looks like the man in the house wants to feel the boobs with his hands in order to get an answer~"
+    c "Ah~我明白了,好像这屋子里的男人想用手摸咪咪来得到答案~"
 
 
 
-    "Theodora... ... she is like the leader of this harem. What am I gonna do if she is not here?~"
+    "狄奥多拉...她就像这个后宫的皇后.如果她不在这里,我该怎么办?~"
 
 
 
-    player "Ye... yes, your boobs all look perfect, but I have to, cough, feel them first before coming up with the final answer."
+    player "Ye...yes,你们的胸部看起来都很完美,但我必须先,咳嗽,摸摸它们,然后再得出最后的答案."
 
 
 
     scene acg_duo_2_42 with tstmgr
 
-    g "Touch Uno first, master~"
+    g "先摸乌诺的,主人~"
 
 
 
@@ -547,7 +547,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_43 with tstmgr
 
-    player "Alright, I’ll just... start with Uno... ..."
+    player "Alright,我就...从乌诺开始......"
 
 
 
@@ -563,33 +563,33 @@ label ACG_duo_2:
 
 
 
-    player "Uno’s boobs... I feel like I can pinch them out water. They are just... so soft and so delicate."
+    player "乌诺的胸...我觉得我能把它们捏出水来.它们是...如此柔软,如此精致."
 
 
 
     scene acg_duo_2_46 with tstmgr
 
-    player "And these cute pink nipples... give me an eagerness to bully her so bad~"
+    player "还有这些可爱的粉色乳头...让我迫不及待地欺负她了~"
 
 
 
-    g "Master~~~"
+    g "主人~~~"
 
 
 
     scene acg_duo_2_47 with tstmgr
 
-    g "Just bully Uno as much as you want because~ Uno's body is your private property."
+    g "你可以随意欺负乌诺,因为乌诺的身体是你的私有财产."
 
 
 
-    a "So... so bold... ..."
+    a "太...太大胆了......"
 
 
 
     scene acg_duo_2_48 with tstmgr
 
-    player "Uno, you naughty cat~"
+    player "乌诺,你这只淘气的小猫猫~"
 
 
 
@@ -635,13 +635,13 @@ label ACG_duo_2:
 
     scene acg_duo_2_53 with tstmgr
 
-    g "Owwwww~ Master, more, more~~~~"
+    g "Owwwww~主人,继续,继续~~~~"
 
 
 
     scene acg_duo_2_54 with tstmgr
 
-    player "*Hammering Uno’s boob* You masochistic glutton, have a rest for now, there are other people waiting~"
+    player "*狠狠揉一把*你这个受虐狂,先休息一下吧,还有其他人在等着呢~"
 
 
 
@@ -651,19 +651,19 @@ label ACG_duo_2:
 
 
 
-    player "And now it’s Vera’s turn."
+    player "现在轮到薇拉了."
 
 
 
     scene acg_duo_2_56 with tstmgr
 
-    c "Huh? Not in left-to-right order?"
+    c "Huh?不是按从左到右的顺序?"
 
 
 
     scene acg_duo_2_57 with tstmgr
 
-    a "*Smiling with anticipation* ... ... ... ..."
+    a "*微笑与期待*............"
 
 
 
@@ -711,45 +711,45 @@ label ACG_duo_2:
 
     scene acg_duo_2_61 with tstmgr
 
-    player "Vera’s boobs are incredibly light and firm. This is so unusual for such large breasts."
+    player "薇拉的胸非常轻而且坚挺.对于这么大的乳房来说,这很不寻常."
 
 
 
-    player "It gives them a completely different tactile from Uno’s boobs, so amazing... ..."
+    player "这给了它们一个完全不同于乌诺的胸部触觉,太神奇了......"
 
 
 
     scene acg_duo_2_62 with tstmgr
 
-    a "But... men prefer softer breasts, right?"
+    a "但是...男人喜欢柔软的胸,对吗?"
 
 
 
     scene acg_duo_2_63 with tstmgr
 
-    player "That’s nonsense, silly?"
+    player "这是无稽之谈,小傻瓜?"
 
 
 
     scene acg_duo_2_64 with tstmgr
 
-    c "I envy you so much, Vera. I wish my tits can be firm like yours too~"
+    c "我真羡慕你,薇拉.我希望我的奶子也能像你一样坚挺~"
 
 
 
     scene acg_duo_2_65 with tstmgr
 
-    a "Thanks, Theo~"
+    a "谢谢,西奥~"
 
 
 
-    "Theo has implicitly become the leader of my establishing harem. She just knows how to balance the other girls’ feelings and has a natural sense of reliability."
+    "西奥已经成为了我后宫的正主.她知道如何平衡其他女孩的感觉,有一种天生的可靠感."
 
 
 
     scene acg_duo_2_66 with tstmgr
 
-    player "And now, it’s Theo’s turn..."
+    player "现在,轮到西奥了..."
 
 
 
@@ -765,11 +765,11 @@ label ACG_duo_2:
 
 
 
-    player "Theo has no doubt the largest and heaviest boobs amongst you three."
+    player "西奥无疑是你们三人中最大最重的胸."
 
 
 
-    player "They feel just... dominated, like two real queens, like Theo’s character."
+    player "它们感觉...很有统治力,像两个真正的皇后,像西奥的性格."
 
 
 
@@ -779,13 +779,13 @@ label ACG_duo_2:
 
     scene acg_duo_2_69 with tstmgr
 
-    player "But... I know there are two triggers that can turn the queen into a dirty slut immediately~"
+    player "但是...我知道有两个导火线能让女王立刻变成淫荡的荡妇~"
 
 
 
     scene acg_duo_2_70 with tstmgr
 
-    c "Wait, you are not going to... ..."
+    c "等等,你不会要......"
 
 
 
@@ -797,7 +797,7 @@ label ACG_duo_2:
 
 
 
-    player "Her nipples... they are extreme sensitive. Theo will obey whatever I say when I have them in hands~"
+    player "她的乳头...它们极端敏感.只要它们在我手上,西奥就会听我的~"
 
 
 
@@ -839,89 +839,89 @@ label ACG_duo_2:
 
     scene acg_duo_2_74 with tstmgr
 
-    c "Stop, stop, I surrender, I will obey whatever you say, please just stop~~~"
+    c "停,停,我投降,我会听你的,请停下来~~~"
 
 
 
     scene acg_duo_2_75 with tstmgr
 
-    g "Give her a command! Give her a command!"
+    g "给她下命令!给她下命令!"
 
 
 
-    player "Alright, Theodora, are you willing to be another tits slave of mine like Uno?"
+    player "Alright,狄奥多拉,你愿意做我的奶子奴隶吗?像乌诺一样."
 
 
 
     scene acg_duo_2_76 with tstmgr
 
-    c "Yes, I am, I am, I will be a good slave, master~"
+    c "Yes,我愿意,我愿意,我要做一个好奴隶,主人~"
 
 
 
-    g "Welcome aboard!~"
+    g "欢迎加入!~"
 
 
 
     scene acg_duo_2_77 with tstmgr
 
-    a "Wow... This is... unbelievable. I never knew Theodora can be so... shameless... ..."
+    a "Wow...这简直是...难以置信.我从来不知道狄奥多拉会这么...不知羞耻......"
 
 
 
-    a "I... I can’t be the only one left. I want to be a tits slave too~"
+    a "我...我也不能落下.我也想做奶子奴隶~"
 
 
 
     scene acg_duo_2_78 with tstmgr
 
-    player "Of course, Vera~ How could we ever leave you behind?"
+    player "当然,薇拉,我们怎么能把你落下呢?"
 
 
 
     scene acg_duo_2_79 with tstmgr
 
-    player "And Uno, you will be the leader of this team since you have so much experience already~"
+    player "乌诺,你将是这个团队的领导,因为你已经有这么多的经验了~"
 
 
 
-    g "Yes, master~"
+    g "Yes,主人~"
 
 
 
     scene acg_duo_2_80 with tstmgr
 
-    "Oh dear, I still can’t believe this is all coming true. These three pairs of perfect boobs and their owners... all belong to me now... ..."
+    "天啊,我还是不敢相信这一切都变成了现实.这三对完美的乳房的主人...是我了......"
 
 
 
-    "Sadly they will soon recover from the potion’s effect... ..."
+    "不幸的是,她们很快就会从药剂的作用中恢复过来......"
 
 
 
-    "These titties... damn, one day I will let them all milk for me~"
+    "这些奶子...该死,总有一天我会让她们都为我挤奶~"
 
 
 
-    "And... ... I guess this is it for now. It will be unwise if I choose to go too further now. They are not drunk, they will remember what happened here. I don’t want them to feel that I got too many advantages at them when their minds are not clear."
+    "然后...我想现在就这样了.如果我现在选择在进一步的话,那将是不明智的.她们没有醉,她们会记得这里发生的事情.我不想让她们在头脑不清楚的时候觉得我占了太多便宜."
 
 
 
-    "Besides... ... I’m not even sure if Vera and Uno are okay with this harem thing... ... What happened tonight will be a good sounding out."
+    "除了...我都不确定薇拉和乌诺是否同意这个后宫的事......今晚发生的事将是一个很好的试探."
 
 
 
-    "But... before I’m done... ..."
+    "但是...之前我......"
 
 
 
-    player "Would you allow me to take a photo of you three?"
+    player "你能允许我给你们三个拍张照片吗?"
 
 
 
     scene acg_duo_2_81 with tstmgr
 
-    c "Just do whatever you want, master~"
+    c "你想怎么做就怎么做,主人~"
 
 
 
@@ -929,7 +929,7 @@ label ACG_duo_2:
 
 
 
-    player "Very well... ... ... ..."
+    player "非常好............"
 
 
 
@@ -941,7 +941,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_82 with dissolve
 
-    "Girls" "Cheese~~~~"
+    "女孩们""茄子~~~~"
 
 
 
@@ -951,7 +951,7 @@ label ACG_duo_2:
 
 
 
-    "Great~ This will be a wonderful souvenir!~"
+    "太好了,这将是一个很棒的回忆!~"
 
 
 

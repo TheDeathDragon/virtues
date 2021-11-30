@@ -43,7 +43,7 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Theodora searched around the house but still couldn’t find Elisa, eventually she came near the swimming pool and surprisedly saw... ..."
+    "狄奥多拉 searched around the house but still couldn’t find Elisa, eventually she came near the swimming pool and surprisedly saw... ..."
 
 
 
@@ -143,7 +143,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_13 with tstmgr
 
-    "Theodora then sat down besides Elisa..."
+    "狄奥多拉 then sat down besides Elisa..."
 
 
 
@@ -251,7 +251,7 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Theodora then stood up from the ground."
+    "狄奥多拉 then stood up from the ground."
 
 
 
@@ -443,7 +443,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_35 with tstmgr
 
-    player "Theo?"
+    player "狄奥?"
 
 
 
@@ -469,7 +469,7 @@ label CDE_duo_9:
 
 
 
-    player "Theo... ..."
+    player "狄奥... ..."
 
 
 
@@ -479,7 +479,7 @@ label CDE_duo_9:
 
 
 
-    "I immersed my head into Theodora’s huge tits and sniffed hard to feel the natural fragrance..."
+    "I immersed my head into 狄奥多拉’s huge tits and sniffed hard to feel the natural fragrance..."
 
 
 
@@ -519,7 +519,7 @@ label CDE_duo_9:
 
 
 
-    player "Ohhhhh~~~ Theo... ... your boobs have magic~~~"
+    player "Ohhhhh~~~ 狄奥... ... your boobs have magic~~~"
 
 
 
@@ -549,7 +549,7 @@ label CDE_duo_9:
 
 
 
-    c "I can... perfectly take care of your cock~"
+    c "I can... perfectly take care of your 鸡巴~"
 
 
 
@@ -565,7 +565,7 @@ label CDE_duo_9:
 
 
 
-    player "Theo~~~"
+    player "狄奥~~~"
 
 
 
@@ -575,19 +575,19 @@ label CDE_duo_9:
 
 
 
-    player "Ahh... shit, your cleavage is like a real pussy~ This feels so damn great!~"
+    player "Ahh... shit, your cleavage is like a real 小穴~ This feels so damn great!~"
 
 
 
-    c "Yes, yes, fuck my cleavage pussy like that~"
+    c "Yes, yes, fuck my cleavage 小穴 like that~"
 
 
 
-    e "Cleavage... pussy... ..."
+    e "Cleavage... 小穴... ..."
 
 
 
-    c "Ohhhh~~~ This hot hard cock is constantly rubbing my soft tits~~~"
+    c "Ohhhh~~~ This hot hard 鸡巴 is constantly rubbing my soft tits~~~"
 
 
 
@@ -599,7 +599,7 @@ label CDE_duo_9:
 
 
 
-    player "Ahhh, Theo, I’m about to cum... ..."
+    player "Ahhh, 狄奥, I’m about to cum... ..."
 
 
 
@@ -613,7 +613,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_47 with tstmgr
 
-    "I roughly gaged Theodora’s mouth with my dick and had my glans down her throat."
+    "I roughly gaged 狄奥多拉’s mouth with my dick and had my glans down her throat."
 
 
 
@@ -641,7 +641,7 @@ label CDE_duo_9:
 
 
 
-    "Theodora was incontinent at the same time when I orgasmed, but unfortunately I couldn’t see it with my eyes, what a pity~"
+    "狄奥多拉 was incontinent at the same time when I orgasmed, but unfortunately I couldn’t see it with my eyes, what a pity~"
 
 
 
@@ -655,7 +655,7 @@ label CDE_duo_9:
 
 
 
-    e "(Theo... ... wow... ... I have never seen her in such a mess... ...)"
+    e "(狄奥... ... wow... ... I have never seen her in such a mess... ...)"
 
 
 

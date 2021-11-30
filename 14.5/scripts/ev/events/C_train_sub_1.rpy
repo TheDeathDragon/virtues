@@ -3,7 +3,7 @@ label C_train_sub_1:
     scene c_train_sub_1_1 with tstmgr
     play music happy
 
-    "Morning, Theodora is having a quick shower before going to work..."
+    "早上,狄奥多拉在上班前快速冲了个澡..."
 
 
 
@@ -13,17 +13,17 @@ label C_train_sub_1:
 
     scene c_train_sub_1_2 with tstmgr
 
-    c "(It has been a while since I moved in this house...)"
+    c "(我搬进这所房子已经有一段时间了...)"
 
 
 
-    c "Living here... is so different from living alone."
+    c "住在这里...和一个人住有很大不同."
 
 
 
     scene c_train_sub_1_3 with tstmgr
 
-    a "*Shouting to [P] outside the room* Wake up! You need to go to work with Theo today! Do you want her to wait for you?"
+    a "*在[P]的门外大喊*醒醒!你今天必须和西奥一起去工作!你想让她等你吗?"
 
 
 
@@ -33,7 +33,7 @@ label C_train_sub_1:
 
     scene c_train_sub_1_4 with tstmgr
 
-    c "(Well... I kind of enjoy living here~)"
+    c "(Well...我喜欢住在这里~)"
 
 
 
@@ -43,19 +43,19 @@ label C_train_sub_1:
 
 
 
-    c "Damn, I’m out of shower gel. I’ll use Vera’s instead. I think she won’t mind it~"
+    c "Damn,我的沐浴露用完了.我先用薇拉的.我想她不会介意的~"
 
 
 
     scene c_train_sub_1_5 with tstmgr
 
-    c "Hmmm? What is this?"
+    c "Hmmm?这是什么?"
 
 
 
     scene c_train_sub_1_6 with tstmgr
 
-    c "Is it for Shower? This bottle looks familiar to me. I think I have seen it somewhere before..."
+    c "是洗澡用的吗?这个瓶子看起来很眼熟.我想我以前在什么地方见过..."
 
 
 
@@ -63,21 +63,21 @@ label C_train_sub_1:
 
 
 
-    c "Anyway, I’ll give it a try~"
+    c "不管怎样,我试一试~"
 
 
 
     scene c_train_sub_1_8 with tstmgr
 
-    "Theodora put some of the lotion in that bottle on her body, but it didn’t make any bubble."
+    "狄奥多拉在她身上用了瓶子里放了一些乳液,但没有产生任何泡沫."
 
 
 
-    c "Hum... guess it’s not for shower. It must be some kind of body lotion... ..."
+    c "Hum...我猜不是用来洗澡的.一定是什么身体乳......"
 
 
 
-    c "I'll just go try something else then~"
+    c "那我就去试试别的东西~"
 
 
 
@@ -87,27 +87,27 @@ label C_train_sub_1:
 
 
 
-    "Sometime later, after Theodora came out from the bathroom..."
+    "一段时间后,狄奥多拉从浴室出来..."
 
 
 
     scene c_train_sub_1_9 with tstmgr
 
-    player "Morning, Theo~"
+    player "早上好,西奥~"
 
 
 
     scene c_train_sub_1_10 with tstmgr
 
-    c "Ha~ I thought you are still sleeping~"
+    c "Ha~我以为你还在睡觉呢~"
 
 
 
-    c "I'll dress up in 5 minutes, and then we are good to go."
+    c "我花5分钟打扮一下,然后我们就可以出发了."
 
 
 
-    player "Okay, I’ll wait here~"
+    player "Okay,我在这等你~"
 
 
 
@@ -117,17 +117,17 @@ label C_train_sub_1:
 
 
 
-    player "Theo?"
+    player "狄奥多拉?"
 
 
 
     scene c_train_sub_1_12 with tstmgr
 
-    c "I... ... ... ..."
+    c "我............"
 
 
 
-    c "(Strange... Why do I feel... so hot?)"
+    c "(奇怪...什么我觉得...这么热?)"
 
 
 
@@ -137,41 +137,41 @@ label C_train_sub_1:
 
 
 
-    "Sometime later, Theodora and I were in the lift of the Shinyrost Building..."
+    "过了一段时间,狄奥多拉和我来到了摩天大楼的电梯里..."
 
 
 
-    "And... it seemed like something was wrong with her."
+    "但是...她好像出了什么问题."
 
 
 
     scene c_train_sub_1_13 with dissolve
 
-    player "Theo, are you... alright?"
+    player "西奥,你...还好吧?"
 
 
 
     scene c_train_sub_1_14 with tstmgr
 
-    c "I... I don’t know... ... My body feels... weird... ..."
+    c "我...我不知道...我的身体感觉...怪怪的......"
 
 
 
-    c "*Lustful moaning* Huhhhh~~~~~"
+    c "*淫荡的呻吟*Huhhhh~~~~~"
 
 
 
-    "All the people in the lift have heard Theodora’s moaning. Some looked at her with surprise and some with nasty smiles..."
+    "电梯里所有的人都听到了狄奥多拉的呻吟.有些人惊讶地看着她,有些人露出讨厌的微笑..."
 
 
 
     scene c_train_sub_1_13 with tstmgr
 
-    player "Theo? What is going on?"
+    player "西奥?发生了什么?"
 
 
 
-    "I didn’t got an answer from her, instead I got a... ..."
+    "我没有得到她的答复,反而得到了一个......"
 
 
 
@@ -179,7 +179,7 @@ label C_train_sub_1:
 
     $ flashlight()
 
-    c "Ki... kiss~"
+    c "吻~"
 
 
 
@@ -187,51 +187,51 @@ label C_train_sub_1:
 
 
 
-    "Wow... I didn’t expect this at all. It was such a passionate kiss. I could feel how excited she is right now, but I still didn’t get what made her so excited... ..."
+    "Wow...我完全没想到会这样.那是一个激情的吻.我能感觉到她现在有多兴奋,但我还是不明白是什么让她如此兴奋......"
 
 
 
     scene void with tstmgr
 
-    "I could hear people’s whispering about us. Luckily, the lift stopped at our floor at the next second. I then took Theodora out of the crowds as fast as I could."
+    "我听到人们在低声议论我们.幸运的是,电梯在下一秒停在了我们要去的楼层.然后我以最快的速度把狄奥多拉拉出人群."
 
 
 
     scene c_train_sub_1_16 with dissolve
 
-    player "Seriously, Theo, what happened to you? Let me know how I can help!"
+    player "说真的,西奥,你怎么了?让我知道我能帮上什么忙!"
 
 
 
     scene c_train_sub_1_17 with tstmgr
 
-    player "Theo??"
+    player "西奥??"
 
 
 
-    "She took my hand on one of her breasts. Oh dear... I can’t deny that I am really enjoying doing this, but it is not something we should do in the public!"
+    "她把我的手放在她的胸上.Oh亲爱的...我不能否认我真的很喜欢做这件事,但这不是我们应该在公共场合做的事!"
 
 
 
     scene c_train_sub_1_18 with tstmgr
 
-    player "People will notice us! Why are you doing this?"
+    player "人们会注意到我们的!你为什么要这么做?"
 
 
 
-    player "Wow, wait... ... Your heart beats so fast... ..."
+    player "Wow,等等...你的心跳得好快......"
 
 
 
-    c "I can’t... hold it any longer... ..."
+    c "我再也...忍不了了......"
 
 
 
-    c "Walk me to my office, please... ... ... ..."
+    c "送我到办公室............"
 
 
 
-    player "Of course, let’s go!"
+    player "当然,我们走吧!"
 
 
 
@@ -241,57 +241,57 @@ label C_train_sub_1:
 
 
 
-    "And after we got into her office..."
+    "当我们进入她的办公室后..."
 
 
 
     scene c_train_sub_1_19 with tstmgr
 
-    player "Theo... ... ... ..."
+    player "狄奥............"
 
 
 
-    c "[P]... kiss~~~~"
+    c "[P]...吻~~~~"
 
 
 
-    "Well, I don’t know what made her so horny today, but at least I know how to solve this issue. All I need is to satisfy her with a good sex~"
+    "Well,我不知道是什么让她今天这么好色,但至少我知道如何解决这个问题.我所需要的就是用一场美妙的性爱来满足她~"
 
 
 
     scene c_train_sub_1_20 with tstmgr
 
-    c "[P]... ... Love you... ... Wummm~~~ Hummm~~~"
+    c "[P]......爱你......Wummm~~~Hummm~~~"
 
 
 
-    "We have kissed a lot of times before, but none of them was like this. This is the first time that she actively puts her tongue in my mouth and twists with mine."
+    "我们以前接吻过很多次,但是没有一次是这样的.这是她第一次主动地把她的舌头放到我的嘴里,并和我一起扭动."
 
 
 
-    "Suddenly, something came up with my mind. If she has really become so horny, maybe she would allow me to... ..."
+    "突然,我的脑海里出现了一些想法.如果她真的变得如此饥渴,也许她会允许我这样做......"
 
 
 
-    player "Can I... touch your nipples, Theo?"
+    player "我可以...摸摸你的乳头吗,西奥?"
 
 
 
-    c "Wummm~~ Whatever... you want... ... Love you~~"
+    c "Wummm~~只要你想...你想......爱你~~"
 
 
 
-    "Wow... whatever made her so horny must had also messed up her mind. She used to be the girl who would say ‘I will break your neck if you dare to put a finger on my nipple’ during sex!"
+    "Wow...是什么使她如此饥渴,一定也扰乱了她的思想.她曾经是那种在做爱时会说“如果你敢把手指放在我的乳头上,我就拧断你的脖子”的女孩!"
 
 
 
-    "So be it then... ..."
+    "那就这样......"
 
 
 
     scene c_train_sub_1_21 with tstmgr
 
-    "I slowly moved my hands to her nipples..."
+    "我慢慢地把手移到她的乳头上..."
 
 
 
@@ -299,69 +299,69 @@ label C_train_sub_1:
 
 
 
-    "She made a loud moaning along with a violent shiver. Yeah, just as she said, her nipples are extreme sensitive... ..."
+    "她发出一声响亮的呻吟,伴随着剧烈的颤抖.是的,就像她说的,她的乳头非常敏感......"
 
 
 
-    player "Theo... Your nipples are getting so hard... ..."
+    player "西奥...你的乳头越来越硬了......"
 
 
 
     scene c_train_sub_1_22 with tstmgr
 
-    c "That’s because... you are the one who is touching them... ..."
+    c "这是因为...你在摸它们......"
 
 
 
-    c "They are... welcoming you~~"
+    c "它们很...欢迎你~~"
 
 
 
-    player "It’s such a pleasure of mine... ..."
+    player "真是我的荣幸......"
 
 
 
-    c "Pussy... wants your touch too... ... Pussy... wants to be touched by your cock... ..."
+    c "小穴...也想要你的抚摸...小穴...想要被你的鸡巴抚摸......"
 
 
 
-    c "Fuck me... please... I miss your cock... ... your huge cock... ..."
+    c "请...操我...我想你的鸡巴了......你的巨大鸡巴......"
 
 
 
-    player "Theo... ..."
+    player "狄奥......"
 
 
 
     scene c_train_sub_1_23 with tstmgr
 
-    "I gently helped her removed her clothes..."
+    "我轻轻地帮她脱下衣服..."
 
 
 
-    player "You are so sexy, Theo."
+    player "你太性感了,西奥."
 
 
 
-    c "Now... undress yourself and go sit on that chair~"
+    c "现在...脱下衣服,坐到到那把椅子上~"
 
 
 
-    c "I am going to be at top... as always... ..."
+    c "我要在上面...像往常一样......"
 
 
 
     scene c_train_sub_1_24 with tstmgr
 
-    player "Okay, just wait until I am done with your fragnant neck... ... ... ..."
+    player "Okay,等我弄完你的香颈............"
 
 
 
-    c "Ahhhhh~ Stop teasing me~ My pussy... is itchy as hell now~ It can’t wait any longer~"
+    c "Ahhhhh~别玩我了~我的小穴...现在痒的要命~它已经等不及了~"
 
 
 
-    player "Just a few more seconds~"
+    player "再等几秒钟~"
 
 
 
@@ -373,23 +373,23 @@ label C_train_sub_1:
 
     $ flashlight()
 
-    c "Sit here, you pervert. I'm... in charge now~"
+    c "坐在这儿,你这个变态.现在...让我来~"
 
 
 
-    player "Oh... ... fine."
+    player "Oh......好吧."
 
 
 
     scene c_train_sub_1_26 with tstmgr
 
-    c "All I need is this... huge cock... ... I just need to... ..."
+    c "我所需要的就是这个...巨大的鸡巴...我只需要......"
 
 
 
     scene c_train_sub_1_27 with tstmgr
 
-    c "Simply... put it in... ..."
+    c "简单地...把它放进......"
 
 
 
@@ -397,31 +397,31 @@ label C_train_sub_1:
 
 
 
-    "She trembled hard when my glans touched her labia. She has become more sensitive than normal, that’s obvious."
+    "当我的龟头碰到她的阴唇时,她拼命地发抖.很明显,她比平时更敏感了."
 
 
 
     scene c_train_sub_1_28 with tstmgr
 
-    c "Ea... easy... easy... ..."
+    c "放...放松...放松......"
 
 
 
-    player "Do you need help with that?"
+    player "你需要帮忙吗?"
 
 
 
-    c "What... do you mean?"
+    c "你...你的意思是?"
 
 
 
-    player "I mean... ..."
+    player "我的意思是......"
 
 
 
     scene c_train_sub_1_29 with tstmgr
 
-    "I suddenly took one of her nipples in my mouth and teased it with my teeth and tongue."
+    "我突然把她的一个乳头放在嘴里,用牙齿和舌头逗弄它."
 
 
 
@@ -433,7 +433,7 @@ label C_train_sub_1:
 
     $ flashlight()
 
-    "She couldn’t stand anymore because her legs trembled so bad. She slumped in my legs and my penis just slipped into her deep."
+    "她再也站不起来了,因为她的腿抖得厉害.她瘫倒在我的腿上,我的小弟弟滑进了她的身体深处."
 
 
 
@@ -445,17 +445,17 @@ label C_train_sub_1:
 
     scene c_train_sub_1_32 with tstmgr
 
-    c "Your cock is... inside... ... The whole of your cock... is inside me... ..."
+    c "你的鸡巴...在里面......你的整个鸡巴...在我里面......"
 
 
 
-    c "Can’t move... at all... ... Can’t... think of anything... ..."
+    c "无法...移动......无法...思考......"
 
 
 
     scene c_train_sub_1_33 with tstmgr
 
-    player "Don’t worry, Theo, just leave everything to me."
+    player "别担心,西奥,把一切都交给我吧."
 
 
 
@@ -463,7 +463,7 @@ label C_train_sub_1:
 
 
 
-    player "I’ll start moving now~"
+    player "我要开始动了~"
 
 
 
@@ -473,43 +473,43 @@ label C_train_sub_1:
 
 
 
-    c "Ahh~~ Love you~~ [P]~~ Ahhhhh~~ Love you~~"
+    c "Ahh~~爱你~~[P]~~Ahhhhh~~爱你~~"
 
 
 
-    player "Theo... I’m so happy. You never really... admitted that you love me before... ..."
+    player "西奥...我很高兴.你从来没有真正...的承认你爱过我......"
 
 
 
-    c "I don’t know what’s going on, but I just... I just can’t help saying that out~"
+    c "我不知道是怎么回事,但我...我就是忍不住要说出来~"
 
 
 
-    c "My love to you increases a little... every time when your cock punches my deepest~"
+    c "每次你的鸡巴撞击我最深处的时候~我对你的爱就增加了一点..."
 
 
 
-    c "I love you~ I love you so much~~~"
+    c "我爱你~我好爱你~~~"
 
 
 
-    player "I love you too, Theo!"
+    player "我也爱你,西奥!"
 
 
 
-    c "[P]~~ [P]~~ Please... hold me tighter~~"
+    c "[P]~~[P]~~请...抱紧我~~"
 
 
 
-    c "Please... ... don’t leave me again~~"
+    c "请...别再离开我了~~"
 
 
 
-    "Again?"
+    "再?"
 
 
 
-    player "I’ll never leave you, Theo!"
+    player "我永远不会离开你,西奥!"
 
 
     stop sound
@@ -523,23 +523,23 @@ label C_train_sub_1:
 
 
 
-    c "Wait... it’s... so... fast... ... can’t... ..."
+    c "等等...太...快...了......不能......"
 
 
 
-    c "Cock... love... ... [P]... ... love... ..."
+    c "鸡巴...爱......[P]......爱......"
 
 
 
-    c "My womb... is opening for you... ... Please... please... ..."
+    c "我的子宫...正为你敞开大门......请...请......"
 
 
 
-    c "Cum inside and make me love you even more~~~"
+    c "射在我里面让我更加爱你~~~"
 
 
 
-    player "Theo... ... I’m... I’m cumming!!!"
+    player "西奥......我...我要射了!!!"
 
 
     stop sound
@@ -551,15 +551,15 @@ label C_train_sub_1:
 
 
 
-    c "Yeeeeees~~ I have received... all of your cum... and love~~"
+    c "Yeeeeees~~我已经收到了...你所有的精液...和爱~~"
 
 
 
-    c "I'll store all of them in my pussy... ... without leaking out a single drop~"
+    c "我会把它们都藏在我的小穴里......一滴也不漏出来~"
 
 
 
-    player "Theo... ... You are truly the queen of dirty talks~"
+    player "西奥......你真的是骚话女王~"
 
 
 
@@ -569,37 +569,37 @@ label C_train_sub_1:
 
     scene void with tstmgr
 
-    "Some time later... ..."
+    "一段时间后......"
 
 
 
     scene c_train_sub_1_37 with dissolve
 
-    player "Theo... ... That was so amazing~"
+    player "西奥...这太棒了~"
 
 
 
-    c "I don’t want to talk with you right now."
+    c "我现在不想和你说话."
 
 
 
-    player "What’s wrong?"
+    player "怎么了?"
 
 
 
     scene c_train_sub_1_38 with tstmgr
 
-    c "I can’t believe I was... acting so lewdly back then. Damn... I was like a brainless whore... ..."
+    c "我不敢相信我...那时的行为很淫荡.该死的...我就像个没脑子的妓女......"
 
 
 
-    c "But... it was indeed... an amazing experience~"
+    c "但是...它确实是...一次奇妙的体验~"
 
 
 
     scene c_train_sub_1_39 with tstmgr
 
-    player "I love you, Theo~"
+    player "我爱你,西奥~"
 
 
 
@@ -607,37 +607,37 @@ label C_train_sub_1:
 
 
 
-    c "Whatever~"
+    c "无所谓了~"
 
 
 
-    "Ha, guess she is back to normal again."
+    "Ha,我猜她又恢复正常了."
 
 
 
     scene c_train_sub_1_40 with tstmgr
 
-    player "So... what made you so horny in such an early morning?"
+    player "所以...是什么让你在这样的大清早变得如此饥渴?"
 
 
 
     scene c_train_sub_1_41 with tstmgr
 
-    c "Something... made me horny?"
+    c "什么东西...让我变得饥渴?"
 
 
 
-    c "Yeah, it was really strange after you said that..."
+    c "Yeah,你这么说,我觉得很奇怪..."
 
 
 
-    c "Do you know... what was in that red bottle in the bathroom?"
+    c "你知道...浴室里的红瓶子里装的是什么吗?"
 
 
 
     scene c_train_sub_1_42 with tstmgr
 
-    player "Red bottle?"
+    player "红瓶子?"
 
 
 
@@ -649,11 +649,11 @@ label C_train_sub_1:
 
     scene c_train_sub_1_43 with flashback
 
-    player "Oh... shit... ... So that was the reason. I thought I have thrown it in the trash can..."
+    player "Oh...shit......这就是原因.我想我已经把它扔进垃圾桶了..."
 
 
 
-    player "It was... ... eh... ..."
+    player "它......eh......"
 
 
 
@@ -663,7 +663,7 @@ label C_train_sub_1:
 
     scene c_train_sub_1_44 with tstmgr
 
-    c "Whatever, I don’t really need to know it. I am back to normal again and it doesn’t seem to have other side effects anyway~"
+    c "不管怎样,我不用知道.我又恢复正常了,而且似乎也没有其他副作用~"
 
 
 
@@ -675,21 +675,21 @@ label C_train_sub_1:
 
     scene c_train_sub_1_46 with tstmgr
 
-    c "But I’m going to try that again after we get home~"
+    c "但是我们回家后我会再试一次~"
 
 
 
-    player "What? Why would you... ..."
+    player "什么?为什么你......"
 
 
 
-    c "Stop asking. Now you should leave my office and go back to your work~ You have stayed here for too long."
+    c "别问.现在你应该离开我的办公室回去工作了,你在这里呆的时间太长了."
 
 
 
     scene c_train_sub_1_47 with tstmgr
 
-    player "Fine... ... ... ..."
+    player "好吧............"
 
 
 

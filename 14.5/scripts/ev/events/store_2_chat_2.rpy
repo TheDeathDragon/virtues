@@ -2,37 +2,37 @@ label store_2_chat_2:
 
     scene store_2_chat_2_1 with tstmgr
 
-    "Lady Minna" "Tell me, kid, how do you think of me?"
+    "明娜夫人""告诉我,孩子,你觉得我怎么样?"
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
     scene store_2_chat_2_3 with tstmgr
 
-    "Lady Minna" "You have seen my half-naked body. Do you think I am still... attractive to males?"
+    "明娜夫人""你见过我半裸的身体.你以为我还...对男性有吸引力吗?"
 
 
 
-    player "I... I think you absolutely are, Lady Minna... ..."
+    player "我...我认为你绝对有,明娜夫人......"
 
 
 
     scene store_2_chat_2_2 with tstmgr
 
-    "Lady Minna" "*Murmuring* But that man hasn't touched me for half a year... ... Is it my problem or his?"
+    "明娜夫人""*喃语*但是那个人已经半年没碰过我了......是我的问题还是他的问题?"
 
 
 
-    player "What are you saying? I didn't hear it clearly."
+    player "你在说什么?我没听清楚."
 
 
 
     scene store_2_chat_2_4 with tstmgr
 
-    "Lady Minna" "Sigh, whatever~"
+    "明娜夫人""唉,没什么~"
 
 
 

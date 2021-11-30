@@ -5,57 +5,57 @@ label E_love_6:
     scene e_love_6_1 with tstmgr
     play music sorrow
 
-    e "[P], I am so glad that you could join us for dinner."
+    e "[P],我很高兴你能和我们一起吃晚饭."
 
 
 
-    player "I always love your food, Aunt Elisa."
+    player "我一直很喜欢你做的饭,伊莉莎阿姨."
 
 
 
-    e "Are you going to stay here for tonight?"
+    e "你今晚要在这里过夜吗?"
 
 
 
-    player "About that... I think I have bothered you so much recently... ..."
+    player "关于这个...我想我最近打扰你太多了......"
 
 
 
     scene e_love_6_2 with tstmgr
 
-    e "What are you talking about? You can stay here as long as you want. This is your second home."
+    e "你在说什么?你想住多久就住多久.这是你的第二个家."
 
 
 
     scene e_love_6_3 with tstmgr
 
-    d "Yeah, [P]. Mom and I feel much safer when you are around. You are the only man in the house!"
+    d "Yeah,[P].有你在身边,妈妈和我都觉得安全多了.你是家里唯一的男人!"
 
 
 
-    player "Oh... I... ..."
+    player "Oh...我......"
 
 
 
-    player "Okay, I’ll stay here for tonight."
+    player "Okay,我今晚在这里过夜."
 
 
 
     scene e_love_6_1 with tstmgr
 
-    e "Great, now have some soup, [P]. I made it specially for you."
+    e "棒极了,现在喝点汤,[P].我特地为你做的."
 
 
 
     scene e_love_6_4 with tstmgr
 
-    d "Hah? That’s not fair! I want soup, too!"
+    d "Hah?这不公平!我也要喝汤!"
 
 
 
     scene e_love_6_5 with tstmgr
 
-    e "You can go have some cake instead, honey."
+    e "亲爱的,你可以去吃点蛋糕."
 
 
 
@@ -69,11 +69,11 @@ label E_love_6:
 
 
 
-    player "(Why would Aunt Elisa made soup only for me? She never did such a thing before.)"
+    player "(为什么伊莉莎阿姨只给我做汤?她以前从未做过这种事.)"
 
 
 
-    player "(Could it be something in that soup that makes me faint out?)"
+    player "(是不是汤里的什么东西让我昏过去了?)"
 
 
 
@@ -81,23 +81,23 @@ label E_love_6:
 
 
 
-    player "(I don’t believe it. I mean, why would Aunt Elisa drug me?)"
+    player "(我不信.我是说,为什么伊莉莎阿姨要给我下药?)"
 
 
 
-    player "(Anyway, I’ll just drink it all.)"
+    player "(不管怎样,我要把它喝光.)"
 
 
 
     scene void with tstmgr
 
-    "I drank up the soup without breathing."
+    "我一口气喝完了汤."
 
 
 
     scene e_love_6_7 with tstmgr
 
-    e "Very... good... ..."
+    e "很...好......"
 
 
 
@@ -107,17 +107,17 @@ label E_love_6:
 
 
 
-    "Later tonight..."
+    "今晚晚些时候..."
 
 
 
-    "*The following plot is from Elisa’s perspective*"
+    "*下面的情节是伊莉莎的视角*"
 
 
 
     scene e_daily7_10 with tstmgr
 
-    e "[P], are you awake?"
+    e "[P],你醒着吗?"
 
 
 
@@ -125,75 +125,75 @@ label E_love_6:
 
 
 
-    e "Great..."
+    e "很好..."
 
 
 
     scene e_love_6_8 with tstmgr
 
-    "I carefully took off my nightgown and got on his bed."
+    "我小心翼翼地脱下睡衣,上了他的床."
 
 
 
-    "Sigh... I have gotten used to this..."
+    "唉...我已经习惯做这些了..."
 
 
 
-    "Whenever [P] decides to stay, I’ll put the drug into his coffee, milk, or soup, and make sure he drinks it all."
+    "不管什么时候[P]决定留下,我会把药放进他的咖啡,牛奶或汤里,确保他喝完."
 
 
 
     scene e_love_6_9 with tstmgr
 
-    "Then I would sneak into his room after he fell in the deep asleep for half an hour... ..."
+    "然后我会在他熟睡半小时后偷偷溜进他的房间......"
 
 
 
-    "And do whatever I want with this sleeping prince."
+    "对这个沉睡的王子,我想做什么就做什么."
 
 
 
     scene e_daily7_20 with tstmgr
 
-    "Touching his penis..."
+    "摸他的鸡儿..."
 
 
 
     scene e_love_6_10 with tstmgr
 
-    "Making him cum with my breasts..."
+    "让他射在我的胸上..."
 
 
 
     scene e_daily9_4 with tstmgr
 
-    "Or even rub it with my labia... ..."
+    "或者用我的阴唇摩擦......"
 
 
 
     scene e_love_6_9 with tstmgr
 
-    "But now... I could not satisfy with that level of teasing anymore. It just made me so much hornier. I need a way to release all of my lust..."
+    "但现在...我再也不能满足于那种程度的戏弄了.这只会让我更兴奋.我需要一种方式来释放我全部的欲望..."
 
 
 
     scene e_love_6_11 with tstmgr
 
-    e "I want... I want to put this long huge dick into my pussy... ..."
+    e "我想...我想把这个又长又大的鸡儿塞进我的小穴......"
 
 
 
-    e "No one... will ever know what happened."
+    e "没有人...知道发生了什么."
 
 
 
-    e "Forgive me, [P]. Forgive me, Theo. I just... can’t take it anymore..."
+    e "原谅我,[P].原谅我,狄奥.我只是...再也忍不住了..."
 
 
 
     scene void with tstmgr
 
-    "Thus, I finally crossed that line."
+    "因此,我最终越过了那条线."
 
 
 
@@ -203,19 +203,19 @@ label E_love_6:
 
 
 
-    e "Be... be careful, Elisa, try move slowly..."
+    e "小...小心点,伊莉莎,慢慢来..."
 
 
 
-    e "It has been so long since the last time you did something like this, just... don’t mess it up..."
+    e "距离你上次做这种事已经过了很久了,只是...别搞砸了..."
 
 
 
-    e "Owwww~~~~ This feels so unreal~~~"
+    e "Owwww~~~~这感觉太不真实了~~~"
 
 
 
-    e "Now... let’s... try speed up a little bit..."
+    e "现在...让我们...试着加快一点速度..."
 
 
 
@@ -226,23 +226,23 @@ label E_love_6:
 
 
 
-    e "(Moaning with lust) Ahhhh~~~ Ahhh~~~ Ahhh~~~ Ahh~~~"
+    e "(欲望的呻吟)Ahhhh~~~Ahhh~~~Ahhh~~~Ahh~~~"
 
 
 
-    e "Yes... yes... at last~~"
+    e "Yes...yes...终于~~"
 
 
 
-    e "The first time... in 15 years... ..."
+    e "第一次...在15年里......"
 
 
 
-    e "This big dick... ... such a big dick... ..."
+    e "这个大鸡巴...这么大的鸡巴......"
 
 
 
-    e "He can... conquer every woman with it~~~"
+    e "他可以...用它征服每个女人~~~"
 
 
 
@@ -257,23 +257,23 @@ label E_love_6:
 
 
 
-    e "No dildo can ever compete with this..."
+    e "没有假阳具能与之匹敌..."
 
 
 
-    e "It goes... so deep!!~~~"
+    e "它弄得...如此之深!!~~~"
 
 
 
-    e "Wait, this feeling... ... Ah, you are about to cum, aren’t you?"
+    e "等等,这种感觉...啊,你要射了,不是吗?"
 
 
 
-    e "Let’s... cum together!~~~"
+    e "让我们...一起高潮!~~~"
 
 
 
-    e "I’m cuming!!!!!"
+    e "我泄了!!!!!"
 
 
 
@@ -289,7 +289,7 @@ label E_love_6:
 
     scene e_love_6_16 with tstmgr
 
-    e "He is... cuming in my pussy... ..."
+    e "他...射在我的小穴里......"
 
 
 
@@ -299,25 +299,25 @@ label E_love_6:
 
 
 
-    e "Yes... yes... the hot fluid... ... I have missed it so much..."
+    e "Yes...yes...这滚烫的液体...我非常想念它..."
 
 
 
-    e "Finally, my womb... is filled by a man’s cum again... ..."
+    e "终于,我的子宫...又被一个男人的精液填满了......"
 
 
 
-    e "It has been deserted for so long... after Irene was born... ..."
+    e "它被抛弃太久了...自艾琳出生后......"
 
 
 
     scene e_love_6_19 with tstmgr
 
-    e "Thanks... for letting me taste the joy of being a woman again, [P], though you are not aware of everything."
+    e "谢谢...感谢你让我再次体会到做一个女人的快乐,虽然你感觉不到这一切."
 
 
 
-    e "I will remember this night for the rest of my life."
+    e "我将终生记住这个夜晚."
 
 
 
@@ -327,27 +327,27 @@ label E_love_6:
 
 
 
-    e "And... this is it, [P]. Sorry for bothering you these days..."
+    e "...就是这样,[P].对不起,这些天打扰你了..."
 
 
 
     scene e_love_6_21 with tstmgr
 
-    e "I won’t do such a thing to you anymore. I can’t... surrender to my lust. I have to get out before I sink into it."
+    e "我再也不会这样对你了.我不能...屈服于我的欲望.我必须在沉沦之前抽离."
 
 
 
-    e "After tonight... everything will be back to normal. I am still your Aunt Elisa, and you are still my future son-in-law."
+    e "今晚过后...一切都会恢复正常的.我还是你的伊莉莎阿姨,你还是我未来的女婿."
 
 
 
     scene e_love_6_22 with tstmgr
 
-    e "I wish you and Theo can be a wonderful couple."
+    e "我希望你和狄奥能成为完美的一对."
 
 
 
-    e "Now have a good night, sweetie~"
+    e "亲爱的,祝你晚安~"
 
 
 
@@ -357,7 +357,7 @@ label E_love_6:
 
 
 
-    "The next morning..."
+    "第二天早上..."
 
 
 
@@ -367,25 +367,25 @@ label E_love_6:
 
 
 
-    player "Shit... I passed out again? Aww... This is so bad."
+    player "Shit...我又晕过去了?Aww...这太糟糕了."
 
 
 
-    player "And I feel so damn tired right now. It’s like I just had a long sex or something..."
+    player "我现在觉得好累.就像我刚做了很长时间的爱..."
 
 
 
-    player "Something must happened during my sleep... Maybe I sleepwalked?"
+    player "我睡觉的时候一定发生了什么事...也许我梦游了?"
 
 
 
     scene e_love_6_24 with tstmgr
 
-    "Luckily, before I passed out, I have set up a camera on the desk and it should have recorded everything happened in my room last night."
+    "幸运的是,在我昏倒之前,我在桌子上放了一个相机,它应该记录下了昨晚在我房间里发生的一切."
 
 
 
-    player "Now let’s see what was going on... ..."
+    player "现在我们来看看发生了什么......"
 
 
 
@@ -399,7 +399,7 @@ label E_love_6:
 
 
 
-    player "Holy shit! What the hell???!!!"
+    player "卧槽!什么鬼???!!!"
 
 
 

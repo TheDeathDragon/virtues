@@ -8,29 +8,29 @@ label Special_1:
     scene special_1_1 with dissolve
 
 
-    e "It’s so nice to have you here, Lady Minna~"
+    e "明娜女士,你这里也太棒了"
 
 
 
-    "Lady Minna" "It’s my pleasure, Lady Shinyrost~"
+    "明娜女士" "这是我的荣幸,新光女士"
 
 
 
-    e "Is there anything I can help you with today?"
+    e "我可以在今天帮你什么?"
 
 
 
     scene special_1_2 with tstmgr
 
-    "Lady Minna" "No~ I’m just here to have a chat~"
+    "明娜女士" "不~我只是来聊天的~"
 
 
 
-    e "Chat, huh... ..."
+    e "聊天, huh... ..."
 
 
 
-    "Lady Minna" "I heard that you have found a good young lad as the fiance of your daughter Theodora?"
+    "明娜女士" "我听说你找到了一个很不错的年轻人作为你女儿狄奥多拉的未婚夫?"
 
 
 
@@ -40,133 +40,133 @@ label Special_1:
 
 
 
-    "Elisa noticed the provocation in Lady Minna’s words."
+    "伊莉莎注意到了明娜话中的挑衅意味."
 
 
 
     scene special_1_3 with tstmgr
 
-    e "You mean [P]? Yeah, he is indeed a good young lad~"
+    e "你是说 [P]? 是的, 他是个非常棒的年轻人~"
 
 
 
     scene special_1_2 with tstmgr
 
-    e "I heard your daughter Senning is his best friend in college, is that so?"
+    e "我听说你女儿森柠是他在大学里最好的朋友,是吗?"
 
 
 
-    "Lady Minna" "yeah, my daughter admires him~"
+    "明娜女士" "是的, 我女儿很欣赏他~"
 
 
 
     scene special_1_5 with tstmgr
 
-    "Lady Minna" "And they are actually more than just... best friends~"
+    "明娜女士" "而且他们实际上不仅仅只是......最好的朋友~"
 
 
 
     scene special_1_6 with tstmgr
 
-    e "Huh... ... They have fucked?"
+    e "Huh... ... 他们做了?"
 
 
 
     scene special_1_7 with tstmgr
 
-    "Lady Minna" "*Being a little surprised* Hmmmm?"
+    "明娜女士" "*有点惊讶* Hmmmm?"
 
 
 
     scene special_1_8 with tstmgr
 
-    e "Wait a minute, Lady Minna, you are not hoping me to cancel the engagement after I know about his affair with your daughter, are you?"
+    e "稍等一下, 明娜女士, 你不会是希望我在知道他和你女儿有染后取消订婚,是吗??"
 
 
 
-    "Lady Minna" "You... are not angry at him?"
+    "明娜女士" "你... 不生他的气?"
 
 
 
-    e "You are not angry at him either, so why surprised?"
+    e "你不也没生他的气,何必惊讶?"
 
 
 
     scene special_1_9 with tstmgr
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
     scene special_1_10 with tstmgr
 
-    "Lady Minna" "*Murmuring* What a lucky boy... ..."
+    "明娜女士" "*喃喃自语* 多么幸运的男孩... ..."
 
 
 
-    "Lady Minna" "Guess I still underestimated you, Lady Shinyrost~"
+    "明娜女士" "看来我还是低估了你, 新光女士~"
 
 
 
-    "Lady Minna" "Alright then, let me be straight, this country doesn’t allow polygamy, which means... the boy may have as many girls with him as he wants, but he can only have one legal wife."
+    "明娜女士" "好吧,那我直说吧,这个国家不允许一夫多妻,这意味着……男孩可以无论拥有多少女孩,但他只能有一个合法的妻子."
 
 
 
-    e "And?"
+    e "然后?"
 
 
 
     scene special_1_11 with tstmgr
 
-    "Lady Minna" "Senning is my only daughter. You must understand that I have to fight for it for her."
+    "明娜女士" "森柠是我唯一的女儿. 你明白我必须为她的幸福着想."
 
 
 
     scene special_1_12 with tstmgr
 
-    e "Oh, I understand... ..."
+    e "Oh, 我明白... ..."
 
 
 
-    e "But unfortunately [P] has already engaged with my daughter, she will be his legal wife, nothing can change that~"
+    e "但不幸的是[P]已经和我的女儿订婚了,她将成为他的合法妻子,没有什么东西可以改变这个事实~"
 
 
 
     scene special_1_13 with tstmgr
 
-    "Lady Minna" "Come on, we are all businesswomen, everything is negotiable. Engagement does not have the force of law anyway~"
+    "明娜女士" "来吧,我们都是商业女强人,一切都可以商量. 不管怎么说,订婚不具有法律效力~"
 
 
 
-    e "Nope~ everything about my daughter is not negotiable. Stop your unrealistic fantasy, Lady Minna~"
+    e "不可能~我女儿的一切都没有商量的余地. 停止你不切实际的幻想, 明娜女士~"
 
 
 
     scene special_1_14 with tstmgr
 
-    "Lady Minna" "Huh... ... ... ..."
+    "明娜女士" "Huh... ... ... ..."
 
 
 
-    "Lady Minna" "Guess the talk has collapsed."
+    "明娜女士" "我想谈判是失败了."
 
 
 
-    "Lady Minna" "That will make us enemies. You know, I am willing to start a war for my daughter."
+    "明娜女士" "那会让我们成为敌人. 你知道,我不介意为我女儿的幸福发动一场战争."
 
 
 
     scene special_1_15 with tstmgr
 
-    e "So am I~"
+    e "我也是~"
 
 
 
-    "Lady Minna" "Things will get really ugly... ... I can promise you that~"
+    "明娜女士" "事情会变得非常糟糕......我可以向你保证~"
 
 
 
-    e "I’m very expecting~"
+    e "我很期待~"
 
 
 
@@ -176,17 +176,17 @@ label Special_1:
 
 
 
-    "While the mothers are thinking about starting a war for their daughters, on the other side of town... ..."
+    "当母亲们正在考虑如何为她们的女儿获得更大的优势时,在城镇的另一边... ..."
 
 
 
     scene special_1_16 with dissolve
 
-    c "What are you eating?"
+    c "你在吃什么?"
 
 
 
-    b "Pretz~ It’s really good~ Do you want to have a taste?"
+    b "Pretz~真的很好吃~要不要尝尝?"
 
 
 
@@ -206,15 +206,15 @@ label Special_1:
 
 
 
-    player "Wait, wait, wait, that’s too close! I’m going to be jealous!"
+    player "等等,等等,等等,这太近了! 我会吃醋的!"
 
 
 
-    player "Shit, when did you become so intimate to each other?"
+    player "我去,你们什么时候变得这么亲密了?"
 
 
 
-    "It looks like the daughters haven’t been affected by their mothers’ hostility yet~"
+    "看起来女儿们并没有受到母亲们之间的敌意影响~"
 
 
 

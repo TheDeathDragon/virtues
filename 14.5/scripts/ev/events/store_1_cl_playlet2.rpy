@@ -8,17 +8,17 @@ label store_1_cl_playlet2:
 
     scene store_1_cl_playlet2_1 with tstmgr
 
-    player "Ohhh... Posia... I can’t believe you allowed me to do this!"
+    player "Ohhh...波西亚...真不敢相信你竟然允许我这么做!"
 
 
 
-    "Posia" "Gruummm... ... ehh... ... auwww... ... shhlopp... ..."
+    "波西亚""Gruummm... ... ehh... ... auwww... ... shhlopp... ..."
 
 
 
     scene store_1_cl_playlet2_2 with tstmgr
 
-    player "Ahhhhh!!! It’s like I’m fucking a flip hole... ..."
+    player "Ahhhhh!!!就像我在操一个飞机杯......"
 
 
 
@@ -46,17 +46,17 @@ label store_1_cl_playlet2:
 
 
 
-    player "Ohhhhh... ... this feels so damn crazy... ..."
+    player "Ohhhhh......这感觉太疯狂了......"
 
 
 
     scene store_1_cl_playlet2_3 with tstmgr
 
-    player "I’m cumming!!"
+    player "我射了!!"
 
 
 
-    "Posia" "Wumm... mmmmm... ... grum... ..."
+    "波西亚""Wumm... mmmmm... ... grum... ..."
 
 
 
@@ -64,7 +64,7 @@ label store_1_cl_playlet2:
 
     $ flashlight()
 
-    "Posia" "Wruuuuuummm~~~~ Eahhhh~~~ Hummmmmm~~~~"
+    "波西亚""Wruuuuuummm~~~~ Eahhhh~~~ Hummmmmm~~~~"
 
 
 
@@ -74,7 +74,7 @@ label store_1_cl_playlet2:
 
     scene store_1_cl_playlet2_5 with tstmgr
 
-    "Posia" "Thummm... thanks... for... buying... my service... ..."
+    "波西亚""Thummm...谢谢...购买...我的服务......"
 
 
 

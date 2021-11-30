@@ -2,15 +2,15 @@ label mansion_tutor_afternoon_D_1:
 
     scene rcsj_d14 with tstmgr
 
-    d "Ahhhhh... ... I hate math!"
+    d "Ahhhhh......我讨厌数学!"
 
 
 
-    player "Calm down, it is just a simple question."
+    player "冷静点,这只是个简单的问题."
 
 
 
-    player "Be patient, and you will find the right solution."
+    player "耐心点,你就会找到正确的解决办法."
 
 
 
@@ -20,17 +20,17 @@ label mansion_tutor_afternoon_D_1:
 
 
 
-    d "Okay, but you need to reward me if I solve this question by myself."
+    d "Okay,但是如果我自己解决了这个问题,你需要奖励我."
 
 
 
-    player "What do you want?"
+    player "你在想什么?"
 
 
 
     scene rcsj_d16 with tstmgr
 
-    d "I want to play my cellphone for 10 minutes!"
+    d "我想玩10分钟手机!"
 
 
 

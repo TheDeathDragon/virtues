@@ -3,45 +3,45 @@ label A_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "Vera still doesn't want to talk with me. Uhh... this drives me crazy."
+    "薇拉仍然不想和我说话...这让我抓狂."
 
-    "I can't stand it anymore. I have to find her and solve this thing, tonight."
+    "我再也受不了了.我今晚必须找到她解决这件事."
 
-    "*Knock, knock, knock...*"
+    "*咚,咚,咚...*"
 
-    player "Vera, may I come in?"
+    player "薇拉,我可以进来吗?"
 
     a "... ... ... ..."
 
-    a "No, it's already late. I... I don't think you should be here."
+    a "不,已经很晚了.我...我觉得你不应该在这里."
 
     player "... ... ... ..."
 
-    "She refused to see me, again."
+    "她又一次拒绝见我."
 
-    "Well, normally I would just say goodnight and go away, but not today. "
+    "Well,通常我会说晚安然后离开,但今天不行."
 
-    "I used the backup key to open her door."
+    "我用备用钥匙打开了她的门."
 
     scene a_love_5_1 with tstmgr
 
-    a "What do you think you are doing?"
+    a "你觉得你在干什么?"
 
-    a "You can't just break into my room like this..."
+    a "你不能就这样闯进我的房间..."
 
     scene a_love_5_2 with tstmgr
 
-    player "Vera, listen, we have to talk."
+    player "薇拉,听着,我们得谈谈."
 
     a "... ... ... ..."
 
-    a "Don't be this close to me."
+    a "不要离我这么近."
 
     scene a_love_5_3 with tstmgr
 
-    a "We are just... friends."
+    a "我们只是...朋友."
 
-    a "What are you... ... Wait..."
+    a "你......等等..."
 
     scene a_love_5_4 with tstmgr
 
@@ -51,9 +51,9 @@ label A_love_5:
 
     scene a_love_5_5 with tstmgr
 
-    player "You never reject my kiss. "
+    player "你从不拒绝我的吻."
 
-    player "I won't lie to myself anymore and neither should you. There is more than just friendship between us and I know you feel it too."
+    player "我不会再骗自己了,你也不应该.我们之间不只是友谊,我知道你也有同感?"
 
     a "... ... [P]..."
 
@@ -63,21 +63,21 @@ label A_love_5:
 
     scene a_love_5_6 with tstmgr
 
-    a "(Joyful moaning) Emm... ... ah... ..."
+    a "(愉悦的呻吟)Emm......ah......"
 
     scene a_love_5_5 with tstmgr
 
     "... ... ... ..."
 
-    player "This is... fascinating."
+    player "这真...迷人."
 
-    player "You are... fascinating."
+    player "你太...迷人了."
 
     scene a_love_5_7 with tstmgr
 
     a "... ... ... ..."
 
-    "She sealed my mouth with a kiss again."
+    "她又用一个吻封住了我的嘴."
 
     scene a_love_5_8 with tstmgr
 
@@ -85,146 +85,146 @@ label A_love_5:
 
     scene a_love_5_9 with tstmgr
 
-    "We began to melt into each other's embrace. Our twisting tongues drowning in passion. Our grasping hands longing to be even closer..."
+    "我们拥抱在一起,享受着舌头扭曲的感觉,沉浸在这激情湿吻的快乐中."
 
     scene a_love_5_10 with tstmgr
 
-    a "Sorry... "
+    a "抱歉..."
 
-    player "For what?"
+    player "抱歉什么?"
 
-    a "I've been so rude to you lately."
+    a "这些天我对你很无礼."
 
-    player "Yeah, that broke my heart. You need to make up to me."
+    player "Yeah,这伤透了我的心.你需要补偿我."
 
     scene a_love_5_11 with tstmgr
 
-    "She flushed."
+    "她满脸通红."
 
-    a "What... do you want?"
+    a "你...想怎么做?"
 
     menu:
-        "I want you to be my girlfriend (girlfriend route)":
+        "我要你做我的女朋友(女朋友路线)":
 
             $ A.relation = "girlfriend"
 
-            player "I want you to be my girlfriend."
+            player "我要你做我的女朋友."
 
             scene a_love_5_12 with tstmgr
 
-            a "What? "
+            a "什么?"
 
             scene a_love_5_13 with tstmgr
 
-            a "Are you... serious about that?"
+            a "你是...认真的吗?"
 
-            player "I'm 100%% serious. "
+            player "我百分之百肯定."
 
-            player "What do you think?"
+            player "你觉得如何?"
 
-            a "I... I've never been in a relationship before. I don't know what it's like."
+            a "我...我从来没有爱上过一个男人.我不知道那是什么感觉."
 
             scene a_love_5_14 with tstmgr
 
-            a "But I do know one thing, that I can't imagine living in a life without you anymore."
+            a "但我知道一件事,我无法想象没有你的生活."
 
-            player "Is that a yes?"
+            player "是这样吗?"
 
             scene a_love_5_15 with tstmgr
 
-            "(Moaning) Emmm... ..."
+            "(呻吟)Emmm......"
 
-            a "Yes, it is."
+            a "是的."
 
-            player "So... what do we do now?"
+            player "所以...我们现在该怎么办?"
 
             a "... ... ... ..."
 
             scene a_love_5_16 with tstmgr
 
-            a "Whatever you say."
+            a "你说了算."
 
             scene void with dissolve
 
             player "... ... ... ..."
 
-            player "Come here."
+            player "过来."
 
             scene a_love_5_17 with longdissolve
 
-            a "Ouch, do you have to be so aggressive?"
+            a "哎呀,你非得这么霸道吗?"
 
-            player "Sorry, Vera. I just can't take it anymore."
+            player "对不起,薇拉.我再也忍不了了."
 
             scene a_love_5_18 with tstmgr
 
-            a "What's that hot stick on my butt?"
+            a "我屁股上的那根热热的棍子是什么?"
 
-            a "Is that your..."
+            a "是你的..."
 
-            a "I thought... we were going to have some foreplays before you... do that thing."
+            a "我以为...我们会有一些前戏的...做那件事之前."
 
-            player "Well, you are already wet as hell, so I think we can pass that."
+            player "Well,你已经湿透了,我想我们可以跳过前戏."
 
             scene a_love_5_19 with tstmgr
 
-            player "Did those kisses make you wet?"
+            player "那些吻把你弄湿了吗?"
 
-            a "I... I don't know..."
+            a "我...我不知道..."
 
-            player "Ha, you are even hornier than I thought."
+            player "Ha,你比我想象的还想要."
 
-            a "I'm not... ..."
+            a "我不是......"
 
             scene a_love_5_20 with tstmgr
 
-            player "Then how about this?"
+            player "那这个呢?"
 
             a "Awwww... ouch..."
 
             scene a_love_5_21 with tstmgr
 
-            a "No no no no, wait a minute. It can't get in! I'm not ready for this!"
+            a "不不不,等一下.它不能进去!我还没准备好!"
 
-            player "Your body begs to differ...it's opening up...do you trust me?"
+            player "你不记得了吗?它之前已经进入过你体内一次了."
 
             scene a_love_5_20 with tstmgr
 
-            a "I-I do...but...I...I need a moment to-"
+            a "等等,等等,等等..."
 
             scene a_love_5_22 with tstmgr
 
-            a "(Shrill moaning) YEEEEEEEEEE!!!... ..."
+            a "(尖锐的呻吟)YEEEEEEEEEE!!!......"
 
-            player "Ohhh... so tight..."
+            player "Uhhh...太紧了..."
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Vera. Just relax, and give yourself to me."
+            player "我会小心的,薇拉.放松点,把自己交给我."
 
-            a "I hate you... ..."
+            a "我讨厌你......"
 
             a "... ... ... ..."
 
             scene a_love_5_24 with tstmgr
 
-            a "Please... just be gentle."
+            a "请...温柔点."
 
             scene void with tstmgr
 
-            player "I will start to move."
+            player "我开始动了."
 
             scene a_love_5_25 with dissolve
             play sound a_love_5_25 loop
             pause
 
-            a "(Slightly moaning)Ahhh... ... ... ..."
+            a "(轻微的呻吟)Ehhh............"
 
-            a "Ohh...Emm...It's..."
+            a "Ohh...Emm...这..."
 
-            a "It is not as painful as I thought it would be."
+            a "这并不像我想象的那么痛苦."
 
-            player "See? Just take deep breaths and enjoy the most comfortable thing two adults can do together."
+            player "当然不会痛.我们现在所做的是成人世界中最舒服的事情."
 
             a "... ... ... ..."
 
@@ -233,23 +233,23 @@ label A_love_5:
             play sound a_love_5_26 loop
             pause
 
-            a "Ah... you are right. It actually feels good."
+            a "Ah...你是对的.感觉很好."
 
             a "Mmm... ..."
 
-            a "You know, you can... do it harder... if you want."
+            a "你知道,你可以...用力一点,如果你想的话."
 
-            player "As you wish, love."
+            player "如你所愿,亲爱的."
 
-            a "Lo... love?"
+            a "亲...亲爱的?"
 
-            player "Do you like me calling you that?"
+            player "你喜欢我这样称呼你吗?"
 
             a "... ... ... ..."
 
-            a "I like it..."
+            a "我喜欢..."
 
-            a "Please... love me more."
+            a "请...再多爱我一些."
 
             stop sound
             scene a_love_5_28 with tstmgr
@@ -265,29 +265,29 @@ label A_love_5:
             play sound a_love_5_27 loop
             pause
 
-            a "(Moaning with pleasure) Ah! ah! ah! ah! [P], [P]..."
+            a "(愉快地呻吟)Ah,ah,ah,ah,[P],[P]..."
 
-            a "I feel like I'm in heaven."
+            a "我觉得我在天堂."
 
             a "Ah... Ahhh... Yesss.. ... right...there..."
 
-            a "too deep, you are going... too deep. I can't..."
+            a "太深了,你弄得...太深了.我不能..."
 
-            player "Huhh... I'm about to cum, Vera."
+            player "Huhh...我快要射了,薇拉."
 
             scene a_love_5_29 with tstmgr
 
-            a "Wait, wait, don't push that hard!"
+            a "等等,等等,别那么用力!"
 
             scene a_love_5_30 with tstmgr
 
             a "Awwwwwwwwww!!!!!~~~~~"
 
-            "Vera convulsed wildly. She has reached the orgasm before I do."
+            "薇拉比我先达到高潮."
 
             "And... ..."
 
-            player "I'm cuming!!!"
+            player "我射了!!!"
 
             stop sound
             scene a_love_5_31 with tstmgr
@@ -297,7 +297,7 @@ label A_love_5:
 
             a "Owwwwwwwwwwwwwwww... ... ... ..."
 
-            "That was... hell of a creampie."
+            "这是一次绝妙的内射体验."
 
             a "[P]... ... ... ..."
 
@@ -307,145 +307,145 @@ label A_love_5:
 
             "... .... ... ... ... ..."
 
-            "Later tonight."
+            "今天晚些时候."
 
             scene a_love_5_32 with longdissolve
 
-            player "That was, fantastic."
+            player "这真是,妙不可言."
 
-            player "Are you alright, Vera?"
+            player "你还好吗,薇拉?"
 
             scene a_love_5_33 with tstmgr
 
-            a "I... I feel good..."
+            a "我...我感觉很好..."
 
-            a "It's indeed... the most comfortable thing in the adult world."
+            a "这真是...成人世界里最舒服的事情."
 
             scene a_love_5_34 with tstmgr
 
-            a "My belly... still feels warm."
+            a "我的小腹...还感觉热热的."
 
-            a "Your seed is in my body now..."
+            a "你的种子在我的身体里..."
 
-            player "Sorry, I should have cum outside."
+            player "对不起,我应该射在外面."
 
             scene a_love_5_35 with tstmgr
 
-            a "No need to say sorry. I am happy about it."
+            a "没必要说对不起.我很开心."
 
-            a "And it's my safe period, so don't worry."
+            a "而且这段时间是我的安全期,别担心."
 
-            player "Vera... ..."
+            player "薇拉......"
 
             scene a_love_5_36 with tstmgr
 
-            a "Time to sleep, [P]. Good night."
+            a "该睡觉了,[P].晚安."
 
-            player "Good night."
+            player "晚安."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "I want you (sex partner route)":
+        "我想要你(性伴侣路线)":
 
 
             $ A.relation = "sexpartner"
 
-            player "You know exactly what I want."
+            player "你知道我想要什么."
 
-            player "I want you."
+            player "我想要你."
 
             scene a_love_5_13 with tstmgr
 
-            a "You... ..."
+            a "你......"
 
-            player "You are expecting me to do this, aren't you? Just give in to your desire."
+            player "你希望我这么做,对吗?满足你的欲望."
 
-            a "What... are you talking about..."
+            a "你...在说什么..."
 
-            player "I just want to make you comfortable, nothing else."
+            player "我只是想让你舒服,没有别的意思."
 
-            a "I... I..."
+            a "我...我..."
 
             scene a_love_5_41 with tstmgr
 
-            a "(Moaning with surprise) Aww... ..."
+            a "(惊喜的呻吟)Aww......"
 
             scene a_love_5_42 with tstmgr
 
-            player "See, you are already wet. Your body is desiring me."
+            player "瞧,你已经湿透了.你的身体在渴望着我."
 
-            player "Is it because of those kisses?"
+            player "是因为那些吻吗?"
 
-            a "I... I don't know..."
+            a "我...我不知道..."
 
-            player "It's okay...just let your body take control."
+            player "Ha,你比我想象的还想要."
 
             scene a_love_5_41 with tstmgr
 
-            a "I'm not... ..."
+            a "我不是......"
 
             scene void with dissolve
 
-            player "Then maybe you need a little more...convincing."
+            player "那这个呢?"
 
             scene a_love_5_40 with longdissolve
 
-            a "Ouch, you are hurting me!"
+            a "Ouch,你弄疼我了!"
 
-            player "Sorry, Vera. I just can't take it anymore."
+            player "对不起,薇拉.我再也忍不了了."
 
             scene a_love_5_18 with tstmgr
 
-            player "Do you feel that hot stick on your butt?"
+            player "你感觉到了屁股上那根热热的棍子了吗?"
 
-            a "Is that your..."
+            a "是你的..."
 
             a "Awwww... ouch..."
 
             scene a_love_5_21 with tstmgr
 
-            a "No no no no, wait a minute. It can't get in! I'm not ready for this!"
+            a "不不不,等一下.它不能进去!我还没准备好!"
 
-            player "Your body begs to differ...it's opening up...do you trust me?"
+            player "你不记得了吗?它之前已经进入过你体内一次了."
 
             scene a_love_5_20 with tstmgr
 
-            a "Wait, wait, wait..."
+            a "等等,等等,等等..."
 
             scene a_love_5_22 with tstmgr
 
-            a "(Shrill moaning) YEEEEEEEEEE!!!... ..."
+            a "(尖锐的呻吟)YEEEEEEEEEE!!!......"
 
-            player "Uhhh... so tight..."
+            player "Uhhh...太紧了..."
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Vera. Just relax, and enjoy it."
+            player "我会小心的,薇拉.放松点,好好享受."
 
-            a "I hate you... ..."
+            a "我讨厌你......"
 
             a "... ... ... ..."
 
             scene a_love_5_24 with tstmgr
 
-            a "Please... ... just be gentle."
+            a "请...至少...温柔点."
 
             scene void with tstmgr
 
-            player "I will start to move."
+            player "我开始动了."
 
             scene a_love_5_25 with dissolve
             play sound a_love_5_25 loop
             pause
 
-            a "(Slightly moaning)Ahhh... ... ... ..."
+            a "(轻微的呻吟)Ehhh............"
 
             a "Ohh...Emm...It's..."
 
-            a "It is not as painful as I thought it would be."
+            a "这并不像我想象的那么痛苦."
 
-            player "See? Just take deep breaths and enjoy the most comfortable thing two adults can do together."
+            player "当然不会痛.我们现在所做的是成人世界中最舒服的事情."
 
             a "... ... ... ..."
 
@@ -454,21 +454,21 @@ label A_love_5:
             play sound a_love_5_26 loop
             pause
 
-            a "Ah... you are right. It actually feels good."
+            a "Ah...你是对的.感觉很好."
 
             a "Mmm... ..."
 
-            a "You know, you can... do harder, if you want."
+            a "你知道,你可以...用力一点,如果你想的话."
 
-            player "That's right Vera...Just let go...ahh...submit to your desire..."
+            player "Ha,已经开始屈从于你的欲望了吗?"
 
-            player "That's my good girl."
+            player "这才是我的好女孩."
 
-            a "Stop saying that..."
+            a "别说了..."
 
-            player "Be ready for the impact."
+            player "做好迎接冲击的准备."
 
-            a "What impact?"
+            a "什么冲击?"
 
             stop sound
             scene a_love_5_28 with tstmgr
@@ -480,27 +480,27 @@ label A_love_5:
             play sound a_love_5_27 loop
             pause
 
-            a "(Moaning with pleasure) Ah! ah! ah! [P], [P]..."
+            a "(愉快地呻吟)Ah,ah,ah,ah,[P],[P]..."
 
-            a "I feel like I am in heaven."
+            a "我觉得我在天堂."
 
             a "Ah... Ahhh... Ummm... ... Awww..."
 
-            a "too deep, you are going... too deep. I can't take it..."
+            a "太深了,你弄得...太深了.我承受不住了..."
 
-            player "Huhh... I'm about to cum, Vera."
+            player "Huhh...我快要射了,薇拉."
 
             scene a_love_5_29 with tstmgr
 
-            a "Ahh! If you go that hard I...I-I'm gonna!"
+            a "等等,等等,别那么用力!"
 
             scene a_love_5_30 with tstmgr
 
             a "Awwwww... ... ... ..."
 
-            "Vera convulsed wildly. She has reached the orgasm before I do."
+            "薇拉比我先达到高潮."
 
-            player "I'm cuming!!!"
+            player "我射了!!!"
 
             stop sound
             scene a_love_5_31 with tstmgr
@@ -510,7 +510,7 @@ label A_love_5:
 
             a "Owwwwwwwwwwwwwwww... ... ... ..."
 
-            "That was... one hell of a creampie."
+            "这真是...绝妙的内射."
 
             a "[P]... ... ... ..."
 
@@ -520,29 +520,29 @@ label A_love_5:
 
             "... .... ... ... ... ..."
 
-            "Later tonight."
+            "今天晚些时候."
 
             scene a_love_5_32 with longdissolve
 
-            player "Wow... that was, fantastic."
+            player "Wow...这真是,太爽了."
 
-            player "Are you alright, Vera?"
+            player "你还好吗,薇拉?"
 
             scene a_love_5_33 with tstmgr
 
-            a "I... I feel good..."
+            a "我...我感觉很好..."
 
-            a "It's indeed... the most comfortable thing in the adult world."
+            a "这真是...成人世界里最舒服的事情."
 
             scene a_love_5_34 with tstmgr
 
-            a "My belly... still feels warm."
+            a "我的小腹...还感觉热热的."
 
-            a "Your seed is in my body now..."
+            a "你的种子在我的身体里..."
 
-            player "Sorry, I should have cum outside."
+            player "对不起,我应该射在外面."
 
-            player "I will bring you some pills tomorrow."
+            player "我明天给你带些药来."
 
             scene a_love_5_39 with tstmgr
 
@@ -552,25 +552,25 @@ label A_love_5:
 
             scene a_love_5_38 with tstmgr
 
-            a "Are you going back to your room tonight?"
+            a "你今晚回你的房间吗?"
 
-            player "Do you want me to stay here?"
+            player "你想我留在这里吗?"
 
             scene a_love_5_37 with tstmgr
 
             a "... ... ... ..."
 
-            player "Okay, I will stay here with you."
+            player "Okay,我在这陪你."
 
             scene a_love_5_35 with tstmgr
 
-            a "Thank you, [P]."
+            a "谢谢你,[P]."
 
             scene a_love_5_36 with tstmgr
 
-            a "Good night..."
+            a "晚安..."
 
-            player "Good night."
+            player "晚安."
 
             scene void with tstmgr
 

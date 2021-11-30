@@ -2,33 +2,33 @@ label store_2_chat_3:
 
     scene store_2_chat_3_1 with tstmgr
 
-    player "Why did you bring so many cheongsams with you?"
+    player "你为什么带了这么多旗袍来?"
 
 
 
     scene store_2_chat_3_2 with tstmgr
 
-    "Lady Minna" "I planned to send them to my friends around this country, but if you want, I will give you a fair discount~"
+    "明娜夫人""我本来打算把它们送给我全国各地的朋友,但如果你想要的话,我可以给你一个合理的折扣~"
 
 
 
-    player "Eh... thanks... ..."
+    player "Eh...谢谢......"
 
 
 
     scene store_2_chat_3_3 with tstmgr
 
-    "Lady Minna" "But what do you need cheongsams for? They are for girls."
+    "明娜夫人""但是你要旗袍做什么呢?它们是女孩子穿的."
 
 
 
-    player "Eh... ... Sending them... to my friends?"
+    player "Eh......把它们...送给我的朋友?"
 
 
 
     scene store_2_chat_3_4 with tstmgr
 
-    "Lady Minna" "Humph~ I see... ..."
+    "明娜夫人""Humph~我明白了......"
 
 
 

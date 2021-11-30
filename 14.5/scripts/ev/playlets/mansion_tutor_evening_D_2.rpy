@@ -2,21 +2,21 @@ label mansion_tutor_evening_D_2:
 
     scene rcsj_d14 with tstmgr
 
-    d "Ahhhh... ... I am tired."
+    d "Ahhhh......我累了."
 
 
 
-    d "Can I take a break? I want to have a nap."
+    d "我可以休息一下吗?我想小睡一会儿."
 
 
 
-    player "But your classmates are all working hard while you are taking rests."
+    player "但是你休息的时候,你的同学都在努力学习."
 
 
 
     scene rcsj_d13 with tstmgr
 
-    d "Huh, you sound like my mom."
+    d "Huh,你说话像我妈妈."
 
 
 

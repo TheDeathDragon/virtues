@@ -2,11 +2,11 @@ label d2_5:
 
     scene void with tstmgr
 
-    "I returned to my hotel room at late night."
+    "我深夜回到旅馆房间."
 
 
 
-    "I’m quite tired today, so I decided to sleep earlier. I lied on my bed and let my mind wander... ..."
+    "我今天很累,所以我决定早点睡.我躺在床上胡思乱想......"
 
 
 
@@ -14,43 +14,43 @@ label d2_5:
 
 
 
-    "When will I eventually find my true love?"
+    "我什么时候才能找到我的真爱?"
 
 
 
-    "Senning’s picture suddenly came up in my head."
+    "森柠的模样突然出现在我的脑海里."
 
 
 
     scene d2_5_1 with tstmgr
 
-    "Senning, that lovely long-hair girl... ... We are close friends and she seems to like me. Should I go after her?"
+    "森柠,那个可爱的长发女孩...我们是亲密的朋友,她似乎喜欢我.我选择她吗?"
 
 
 
-    "Yeah, I think I should go after her and I should do it quick. She has a lot of pursuers. I’d better be hurry or someone else may take the chance."
+    "Yeah,我想我应该去追她,而且要快.她有很多追求者.我最好快点,不然要被人捷足先登了."
 
 
 
-    "But... ... ... ..."
+    "但是............"
 
 
 
     scene d2_5_2 with tstmgr
 
-    "Can I really let go of Theodora?"
+    "我真的能放下狄奥多拉吗?"
 
 
 
-    "That sexy silver-hair girl... ... Although sometimes she is cold and mean, she still has a soft side and I just saw it today. That was... amazing... ..."
+    "那个性感的银发女孩......虽然有时她很冷漠和刻薄,但她也有温柔的一面,我今天才看到.真是...令人惊异......"
 
 
 
-    "No... no... I can’t just let go of her."
+    "No...no...我不能就这么放手."
 
 
 
-    "Sigh... ... It will be so great if I can have them both... ..."
+    "唉...如果我能两个都要就太好了......"
 
 
 
@@ -58,49 +58,49 @@ label d2_5:
 
 
 
-    "Have them... both?"
+    "两个...都要?"
 
 
 
-    "Like having a harem? But... is it even possible?"
+    "就像有个后宫?但是...这可能吗?"
 
 
 
-    "Sigh... I guess I can achieve that in my dream tonight... ... ... ..."
+    "唉...我想我能在今晚的梦中实现............"
 
 
 
     scene void with tstmgr
 
-    "Suddenly, my phone started ringing."
+    "突然,我的电话响了起来."
 
 
 
-    player "Hmmmmm? Who is this?"
+    player "Hmmmmm?谁?"
 
 
 
-    "Jake" "Hey my man, it’s me, Jake. I'm holding a party tomorrow night at Citidal Nightclub. Do you wanna come?"
+    "杰克""Hey老兄,是我,杰克.明晚我要在西蒂尔夜店举办一个派对.你想来吗?"
 
 
 
-    "Jake, a good friend of mine."
+    "杰克,我的一个好朋友."
 
 
 
-    "Tomorrow night? Well, I do have time tomorrow."
+    "明天晚上吗?嗯,我明天有时间."
 
 
 
-    player "Fine, I will be there."
+    player "好的,我会去的."
 
 
 
-    "Jake" "Good, see you there."
+    "杰克""好,到时候见."
 
 
 
-    player "See ya."
+    player "再见."
 
 
 
@@ -108,19 +108,19 @@ label d2_5:
 
 
 
-    "Citidal Nightclub is the coolest club in this city and it is the best place to meet girls. You can find all kinds of beauties there."
+    "西蒂尔夜店是这个城市最酷的俱乐部,也是认识女孩的最好地方.在那里你可以看到各种各样的美女."
 
 
 
-    "Maybe tomorrow I can find myself another wonderful one-night-stand there? That will be a good way to solve my sex desire so I won’t have those mad pictures about harem things in my head again."
+    "也许明天我就能在那里为自己找到另一个美妙的一夜情?这将是一个解决我性欲的好方法,这样我就不会再脑海中浮现那些关于后宫的疯狂画面了."
 
 
 
-    "Yeah... that sounds good..."
+    "Yeah...听起来不错..."
 
 
 
-    "Anyway, I'd better go to bed for now. Let's see what will happen tomorrow."
+    "无论如何,我最好现在就上床睡觉.让我们看看明天会发生什么."
 
 
 

@@ -2,33 +2,33 @@ label downtown_afternoon_C_2:
 
     scene void with tstmgr
 
-    "Theodora took me to downtown in the afternoon."
+    "狄奥多拉下午带我去了市中心."
 
 
 
     scene downtown_afternoon_c_1_1 with tstmgr
 
-    player "So... ... What are we doing here?"
+    player "所以...我们在这里干什么?"
 
 
 
-    c "Nothing, I was just tired of working, so decided to get some fresh air outside."
+    c "没什么,我只是厌倦了工作,所以决定出去呼吸一下新鲜空气."
 
 
 
-    player "But why do I have to come with you?"
+    player "但是为什么要我和你一起去呢?"
 
 
 
-    c "Because I don't want to go shopping alone."
+    c "因为我不想一个人去购物."
 
 
 
-    c "I need a guy to carry my bags."
+    c "我需要一个人帮我拿东西."
 
 
 
-    player "Will I get paid for this? A kiss will do."
+    player "我能得到报酬吗?一个吻就够了."
 
 
 
@@ -36,7 +36,7 @@ label downtown_afternoon_C_2:
 
 
 
-    c "It depends on your performance. Trying to please me if you can, my Mr. Fiance."
+    c "这取决于你的表现.如果你能让我高兴的话,我的未婚夫."
 
 
 

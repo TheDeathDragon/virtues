@@ -3,7 +3,7 @@ label A_train_sub_1:
     scene void with tstmgr
     play music happy
 
-    "On a Saturday morning..."
+    "在一个周六上午..."
 
 
 
@@ -11,23 +11,23 @@ label A_train_sub_1:
 
     $ flashlight()
 
-    a "Awwwwwww~~~~ It’s morning already~"
+    a "Awwwwwww~~~~已经早上了~"
 
 
 
-    a "Today is a sunny day, great!~"
+    a "今天是一个阳光灿烂的日子,太好了!~"
 
 
 
     scene a_train_sub_1_2 with tstmgr
 
-    a "And I’m having a day-off for today, even greater!~"
+    a "我今天还放假了,更爽!~"
 
 
 
     scene a_train_sub_1_3 with tstmgr
 
-    a "Oh, it’s time to make breakfast~"
+    a "Oh,该做早餐了~"
 
 
 
@@ -49,7 +49,7 @@ label A_train_sub_1:
 
     scene a_train_sub_1_6 with tstmgr
 
-    a "No, maybe I should dress in a different style for today."
+    a "No,也许我今天应该穿不同的款式."
 
 
 
@@ -59,23 +59,23 @@ label A_train_sub_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene a_train_sub_1_7 with dissolve
 
-    a "Ah-hah~ This will do. [P] once said that he’d like to see me wearing the maid suit in the house. He must will be happy when he sees this."
+    a "Ah-hah~这样就可以了.[P]有一次他说他想看我在家里穿女仆装.他看到这些一定会很高兴."
 
 
 
     scene a_train_sub_1_8 with tstmgr
 
-    a "Awww... This dress is getting tighter for me. I should go ask for a bigger one the next time I go to the cafe for work."
+    a "Awww...这件衣服我穿得越来越紧了.下次我去咖啡馆上班的时候,我应该去要一个大点的."
 
 
 
-    a "Now I should go wake him up~"
+    a "现在我该去叫醒他了~"
 
 
 
@@ -85,7 +85,7 @@ label A_train_sub_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
@@ -95,7 +95,7 @@ label A_train_sub_1:
 
 
 
-    a "Hum~~ Sleepy head."
+    a "Hum~~瞌睡虫."
 
 
 
@@ -113,7 +113,7 @@ label A_train_sub_1:
 
     scene a_train_sub_1_12 with tstmgr
 
-    a "Wake up, honey~"
+    a "醒醒,亲爱的~"
 
 
 
@@ -121,11 +121,11 @@ label A_train_sub_1:
 
 
 
-    a "It’s almost noon~"
+    a "快中午了~"
 
 
 
-    player "What... Zzzzz... zzz... zzzzz... ..."
+    player "什么...Zzzzz...zzz...zzzzz......"
 
 
 
@@ -163,37 +163,37 @@ label A_train_sub_1:
 
     scene a_train_sub_1_16 with tstmgr
 
-    player "*Opening eyes* What’s so soft... ..."
+    player "*睁眼*什么东西好软......"
 
 
 
     scene a_train_sub_1_17 with tstmgr
 
-    a "Ah~ You are finally awake."
+    a "Ah~你终于醒了."
 
 
 
-    player "Vera? What’s with the dress?"
+    player "薇拉?这条裙子是怎么回事?"
 
 
 
     scene a_train_sub_1_18 with tstmgr
 
-    a "You said you like it, right? I have a day off today and I can be in this dress for the entire day if you like~"
+    a "你说过你喜欢,对吧?我今天休息一天,如果你愿意,我可以一整天都穿着这条裙子~"
 
 
 
-    player "So you will be my exclusive housemaid for today?"
+    player "所以你是我今天的专属女佣?"
 
 
 
     scene a_train_sub_1_20 with tstmgr
 
-    a "Ummmmm? Eh... I, I think so?"
+    a "Ummmmm?Eh...我想是的?"
 
 
 
-    player "Oh girl, this is going to so great~"
+    player "Oh女孩,这一定会很棒的~"
 
 
 
@@ -203,7 +203,7 @@ label A_train_sub_1:
 
 
 
-    a "So... ... what should I do? As a housemaid..."
+    a "所以...我该怎么做?作为一个女仆..."
 
 
 
@@ -214,10 +214,10 @@ label A_train_sub_1:
     label A_train_sub_1_choice_1:
 
     menu:
-        "Be a good master":
+        "做一个好主人":
 
 
-            player "Don’t take it serious, girl. I’m not gonna order you to do anything. This is a rare day of leisure for you. You can do whatever you want."
+            player "别太认真了,女孩.我不会命令你做任何事.这是你难得的一天空闲时间.你可以做任何你想做的事."
 
             scene a_train_sub_1_17 with tstmgr
 
@@ -225,75 +225,75 @@ label A_train_sub_1:
 
             scene a_train_sub_1_18 with tstmgr
 
-            a "Okay then, master~ Let me start with the wake-up service~"
+            a "好吧,主人~让我从叫醒服务开始吧~"
 
-            "She suddenly took off my pants. The erected huge penis of mine popped out and made her groan with surprise a little bit."
+            "她突然脱下了我的裤子.我那竖起来的巨大阴茎突然冒了出来,让她惊讶地叫了一下."
 
             scene a_train_sub_1_21 with tstmgr
 
-            a "Poor master, it must be hard to carry this huge thing with you everyday~"
+            a "可怜的主人,每天带着这么大的东西一定很辛苦吧~"
 
-            a "Let me... help you with it~"
+            a "让我...帮帮你~"
 
             scene a_train_sub_1_22 with tstmgr
 
-            a "I will treat it with love and care. Look, it seems to be even more excited when it touches my breast~"
+            a "我会用爱和关心来照料它.看,当它碰到我的胸部时似乎更兴奋~"
 
             scene a_train_sub_1_23 with tstmgr
 
-            a "Ah~ yes, a morning kiss from my nipple~"
+            a "Ah~yes,来自我乳头的晨吻~"
 
-            player "Lucky for him. I wish I can have a morning kiss like that too."
+            player "它真幸运.我也希望能有这样的晨吻."
 
-            a "Everyone will get his chance, just be patient~"
+            a "都会有机会的,耐心点~"
 
             scene a_train_sub_1_24 with tstmgr
 
-            a "Awww~ My nipple is getting hard... ... It feels a little hurt to have your glans against it~"
+            a "Awww~我的乳头越来越硬了......用你的龟头顶着它会有点疼~"
 
             scene a_train_sub_1_25 with tstmgr
 
-            a "Let’s try the other one now. The other one... needs your contact too~"
+            a "现在让我们试试另一个.另一个...也需要关心~"
 
-            player "It would be best if a man can have two dicks..."
+            player "一个男人最好有两个鸡巴..."
 
-            a "That sounds... ... horror, master."
+            a "这听起来...很恐怖,主人."
 
-            a "I will have to spend double time on making them cum. That must be annoying."
+            a "我得花双倍的功夫让它们射精.那一定很烦人."
 
             scene a_train_sub_1_27 with tstmgr
 
             player "... ... ... ..."
 
-            player "You are right~ One is enough~"
+            player "你说得对,一个就够了~"
 
             scene a_train_sub_1_26 with tstmgr
 
-            a "Now, let me see how long it will take me to make it cum~"
+            a "现在,让我看看我要多久才能让它射出来~"
 
             scene a_train_sub_1_28 with tstmgr
 
-            player "Don’t worry, Vera. I am not a bad master who only asks for service. I will help you with it~"
+            player "别担心,薇拉.我不是只要求服务的坏主人.我也会帮你弄的~"
 
             a "Awwwww~ [P]~~"
 
             scene a_train_sub_1_29 with tstmgr
 
-            player "Oh girl... I’m sure that your boobs have got heavier than before..."
+            player "Oh女孩...我肯定你的胸部比以前更大了..."
 
-            a "I... used to only eat frozen food when I lived in my slum apartment alone, but now I... eat better, thanks to you."
+            a "我...以前我一个人住在贫民窟的公寓里只吃冷冻食品,但现在我...吃得更好,多亏了你."
 
-            a "Better nutrition... made boobs grow better~"
+            a "更好的营养...让胸部长得更好~"
 
-            player "It's so happy to hear that~"
+            player "听你这么说真高兴~"
 
             scene a_train_sub_1_30 with tstmgr
 
-            player "Now let my dick feel the growth of them... ..."
+            player "现在让我的鸡巴感受它们的成长......"
 
             scene a_train_sub_1_31 with tstmgr
 
-            a "Awwwww... ... Hot penis... is in my cleavage~"
+            a "Awwwww......火热的鸡巴...在我的乳沟里~"
 
             scene a_train_sub_1_32 with tstmgr
 
@@ -307,15 +307,15 @@ label A_train_sub_1:
 
             pause
 
-            player "Damn this feels good~"
+            player "该死,这感觉真好~"
 
             scene a_train_sub_1_33 with tstmgr
 
             $ flashlight()
 
-            player "Now take this!"
+            player "就这样!"
 
-            a "Awwwwwwww~~~~ Yes, yes, fuck my breasts like that~"
+            a "Awwwwwwww~~~~Yes,yes,就这样操我的胸~"
 
             scene a_train_sub_1_32 with tstmgr
 
@@ -327,7 +327,7 @@ label A_train_sub_1:
 
             scene a_train_sub_1_32 with tstmgr
 
-            a "You are... pushing my breasts so hard~"
+            a "你...好用力的在插我的胸~"
 
             scene a_train_sub_1_31 with tstmgr
 
@@ -335,11 +335,11 @@ label A_train_sub_1:
 
             scene a_train_sub_1_32 with tstmgr
 
-            a "Master... ... master... ... I can... I can feel the rage of your penis... ..."
+            a "主人...主人...我可以...我能感觉到你鸡巴的愤怒......"
 
             scene a_train_sub_1_33 with tstmgr
 
-            player "Ohhhhhhh shit!!!! I’m cumming!!!!"
+            player "Ohhhhhhhshit!!!!我要射了!!!!"
 
             scene a_train_sub_1_34 with tstmgr
 
@@ -347,23 +347,23 @@ label A_train_sub_1:
 
             pause
 
-            "My fluid busted out from my dick like a white fountain. At the same time Vera lowered her head and accepted all the shooting flow in her mouth."
+            "我的精液像白色喷泉一样从鸡巴里喷出来.与此同时,薇拉低下了头,用嘴接住了所有的精液."
 
             scene a_train_sub_1_35 with tstmgr
 
-            a "So... ... sticky... ..."
+            a "好......黏......"
 
-            player "Vera... That was amazing... ..."
+            player "薇拉...这太爽了......"
 
             scene a_train_sub_1_36 with tstmgr
 
-            a "I’m glad you like my service, master~"
+            a "很高兴你喜欢我的服务,主人~"
 
-            a "Now you should get up. I will go prepare the breakfast for you."
+            a "现在你该起床了.我去给你准备早餐."
 
-            player "What are you talking about? We haven’t done yet. I can’t be the only one who got satisfied."
+            player "你在说什么?我们还没做完呢.我不能一个人爽."
 
-            player "It’s time for me to serve you now."
+            player "现在是我为你服务的时候了."
 
             scene a_train_sub_1_37 with tstmgr
 
@@ -373,39 +373,39 @@ label A_train_sub_1:
 
             a "... ... ... ..."
 
-            a "Please... caress me with your penis~"
-        "Be a bad master":
+            a "请...用你的鸡巴疼爱我~"
+        "做一个坏主人":
 
 
 
 
 
 
-            player "You shouldn’t even ask, little maid."
+            player "你甚至都不该问,小女仆."
 
             scene a_train_sub_1_48 with tstmgr
 
-            player "Can’t you see the erected huge thing in my pants? It’s your responsibility to make it calm. Now be quick."
+            player "你没看到我裤子里竖起来的大东西吗?你有责任让它平静下来.快点."
 
-            a "Awwwwww... ... You sound like a different person. I’m on it, please don’t get mad at me!"
+            a "Awwwwww......你听起来像变了个人.我马上就做,请别生我的气!"
 
             scene a_train_sub_1_21 with tstmgr
 
-            a "I'll try calm it down right now, master."
+            a "我现在就试着让它平静下来,主人."
 
             scene a_train_sub_1_22 with tstmgr
 
-            a "I will treat it with love and care. Look, it seems to be even more excited when it touches my breast~"
+            a "我会用爱和关心来照料它.看,当它碰到我的胸部时似乎更兴奋~"
 
             scene a_train_sub_1_23 with tstmgr
 
-            a "Look, master, a morning kiss from my nipple~"
+            a "看,主人,来自我乳头的晨吻~"
 
             player "... ... ... ..."
 
             scene a_train_sub_1_24 with tstmgr
 
-            a "Awww~ My nipple is getting hard... ... It feels a little hurt to have your glans against it~"
+            a "Awww~我的乳头越来越硬了......用你的龟头顶着它会有点疼~"
 
             player "... ... ... ..."
 
@@ -413,11 +413,11 @@ label A_train_sub_1:
 
             $ flashlight()
 
-            a "Yaaaaah~ What are you doing?"
+            a "Yaaaaah~你在干什么?"
 
-            player "The stimulation is not enough. It’s gonna take years to make me cum."
+            player "这种刺激是不够的.不然我要花好几年才能射精."
 
-            player "Now I don’t need your service anymore, little maid. I will operate these fun bags myself~"
+            player "现在我不需要你的服务了,小女仆.我要自己玩这些好玩的馒头~"
 
             scene a_train_sub_1_39 with tstmgr
 
@@ -427,41 +427,41 @@ label A_train_sub_1:
 
             scene a_train_sub_1_40 with tstmgr
 
-            a "Fun... bags... ... That’s so rude, master... ..."
+            a "好玩的...馒头......这太粗鲁了,主人......"
 
-            a "But... ... as you wish, please feel free to use them to... have fun~"
+            a "但是...如你所愿,请随意使用它们来...玩得开心~"
 
             scene a_train_sub_1_41 with tstmgr
 
-            player "I will, Vera. Now get over here so I can place my dick in your cleavage~"
+            player "我会的,薇拉.过来点,我好把鸡巴插进你的乳沟里~"
 
-            a "Awwwwwww... You are pulling my nipples apart~~~"
+            a "Awwwwwww...你都快把我的乳头扯掉了~~~"
 
             scene a_train_sub_1_42 with tstmgr
 
-            player "Ha, can you feel how hard my dick is?"
+            player "Ha,你能感觉到我的鸡巴有多硬吗?"
 
-            a "Yes~ it is as hard as my nipples~"
+            a "Yes~跟我的乳头一样硬~"
 
-            player "And now... ..."
+            player "那么现在......"
 
             scene a_train_sub_1_43 with tstmgr
 
             $ flashlight()
 
-            player "Let's pull them together~"
+            player "让我们把它们拉在一起~"
 
             a "Owwwwwwwwww!!!!~~~"
 
-            player "Does it hurt much when I drag your nipples like this, Vera?"
+            player "我这样拽你的乳头疼吗,薇拉?"
 
             scene a_train_sub_1_44 with tstmgr
 
             a "... ... ... ..."
 
-            a "You must be the baddest master in the world~"
+            a "你一定是世界上最坏的主人了~"
 
-            a "But... maybe that’s why I like you. It actually feels good~"
+            a "但是...也许这就是我喜欢你的原因.这感觉很好~"
 
             scene a_train_sub_1_45 with tstmgr
 
@@ -473,49 +473,49 @@ label A_train_sub_1:
 
             scene a_train_sub_1_45 with tstmgr
 
-            a "Up and down~ Up and down~"
+            a "上上下下~上上下下~"
 
             scene a_train_sub_1_44 with tstmgr
 
-            a "Awwww~ I can’t feel my nipples anymore~"
+            a "Awwww~我的乳头都没感觉了~"
 
             scene a_train_sub_1_45 with tstmgr
 
-            a "I can only feel... the rage of your penis... and the fun... ..."
+            a "我只能感觉到...你鸡巴的愤怒...和好玩的......"
 
             scene a_train_sub_1_44 with tstmgr
 
-            a "You are right, master~ They are really... bags of fun~"
+            a "你是对的,主人~它们真的是...好玩的馒头~"
 
-            player "Vera, you are priceless as a housemaid..."
+            player "薇拉,你真是天生做女仆的料..."
 
             scene a_train_sub_1_46 with tstmgr
 
-            player "Ohhhhhhh shit!!!! I can’t hold myself anymore! I’m cumming!!!!"
+            player "Ohhhhhhhshit!!!!我再也控制不住自己了!我要射了!!!!"
 
-            a "Already? Yes, yes, cum in my bags~"
+            a "要射了?Yes,yes,射在我的馒头上~"
 
             scene a_train_sub_1_47 with tstmgr
 
             $ flashlight()
 
-            "My fluid busted out from my dick like a white fountain. At the same time Vera lowered her head and accepted all the shooting flow in her mouth."
+            "我的精液像白色喷泉一样从鸡巴里喷出来.与此同时,薇拉低下了头,用嘴接住了所有的精液."
 
             scene a_train_sub_1_35 with tstmgr
 
-            a "So... ... sticky... ..."
+            a "好......黏......"
 
-            player "Vera... That was amazing... ..."
+            player "薇拉...这太爽了......"
 
             scene a_train_sub_1_36 with tstmgr
 
-            a "I’m glad my lewd boobs... really brought you some fun, master~"
+            a "我很高兴我淫荡的胸部...能给你带来了这么多的乐趣,主人~"
 
-            a "Now you should get up. I will go prepare the breakfast for you."
+            a "现在你该起床了.我去给你准备早餐."
 
-            player "What are you talking about? We haven’t done yet. I can’t be the only one who got satisfied."
+            player "你在说什么?我们还没做完呢.我不能一个人爽."
 
-            player "It’s time for me to serve you now."
+            player "现在是我为你服务的时候了."
 
             scene a_train_sub_1_37 with tstmgr
 
@@ -525,25 +525,25 @@ label A_train_sub_1:
 
             a "... ... ... ..."
 
-            a "Please... caress me with your... ... fun stick~"
+            a "请...用你......有趣的肉棒...爱抚我~"
 
 
 
     scene a_train_sub_1_49 with tstmgr
 
-    "Vera then crawled on my body and located her pussy to my dick obediently."
+    "然后,薇拉爬到我身上,乖乖地把她的小穴抵在我的鸡巴上.."
 
 
 
-    a "It is still so hard after cumming~ Master, you are so strong..."
+    a "射了之后还是那么硬~主人,你好猛..."
 
 
 
-    player "Because... ..."
+    player "因为......"
 
 
 
-    player "Damn, Vera, do you have any idea about how sexy these hanging tits of yours are?"
+    player "Damn,薇拉,你知不知道你吊着的奶子有多性感?"
 
 
 
@@ -553,27 +553,27 @@ label A_train_sub_1:
 
 
 
-    a "Ohhhhhh... Master... ... I love the way you suck my nipple~"
+    a "Ohhhhhh...主人...我喜欢你吸我乳头的方式~"
 
 
 
-    player "Tits and nipples... sip~ sip~... ... made this world a better place... ... siip~ sip~"
+    player "奶子和乳头...sip~sip~......让这个世界变得更美好......siip~sip~"
 
 
 
-    a "Unfortunately... there won’t be any milk coming out no matter how hard you try~"
+    a "不幸的是...无论你怎么努力,都吸不出奶来~"
 
 
 
     scene a_train_sub_1_51 with tstmgr
 
-    player "I’m not really seeking for milk, but... you were wrong. You will eventually have milk if I try hard enough..."
+    player "我不是真的想要奶,而且...你这么说的话那你就大错特错了.如果我足够努力,你最终会有奶的..."
 
 
 
     scene a_train_sub_1_52 with tstmgr
 
-    player "Not on sucking, but on fucking!~"
+    player "不是吸,是操!~"
 
 
 
@@ -585,15 +585,15 @@ label A_train_sub_1:
 
 
 
-    a "Master’s penis... is inside me... ..."
+    a "主人的鸡巴...在我的......"
 
 
 
-    "Vera moaned out dramatically as I sticked my dick into her deep."
+    "当我把我的鸡巴插进薇拉的深处时,她戏剧性地呻吟了一声."
 
 
 
-    player "Let’s make a baby, my little maid~"
+    player "让我们生个孩子吧,我的小女仆~"
 
 
 
@@ -603,31 +603,31 @@ label A_train_sub_1:
 
 
 
-    a "Uhhhhh~~~ hhhh~~~ master~~~ mighty master~~~"
+    a "Uhhhhh~~~hhhh~~~主人~~~好厉害的主人r~~~"
 
 
 
-    a "Yes, just like that~~ hit me with that dick... ..."
+    a "Yes,就像这样~~用鸡巴狠狠的操我......"
 
 
 
-    a "Awwwwww... ... master’s mighty dick~~~"
+    a "Awwwwww......主人的大鸡巴~~~"
 
 
 
-    player "Such a horny maid you are... ..."
+    player "你真是个淫荡的女仆......"
 
 
 
-    player "Promise me that you will never reveal this side to another man. You are my exclusive horny maid!"
+    player "答应我,你永远不会把这一面展现给其他男人.你是我的专属淫荡女仆!"
 
 
 
-    a "As long as... you don’t get tired of me~"
+    a "只要...你不厌倦我~"
 
 
 
-    player "Get tired of you? What are you talking about?"
+    player "厌倦你?你在说什么?"
 
 
     stop sound
@@ -637,23 +637,23 @@ label A_train_sub_1:
 
 
 
-    a "No... nothing... ... I was just... ... Ohhhhhhh~~~"
+    a "不...没有什么...我只是......Ohhhhhhh~~~"
 
 
 
-    a "I will... always be your horny maid!!!~~~~"
+    a "我会...永远做你的淫荡女仆!!!~~~~"
 
 
 
-    a "I will... ... bounce my tits only for you, wetting my pussy only for you, moan only for you!~~~~"
+    a "我会...只为你晃我的奶子,我的小穴只为你而湿,只为你呻吟!~~~~"
 
 
 
-    player "Awwww... Vera, how lucky I am to have you in my life... ..."
+    player "Awwww...薇拉,有你在我生命中是多么幸运......"
 
 
 
-    a "I... am the lucky one... ..."
+    a "我...我才是幸运的那个......"
 
 
     stop sound
@@ -663,27 +663,27 @@ label A_train_sub_1:
 
 
 
-    a "Awww~~ www~~ uuuwwww~~~ love~~~ [P]~~~"
+    a "Awww~~www~~uuuwwww~~~爱~~~[P]~~~"
 
 
 
-    a "Don’t~~~ Awwwwww~~~ Please don’t... get tired of... ... me... ..."
+    a "不要~~~Awwwwww~~~请不要...厌倦......我......"
 
 
 
-    a "Mast... t... ter... ... ... ..."
+    a "主...主...人............"
 
 
 
-    player "Vera... You are being nonsense. How will I ever get tired of you?"
+    player "薇拉...你在胡说什么呢.我怎么会厌倦你呢?"
 
 
 
-    player "Now get ready for my seed!"
+    player "现在准备好接收我的种子吧!"
 
 
 
-    a "I’m... ... ohhhhh~~ master~~ good master~~~~~~~"
+    a "我......ohhhhh~~主人~~好棒的主人~~~~~~~"
 
 
     stop sound
@@ -697,15 +697,15 @@ label A_train_sub_1:
 
 
 
-    "She had an intensive orgasm as soon as I loaded all the hot sperms into her deepest... ..."
+    "当我把所有滚烫的精液射进她最深的部位时,她达到了强烈的高潮......"
 
 
 
-    a "So... ... so much... Master's seed... Thanks for giving your little maid so much seed generously..."
+    a "好...好多...主人的种子...谢谢你慷慨地射给你的小女仆这么多种子..."
 
 
 
-    player "Vera, you are just amazing... ..."
+    player "薇拉,你真是太棒了......"
 
 
 
@@ -715,17 +715,17 @@ label A_train_sub_1:
 
 
 
-    player "Eh... ... I thought you were here to get me up~"
+    player "Eh......我以为你是来叫我起床的~"
 
 
 
-    a "I... I think we both need... another hour of sleep... ... Master... ..."
+    a "我...我想我们都需要...再睡一个小时......主人......"
 
 
 
     scene a_train_sub_1_59 with tstmgr
 
-    player "Whatever you say, honey~ Whatever you say... ..."
+    player "都依你,亲爱的~都依你......"
 
 
 

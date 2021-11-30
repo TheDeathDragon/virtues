@@ -4,23 +4,23 @@ label D_train_inti_1:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, after the school was over..."
+    "下午,放学后..."
 
 
 
     scene d_train_inti_1_1 with tstmgr
 
-    "Girl A" "Irene, do you want to come to my home today? I just bought a lot of great mangas, we can read together~"
+    "女孩A""艾琳,你今天想来我家吗?我刚买了很多很棒的漫画书,我们可以一起看~"
 
 
 
-    d "Oh, I’d love to~"
+    d "Oh,我很乐意~"
 
 
 
     scene d_train_inti_1_2 with tstmgr
 
-    "Suddenly, someone put a hand on Irene’s shoulder..."
+    "突然,有人把手放在了艾琳的肩上..."
 
 
 
@@ -28,7 +28,7 @@ label D_train_inti_1:
 
 
 
-    player "Hi there, little princess~"
+    player "Hi,小公主~"
 
 
 
@@ -40,29 +40,29 @@ label D_train_inti_1:
 
     scene d_train_inti_1_4 with tstmgr
 
-    d "Sorry, maybe another time. My boyfriend is here to bring me home~"
+    d "对不起,下次吧.我男朋友来接我回家了~"
 
 
 
-    "Girl A" "Boyfriend? Wow... ..."
+    "女孩A""男朋友?Wow......"
 
 
 
-    "Girl A" "Sigh... ... When will I get my first boyfriend... ..."
+    "女孩A""唉......我什么时候会有男朋友......"
 
 
 
-    d "I'm sure you will soon~"
+    d "我相信你很快就会有的~"
 
 
 
-    "Girl A" "You should teach me some tricks about how to get a boyfriend, Irene."
+    "女孩A""艾琳,你应该教我一些找男朋友的技巧."
 
 
 
     scene d_train_inti_1_5 with tstmgr
 
-    d "Humph humph~ You are asking the right person. I can write a whole book about it. That’s why I can get such a perfect boyfriend, right, [P]?"
+    d "Humphhumph~你问对人了.我可以写一本关于它的书.所以我才会有这么完美的男朋友,对吧,[P]?"
 
 
 
@@ -72,21 +72,21 @@ label D_train_inti_1:
 
     scene d_train_inti_1_6 with tstmgr
 
-    "Girl A" "So have you had sex yet? How does he perform on bed?"
+    "女孩A""所以你们做爱了吗?他在床上表现如何?"
 
 
 
-    "Hah? What’s wrong with kids these days?"
+    "Hah?现在的孩子都怎么了?"
 
 
 
     scene d_train_inti_1_7 with tstmgr
 
-    d "We even tried anal sex~"
+    d "我们甚至尝试过肛交~"
 
 
 
-    "Girl A" "Really? Wow... You must be the coolest girl in the school!"
+    "女孩A""真的?Wow...你一定是学校里最酷的女孩了!"
 
 
 
@@ -98,11 +98,11 @@ label D_train_inti_1:
 
     scene d_train_inti_1_9 with tstmgr
 
-    d "Okay, I think we should go now~ See you tomorrow."
+    d "Okay,我想我们现在该走了~明天见."
 
 
 
-    "Girl A" "See you tomorrow... ..."
+    "女孩A""明天见......"
 
 
 
@@ -112,29 +112,29 @@ label D_train_inti_1:
 
 
 
-    "Sometime later, in Irene’s room..."
+    "过了一段时间,在艾琳的房间..."
 
 
 
     scene d_train_inti_1_10 with dissolve
 
-    player "Seriously, do you girls always show off your boyfriends to others?"
+    player "说真的,你们女生经常向别人炫耀你们的男朋友吗?"
 
 
 
     scene d_train_inti_1_11 with tstmgr
 
-    d "Of course~ That’s what high school girls do."
+    d "当然~这就是高中女生做的事."
 
 
 
-    d "You never showed off your girls to others?"
+    d "你从不向别人炫耀你的女孩?"
 
 
 
     scene d_train_inti_1_12 with tstmgr
 
-    player "I never did that intentionally because I’m afraid that I’ll get murdered by some super jealous guys."
+    player "我从来没有故意这么做,因为我害怕我会被一些超级嫉妒的家伙谋杀."
 
 
 
@@ -142,41 +142,41 @@ label D_train_inti_1:
 
 
 
-    player "Nah, that was a lie. I show off all the times because that’s human’s nature. I wish I can let the whole world knows how amazing my girls are~"
+    player "Nah,当然是骗你的.我总是炫耀,因为这是人的天性.我希望我能让全世界都知道我的女孩们有多棒~"
 
 
 
     scene d_train_inti_1_13 with tstmgr
 
-    d "Hee hee~ Love you~"
+    d "Heehee~爱你~"
 
 
 
     scene d_train_inti_1_14 with tstmgr
 
-    d "So... when we are going to have sex for the first time? I mean, the vaginal sex..."
+    d "所以...我们什么时候开始第一次做爱?我是说,阴道性交..."
 
 
 
-    d "I am ready... Just let you know... ..."
+    d "我已经准备好了...就是让你知道一下......"
 
 
 
-    player "Irene... ..."
+    player "艾琳......"
 
 
 
     scene d_train_inti_1_15 with tstmgr
 
-    player "I... I don’t want to hurt you, Irene. You are so small but my penis is... eh... relatively huge. You may be in great pain during the first-time vaginal sex."
+    player "我...我不想伤害你,艾琳.你还太小了,但我的鸡巴...呃...相对来说很大.第一次做时,你可能会感到非常疼."
 
 
 
-    d "Hah... ... it feels kinda weird when a man says ‘my penis is huge’ himself... ..."
+    d "Hah......当一个男人自己说“我的鸡巴太大了”的时候感觉有点奇怪......"
 
 
 
-    d "But... there has to be the first time, right? I don’t want to wait until Theo gets pregnant to have your cum in my pussy for the first time..."
+    d "但是...总得有第一次吧?我可不想等到西奥怀孕了才第一次让你的精液进入我的小穴..."
 
 
 
@@ -186,43 +186,43 @@ label D_train_inti_1:
 
     scene d_train_inti_1_16 with tstmgr
 
-    d "But you do have a point. Your have a monstrous penis and I may not be able to go to school for days after we have sex for the first time."
+    d "但你说得有道理.你有一个巨大的鸡巴,我可能在我们第一次做爱后几天都不能去上学."
 
 
 
     scene d_train_inti_1_17 with tstmgr
 
-    d "How about this? I’m going to graduate in the next a few months anyway, and there will be no more school days after that, so... ..."
+    d "这样如何?反正再过几个月我就要毕业了,那之后就不用上学了,所以......"
 
 
 
-    d "You are going to fuck me in the pussy on my graduation day and there will be nothing to worry about anymore~"
+    d "你要是在我毕业那天和我做,那就再也不用担心了~"
 
 
 
     scene d_train_inti_1_18 with tstmgr
 
-    player "Irene... ... Okay, let’s do that~"
+    player "艾琳......Okay,那就这样~"
 
 
 
-    d "You promise?"
+    d "你保证?"
 
 
 
-    player "I promise you, little princess~"
+    player "我向你保证,小公主~"
 
 
 
     scene d_train_inti_1_19 with tstmgr
 
-    d "Yeah! You are the best!~"
+    d "Yeah!你最好了!~"
 
 
 
     scene d_train_inti_1_20 with tstmgr
 
-    d "Now your little princess wants a kiss~"
+    d "现在你的小公主想要一个吻~"
 
 
 
@@ -232,13 +232,13 @@ label D_train_inti_1:
 
 
 
-    "That was... quite a cute kissing sound..."
+    "这是...相当可爱的接吻声音..."
 
 
 
     scene d_train_inti_1_22 with tstmgr
 
-    "Irene pressed her soft body tightly against mine. I couldn’t help putting my arms around her and holding her even tighter."
+    "艾琳把她柔软的身体紧紧地贴在我的身上.我情不自禁地搂住她,把她搂得更紧了."
 
 
 
@@ -250,39 +250,39 @@ label D_train_inti_1:
 
     $ flashlight()
 
-    "How can I restrict myself from touching her nude lovely butt?"
+    "我怎么能忍住自己不去碰她那光溜溜的可爱屁股呢?"
 
 
 
     scene d_train_inti_1_24 with tstmgr
 
-    "Ahhh... ... yes! This is what I’m talking about~"
+    "Ahhh......yes!这就是我要说的~"
 
 
 
-    d "Yaah~ You ruined my stocking!"
+    d "Yaah~你把我裤袜弄坏了!"
 
 
 
-    player "Wow, why aren’t you wearing underwear today?"
+    player "Wow,你今天怎么没穿内裤?"
 
 
 
     scene d_train_inti_1_25 with tstmgr
 
-    d "Because... I enjoy how it feels when my pussy touches my school chair through the stocking~"
+    d "因为...我喜欢小穴通过裤袜摩擦学校椅子的感觉~"
 
 
 
-    d "Cold... itchy... rough... ... just like your hand~"
+    d "冷...痒...硬...就像你的手~"
 
 
 
-    player "Irene... ..."
+    player "艾琳......"
 
 
 
-    d "I want your hands... to touch my entire body... ..."
+    d "我想要你的手...触摸我的整个身体......"
 
 
 
@@ -292,15 +292,15 @@ label D_train_inti_1:
 
 
 
-    d "It’s strange that I don’t feel any shy when I am naked to you, hee hee~"
+    d "真奇怪,我在你面前一丝不挂时一点也不害羞,heehee~"
 
 
 
-    player "Irene, you are just stunning."
+    player "艾琳,你太美了."
 
 
 
-    player "I want to... ..."
+    player "我想......"
 
 
 
@@ -308,21 +308,21 @@ label D_train_inti_1:
 
     $ flashlight()
 
-    d "Ahhhhhh~~~ Hentai!~"
+    d "Ahhhhhh~~~变态!~"
 
 
 
-    player "Irene’s nipple... ... is sweet like candy... ..."
+    player "艾琳的乳头...像糖果一样甜......"
 
 
 
     scene d_train_inti_1_26 with tstmgr
 
-    d "Do you even know what you are talking about?"
+    d "你知道你在说什么吗?"
 
 
 
-    player "*Sucking sound* Sipp~~ Zip~~~ Zimmm~~~"
+    player "*吸的声音*Sipp~~Zip~~~Zimmm~~~"
 
 
 
@@ -330,7 +330,7 @@ label D_train_inti_1:
 
 
 
-    d "I said... I want to be touched by your hands, not your tongue... ..."
+    d "我说...我想被你的手摸,而不是你的舌头......"
 
 
 
@@ -340,37 +340,37 @@ label D_train_inti_1:
 
 
 
-    "No man could stay rational when his face was buried in Irene's lovely tits. I didn’t know how long we kept this position, and when I came to my sense again... ..."
+    "当一个人的脸埋在艾琳可爱的乳房里时,他是无法保持理智的.我不知道我们保持这个姿势多久了,当我重新清醒过来的时候......"
 
 
 
     scene d_train_inti_1_29 with tstmgr
 
-    d "This is... a little out of control... ..."
+    d "这...有点失控了......"
 
 
 
-    d "We just had a deal that no sex before I graduate, but now... ..."
+    d "我们刚约定在我毕业前不做爱,但是现在......"
 
 
 
     scene d_train_inti_1_31 with tstmgr
 
-    player "Oh yeah, you are right... We are getting a little too far... ..."
+    player "Ohyeah,你是对的...我们有点走远了......"
 
 
 
-    player "Maybe... we should dress up and begin today’s tutoring?"
+    player "也许...我们应该把衣服穿好,开始今天的辅导?"
 
 
 
-    d "But I feel so hyped and horny right now... ... I want to have sex with you so bad~"
+    d "但我现在感到兴奋和饥渴...我非常想和你做爱~"
 
 
 
     scene d_train_inti_1_30 with tstmgr
 
-    d "Your dick... is getting erected so hard... ... I guess you are hyped too~"
+    d "你的鸡巴...梆硬的立了起来......我猜你也是这样~"
 
 
 
@@ -380,11 +380,11 @@ label D_train_inti_1:
 
     scene d_train_inti_1_31 with tstmgr
 
-    d "Wait, the deal was only for vaginal sex, right? Which means... you can still fuck my... ass~"
+    d "等等,只要不是真正做爱,对吧?这意味着...你还可以操我的...屁股~"
 
 
 
-    player "Irene... ..."
+    player "艾琳......"
 
 
 
@@ -392,7 +392,7 @@ label D_train_inti_1:
 
 
 
-    d "I just want... your dick to come inside my body~"
+    d "我只是想要...让你的鸡巴进入我的身体~"
 
 
 
@@ -408,39 +408,39 @@ label D_train_inti_1:
 
 
 
-    d "Uhhh~~ so huge~~~ [P]~~~"
+    d "Uhhh~~好大~~~[P]~~~"
 
 
 
-    d "My anus... has been familiar with your dick~~ That’s... that’s a good news, right?"
+    d "我的肛门...已经很熟悉你的鸡巴了~~这...这是个好消息,对吧?"
 
 
 
-    player "I, I think so... ... But it is just... so tight... Ohh... ..."
+    player "我,我想是的...但这...太紧了...Ohh......"
 
 
 
-    d "Your dick... is so hot... ... and it’s getting even hotter~"
+    d "你的鸡巴...好热......而且越来越烫~"
 
 
 
-    d "Even my pussy can feel the heat of your dick~ Wow~~~~"
+    d "甚至我的小穴都能感觉到你的鸡巴的热度~Wow~~~~"
 
 
 
-    player "That’s because... you are so... so tight!... ..."
+    player "这是因为...你太...太紧了!......"
 
 
 
-    d "Do you love Irene's tight anus? Do you like Irene's tight anus?"
+    d "你爱艾琳这紧绷的肛门吗?你喜欢艾琳的紧绷的肛门吗?"
 
 
 
-    player "Yes, I love it! I love it so much!"
+    player "Yes,我爱它!我非常喜欢它!"
 
 
 
-    player "I... I’m about to... ..."
+    player "我...我要......"
 
 
     stop sound
@@ -448,49 +448,49 @@ label D_train_inti_1:
     play sound cumshot
     $ flashlight()
 
-    player "Cumming!"
+    player "射了!"
 
 
 
-    d "Yaaaaahhhhh~~~~~ [P]’s hot milk is coming into my stomach!~~~"
+    d "Yaaaaahhhhh~~~~~[P]的热牛奶流进我的胃里了!~~~"
 
 
 
-    "Ahhh... damn, Irene’s tight moist anus is simply amazing. No dick could last more than 10 minutes against it... ..."
+    "Ahhh...damn,艾琳又紧又湿的肛门简直太神奇了.没有什么鸡巴能坚持超过10分钟......"
 
 
 
     scene d_train_inti_1_34 with tstmgr
 
-    player "Irene, thank you for letting me do that~"
+    player "艾琳,谢谢你让我这么做~"
 
 
 
-    d "Will cumming in anus make me pregnant?"
+    d "在肛门里射精会让我怀孕吗?"
 
 
 
-    player "Eh... I don’t think so... ..."
+    player "Eh...我不这么认为......"
 
 
 
     scene d_train_inti_1_35 with tstmgr
 
-    d "Sigh... what a shame~"
+    d "唉...可惜~"
 
 
 
     scene d_train_inti_1_36 with tstmgr
 
-    d "I’ll... definitely get pregnant sooner than Theo! Just... wait me for a few months~"
+    d "我...肯定要比西奥更早怀孕!只是...等我几个月~"
 
 
 
-    player "You don’t really need to take that as a... competition."
+    player "你不需要真的把它当成...一种竞争."
 
 
 
-    player "But okay, after you graduate from highschool, I’ll fuck you everyday until you get pregnant~"
+    player "好吧,等你高中毕业后,我会天天操你直到你怀孕~"
 
 
 

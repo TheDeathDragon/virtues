@@ -3,37 +3,37 @@ label D_train_sha_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, Late night, in Irene’s classroom... ..."
+    "几天后，深夜，在艾琳的教室里... ..."
 
 
 
     scene d_train_sha_2_1 with dissolve
 
-    d "Shhhhhhhhh... ... ... ... I think I heard something... ..."
+    d "Shhhhhhhhh... ... ... ... 我想我听到了什么... ..."
 
 
 
-    player "Do you think someone is coming? Maybe we should go... ..."
+    player "你认为有人要来吗？也许我们应该去... ..."
 
 
 
     scene d_train_sha_2_2 with tstmgr
 
-    d "Relax, no one will find us~ It was probably just rats~"
+    d "放松点，没人会发现我们的~可能只是老鼠而已~"
 
 
 
-    player "But do you really think it is a good idea to come to your school at such a late hour?"
+    player "但你真的认为这么晚来你的学校是个好主意吗?"
 
 
 
     scene d_train_sha_2_3 with tstmgr
 
-    d "Come on, we have to do something memorable before I graduate from high school~"
+    d "来吧，在我高中毕业之前，我们必须做一些值得纪念的事情~"
 
 
 
-    d "And what is better than sneaking into my classroom and spend a night together?~"
+    d "还有什么比偷偷溜进我的教室，一起度过一个晚上更好呢?~"
 
 
 
@@ -43,27 +43,27 @@ label D_train_sha_2:
 
     scene d_train_sha_2_4 with tstmgr
 
-    d "This is going to be... the last craziness of my teenage life."
+    d "这将是......我青少年生活中最后的疯狂."
 
 
 
-    player "Irene... ..."
+    player "艾琳... ..."
 
 
 
-    player "Alright, girl, let’s have fun tonight~ what do you want to do?"
+    player "好吧，女孩，让我们今晚开心一下吧~你想做什么?"
 
 
 
     scene d_train_sha_2_5 with tstmgr
 
-    d "Thanks, [P]~"
+    d "谢拉, [P]~"
 
 
 
     scene d_train_sha_2_6 with tstmgr
 
-    d "Now let me change my clothes first~"
+    d "现在让我先把衣服换了~"
 
 
 
@@ -75,11 +75,11 @@ label D_train_sha_2:
 
     scene d_train_sha_2_7 with dissolve
 
-    d "Da-lah~ Now is better~"
+    d "哒哒哒~现在好了~"
 
 
 
-    player "Wow, you look... so cute, Irene... ..."
+    player "哇，你看起来......好可爱，艾琳... ..."
 
 
 
@@ -91,7 +91,7 @@ label D_train_sha_2:
 
     scene d_train_sha_2_9 with tstmgr
 
-    d "Look, look, Irene’s cute little butt~"
+    d "看，看，艾琳可爱的小屁股~"
 
 
 
@@ -119,33 +119,33 @@ label D_train_sha_2:
 
 
 
-    player "That was... really seductive~"
+    player "那是......真的很有诱惑力~"
 
 
 
     scene d_train_sha_2_12 with tstmgr
 
-    d "Humph, humph~ But you can’t put your huge dick in Irene’s butt yet~"
+    d "哼，哼~但你还不能把你的大鸡巴放在艾琳的屁股里~"
 
 
 
     scene d_train_sha_2_13 with tstmgr
 
-    d "Hmmmm... ... Let me think, what should we do first to memorize my youth?"
+    d "Hmmmm... ... 让我想想，我们应该先做什么来记住我的青春?"
 
 
 
     scene d_train_sha_2_14 with tstmgr
 
-    d "How about making a video? Like Uno always does~"
+    d "制作一个视频如何?就像乌诺一贯的做法~"
 
 
 
-    d "In that way we will be able to remember what happens here forever~"
+    d "这样，我们将能够永远记住这里发生的一切~"
 
 
 
-    player "That sounds fun, let’s do it~"
+    player "这听起来很有趣，让我们做吧~"
 
 
 
@@ -155,93 +155,93 @@ label D_train_sha_2:
 
 
 
-    "Sometime later... ..."
+    "一段时间后... ..."
 
 
 
     scene d_train_sha_2_15 with dissolve
 
-    d "*Climbing onto the table strenuously* Heh... yah... ..."
+    d "*吃力地爬上桌子* Heh... yah... ..."
 
 
 
     scene d_train_sha_2_16 with tstmgr
 
-    d "Wow, I have never climbed onto a table before."
+    d "哇，我从来没有爬上过桌子."
 
 
 
-    d "I feel like I’m getting so tall and so grown up~"
+    d "我感觉我变得如此高大，如此成熟~"
 
 
 
     scene d_train_sha_2_17 with tstmgr
 
-    d "*Looking at the night sky* ... ... ... ..."
+    d "*仰望星空* ... ... ... ..."
 
 
 
     scene d_train_sha_2_18 with tstmgr
 
-    d "What it is like to realize your own growth, [P]?"
+    d "实现自己的成长是什么感觉, [P]?"
 
 
 
     scene d_train_sha_2_19 with tstmgr
 
-    d "I have past my 18th birthday, but I still feel like I am a kid."
+    d "我已经过了18岁生日，但我仍然觉得自己是个孩子."
 
 
 
-    d "My mommy spoils me, my sister cares for me though she pretends like she doesn’t, and you... ..."
+    d "我的妈妈宠爱我，我的姐姐关心我，尽管她假装不关心我，而你呢？... ..."
 
 
 
     scene d_train_sha_2_20 with tstmgr
 
-    d "You are like one third of my dad, one third of my big brother, and one third of my boyfriend."
+    d "你就像我爸爸的三分之一，我大哥的三分之一，我男朋友的三分之一."
 
 
 
-    d "Sometimes I feel like I will never really grow up under the care of the three of you."
+    d "有时我觉得在你们三个人的照顾下，我永远不会真正长大."
 
 
 
-    player "Irene... ..."
+    player "艾琳... ..."
 
 
 
-    player "That's not really a bad thing, is it? You don’t have to ‘really’ grow up at all."
+    player "这其实并不是一件坏事，不是吗？你根本不需要 '真正 '长大成人."
 
 
 
     scene d_train_sha_2_21 with tstmgr
 
-    d "I don’t?"
+    d "我不?"
 
 
 
     scene d_train_sha_2_22 with tstmgr
 
-    player "In most cases, a person’s growth only means some changes in its personality after some setbacks."
+    player "在大多数情况下，一个人的成长只意味着在经历了一些挫折之后，其性格会发生一些变化."
 
 
 
-    player "If you never have any setbacks, you will never ‘really grow up’, but setbacks are bad, no one wants to experience setbacks in its life."
+    player "如果你从未遇到过任何挫折，你将永远不会 '真正长大'，但挫折是不好的，没有人愿意在其生活中经历挫折."
 
 
 
-    player "Your mother, your sister, and I... ... we all wish you can be the little princess in the ivory towel forever. We will do everything to keep you away from any setbacks~"
+    player "你的母亲，你的姐姐，还有我......我们都希望你能永远做象牙塔里的小公主。我们会尽一切努力让你远离任何挫折~"
 
 
 
     scene d_train_sha_2_23 with tstmgr
 
-    d "Is it really possible for someone to go through life without being hurt?"
+    d "一个人真的有可能在一生中不受到伤害吗?"
 
 
 
-    player "Well, you can just count on us, my princess~"
+    player "嗯，你可以指望我们，我的公主~"
 
 
 
@@ -251,35 +251,35 @@ label D_train_sha_2:
 
 
 
-    d "I wish I can... be your princess forever too~"
+    d "我希望我也能......永远做你的公主~"
 
 
 
     scene d_train_sha_2_25 with tstmgr
 
-    d "Hmmm... wait, have you started recording?"
+    d "Hmmm... 等等，你开始录音了吗?"
 
 
 
     scene d_train_sha_2_26 with tstmgr
 
-    player "Oh, almost forgot it, here we go~"
+    player "哦，差点忘了，来了~"
 
 
 
     scene d_train_sha_2_27 with tstmgr
 
-    player "So... have you decided what you are going to do in front of the camera?"
+    player "那么......你是否已经决定你在镜头前要做什么?"
 
 
 
     scene d_train_sha_2_28 with tstmgr
 
-    d "Hmmmmm... ... How about masturbating?"
+    d "Hmmmmm... ... 手淫怎么样?"
 
 
 
-    "Oh my god she looks so cute with this pose~"
+    "哦，我的上帝，她的这个姿势看起来太可爱了~"
 
 
 
@@ -287,7 +287,7 @@ label D_train_sha_2:
 
 
 
-    player "Eh... what? Masturbation? Yeah, sure, just... whenever you are ready~"
+    player "Eh... 自慰是吗, 你准备好了就可以~"
 
 
 
@@ -303,7 +303,7 @@ label D_train_sha_2:
 
 
 
-    d "Do I... look funny right now?"
+    d "我......现在看起来很可笑吗?"
 
 
 
@@ -313,23 +313,23 @@ label D_train_sha_2:
 
 
 
-    player "Not at all~ You look as cute as you always be~"
+    player "一点也不~你看起来和以前一样可爱~"
 
 
 
-    "This is actually the first time I see Irene masturbating. I can’t help but keep smiling like hentai."
+    "这实际上是我第一次看到艾琳在自慰。我忍不住一直在笑，就像个变态一样."
 
 
 
-    "I watched in fascination as her slender fingers moved in and out between the tender flesh of her pussy. Man... I’m so glad that I am recording this scene in the camera."
+    "我着迷地看着她纤细的手指在她小穴的嫩肉间进进出出。伙计... 我很庆幸自己用相机记录了这一幕."
 
 
 
-    d "I don’t masturbate often... ... Am I doing it in the right way?"
+    d "我不经常手淫......。我做的对吗?"
 
 
 
-    player "You definitely are, babe~"
+    player "你绝对是，宝贝儿~"
 
 
 
@@ -339,19 +339,19 @@ label D_train_sha_2:
 
 
 
-    d "But... it is not as interesting as I thought."
+    d "但是......它并不像我想象的那么有趣."
 
 
 
-    d "Fingers only... cannot bring me enough stimulation... ... It only makes me hornier and hornier~~"
+    d "只有手指......不能带给我足够的刺激......这只会让我越来越饥渴~~"
 
 
 
-    d "And it makes me want to pee too~"
+    d "这让我也想尿尿~"
 
 
 
-    player "*Swallowing hard* Don’t worry, let me help you out!~"
+    player "*用力吞咽* 别担心，让我来帮你。!~"
 
 
 
@@ -375,27 +375,27 @@ label D_train_sha_2:
 
 
 
-    player "*Licking pussy* Irene’s tender little pussy... tastes so sweet~"
+    player "*舔小穴*艾琳的小嫩穴......尝起来好甜啊~"
 
 
 
-    d "But... you should be recording the video?"
+    d "但是......你应该录制视频?"
 
 
 
-    player "Forget about the video~ I’ll make sure we remember everything happens tonight in our head forever~"
+    player "忘了视频吧~我会确保我们在脑海中永远记住今晚发生的一切~"
 
 
 
-    d "Awwwwwwwwww~~ [P]’s tongue is so slippery~~~ like a little snake in my pussy~~~"
+    d "Awwwwwwwwww~~ [P]的舌头好滑啊~~~就像一条小蛇在我的小穴里~~~"
 
 
 
-    player "So juicy~~ Glug... glug... ..."
+    player "如此多汁~~ 咕噜...咕噜... ..."
 
 
 
-    player "Am I bringing you more stimulation?"
+    player "我是否给你带来更多的刺激?"
 
 
 
@@ -403,15 +403,15 @@ label D_train_sha_2:
 
 
 
-    d "You are making me want to pee even more~~~"
+    d "你让我更想尿尿了~~~"
 
 
 
-    d "I... I think I’m going to cum, but I’m not sure if it will be my cum or my pee coming out!!!~~~"
+    d "我... 我想我要射了，但我不确定是我的高潮还是我的尿液出来了!!!~~~"
 
 
 
-    d "I’m cumming!!~~~~~"
+    d "射了!!~~~~~"
 
 
 
@@ -423,49 +423,49 @@ label D_train_sha_2:
 
 
 
-    "Well, luckily, the fluid that came out from her pussy is not pee~"
+    "幸运的是，从她的小穴中流出的液体不是尿液~"
 
 
 
-    player "Glug... glug... Irene’s love juice... tasty as hell... ..."
+    player "咕噜... 咕噜... 艾琳的爱的汁液......好吃得不得了... ..."
 
 
 
     scene d_train_sha_2_34 with tstmgr
 
-    d "Can’t... can’t take it anymore... ..."
+    d "不能...不能再忍受了... ..."
 
 
 
-    d "I need to pee... right now... ... Please... take me to the restroom... ..."
+    d "我需要小便...现在...请...带我去洗手间... ..."
 
 
 
     scene d_train_sha_2_35 with tstmgr
 
-    d "Awww? What are you doing?"
+    d "Awww? 你在干什么啊?"
 
 
 
-    player "There is no needs for going to the restroom, we can’t risk being seen by the security. You can just pee here~"
+    player "没有必要去洗手间，我们不能冒险被保安看到。你可以直接在这里撒尿~"
 
 
 
     scene d_train_sha_2_36 with tstmgr
 
-    d "What? Here? Are you serious?"
+    d "什么? 这里? 你认真的吗?"
 
 
 
-    player "We are here to do something bold and something memorable, remember? "
+    player "我们在这里要做一些大胆的、令人难忘的事情，还记得吗? "
 
 
 
-    d "Bu... but... ..."
+    d "但... 但是... ..."
 
 
 
-    d "Aahhhhh~~~ Whatever~ I can’t hold it anymore~~~"
+    d "Aahhhhh~~~ 不管怎么样，我已经忍不住了~~~"
 
 
 
@@ -473,33 +473,33 @@ label D_train_sha_2:
     play sound cumshot
     $ flashlight()
 
-    d "Yeeeeeeeeeeeeeeehhhh!~~~ I’m really peeing in my classroom!~~~~~~"
+    d "Yeeeeeeeeeeeeeeehhhh!~~~我真的在教室里撒尿了!~~~~~~"
 
 
 
-    "A gurgling stream of urine went out of her pussy and poured onto the floor... ..."
+    "一股潺潺的尿液从她的小穴中流出，倒在地上... ..."
 
 
 
     scene d_train_sha_2_38 with tstmgr
 
-    d "Don’t look, [P], don’t look~~~ I... I’m such a dirty girl~~"
+    d "别看，[P]，别看~~~我......。我是一个肮脏的女孩~~"
 
 
 
-    d "Awwwww... ... the school will never let me graduate if they find out... ..."
+    d "Awwwww... ... 如果学校知道了，就不会让我毕业了... ..."
 
 
 
-    d "We should go home, as fast as we can... ..."
+    d "我们应该回家，越快越好... ..."
 
 
 
-    player "Nope, we haven’t done the most important thing yet~"
+    player "不，我们还没有完成最重要的事情~"
 
 
 
-    d "What?"
+    d "什么?"
 
 
 
@@ -519,23 +519,23 @@ label D_train_sha_2:
 
 
 
-    d "What... what are you doing? Irene’s pussy... is dirty~~~ I mean, I just peed~~"
+    d "你......你在做什么？艾琳的小穴......好脏啊~~~我是说，我刚尿完尿~~"
 
 
 
-    player "Sex is never a clean thing to do so don’t worry about that. Do you have any idea of how many bacteria there will be during sex?"
+    player "性生活从来不是一件干净的事情，所以不要担心这个问题。你知道性生活中会有多少细菌吗?"
 
 
 
-    d "I don’t... I don’t want to know~~~~"
+    d "我不... 我不想知道~~~~"
 
 
 
-    d "Awwwww~~~ [P]’s huge penis is making Irene’s pussy completely a mess~~~"
+    d "Awwwww~~~ [P]的巨大鸡巴让艾琳的小穴完全变成了一团糟~~~"
 
 
 
-    d "Bad [P]!~~~ Bad [P]!~~~"
+    d "坏 [P]!~~~ 坏 [P]!~~~"
 
 
     stop sound
@@ -549,27 +549,27 @@ label D_train_sha_2:
 
 
 
-    d "Can’t... think of anything else... but [P]... ..."
+    d "无法......想出其他东西......除了 [P]... ..."
 
 
 
-    d "Mommy~~ Ohhhh~~~ mommy~~~ help~~~ Awwwww~~~~"
+    d "妈妈~~ Ohhhh~~~ 妈妈~~~ 救命啊~~~ Awwwww~~~~"
 
 
 
-    d "Awwwwww~~~ Irene is going to be fertilized in the classroom~~~"
+    d "Awwwwww~~~ 艾琳要在教室里被受精了~~~"
 
 
 
-    d "Irene is a bad student!~~~~~~"
+    d "艾琳是个坏学生!~~~~~~"
 
 
 
-    player "Yep, you definitely are~"
+    player "是的，你绝对是~"
 
 
 
-    player "I’m cumming!!~~~"
+    player "我要射了!!~~~"
 
 
     stop sound
@@ -581,15 +581,15 @@ label D_train_sha_2:
 
 
 
-    d "[P]’s sperm... ... so much sperm... ... all in Irene’s little pussy~~~~"
+    d "[P]的精子......那么多的精子......都在艾琳的小穴里~~~~"
 
 
 
-    player "Take this as a part of your coming-of-age ceremony!"
+    player "将此作为你成年仪式的一部分!"
 
 
 
-    d "Awwwww... ... I want to pee again~~~~"
+    d "Awwwww... ... 我又想小便了~~~~"
 
 
 
@@ -603,27 +603,27 @@ label D_train_sha_2:
 
 
 
-    "It turned out that we spent the entire night in Irene’s classroom and had sex everywhere."
+    "结果，我们在艾琳的教室里呆了一整晚，并到处做爱."
 
 
 
-    "The whole classroom was filled with the smell of semen and urine by the sunrise of the next day..."
+    "第二天日出时，整个教室都充满了精液和尿液的味道..."
 
 
 
     scene d_train_sha_2_42 with dissolve
 
-    player "Ah... It is morning already... ..."
+    player "Ah...已经早上了啊... ..."
 
 
 
-    player "Wake up, Irene, we have to go now, otherwise we will all get into troubles."
+    player "醒醒吧，艾琳，我们现在必须走了，否则我们都会陷入困境."
 
 
 
     scene d_train_sha_2_43 with tstmgr
 
-    player "Irene?"
+    player "艾琳?"
 
 
 
@@ -631,15 +631,15 @@ label D_train_sha_2:
 
 
 
-    "Man, she still looks so cute even when she has so much cum covered on her body~"
+    "伙计，即使她身上沾满了这么多精液，她看起来还是那么可爱~"
 
 
 
-    d "Big cock... ... love... ..."
+    d "大鸡巴... ... 爱... ..."
 
 
 
-    "Ha~ guess we did make something memorable at the end of her highschool life~"
+    "我想我们确实在她的高中生活结束时做了一些值得纪念的事情~"
 
 
 

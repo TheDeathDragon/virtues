@@ -3,7 +3,7 @@ label B_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "Senning came to my house today to prepare for an exam with me."
+    "今天森柠来我家和我一起准备考试."
 
 
 
@@ -13,23 +13,23 @@ label B_train_inti_1:
 
 
 
-    player "Hi, Sen, thanks for coming."
+    player "Hi,森,谢谢你来."
 
 
 
     scene b_train_inti_1_2 with tstmgr
 
-    b "Thanks for... inviting me~"
+    b "谢谢你...邀请我~"
 
 
 
-    player "Alright, let’s go to my room and study!"
+    player "好了,我们去我的房间学习吧!"
 
 
 
     scene b_train_inti_1_3 with tstmgr
 
-    b "Your... room?"
+    b "你的...房间?"
 
 
 
@@ -39,21 +39,21 @@ label B_train_inti_1:
 
     scene b_train_inti_1_4 with tstmgr
 
-    b "Can't we just... study in the livingroom instead?"
+    b "我们可以就...在客厅学习吗?"
 
 
 
-    player "Hmm? Eh... yeah, sure, if you like it."
+    player "Hmm?Eh...yeah,当然可以,如果你喜欢的话."
 
 
 
     scene b_train_inti_1_5 with tstmgr
 
-    b "*Relieved breathing* Thanks~~"
+    b "*松口气*谢谢~~"
 
 
 
-    "Weird... It seemed like she is afraid of going to my room for some reason, but why?"
+    "奇怪...似乎出于某种原因,她害怕去我的房间,但为什么呢?"
 
 
 
@@ -65,11 +65,11 @@ label B_train_inti_1:
 
     scene b_train_inti_1_6 with dissolve
 
-    "We spent the next few hours on studying together. Senning was a great teacher and she easily answered all the questions I had about the course."
+    "接下来的几个小时我们一起学习.森柠是个好老师,她轻松地回答了我所有关于这门课的问题."
 
 
 
-    b "Ah~~~ good work! You are so smart~"
+    b "Ah~~~干得不错!你真聪明~"
 
 
 
@@ -77,7 +77,7 @@ label B_train_inti_1:
 
 
 
-    player "Why do I feel like you are treating me like I am a 10-year-old boy... ..."
+    player "为什么我觉得你把我当成一个10岁的男孩......"
 
 
 
@@ -89,21 +89,21 @@ label B_train_inti_1:
 
     scene b_train_inti_1_8 with tstmgr
 
-    b "Anyway, do you have any other questions?"
+    b "不管怎样,你还有其他问题吗?"
 
 
 
     scene b_train_inti_1_9 with tstmgr
 
-    player "Ehhh... yeah, but it’s not about the course."
+    player "Ehhh...yeah,但这与课程无关."
 
 
 
-    b "Oh, okay, you can ask me anything you want~"
+    b "Oh,okay,你可以问任何你想问的问题~"
 
 
 
-    player "I just realized that, Sen, you have visited my house for several times, but you have never got inside my room before, right?"
+    player "我刚刚意识到,森,你来过我家好几次了,但你从来没有进过我的房间,对吧?"
 
 
 
@@ -113,35 +113,35 @@ label B_train_inti_1:
 
 
 
-    player "So do you want to visit my room right now?"
+    player "所以你想现在就去我的房间看看吗?"
 
 
 
     scene b_train_inti_1_11 with tstmgr
 
-    b "What? I... I... ..."
+    b "什么?我...我......"
 
 
 
-    "She suddenly got a little flustered. Yes, now I can confirm that she is definitely afraid of going to my room."
+    "她突然有点慌张.是的,现在我可以确定她肯定是害怕去我的房间."
 
 
 
-    player "Is everything alright?"
+    player "你还好吗?"
 
 
 
-    b "I’m fine, it’s just... just... ..."
+    b "我很好,只是...只是......"
 
 
 
-    player "You don’t want to see my room?"
+    player "你不想看我的房间?"
 
 
 
     scene b_train_inti_1_12 with tstmgr
 
-    b "No... I mean, yes, I really would like to visit your room, but... ... ... ..."
+    b "No...我是说,yes,我真的很想参观你的房间,但是............"
 
 
 
@@ -151,13 +151,13 @@ label B_train_inti_1:
 
     scene b_train_inti_1_13 with tstmgr
 
-    b "*Forced smiling* Nevermind, I was being ridiculous, sorry, [P]... Let’s go to your room now."
+    b "*勉强的微笑*别介意,我太可笑了,抱歉,[P]...我们现在去你的房间吧."
 
 
 
     scene b_train_inti_1_14 with tstmgr
 
-    player "Great! I’ll lead the way."
+    player "Great!我来带路."
 
 
 
@@ -167,21 +167,21 @@ label B_train_inti_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene b_train_inti_1_15 with dissolve
 
-    player "Welcome to my place! Do you like it?"
+    player "欢迎到我的房间!你喜欢吗??"
 
 
 
-    player "The light is great, and I got a big soft bed, you know, if you want to come by at night sometimes... ..."
+    player "光线很好,我有一张又大又软的床,你知道,如果你想晚上过来的话......"
 
 
 
-    "Senning didn’t say a word."
+    "森柠一句话也没说."
 
 
 
@@ -191,61 +191,61 @@ label B_train_inti_1:
 
     scene b_train_inti_1_16 with tstmgr
 
-    player "*Turning around* Eh... Sen?"
+    player "*转身*Eh...森?"
 
 
 
     scene b_train_inti_1_17 with tstmgr
 
-    player "Shit, what happened to you?"
+    player "Shit,你怎么了?"
 
 
 
-    b "This is... why I didn’t want to come inside your room..."
+    b "这就是...为什么我不想进你的房间..."
 
 
 
-    b "The scent here... ... the scent of yours... ... is too strong..."
+    b "这里的气味...你的气味...太浓了..."
 
 
 
-    b "I can’t... take it... ..."
+    b "我不能...把它......"
 
 
 
     scene b_train_inti_1_18 with tstmgr
 
-    "She stood unsteadily and couldn’t stop shaking. It seems like she is going to lose balance at anytime."
+    "她摇摇晃晃地站着,不停地发抖.看起来她随时都会失去平衡."
 
 
 
     scene b_train_inti_1_19 with tstmgr
 
-    player "Oh no, Sen, are you alright? Let’s get out of here."
+    player "Ohno,森,你还好吗?我们出去吧."
 
 
 
     scene b_train_inti_1_20 with tstmgr
 
-    b "No, no, no, I want to... feel more... ..."
+    b "No,no,no,我想...再感受会......"
 
 
 
-    "Senning fell on me, put her head on my chest and kept kissing me through my shirt."
+    "森柠扑倒在我身上,把头靠在我胸前,透过我的衬衫不停地吻我."
 
 
 
-    "This horny girl... ... My scent has fully turned her on."
+    "这个饥渴的女孩...我的气味使她完全兴奋起来."
 
 
 
     scene b_train_inti_1_21 with tstmgr
 
-    "But... ... I’m not sure if it’s a good news to me. I mean... she won’t allow me to fuck her in the pussy anyway."
+    "但是...我不确定这对我来说是不是好消息.我的意思是...反正她不允许我和她做爱."
 
 
 
-    "I guess the only thing I can do now is just standing here and enduring her... seducing until she goes back to normal."
+    "我想我现在唯一能做的就是站在这里忍受她的...引诱她直到她恢复正常."
 
 
 
@@ -255,43 +255,43 @@ label B_train_inti_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene b_train_inti_1_22 with tstmgr
 
-    b "Simmm~~~ simmm~~~ [P]’s strong muscles... ..."
+    b "Simmm~~~simmm~~~[P]强壮的肌肉......"
 
 
 
-    "Well, this is it, Senning is completely out of control. She has taken off my shirts and couldn’t stop kissing and licking my body."
+    "Well,就是这样,森柠完全失控了.她脱下了我的衬衫,不停地亲吻和舔我的身体."
 
 
 
-    "She has basically washed my upper body with her tongue... ..."
+    "她基本上用舌头洗了我的上半身......"
 
 
 
     scene b_train_inti_1_23 with tstmgr
 
-    b "[P]’s cute little belly... button... ..."
+    b "[P]可爱的小肚子...肚脐......"
 
 
 
-    "Ohhhhhh... ... no one has ever licked my belly button before, not even those prostitutes."
+    "Ohhhhhh......以前没人舔过我的肚脐,那些妓女也不例外."
 
 
 
     scene b_train_inti_1_24 with tstmgr
 
-    b "Ahhhh~ I feel like I’m burning!~"
+    b "Ahhhh~我觉得我在燃烧!~"
 
 
 
     scene b_train_inti_1_25 with tstmgr
 
-    "And when she finally paid attention to my crotch..."
+    "当她终于注意到我的胯部时..."
 
 
 
@@ -301,19 +301,19 @@ label B_train_inti_1:
 
 
 
-    "She suddenly realized something."
+    "她突然意识到什么."
 
 
 
     scene b_train_inti_1_27 with tstmgr
 
-    b "Sorry, [P]. Am I being too selfish? I only cared about my feeling but ignored yours."
+    b "抱歉,[P].我是不是太自私了?我只关心我自己的感受而忽略了你的."
 
 
 
     scene b_train_inti_1_28 with tstmgr
 
-    b "I... I can give you a blowjob if you like... ..."
+    b "我...如果你愿意,我可以给你口交......"
 
 
 
@@ -327,27 +327,27 @@ label B_train_inti_1:
 
 
 
-    b "What... what are you doing?"
+    b "什么...你在干什么??"
 
 
 
     scene b_train_inti_1_30 with tstmgr
 
-    "I didn’t answer her but threw her on the bed."
+    "我没有回答她,而是把她扔到床上."
 
 
 
-    b "Wait, wait, please... ..."
+    b "请等等,等等......"
 
 
 
     scene b_train_inti_1_31 with tstmgr
 
-    "I ignored her begging and roughly took off her dress."
+    "我不理睬她的哀求,粗暴地脱下了她的衣服."
 
 
 
-    b "Ahhhhhhh... ... wait, wait, I’m sorry, I’m sorry... ..."
+    b "Ahhhhhhh......等等,等等,对不起,对不起......"
 
 
 
@@ -357,33 +357,33 @@ label B_train_inti_1:
 
 
 
-    b "You look scary... ..."
+    b "你看起来好可怕......"
 
 
 
     scene b_train_inti_1_33 with tstmgr
 
-    "I still kept silence and opened her legs with force."
+    "我仍然保持沉默,用力掰开她的双腿."
 
 
 
     scene b_train_inti_1_34 with tstmgr
 
-    b "*Being terrified* Are you going to... are you going to... ... ... ..."
+    b "*被吓坏了*你打算...?你打算............"
 
 
 
-    b "*Being terrified* I’m not... I’m really not ready for sex yet... ..."
+    b "*被吓坏了*我...我还没准备好做爱......"
 
 
 
     scene b_train_inti_1_35 with tstmgr
 
-    b "But... but if you really want it so bad, then... then... ... ... ..."
+    b "但是...但如果你真的那么想要,那么...那么............"
 
 
 
-    "She almost cried out, but at the next second..."
+    "她几乎哭了出来,但在接下来的一秒钟..."
 
 
 
@@ -401,27 +401,27 @@ label B_train_inti_1:
 
     scene b_train_inti_1_38 with tstmgr
 
-    player "You didn’t really think that I was going to force you for sex, did you?"
+    player "你不会真的认为我会强迫你上床吧?"
 
 
 
-    b "I... I... ... ... ..."
+    b "我...我............"
 
 
 
-    player "I just realized that you have done many things for me, blowjobs, handjobs, leg sex, but I never do anything for return."
+    player "我才意识到你为我做了很多事,口交,手交,腿交,但我从没做任何事回报你."
 
 
 
-    player "Now it’s my turn to pay you back. Just relax yourself and enjoy it~"
+    player "现在轮到我报答你了.放松自己,享受它~"
 
 
 
-    b "Are you going to lick my pussy?"
+    b "你要舔我的阴部吗?"
 
 
 
-    player "I'm going to lick the hell out of it~"
+    player "我要好好舔一舔~"
 
 
 
@@ -433,21 +433,21 @@ label B_train_inti_1:
 
     scene b_train_inti_1_40 with tstmgr
 
-    "I gently kissed on her pussy."
+    "我轻轻地吻了她的小穴."
 
 
 
-    player "Delicious~"
+    player "美味~"
 
 
 
     scene b_train_inti_1_41 with tstmgr
 
-    b "*Comfortably moaning* Ahhhhhhhhhhhh~~~~"
+    b "*舒服地呻吟*Ahhhhhhhhhhhh~~~~"
 
 
 
-    player "Sorry, I should have done this to you a long time ago."
+    player "对不起,我早就应该这样对你了."
 
 
 
@@ -459,7 +459,7 @@ label B_train_inti_1:
 
     scene b_train_inti_1_42 with tstmgr
 
-    b "It’s... ... so good to love you~~"
+    b "这...爱你真好~~"
 
 
 
@@ -469,7 +469,7 @@ label B_train_inti_1:
 
 
 
-    b "You are licking my clitoris... Ohhhhhhh~~~~ how could it... how could it be so good?"
+    b "你在舔我的阴蒂...Ohhhhhhh~~~~怎么可能...怎么会这么舒服呢?"
 
 
 
@@ -477,7 +477,7 @@ label B_train_inti_1:
 
 
 
-    b "Is... the real sex... even better than this?"
+    b "这...真正的性...比这更舒服吗?"
 
 
 
@@ -485,7 +485,7 @@ label B_train_inti_1:
 
 
 
-    b "[P]~~~ Slow... slow down... please... ... I... ..."
+    b "[P]~~~慢点...慢点...拜托......我......"
 
 
 
@@ -493,7 +493,7 @@ label B_train_inti_1:
 
     $ flashlight()
 
-    b "Waaaaaaaaah~~~ You can’t... put your tongue inside my... ..."
+    b "Waaaaaaaaah~~~你不能...把你的舌头放到我的......"
 
 
 
@@ -501,13 +501,13 @@ label B_train_inti_1:
 
 
 
-    "Her moaning sounded quite unique. It’s like she was laughing and crying at the same time. It's like baby crying sound... ... So cute~"
+    "她的呻吟听起来很特别.就好像她又哭又笑.就像婴儿的哭声...太可爱了~"
 
 
 
     scene b_train_inti_1_46 with tstmgr
 
-    b "I’mmmmmm... I’m cumming!~~~~~"
+    b "我...我要泄了!~~~~~"
 
 
 
@@ -519,37 +519,37 @@ label B_train_inti_1:
 
 
 
-    b "*Unconsciously moaning* [P]... ... [P]... ..."
+    b "*无意识地呻吟*[P]......[P]......"
 
 
 
     scene b_train_inti_1_48 with tstmgr
 
-    player "Are you satisfied now, Sen?"
+    player "你现在满意了吗,森?"
 
 
 
     scene b_train_inti_1_49 with tstmgr
 
-    b "Ye... yes... yes... ... Thank you... ..."
+    b "Ye...yes...yes......谢谢你......"
 
 
 
-    b "Thanks for letting me know how good it feels when my pussy is being caressed~"
+    b "谢谢你让我知道当我的阴部被爱抚的感觉有多好~"
 
 
 
-    b "I wish... ... oneday it can be caressed by your... ... your... ..."
+    b "我希望...总有一天它会被你的...你的......"
 
 
 
     scene b_train_inti_1_50 with tstmgr
 
-    b "Penis... ..."
+    b "鸡巴......"
 
 
 
-    player "Sen... ... ... ..."
+    player "森............"
 
 
 

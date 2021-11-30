@@ -3,29 +3,29 @@ label B_love_6:
     scene b_gf_2_watchtv_1 with tstmgr
     play music happy
 
-    "Senning and I are watching TV at her room."
+    "我和森柠正在她的房间里看电视."
 
 
 
-    "We have been together for a while now, and everything seems good so far. We go to school together and have fun together everyday, just like every lovely college couple else."
+    "我们已经在一起一段时间了,到目前为止一切都很好.我们每天一起上学,一起玩,就像其他可爱的大学情侣一样."
 
 
 
-    "Except for one thing, that she still rejects my asking of sex."
+    "除了一件事,她仍然拒绝和我做爱."
 
 
 
-    "But I don't really worry about that. It is just a matter of time."
+    "但我并不担心这个.这只是时间问题."
 
 
 
-    "Besides, she is okay with my intimate touching. I can even grab her breast in my hand right now."
+    "另外,她也能接受我的亲密接触.我现在甚至可以摸她的胸."
 
 
 
     scene b_gf_2_watchtv_2 with tstmgr
 
-    "Like this..."
+    "就像这样..."
 
 
 
@@ -35,15 +35,15 @@ label B_love_6:
 
     scene b_love_6_1 with tstmgr
 
-    b "Do you... want something to eat?"
+    b "你...想吃点东西吗?"
 
 
 
-    b "Or perhaps something to drink? A cup of tea maybe?"
+    b "或者喝点什么?来杯茶怎么样?"
 
 
 
-    player "No need to bother. I am satisfied as long as I can hold you in my hand."
+    player "不用麻烦了.只要能把你握在手里,我就满足了."
 
 
 
@@ -53,11 +53,11 @@ label B_love_6:
 
 
 
-    b "But you just keep touching my breasts every time when we are together."
+    b "但是每次我们在一起的时候你都要摸我的胸."
 
 
 
-    b "Which do you like more? Me or my breasts?"
+    b "你更喜欢哪个?我还是我的胸?"
 
 
 
@@ -65,15 +65,15 @@ label B_love_6:
 
 
 
-    player "Seriously? You are jealous at your own breasts now?"
+    player "认真的?你现在在嫉妒自己的胸?"
 
 
 
-    "Yeah, that’s why I am into her so much. As one of the smartest girl in our college, she somehow appears to have a sense of adorable silliness in the daily life."
+    "Yeah,这就是我为什么这么喜欢她的原因.作为我们学校最聪明的女孩之一,她在日常生活中似乎有一种可爱的傻气."
 
 
 
-    b "I hate you... ... ... ..."
+    b "我讨厌你............"
 
 
 
@@ -83,21 +83,21 @@ label B_love_6:
 
 
 
-    "5 minutes later..."
+    "5分钟后..."
 
 
 
     scene b_love_6_3 with tstmgr
 
-    b "S... stop... ... I feel weird..."
+    b "停...停下......我感觉怪怪的..."
 
 
 
-    player "Can we move on to the next step?"
+    player "我们可以进行下一步了吗?"
 
 
 
-    player "Let’s have sex, shall we? You will love it once you try for once. I can guarantee that."
+    player "我们做爱吧,好吗?只要你尝试一次,你就会爱上它.我可以保证."
 
 
 
@@ -107,11 +107,11 @@ label B_love_6:
 
     scene b_love_6_4 with tstmgr
 
-    b "Sorry... but I am still not ready for that."
+    b "对不起...我还没准备好."
 
 
 
-    b "I... I will make you some tea... ... Wait here."
+    b "我...我给你沏点茶...在这里等一下."
 
 
 
@@ -121,49 +121,49 @@ label B_love_6:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene b_love_6_5 with tstmgr
 
-    b "I’m back with the tea."
+    b "我回来了."
 
 
 
     scene b_love_6_6 with tstmgr
 
-    b "Yahhhh! Why did you get all your clothes off?"
+    b "Yahhhh!你为什么把衣服都脱了?"
 
 
 
-    player "Sen, I just can’t wait for any longer."
+    player "森,我不能再等了."
 
 
 
-    player "My penis is hard as hell now. It needs to get a release."
+    player "我的鸡儿现在硬得要命.它需要得到释放."
 
 
 
     scene b_love_6_7 with tstmgr
 
-    b "(Swallowing)... ... ... ..."
+    b "(吞咽)............"
 
 
 
-    b "But... ... ... ..."
+    b "但是............"
 
 
 
-    b "Sorry, I still need more time."
+    b "对不起,我还需要时间."
 
 
 
-    player "Oww, please..."
+    player "Oww,拜托..."
 
 
 
-    player "Why are you so afraid of having sex?"
+    player "你为什么这么害怕做爱?"
 
 
 
@@ -171,11 +171,11 @@ label B_love_6:
 
 
 
-    b "I'm just... not ready yet... ..."
+    b "我只是...还没准备好......"
 
 
 
-    b "But... maybe... I can help you with my hands."
+    b "但是...也许...我可以用我的手帮助你."
 
 
 
@@ -189,31 +189,31 @@ label B_love_6:
 
         scene b_love_6_8 with tstmgr
 
-        b "Oh dear... ... how could it be such big?"
+        b "Oh亲爱的......它怎么可以这么大?"
 
-        player "Eh... do you know how to... play it with your hands?"
+        player "Eh...你知道怎么...用你的手做吗?"
 
-        b "I will try... ..."
-
-        scene b_love_6_9 with tstmgr
-
-        b "Like this?"
-
-        player "Yeah, this would be fine. Just keep it up until the end."
-
-        b "Okay... ..."
+        b "我试一下......"
 
         scene b_love_6_9 with tstmgr
 
-        player "Oh yeah... ... This is fantastic... ..."
+        b "像这样?"
 
-        player "Keep going... ..."
+        player "Yeah,很好.继续."
+
+        b "嗯......"
+
+        scene b_love_6_9 with tstmgr
+
+        player "Oh,yeah......这太妙了......"
+
+        player "继续......"
 
         scene b_love_6_8 with tstmgr
 
-        b "It starts to quiver. Is that a problem?"
+        b "它开始抖动.没事吧?"
 
-        player "No, that means I feel very comfortable right now."
+        player "不,那意味着我现在感觉很舒服."
 
         b "Oh... okay."
 
@@ -221,21 +221,21 @@ label B_love_6:
 
         scene b_love_6_10 with tstmgr
 
-        b "You know, your penis actually looks quite cute."
+        b "你知道吗,你的小弟弟看起来很可爱."
 
-        b "I mean, it’s ugly, but cute at the same time."
+        b "我的意思是,它很丑,但同时也很可爱."
 
-        b "Especially when it starts to quiver."
+        b "尤其是当它开始抖动的时候."
 
         b "Hmmmm... ... ... ..."
 
         scene b_love_6_11 with tstmgr
 
-        b "(Kissing)... ... ... ..."
+        b "(亲吻)............"
 
-        player "What are you... ... God this feels good."
+        player "你......天哪这感觉真好."
 
-        player "Can you... please put it in your mouth?"
+        player "你能...把它放进你的嘴里?"
 
         b "... ... ... ..."
 
@@ -243,47 +243,47 @@ label B_love_6:
 
         b "Hum... hum... hummm... ..."
 
-        player "Oh my... ... I think I am going to... ..."
+        player "我的天......我觉得我要射了......"
 
         scene b_love_6_13 with tstmgr
 
         $ flashlight()
 
-        player "Cuming!!!"
+        player "射了!!!"
 
         b "Wmmmmmmmm!!!!!..."
 
         player "Owww... ... ... ..."
 
-        "To my surprise, Senning didn’t spit my penis out. Instead, she kept it in her mouth and accpeted all of my cum."
+        "令我惊讶的是,森柠并没有把我的鸡巴吐出来.相反,她把它放在嘴里,并接收了我所有的精液."
 
         scene b_love_6_14 with tstmgr
 
         b "Huh... ... ... ..."
 
-        player "Sen... ..."
+        player "森......"
 
         scene b_love_6_15 with tstmgr
 
-        b "(Swallowing) ... ... ... ..."
+        b "(吞下)............"
 
         scene b_love_6_16 with tstmgr
 
         b "Huh... huh... huh... huh... ... ..."
 
-        player "Oh dear, you drank it all?"
+        player "Oh亲爱的,你全吞下去了?"
 
-        b "I... ... ... ..."
+        b "我............"
 
-        player "How does it taste?"
+        player "它的味道如何?"
 
-        b "It tasted okay... because it has your scent... But... it was very thick... ..."
+        b "它尝起来还行...因为它有你的味道...但是...它太多了......"
 
-        b "The next time, please give me a warning before... you cum."
+        b "下次,在射之前...和我说一下."
 
-        b "I think... I need to wash my mouth, for about ten minutes."
+        b "我觉得...我要去漱个口,大约十分钟."
 
-        player "Sorry... ..."
+        player "抱歉......"
 
         scene void with tstmgr
 
@@ -298,71 +298,71 @@ label B_love_6:
 
         scene b_love_6_8 with tstmgr
 
-        b "Oh dear... ... how could it be such big?"
+        b "Oh亲爱的......它怎么可以这么大?"
 
-        player "Eh... do you know how to... play it with your hands?"
+        player "Eh...你知道怎么...用你的手做吗?"
 
-        b "I will try... ..."
-
-        scene b_love_6_9 with tstmgr
-
-        b "Like this?"
-
-        player "Yeah, this would be fine. Just keep it up until the end."
-
-        b "Okay... ..."
+        b "我试一下......"
 
         scene b_love_6_9 with tstmgr
 
-        player "Oh yeah... ... This is fantastic... ..."
+        b "像这样?"
 
-        player "Keep going... ..."
+        player "Yeah,很好.继续."
+
+        b "嗯......"
+
+        scene b_love_6_9 with tstmgr
+
+        player "Oh,yeah......这太妙了......"
+
+        player "继续......"
 
         b "... ... ... ..."
 
         scene b_love_6_17 with tstmgr
 
-        b "Your penis... has such a strong scent."
+        b "你的鸡鸡...味道很大."
 
-        b "It smells frowzy... offensive... disgusting... but attractive at the same time."
+        b "它闻起来...臭臭的...有点刺激...同时还有点恶心."
 
-        player "Are you serious?"
+        player "你是认真的吗??"
 
         scene b_love_6_18 with tstmgr
 
-        b "(Kissing)... ... ... ..."
+        b "(亲吻)............"
 
-        player "What are you... ... God this feels good."
+        player "你......天哪这感觉真好."
 
         scene b_love_6_19 with tstmgr
 
-        b "(Licking)... ... ... ..."
+        b "(舔尝)............"
 
-        b "So stinky... ..."
+        b "真臭......"
 
-        b "that I can't even breathe... ..."
+        b "我甚至不能呼吸了......"
 
         scene b_love_6_20 with tstmgr
 
-        b "But... I couldn’t stop... ..."
+        b "但是...我停不下来......"
 
-        player "(Owww... I can’t believe it.)"
+        player "(Owww...无法相信.)"
 
-        player "(Senning, the most elegant girl I have ever seen, is now licking my glans like a slut.)"
+        player "(森柠,我见过的最优雅的女孩,现在像个荡妇一样舔着我的龟头.)"
 
-        player "Oh my... ... I think I am going to... ..."
+        player "我的天......我觉得我要射了......"
 
         scene b_love_6_21 with tstmgr
 
         $ flashlight()
 
-        player "Cuming!!!"
+        player "射了!!!"
 
         b "Wmmmmmmmm!!!!!..."
 
-        player "(She put my dick in her mouth at the last second to get my cum?!)"
+        player "(她在最后一秒把我的鸡儿塞进她嘴里?!)"
 
-        player "(Jesus... I think she really has a potential to be a slut.)"
+        player "(天哪...我觉得她真的有成为荡妇的潜质.)"
 
         player "Owww... ... ... ..."
 
@@ -370,31 +370,31 @@ label B_love_6:
 
         b "Huh... ... ... ..."
 
-        player "Sen... ..."
+        player "森......"
 
         scene b_love_6_15 with tstmgr
 
-        b "(Swallowing) ... ... ... ..."
+        b "(吞下)............"
 
         scene b_love_6_16 with tstmgr
 
         b "Huh... huh... huh... huh... ... ..."
 
-        player "Oh dear, you drank it all?"
+        player "Oh亲爱的,你全吞下去了?"
 
-        b "I... ... ... ..."
+        b "我............"
 
-        b "I was a little curious about its taste... ..."
+        b "我对它的味道有点好奇......"
 
-        player "So... how does it taste?"
+        player "所以...味道怎么样?"
 
-        b "It tasted... okay because it has your scent. But... it was very thick... ..."
+        b "它尝起来...还行,因为它有你的味道.但是...它太多了......"
 
-        b "I think... I need to wash my mouth, for about ten minutes."
+        b "我觉得...我要去漱个口,大约十分钟."
 
         player "... ... ... ..."
 
-        player "Sorry... ..."
+        player "抱歉......"
 
         scene void with tstmgr
 

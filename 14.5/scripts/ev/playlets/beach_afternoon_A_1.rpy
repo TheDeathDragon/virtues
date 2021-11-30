@@ -2,33 +2,33 @@ label beach_afternoon_A_1:
 
     scene beach_afternoon_a_1_1 with tstmgr
 
-    a "Thanks for bringing me here."
+    a "谢谢你带我来."
 
 
 
-    a "You know... I never had a chance to come to a beach like this before. There is no beach in my hometown."
+    a "你知道的...我以前从来没有机会来这样的海滩.在我的家乡没有海滩."
 
 
 
-    player "So what do you think of this place?"
+    player "你觉得这个地方怎么样?"
 
 
 
-    a "It feels... free. It is like a place where people can abandon the sense of shame for a little while."
+    a "感觉...自由.它就像一个人们可以暂时抛弃羞耻感的地方."
 
 
 
-    a "I mean, I will definitely be too embarrassed to walk in the city in the bikini. But in here it’s just a normal thing that everybody does the same."
+    a "我的意思是,我肯定会因为穿着比基尼在城市里走路而感到尴尬.但在这里,就很正常了."
 
 
 
     scene beach_afternoon_a_1_2 with tstmgr
 
-    player "Yeah, you are absolutely right."
+    player "Yeah,你说对了."
 
 
 
-    player "People are all kind of shameless here..."
+    player "这里的人都有点无耻..."
 
 
 
@@ -36,7 +36,7 @@ label beach_afternoon_A_1:
 
 
 
-    a "But it still feels weird when you do this to me... ..."
+    a "但你这样对我还是感觉怪怪的......"
 
 
 

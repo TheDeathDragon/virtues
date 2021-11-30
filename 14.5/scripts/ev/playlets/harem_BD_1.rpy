@@ -2,7 +2,7 @@ label harem_BD_1:
 
     scene harem_bd_1_1 with tstmgr
 
-    b "Yaaaaaaah~~~ So cute~~"
+    b "Yaaaaaaah~~~ 太可爱了~~"
 
 
 
@@ -10,19 +10,19 @@ label harem_BD_1:
 
 
 
-    b "How can there be such a cute creature like you in this world~~~"
+    b "这个世界上怎么会有你这样可爱的生物呢~~~"
 
 
 
     scene harem_bd_1_2 with tstmgr
 
-    d "Emmmm... ... It’s happy to hear people say I’m cute, but... ..."
+    d "Emmmm... ... 听到别人说我很可爱,我很高兴,但是... ..."
 
 
 
     scene harem_bd_1_3 with tstmgr
 
-    d "I will be bald if you keep rubbing my head like this!"
+    d "如果你继续这样揉搓我的头,我就会变成秃子了!"
 
 
 
@@ -34,21 +34,21 @@ label harem_BD_1:
 
     scene harem_bd_1_5 with tstmgr
 
-    b "Sorry, Irene... ... I lost myself again..."
+    b "对不起,艾琳.......我又迷失了自我..."
 
 
 
-    b "Sometimes I just couldn’t control myself and I would cause troubles for my friends... ..."
+    b "有时我无法控制自己,会给朋友带来麻烦... ..."
 
 
 
     scene harem_bd_1_6 with tstmgr
 
-    d "Will you lose yourself in front [P] too?"
+    d "你会不会也在 [P] 面前失去自我?"
 
 
 
-    b "All the time."
+    b "一直都是."
 
 
 
@@ -58,19 +58,19 @@ label harem_BD_1:
 
 
 
-    b "Please don’t hate me... ..."
+    b "请不要讨厌我... ..."
 
 
 
     scene harem_bd_1_8 with tstmgr
 
-    d "What are you talking about? I was actually kinda... enjoying it~"
+    d "你在说什么呢?我实际上有点...喜欢它~"
 
 
 
     scene harem_bd_1_9 with tstmgr
 
-    d "But you can’t rub my head like that again!"
+    d "但你不能再这样揉我的头了!"
 
 
 

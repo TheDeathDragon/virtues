@@ -4,57 +4,57 @@ label bnb_frontyard_evening_C_1:
 
     scene bnb_frontyard_evening_c_1_1 with tstmgr
 
-    c "Why... the fuck are you so hurry? Can't you just wait until we get home?"
+    c "为什么...你他妈的这么急?你就不能等我们回家再做吗?"
 
 
 
-    player "Sorry, Theo, I just can't hold it anymore~"
+    player "对不起,西奥,我实在忍不住了~"
 
 
 
     scene bnb_frontyard_evening_c_1_2 with tstmgr
 
-    player "I want you so bad!"
+    player "我太想要你了!"
 
 
 
-    c "Ahhhhhhh~~~~~~~ You beast~~~~"
+    c "Ahhhhhhh~~~~~~~你个禽兽~~~~"
 
 
 
     scene bnb_frontyard_evening_c_1_3 with tstmgr
 
-    a "*Opened the door* Hmmm? I think I just heard something weird..."
+    a "*打开门*Hmmm?我好像听到了奇怪的声音..."
 
 
 
-    a "Hello? Is anyone at the gate?"
+    a "Hello?门口有人吗?"
 
 
 
     scene bnb_frontyard_evening_c_1_4 with tstmgr
 
-    player "Oh, hi, Vera, it's me~"
+    player "Oh,hi,薇拉,是我~"
 
 
 
-    a "[P]? What are you doing outside?"
+    a "[P]?你在外面干什么?"
 
 
 
-    player "I... I lost my wallet. It might be in the bushes so I'm looking for it..."
+    player "我...我的钱包丢了.它可能落在灌木丛里了,所以我在找它..."
 
 
 
-    a "Oh, okay... Do you need help?"
+    a "Oh,okay...你需要帮忙吗?"
 
 
 
-    player "No worry, thanks, you can just get inside and I'll meet you later~"
+    player "不用担心,谢谢,你可以进去了,等会儿见~"
 
 
 
-    a "Fine, good luck. See you later~"
+    a "Fine,祝你好运.待会见~"
 
 
 
@@ -66,11 +66,11 @@ label bnb_frontyard_evening_C_1:
 
     scene bnb_frontyard_evening_c_1_6 with tstmgr
 
-    player "Ha, that was close~"
+    player "Ha,好险~"
 
 
 
-    c "Fuck... you... ... ... ..."
+    c "操...你............"
 
 
     $ add(C, C.love, 1)

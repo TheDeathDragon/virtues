@@ -3,11 +3,11 @@ label G_love_1:
     scene void with tstmgr
     play music happy
 
-    "It has been a while since Uno moved in. "
+    "乌诺搬进来已经有一段时间了."
 
-    "Well, she is undoubtedly a good housemate. Never made any noise, always be quiet like a cat, and kept her room clean all the time. You can't ask for better."
+    "Well,她无疑是个好室友.从不制造任何噪音,总是像猫一样安静,并始终保持她的房间干净."
 
-    "But... There is one thing that I am still not use to dealing with..."
+    "但是有一件事我还不习惯处理..."
 
     "... ... ... ..."
 
@@ -15,36 +15,36 @@ label G_love_1:
 
     scene frontdoor_day_background with tstmgr
 
-    "Deliverer" "Parcel service! Package for Miss U."
+    "快递员""U小姐的快递."
 
-    "Here we go again..."
+    "又来了..."
 
-    "I went to the front door."
+    "我走到前门."
 
-    "Deliverer" "Good morning, sir."
+    "快递员""早上好,先生."
 
-    player "Morning..."
+    player "早上好..."
 
-    player "If I'm not mistaken... This has been the 12th delivery this week, right?"
+    player "如果我没记错...这已经是本周的第12次了?"
 
-    "Deliverer" "Yep... "
+    "快递员""Yep... "
 
     player "... ... ... ..."
 
-    player "Okay, I'll take it for her. Thank you."
+    player "Okay,我替她拿.谢谢你."
 
     scene void with dissolve
     "... ... ... ..."
 
-    "As a famous coser, Uno receives a ton of packages. Most are costumes, but she also receives gifts from her fans."
+    "作为一个著名的coser,乌诺总是会收到很多包裹.大部分是她的cos服,其余的是粉丝送的礼物."
 
-    "Some crazy dudes may even send her something weird for harassment, including but not limited to love letters, sexy lingeries, and vibrators. "
+    "一些疯狂的家伙甚至会给她寄一些奇怪的东西来骚扰她,包括但不限于情书,性感内衣和跳蛋."
 
-    "Well, I guess that's the price you pay for becoming famous on social media. "
+    "Well,我猜这就是你在社交媒体上成名的代价."
 
-    "I took the package to Uno's room."
+    "我来到乌诺的房间."
 
-    player "Knock, knock."
+    player "咚,咚."
 
     scene g_love_1_1 with longdissolve
 
@@ -54,222 +54,222 @@ label G_love_1:
 
     scene g_love_1_2 with tstmgr
 
-    player "A new package for you."
+    player "你的新包裹."
 
-    g "Thanks."
+    g "谢谢."
 
-    player "It's nothing, but I am curious about what's inside. Mind if I stick around and watch you open it?"
+    player "没什么.但我真的很好奇那个箱子里装的是什么.你介意我呆在这儿看你打开吗?"
 
     scene g_love_1_3 with tstmgr
 
-    g "That's an invasion of my privacy."
+    g "那是对我隐私的侵犯."
 
     g "... ... ... ..."
 
     scene g_love_1_2 with tstmgr
 
-    g "Nevermind."
+    g "算了."
 
     scene void with tstmgr
 
-    "She opened the package in front of me."
+    "她在我面前打开了包裹."
 
     scene g_love_1_4 with tstmgr
 
-    g "It's..."
+    g "它是..."
 
     scene g_love_1_5 with tstmgr
 
-    g "a bathing suit from... Irene."
+    g "一件泳衣...艾琳寄的."
 
-    player "Irene?"
+    player "艾琳?"
 
-    g "Seems like a gift. "
+    g "像是一份礼物."
 
-    g "And there is a letter."
+    g "有一封信."
 
-    g "{i}My mom ordered this suit on the internet, it is a little smaller than she thought, but I thought it might fit you well.{/i}"
+    g "{i}我妈妈在网上订了这套衣服,它比她想的要小一点,但我想它可能很适合你.{/i}"
 
-    g "{i}If it fits you, please shoot one or two photos of yourself with this suit on and send to me. I can't wait to see!{/i}"
+    g "{i}如果适合你,请拍一到两张你穿这件衣服的照片发给我.我等不及要看了!{/i}"
 
-    g "{i}Your BFF, Stratholme Culler.{/i}"
+    g "{i}你永远的好朋友,StratholmeCuller(艾琳的网名).{/i}"
 
     player "... ... ... ..."
 
-    g "So.... how's your photography skill?"
+    g "所以....你的摄影技术怎么样?"
 
-    player "Eh... not bad, and I also have an expensive SLR camera."
+    player "Eh...还行,我还有一台很贵的单反相机."
 
-    player "Do you want me to take photos of you in that suit?"
+    player "你要穿上这套衣服让我给你拍两张吗?"
 
-    "Uno answered with a nod."
+    "乌诺点头应答."
 
-    player "Great, what are we waiting for?"
+    player "太好了,我们还在等什么?"
 
-    player "Taking photos for a bikini girl has always been a dream of mine."
+    player "给比基尼女孩拍照一直是我的梦想."
 
     scene void with dissolve
 
     "... ... ... ..."
 
-    "She left me to decide the shooting site, so I suggest her to do it in the bathroom. I mean, that's a bathing suit, after all."
+    "她让我决定拍摄地点,所以我建议她在浴室里拍摄.我是说,那毕竟是件比基尼."
 
-    player "Finished changing?"
+    player "你换好了吗?"
 
-    g "Yes, you can come in now."
+    g "是的,你现在可以进来了."
 
     scene g_love_1_6 with longdissolve
 
     "... ... ... ..."
 
-    player "Wow, nice suit."
+    player "Wow,很棒的衣服."
 
-    player "So... what should I do?"
+    player "所以...我该怎么办?"
 
-    g "I do poses, you take photos, very simple."
+    g "我摆姿势,你拍照,很简单."
 
     player "Okay... "
 
     scene g_love_1_7 with tstmgr
 
-    g "First pose."
+    g "第一个姿势."
 
-    "*Shutter sound* Kaka Kaka."
+    "*快门声音*KakaKaka."
 
     scene g_love_1_8 with tstmgr
 
-    g "Second."
+    g "第二个."
 
-    "*Shutter sound* Kaka Kaka."
+    "*快门声音*KakaKaka."
 
-    g "Okay, I think that's it. "
+    g "Okay,我想就这些了."
 
-    player "What? That's it?"
+    player "什么?就这些?"
 
     scene g_love_1_9 with tstmgr
 
-    g "This is not a formal shoot. Irene said she only wanted 1 or 2 pictures."
+    g "这不是一个正式的拍摄场景.艾琳说她只需要一两张照片."
 
     player "... ... ... ..."
 
-    player "Can we do another one, please? The last one."
+    player "我们可以再拍一个吗?最后一个."
     " "
     g "... ... ... ..."
 
     scene g_love_1_8 with tstmgr
 
-    g "Fine, but what pose should I make?"
+    g "好吧,但我该摆什么姿势呢?"
 
-    player "Can you do something sexier?"
+    player "你能做点更性感的姿势吗?"
 
     g "... ... ... ..."
 
     scene g_love_1_10 with tstmgr
 
-    g "You mean like this?"
+    g "你的意思是像这样?"
 
-    player "Yeah! This is perfect."
+    player "Yeah!这真是太完美了."
 
-    "*Shutter sound* Kaka Kaka."
+    "*快门声音*KakaKaka."
 
-    "Alright, that should be enough."
+    "好了,应该够了."
 
 
     menu:
-        "This is it":
+        "就这样":
 
 
-            player "Okay, I'm done."
+            player "Okay,我拍好了."
 
             scene g_love_1_11 with tstmgr
 
-            g "Thanks, [P]."
+            g "谢谢,[P]."
 
-            player "Can I have some copies of the photos?"
+            player "我可以留一些照片的副本吗?"
 
             g "... ... ... ..."
 
-            g "If you like them."
+            g "你喜欢就好."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "I spent some time with Uno in the house."
+            "我和乌诺在家里呆了一段时间."
 
             "... ... ... ..."
-        "Ask for more":
+        "要更多":
 
 
             player "... ... ... ..."
 
-            player "Can you please... hold that pose for a minute?"
+            player "你能...保持这个姿势一分钟吗?"
 
             scene g_love_1_12 with tstmgr
 
-            g "Emm... fine, but why? Something wrong with photos?"
+            g "Emm...好吧,但是为什么呢?拍摄有问题吗?"
 
-            player "No, everything is fine. It's just..."
+            player "不,一切都很好.只是..."
 
             scene g_love_1_13 with tstmgr
 
             g "???"
 
-            g "Why did you come here?"
+            g "你过来做什么?"
 
             scene g_love_1_14 with tstmgr
 
-            g "And why did you get off my cover up?"
+            g "你为什么...?"
 
-            g "What are you doing? Are you trying to..."
+            g "你在干什么?你是想..."
 
             scene g_love_1_15 with tstmgr
 
             g "Ahh... ... ... ..."
 
-            player "That's more like it."
+            player "这样才好."
 
             scene g_love_1_16 with tstmgr
 
-            "I grabbed her breasts from behind."
+            "我从后面抓住她的乳房."
 
-            player "I'm using my 30 seconds of today right now. This is the rule that set by yourself, remember?"
+            player "我正在用我今天的30秒.这是你自己定的规则.你不能拒绝我."
 
             g "Aww... ... ... ..."
 
-            g "Okay, okay, just do it quick."
+            g "Okay,okay,快点."
 
             scene g_love_1_17 with tstmgr
 
-            player "Ha, yes, softer than the finest pillow."
+            player "Ha,yes,比最好的枕头还要软."
 
             g "... ... ... ..."
 
             scene g_love_1_18 with tstmgr
 
-            player "My hands can't even cover 1/3 of your breasts. They are just so magnificent."
+            player "我的手甚至盖不住你三分之一的乳房.它们太妙了."
 
-            g "*Joyful moaning* Ah... Ohhhh... ..."
+            g "(发出欢快的声音)Ah........."
 
             scene g_love_1_19 with tstmgr
 
-            "At the same time, my lower body pressed against her butt and she writhed against my protruding member. It feels so good."
+            "与此同时,我的下半身贴着她的屁股扭动着.感觉真好."
 
-            g "This is... not part of the deal. This is... sexual harassment."
+            g "这...这不是交易的一部分.这是...性骚扰."
 
-            g "And time is up..."
+            g "时间到了..."
 
-            player "Okay, okay. I am a man of my word."
+            player "Okay,okay.我是个说话算数的人."
 
             scene void with tstmgr
 
-            "I released her and put some distance between us."
+            "我放下双手,与她保持一定的距离."
 
             scene g_love_1_20 with tstmgr
 
             g "Hmm... ... ... ..."
 
-            g "I hate you."
+            g "我讨厌你."
 
             scene void with tstmgr
 

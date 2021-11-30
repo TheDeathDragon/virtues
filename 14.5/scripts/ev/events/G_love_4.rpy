@@ -3,77 +3,77 @@ label G_love_4:
     scene void with tstmgr
     play music happy
 
-    "I went back to my room later tonight, and Uno was already there waiting for me."
+    "今晚晚些时候我回到我的房间,乌诺已经在那里等我了."
 
 
 
     scene g_love_4_1 with dissolve
 
-    g "Are you ready to help me make another video?"
+    g "你准备好帮我再做一个视频了吗?"
 
 
 
     scene g_love_4_2 with tstmgr
 
-    g "My subscribers keep increasing lately, thanks to your help."
+    g "由于你的帮助,我的订阅这些天来一直在增加."
 
 
 
-    g "We should keep it up and make more videos like the last one."
+    g "我们应该跟上,制作更多像上次那样的视频."
 
 
 
     scene g_love_4_3 with tstmgr
 
-    player "But I don’t think another general breast-touching video will be as successful as the last one."
+    player "但我不认为另一个普通的摸胸视频能像上一个一样成功."
 
 
 
-    player "I mean, the last one was a hit because it was your first video featuring both a man and your sexy voice. I don't think we can accheive the same response by simply repeating the past."
+    player "我的意思是,上一个视频成功是因为它是你的视频里第一次有别人在里面.我认为如果我们继续制作这样的视频,我们不会取得同样的成就."
 
 
 
-    player "Do you want to reconsider my suggestion?"
+    player "你想考虑我的建议吗?"
 
 
 
-    g "What suggestion?"
+    g "什么建议?"
 
 
 
-    player "That you should record yourself masturbating?"
+    player "你应该在录像中记录你的自慰?"
 
 
 
     scene g_love_4_4 with tstmgr
 
-    g "Wummmm... no..."
+    g "Wummmm...不..."
 
 
 
-    "She shook her head and groaned like a spoiled kid."
+    "她摇了摇头,像个被宠坏的孩子一样呻吟着."
 
 
 
-    g "I just want to make videos about my breasts..."
+    g "我只是想做一个关于我胸部的视频..."
 
 
 
-    player "Eh... okay, I get it."
+    player "Eh...okay,我懂了."
 
 
 
-    player "Then how about this? Let's make another video about your breasts, but we'll do it my way and see how people like it."
+    player "那这个呢?让我们再做一个关于你胸部的视频,但这次让我们用我的方式来做,看看它是否会有所改变."
 
 
 
     scene g_love_4_5 with tstmgr
 
-    g "In your way? What do you mean?"
+    g "用你的方式?你是什么意思?"
 
 
 
-    player "You’ll find out... ... ... ..."
+    player "你会知道的............"
 
 
 
@@ -87,21 +87,21 @@ label G_love_4:
 
 
 
-    "The next afternoon, in Uno’s room."
+    "第二天下午,在乌诺的房间里."
 
 
 
     scene g_love_4_6 with tstmgr
 
-    player "(Talking to the camera) What’s up, guys? Today I’m going to show you some really good stuff with my tits slave here, MissU."
+    player "(对着镜头说话)伙计们好?今天我要给大家展示一些关于我的奶子奴隶的好东西,U小姐."
 
 
 
-    g "T... tits slave? What are you talking about... ..."
+    g "奶...奶子奴隶?你在说些什么......"
 
 
 
-    player "Say hi to the audiences, MissU."
+    player "向观众问好,U小姐."
 
 
 
@@ -113,73 +113,73 @@ label G_love_4:
 
     scene g_love_4_8 with tstmgr
 
-    g "Hi, people. This is MissU and I am his... tits slave."
+    g "Hi,大家好.我是U小姐,我是他的...奶子奴隶."
 
 
 
-    "Hah, she is getting into her character faster than I expected."
+    "Hah,她融入角色的速度比我预料的要快."
 
 
 
     scene g_love_4_9 with tstmgr
 
-    g "I wish you all can enjoy this video."
+    g "我希望你们都能喜欢这个视频."
 
 
 
-    player "Alright, today I’m going to show you guys the right way to play with your girl’s big tits."
+    player "好了,今天我要给你们展示一下怎样玩你女朋友的大咪咪."
 
 
 
-    player "I mean, it is so sad to see how western porn neglects the importancy of breast-play."
+    player "我的意思是,看到西方的色情片忽视了前戏的重要性,我感到很难过."
 
 
 
-    player "Most of the guys in western porns will just rub their girls’ boobs roughly for 10 seconds, and suck them roughly for another 10..."
+    player "大多数西方的色情片里的男人只会粗略地摩擦他们女孩的胸部10秒钟,然后粗略地吮吸它们10秒钟..."
 
 
 
-    player "And then they will turn to focus on the pussy and never pay attention on boobs again."
+    player "然后他们会把注意力转向小穴,再也不会注意胸部."
 
 
 
-    player "That’s a fucking waste, don’t you think? Every woman has a pussy, but not all of them have a pair of large, voluptuous boobs. Why the hell would you ignore them like that?"
+    player "这真是浪费,你不觉得吗?每个女孩都有小穴,但不是每个女孩都有两个漂亮的大奶子.你为什么这样无视它们?"
 
 
 
     scene g_love_4_10 with tstmgr
 
-    player "So, now, let me show you the correct attitude to deal with your woman's tits."
+    player "所以,现在,让我告诉你正确的对待奶子的态度."
 
 
 
-    g "(Swallowing) ... ... ... ..."
+    g "(吞下)............"
 
 
 
-    player "First of all, let’s try turn her on with stimulating her nipples."
+    player "首先,让我们试着刺激她的乳头."
 
 
 
-    player "Are you ready for this, MissU?"
+    player "你准备好了吗,U小姐?"
 
 
 
-    g "I... I don’t even know what you are up to... ..."
+    g "我...我甚至不知道你在做什么......"
 
 
 
     scene g_love_4_11 with tstmgr
 
-    player "Just answer my question, tits slave!"
+    player "回答我的问题,奶子奴隶!"
 
 
 
-    g "Oh... okay... ... I’m ready..."
+    g "Oh...okay......我准备好了..."
 
 
 
-    player "Alright then."
+    player "很好."
 
 
 
@@ -189,21 +189,21 @@ label G_love_4:
 
 
 
-    g "Your finger~~ stop!~~~"
+    g "你的手指~~停!~~~"
 
 
 
-    player "See, people? Use your finger, especially the nail part to stimulate girl’s nipples. Just be sure not to keep your nails too long or make it too hard. You don’t want to hurt your girl."
+    player "大家看到了吗?用你的手指,尤其是指甲部分来刺激女孩的乳头.不过要注意指甲不要留得太长或太硬.你不会想伤害你的女孩."
 
 
 
-    player "If you control your strength good enough, it will drive girls crazy, and make their nipples hard as hell in less than 5 seconds."
+    player "如果你足够好地控制你的力量,它会让女孩们发疯,在不到5秒的时间里让她们的乳头梆鸡儿硬."
 
 
 
     scene g_love_4_13 with tstmgr
 
-    player "Better using two hands at the same time."
+    player "最好同时使用两只手."
 
 
 
@@ -211,31 +211,31 @@ label G_love_4:
 
 
 
-    player "Yes, yes, I can feel how hard your nipples are right now, horny girl~"
+    player "Yes,yes,我能感觉到你的乳头现在有多硬,好色的女孩~"
 
 
 
     scene g_love_4_14 with tstmgr
 
-    player "And audiences, don’t stop just there, keep your fingers in this way for at least 2 minutes."
+    player "观众们,不要止步于此,这样保持你的手指至少2分钟."
 
 
 
-    g "Two minutes? That’s... ... too long~~"
+    g "两分钟?这......太久了~~"
 
 
 
-    player "It’s like your nipples are fucked by two miniature dicks, isn’t it?"
+    player "就像你的乳头被两个小弟弟操了,不是吗?"
 
 
 
     scene g_love_4_15 with tstmgr
 
-    g "My nipples... are getting fucked by two... dicks?"
+    g "我的乳头...被两个...小弟弟操了?"
 
 
 
-    player "Yeah, and it makes you so excited just thinking of that picture, right, MissU?"
+    player "Yeah,一想到这副画面你就会很兴奋,U小姐?"
 
 
 
@@ -245,13 +245,13 @@ label G_love_4:
 
 
 
-    g "Yes... my nipples... have never been this hard before."
+    g "Yes...我的乳头...从没这么硬过."
 
 
 
     scene g_love_4_17 with tstmgr
 
-    g "Yes... yes... fuck my nipples... ..."
+    g "Yes...yes...操我的乳头......"
 
 
 
@@ -259,7 +259,7 @@ label G_love_4:
 
 
 
-    player "Seems like she's now completely given in to her arousal..."
+    player "现在她似乎完全处于性兴奋状态..."
 
 
 
@@ -267,23 +267,23 @@ label G_love_4:
 
     "... ... ... ..."
 
-    player "Now let’s move on to the next step."
+    player "现在让我们进入下一步."
 
 
 
     scene g_love_4_18 with tstmgr
 
-    player "It’s time to use your mouth, gentlemen."
+    player "绅士们,是时候动嘴了."
 
 
 
-    g "(Moaning with lust) Mouth... ... ... ..."
+    g "(欲望的呻吟)嘴............"
 
 
 
     scene g_love_4_19 with tstmgr
 
-    player "First, use your lips to envelop the nipple. Remember, just your lips. Don't get the teeth involved just yet."
+    player "首先,用你的嘴唇咬乳头.记住,不是牙齿,是嘴唇."
 
 
 
@@ -291,7 +291,7 @@ label G_love_4:
 
 
 
-    player "Don’t just moan, talk to the audiences, describe your feeling, make people as horny as you are."
+    player "不要只是呻吟,和观众们交谈,描述你的感受,让人们和你一样饥渴."
 
 
 
@@ -299,17 +299,17 @@ label G_love_4:
 
 
 
-    g "Your mouth is... warm... and moist... ... My nipple feels... tingly... ..."
+    g "你的嘴好...温暖...好滋润...我的乳头的感觉...很舒服......"
 
 
 
-    "Hmm... she is definitely not good at it yet, but I can see that she is trying her best to describe the feeling. With a bit of practice she'll be able to use her voice to drive her fans wild."
+    "Hmm...她肯定还不擅长,但我能看出她在尽力描述自己的感受."
 
 
 
     scene g_love_4_20 with tstmgr
 
-    player "Now I’m gonna softly rub the top of your nipple with my teeth, and suck it."
+    player "现在我要用我的牙齿轻轻地摩擦你的乳头顶部,然后吸它."
 
 
 
@@ -321,11 +321,11 @@ label G_love_4:
 
 
 
-    g "This is... too much... ..."
+    g "这...受不了了......"
 
 
 
-    g "The way you suck... hurts a bit... but feels so good~~"
+    g "你吸吮的方式...有点痛...但感觉很好~~"
 
 
 
@@ -335,7 +335,7 @@ label G_love_4:
 
 
 
-    "I continued to suck on her nipple and graze it with my teeth for about two minutes. At this point, I began sucking harder and used my other hand to stimulate her free nipple."
+    "我继续这样做了2分钟,然后突然增强了吸吮的力量,用一只手去刺激她的另一个乳头."
 
 
 
@@ -345,17 +345,17 @@ label G_love_4:
 
     scene g_love_4_22 with tstmgr
 
-    g "Ahh~~ Ahhh~~ I'm going crazy!!! [P], stop shooting the video!~"
+    g "Ahh~~Ahhh~~我不想再这样了.[P],别拍了!~"
 
 
 
-    player "Tits slave doesn’t get a chance to speak."
+    player "奶子奴隶没权利说话."
 
 
 
     scene g_love_4_23 with tstmgr
 
-    player "(Sipping) Zummmm... zumm... ... zip... ... zip... ..."
+    player "(呲溜)Zummmm...zumm......zip......zip......"
 
 
 
@@ -365,11 +365,11 @@ label G_love_4:
 
     scene g_love_4_24 with tstmgr
 
-    g "I can’t take this!!!!!~~~~~"
+    g "我受不了了!!!!!~~~~~"
 
 
 
-    "Her moaning stopped abruptly at the next second."
+    "接着,她的呻吟突然停止了."
 
 
 
@@ -379,23 +379,23 @@ label G_love_4:
 
 
 
-    player "U... I mean, MissU, are you okay?"
+    player "U...我是说,U小姐,你还好吗?"
 
 
 
-    player "Seems like she just fainted away..."
+    player "她好像是昏过去了..."
 
 
 
     scene g_love_4_26 with tstmgr
 
-    player "(Kissing) ... ... ... ..."
+    player "(亲吻)............"
 
 
 
     scene g_love_4_27 with tstmgr
 
-    player "Alright, guess this is the end of today’s video. See you next time, guys."
+    player "好了,今天的视频就到这里.下次见,伙计们."
 
 
 
@@ -405,7 +405,7 @@ label G_love_4:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
@@ -421,35 +421,35 @@ label G_love_4:
 
 
 
-    g "I... ... What happened?"
+    g "我......发生了什么?"
 
 
 
-    player "Ah, you are awake~"
+    player "Ah,你醒啦~"
 
 
 
     scene g_love_4_30 with tstmgr
 
-    g "How long have I... slept?"
+    g "我...睡了多久?"
 
 
 
-    player "Only a couple of hours. I bought you your favorite fried chicken. It’s in the kitchen."
+    player "只有几个小时.我给你买了你最喜欢的炸鸡.它在厨房里."
 
 
 
     scene g_love_4_31 with tstmgr
 
-    g "Thanks... ..."
+    g "谢谢......"
 
 
 
-    g "Have you uploaded the video?"
+    g "你上传视频了吗?"
 
 
 
-    player "Not yet. I need to cover my eyes with mosaics first. You know, I’m kind of famous on the internet because of my dad. I can’t let people recognize me in a porn video."
+    player "还没有.我需要先用马赛克把眼睛遮住.你知道,因为我爸爸,我在网上有点名气.我不能让别人在色情视频里认出我."
 
 
 
@@ -459,7 +459,7 @@ label G_love_4:
 
 
 
-    player "Trust me, that video is going to go viral. You did a great job."
+    player "相信我,这个视频会被疯传的.你做得很好."
 
 
 
@@ -469,7 +469,7 @@ label G_love_4:
 
     scene g_love_4_33 with tstmgr
 
-    g "(My nipples are getting hard just recalling what he did to me in that video...)"
+    g "(回想起他在视频中对我所做的一切,我的乳头开始变硬了...)"
 
 
 
