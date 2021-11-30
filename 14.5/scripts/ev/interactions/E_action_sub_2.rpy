@@ -75,7 +75,7 @@ label E_action_sub_2:
 
 
 
-    label E_action_sub_2_lover_choice_1:
+    label E_action_sub_2_choice_1:
 
     menu:
         "胸部":
@@ -338,7 +338,7 @@ label E_action_sub_2:
             scene e_action_sub_2_25 with tstmgr
 
             pause
-我觉得我被假阳具强奸了
+            
             e "我觉得我被假阳具强奸了!~~~~"
 
             e "Ohhhhhh~~~ 我将会爱上这种感觉~~~"

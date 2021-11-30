@@ -465,7 +465,7 @@ label B_train_inti_3:
 
 
 
-    scene b_train_inti_3_38,带tstmgr
+    scene b_train_inti_3_38 with tstmgr
 
     b "*吻*[P]的舌头......好甜......嗯~~"
 

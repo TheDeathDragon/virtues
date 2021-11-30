@@ -17,7 +17,7 @@ define build_type = BUILD_TYPE_PC
 
 define build_platform = build_type
 define asset_type = build_type
-define partial_build = True
+define partial_build = False
 
 
 define gui.main_menu_background = "bg1410"

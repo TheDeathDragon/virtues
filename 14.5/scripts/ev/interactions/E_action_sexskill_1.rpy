@@ -26,7 +26,7 @@ label E_action_sexskill_1:
 
 
 
-    label E_action_sexskill_1_lover_choice_1:
+    label E_action_sexskill_1_choice_1:
 
     menu:
         "奶子":

@@ -1,4 +1,4 @@
-label C_action_sha_2_fiancee:
+label C_action_sha_2:
 
     scene void with tstmgr
 

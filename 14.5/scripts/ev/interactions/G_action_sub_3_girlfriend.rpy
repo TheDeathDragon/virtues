@@ -40,7 +40,7 @@ label G_action_sub_3_girlfriend:
 
 
 
-    label G_action_sub_3_sexpartner_choice_1:
+    label G_action_sub_3_girlfriend_choice_1:
 
     menu:
         "直接接听电话":
