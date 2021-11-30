@@ -1,5 +1,10 @@
 # Virtues translation project
 
+## Unrpy
+```cmd
+for %i in (*.rpa) do (unrpa %i)
+```
+
 ## Commands
 ```bash
 # 提交
