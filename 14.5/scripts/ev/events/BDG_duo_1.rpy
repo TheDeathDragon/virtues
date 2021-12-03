@@ -5,51 +5,51 @@ label BDG_duo_1:
     scene bdg_duo_1_1 with dissolve
     play music happy
 
-    b "Mmmmmm... ... Uno, you are wearing that collar again... ..."
+    b "Mmmmmm... ... 乌诺，你又戴上了那个项圈... ..."
 
 
 
-    g "Yes~ do you like it?"
+    g "是的~你喜欢它吗?"
 
 
 
     scene bdg_duo_1_2 with tstmgr
 
-    b "Not at all, my mother is a costume designer, so I know one thing or two about fashion too."
+    b "一点也不，我母亲是一名服装设计师，所以我也恰好知道一些关于时尚的事情."
 
 
 
-    b "And I really don’t think this collar matches you. It is like... a disaster of fashion."
+    b "我真的不认为这个领子与你相配.这就像......一场时尚的灾难."
 
 
 
     scene bdg_duo_1_3 with tstmgr
 
-    g "But it was a gift from [P]~"
+    g "但这是一个来自[P]的礼物~"
 
 
 
     scene bdg_duo_1_4 with tstmgr
 
-    b "Yeah, I know, you don’t have to remind me again..."
+    b "是的，我知道，你不用再提醒我了..."
 
 
 
-    g "Come on, Senning, just admit that you are jealous~"
+    g "来吧，森柠，承认你嫉妒了~"
 
 
 
     scene bdg_duo_1_5 with tstmgr
 
-    b "No, I’m not!"
+    b "不，我没有!"
 
 
 
-    g "You are jealous because [P] didn't ask you to be his pet~"
+    g "你嫉妒，因为[P]没有要求你做他的宠物~"
 
 
 
-    b "I don't want to be anyone’s pet. I am an independent person! Stop being so creepy~"
+    b "我不想成为任何人的宠物。我是一个独立的人! 别再这么猥琐了~"
 
 
 
@@ -61,13 +61,13 @@ label BDG_duo_1:
 
     scene bdg_duo_1_7 with tstmgr
 
-    g "*Searching for something* ... ... ... ..."
+    g "*寻寻觅觅* ... ... ... ..."
 
 
 
     scene bdg_duo_1_8 with tstmgr
 
-    b "What are you doing?"
+    b "你在做什么?"
 
 
 
@@ -79,43 +79,43 @@ label BDG_duo_1:
 
     scene bdg_duo_1_10 with tstmgr
 
-    g "Look, look~"
+    g "看，看~"
 
 
 
     scene bdg_duo_1_11 with tstmgr
 
-    g "Don’t you want to have a cat girl like Uno as your pet? Meow~ meow~~"
+    g "你不想有一个像乌诺一样的猫女作为你的宠物吗? Meow~ meow~~"
 
 
 
-    b "Oh my... ... ... ..."
+    b "寄... ... ... ..."
 
 
 
     scene bdg_duo_1_12 with tstmgr
 
-    b "Okay, that was cute, but still... ..."
+    b "好吧，这很可爱，但还是... ..."
 
 
 
     scene bdg_duo_1_13 with tstmgr
 
-    g "Senning~~ Senning~~ Nya~~~~"
+    g "森柠~~ 森柠~~ Nya~~~~"
 
 
 
-    b "Wait, don’t get too close with me!"
+    b "等等，不要和我走得太近!"
 
 
 
-    g "No way~"
+    g "才不要呢~"
 
 
 
     scene bdg_duo_1_14 with tstmgr
 
-    g "*Licking* ... ... ... ...."
+    g "*prprprpr* ... ... ... ...."
 
 
 
@@ -125,21 +125,21 @@ label BDG_duo_1:
 
     scene bdg_duo_1_15 with tstmgr
 
-    b "Too... too... cute... ..."
+    b "太......太......可爱了... ..."
 
 
 
     scene bdg_duo_1_16 with tstmgr
 
-    b "Can’t... take it anymore... ..."
+    b "不能...再忍受... ..."
 
 
 
-    g "Sen? Senning? Are you okay?"
+    g "森? 森柠? 你还好吧?"
 
 
 
-    g "Oh my god, did you pass out?"
+    g "哦，我的上帝，你昏倒了吗?"
 
 
 

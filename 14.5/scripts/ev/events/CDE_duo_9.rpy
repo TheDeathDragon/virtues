@@ -5,13 +5,13 @@ label CDE_duo_9:
     scene cde_duo_9_1 with dissolve
     play music sorrow
 
-    c "Mom, I’m home~"
+    c "妈妈，我回来了~"
 
 
 
     scene cde_duo_9_2 with tstmgr
 
-    c "[P] is not with me, by the way, but he will join us later for dinner."
+    c "顺便说一下，[P]没有和我在一起，但他稍后会和我们一起吃饭."
 
 
 
@@ -21,11 +21,11 @@ label CDE_duo_9:
 
     scene cde_duo_9_3 with tstmgr
 
-    c "Mom, where are you?"
+    c "妈妈，你在哪里?"
 
 
 
-    "No one answered her."
+    "无人响应."
 
 
 
@@ -37,13 +37,13 @@ label CDE_duo_9:
 
     scene cde_duo_9_5 with tstmgr
 
-    c "Ah... ... It’s just hard to find someone in this freaking big house... ..."
+    c "啊......在这个该死的大房子里很难找到人... ..."
 
 
 
     scene void with tstmgr
 
-    "狄奥多拉 searched around the house but still couldn’t find Elisa, eventually she came near the swimming pool and surprisedly saw... ..."
+    "狄奥多拉在房子周围寻找，但仍然找不到伊丽莎，最后她来到游泳池附近，惊讶地看到... ..."
 
 
 
@@ -55,35 +55,35 @@ label CDE_duo_9:
 
     scene cde_duo_9_6 with tstmgr
 
-    c "Oh my god, what happened!?"
+    c "哦，我的上帝，发生了什么!?"
 
 
 
-    c "Mom... ... Are you... alright?"
+    c "妈妈... ... 你......还好吗?"
 
 
 
     scene cde_duo_9_8 with tstmgr
 
-    e "*Slightly snoring* Zzzz~~~~ zzz~~~~~ zzzz~~~~"
+    e "*轻酣* Zzzz~~~~ zzz~~~~~ zzzz~~~~"
 
 
 
     scene cde_duo_9_9 with tstmgr
 
-    c "Just asleep? Sigh... you scared the hell out of me."
+    c "只是睡着了？叹气......你吓死我了."
 
 
 
-    c "Don’t sleep under the sun, it’s not good for your skin."
+    c "不要在阳光下睡觉，这对你的皮肤没有好处."
 
 
 
-    c "Hello? Wake up~"
+    c "喂？醒醒吧~"
 
 
 
-    e "*Dream talking* No... not again... ... Yum yum~"
+    e "*梦话* 不......不要再来了... ... Yum yum~"
 
 
 
@@ -91,11 +91,11 @@ label CDE_duo_9:
 
 
 
-    c "Sigh... ... I guess it’s just impossible to wake her up from deep sleep. "
+    c "叹息......。我想，要把她从深度睡眠中唤醒是不可能的. "
 
 
 
-    c "So what should I do now?"
+    c "那么我现在应该做什么?"
 
 
 
@@ -105,7 +105,7 @@ label CDE_duo_9:
 
 
 
-    c "Whatever, I’ll have a sunbath here too~"
+    c "不管了，我也要在这里洗个日光浴~"
 
 
 
@@ -115,25 +115,25 @@ label CDE_duo_9:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
     scene cde_duo_9_11 with dissolve
 
-    c "Finally got rid of that bra~ So relieving~"
+    c "终于摆脱了那件胸罩~真让人松了口气~"
 
 
 
     scene cde_duo_9_12 with tstmgr
 
-    c "Are you still in dream, mom?"
+    c "你还在梦中吗，妈妈?"
 
 
 
     scene cde_duo_9_8 with tstmgr
 
-    e "*Slightly snoring* Zzzz... ... Zzz... ... Zzz... ..."
+    e "*轻酣* Zzzz... ... Zzz... ... Zzz... ..."
 
 
 
@@ -143,7 +143,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_13 with tstmgr
 
-    "狄奥多拉 then sat down besides Elisa..."
+    "狄奥多拉随后坐在了伊莉莎身边..."
 
 
 
@@ -151,7 +151,7 @@ label CDE_duo_9:
 
 
 
-    c "What are you dreaming about, mom?... ..."
+    c "你在做什么梦，妈妈?... ..."
 
 
 
@@ -165,19 +165,19 @@ label CDE_duo_9:
 
     scene cde_duo_9_14 with tstmgr
 
-    c "Sigh... ... I wish I will still be so sexy like you when I am at your age... ..."
+    c "叹息......我希望当我到了你这个年龄，还能像你一样性感... ..."
 
 
 
     scene cde_duo_9_15 with tstmgr
 
-    c "Those tits... are just fabulous. They fall to the sides due to gravity when she lies down, but that actually makes them look even more magnificent."
+    c "这些乳房......真是太美妙了。当她躺下时，由于地心引力的作用，它们会落到两侧，但这实际上使它们看起来更加壮丽."
 
 
 
     scene cde_duo_9_16 with tstmgr
 
-    c "How did they grow so big... ..."
+    c "究竟是这么大的... ..."
 
 
 
@@ -187,13 +187,13 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Meanwhile... ..."
+    "与此同时... ..."
 
 
 
     scene cde_duo_9_50 with dissolve
 
-    player "Is anyone home?"
+    player "有人吗?"
 
 
 
@@ -203,39 +203,39 @@ label CDE_duo_9:
 
     scene cde_duo_9_18 with dissolve
 
-    c "... ... I don’t even know what I am doing... ..."
+    c "... ... 我甚至不知道我在做什么... ..."
 
 
 
-    c "Sorry mom, but I just want to feel... this~~"
+    c "对不起，妈妈，但我只想感受......这个~~"
 
 
 
     scene cde_duo_9_19 with tstmgr
 
-    c "The magic... of gravity~~ My tits... pressing against yours... ..."
+    c "魔术......重力~~我的奶子......压在你的身上... ..."
 
 
 
-    c "[P] will go crazy if he sees what we are doing here... ..."
+    c "[P]如果他看到我们在这里做的事，会发疯的... ..."
 
 
 
-    player "Oh my... ... What am I looking at?"
+    player "哦，我的......我在看什么?"
 
 
 
     scene cde_duo_9_20 with tstmgr
 
-    c "Ah? [P]? You... ... Why are you here so early? It’s not dinner time yet."
+    c "Ah? [P]? 你......。你怎么这么早就来了？还没到吃饭时间呢."
 
 
 
-    player "Eh... I missed you ladies, so... ..."
+    player "Eh... 我想念你们，所以... ..."
 
 
 
-    player "Seriously, what are you doing?"
+    player "说真的，你在做什么?"
 
 
 
@@ -245,23 +245,23 @@ label CDE_duo_9:
 
     scene cde_duo_9_21 with tstmgr
 
-    c "Nothing, just trying to be intimate with my mom~"
+    c "没什么，只是想和我妈妈亲近一下~"
 
 
 
     scene void with tstmgr
 
-    "狄奥多拉 then stood up from the ground."
+    "狄奥多拉于是从地上站了起来."
 
 
 
     scene cde_duo_9_22 with dissolve
 
-    c "Don’t tell her about what you just saw after she wakes up, okay?"
+    c "在她醒来后不要告诉她你刚才看到的事情，好吗?"
 
 
 
-    player "After she wakes up? You mean she is... sleeping?"
+    player "在她醒过来之后？你是说她在......睡觉?"
 
 
 
@@ -271,15 +271,15 @@ label CDE_duo_9:
 
     scene cde_duo_9_8 with tstmgr
 
-    player "Knock, knock, auntie!~ Can you hear me?"
+    player "敲门，敲门，阿姨！~你能听到我吗?"
 
 
 
-    c "Ha, don’t waste your time, my mom won’t wake up even if you sit on her face. She is the deepest sleeper I’ve ever seen."
+    c "哈，不要浪费你的时间，即使你坐在她的脸上，我妈妈也不会醒过来。她是我见过的睡得最沉的人."
 
 
 
-    player "Sit on her face?"
+    player "坐在她的脸上?"
 
 
 
@@ -287,27 +287,27 @@ label CDE_duo_9:
 
 
 
-    player "Will she really not wake up if I do that?"
+    player "如果我这样做，她真的不会醒过来吗?"
 
 
 
     scene cde_duo_9_23 with tstmgr
 
-    c "Wait, what?"
+    c "你说什么?"
 
 
 
-    player "There is... something I want to do since a long time ago... ... Can I sit on her face? I won’t put my weight on it, I will just rub her face with my ass... I think."
+    player "有......我想做的事，从很久以前就开始了......。我可以坐在她的脸上吗？我不会把我的体重放在上面，我只是用我的屁股摩擦她的脸... ... 我想."
 
 
 
     scene cde_duo_9_24 with tstmgr
 
-    c "You... want to sit on my mom’s face... since a long time ago? Oh my god you are crazy as fuck!"
+    c "你......想坐在我妈妈的脸上......从很久以前开始？哦，我的上帝，你他妈的疯了!"
 
 
 
-    player "No, it’s not like that, but... ... you see, I have to sit on her face if I want to do that thing."
+    player "不，不是这样的，但是......你看，如果我想做那件事，我必须坐在她的脸上."
 
 
 
@@ -317,23 +317,23 @@ label CDE_duo_9:
 
 
 
-    player "So... can I do that?"
+    player "那么......我可以这样做吗?"
 
 
 
     scene cde_duo_9_26 with tstmgr
 
-    c "I can’t make decisions for my mom, but... ..."
+    c "我不能为我妈妈做决定，但... ..."
 
 
 
     scene cde_duo_9_27 with tstmgr
 
-    c "Whatever, as long as you promise that you won’t suffocate her with your fucking ass. I’ll just pretend I didn’t see you."
+    c "不管怎样，只要你保证不会用你那该死的屁股把她闷死。我就假装没看见你."
 
 
 
-    player "Great~"
+    player "那就说定了哦~"
 
 
 
@@ -345,27 +345,27 @@ label CDE_duo_9:
 
     scene cde_duo_9_28 with tstmgr
 
-    player "Ahhh~~~ yes, this is exactly what I was looking for~"
+    player "啊~~~yes，这正是我在寻找的东西~"
 
 
 
-    c "A... reverse titfuck?"
+    c "一个......反向乳交?"
 
 
 
     scene cde_duo_9_29 with tstmgr
 
-    player "Yeah~ I’ve wanted to know how it feels for such a long time~"
+    player "是啊~我已经想这样干很久了~"
 
 
 
-    c "I have to say... you can always surprise me with your idea of sex..."
+    c "我不得不说......你总是能用你的性观念给我带来惊喜..."
 
 
 
     scene cde_duo_9_30 with tstmgr
 
-    player "This is just amazing... ... I’ve never seen a woman’s naked body from this angle before."
+    player "这真是太神奇了......。我从来没有从这个角度看过一个女人的裸体."
 
 
 
@@ -423,11 +423,11 @@ label CDE_duo_9:
 
 
 
-    "To be honest, the reverse titfuck didn’t give me greater sexual pleasure than normal titfuck. I have to move very carefully and slowly since my ass is rubbing Elisa’s face all the time. It will make her suffer if I move hard."
+    "说实话，反向乳交并没有给我带来比正常乳交更大的性快感。我必须非常小心和缓慢地移动，因为我的屁股一直在摩擦伊莉莎的脸。如果我用力移动，会让她痛苦不堪."
 
 
 
-    "But still, I am enjoying it very much because this is just a whole new experience to me~"
+    "但是，我仍然非常喜欢，因为这对我来说是一个全新的体验~"
 
 
 
@@ -437,7 +437,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_34 with tstmgr
 
-    c "Don’t... don’t just leave me alone... ..."
+    c "不要......不要丢下我一个人... ..."
 
 
 
@@ -449,23 +449,23 @@ label CDE_duo_9:
 
     scene cde_duo_9_36 with tstmgr
 
-    c "I can... satisfy you with my tits too... ..."
+    c "我也可以......用我的奶子满足你... ..."
 
 
 
-    player "Are you jealous at your mom who is still in sleep? You are so horny~"
+    player "你是在嫉妒你还在睡觉的妈妈？你太饥渴了~"
 
 
 
     scene cde_duo_9_37 with tstmgr
 
-    c "Is this the first day you know me?~"
+    c "这是你认识我的第一天吗?~"
 
 
 
     scene cde_duo_9_38 with tstmgr
 
-    c "Just... don’t disturb mom’s sleep. I can do as good as her~"
+    c "只是......不要打扰妈妈的睡眠。我可以做得和她一样好~"
 
 
 
@@ -475,15 +475,15 @@ label CDE_duo_9:
 
     scene cde_duo_9_39 with tstmgr
 
-    player "Come here~~"
+    player "来这里~~"
 
 
 
-    "I immersed my head into 狄奥多拉’s huge tits and sniffed hard to feel the natural fragrance..."
+    "我把头沉浸在狄奥多拉的巨乳中，用力嗅着，感受那自然的芬芳..."
 
 
 
-    player "Let's see if your boobs are really as good as your mother's~"
+    player "让我们看看你的胸部是否真的和你母亲的一样好"
 
 
 
@@ -493,7 +493,7 @@ label CDE_duo_9:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
@@ -505,7 +505,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_41 with tstmgr
 
-    e "*Waking up* ... ... ... ..."
+    e "*爬起来* ... ... ... ..."
 
 
 
@@ -515,15 +515,15 @@ label CDE_duo_9:
 
     scene cde_duo_9_42 with tstmgr
 
-    e "Did I fall asleep here... ... under the sun? Oh my, this is so bad for my skin. How long have I slept?"
+    e "我是不是在这里睡着了...... ...在阳光下？哦，天哪，这对我的皮肤太糟糕了。我睡了多久了?"
 
 
 
-    player "Ohhhhh~~~ 狄奥... ... your boobs have magic~~~"
+    player "Ohhhhh~~~ 狄奥... ... 你的乳房，就像是充满了魔力一般~~~"
 
 
 
-    c "... Told you I can do as good as mom~"
+    c "... 都告诉你了，我可以做得和妈妈一样好~"
 
 
 
@@ -535,7 +535,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_44 with tstmgr
 
-    e "What... are they doing there?"
+    e "他们......在那里做什么?"
 
 
 
@@ -545,23 +545,23 @@ label CDE_duo_9:
 
 
 
-    c "I know my breasts are not as big as mom’s, but... I won’t lose to her at softness and bounce~"
+    c "我知道我的乳房没有妈妈的大，但是......。我不会在柔软度和弹力方面输给她的~"
 
 
 
-    c "I can... perfectly take care of your 鸡巴~"
+    c "我可以......完美地照顾好你的鸡巴~"
 
 
 
-    player "Of course you can~ Both you and your mom’s tits are the best in the world~"
+    player "当然可以~你和你妈妈的奶子都是世界上最好的~"
 
 
 
-    c "After I get pregnant... my breasts will become as big as mom’s~"
+    c "怀孕后......我的乳房会变得和妈妈的一样大~"
 
 
 
-    c "So... try harder, will you?"
+    c "所以......更努力，你会吗?"
 
 
 
@@ -575,45 +575,45 @@ label CDE_duo_9:
 
 
 
-    player "Ahh... shit, your cleavage is like a real 小穴~ This feels so damn great!~"
+    player "啊......妈的，你的乳沟就像一个真正的小穴~这感觉太他妈棒了!~"
 
 
 
-    c "Yes, yes, fuck my cleavage 小穴 like that~"
+    c "是的，是的，就像这样干我的乳沟小穴~"
 
 
 
-    e "Cleavage... 小穴... ..."
+    e "乳沟... 小穴... ..."
 
 
 
-    c "Ohhhh~~~ This hot hard 鸡巴 is constantly rubbing my soft tits~~~"
+    c "哦~~~这个火热的硬鸡巴不断地摩擦着我柔软的奶子~~~"
 
 
 
-    c "This is... so amazing~"
+    c "这真是......太神奇了~"
 
 
 
-    c "I love the way you use my body~~ Ohhhhh~~~ so rough~~~ so powerful~~~"
+    c "我喜欢你使用我的身体的方式~~哦~~~~如此粗暴~~~~如此强大~~~"
 
 
 
-    player "Ahhh, 狄奥, I’m about to cum... ..."
+    player "啊，狄奥，我快要射了... ..."
 
 
 
-    c "My mouth~~ I want you to cum in my mouth~~ I want to eat your cum~~"
+    c "我的嘴~~我要你射在我的嘴里~~我想吃你的精液~~"
 
 
 
-    player "Mouth? Alright then~"
+    player "嘴巴？那好吧~"
 
 
 
     scene cde_duo_9_47 with tstmgr
 
-    "I roughly gaged 狄奥多拉’s mouth with my dick and had my glans down her throat."
+    "我粗暴地用我的鸡巴撬开狄奥多拉的嘴，让我的龟头进入她的喉咙."
 
 
 
@@ -621,7 +621,7 @@ label CDE_duo_9:
 
 
 
-    player "I’m cumming!"
+    player "射了!"
 
 
 
@@ -633,33 +633,33 @@ label CDE_duo_9:
 
 
 
-    c "Glug... glug... glug... ... glug... ..."
+    c "咕噜... 咕噜... 咕噜... ... 咕噜... ..."
 
 
 
-    "I kept ejecting my cum through her throat straight into her stomach. That was so great... ..."
+    "我不断地将我的精液通过她的喉咙直接射入她的肚子，真鸡巴棒啊... ..."
 
 
 
-    "狄奥多拉 was incontinent at the same time when I orgasmed, but unfortunately I couldn’t see it with my eyes, what a pity~"
+    "狄奥多拉在我高潮的同时也失禁了，可惜我的眼睛看不到，真可惜~"
 
 
 
     scene cde_duo_9_49 with tstmgr
 
-    c "Glug... glug... glug... glug... ..."
+    c "咕噜... 咕噜... 咕噜... 咕噜... ..."
 
 
 
-    e "*Swallowing hard* ... ... ... ..."
+    e "*吞咽* ... ... ... ..."
 
 
 
-    e "(狄奥... ... wow... ... I have never seen her in such a mess... ...)"
+    e "(狄奥...... ...哇...... ...。我从未见过她如此狼狈的样子... ...)"
 
 
 
-    e "(Maybe I should... eh... pretend that I am still sleeping? )"
+    e "(也许我应该...呃...假装我还在睡觉? )"
 
 
 
