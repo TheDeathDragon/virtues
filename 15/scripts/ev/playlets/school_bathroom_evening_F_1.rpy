@@ -4,11 +4,11 @@ label school_bathroom_evening_F_1:
 
     scene school_bathroom_evening_f_1_1 with tstmgr
 
-    "Rachel is having a shower alone while two girls are talking in the other side of this shower room..."
+    "瑞秋一个人洗澡,两个女孩在浴室的另一边聊天..."
 
 
 
-    "Girl A" "My boyfriend came yesterday and oh my... he didn't let me sleep until 5am!"
+    "女孩A""我男朋友昨天来了,天啊...他直到凌晨5点才让我消停!"
 
 
 
@@ -18,21 +18,21 @@ label school_bathroom_evening_F_1:
 
 
 
-    "Girl B" "Wow, you must had a wonderful night~"
+    "女孩B""Wow,你一定有一个愉快的夜晚~"
 
 
 
-    f "*Swallowing hard* ... ... ... ..."
+    f "*使劲吞咽*............"
 
 
 
-    "Girl A" "Yeah, he is a beast on the bed. He fucked me so hard and used me like I was a tool~"
+    "女孩A""Yeah,他是床上的野兽.他狠狠地操了我,把我当作一个工具~"
 
 
 
     scene school_bathroom_evening_f_1_3 with tstmgr
 
-    f "(Fuck... hard... ... Like what [P] did to Vera?)"
+    f "(狠狠地...操......就像[P]对薇拉那样?)"
 
 
 
@@ -42,7 +42,7 @@ label school_bathroom_evening_F_1:
 
     scene school_bathroom_evening_f_1_4 with tstmgr
 
-    f "(It must be so great if someone can fuck me like that... ...)"
+    f "(如果有人能像那样操我,那就太棒了......)"
 
 
 

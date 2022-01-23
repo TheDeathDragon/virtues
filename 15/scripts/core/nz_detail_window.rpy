@@ -144,7 +144,7 @@ screen nz_detail(idx):
                 spacing 40
 
             vbox:
-                xsize 720 yfill
+                xsize 720 yfill 
 
                 spacing 10
                 label "[nz.name]" style "nz_detail_name"
@@ -152,19 +152,19 @@ screen nz_detail(idx):
                     style_prefix "nzd_content"
                     add nz_detail.separator_short
 
-                    label "Age: "
+                    label "年龄: "
                     text _("[nz.age]")
                     add nz_detail.separator_short
 
-                    label "Favorites: "
+                    label "爱好: "
                     text _(", ".join(nz.like))
                     add nz_detail.separator_short
 
-                    label "About [nz.name]: "
+                    label "关于[nz.name]: "
                     text _(nz.intro() if callable(nz.intro) else nz.intro)
 
                     add nz_detail.separator_short
-                    label "Erogenous Zones: "
+                    label "敏感区域: "
                     text _(", ".join(nz.zone))
 
                     add nz_detail.separator_short
@@ -175,7 +175,7 @@ screen nz_detail(idx):
             add nz.code.lower() + "_id" yoffset -40
 
 
-    textbutton _("Return"):
+    textbutton _("返回"):
         style "return_button"
         action Hide("nz_detail")
 

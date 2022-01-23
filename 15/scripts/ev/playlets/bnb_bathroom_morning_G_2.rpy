@@ -2,49 +2,49 @@ label bnb_bathroom_morning_G_2:
 
     scene bnb_bathroom_morning_g_2_1 with tstmgr
 
-    "Uno is having a shower... ..."
+    "乌诺正在洗澡......"
 
 
 
     scene bnb_bathroom_morning_g_2_2 with tstmgr
 
-    g "*Noticed something* Aww?"
+    g "*注意到什么*Aww?"
 
 
 
     scene bnb_bathroom_morning_g_2_3 with tstmgr
 
-    g "Are you watching me through this camera right now, Mr. Landlord sir?~"
+    g "房东先生,你现在在用这个摄像机看着我吗?~"
 
 
 
     scene bnb_bathroom_morning_g_2_4 with tstmgr
 
-    g "Will you masturbate at my naked body?~"
+    g "你会对着我的裸体手淫吗?~"
 
 
 
     scene bnb_bathroom_morning_g_2_9 with tstmgr
 
-    g "Do you want to... make this body your own property~"
+    g "你想...让这个身体成为你的私人物品吗~"
 
 
 
     scene bnb_bathroom_morning_g_2_5 with tstmgr
 
-    g "Are you going to... burst in and fuck me like an animal?"
+    g "你打算...闯进来,像野兽一样操我吗?"
 
 
 
     scene bnb_bathroom_morning_g_2_6 with tstmgr
 
-    g "Hee hee, it feels like I'm making a solo porn video~"
+    g "Heehee,感觉就像我在制作一个单人色情视频~"
 
 
 
     scene bnb_bathroom_morning_g_2_7 with tstmgr
 
-    "*The door suddenly got crashed open* Bang!... ... ... ..."
+    "*门突然撞开了*Bang!............"
 
 
 
@@ -54,11 +54,11 @@ label bnb_bathroom_morning_G_2:
 
 
 
-    player "*Breathing heavily* Huh... huh... huh... huh... ..."
+    player "*喘着粗气*Huh...huh...huh...huh......"
 
 
 
-    g "[P]? Wait... ..."
+    g "[P]?等等......"
 
 
 

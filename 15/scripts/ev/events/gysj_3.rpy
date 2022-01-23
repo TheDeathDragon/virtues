@@ -2,52 +2,52 @@ label gysj_3:
 
     scene park_night_background with tstmgr
 
-    narrator "I went to the park for a walk after dinner."
+    narrator "晚饭后我去公园散步."
 
-    narrator "It was so quiet and dark. To be honest, I started to regret it. This place is creepy at night."
+    narrator "这是如此安静和黑暗.老实说,我开始后悔了.这个地方晚上很恐怖."
 
     player "Hmm?... ... ... ..."
 
-    narrator "I heard some voices."
+    narrator "我听到有些说话声."
 
     narrator "... ... ... ..."
 
-    "Woman" "Oh master, I can't crawl no more. I'm so tired."
+    "女人""哦,主人,我再也爬不动了.我太累了."
 
-    "Man" "Shit, you lazy dog, stick your ass up! You need some punishments."
+    "男人""操,你这条懒狗,把你的屁股翘起来!你需要受到惩罚."
 
-    "Woman" "Ah... Master, punish me, put your big cock inside my dirty pussy, please."
+    "女人""Ah...主人,惩罚我,请把你的大鸡儿放到我肮脏的小穴里."
 
-    "Man" "(Slapping woman's butt) You are nothing but a fucking dog. What should a dog suppose to say?"
+    "男人""(拍打女人的屁股)你只是条狗.狗应该怎么叫呢?"
 
-    "Woman" "(Groaning) Arf, arf, woof... Ah... harder, harder please... Woof, woof..."
+    "女人""(呻吟)Arf,arf,woof...Ah...用力,用力,拜托...Woof,woof..."
 
     narrator "... ... ... ..."
 
     player "Eh... ... ... ..."
 
-    player "What the hell is that..."
+    player "那是什么鬼东西..."
 
-    player "It sounds like some kind of weird role play game."
+    player "听起来像是某种奇怪的角色扮演游戏."
 
     label gysj_3_choices:
 
     menu:
-        "Leave quietly":
+        "悄然离去":
 
 
-            player "I don't wanna see this, it is an invation of privacy..."
+            player "我不想看到这个,这侵犯了别人的隐私..."
 
-            player "And it is just way too creepy. I should probably go home."
-        "Take a peek":
+            player "这太令人毛骨悚然了.我该回家了."
+        "偷看":
 
             if P.virtue < 30:
                 $ not_implemented_message()
                 jump gysj_3_choices
             else:
-                "(Virtue needs to be less than 30.)"
+                "(美德需要小于30)"
 
-                narrator "You can expect it in the future updates."
+                narrator "你可以期待它在未来的更新."
 
                 jump gysj_3_choices
 

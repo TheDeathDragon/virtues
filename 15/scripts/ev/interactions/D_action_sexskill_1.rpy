@@ -2,31 +2,31 @@ label D_action_sexskill_1:
 
     scene void with tstmgr
 
-    "Sometime later, in Irene’s room..."
+    "过了一段时间,在艾琳的房间..."
 
 
 
     scene d_action_sekskill_1_1 with dissolve
 
-    d "Hee hee~ Irene has finished her homework. Now she wants to practice some boobs tricks with [P]~"
+    d "Heehee~艾琳已经完成了家庭作业.现在她想和[P]练习一些胸部技巧.~"
 
 
 
-    player "Okay, just... do whatever you want."
+    player "Okay,就...做你想做的."
 
 
 
     scene d_action_sekskill_1_2 with tstmgr
 
-    d "It’s not about me. It’s about you~ Now tell me, plan A or plan B?"
+    d "这和我无关.现在告诉我,A计划还是B计划?"
 
 
 
-    player "Ehhh... what is plan A and plan B?"
+    player "Ehhh...什么是A计划和B计划?"
 
 
 
-    d "It won’t be funny if I tell you now~ Just choose~"
+    d "如果我现在告诉你,那就不好玩了~你选吧~"
 
 
 
@@ -37,16 +37,16 @@ label D_action_sexskill_1:
     label D_action_sexskill_1_choice_1:
 
     menu:
-        "Plan A" if True:
+        "A计划" if True:
 
 
             scene d_action_sekskill_1_3 with tstmgr
 
-            d "Humph~ humph~ Good choice~"
+            d "Humph~humph~好的选择~"
 
-            d "Now stand up. I’ll take a seat~"
+            d "现在站起来.我来坐~"
 
-            player "Okay... ..."
+            player "嗯......"
 
             scene void with tstmgr
 
@@ -54,63 +54,63 @@ label D_action_sexskill_1:
 
             scene d_action_sekskill_1_4 with dissolve
 
-            d "Wow... ... here comes the great monstrous dick~"
+            d "Wow......大鸡巴怪物来了~"
 
             scene d_action_sekskill_1_5 with tstmgr
 
-            d "First... I’ll make it moist with my mouth..."
+            d "首先...我要用嘴把它弄湿..."
 
             d "Aummm~~~~ mmmmm~~~~"
 
             scene d_action_sekskill_1_6 with tstmgr
 
-            d "So... hummmmm... ... So big... ..."
+            d "好...hummmmm......好大......"
 
             scene d_action_sekskill_1_7 with tstmgr
 
             d "Wuuuuuuummmmmmmmm~~~~~~~~~"
 
-            player "Ohhhh!! I thought this is about boobs tricks... ..."
+            player "Ohhhh!!我以为这是关于胸部技巧的......"
 
-            player "I’m going to cum for sure if you... keep it in your throat for another 10 seconds... ..."
+            player "我肯定会射的,如果你...再这样10秒钟......"
 
             scene d_action_sekskill_1_8 with tstmgr
 
-            d "Oh, okay, sorry, I went too far~"
+            d "Oh,okay,对不起,我上头了~"
 
             scene d_action_sekskill_1_9 with tstmgr
 
-            d "Now let’s start the main dish..."
+            d "现在让我们开始主菜..."
 
             scene d_action_sekskill_1_10 with tstmgr
 
-            d "Wait, Bad Dick Sir, stop pulsing like a mad snake!"
+            d "等一下,坏鸡巴先生,别再像疯蛇一样乱跳了!"
 
             scene d_action_sekskill_1_11 with tstmgr
 
-            d "Let me calm you down by your favorite softness~"
+            d "让我用你最爱的柔软让你平静下来~"
 
-            player "Ehh... I think it will only make him even wilder... ..."
+            player "Ehh...我认为这只会让他更疯狂......"
 
             scene d_action_sekskill_1_12 with tstmgr
 
-            d "Yaah~ Don’t resist it, Bad Dick Sir!"
+            d "Yaah~别抗拒,坏鸡巴先生!"
 
             scene d_action_sekskill_1_13 with tstmgr
 
-            d "Now have a kiss with my nipple~"
+            d "现在用我的乳头吻一下~"
 
-            player "Ohhhhhhhh... ... This feels so damn good!"
+            player "Ohhhhhhhh......这感觉太他妈棒了!"
 
             scene d_action_sekskill_1_14 with tstmgr
 
-            d "The other one needs a kiss, too~"
+            d "另一个也需要一个吻~"
 
-            player "Irene, I... ..."
+            player "艾琳,我......"
 
             scene d_action_sekskill_1_15 with tstmgr
 
-            d "Yaah~ Where are you going? Come back~"
+            d "Yaah~你要去哪里?回来~"
 
             scene d_action_sekskill_1_16 with tstmgr
 
@@ -120,57 +120,57 @@ label D_action_sexskill_1:
 
             scene d_action_sekskill_1_17 with tstmgr
 
-            d "Humph~ Bad Dick Sir just corrupted me with his sticky milk~"
+            d "Humph~坏鸡巴先生刚刚用他的黏牛奶腐蚀了我~"
 
-            player "Sorry... ... ... ..."
-        "Plan B" if True:
+            player "抱歉............"
+        "B计划" if True:
 
 
 
 
             scene d_action_sekskill_1_3 with tstmgr
 
-            d "Humph~ humph~ Good choice~"
+            d "Humph~humph~好的选择~"
 
             scene d_action_sekskill_1_18 with tstmgr
 
-            d "Plan B is basically the same as the last time we practiced~"
+            d "B计划和我们上次练习的基本一样~"
 
-            d "But... Uno has taught me something new~"
+            d "但是...乌诺教会了我一些新东西~"
 
             scene d_action_sekskill_1_19 with tstmgr
 
-            d "She said... sip~ sip~~ that I need to moisten this huge dick first... Sipp~~ sipp~~"
+            d "她说...sip~sip~~我得先把这个大鸡巴弄湿...Sipp~~sipp~~"
 
             d "Sipp~~ sipp~~ sipp~~~"
 
-            d "Why is it... pulsing so hard?"
+            d "为什么它...跳动的如此厉害?"
 
             scene d_action_sekskill_1_20 with tstmgr
 
-            d "*Kissing* Qum~~~"
+            d "*亲吻*Qum~~~"
 
-            d "Good boy, good boy, stop pulsing like a mad snake~"
+            d "乖孩子,乖孩子,别像条疯蛇一样乱跳了~"
 
-            player "Ehh... I think it will only make him even wilder... ..."
+            player "Ehh...我认为这只会让他更疯狂......"
 
             scene d_action_sekskill_1_21 with tstmgr
 
-            d "Humph~ Okay then, let’s move to the next step~"
+            d "Humph~Okay,让我们进入下一步~"
 
             scene d_train_sexskill_1_19 with tstmgr
 
             pause
 
-            d "Up and down~ Up and down~ Up and down~"
+            d "上上下下~上上下下~上上下下~"
 
-            d "I'm getting better at this~"
+            d "我做得越来越好了~"
 
-            player "Yeah... you... have the talent... ..."
+            player "Yeah...你...很有天赋......"
 
-            d "And I will show my talent only to you~"
+            d "我只会向你展示我的天赋~"
 
-            player "Irene... ..."
+            player "艾琳......"
 
             scene d_train_sexskill_1_20 with tstmgr
 
@@ -178,13 +178,13 @@ label D_action_sexskill_1:
 
             d "Da~ da~ dah-lah~ da~~ dah-lah~~"
 
-            player "What... are you so happy about?"
+            player "你...为什么这么高兴??"
 
-            d "Because... [P]’s mighty dick, the monster that can fuck me like fucking a doll... ... is now in my control~"
+            d "因为...[P]的巨大鸡巴,可以操我像操洋娃娃一样的怪物...现在已经在我的控制之下了~"
 
-            d "It is like... my toy now... ..."
+            d "这就像...现在是我的玩具了......"
 
-            player "I... I’m about to cum!"
+            player "我...我要射了!"
 
             d "Oh, okay~"
 
@@ -194,13 +194,13 @@ label D_action_sexskill_1:
 
             d "Wuuuuummmmmm~~~~~~~"
 
-            d "*Swallowing* Glumm~ glum~ glum~~"
+            d "*吞咽*Glumm~glum~glum~~"
 
             scene d_train_sexskill_1_23 with tstmgr
 
-            d "Ha~ Irene has... drunk it all~"
+            d "Ha~艾琳...都喝光了~"
 
-            player "Irene... ..."
+            player "艾琳......"
 
             scene void with tstmgr
 

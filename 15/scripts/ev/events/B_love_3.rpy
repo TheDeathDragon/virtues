@@ -3,91 +3,91 @@ label B_love_3:
     scene void with tstmgr
     play music sorrow
 
-    narrator "In the evening..."
+    narrator "在晚上..."
 
     scene map_latenight with tstmgr
 
-    narrator "*Phone Ringing* Dududu Dududu Dududu Dududu..."
+    narrator "*手机铃声响*DududuDududuDududuDududu..."
 
     narrator "Hmm? ..."
 
-    narrator "It's a call from Senning."
+    narrator "是森柠打来的电话."
 
-    player "Hello, Sen. How's it going?"
-
-    b "... ... ... ..."
-
-    player "Sen? Are you there?"
-
-    b "*Sobbing sound*"
-
-    player "What's wrong, Sen? Are you okay?"
-
-    b "*Sobbing sound*"
-
-    player "Where are you? I'm coming to you right now."
+    player "Hello,森,怎么了?"
 
     b "... ... ... ..."
 
-    b "(Sobbing) I'm in campus, near the student center..."
+    player "森?你在吗?"
 
-    player "Alright, just stay at where you are. I will be there in just a minute."
+    b "*抽泣声*"
+
+    player "怎么了,森?你还好吗?"
+
+    b "*抽泣声*"
+
+    player "你在哪里?我现在就去找你."
+
+    b "... ... ... ..."
+
+    b "(啜泣)我在学校,靠近学生中心..."
+
+    player "好,就待在那儿.我马上就到."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I rushed to the university and found Senning at the student center."
+    narrator "我冲到大学,发现森柠在学生中心."
 
     scene b_love4_1 with tstmgr
 
-    player "Hi... Senning... Are you alright?"
+    player "Hi...森柠...你还好吗?"
 
     b "... ... ... ..."
 
-    player "Are you crying? God, what happened? Who did this to you?"
+    player "你在哭吗?天哪,发生了什么事?这是谁干的?"
 
-    b "I got a F in my last paper..."
+    b "我上一篇论文得了个F..."
 
-    player "I'm gonna kill that bastard..."
+    player "我要杀了那个混蛋..."
 
-    player "Wait, what?"
-
-    player "... ... ... ..."
-
-    player "That's the reason you cry? One F in an assignment?"
-
-    narrator "Senning nodded her head."
+    player "等等,什么?"
 
     player "... ... ... ..."
 
-    player "I don't know what to say, girl."
+    player "这就是你哭的原因?作业中有一个F?"
 
-    player "I mean, you freaked me out in the phone. I thought you might have encountered with something... more serious."
+    narrator "森柠点了点头."
 
-    b "But I never got a F before..."
+    player "... ... ... ..."
 
-    player "Well, it is indeed a frustrating thing. But you know, failure breeds success, it will become a valuable experience and make you a better person."
+    player "我不知道该说什么,女孩."
 
-    player "It's not a big deal anyway. It's just an assignment, not a final exam. You can still catch up."
+    player "我是说,你在电话里吓到我了.我想你可能遇到了...更严重的问题."
 
-    player "And... I didn't cry even when I heard that my dad got in jail. So... "
+    b "但我从来没得过F..."
+
+    player "Well,这确实是一件令人沮丧的事情.但你知道,失败孕育成功,它将成为一个宝贵的经验,使你成为一个更好的人."
+
+    player "反正也没什么大不了的.这只是作业,不是期末考试.你还是可以赶上的."
+
+    player "而且...当我听说我爸爸进了监狱的时候,我也没有哭.所以..."
 
     b "... ... ... ... "
 
     scene b_love4_2 with tstmgr
 
-    b "You are right... I think I am a little overreacted."
+    b "你是对的...我想我有点反应过度了."
 
-    b "Sorry for making you worried. You must think I'm a fool. "
+    b "抱歉让你担心了.你一定认为我是个傻瓜."
 
-    player "Don't mention it. And you know what? You need to have a relax. Let's go downtown."
+    player "别客气.你知道吗?你需要放松一下.我们去市中心逛逛吧."
 
     scene b_school_night_awkward with tstmgr
 
-    b "I'm... not in the mood..."
+    b "我...没心情..."
 
-    player "Don't be silly. Come on, just take a walk with me. "
+    player "别傻了.来吧,跟我散散步."
 
     scene b_school_night_frown with tstmgr
 
@@ -99,27 +99,27 @@ label B_love_3:
 
     narrator "... ... ... ..."
 
-    narrator "We went to the downtown and walked on the street. "
+    narrator "我们去了市中心,走在街上."
 
     scene b_love4_3 with tstmgr
 
-    player "So... What's the story of that F? Do you want to share it?"
+    player "所以...F是怎么回事?你想说说吗?"
 
     b "... ... ... ..."
 
-    b "It's just a stupid mistake. I digressed from the subject."
+    b "这只是一个愚蠢的错误.我跑题了."
 
-    player "Sounds like a mistake that I would make. You know, I'm a terrible writer, writing paper is nothing but a total suffering to me. "
+    player "听起来像是我会犯的一个错误.你知道,我是个糟糕的作家,写论文对我来说只是一种折磨."
 
-    player "But you are different. I've seen your papers before, and I know how good you are. Your ideas and attitudes are just amazing. "
+    player "但你是不同的.我以前看过你的论文,我知道你有多棒.你的想法和态度太棒了."
 
-    player "Just try harder next time, and I'm sure you will surprise the professor."
+    player "下次再努力一点,我相信你会让教授大吃一惊的."
 
     scene b_love4_4 with tstmgr
 
     b "... ... ... ..."
 
-    b "Thank you, [P]..."
+    b "谢谢你,[P]..."
 
     scene b_love4_5 with tstmgr
 
@@ -131,11 +131,11 @@ label B_love_3:
 
     scene b_love4_7 with tstmgr
 
-    b "(It feels so relieved just staying with him...)"
+    b "(和他呆在一起感觉很轻松...)"
 
     b "... ... ... ..."
 
-    b "(I... ...)"
+    b "(我......)"
 
     window hide
 
@@ -165,39 +165,39 @@ label B_love_3:
 
     scene b_love4_13 with tstmgr
 
-    narrator "I noticed that Senning has grasped my cuff."
+    narrator "我注意到森柠抓住了我的袖口."
 
     scene b_love4_14 with tstmgr
 
-    player "What are you doing?"
+    player "你在做什么?"
 
-    b "I'm... It's dark here... I can't see things clearly..."
+    b "我...这里有点黑...我看不清东西..."
 
-    b "So... just let me hold you for a while..."
+    b "所以...让我抓着你一会..."
 
-    narrator "It's dark here? Well, that's not a convincible reason. "
+    narrator "很黑吗?这不是一个令人信服的理由."
 
-    narrator "But she looks so lovely when she is being shy."
+    narrator "但是她害羞的时候看起来很可爱."
 
-    player "Do you want me to hold your hand?"
+    player "你想让我牵着你的手吗?"
 
-    b "Hold my... hand?"
+    b "牵我的...手?"
 
     scene b_love4_15 with tstmgr
 
-    b "No, no need... Let's just, let's just..."
+    b "不,不需要...让我们,让我们..."
 
-    b "Let's just keep it this way."
+    b "我们就这样吧."
 
     player "... ... ... ..."
 
-    player "Fine..."
+    player "好吧..."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "We spent some time together at downtown, then I walked her back to her apartment."
+    narrator "我们在市区呆了一段时间,然后我送她回了公寓."
 
     narrator "... ... ... ..."
 

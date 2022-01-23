@@ -4,173 +4,173 @@ label jjsj:
 
     narrator "... ... ... ..."
 
-    narrator "One day after that..."
+    narrator "之后的一天..."
 
-    narrator "I remember that Aunt Elisa has provided me another job opportunity. She said I can be Irene's private teacher."
+    narrator "我记得伊莉莎阿姨给了我另一个工作机会.她说我可以做艾琳的私人老师."
 
-    narrator "Perhaps I should go try this job today."
+    narrator "也许我今天应该去试试这份工作."
 
     narrator "... ... ... ..."
 
     scene mansion_background with tstmgr
 
-    narrator "I came to Aunt Elisa's mansion."
+    narrator "我来到伊莉莎阿姨的房子."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "Welcome, [P.name]."
+    e "欢迎,[P.name]."
 
     scene e_mansiongate_day_normal2 with tstmgr
 
-    e " I'm sorry for what happened to your father."
+    e "我为你爸爸的事感到抱歉."
 
-    player "It's okay, Aunt Elisa. I talked with his lawyers last night."
+    player "没事的,伊莉莎阿姨.我昨晚和他的律师谈过了."
 
-    player "They told me that the government won't be able to convict my father, and his property will be unfrozen in about one year if everything goes well."
+    player "他们告诉我,政府无法给我爸爸定罪,如果一切顺利,他的财产将在大约一年内解冻."
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "It's good to hear that."
+    e "听你这么说我很高兴."
 
-    player "During this time, Aunt Elisa, I will try my best to live on my own, just like everyone else."
+    player "在这段时间里,伊莉莎阿姨,我会像其他人一样,尽我最大的努力独自生活."
 
-    e "That would be the best. You are truly grown up, [P.name]."
+    e "那最好不过了.你真的长大了,[P.name]."
 
-    e "I hope you can impress Theodora at work. She will be happier than me when she sees your growth."
+    e "我希望你能在工作中给狄奥多拉留下深刻印象.当她看到你的成长时,她会比我更快乐."
 
-    narrator "Theodora will be happy for me? Well, I doubt it."
+    narrator "狄奥多拉会为我高兴吗?我不相信."
 
-    e "So, are you here to be my little daughter's private teacher today?"
+    e "那么,你今天是来做我小女儿的私人教师的吗?"
 
-    player "Yes."
+    player "是的."
 
-    e "Great. But she is not home yet. She just got off school. You will have to wait for a while."
+    e "太好了.但是她还没有回家.她刚放学.你得等一会儿."
 
-    e "I think she will be home in the next 10 to 15 minutes. Let's get inside and wait for her in the living room."
+    e "我想她会在10到15分钟内回家.我们进去在客厅等她吧."
 
-    player "Ok, Aunt Elisa."
+    player "好的,伊莉莎阿姨."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I followed Aunt Elisa into the house."
+    narrator "我跟着伊莉莎阿姨进了屋."
 
     scene e_mansion_inside_normal2 with tstmgr
 
-    e "[P.name], we didn't have a conversation like this for a fairly long time, did we?"
+    e "[P.name],我们很久没有这样的谈话了,对吗?"
 
-    player "Eh? But we just had a picnic party several weeks ago."
-
-    scene e_mansion_inside_tease with tstmgr
-
-    e "What I mean is... the conversation between only two of us."
-
-    player "Oh, that..."
-
-    narrator "An unforgettable memory came into my head."
-
-    player "I..."
-
-    e "Did you forget?"
-
-    player "I... No... I didn't..."
+    player "Eh?但是我们几个星期前才举行了一次野餐聚会."
 
     scene e_mansion_inside_tease with tstmgr
 
-    e "You were only a high school student back then, a little boy who was so curious about sex and gender. You lifted Theodora's dress at school in public, and the principal asked me to school to deal with the situation."
+    e "我的意思是...我们俩之间的对话."
 
-    player "(Feeling awkward) Haha... ha..."
+    player "Oh,这个..."
+
+    narrator "一段难忘的记忆浮现在我的脑海里."
+
+    player "我..."
+
+    e "你忘记了吗?"
+
+    player "我...不...我没有..."
+
+    scene e_mansion_inside_tease with tstmgr
+
+    e "那时你只是一个高中生,一个对性和性别非常好奇的小男孩.你在学校当众脱了狄奥多拉的衣服,校长让我去学校处理这件事."
+
+    player "(有点尴尬)Haha...ha..."
 
     scene e_mansion_inside_laugh with tstmgr
 
-    e "And I told you in front of the principal that \"if you really want to do this, you should at least find a place where nobody else sees.\""
+    e "我在校长面前和你说\"如果你真的想这么做,你至少应该找个没人看见的地方.\""
 
     scene e_mansion_inside_tease with tstmgr
 
-    e "I still remember that principal's face when he heard me saying this. That was really a funny face."
+    e "我还记得校长听到我说这话时的表情.那真是张有趣的脸."
 
-    player "(Feeling even more awkward) Yeah... haha..."
+    player "(感到更加尴尬)Yeah...haha..."
 
-    e "If he knew what happened after we left, I bet his face would be even funnier."
+    e "如果他知道我们离开后发生了什么,我敢打赌他的脸会更滑稽."
 
-    narrator "No, I can't let her keep saying this."
+    narrator "不,我不能让她一直这么说."
 
-    player "(Interrupting) Aunt Elisa, I actually have a question for you."
+    player "(打断)伊莉莎阿姨,我有个问题要问你."
 
     scene e_mansion_inside_smile with tstmgr
 
-    e "(Slightly surprised) Oh..."
+    e "(有点惊讶)Oh..."
 
-    e "You know you can ask me about everything."
+    e "你知道的,你什么都可以问我."
 
-    player "So..."
+    player "所以..."
 
-    player "You and my dad... What's your relationship exactly? I mean, are you two really just good friends?"
+    player "你和我爸爸...你们到底是什么关系?你们俩真的是好朋友吗?"
 
     scene e_mansion_inside_normal2 with tstmgr
 
-    narrator "Well, my dad is a single father, Aunt Elisa is a single mother. They always declare that they are just best friends, but many people believe that what between them is more than just friendship."
+    narrator "我爸爸是单身爸爸,伊莉莎阿姨是单身妈妈.他们两个总是宣称他们只是最好的朋友,但许多人认为他们之间的关系不仅仅是友谊."
 
-    narrator "I also have this kind of doubt."
+    narrator "我也有这种怀疑."
 
     scene e_mansion_inside_frown with tstmgr
 
-    narrator "I don't believe my dad would keep a \"pure friendship\" with such a sexy lady for decades. I know what type of woman he likes."
+    narrator "我不相信我爸爸会和这么性感的女人保持\"单纯的友谊\"几十年."
 
-    narrator "This lady in front of me is exactly the type of woman that he likes."
+    narrator "我面前的这位女士正是他喜欢的那种女人."
 
     e "... ... ... ..."
 
-    e "He and I, we..."
+    e "他和我,我们..."
 
-    narrator "The front door suddenly opened."
+    narrator "大门突然开了."
 
     scene d_mansion_inside_normal with tstmgr
 
-    d "I'm back."
+    d "我回来了."
 
     e "Oh..."
 
-    narrator "Ah, damn, I was so close to find out the truth..."
+    narrator "Ah,该死,我差点就知道真相了..."
 
-    e "Irene, come and meet with your new private teacher."
+    e "艾琳,来见见你的新私人老师."
 
     scene d_mansion_inside_smile with tstmgr
 
-    d "Wow, [P.name], you will be my private teacher?"
+    d "Wow,[P.name],你将成为我的私人老师?"
 
-    player "Yes, Irene. You can count on me."
+    player "是的,艾琳.你可以信赖我."
 
-    d "I do need some help with preparing the midterms."
+    d "我确实需要一些帮助来准备期中考试."
 
-    d "Quick, Let's go to my room and start your work, [P.name]."
+    d "快,我们去我的房间开始吧,[P.name]."
 
     player "Oh, oh, okay."
 
-    narrator "Wait, I just noticed her dress. Is this her school uniform?"
+    narrator "等等,我刚注意到她的衣服.这是她的校服吗?"
 
-    narrator "Oh God, this is cute."
+    narrator "天啊,这太可爱了."
 
     scene jjsj_d1 with tstmgr
 
-    narrator "That white stocking has grabbed all of my attention."
+    narrator "那只白色的袜子吸引了我所有的注意力."
 
-    narrator "Wait, did she cut her skirt by herself? Why is that so short?"
+    narrator "等等,她是自己剪的裙子吗?为什么这么短?"
 
     scene jjsj_d2 with tstmgr
 
-    narrator "It can't even hide her underwear. Is she allowed to dress this in school?"
+    narrator "它甚至不能把她的内裤藏起来.她可以在学校穿这件衣服吗?"
 
-    narrator "White stocking with white lacy underwear. That's definitely a killing combo. Those high school boys must be crazy about her."
+    narrator "白色长袜配白色蕾丝内衣.这绝对是一个致命的组合.那些高中生一定为她疯狂."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "Irene didn't give me much time to enjoy her dress. She grabbed my hand and lead me to her room."
+    narrator "艾琳没有给我太多时间欣赏她的衣服.她抓住我的手,把我带到她的房间."
 
     narrator "... ... ... ..."
 
-    narrator "After that, I tutored Irene in mathematics for the entire afternoon."
+    narrator "之后,我给艾琳辅导了整整一个下午的数学."
 
-    call screen hint("From now on, you will be able to come to Aunt Elisa's mansion for tutoring. It is a good way to improve the relationship between you and Irene.")
+    call screen hint("从现在起,你就可以来这里做家教了.这是改善你和艾琳关系的好方法.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

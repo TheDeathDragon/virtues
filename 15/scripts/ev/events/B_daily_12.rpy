@@ -3,31 +3,31 @@ label B_daily_12:
     scene void with tstmgr
     play music sorrow
 
-    "In the evening... ..."
+    "在晚上......"
 
 
 
     scene b_daily12_1 with tstmgr
 
-    b "Thank you for walking me home."
+    b "谢谢你送我回家."
 
 
 
-    b "See you tomorrow."
+    b "明天见."
 
 
 
-    player "Wait, Sen."
+    player "等等,森."
 
 
 
-    b "Anything else?"
+    b "怎么了?"
 
 
 
     scene b_daily12_2 with tstmgr
 
-    player "Can I... have a cup of tea in your room?"
+    player "我可以...在你的房间里喝杯茶吗?"
 
 
 
@@ -35,21 +35,21 @@ label B_daily_12:
 
 
 
-    "She knows what I’m implying."
+    "她知道我在暗示什么."
 
 
 
     scene b_daily12_3 with tstmgr
 
-    b "But it’s already late."
+    b "但已经很晚了."
 
 
 
-    player "Well... you know, there are many things we can do in such a late night."
+    player "Well...你知道,在这么晚的时间里我们可以做很多事情."
 
 
 
-    player "A boy and a girl, stay together in a bedroom. It must be romantic... ..."
+    player "一个男孩和一个女孩,呆在一间卧室里.一定很浪漫......"
 
 
 
@@ -59,17 +59,17 @@ label B_daily_12:
 
     scene b_daily12_4 with tstmgr
 
-    b "I... Sorry, I am not ready for this yet. I think we are going too fast."
+    b "我...对不起,我还没准备好.我想我们发展得太快了."
 
 
 
-    b "Can we... wait for some time? Sorry... ..."
+    b "我们能...等一段时间吗?对不起......"
 
 
 
     scene b_daily12_5 with tstmgr
 
-    player "Oh, eh, no problem. It’s my fault. Take your time."
+    player "Oh,eh,没有问题.这是我的错.都依你."
 
 
 
@@ -79,17 +79,17 @@ label B_daily_12:
 
     scene b_daily12_6 with tstmgr
 
-    b "Good night, [P]."
+    b "晚安,[P]."
 
 
 
-    player "Good night, Sen. See you tomorrow."
+    player "晚安,森.明天见."
 
 
 
     scene b_daily12_7 with tstmgr
 
-    "She went into the building alone and was too shy to looking back."
+    "她独自走了进去,羞得不敢回头."
 
 
 
@@ -97,15 +97,15 @@ label B_daily_12:
 
 
 
-    "Well, I am definitely a little disappointed at this result. But it is not a surprising result."
+    "Well,我对这个结果确实有点失望.但我并不意外."
 
 
 
-    "She comes from a country so conservative in sex that a large number of people in there still cannot accept premarital sex even today. I can’t expect her to act or think like a western girl."
+    "她来自一个性观念非常保守的国家,即使在今天,很多人仍然不能接受婚前性行为.我不能指望她的行为或思维像个西方女孩."
 
 
 
-    "I think I should be more patient."
+    "我想我应该更有耐心."
 
 
 
@@ -115,7 +115,7 @@ label B_daily_12:
 
 
 
-    "A few time later, in Senning’s room."
+    "过了一会儿,在森柠的房间里."
 
 
 
@@ -125,25 +125,25 @@ label B_daily_12:
 
 
 
-    b "Why did I reject him? What was I thinking?"
+    b "我为什么要拒绝他?我在想什么?"
 
 
 
-    b "Owww... ... Will he be upset at me?"
+    b "Owww......他会生我的气吗?"
 
 
 
-    b "He must think I am playing hard to get. Oh... you are such a silly girl, Senning..."
+    b "他一定认为我在故意为难他.哦...你真是个傻女孩,森柠..."
 
 
 
-    b "You know you want him to touch you so bad, but you still rejected him."
+    b "你知道你很想让他碰你,但你还是拒绝了他."
 
 
 
     scene b_daily12_9 with tstmgr
 
-    b "Ahhhhhhhhhhh... ... ... ... I won’t be able to sleep tonight!!!"
+    b "Ahhhhhhhhhhh............我今晚睡不着了!!!"
 
 
 

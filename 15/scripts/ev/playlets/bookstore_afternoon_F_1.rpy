@@ -2,27 +2,27 @@ label bookstore_afternoon_F_1:
 
     scene bookstore_afternoon_f_1_1 with tstmgr
 
-    player "Rachel? What are you doing here?"
+    player "瑞秋? 你在这干什么?"
 
 
 
-    f "I... I’m just here to ask Uno a few things... ..."
+    f "我... 我只是来问乌诺一些事情... ..."
 
 
 
     scene bookstore_afternoon_f_1_2 with tstmgr
 
-    g "And I’m happy to answer them for you~"
+    g "我很乐意为你回答这些问题~"
 
 
 
     scene bookstore_afternoon_f_1_3 with tstmgr
 
-    f "Great, thanks! So... ..."
+    f "太好了! 所以... ..."
 
 
 
-    f "What is cunnilingus?"
+    f "什么是舔阴?"
 
 
 
@@ -32,25 +32,25 @@ label bookstore_afternoon_F_1:
 
     scene bookstore_afternoon_f_1_4 with tstmgr
 
-    g "Shhhhhhh~ You can’t say that loud in the public areas."
+    g "Shhhhhhh~ 你不能在公共区域大声说这种东西啊."
 
 
 
     scene bookstore_afternoon_f_1_5 with tstmgr
 
-    f "Oh, sorry."
+    f "Oh, 对不起."
 
 
 
     scene bookstore_afternoon_f_1_6 with tstmgr
 
-    g "Here you are~ There are full of videos in this USB disk~ You will find what you are looking for~"
+    g "这个给你~ 这个USB里装满了学习资料~ 你将会在其中找到你所寻求的~"
 
 
 
     scene bookstore_afternoon_f_1_7 with tstmgr
 
-    f "Thank you so much! You are such a great friend!"
+    f "太感谢了! 你真是个好朋友!"
 
 
 

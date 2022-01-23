@@ -6,37 +6,37 @@ label AB_duo_1:
 
 
 
-    "Later today, Senning and Lady Minna came to my house together while I wasn’t there."
+    "今天晚些时候,森柠和明娜趁我不在,一起来到我家."
 
 
 
     scene ab_duo_1_1 with dissolve
 
-    a "Welcome, Sen, and this is... ...?"
+    a "欢迎你,森,这就是... ...?"
 
 
 
     scene ab_duo_1_2 with tstmgr
 
-    b "This is my mom. She just arrived in this country some days ago~"
+    b "这是我妈妈.她几天前刚到这个国家~"
 
 
 
-    "Lady Minna" "It’s so nice to finally meet you, Vera. Senning has told me a lot about you~"
+    "明娜女士" "真高兴终于见到你了,维拉.森柠告诉了我很多关于你的事情~"
 
 
 
-    "Lady Minna" "You can call me Lady Minna if you like."
+    "明娜女士" "如果你愿意,你可以叫我明娜女士."
 
 
 
     scene ab_duo_1_1 with tstmgr
 
-    a "It’s so nice to meet you too, Lady Minna~"
+    a "我也很高兴见到你, 明娜女士~"
 
 
 
-    a "Please come in and... ..."
+    a "请进来吧... ..."
 
 
 
@@ -44,59 +44,59 @@ label AB_duo_1:
 
     $ flashlight()
 
-    "*Kettle Whistling sound* Whieeeeeeeeeeee~~~~~~~~~"
+    "*水壶呼啸的声音* Whieeeeeeeeeeee~~~~~~~~~"
 
 
 
     scene ab_duo_1_4 with tstmgr
 
-    a "Oh, the water is boiling! Please spare me for a moment!"
+    a "哦,水沸腾了! 请给我一点时间!"
 
 
 
-    b "Of course~"
+    b "当然~"
 
 
 
     scene ab_duo_1_5 with tstmgr
 
-    "Vera then ran to the kitchen... ..."
+    "薇拉随后跑到厨房... ..."
 
 
 
-    "Lady Minna" "... ... ... ..."
+    "明娜女士" "... ... ... ..."
 
 
 
     scene ab_duo_1_6 with tstmgr
 
-    "Lady Minna" "Be careful, daughter, don’t be fooled by her smile. That’s another opponent of yours."
+    "明娜女士" "小心,女儿,不要被她的笑容所迷惑.那是你的另一个对手."
 
 
 
-    b "Ah? You mean... Vera is in love with [P] too?"
+    b "Ah? 你是说... 薇拉也和[P]在交往??"
 
 
 
     scene ab_duo_1_7 with tstmgr
 
-    "Lady Minna" "Oh of course she is. They are living together, for God’s sake."
+    "明娜女士" "哦,她当然是.看在上帝的份上,你瞧瞧,他们生活在一起."
 
 
 
     scene ab_duo_1_8 with tstmgr
 
-    "Lady Minna" "That girl might not be as lascivious as that Theodora, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
+    "明娜女士" "那个女孩可能不像那个狄奥多拉那样淫荡,但她看起来是个勤奋的女孩,擅长做家务.这使她成为你强有力的对手."
 
 
 
-    b "How did you know she is good at houseworks? You just met her."
+    b "你怎么知道她擅长做家务?你刚认识她."
 
 
 
     scene ab_duo_1_9 with tstmgr
 
-    "Lady Minna" "Observe, girl, observe. This house is extraordinary clean so someone must do the cleaning every day. Who would it be? [P], that white-haired rich princess, or this brown-skin Cinderella?"
+    "明娜女士" "观察,女孩,观察.这所房子非常干净,所以必须有人每天做清洁工作.会是谁呢?[P],那个白发的富家公主,还是这个棕色皮肤的灰姑娘??"
 
 
 
@@ -106,13 +106,13 @@ label AB_duo_1:
 
 
 
-    b "Yeah, Vera is indeed diligent and good at houseworks... ..."
+    b "是啊,薇拉确实很勤奋,很会做家务 ... ..."
 
 
 
     scene ab_duo_1_11 with tstmgr
 
-    "Lady Minna" "Does she cook well too?"
+    "明娜女士" "她的厨艺也很好吗?"
 
 
 
@@ -120,43 +120,43 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "Oh dear, that’s even worse. Have you heard that? ‘The way to a man’s heart is through his stomach.’"
+    "明娜女士" "哦,亲爱的,那就更糟糕了.你听说过吗?想要抓住一个男人的心,就要先抓住他的胃.’"
 
 
 
-    "Lady Minna" "She might be an even stronger opponent than that Theodora... ..."
+    "明娜女士" "她可能是一个比那个狄奥多拉更强大的对手... ..."
 
 
 
-    b "Mama... ..."
+    b "妈... ..."
 
 
 
-    b "Why do I have to... compete with them? We can be friends and I’d like to share [P]’s love with them."
+    b "为什么我必须......与他们竞争?我们可以成为朋友,我愿意与他们分享[P]的爱."
 
 
 
     scene ab_duo_1_12 with tstmgr
 
-    "Lady Minna" "Naive girl, it’s not that simple. You can never avoid the competition in a harem."
+    "明娜女士" "天真的女孩,事情没有那么简单.你永远无法避免在后宫中的竞争."
 
 
 
-    b "But... ... what will we compete for?"
+    b "但是......我们将竞争什么?"
 
 
 
     scene ab_duo_1_13 with tstmgr
 
-    "Lady Minna" "For example, your man’s first ejaculation everyday is the thickest and contains the most semens. Whoever of you girls get it will have the higher possibility to be fertilized. You have to fight for that chance everyday, girl!"
+    "明娜女士" "例如,你们男人每天的第一次射精是最稠密的,包含最多的精液.你们中谁得到它,谁就有更大的可能受精.你必须每天为这个机会而奋斗,女孩!"
 
 
 
-    b "Mama, that sounds crazy... ..."
+    b "妈妈,这听起来太疯狂了... ..."
 
 
 
-    "Lady Minna" "Humph, have I told you that you have to get pregnant within a year in order to stay with him after your graduation? You don’t have time to waste and you have to take every chance!"
+    "明娜女士" "哼,我有没有告诉你,你必须在一年内怀孕,才能在毕业后和他在一起?你没有时间可以浪费,你必须抓住一切机会!"
 
 
 
@@ -166,17 +166,17 @@ label AB_duo_1:
 
     scene ab_duo_1_14 with tstmgr
 
-    b "But... ... how am I going to compete with Vera? I can’t cook as good as her and I’m not as skilled as her in housework either."
+    b "但是......我怎么能和薇拉竞争呢?我做饭没有她好,做家务也没有她熟练.."
 
 
 
     scene ab_duo_1_15 with tstmgr
 
-    b "Can you teach me those things, mama?"
+    b "你能教我这些东西吗, 妈?"
 
 
 
-    "Lady Minna" "Me? No, I know nothing about those things... ..."
+    "明娜女士" "不,我对这些事情一无所知... ..."
 
 
 
@@ -186,45 +186,45 @@ label AB_duo_1:
 
     scene ab_duo_1_16 with tstmgr
 
-    b "Maybe I should find Vera directly and ask her to teach me~"
+    b "也许我应该直接找到薇拉,让她来教我~"
 
 
 
-    "Lady Minna" "Hah? Why would you ask your enemy for help?"
+    "明娜女士" "哈?你为什么要向你的敌人寻求帮助?"
 
 
 
     scene ab_duo_1_17 with tstmgr
 
-    b "Vera is not my enemy, nor is Theodora. They are all super nice people!"
+    b "薇拉不是我的敌人,狄奥多拉也不是.他们都是超级好的人!"
 
 
 
-    b "I just want to make friends with them!"
+    b "我只是想和他们交朋友!"
 
 
 
-    "Lady Minna" "Huh... ... ... ..."
+    "明娜女士" "Huh... ... ... ..."
 
 
 
     scene ab_duo_1_18 with tstmgr
 
-    "Lady Minna" "Whatever, girl, maybe I was a little too sensitive after all. You can do whatever you want, just be careful, okay? Sometimes woman can be the most vicious creature in the world."
+    "明娜女士" "不管怎样,女孩,也许我毕竟有点太敏感了.你可以做你想做的事,只是要小心,好吗?有时女人是世界上最凶恶的生物."
 
 
 
-    "Lady Minna" "Find me in my hotel room if you need any help. I’m leaving now~"
+    "明娜女士" "如果你需要任何帮助,请到我的酒店房间找我.我现在要走了~"
 
 
 
-    b "You are not staying here for dinner?"
+    b "你不留在这里吃晚饭?"
 
 
 
     scene ab_duo_1_19 with tstmgr
 
-    "Lady Minna" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Theodora’s mother, that blonde lady. That’s a really interesting woman~"
+    "明娜女士" "不是的,我只是来看看那个薇拉本人,我已经得到了我想要的东西.现在我要去见狄奥多拉的母亲,那位金发女士.那是一个非常有趣的女人~"
 
 
 
@@ -234,87 +234,87 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "See you, daughter~"
+    "明娜女士" "回头见,女儿~"
 
 
 
     scene ab_duo_1_21 with tstmgr
 
-    b "Goodbye, Mama... ... ... ..."
+    b "再见,妈妈... ... ... ..."
 
 
 
     scene ab_duo_1_22 with tstmgr
 
-    "Lady Minna left the house..."
+    "明娜女士离开了家..."
 
 
 
     scene ab_duo_1_23 with tstmgr
 
-    b "And now... ..."
+    b "而现在... ..."
 
 
 
     scene ab_duo_1_24 with tstmgr
 
-    a "Hmmmm? Senning, where is your mother?"
+    a "嗯?森柠,你妈妈在哪里??"
 
 
 
     scene ab_duo_1_25 with tstmgr
 
-    b "She... left. She has something else to do."
+    b "她......离开了.她有其他事情要做."
 
 
 
     scene ab_duo_1_26 with tstmgr
 
-    a "Oh no, was she angry at me because I left you here for the kettle? I’m so sorry!"
+    a "哦,不,她是在生我的气吗,因为我把你留在这里拿水壶?我很抱歉!"
 
 
 
-    b "She wasn’t angry, Vera. She left because she has a meeting with Theodora’s mother later."
+    b "她并没有生气,薇拉.她离开了,因为她一会儿要和狄奥多拉的母亲见面."
 
 
 
     scene ab_duo_1_27 with tstmgr
 
-    a "Oh, okay, that’s... great to hear."
+    a "哦,好的,那是......很好的消息."
 
 
 
     scene ab_duo_1_28 with tstmgr
 
-    a "Anyway, come with me, Sen. [P] will be home very soon. Let’s prepare dinner together~"
+    a "总之,跟我来吧,森,[P]很快就会回家了.让我们一起准备晚餐~"
 
 
 
-    b "Oh, I... ..."
+    b "Oh, 我... ..."
 
 
 
     scene ab_duo_1_29 with tstmgr
 
-    a "What’s wrong, Sen?"
+    a "怎么了,森?"
 
 
 
     scene ab_duo_1_30 with tstmgr
 
-    b "Vera, may I ask you a question?"
+    b "薇拉, 我可以问你一个问题吗?"
 
 
 
-    a "Of course~"
+    a "当然~"
 
 
 
-    b "Do you... ... love [P]?"
+    b "你是否......爱[P]?"
 
 
 
-    "Vera’s action froze for a second, and then..."
+    "薇拉的动作僵住了一秒钟,然后..."
 
 
 
@@ -328,7 +328,7 @@ label AB_duo_1:
 
     scene ab_duo_1_31 with tstmgr
 
-    a "What about you?"
+    a "你呢?"
 
 
 
@@ -338,33 +338,33 @@ label AB_duo_1:
 
     scene ab_duo_1_32 with tstmgr
 
-    b "*Nodding* ... ... ... ..."
+    b "*点头* ... ... ... ..."
 
 
 
     scene ab_duo_1_33 with tstmgr
 
-    a "I have actually guessed it already... ..."
+    a "其实我已经猜到了... ..."
 
 
 
-    b "Why are you smiling? Aren’t you... angry?"
+    b "你为什么要笑?你不应该......生气吗??"
 
 
 
-    a "No... ... Are you?"
+    a "不......你呢?"
 
 
 
     scene ab_duo_1_34 with tstmgr
 
-    b "Not really... ..."
+    b "不... ..."
 
 
 
     scene ab_duo_1_35 with tstmgr
 
-    "Girls" "*Both smiling* ... ... ... ..."
+    "女孩们" "*同时笑* ... ... ... ..."
 
 
 
@@ -374,7 +374,7 @@ label AB_duo_1:
 
 
 
-    "*Vera and Senning have came to an agreement on the relationship with you.*"
+    "*薇拉和森柠已经就与你的关系达成了协议.*"
 
     stop music fadeout 1.0
     jump event_post

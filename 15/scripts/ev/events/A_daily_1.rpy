@@ -3,37 +3,37 @@ label A_daily_1:
     scene bar_background with tstmgr
     play music happy
 
-    "Restaurateur" "You know, I raised Vera's wage recently."
+    "餐厅老板""你知道,我最近提高了薇拉的工资."
 
-    player "For real? That's not like you. You are practically famous for your parsimony."
+    player "认真的?这可不像你.你的小气可是出了名的."
 
-    "Restaurateur" "That's because I believe none of my other employees deserve a higher wage. Vera is different, however. She deserves more."
+    "餐厅老板""那是因为我认为我的员工都不配得到更高的工资.但是薇拉不同.她应该得到更多."
 
-    player "Why is that?"
+    player "这是为什么?"
 
-    "Restaurateur" "Because she can do everything! Hosting, serving, cleaning the kitchen and restrooms, you name it. I've never seen any of my employees have such a passion before."
+    "餐厅老板""因为她什么都能做,检查,服务,甚至打扫厨房和卫生间,你能想到的她都能做.我从来没有见过我的员工有么能干."
 
-    player "What the fuck are you talking about?"
+    player "你他妈的在说什么?"
 
-    player "You made her clean the kitchen and restrooms?"
+    player "你让她打扫厨房和卫生间?"
 
-    "Restaurateur" "Hey, don't get mad at me. She volunteered to do all those things. You'll know what I'm talking about if you spend some time with her. That girl has so much energy."
+    "餐厅老板""嘿,别生我的气.她自愿做所有这些事情.如果你和她呆一个小时,你就知道我在说什么了.这个女孩精力充沛."
 
-    "Restaurateur" "Besides, that's why I decide to raise her wage. I would never mistreat such a good employee."
+    "餐厅老板""此外,这也是我决定给她加薪的原因.我绝不会亏待这么好的员工."
 
-    player "o no no, she is not here to be your janitor."
+    player "不不不,她不是来打扫卫生的."
 
-    "Restaurateur" "And I am not treating her like a janitor, either, am I? Now she earns about twice than a normal server does. If she stays here longer than a year, I may even make her my service manager."
+    "餐厅老板""我也没把她当清洁工,对吧?现在她的收入大约是普通服务员的两倍.如果她在这里呆一年以上,我甚至可能让她做我的服务经理."
 
     player "... ... ... ..."
 
-    narrator "I lifted my head up, and saw the back of Vera's figure serving a table of guests."
+    narrator "我抬起头,看见薇拉的背影,她在招待一桌客人."
 
-    narrator "Indeed, just like the restaurateur said, she is so energetic. No matter what she had been through, she still seems to embrace her life with full of optimism and passion."
+    narrator "的确,正如餐厅老板所说,她精力充沛.不管她经历了什么,她似乎仍然充满乐观和激情的拥抱生活."
 
     narrator "... ... ... ..."
 
-    narrator "Perhaps I have worried too much."
+    narrator "也许我担心得太多了."
 
     narrator "... ... ... ..."
 

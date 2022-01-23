@@ -2,25 +2,25 @@ label bnb_livingroom_latenight_A_2:
 
     scene bnb_livingroom_latenight_a_2_1 with tstmgr
 
-    a "Seems like people are all asleep by now."
+    a "现在大家好像都睡着了."
 
 
 
     scene bnb_livingroom_latenight_a_2_2 with tstmgr
 
-    player "So no one is going to bother us, right?"
+    player "所以没人会打扰我们,对吧?"
 
 
 
-    a "Stop... ..."
+    a "停......"
 
 
 
-    a "Right now I just want to sleep."
+    a "现在我只想睡觉."
 
 
 
-    player "We should sleep together. Let's head to my room."
+    player "我们应该一起睡.我们去我的房间吧."
 
 
 
@@ -30,7 +30,7 @@ label bnb_livingroom_latenight_A_2:
 
 
 
-    a "Fine..."
+    a "好吧..."
 
 
 

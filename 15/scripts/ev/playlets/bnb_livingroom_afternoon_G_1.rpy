@@ -2,29 +2,29 @@ label bnb_livingroom_afternoon_G_1:
 
     scene bnb_livingroom_afternoon_g_1_1 with tstmgr
 
-    a "Have you seen our electricity bill for last month?"
+    a "你看了我们上个月的电费账单了吗?"
 
 
 
     scene bnb_livingroom_afternoon_g_1_2 with tstmgr
 
-    player "Eh... not yet. What's the matter?"
+    player "Eh...还没有.出什么事了?"
 
 
 
     scene bnb_livingroom_afternoon_g_1_3 with tstmgr
 
-    a "It was too high!"
+    a "用的太多了!"
 
 
 
     scene bnb_livingroom_afternoon_g_1_4 with tstmgr
 
-    a "And that was because you kept the air conditioner on all the time."
+    a "那是因为你一直开着空调."
 
 
 
-    a "You should stop doing that again. It’s too early to use the air conditioner anyway. The temperature outside is not even hot."
+    a "你不应该再这样做了.反正现在用空调也太早了.外面的温度甚至都不热."
 
 
 
@@ -34,19 +34,19 @@ label bnb_livingroom_afternoon_G_1:
 
     scene bnb_livingroom_afternoon_g_1_5 with tstmgr
 
-    player "(Holy shit! What is she doing?)"
+    player "(Holyshit!她在干什么?)"
 
 
 
     scene bnb_livingroom_afternoon_g_1_7 with tstmgr
 
-    a "Are you listening to me?"
+    a "你在听吗?"
 
 
 
     scene bnb_livingroom_afternoon_g_1_6 with tstmgr
 
-    player "I... yeah, sorry. I’m going to shut the AC right now."
+    player "我...yeah,对不起.我现在就把空调关掉."
 
 
 

@@ -3,27 +3,27 @@ label B_daily_16:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, in the bookstore... ..."
+    "下午,在书店......"
 
 
 
     scene b_daily16_1 with dissolve
 
-    b "Uno~ do you have plans for today after work?"
+    b "乌诺~今天下班后有安排吗?"
 
 
 
-    g "No, what’s on your mind?"
+    g "No,你有什么想法?"
 
 
 
-    b "Let's go to my room and watch that Korean TV series I told you about together!~"
+    b "我们一起去我房间看我跟你说过的韩剧吧!~"
 
 
 
     scene b_daily16_2 with tstmgr
 
-    g "That sounds... good. Thanks for inviting me, Senning."
+    g "这听起来...很不错.谢谢你邀请我,森柠."
 
 
 
@@ -33,53 +33,53 @@ label B_daily_16:
 
 
 
-    "Sometime later, in Senning’s apartment room..."
+    "过了一段时间,在森柠的公寓房间里..."
 
 
 
     scene b_daily16_3 with dissolve
 
-    g "Wow... your room is big... ..."
+    g "Wow...你的房间很大......"
 
 
 
-    b "Yeah, that’s why I chose to live here~"
+    b "Yeah,这就是我选择住在这里的原因~"
 
 
 
     scene b_daily16_4 with tstmgr
 
-    b "But there is still one thing I don't like about this place... ... I don’t have a private bathroom, so I have to go to the public bathroom for shower everyday... ..."
+    b "但是这个地方还有一件不好的地方...我没有私人浴室,所以我每天都要去公共浴室洗澡......"
 
 
 
-    g "Oh, that must be annoying."
+    g "Oh,那一定很烦人."
 
 
 
     scene b_daily16_5 with tstmgr
 
-    g "Can I go see it? The public bathroom?"
+    g "我可以去看看吗?公共浴室?"
 
 
 
-    b "Hum? Why do you want to see that place?"
+    b "Hum?你为什么想去那个地方?"
 
 
 
-    g "I have never been into a public bathroom before, so... ..."
+    g "我从来没有去过公共浴室,所以......"
 
 
 
     scene b_daily16_6 with tstmgr
 
-    g "(It must be exciting if I can make a porn video in a place like that... ...)"
+    g "(如果我能在那样的地方拍色情片,那一定很刺激......)"
 
 
 
     scene b_daily16_7 with tstmgr
 
-    b "Oh, okay, I’ll show you the way."
+    b "Oh,okay,我带你去."
 
 
 
@@ -91,17 +91,17 @@ label B_daily_16:
 
     scene b_daily16_8 with tstmgr
 
-    b "On the second thought, maybe we should have a shower together in the public bathroom, what do you say?"
+    b "转念一想,也许我们应该一起在公共浴室洗个澡,怎么说?"
 
 
 
     scene b_daily16_9 with tstmgr
 
-    g "That sounds great!"
+    g "这听起来不错!"
 
 
 
-    b "Alright, let’s go!~"
+    b "好了,我们走吧!~"
 
 
 
@@ -111,21 +111,21 @@ label B_daily_16:
 
 
 
-    "Sometime later, Senning and Uno were having a good time in the public bathroom."
+    "过了一段时间,森柠和乌诺在公共卫生间玩得很开心."
 
 
 
     scene b_daily16_10 with dissolve
 
-    b "I’ll help you take your braids out~"
+    b "我帮你把辫子解开~"
 
 
 
-    g "Thank you."
+    g "谢谢你."
 
 
 
-    b "Is this your natural hair color? So beautiful~"
+    b "这是你天然的发色吗?好漂亮~"
 
 
 
@@ -135,13 +135,13 @@ label B_daily_16:
 
     scene void with tstmgr
 
-    "And at the same time, in Senning’s apartment room..."
+    "与此同时,在森柠的公寓房间里..."
 
 
 
     scene b_daily16_11 with dissolve
 
-    player "*Opened the door* I’m coming in, Sen~"
+    player "*开门*我进来了,森~"
 
 
 
@@ -149,19 +149,19 @@ label B_daily_16:
 
 
 
-    player "Sen?"
+    player "森?"
 
 
 
-    player "(Seems like she is not in the room. She must be in a shower or something, I’ll just wait for her here.)"
+    player "(她好像不在房间里.她一定在洗澡,我就在这儿等她.)"
 
 
 
-    player "(Emmmmm... maybe I should prank her a little... ... ... ...)"
+    player "(Emmmmm...也许我应该给她来个恶作剧............)"
 
 
 
-    player "(Yeah, why not? It will be fun~)"
+    player "(Yeah,为什么不呢?会很有趣的~)"
 
 
 
@@ -171,13 +171,13 @@ label B_daily_16:
 
 
 
-    "Sometime later, when Senning and Uno had finally finished the shower and came back to the room... ..."
+    "过了一段时间,森柠和乌诺终于洗完澡回到了房间......"
 
 
 
     scene b_daily16_12 with dissolve
 
-    b "*Talking about the TV series* And the emperor somehow traveled to a parallel universe where... ... ... ..."
+    b "*谈论电视连续剧*皇帝不知怎么来到了一个平行的宇宙............"
 
 
 
@@ -187,13 +187,13 @@ label B_daily_16:
 
 
 
-    g "Is that... [P] on your bed?"
+    g "是...[P]在你床上吗?"
 
 
 
     scene b_daily16_14 with tstmgr
 
-    b "What?"
+    b "什么?"
 
 
 
@@ -205,23 +205,23 @@ label B_daily_16:
 
     scene b_daily16_15 with tstmgr
 
-    b "Oh no... I mean, yes, that’s... definitely him."
+    b "Ohno...我是说,是的,那...肯定是他."
 
 
 
-    g "What is [P] doing here? And why he is all naked?"
+    g "[P]在这做什么?为什么他全身赤裸?"
 
 
 
     scene b_daily16_16 with tstmgr
 
-    b "I... I don’t know. He has the key to my room, sometimes he would come here without letting me know first, but... he never did something like this before..."
+    b "我...我不知道.他有我房间的钥匙,有时候他会不告诉我就来,但是...他从来没有像现在这样过..."
 
 
 
     scene b_daily16_17 with tstmgr
 
-    b "Maybe... it is a prank?"
+    b "也许...这是一个恶作剧?"
 
 
 
@@ -231,15 +231,15 @@ label B_daily_16:
 
     scene b_daily16_18 with tstmgr
 
-    g "Is he asleep?"
+    g "他睡着了?"
 
 
 
-    b "I think so... ..."
+    b "我想是吧......"
 
 
 
-    b "Do you think we should get closer?"
+    b "你觉得我们应该再靠近一点吗?"
 
 
 
@@ -247,7 +247,7 @@ label B_daily_16:
 
 
 
-    g "*Nodding* ... ... ... ..."
+    g "*点头*............"
 
 
 
@@ -263,111 +263,111 @@ label B_daily_16:
 
     scene b_daily16_20 with dissolve
 
-    g "Should we... wake him up?"
+    g "我们应该...叫醒他吗?"
 
 
 
-    b "I... I don’t know, but... it’s impolite to wake someone up from sleep, right?"
+    b "我...我不知道,但是...把人从睡梦中叫醒是不礼貌的,对吧?"
 
 
 
-    g "Yeah... I guess so."
+    g "Yeah...我想是吧."
 
 
 
-    "Girls" "*Staring at [P]’s penis* ... ... ... ..."
+    "女孩们""*盯着[P]的鸡巴*............"
 
 
 
-    b "Why is he having an erection?"
+    b "他为什么勃起了?"
 
 
 
-    g "I don’t know... ..."
+    g "我不知道......"
 
 
 
-    b "*Swallowing hard* ... ... ... ..."
+    b "*使劲吞咽*............"
 
 
 
     scene b_daily16_21 with tstmgr
 
-    g "It’s getting... so big... ..."
+    g "越来越...好大......"
 
 
 
-    b "And it has a nasty scent... ..."
+    b "它有一种难闻的气味......"
 
 
 
-    player "(Ehhh... ... ... ... What is the noise?)"
+    player "(Ehhh............什么声音?)"
 
 
 
     scene b_daily16_21 with dissolve
 
-    player "*Slightly Opened eyes* ... ... ... ..."
+    player "*稍微打开眼睛*............"
 
 
 
-    player "(Holy shit! Why is Uno here, too?)"
+    player "(Holyshit!为什么乌诺也在这里?)"
 
 
 
-    player "(Damn, this is going to be awkward, what should I do?)"
+    player "(Damn,这太尴尬了,我该怎么办?)"
 
 
 
     label B_daily_16_choice_1:
 
     menu:
-        "Get up":
+        "起床":
 
 
             scene b_daily16_22 with tstmgr
 
-            player "Sen, and Uno?"
+            player "森,还有乌诺?"
 
             scene b_daily16_43 with tstmgr
 
             $ flashlight()
 
-            "Girls" "Yahhh! He is waking up!"
+            "女孩们""Yahhh!他醒了!"
 
-            player "Hey, hey, sorry, it was just a prank. I’m dressing up right now."
+            player "Hey,hey,抱歉,只是个恶作剧.我马上穿衣服."
 
             scene void with tstmgr
 
-            "A few moments later... ..."
+            "不一会儿......"
 
             scene b_daily16_23 with dissolve
 
             player "... ... ... ..."
 
-            player "Why are you still holding each other and looking at me like I am a bad guy?"
+            player "为什么你们还抱在一起看着我,好像我是个坏人一样?"
 
-            b "We... we haven’t forgiven you yet!"
+            b "我们...我们还没有原谅你!"
 
             scene b_daily16_24 with tstmgr
 
-            b "You showed up on my bed naked with your erected pe... penis. This is so rude!"
+            b "你光着身子出现在我床上,还有你那勃起的阴...鸡巴.这太不礼貌了!"
 
-            player "Sorry... ... ... ..."
+            player "抱歉............"
 
-            player "What can I do to make up for you?"
+            player "我能做些什么来弥补你们呢?"
 
             scene b_daily16_25 with tstmgr
 
-            "Girls" "*Looking at each other* ... ... ... ..."
+            "女孩们""*互相看了看*............"
 
             scene b_daily16_26 with tstmgr
 
-            b "You can stay with us and watch that Korean TV series with us together~"
+            b "你可以留下来和我们一起看韩剧~"
 
-            player "Man... ... I am not really into the that TV series... ..."
+            player "伙计......我对那个电视剧不太感兴趣......"
 
-            b "You have no choice~"
+            b "你别无选择~"
 
             scene void with tstmgr
 
@@ -375,17 +375,17 @@ label B_daily_16:
 
             scene b_daily16_27 with tstmgr
 
-            player "(Ah... ... what a torture... ...)"
+            player "(Ah......太折磨人了......)"
 
             scene b_daily16_28 with tstmgr
 
             player "Zzzz... zzzz... zzzz... zzzz... ..."
 
-            "Girls" "*Focusing on the TV* ... ... ... ..."
+            "女孩们""*专注于电视*............"
 
             scene b_daily16_29 with tstmgr
 
-            b "Yahhh! The emperor is so handsome!"
+            b "Yahhh!皇帝好帅!"
 
             g "Yes~ yes~"
 
@@ -394,16 +394,16 @@ label B_daily_16:
             scene void with tstmgr
 
             "... ... ... ..."
-        "Pretend to sleep":
+        "假装睡觉":
 
 
 
 
             if B.harem < 15 or G.harem < 15:
 
-                "The further plot will be unlocked after Senning and Uno's harem acceptance levels reach 15."
+                "进一步的情节将在森柠和乌诺的后宫值达到15后解锁."
 
-                "You can always replay this event in the ‘subplay replay’ button located in your bedroom."
+                "你可以在你卧室的“重播”按钮中重播这个事件."
 
                 jump B_daily_16_choice_1
             else:
@@ -411,65 +411,65 @@ label B_daily_16:
 
                 scene b_daily16_30 with tstmgr
 
-                g "Wow... ... did you see the blood vessels on it?"
+                g "Wow......你看到它的血管了吗?"
 
-                b "Wait, wait, don’t get too close. It’s... inappropriate... ..."
+                b "等等,别靠得太近.这...不合适......"
 
-                g "But don’t you think it’s worth observing? I mean, how can it get so big?"
+                g "但你不认为这值得观察吗?我的意思是,它怎么能变得这么大?"
 
-                b "Awwwww... ... but... ..."
+                b "Awwwww......但是......"
 
-                g "Look, look, it’s pulsing!"
+                g "看,看,它在跳动!"
 
                 b "Aww... ... ... ..."
 
                 scene b_daily16_31 with tstmgr
 
-                b "*Got closer to [P] just like Uno did* ... ... ... ..."
+                b "*就像乌诺一样接近[P]*............"
 
                 "... ... ... ..."
 
-                b "It’s... unbelievable. Won’t it be inconvenience to carry such a big thing inside his pants all the time?"
+                b "这...难以置信.一直把这么大的东西放在裤子里不方便吗?"
 
                 player "... ... ... ..."
 
-                player "(Seriously, what are they doing right now?... ...)"
+                player "(说真的,她们现在在做什么?......)"
 
-                player "(They are observing my dick like it is a rare animal or something. This feels so weird...)"
+                player "(她们在观察我的鸡巴,好像它是稀有动物一样.这感觉好奇怪...)"
 
-                player "*Pretending to cough* Cough, cough... ..."
+                player "*假装咳嗽*咳,咳......"
 
-                "Girls" "Ahh?"
+                "女孩们""Ahh?"
 
                 scene b_daily16_33 with tstmgr
 
-                "The girls drew back immediately."
+                "女孩们立刻后退了."
 
-                "Girls" "... ... ... ..."
+                "女孩们""... ... ... ..."
 
                 scene b_daily16_34 with tstmgr
 
-                b "Did we... wake him up?"
+                b "我们...弄醒他了吗?"
 
-                g "No... I think he is still sleeping."
+                g "No...我想他还在睡觉."
 
-                b "Are you sure of that?"
+                b "你确定吗?"
 
-                g "I... I guess so."
+                g "我...我想是这样."
 
-                b "Okay... then... ..."
+                b "Okay...那......"
 
                 scene b_daily16_31 with tstmgr
 
-                "And the girls got closer to me again... ... ... ..."
+                "女孩们又靠近了我............"
 
                 player "(Damn... ... ... ...)"
 
-                b "Is it my mistake or did his penis get even bigger than 1 minute ago?"
+                b "是我的错还是他的鸡巴比一分钟前更大了?"
 
-                g "Do you want to feel it with hands?"
+                g "你想用手去摸摸吗?"
 
-                b "What? Wait..."
+                b "什么?等等..."
 
                 scene b_daily16_32 with tstmgr
 
@@ -477,51 +477,43 @@ label B_daily_16:
 
                 scene b_daily16_35 with tstmgr
 
-                b "How... how could you!"
+                b "你...你怎么能这样!"
 
-                g "What’s the matter?~ He doesn’t know anyway~"
+                g "有什么问题吗?他反正也不知道~"
 
                 b "... ... ... ..."
 
                 scene b_daily16_36 with tstmgr
 
-                "And Senning put her hand on my dick, too. I can’t believe it... ..."
+                "森柠也把手放在我的鸡巴上.我简直不敢相信......"
 
-                g "Can... can you feel it?"
+                g "你...你能感觉到吗?"
 
                 scene b_daily16_37 with tstmgr
 
-                b "Awwww... it pulses so hard... ..."
+                b "Awwww...它抖动的好厉害......"
 
-                g "He must be... very excited right now... in his dream."
+                g "他一定是...非常激动...在他的梦里."
 
-                "Yeah, of course I am excited. I mean, come on, my dick is now being held by the hands of two cuties!"
+                "Yeah,我当然很兴奋.我的意思是,拜托,我的小弟弟现在被两个小可爱握着!"
 
-                "But don’t worry, everything is still in my control, as long as they don’t... ..."
+                "但别担心,一切都在我的掌控之中,只要她们不这么做......"
 
-                "They don’t... ..."
+                "她们不......"
 
                 "Hmmmmmmmmmmmm... ... ... ..."
 
                 scene b_daily16_38 with tstmgr
 
-                "Why the hell did they start rubbing my dick up and down?"
+                "她们为什么开始上下摩擦我的鸡巴?"
 
                 scene b_daily16_39 with tstmgr
 
-                b "It’s getting so hot~"
+                b "越来越烫了~"
 
                 scene b_daily16_38 with tstmgr
 
-                g "And it pulses harder... ..."
-
-                scene b_daily16_39 with tstmgr
-
-                pause
-
-                scene b_daily16_38 with tstmgr
-
-                pause
+                g "抖动得更厉害了......"
 
                 scene b_daily16_39 with tstmgr
 
@@ -533,29 +525,37 @@ label B_daily_16:
 
                 scene b_daily16_39 with tstmgr
 
-                "Things... are not in my control anymore... ..."
+                pause
+
+                scene b_daily16_38 with tstmgr
+
+                pause
+
+                scene b_daily16_39 with tstmgr
+
+                "事情...不再受我控制了吗......"
 
                 scene b_daily16_40 with tstmgr
 
-                "Girls" "Yahhhh!~~~~"
+                "女孩们""Yahhhh!~~~~"
 
-                "Ohhhh... ... ... ... crap... ..."
+                "Ohhhh............操......"
 
                 scene b_daily16_41 with tstmgr
 
-                b "What have we done! Oh... ... I start to feel bad about this."
+                b "我们做了什么!oh...我开始为此感到难过."
 
                 scene b_daily16_42 with tstmgr
 
-                g "Relax~ let’s just clean him up before he wakes up~ I’ll go get some tissues."
+                g "放松点,让我们在他醒来之前把他弄干净,我去拿些纸巾."
 
                 b "O... okay... ... ... ..."
 
-                "Sigh... They acted like they just messed up a chemical experiment or something... ..."
+                "唉...她们表现得好像刚刚搞砸了一个化学实验之类的......"
 
                 scene void with tstmgr
 
-                "I guess I will just keep pretending to sleep until they are done cleaning me up... ..."
+                "我想我会一直假装睡觉,直到她们把我弄干净......"
 
                 "... ... ... ..."
 

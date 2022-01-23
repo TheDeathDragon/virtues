@@ -4,33 +4,33 @@ label bnb_groom_latenight_G_1:
 
     scene bnb_groom_latenight_g_1_1 with tstmgr
 
-    g "Hello, fans~ This is Uno and I'm making this video for you with my master~"
+    g "Hello,粉丝们~我是乌诺,我和我的主人一起为你们制作这个视频~"
 
 
 
-    player "Ahh... so soft... ..."
+    player "Ahh...好软......"
 
 
 
-    g "My master just came home after work and I'm helping him release his stress~"
+    g "我的主人刚下班回家,我正在帮他减压~"
 
 
 
-    g "Do you want me to help you release your stress, too?"
+    g "你也想让我帮你减压吗?"
 
 
 
-    g "Do you want to immerse your head in Uno's tits and hold my plump body like holding a cushion, too?"
+    g "你想把头埋在乌诺的奶子里,像抱抱枕一样抱着我丰满的身体吗?"
 
 
 
     scene bnb_groom_latenight_g_1_2 with tstmgr
 
-    g "Hee hee~ sorry, but Uno is master's property~ Only he can do such things to me~"
+    g "Heehee~对不起,乌诺是主人的财产,只有他才能对我做出这样的事~"
 
 
 
-    g "But this video may help you~ So... please enjoy it~"
+    g "但是这个视频可以帮助你~所以...请享受吧~"
 
 
 

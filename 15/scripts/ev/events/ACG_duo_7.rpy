@@ -3,11 +3,11 @@ label ACG_duo_7:
     scene void with tstmgr
     play music happy
 
-    "Early in the morning..."
+    "一大早......"
 
 
 
-    "I’m going to the company with Theodora today, but... ..."
+    "我今天要和狄奥多拉去公司,但是......"
 
 
 
@@ -17,11 +17,11 @@ label ACG_duo_7:
 
 
 
-    player "How long on earth does Theodora have to wear makeup? She has been in the bathroom for half an hour... ..."
+    player "狄奥多拉究竟要化多久的妆?她已经在浴室里呆了半个小时了.... ..."
 
 
 
-    player "I would have slept for half an hour more if I saw this coming... ..."
+    player "如果早知道会这样,我就多睡半个小时......"
 
 
 
@@ -43,13 +43,13 @@ label ACG_duo_7:
 
     scene void with tstmgr
 
-    "Sometime later... ..."
+    "稍后的某个时间... ..."
 
 
 
     scene acg_duo_7_4 with dissolve
 
-    a "*Entering the room* Washing dishes~~ I love washing dishes~~ Lalalala~~"
+    a "*进入房间* 洗盘子~~我喜欢洗盘子~~ Lalalala~~"
 
 
 
@@ -69,19 +69,19 @@ label ACG_duo_7:
 
 
 
-    a "Why is he... sleeping there~"
+    a "为什么他... 睡在这~"
 
 
 
     scene void with tstmgr
 
-    "Some more time later... ..."
+    "再过些时间... ..."
 
 
 
     scene acg_duo_7_6 with dissolve
 
-    c "Sorry for taking so long, I was... ... Hmmmmm?"
+    c "对不起,花了这么长时间,我在... ... Hmmmmm?"
 
 
 
@@ -95,7 +95,7 @@ label ACG_duo_7:
 
 
 
-    a "[P]’s sleeping face is so cute~"
+    a "[P]的睡颜真可爱~"
 
 
 
@@ -113,7 +113,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_10 with tstmgr
 
-    c "*Taking off her bra* ... ..."
+    c "*脱掉她的乳罩* ... ..."
 
 
 
@@ -123,25 +123,25 @@ label ACG_duo_7:
 
 
 
-    player "Awwwwww... ... What... ..."
+    player "Awwwwww... ... 什么... ..."
 
 
 
-    c "Wake up, lazy, time to go."
+    c "醒醒吧,懒虫,该走了."
 
 
 
     scene acg_duo_7_12 with tstmgr
 
-    player "What is the heavy soft thing on my face? Are they... boobs?"
+    player "我脸上沉重柔软的东西是什么?它们是......奶子吗?"
 
 
 
-    player "Can you... move them towards my mouth a little? I want to feel them with my mouth and nose too~"
+    player "你能不能......把它们往我的嘴里移一点?我也想用我的嘴和鼻子来感受它们~"
 
 
 
-    c "Huh? We don't have time for this. Get up, let's... ..."
+    c "Huh?我们没有时间了.起来吧,我们......"
 
 
 
@@ -149,37 +149,37 @@ label ACG_duo_7:
 
     $ flashlight()
 
-    a "Heard you~"
+    a "听到了吧~"
 
 
 
-    player "Ohhhhhh!~~~ More... more boobs~~~"
+    player "哦~~~~~更多......更多的胸部~~~"
 
 
 
-    player "Yes~~ yes, it’s so good to have a harem!~~"
+    player "是啊~~是啊,有一个后宫真好!~~"
 
 
 
-    c "You are spoiling him, Vera."
+    c "你快把他宠坏了,薇拉."
 
 
 
     scene acg_duo_7_14 with tstmgr
 
-    a "What? I just did the same thing as you did~"
+    a "什么,我只是做了和你一样的事~"
 
 
 
     scene acg_duo_7_15 with tstmgr
 
-    c "Humph... ... You have become a bad girl, haven't you? Just like Uno~"
+    c "Humph... ... 你已经成为一个坏女孩,不是吗?就像乌诺一样~"
 
 
 
     scene acg_duo_7_16 with tstmgr
 
-    "Theodora suddenly kissed Vera..."
+    "狄奥多拉突然吻了薇拉..."
 
 
 
@@ -189,25 +189,25 @@ label ACG_duo_7:
 
     scene acg_duo_7_17 with tstmgr
 
-    a "Auuummm~~~ Theo~~ tongue... ..."
+    a "Auuummm~~~ 西奥~~ 舌头... ..."
 
 
 
-    a "Wait~ wuuuummmmm~~ mmm~~"
+    a "等等~ wuuuummmmm~~ mmm~~"
 
 
 
-    c "Bad girl should be punished~~~"
+    c "坏女孩需要惩罚~~~"
 
 
 
     scene acg_duo_7_14 with tstmgr
 
-    player "Eh... What are you guys doing?"
+    player "Eh... 你们在干什么?"
 
 
 
-    "Girls" "Huummmm~~ so sweet~~ huummm~~ yes~~~"
+    "女孩们" "Huummmm~~ 真甜啊~~ huummm~~ 是的~~~"
 
 
 
@@ -215,7 +215,7 @@ label ACG_duo_7:
 
 
 
-    player "Whatever, take your time, I got my favorite boobs on my face anyway~"
+    player "不管怎么样,慢慢来吧,我最喜欢的奶子就贴着我的脸上.y~"
 
 
 
@@ -229,25 +229,25 @@ label ACG_duo_7:
 
 
 
-    "Sometime later... ..."
+    "稍后的某个时间... ..."
 
 
 
     scene acg_duo_7_18 with dissolve
 
-    a "Have a nice day, you two~"
+    a "祝你们今天过得愉快~"
 
 
 
     scene acg_duo_7_19 with tstmgr
 
-    c "See you tonight, Vera~"
+    c "晚上见,薇拉~"
 
 
 
     scene acg_duo_7_20 with tstmgr
 
-    player "We will come home before dinner~"
+    player "我们会在晚餐前回来~"
 
 
 
@@ -257,23 +257,23 @@ label ACG_duo_7:
 
     scene acg_duo_7_21 with tstmgr
 
-    a "And... ..."
+    a "还有... ..."
 
 
 
     scene acg_duo_7_22 with tstmgr
 
-    a "Don't... don’t forget the goodbye kiss."
+    a "不要... 别忘了告别之吻."
 
 
 
-    player "Vera... ..."
+    player "薇拉... ..."
 
 
 
     scene acg_duo_7_23 with tstmgr
 
-    player "Of course~"
+    player "当然~"
 
 
 
@@ -287,17 +287,17 @@ label ACG_duo_7:
 
 
 
-    a "Uh... huh... ... yes... ..."
+    a "Uh... huh... ... 是的... ..."
 
 
 
     scene acg_duo_7_25 with tstmgr
 
-    player "See you tonight, Vera~"
+    player "今晚见,薇拉~"
 
 
 
-    a "See you... ..."
+    a "再见... ..."
 
 
 

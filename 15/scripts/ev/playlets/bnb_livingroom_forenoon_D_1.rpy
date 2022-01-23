@@ -4,33 +4,33 @@ label bnb_livingroom_forenoon_D_1:
 
     scene bnb_livingroom_forenoon_d_1_1 with tstmgr
 
-    player "Irene? What are you doing here? Aren't you supposed to be in school right now?"
+    player "艾琳?你在这里做什么?你现在不是应该在学校吗?"
 
 
 
-    d "School is boring. I want to stay with you!~"
+    d "学校太无聊了.我想和你在一起!~"
 
 
 
     scene bnb_livingroom_forenoon_d_1_2 with tstmgr
 
-    player "What? No no no, you can't just skip your school like this."
+    player "什么?Nonono,你不能就这样逃课."
 
 
 
-    player "I'm taking you to school right now."
+    player "我现在就送你去学校."
 
 
 
     scene bnb_livingroom_forenoon_d_1_3 with tstmgr
 
-    d "No way! I want to stay with you!"
+    d "没门!我想和你在一起!"
 
 
 
     scene bnb_livingroom_forenoon_d_1_4 with tstmgr
 
-    player "Bad girl. I'll teach you a lesson!"
+    player "坏女孩.我要给你一个教训!"
 
 
 
@@ -42,7 +42,7 @@ label bnb_livingroom_forenoon_D_1:
 
     scene bnb_livingroom_forenoon_d_1_6 with tstmgr
 
-    d "Yaaahhh~~~ It hurts~~"
+    d "Yaaahhh~~~好疼~~"
 
 
 
@@ -54,7 +54,7 @@ label bnb_livingroom_forenoon_D_1:
 
     scene bnb_livingroom_forenoon_d_1_6 with tstmgr
 
-    d "Sorry, I'm sorry~~~"
+    d "对不起,我错了~~~"
 
 
 
@@ -68,13 +68,13 @@ label bnb_livingroom_forenoon_D_1:
 
 
 
-    player "Have you learned the lesson yet?"
+    player "你吸取教训了吗?"
 
 
 
     scene bnb_livingroom_forenoon_d_1_8 with tstmgr
 
-    d "Awwww~~~ I'm going to school right now~ Sorry~~"
+    d "Awwww~~~我现在就去学校~我错了~~"
 
 
 

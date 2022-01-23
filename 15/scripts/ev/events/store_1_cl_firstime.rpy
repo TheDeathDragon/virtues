@@ -4,17 +4,17 @@ label store_1_cl_firstime:
     play music sorrow
 
 
-    "Posia" "Ah... here comes my favorite costumer~"
+    "波西亚""Ah...我最喜欢的顾客来了~"
 
 
 
-    player "Hi, Posia."
+    player "Hi,波西亚."
 
 
 
     scene store_1_cl_firstime_2 with tstmgr
 
-    "Posia" "Have a seat as you like. There are no other people around~"
+    "波西亚""请随便坐.这里没有其他人了~"
 
 
 
@@ -26,63 +26,63 @@ label store_1_cl_firstime:
 
     scene store_1_cl_firstime_3 with tstmgr
 
-    "Posia" "Do you want a coffee or anything?"
+    "波西亚""你想喝杯咖啡或别的什么吗?"
 
 
 
-    player "No, I’m fine... eh... ... how’s your business?"
+    player "No,我很好...eh......你的生意如何?"
 
 
 
-    "How’s her business? Damn, that was a stupid question..."
+    "她的生意怎么样?Damn,这是一个愚蠢的问题..."
 
 
 
     scene store_1_cl_firstime_4 with tstmgr
 
-    "Posia" "Hmmm? Wait... ..."
+    "波西亚""Hmmm?等等......"
 
 
 
     scene store_1_cl_firstime_5 with tstmgr
 
-    "Posia" "It seems like something bad is going to happen on you in the next few days, something... very bad."
+    "波西亚""在接下来的几天里,似乎有些不好的事情要发生在你身上,有些事情...非常糟糕."
 
 
 
-    player "Holy shit, are you serious? You haven’t even kissed me yet!"
+    player "Holyshit,你是认真的吗?你还没吻我呢!"
 
 
 
     scene store_1_cl_firstime_6 with tstmgr
 
-    "Posia" "Don’t underestimate my ability, [P]. I can do a rough fortunetelling even without contacting with your body, but the vision would be very vague."
+    "波西亚""不要低估我的能力,[P].即使不与你的身体接触,我也可以算个大概,但也只是个大概."
 
 
 
-    player "Oh, okay, then please give me a kiss right now and let me know what kind of bad thing it is!"
+    player "Oh,okay,那么现在请给我一个吻,让我知道这是什么坏事!"
 
 
 
-    "Posia" "No, fortunetelling is not what you need now, I mean, You can't change your future by knowing your fortune. The bad thing is still going to happen as long as you have bad luck."
+    "波西亚""No,你现在不需要算,我的意思是,你不能通过知道你的命运来改变你的命运.只要你运气不好,坏事就会发生."
 
 
 
-    player "so... is there anything I can do to prevent the bad thing from happening?"
+    player "所以...我能做些什么来阻止坏事的发生吗?"
 
 
 
-    "Posia" "Well, good news for you, there is one thing I can do for you~"
+    "波西亚""Well,给你一个好消息,有一件事我可以帮你~"
 
 
 
-    "Posia" "I can give you a cleansing service if you want. It may be able to reverse your bad luck."
+    "波西亚""如果你愿意,我可以为你提供净化服务.它也许能扭转你的坏运气."
 
 
 
     scene store_1_cl_firstime_7 with tstmgr
 
-    player "Great! Let’s do it!"
+    player "Great!那我们开始吧!"
 
 
 
@@ -92,33 +92,33 @@ label store_1_cl_firstime:
 
 
 
-    player "Wait, what will you exactly do for this cleansing service? Are you going to... kiss me again?"
+    player "等等,这次净化服务你具体要做什么?你打算...再吻我?"
 
 
 
     scene store_1_cl_firstime_8 with tstmgr
 
-    "Posia" "Hmmm... yeah, sort of, but this time I’m not kissing your mouth~"
+    "波西亚""Hmmm...yeah,算是吧,但这次我不会亲你的嘴~"
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
     scene store_1_cl_firstime_9 with tstmgr
 
-    "Posia" "Do you want to take a guess about which part of your body I’m going to kiss?"
+    "波西亚""你想猜一下我要吻你身体的哪个部位吗?"
 
 
 
-    player "Wait, you are not talking about... ..."
+    player "等等,你不是在说......"
 
 
 
     scene store_1_cl_firstime_10 with tstmgr
 
-    "Posia" "Take off your pants, darling. Don’t question my method~"
+    "波西亚""脱下你的裤子,亲爱的.不要质疑我的方法~"
 
 
 
@@ -126,7 +126,7 @@ label store_1_cl_firstime:
 
 
 
-    "Okay, this is so weird, but I don’t think I’m going to say no to that..."
+    "Okay,这太奇怪了,但我想我不会拒绝的..."
 
 
 
@@ -138,35 +138,35 @@ label store_1_cl_firstime:
 
     scene store_1_cl_firstime_11 with dissolve
 
-    "Posia" "Wow... ... this is... magnificent. How did you make it so big?"
+    "波西亚""Wow......这...太惊人了.你是怎么把它弄这么大的?"
 
 
 
     scene store_1_cl_firstime_12 with tstmgr
 
-    "Posia" "I guess that’s why so many girls love you~"
+    "波西亚""我想这就是为什么那么多女孩喜欢你的原因~"
 
 
 
-    player "Eh... thanks for saying that..."
+    player "Eh...谢谢你这么说..."
 
 
 
-    "Posia" "Now I will suck out all your dirty fluids so your bad luck will go away~"
+    "波西亚""现在我会吸干你所有的脏水,这样你的坏运气就会消失~"
 
 
 
-    player "I have never heard of anything weirder before... ..."
+    player "我从来没听说过比这更奇怪的事......"
 
 
 
-    "Posia" "Just relax, and leave everything to me~"
+    "波西亚""放轻松,把一切都交给我~"
 
 
 
     scene store_1_cl_firstime_13 with tstmgr
 
-    "Posia" "*Licking* ... ... ... ..."
+    "波西亚""*舔*............"
 
 
 
@@ -194,27 +194,27 @@ label store_1_cl_firstime:
 
     scene store_1_cl_firstime_17 with tstmgr
 
-    "Posia" "My... jaw... ..."
+    "波西亚""我的...下巴......"
 
 
 
     scene store_1_cl_firstime_19 with tstmgr
 
-    "Posia" "*Breathing heavily* Huh... huh... huh... huh... ..."
+    "波西亚""*喘着粗气*Huh...huh...huh...huh......"
 
 
 
-    "Posia" "This is... so hard... ..."
+    "波西亚""好...硬......"
 
 
 
-    "Posia" "But... ..."
+    "波西亚""但是......"
 
 
 
     scene store_1_cl_firstime_17 with tstmgr
 
-    "Posia" "Awwwwww~~~~~"
+    "波西亚""Awwwwww~~~~~"
 
 
 
@@ -226,17 +226,17 @@ label store_1_cl_firstime:
 
     scene store_1_cl_firstime_17 with tstmgr
 
-    player "Ahhhhh... ... I’m cuming!"
+    player "Ahhhhh......我射了!"
 
 
 
     scene store_1_cl_firstime_20 with tstmgr
 
-    "Posia" "Wummmmmmmmm!~~~~"
+    "波西亚""Wummmmmmmmm!~~~~"
 
 
 
-    "Damn... I came so much in her mouth and some of my cum even came out from her nose... ..."
+    "Damn...我在她嘴里射的太多了,我的一些精液甚至从她的鼻子里流出来了......"
 
 
 
@@ -246,23 +246,23 @@ label store_1_cl_firstime:
 
     scene store_1_cl_firstime_21 with tstmgr
 
-    "Posia" "Ah... huh... huh... ..."
+    "波西亚""Ah... huh... huh... ..."
 
 
 
-    player "That was... beyond amazing..."
+    player "这...前所未有的爽..."
 
 
 
-    "Posia" "I have absorbed... all your bad luck... ..."
+    "波西亚""我已经吸收了...你所有的坏运气......"
 
 
 
-    player "Eh... ... thanks, Posia."
+    player "Eh......谢谢,波西亚."
 
 
 
-    "Posia" "You are... welcome... ..."
+    "波西亚""不...客气......"
 
 
 

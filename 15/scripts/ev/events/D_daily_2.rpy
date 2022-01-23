@@ -8,73 +8,73 @@ label D_daily_2:
 
     narrator "Hmm... ... ... ..."
 
-    narrator "Irene is doing her homework right now."
+    narrator "艾琳现在正在做作业."
 
-    narrator "Well, I have found a bad habit of her during these days tutoring, that she can be distracted very easily while studying."
+    narrator "嗯,我发现她在这些天的辅导中有一个坏习惯,她在学习的时候很容易分心."
 
-    narrator "For example, she may suddenly start to play her cellphone or chat with me in the middle of solving a math problem, and I have to stop her immediately and make her concentrate on study again."
+    narrator "例如,她可能会在解数学题的时候突然开始玩手机或者和我聊天,我必须马上阻止她,让她重新集中精力学习."
 
     scene rcsj_d13 with tstmgr
 
-    d "Have you ever thought about..."
+    d "你想过吗..."
 
-    narrator "Here it comes again."
+    narrator "又来了."
 
-    player "Don't chat while doing your homework."
+    player "做作业时不要聊天."
 
     scene rcsj_d14 with tstmgr
 
-    d "Why are my mom's and Theo's breasts so big, but mine so small?"
+    d "为什么我妈妈和狄奥多拉的胸部那么大,而我的却那么小?"
 
-    player "Stay on with your assignmen... Wait, what did you just say?"
+    player "集中注意力...等等,你刚才说什么?"
 
-    d "Breasts?"
+    d "胸?"
 
     player "... ... ... ..."
 
-    player "(Well, I kinda like that topic.)"
+    player "(我有点喜欢这个话题.)"
 
     player "... ... ... ..."
 
     scene rcsj_d15 with tstmgr
 
-    player "Fine, I think we can take a 5-minute break."
+    player "好吧,我想我们可以休息5分钟."
 
-    player "Personally, I don't think your breasts are small. They have definitely reached the average."
+    player "就我个人而言,我不认为你的胸很小.它们绝对达到了平均水平."
 
-    player "And you are still growing. I'm sure that they will get bigger in the future."
+    player "你还在成长.我相信它们将来会变得更大."
 
-    player "But I do understand your pressure. Your sister is... overgrown."
+    player "但我理解你的压力.你姐姐是...发育过度的."
 
     scene rcsj_d14 with tstmgr
 
-    d "Do you know any way to make my breasts bigger?"
+    d "你知道如何让我的胸变大吗?"
 
     player "... ... ... ..."
 
-    player "I'm not a doctor, so I can't suggest you anything professional. But I do know a conventional way for this."
+    player "我不是医生,所以我不能给你任何专业的建议.但我知道一个传统的方法."
 
-    player "\"The more you touch, the bigger they grow.\""
+    player "\"你揉的越多,它们就长得越大.\""
 
     d "Uh huh..."
 
-    player "You can try touch your breasts sometimes. Or in other words, give them a massage."
+    player "你可以试着摸一下你的胸部.或者换句话说,给它们按摩."
 
-    d "I see..."
+    d "我明白了..."
 
     scene rcsj_d16 with tstmgr
 
-    d "Do you want to do the massage for me?"
+    d "你想帮我按摩吗?"
 
-    narrator "And here comes again. She is luring me with words once again."
+    narrator "又来了.她又在用言语诱惑我了."
 
-    narrator "Damn it, control yourself, [P.name]. Don't answer her."
+    narrator "该死,控制你自己,[P.name].别回答她."
 
-    d "Don't worry, I'm just kidding."
+    d "别担心,我只是开个玩笑."
 
     player "Ha, ha..."
 
-    player "Let's stick with your math assignment, shall we?"
+    player "让我们继续看你的数学作业,好吗?"
 
     scene rcsj_d15 with tstmgr
 
@@ -82,7 +82,7 @@ label D_daily_2:
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time on tutoring Irene."
+    narrator "我花了一些时间辅导艾琳."
 
     stop music fadeout 1.0
 

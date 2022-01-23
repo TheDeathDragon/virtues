@@ -2,132 +2,132 @@ label A_swdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Vera works at a cafe every morning. Perhaps I could encounter her there and try and get to know her better."
+    narrator "据杰克说,薇拉每天早上在一家咖啡馆工作.也许我可以找个机会在那儿找到她.那将是改善我们关系的好办法."
 
     narrator "... ... ... ..."
 
     scene cafe_background with tstmgr
 
-    narrator "I found the cafe Jake mentioned and made my way inside.."
+    narrator "早上,我去了那家咖啡馆."
 
-    narrator "The place is smaller than I imagined and quite...quaint. I don't know how a place can be so dark when the sun is beaming outside. Whose idea was this?"
+    narrator "这个地方比我想象的要小,看起来又老又简陋.灯光是绝对的灾难.外面阳光明媚,但这个地方却黑暗无比.多么失败的设计!"
 
-    narrator "Luckily, Vera is really here. It was not difficult to find her at all because she was the only server here."
+    narrator "幸运的是,薇拉真的在这里.要找到她一点也不困难,因为她是这里唯一的服务员."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "Welcome."
+    a "欢迎光临."
 
     scene a_cafe_weird with tstmgr
 
     a "Ah..."
 
-    player "Oh? Hi, Vera. I didn't expect to see you here."
+    player "Oh?Hi,薇拉.我没想到会在这儿见到你."
 
-    a "Hello..."
+    a "你好..."
 
-    player "Do you work here?"
+    player "你在这儿工作吗?"
 
     narrator "... ... ... ..."
 
-    narrator "She was a little bit shocked at my appearance. It took her a while to return to normal."
+    narrator "她对我的出现有点吃惊.过了一段时间才恢复正常."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Yes, I work here every day in the morning, as a waitress."
+    a "Yes,我每天早上在这里工作,做服务员."
 
     scene a_cafe_weird with tstmgr
 
-    a "Why are you here?"
+    a "你怎么在这?"
 
-    player "I was just... walking down the street and happened to see you from outside, so I decided to come in and say hi. That's all."
+    player "我只是...走在街上,碰巧从外面看到你,所以我决定进来打个招呼.就是这样."
 
     a "... ... ... ..."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Alright...... What can I get for you today?"
+    a "好吧......要吃点什么?"
 
-    player "Do you have any recommendations?"
+    player "你有什么推荐的吗?"
 
     scene a_cafe_weird with tstmgr
 
-    a "Emm... I don't know."
+    a "Emm...我不知道."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "You can try the bacon sandwich meal. The bacon is fresh, I'm sure of that."
+    a "你可以尝尝培根三明治.培根是新鲜的,我敢肯定."
 
-    player "Sounds good. I'll have one bacon sandwich meal then. Thank you."
+    player "听起来不错.那么我要一份培根三明治.谢谢你!."
 
-    a " I'll be right back."
+    a "我马上回来."
 
     scene cafe_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Sometime later, I finished my breakfast and checked out."
+    narrator "过了一段时间,我吃完早餐结完账."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Did you enjoy the meal?"
+    a "你喜欢这顿饭吗?"
 
     player "... ... ... ..."
 
-    narrator "(Well, no. The bacon was overcooked. It tasted like firewood. I wonder if I should tell her the truth.)"
+    narrator "(Well,不.培根烤过头了.尝起来像柴火.我不知道是否应该告诉她真相.)"
 
     a "... ... ... ..."
 
     scene a_cafe_weird with tstmgr
 
-    a "Nevermind, you don't need to tell, I knew the bacon was overcooked. It must tastes like firewood."
+    a "没关系,你不用告诉我,我知道培根烤过头了.它尝起来一定像柴火."
 
-    player "??? How did you know?"
+    player "???你是怎么知道的?"
 
     a "... ... ... ..."
 
-    a "I am actually quite good at cooking, but the chief doesn't listen to any of my advice."
+    a "实际上我很擅长烹饪.但厨师根本不听我的劝告."
 
-    player "Why is that?"
+    player "这是为什么?"
 
-    a "He wouldn't hear from a server."
+    a "他不听服务员的."
 
-    player "Ha, now I see why this place has so few guests."
+    player "Ha,现在我明白为什么这个地方客人这么少了."
 
     menu:
-        "Tip her regularly":
+        "常规小费":
 
             scene cafe_background with tstmgr
 
-            narrator "We had a brief conversation after that. She didn't talk much, but it was a good start."
+            narrator "之后我们进行了简短的交谈.她话不多,但这是一个良好的开端."
 
             narrator "... ... ... ..."
-        "Tip her generously":
+        "超额小费":
 
 
             scene a_cafe_weird with tstmgr
 
-            a "Eh, why do you tip me so much?"
+            a "Eh,你为什么给我这么多小费?"
 
-            player "Because I am satisfied with your service. Just take it."
+            player "因为我对你的服务很满意.就收下吧."
 
-            a "But 30%%... That's too much."
+            a "但是百分之30...也太多了."
 
-            player "People always tip more for a server they know. It's a sign of goodwill, nothing else."
+            player "人们总是付更多的小费给他们认识的服务员.这只是善意的表示,没有别的意思."
 
             scene a_cafe_smile2 with tstmgr
 
-            a "Is that so..."
+            a "真的是这样么..."
 
             a "... ... ... ..."
 
             scene a_cafe_smile2 with tstmgr
 
-            a "Fine, thank you."
+            a "好吧,谢谢你."
 
             scene cafe_background with tstmgr
 
-            narrator "We had a brief conversation after that. She didn't talk much, but it was a good start."
+            narrator "之后我们进行了简短的交谈.她话不多,但这是一个良好的开端."
 
             narrator "... ... ... ..."
 

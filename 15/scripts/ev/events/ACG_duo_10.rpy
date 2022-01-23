@@ -5,61 +5,61 @@ label ACG_duo_10:
     scene void with tstmgr
     play music sorrow
 
-    "Among all the girls who live in my house, Vera is definitely the busiest one."
+    "在住在我家的所有女孩中，薇拉绝对是最忙的一个。."
 
 
 
     scene acg_duo_10_1 with dissolve
 
-    "She wakes up before dawn every day... ..."
+    "她每天都是最早起来的... ..."
 
 
 
     scene acg_duo_10_2 with tstmgr
 
-    "She makes breakfast for everyone in the house... ..."
+    "大家每天醒来都会有热乎乎的早餐吃... ..."
 
 
 
     scene acg_duo_10_3 with tstmgr
 
-    "She always keeps the house clean as new... ..."
+    "她也一直让这间房子干净如初... ..."
 
 
 
     scene acg_duo_10_4 with tstmgr
 
-    "She works at a cafe in the morning..."
+    "早上在咖啡店打工..."
 
 
 
     scene acg_duo_10_5 with tstmgr
 
-    "A clothing store in the afternoon..."
+    "中午在服装店..."
 
 
 
     scene acg_duo_10_6 with tstmgr
 
-    "A restaurant at night..."
+    "晚上在餐厅..."
 
 
 
     scene void with tstmgr
 
-    "Sometimes she doesn’t have the night shift, but she wouldn’t choose to rest either. She would make a great meal for me and the other girls, which is even more tiring."
+    "有时她不上夜班，但她也不会选择休息。而是会为我和其他女孩做一顿大餐，这就更累了."
 
 
 
-    "I have suggested to her many times that she should quit those jobs, but she still hasn’t truly made up her mind yet. Shit, I will definitely force her to do so as soon as possible."
+    "我一直在劝她辞掉那些工作，但她还是没能真正下定决心。妈的，我一定要让她可以没那么累."
 
 
 
-    "Before she quits the jobs, I guess the only thing I can do now is to try to do something for her to ease her tiredness."
+    "在她辞职之前，我想我现在唯一能做的就是努力为她做一些事情来让她没那么累."
 
 
 
-    "Hmmmmmm... ... How about a massage? Yeah, it’s a good choice. She likes massage."
+    "Hmmmmmm... ... 按摩怎么样？我想这是个不错的选择。她喜欢按摩."
 
 
 
@@ -67,29 +67,29 @@ label ACG_duo_10:
 
 
 
-    "A few days later, late night... ..."
+    "几天后，深夜... ..."
 
 
 
     scene acg_duo_10_10 with dissolve
 
-    player "(I have practiced my massaging skill a lot recently. I think Vera will definitely love it~)"
+    player "(我最近一直在练习我的按摩技巧。我想薇拉一定会喜欢它~)"
 
 
 
     scene acg_duo_10_11 with tstmgr
 
-    "I went to Vera’s room, but she was not there."
+    "我去了薇拉的房间，但她不在那里。."
 
 
 
-    player "Hmmmm? Where did she go?"
+    player "Hmmmm? 她去哪了?"
 
 
 
     scene void with tstmgr
 
-    "Meanwhile, in the bathroom... ..."
+    "同时，在浴室里... ..."
 
 
 
@@ -97,47 +97,47 @@ label ACG_duo_10:
 
     $ flashlight()
 
-    a "Girls... you guys... don’t have to do this... ..."
+    a "姑娘们......你们......没必要要这样做... ..."
 
 
 
-    c "What are you talking about? You are the busiest one in the house and you always take care of us. This is the one least thing we can do for you~"
+    c "你在说什么? 你是这间房子里最忙的人,还一直照顾我们. 这是我们能为你做的最起码的一件事~"
 
 
 
     scene acg_duo_10_8 with tstmgr
 
-    g "The massage with our breasts~ Humph, humph~ Is it good, Vera? This service is used to be master’s favorite~"
+    g "用我们的奶子做按摩~哼哼~舒服吗，薇拉？这种服务可是主人的最爱~"
 
 
 
-    g "This is the best massage service in the world, right? Even master himself won’t be able to make you feel better than this~"
+    g "这就是世界上最好的按摩服务，对吗？就算是主人的按摩也无法比拟~"
 
 
 
     scene acg_duo_10_7 with tstmgr
 
-    c "Humph~ He massages with his rough callused hands but we do it with soft tender boobs, that is an easy win for us~"
+    c "Humph~ 他用他粗糙的、长满老茧的手按摩，而我们用柔软的、细嫩的奶子进行按摩，这对我们来说是一场毫无悬念的胜利。~"
 
 
 
     scene acg_duo_10_8 with tstmgr
 
-    a "Theo... Uno... ... You two are so kind to me... ..."
+    a "西奥... 乌诺... ... 你们两个对我太好了... ..."
 
 
 
     scene acg_duo_10_9 with tstmgr
 
-    c "We are sisters in his harem now, aren’t we? Sisters are supposed to take care of each other."
+    c "我们现在都是他后宫里的好姐妹,姐妹们应该互相照顾,不是吗?."
 
 
 
-    g "I think you should quit those jobs, Vera~ so you will have more time staying with us~"
+    g "我觉得你应该辞掉那些工作，薇拉~这样你就有更多的时间和我们在一起了。~"
 
 
 
-    c "Be careful, if you keep yourself too busy for too long, you won’t have enough time taking care of your face and skin. By that time Uno and I may take away more of [P]’s favor from you~"
+    c "要小心，如果你让自己忙得太久，你就没有足够的时间照顾你的脸和皮肤。到那时，乌诺和我可能会从你那里分到更多[P]的宠爱~"
 
 
 
@@ -145,11 +145,11 @@ label ACG_duo_10:
 
 
 
-    a "I will... I will quit those jobs~~ I promise~~"
+    a "我会... 我会辞掉那些工作~~我保证~~"
 
 
 
-    g "Yeah! Master will be so happy about this!~"
+    g "Yeah! 主人会很高兴的!~"
 
 
 
@@ -163,7 +163,7 @@ label ACG_duo_10:
 
 
 
-    "It looks like I am not the only one in the house who cares about Vera~~"
+    "看起来我不是家里唯一关心薇拉的人~~"
 
 
 

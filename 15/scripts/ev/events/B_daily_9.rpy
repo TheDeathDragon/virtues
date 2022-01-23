@@ -3,17 +3,17 @@ label B_daily_9:
     scene void with tstmgr
     play music happy
 
-    "After an exam..."
+    "考试之后..."
 
 
 
     scene b_school_day_smile with tstmgr
 
-    b "How do you feel about the exam?"
+    b "你觉得这次考试怎么样?"
 
 
 
-    player "I don’t know. It felt like an easy one, but I’m not sure about my answers."
+    player "我不知道.这次似乎挺简单,但我不确定我的答案是否是对的."
 
 
 
@@ -21,29 +21,29 @@ label B_daily_9:
 
 
 
-    player "Forget about it. Where do you like to spend your afternoon?"
+    player "不说这个了.你下午怎么安排?"
 
 
 
-    player "Do you want to go to a movie with me?"
+    player "你想和我一起去看电影吗?"
 
 
 
     scene b_school_day_frown with tstmgr
 
-    b "Me? Hmm... ..."
+    b "我?Hmm......"
 
 
 
-    b "No, I don't think it's a good idea."
+    b "No,我不认为这是个好主意."
 
 
 
-    b "I think I will just stay in my room and have some rest."
+    b "我想我还是呆在房间里休息一下吧."
 
 
 
-    player "Oh... fine... ..."
+    player "Oh...好吧......"
 
 
 
@@ -53,29 +53,29 @@ label B_daily_9:
 
 
 
-    b "Maybe..."
+    b "也许吧..."
 
 
 
     scene b_school_day_smile with tstmgr
 
-    b "You know... if you like, maybe we can have afternoon tea together."
+    b "你知道...如果你愿意,也许我们可以一起喝下午茶."
 
 
 
-    player "Eh, you mean, in your room?"
+    player "Eh,你是说,在你的房间里?"
 
 
 
-    b "(Nodding)... ... ... ..."
+    b "(点头)............"
 
 
 
-    player "Yeah, I‘d love to."
+    player "Yeah,乐意至极."
 
 
 
-    player "What are we waiting for? Let’s go!"
+    player "我们还在等什么?走吧!"
 
 
 
@@ -85,43 +85,43 @@ label B_daily_9:
 
 
 
-    "Some time later, in Senning’s apartment."
+    "过了一会儿,在森柠的房间里."
 
 
 
     scene b_daily9_1 with tstmgr
 
-    b "How do you like the tea?"
+    b "你觉得这茶怎么样?"
 
 
 
-    b "I know you are not a fan of bitter taste, so I added some pieces of rock candy in your tea. Do you like it?"
+    b "我知道你不喜欢苦味,所以我在你的茶里加了一些冰糖.你喜欢吗?"
 
 
 
-    player "I... Yes, I like it."
+    player "我...是的,我喜欢."
 
 
 
     label B_daily_9_choice_1:
 
     menu:
-        "Admire the tea":
+        "夸这个茶":
 
 
-            player "What’s the name of this tea? It tastes really good."
+            player "这茶叫什么名字?味道真的很好."
 
-            b "I’m so happy you like it."
+            b "我很高兴你喜欢."
 
-            b "It’s called Jin Jun Mei, the brows of golden steeds."
+            b "它叫金骏眉,金马的眉毛."
 
-            player "That is a gorgeous name..."
+            player "这个名字真好听..."
 
-            b "It’s my favorite black tea. You can take some with you before you leave."
+            b "这是我最喜欢的红茶.你可以在走之前带上一些."
 
-            player "There is no need for that."
+            player "没有必要那样做."
 
-            player "I’ll just come to you every time when I miss this taste."
+            player "每当我想念这个味道的时候,我都会来找你."
 
             scene b_daily9_2 with tstmgr
 
@@ -129,8 +129,8 @@ label B_daily_9:
 
             scene b_daily9_1 with tstmgr
 
-            b "Yeah, you are always welcome here."
-        "Admire her":
+            b "Yeah,随时欢迎."
+        "夸她":
 
 
 
@@ -139,27 +139,27 @@ label B_daily_9:
 
             scene b_daily9_2 with tstmgr
 
-            b "... Why are you staring at me like that?"
+            b "...你为什么那样盯着我看?"
 
-            player "(Smiling)... ... ... ..."
+            player "(微笑)............"
 
-            b "Eh... why are you smiling like that?"
+            b "Eh...你笑什么?"
 
-            player "It just... you know, feels unreal."
+            player "只是...你知道,感觉不真实."
 
-            player "In a lovely afternoon, having tea with a beautiful lady at a balcony. I feel like I am a British nobility or something."
+            player "在一个美好的下午,与一位美丽的女士在阳台上喝茶.我觉得我是英国贵族之类的."
 
             scene b_daily9_1 with tstmgr
 
-            player "I think we should have afternoon tea together more often."
+            player "我想我们应该多在一起喝下午茶."
 
-            b "Yeah, you are always welcome here."
+            b "Yeah,随时欢迎."
 
 
 
     scene b_daily9_3 with tstmgr
 
-    "The sunshine past through the clouds and fell upon her smiling face. Oh... she is just amazing."
+    "阳光穿过云层,照在她的笑脸上.哦...她太美了."
 
 
 
@@ -169,43 +169,43 @@ label B_daily_9:
 
 
 
-    b "Your smile becomes weirder."
+    b "你的微笑变得更怪了."
 
 
 
-    player "Sorry."
+    player "抱歉."
 
 
 
-    b "And you are still staring at me."
+    b "而且你还在盯着我看."
 
 
 
-    player "(Holding up a cup of tea and pretending to drink) It’s just... ..."
+    player "(拿起茶,假装在喝)emmmm......"
 
 
 
     scene b_daily9_4 with tstmgr
 
-    b "Watch out!"
+    b "小心!"
 
 
 
-    "I accidentally spilled some tea on my shirt."
+    "我不小心把茶洒在衬衫上了."
 
 
 
-    player "Ah... crap..."
+    player "Ah...可恶..."
 
 
 
-    player "It's okay, not a big deal. The water is not hot at all."
+    player "没关系,没什么大不了的.水不烫."
 
 
 
     scene b_daily9_2 with tstmgr
 
-    b "But the tea would make your shirt dirty. It might be hard to clean up since normal detergents don’t have much use on tea stain."
+    b "但是茶会弄脏你的衬衫.它可能很难清洗,因为普通的清洁剂对茶渍没什么作用."
 
 
 
@@ -215,37 +215,37 @@ label B_daily_9:
 
     scene b_daily9_5 with tstmgr
 
-    b "You can leave your shirt to me if you don’t mind. I will handwash it for you."
+    b "如果你不介意的话,可以把衬衫留给我.我会帮你手洗."
 
 
 
-    player "Oh, don’t worry about it. I can wash it myself."
+    player "Oh,别担心.我可以自己洗."
 
 
 
-    b "No offense, but I don’t think you can handle it well."
+    b "无意冒犯,但我认为你处理不好."
 
 
 
-    b "You didn’t even know how to use a dishwasher until last month."
+    b "直到上个月你才知道如何使用洗碗机."
 
 
 
-    b "Come on, I will wash it for you. Don’t mention it. We are friends."
+    b "来吧,我帮你洗.别客气.我们是朋友."
 
 
 
-    player "Hmmm... ... Okay, fine."
+    player "Hmmm......好吧."
 
 
 
-    player "Thank you, Sen. You are the best."
+    player "谢谢你,森,你太好了."
 
 
 
     scene b_daily9_6 with tstmgr
 
-    b "I’m happy to do something for you."
+    b "我很乐意为你做点事."
 
 
 

@@ -2,21 +2,21 @@ label mansion_croom_latenight_C_1:
 
     scene void with tstmgr
 
-    "I just finished today's tutoring class with Irene."
+    "我刚给艾琳上完今天的辅导课."
 
 
 
-    player "Emm? Why does Theodora's room have lights on? Is she home tonight?"
+    player "Emm?狄奥多拉的房间为什么开着灯?她今晚在家吗?"
 
 
 
-    "I opened a crack and looked inside..."
+    "我打开一条裂缝,往里面看..."
 
 
 
     scene mansion_croom_latenight_c_1_1 with tstmgr
 
-    player "Holy... ... ... ..."
+    player "我的天............"
 
 
 
@@ -26,15 +26,15 @@ label mansion_croom_latenight_C_1:
 
     scene mansion_croom_latenight_c_1_2 with tstmgr
 
-    c "Mom, is that you?"
+    c "妈妈,是你吗?"
 
 
 
-    "Shit, I'd better go now before she notices me."
+    "Shit,我最好现在就走,免得她发现我."
 
 
 
-    "I closed the door and left the house."
+    "我关上门,离开了房间."
 
 
 

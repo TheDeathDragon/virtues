@@ -78,7 +78,7 @@ screen home():
                         action [Hide("home"), Function(run_label, name="sleep_%s" % nz)]
                 if seen("ACG_duo_5"):
                     button:
-                        text "Your housemates"
+                        text "你的室友们"
                         action [Hide("home"), Function(run_label, name="sleep_ACG")]
 
     use top(True)
@@ -86,9 +86,9 @@ screen home():
 
 label go_to_bed:
     if t.period < LateNight:
-        "It's too early to go to bed."
+        "现在睡觉还是太早了."
     else:
-        call sleep_event
+        call sleep_event from _call_sleep_event
     return
 
 init python:

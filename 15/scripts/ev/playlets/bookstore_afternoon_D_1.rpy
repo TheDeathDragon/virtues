@@ -2,27 +2,27 @@ label bookstore_afternoon_D_1:
 
     scene bookstore_afternoon_d_1_1 with tstmgr
 
-    d "Uno!!!"
+    d "乌诺!!!"
 
 
 
     scene bookstore_afternoon_d_1_3 with tstmgr
 
-    g "Good afternoon, Irene, and [P]."
+    g "下午好,艾琳,还有[P]."
 
 
 
-    d "I miss you so much!!! AHHHHHH!!!~~~"
+    d "我想死你了!!!AHHHHHH!!!~~~"
 
 
 
     scene bookstore_afternoon_d_1_2 with tstmgr
 
-    d "You should come to my home tonight. We can hold another pajama party together!"
+    d "你今晚应该来我家.我们可以再举办一次睡衣派对!"
 
 
 
-    "Hah... ... pajama party. I wish I can join them... ..."
+    "Hah......睡衣派对.我希望我能加入她们......"
 
 
 

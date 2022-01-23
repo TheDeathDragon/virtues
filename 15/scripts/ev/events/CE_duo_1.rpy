@@ -9,23 +9,23 @@ label CE_duo_1:
 
     scene ce_duo_1_1 with dissolve
 
-    "After getting all the girls from the Shinyrost family in my harem, my daily commute to work has become a complete pleasure."
+    "在我的后宫里有新光家的所有女孩后，我每天上班的通勤已经变成了一种完全的乐趣。"
 
 
 
-    "I mean, if your superior is in love with you and your superior’s superior is also in love with you, then for you, there is no difference between working and vacationing."
+    "我的意思是，如果你的上司爱上了你，你上司的上司也爱上了你，那么对你来说，工作和度假没有什么区别。"
 
 
 
-    "It feels like you are the real boss here~"
+    "感觉你才是这里真正的老板"
 
 
 
-    e "*Walking inside* ... ... ... ..."
+    e "*走在里面* ... ... ... ..."
 
 
 
-    e "Wake up, lazy boy... ..."
+    e "醒醒，懒男孩... ..."
 
 
 
@@ -37,15 +37,15 @@ label CE_duo_1:
 
     scene ce_duo_1_3 with tstmgr
 
-    e "Theo is not here? I need to find her but she doesn’t answer the phone. Do you know where she is?"
+    e "西奥不在这儿?我得找到她，但她不接电话。你知道她在哪吗?"
 
 
 
-    player "She... ... wait, where did she go? I don’t remember... ..."
+    player "她……等等，她去哪了?我不记得... ..."
 
 
 
-    player "But I’m sure she will be back very soon. Is there anything I can help you, Auntie?"
+    player "但我相信她很快就会回来的。有什么我可以帮你的吗，阿姨?"
 
 
 
@@ -55,53 +55,53 @@ label CE_duo_1:
 
 
 
-    e "You have a terrible performance lately, both you and Theo. You always come to work late and leave early, and you often disappear at work without noticing anyone."
+    e "你最近表现很糟糕，你和西奥都是。你上班总是迟到早退，而且经常在上班时消失得无影无踪。"
 
 
 
     scene ce_duo_1_5 with tstmgr
 
-    e "You are not here for vacation! Theodora’s position is very important for the company, she needs to take more responsibility!"
+    e "你不是来度假的!西奥多拉的职位对公司来说很重要，她需要承担更多的责任!"
 
 
 
-    "Ah... shit... ... She is right, maybe Theodora and I went too far lately."
+    "啊…这……她说得对，也许西奥多拉和我最近走得太远了。"
 
 
 
     scene ce_duo_1_6 with tstmgr
 
-    player "Sorry about that, Auntie, this is all my fault. I promise I won’t do that again."
+    player "对不起，阿姨，这都是我的错。我保证我不会再这么做了。"
 
 
 
     scene ce_duo_1_5 with tstmgr
 
-    e "Yes, you should disturb Theodora less often. If you really get too bored at work, you can... come to me instead... ..."
+    e "是的，你应该少打扰狄奥多拉。如果你真的觉得工作太无聊了，你可以……来找我... ..."
 
 
 
-    player "Wait, what? I thought you want me to dedicate at work more."
+    player "等等,什么?我以为你想让我更专注于工作。"
 
 
 
     scene ce_duo_1_7 with tstmgr
 
-    e "Well, your position is not as important as Theo’s, so... ..."
+    e "嗯，你的职位没有西奥的重要，所以... ..."
 
 
 
-    e "Besides... ..."
+    e "除了……"
 
 
 
     scene ce_duo_1_8 with tstmgr
 
-    e "You spent too much time on Theo lately. You know, I would be really happy if you... choose to stay with me for some time."
+    e "你最近在西奥身上花了太多时间。我真的很高兴如果你…选择和我一起待一段时间。"
 
 
 
-    player "Are you jealous at your own daughter?"
+    player "你嫉妒自己的女儿吗?"
 
 
 
@@ -113,11 +113,11 @@ label CE_duo_1:
 
     scene ce_duo_1_10 with tstmgr
 
-    e "Sigh... ... I am the worst mother in the world, right?"
+    e "叹息……我是世界上最糟糕的母亲，对吧?"
 
 
 
-    player "That’s not true. Come on, auntie, let’s go somewhere quiet and spend some time together~"
+    player "那不是真的。来吧，阿姨，我们找个安静的地方聚一聚吧"
 
 
 
@@ -127,175 +127,175 @@ label CE_duo_1:
 
 
 
-    "Sometime later, in the half-abandoned lumber room..."
+    "过了一段时间，在那间快要废弃的木材房里……"
 
 
 
     scene ce_duo_1_11 with dissolve
 
-    e "This place... ..."
+    e "这个地方……"
 
 
 
     scene ce_duo_1_12 with tstmgr
 
-    e "I’m glad that they haven’t covered this room with CCTV yet."
+    e "我很高兴他们还没在这个房间装闭路电视。"
 
 
 
     scene ce_duo_1_13 with tstmgr
 
-    e "You and Theo... ... do you two often come here at work?"
+    e "你和西奥... ...你们俩经常来这里工作吗?"
 
 
 
-    player "Eh... ... Sometimes, yeah~"
+    player "呃……有时,是的~"
 
 
 
     scene ce_duo_1_14 with tstmgr
 
-    player "Auntie’s belly... so soft... ..."
+    player "阿姨的肚子……太特么软了……"
 
 
 
-    e "That’s a middle-aged woman’s love handles."
+    e "那是中年女人的腰间赘肉。"
 
 
 
-    player "*Kissing* Sexy as hell~"
+    player "*亲吻*性感的地狱~"
 
 
 
-    "I kissed her belly in ecstasy and felt the unique fragrance made of a mixture of milk aroma and her body scent. Damn... this fragrance is better than any perfume."
+    "我在狂喜中亲吻她的肚子，感受着牛奶香味和她的体味混合而成的独特香味。该死的……这种香味比任何香水都好。"
 
 
 
     scene ce_duo_1_15 with tstmgr
 
-    player "Auntie’s huge milk bags... ..."
+    player "阿姨的大牛奶袋... ..."
 
 
 
-    player "So soft~~~"
+    player "太软了~~~~~~"
 
 
 
     scene ce_duo_1_16 with tstmgr
 
-    player "*Sucking nipple* Zimm~~ simmm~~~ humm~~"
+    player "*吸吮乳头* Zimm~ simmm~哼~~"
 
 
 
-    e "Are you sure no one will come? Sigh... ... I know it’s not the right thing to do, but I was just too lonely at work~~~"
+    e "你确定没人来吗?叹息……我知道这样做是不对的，但我只是在工作上太孤独了"
 
 
 
     scene ce_duo_1_17 with tstmgr
 
-    player "Sorry, auntie, I didn’t know. I thought you were busy... ..."
+    player "对不起，姨妈，我不知道。我以为你很忙... ..."
 
 
 
     scene ce_duo_1_18 with tstmgr
 
-    e "Silly kid, if the boss of a company is always busy at work, that means the company must be about to fail."
+    e "傻孩子，如果一家公司的老板总是忙于工作，那就意味着这家公司一定要倒闭了。"
 
 
 
     scene ce_duo_1_19 with tstmgr
 
-    e "Obviously my company is not in a survival crisis, so... well, I’m not busy. I don’t even have to come here every day~"
+    e "很明显，我的公司没有生存危机，所以…嗯，我不忙。我甚至不用每天都来这里~"
 
 
 
     scene ce_duo_1_20 with tstmgr
 
-    e "I came here only because I was lonely at home too since Irene is at school... ..."
+    e "我来这里只是因为我在家很孤独，因为艾琳在学校... ..."
 
 
 
     scene ce_duo_1_21 with tstmgr
 
-    e "But awwwwww~~~ why you never came to me at work?"
+    e "但是，你为什么从来不来找我工作呢?"
 
 
 
-    player "Sorry, auntie, it’s all my fault."
+    player "对不起，阿姨，都是我的错。"
 
 
 
     scene ce_duo_1_22 with tstmgr
 
-    player "From now on I will come to you every day... with Theodora. Let’s have fun together all the time!~"
+    player "从现在开始，我每天都会去找你……狄奥多拉。让我们一直一起玩!～"
 
 
 
     scene ce_duo_1_23 with tstmgr
 
-    e "Theodora? No, Theo has a lot of works to do. I want her to have my position after I retire, but this company is not my private kingdom, I can’t just give her the throne."
+    e "狄奥多拉?不，西奥还有很多工作要做。我想在我退休后让她继承我的职位，但这家公司不是我的私人王国，我不能把王位让给她。"
 
 
 
-    e "She has to prove her ability at work and make her own way out."
+    e "她必须在工作中证明自己的能力，并找到自己的出路。"
 
 
 
     scene ce_duo_1_24 with tstmgr
 
-    player "But... is it what she wants?"
+    player "但是…这是她想要的吗?"
 
 
 
     scene ce_duo_1_25 with tstmgr
 
-    e "What do you mean?"
+    e "你是什么意思?"
 
 
 
-    player "Theo has been under great pressure ever since she became the executive. That’s why she always agrees to mess with me at work. She just wants to reduce some pressure."
+    player "西奥自从她成为主管后就一直承受着巨大的压力。所以她总是同意在我工作的时候捣乱。她只是想减轻压力。"
 
 
 
     scene ce_duo_1_26 with tstmgr
 
-    e "I... I’ll talk to her later... ..."
+    e "我…我稍后再和她谈... ..."
 
 
 
     scene ce_duo_1_27 with tstmgr
 
-    e "But now... I need you to... ... ease my loneliness~"
+    e "但现在……我需要你... ...减轻我的孤独~"
 
 
 
     scene ce_duo_1_28 with tstmgr
 
-    player "Can I get overtime pay for that, boss?~"
+    player "老板，能给我加班费吗?～"
 
 
 
     scene ce_duo_1_29 with tstmgr
 
-    e "Only if you can make me happy... ..."
+    e "只要你能让我开心... ..."
 
 
 
-    player "Oh you know I will~"
+    player "哦，你知道我会的~"
 
 
 
     scene ce_duo_1_30 with tstmgr
 
-    player "Auntie’s big ass... soo juicy..."
+    player "阿姨的大屁股…秀多汁……"
 
 
 
-    e "And what do you want to do with my big ass?"
+    e "你想拿我的大屁股怎么办?"
 
 
 
-    player "I want to... ..."
+    player "我想... ..."
 
 
 
@@ -307,11 +307,11 @@ label CE_duo_1:
 
 
 
-    player "I want to... kiss it~"
+    player "我想……吻它~"
 
 
 
-    e "Waaait, I... ..."
+    e "等等, 我... ..."
 
 
 
@@ -321,35 +321,35 @@ label CE_duo_1:
 
 
 
-    e "Ohhhhhhhh~~~ This is... this is something I have never imagined before. This position... is so strange~"
+    e "Ohhhhhhhh ~ ~ ~这是…这是我以前从未想过的。这个位置……如此奇怪的~"
 
 
 
-    e "And so shameless as well~~~"
+    e "而且还很无耻~~~"
 
 
 
-    player "But it is a good position for me to taste auntie's love juice~"
+    player "但对我来说，这是一个很好的位置来品尝阿姨的爱情果汁~"
 
 
 
-    e "Stop saying that~ You are making me so embarrassed~~~"
+    e "别再说了~你让我好尴尬~~~"
 
 
 
-    player "The more embarrassed you are, the wetter you become~"
+    player "你越尴尬，你就越湿~"
 
 
 
-    e "You... bad boy... ..."
+    e "你……坏男孩……"
 
 
 
-    e "[P]... [P]... ... Don’t tease me more... ... I can't take it anymore. I need your penis, now, please~~"
+    e "[P]... [P]... ...别再取笑我了 ... ... 我再也受不了了。我需要你的小弟弟，现在，拜托~~"
 
 
 
-    player "As you wish, auntie~"
+    player "如你所愿，阿姨~"
 
 
 
@@ -365,27 +365,27 @@ label CE_duo_1:
 
 
 
-    e "Ohhhh~~ Yes~~ finally, this young penis~~ It can conquer any woman with a single thrust~"
+    e "哦~~是的~~终于，这个年轻的阴茎~~它可以征服任何一个女人~~一次推力~~"
 
 
 
-    e "But... am I too heavy? My ass... got bigger recently."
+    e "但是…我太重了吗?我的屁股……最近变大。"
 
 
 
-    player "That’s even better, auntie, you are sexy as hell... ..."
+    player "但是…那就更好了，阿姨，你太性感了... ...我的屁股……最近变大。"
 
 
 
-    e "Humph~ I won't be fooled with male's admiration~"
+    e "哼~我不会被男人的崇拜所愚弄~"
 
 
 
-    e "But I do know you were telling the truth, by feeling your erecting penis~"
+    e "但我知道你说的是实话，通过感觉你勃起的阴茎~"
 
 
 
-    e "It is so huge... ohhh~~ hhh~~ hhh~~ hhh~~"
+    e "它是如此巨大…哦~~ hhh~~ hhh~~ hhh~~ hhh~~"
 
 
     stop sound
@@ -395,39 +395,39 @@ label CE_duo_1:
 
 
 
-    "Elisa sat on me and wriggled her body obliviously."
+    "伊利莎坐在我身上，茫然地扭动着身体。"
 
 
 
-    e "Ahhh~~~ [P]~~~ Your penis is hitting so deep~"
+    e "Ahhh~~~ [P]~~~ 你的小弟弟插得好深~"
 
 
 
-    e "My vagina... has been formed into your penis’s shape~~"
+    e "我的阴道…已经形成了你阴茎的形状~~"
 
 
 
-    player "Auntie... do you want to have another baby?"
+    player "阿姨……你想再要一个孩子吗?"
 
 
 
-    e "Yes, yes, I want to birth you a baby, our baby~~ Please, fertilize me~~"
+    e "是的，是的，我想给你生个孩子，我们的孩子~~请给我授精~~"
 
 
 
-    e "Use that huge penis of yours~~ capture my body and my soul~"
+    e "用你巨大的阴茎~~俘获我的身体和我的灵魂~"
 
 
 
-    e "Squirt your seed in my womb, in the place where Theo and Irene used to live in~"
+    e "把你的种子喷在我的子宫里，在西奥和艾琳曾经住过的地方~"
 
 
 
-    e "Ahhhh~ hhhh~~~ Uhhhhh~~~ I’m cumming!~~ I’m cumming!~~ I’m cumming!~~~"
+    e "Ahhhh~ hhhh~~~ Uhhhhh~~~ 我要冲了!~~ 我要冲了!~~ 我要冲了!~~~"
 
 
 
-    player "I’m cumming too!"
+    player "我也要冲了!"
 
 
     stop sound
@@ -439,138 +439,138 @@ label CE_duo_1:
 
 
 
-    "Elisa orgasmed violently while I ejaculated my all my sperm in her deepest area."
+    "当我在她最深处射精时，伊莉莎达到了高潮。"
 
 
 
     scene ce_duo_1_36 with tstmgr
 
-    e "Ahhhhh~~~ The sperm... ... so living... so strong... ..."
+    e "Ahhhhh~~~ 多么刺激的精子... ..."
 
 
 
-    e "I can feel it... ... You just made it. You really made it~"
+    e "我能感觉到... ...你来了。你真的成功了"
 
 
 
-    player "Made it?"
+    player "开搞?"
 
 
 
-    e "I have been pregnant twice and I know what it is like when I am fertilized."
+    e "我已经怀孕两次了，我知道当我受精的时候是什么样子。"
 
 
 
-    e "I just be successfully fertilized. We are going to have a baby~ Theodora and Irene are going to have a brother or a sister~"
+    e "我刚刚成功受精了。我们要有个宝宝了~西奥多拉和艾琳要有个弟弟或者妹妹了~"
 
 
 
-    player "Wait, you can really know that?"
+    player "等等，你真的能知道吗?"
 
 
 
-    "It’s so hard to believe, but... ... I don’t know... ... I have never got pregnant myself, I don't know what it feels like to be fertilized or something."
+    "这很难相信，但是... ...我不知道... ...我自己从来没有怀孕过，我不知道受精是什么感觉。"
 
 
 
     scene ce_duo_1_37 with tstmgr
 
-    e "It’s enough for now, we should go back to work."
+    e "现在够了，我们该回去工作了。"
 
 
 
-    "She managed to stand up and put on her stockings again even though my cum is still dropping out of her pussy. It looks like she is trying to seal all my seed inside her."
+    "她设法站起来，穿上她的长袜，即使我的精液仍在掉出她的阴部。看起来她想把我所有的种子都封在她体内。"
 
 
 
-    e "But I really began to worry about Theodora. Where do you think she is?"
+    e "但我真的开始担心西奥多拉了。你觉得她会在哪里?"
 
 
 
-    player "Actually, auntie, don’t worry about her, I know exactly where she is right now~"
+    player "阿姨，其实你不用担心她，我很清楚她现在在哪里~"
 
 
 
     scene ce_duo_1_38 with tstmgr
 
-    e "You do? Where is she then?"
+    e "你会怎么做?那么她在哪里呢?"
 
 
 
-    player "She is... right in front of you~"
+    player "她是……就在你面前~那么她在哪里呢?"
 
 
 
-    e "Huh? What do you mean?"
+    e "嗯?你是什么意思?"
 
 
 
     scene ce_duo_1_39 with tstmgr
 
-    e "Wait a second... ..."
+    e "等一下... ..."
 
 
 
     scene ce_duo_1_40 with tstmgr
 
-    e "She can’t be in that cabinet, right?"
+    e "她不会在那个柜子里吧?"
 
 
 
-    player "Well... ..."
+    player "好吧... ..."
 
 
 
-    "Elisa went to the cabinet and... ..."
+    "伊利莎去了橱柜然后... ..."
 
 
 
     scene ce_duo_1_41 with tstmgr
     $ flashlight()
 
-    e "*Opened the cabinet* Oh my god, Theo?!"
+    e "*打开橱柜*天哪，西奥?!"
 
 
 
-    c "Hi~~ Mom~~"
+    c "嗨~ ~妈妈~ ~"
 
 
 
-    e "Why are you... ..."
+    e "你为什么... ..."
 
 
 
-    player "Theodora is addicted to this play. She has fallen in love with the feeling of hiding herself nakedly in a closed dark environment of the public."
+    player "狄奥多拉迷上了这出戏。她爱上了那种将自己赤身裸体地隐藏在封闭黑暗的公众环境中的感觉。"
 
 
 
-    player "The closed environment brings her the sense of security while the darkness and the outer environment bring her the sense of insecurity. This combination of the senses of security and insecurity can really make her really hyped."
+    player "封闭的环境给她带来安全感，而黑暗和外部环境给她带来不安全感。这种安全感和不安全感的结合真的可以让她真的兴奋。"
 
 
 
-    e "Oh, my girl... ..."
+    e "哦，我的女孩... ..."
 
 
 
-    e "How long have you been here?"
+    e "你在这里多久了?"
 
 
 
     scene ce_duo_1_42 with tstmgr
 
-    c "A few hours... I guess... ..."
+    c "几个小时……我猜……"
 
 
 
-    c "I couldn't hear it clearly, but I knew you were having sex outside and that made me so excited~"
+    c "我听不清楚，但我知道你在外面做爱，这让我很兴奋~"
 
 
 
-    e "This is... not good. You shouldn’t spend your work time doing this... ..."
+    e "这是……不好的。你不应该把你的工作时间花在做这个... ..."
 
 
 
-    c "Sorry... mom, I was just trying to keep myself from stressing out..."
+    c "对不起……妈妈，我只是想让自己不要紧张…"
 
 
 
@@ -580,7 +580,7 @@ label CE_duo_1:
 
     scene ce_duo_1_43 with tstmgr
 
-    c "You should... come inside too. This cabinet has enough space for two~"
+    c "你应该……进来了。这个柜子有足够的空间放两个人"
 
 
 
@@ -588,17 +588,17 @@ label CE_duo_1:
 
 
 
-    e "No, you have been absence from your working position for so long. Now you should get back to work."
+    e "不，你已经离开工作岗位很长时间了。现在你该回去工作了。"
 
 
 
     scene ce_duo_1_44 with tstmgr
 
-    c "Oh... ... okay~"
+    c "哦……好吧~"
 
 
 
-    c "Sorry, mom. I’m... coming out right now."
+    c "对不起,妈妈。我…马上出来。"
 
 
 
@@ -612,11 +612,11 @@ label CE_duo_1:
 
 
 
-    e "(The combination of the senses of security and insecurity... ...)"
+    e "(安全感与不安全感的结合... ...)"
 
 
 
-    e "(Does that... ... really feel so good?)"
+    e "(这……真的感觉很好吗?)"
 
 
 

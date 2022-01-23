@@ -2,27 +2,27 @@ label beach_afternoon_D_1:
 
     scene beach_afternoon_d_1_1 with tstmgr
 
-    d "Wow!~ I never be so tall before. This feels great!~"
+    d "Wow!~我从来没有这么高过.这感觉太好了!~"
 
 
 
-    player "Hmmmm... My neck hurts..."
+    player "Hmmmm...我脖子疼..."
 
 
 
     scene beach_afternoon_d_1_2 with tstmgr
 
-    d "Hah? Are you saying that I’m overweight?"
+    d "Hah?你是说我太重了吗?"
 
 
 
-    player "No... ..."
+    player "没有......"
 
 
 
     scene beach_afternoon_d_1_1 with tstmgr
 
-    d "Okay! Now let’s head to the ice cream shop!"
+    d "Okay!现在我们去冰淇淋店吧!"
 
 
 

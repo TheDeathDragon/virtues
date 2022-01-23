@@ -3,21 +3,21 @@ label Special_6:
     scene void with tstmgr
     play music happy
 
-    "It has been a few days since Elisa and Minna make peace with each other. Elisa invited Minna and Senning to her house this afternoon."
+    "伊利莎和明娜和好已经有几天了。伊利莎邀请明娜和森宁今天下午去她家。（可能打算3p吧，哦不对4p，还有你hhh）"
 
 
 
-    "I came with them too, just to make sure they won’t fight again."
+    "我也和他们一起来，只是为了确保他们不会再打架（百合）。"
 
 
 
     scene special_6_1_1 with dissolve
 
-    e "Welcome, Lady Minna, it’s my honor to have you here~"
+    e "欢迎~明娜小姐，你的到来是我TM的荣幸"
 
 
 
-    "Lady Minna" "And it’s my honor to be here, Lady Shinyrost."
+    "明娜小妞~" "我很荣幸能来到这里，夏妮罗斯塔小妞妞~"
 
 
 

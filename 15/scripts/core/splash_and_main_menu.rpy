@@ -61,7 +61,7 @@ screen main_menu():
 
             textbutton _("Settings") action ShowMenu("preferences")
 
-            textbutton _("Gallery") action ShowMenu("gallery")
+            textbutton _("Join Group") action OpenURL("https://jq.qq.com/?_wv=1027&k=wpKhXeGE")
 
             if _in_replay:
 

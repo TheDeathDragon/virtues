@@ -29,27 +29,27 @@ label C_love_1:
 
 
 
-    "Let me explain what's going on here."
+    "我来解释一下这是怎么回事."
 
 
 
-    "Sometime earlier, I was sent to deliver a document to the other floor. And I ran into Theodora at an elevator."
+    "早些时候,我被派去送一份文件到另一层.我在电梯里碰到狄奥多拉."
 
 
 
-    "You see, being with Theodora alone is the least thing I want to do at this moment. I have known this girl since I was 5, and now she becomes my supervisor. This is so... embarrassing."
+    "你看,此时此刻我最不想做的事就是和狄奥多拉单独在一起.我5岁的时候就认识这个女孩了,现在她成了我的主管.这太...尴尬了."
 
 
 
-    "And you know what is even more embarrassing?"
+    "你知道更尴尬的是什么吗?"
 
 
 
-    "The freaking elevator is broken! We are stuck together! Unbelievable!"
+    "该死的电梯坏了!我们困在一起了!令人难以置信!"
 
 
 
-    "To be fair, being stuck in an elevator is not a big deal. I don't have claustrophobia, and I am pretty sure that this situation will be fixed in at most 30 minutes. But God, why do I have to be stuck with Theodora!"
+    "公平地说,被困在电梯里没什么大不了的.我没有幽闭恐惧症,而且我很确定这种情况将在最多30分钟内得到解决.但是上帝,为什么我必须和狄奥多拉在一起!"
 
 
 
@@ -61,27 +61,27 @@ label C_love_1:
 
 
 
-    "The breathtaking silence."
+    "死一般的沉默."
 
 
 
-    c "Why are you acting like I am a serial killer or something?"
+    c "你为什么把我当成连环杀手之类的?"
 
 
 
-    player "Ah? Am I?"
+    player "Ah?我有吗?"
 
 
 
-    c "Yeah, is it a torture to you to stay with me alone?"
+    c "Yeah,独自和我在一起对你来说是一种折磨吗?"
 
 
 
-    player "No... ..."
+    player "没有......"
 
 
 
-    player "It’s just... ... I don’t really know how to get along with my supervisor. I mean, I never had a supervisor before."
+    player "它只是...我真的不知道如何与我的上司相处.我的意思是,我以前从来没有过上司."
 
 
 
@@ -91,63 +91,63 @@ label C_love_1:
 
 
 
-    c "Honestly, I don’t know how to get along with you now, either."
+    c "说实话,我现在也不知道该怎么跟你相处."
 
 
 
     scene c_love_1_3 with tstmgr
 
-    c "(Murmuring) I never knew... how to get along with you... ..."
+    c "(呢喃)我从来都不知道...如何与你相处......"
 
 
 
-    player "What did you say?"
+    player "你刚才说什么?"
 
 
 
     scene c_love_1_4 with tstmgr
 
-    c "Nothing... Forget it..."
+    c "没什么...忘了它..."
 
 
 
     scene c_love_1_5 with tstmgr
 
-    c "I miss the old you. The old you was a jerk, but at least a funny jerk. You would talk a lot in this situation and keep me from getting bored."
+    c "我想念以前的你.以前的你是个混蛋,但至少是个有趣的混蛋.在这种情况下,你会喋喋不休,让我不至于厌烦."
 
 
 
-    c "And now... ... you are just boring."
+    c "而现在...你太无聊了."
 
 
 
-    player "Now you are my superior, so... ... I can’t act like before. I don’t want to offend you."
+    player "现在你是我的上司,所以...我不能像以前那样了.我不想冒犯你."
 
 
 
     scene c_love_1_4 with tstmgr
 
-    c "Yeah I’m now your manager, but I’m still your fiancee."
+    c "Yeah我现在是你的经理,但我仍然是你的未婚妻."
 
 
 
-    "What... is she trying to say?"
+    "什么...她想说什么?"
 
 
 
     scene c_love_1_5 with tstmgr
 
-    c "Sigh... ... nevermind..."
+    c "唉...算了..."
 
 
 
     scene c_love_1_4 with tstmgr
 
-    player "You know, I never got a chance to ask... ..."
+    player "你知道,我一直没机会问......"
 
 
 
-    player "We used to be very close back in highschool, but why you never contacted me again after you went to college? What happened?"
+    player "我们在高中的时候很亲密,但是为什么你上了大学后就再也没有联系我?发生了什么事?"
 
 
 
@@ -155,21 +155,21 @@ label C_love_1:
 
 
 
-    c "People change."
+    c "人是会变的."
 
 
 
-    player "Yeah, but you didn’t cancel our engagement. Does that mean... ..."
+    player "Yeah,但是你没有取消我们的婚约.这是否意味着......"
 
 
 
     scene c_love_1_5 with tstmgr
 
-    c "It means nothing. My mom wants me to marry you and I am doing what she wants. That’s all."
+    c "没意味着什么.我妈妈想让我嫁给你,我正在做她想做的事.就这样."
 
 
 
-    player "But you don’t have to listen to your mom. I mean, you can definitely stay single until you meet someone you really love."
+    player "但你不必听你妈妈的话.我的意思是,在遇到你真正爱的人之前,你绝对可以保持单身."
 
 
 
@@ -181,11 +181,11 @@ label C_love_1:
 
     scene c_love_1_6 with tstmgr
 
-    c "So what was you reason? Why did you agree to engage with me? Because I am the one that you ‘really love’?"
+    c "所以你的理由是什么?你为什么答应和我订婚?因为我是你真正“爱”的人?"
 
 
 
-    player "I... I didn’t say it that way."
+    player "我...我不是这个意思."
 
 
 
@@ -195,67 +195,67 @@ label C_love_1:
 
 
 
-    c "Suspicious~"
+    c "可疑~"
 
 
 
-    c "Let’s do a test then~"
+    c "让我们做个测试~"
 
 
 
     scene c_love_1_8 with tstmgr
 
-    "She suddenly came closer to me and put a hand on my chest."
+    "她突然走近我,把一只手放在我的胸前."
 
 
 
-    c "Say you don’t love me."
+    c "说你不爱我."
 
 
 
-    player "What... are you talking about?"
+    player "什么...你在说什么?"
 
 
 
-    c "Your heartbeat will be dramatically faster when you are lying. I knew that since you were 13. Now say it~"
+    c "当你说谎时,你的心跳会急剧加快.你13岁的时候我就知道了.现在说~"
 
 
 
     label C_love_1_choice_1:
 
     menu:
-        "I don’t love you":
+        "我不爱你":
 
 
             scene c_love_1_9 with tstmgr
 
             c "Hmmmmm hum... ... ... ..."
 
-            c "You are really a bad liar~"
+            c "你真是个差劲的骗子~"
 
-            player "Wait, that was not fair. My heartbeat got fast only because you were so close to me."
+            player "等等,这不公平.因为你离我很近,我的心跳加快了."
 
             scene c_love_1_8 with tstmgr
 
-            c "Whatever. I got the answer I want anyway~"
+            c "无所谓了.反正我得到了我想要的答案~"
 
             player "... ... ... ..."
-        "I love you":
+        "我爱你":
 
 
 
 
             scene c_love_1_11 with tstmgr
 
-            c "What?... ..."
+            c "什么?......"
 
             scene c_love_1_10 with tstmgr
 
-            c "I... ... ... ..."
+            c "我............"
 
-            "Did I see it wrong or did she really just flush?"
+            "是我看错了,还是她真的脸红了?"
 
-            c "That was... tricky..."
+            c "那可...真麻烦..."
 
             c "... ... ... ..."
 
@@ -263,7 +263,7 @@ label C_love_1:
 
     scene void with tstmgr
 
-    "The elevator started moving again at the time when we were talking. We soon reached our floor and left the room..."
+    "在我们谈话的时候,电梯又开始动了.我们很快就到了要去的楼层,离开了电梯..."
 
 
 

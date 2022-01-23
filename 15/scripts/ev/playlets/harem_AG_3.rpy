@@ -2,79 +2,79 @@ label harem_AG_3:
 
     scene harem_ag_3_1 with dissolve
 
-    a "Welcome home, mas... master... ..."
+    a "欢迎回家, 主... 主人... ..."
 
 
 
-    g "*Nodding* En~ en~ en~"
+    g "*点头* En~ en~ en~"
 
 
 
-    player "Oh, thanks for greeting me, ladies."
+    player "哦,谢谢你的问候,女士们."
 
 
 
     scene harem_ag_3_2 with tstmgr
 
-    a "I haven't seen you for an entire day, would you spend some time with me in my room so we can... have a... private chat?"
+    a "我已经一整天没有见到你了,你能不能在我的房间里陪我一会儿,这样我们就可以......私下里聊一聊?"
 
 
 
-    g "Master... Master must be tired. Master should come to Uno’s room so Uno can give him a... nice massage~"
+    g "主人... 主人一定很累了.主人应该到乌诺的房间去,这样乌诺就可以给你......好好地按摩一下~"
 
 
 
     scene harem_ag_3_3 with tstmgr
 
-    "Girls" "*Looking at each other a little bit angrily* Hmmmmmmmmmmmmmm... ... ... ..."
+    "女孩们" "*有点生气地看着彼此* Hmmmmmmmmmmmmmm... ... ... ..."
 
 
 
-    player "Hey... relax, girls..."
+    player "嘿......放松,女孩们..."
 
 
 
     scene harem_ag_3_4 with tstmgr
 
-    a "I just bought a new bra, I... I want to show you in my room~"
+    a "我刚刚买了一个新的胸罩,我... 我想在我的房间里给你看~"
 
 
 
-    g "Uno... Uno has all kinds of bra for cosplay~"
+    g "乌诺... 乌诺有各种用于cosplay的胸罩~"
 
 
 
     scene harem_ag_3_5 with tstmgr
 
-    a "That’s not fair!"
+    a "这不公平!"
 
 
 
     scene harem_ag_3_6 with tstmgr
 
-    "Awwww... these two busty cuties are having a competition to earn my preference. It cures all my tiredness~"
+    "Awwww... 这两个胸大无脑的小姑娘正在为赢得我的青睐而进行竞争.它治愈了我所有的疲惫~"
 
 
 
     scene harem_ag_3_7 with tstmgr
 
-    player "Thank you, girls... for everything... ..."
+    player "谢谢你们,姑娘们......所做的一切... ..."
 
 
 
-    "Girls" "Awwwwwwwwwwww~~~~"
+    "女孩们" "Awwwwwwwwwwww~~~~"
 
 
 
-    player "Let's go to my room instead. We will have a good time together~"
+    player "让我们到我的房间去吧...现在是个很好的时候,我们可以在一起~"
 
 
 
-    g "Whatever you say, master~"
+    g "随你怎么说,主人~"
 
 
 
-    g "Yes... ... whatever... you say... ..."
+    g "是的......不管......你说什么都可以... ..."
 
 
 

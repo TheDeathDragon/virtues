@@ -9,7 +9,7 @@ label B_daily_22:
 
     scene b_daily22_1 with dissolve
 
-    "I was watching TV with Senning in her room..."
+    "我和森宁在她的房间里看电视..."
 
 
 
@@ -21,17 +21,17 @@ label B_daily_22:
 
     scene b_daily22_3 with tstmgr
 
-    player "You know, Sen, your mom has told me about your family..."
+    player "你知道吗,森,你妈妈告诉过我你的家庭情况..."
 
 
 
     scene b_daily22_4 with tstmgr
 
-    b "What’s wrong with my family?"
+    b "我的家庭有什么问题?"
 
 
 
-    player "That... your father has multiple wives."
+    player "那个......你爸有很多老婆."
 
 
 
@@ -41,13 +41,13 @@ label B_daily_22:
 
 
 
-    player "So what’s your opinion about it? I’m kinda curious."
+    player "那么你对它有什么看法?我有点好奇."
 
 
 
     scene b_daily22_6 with tstmgr
 
-    b "I don’t like it... and I feel bad for my mother."
+    b "我不喜欢......而且我为我母亲感到难过."
 
 
 
@@ -55,35 +55,35 @@ label B_daily_22:
 
 
 
-    b "My father is always busy at work. He doesn’t have enough time to spend with his family, and he has to divide the only time he has into 4 pieces to cover each of his wives."
+    b "我父亲总是忙于工作.他本就没有足够的时间与家人在一起,他还得把仅有的时间分成4块,给每个妻子."
 
 
 
     scene b_daily22_7 with tstmgr
 
-    b "I just don’t get it. I mean, I know he is rich enough to do anything he wants, but why would he got so many wives while he doesn’t have enough time to spend with them?"
+    b "我不明白.我的意思是,他很有钱,可以做任何他想做的事,但为什么他有这么多妻子,而他却没有足够的时间与她们相处呢?"
 
 
 
-    b "He is just taking women as his... collections, as a way to show off his wealthiness. How disrespectful..."
+    b "他只是把女人当作他的......收藏品,作为炫耀自己财富的一种方式.从来不尊重她们..."
 
 
 
-    b "He may not even love them... ..."
+    b "他甚至不爱她们... ..."
 
 
 
-    player "I see... ... ... ..."
+    player "这样吗... ... ... ..."
 
 
 
-    player "so... you don’t accept polygamy?"
+    player "所以...你不接受一夫多妻制?"
 
 
 
     scene b_daily22_8 with tstmgr
 
-    b "Polygamy? That’s actually not a serious issue to me. I grew up in that environment after all."
+    b "一夫多妻制?这对我来说其实不是一个大问题.我毕竟是在那种环境下长大的."
 
 
 
@@ -93,33 +93,33 @@ label B_daily_22:
 
     scene b_daily22_9 with tstmgr
 
-    b "Ah, I see what you are asking~"
+    b "啊,我知道你在问什么了~"
 
 
 
     scene b_daily22_10 with tstmgr
 
-    b "As long as you promise me that... your love to me won’t fade... no matter how many other women you have... ..."
+    b "只要你答应我... 你对我的爱不会褪色... 无论你有多少其他女人... ..."
 
 
 
     scene b_daily22_11 with tstmgr
 
-    b "Don’t just take me as... one of your collections."
+    b "不要只把我当作......你的一个收藏品."
 
 
 
-    player "Sen... ... ... ..."
+    player "森... ... ... ..."
 
 
 
-    player "I promise you."
+    player "我保证."
 
 
 
     scene b_daily22_12 with tstmgr
 
-    b "That will be... fine."
+    b "那就好."
 
 
 

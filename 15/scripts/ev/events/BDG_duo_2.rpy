@@ -3,7 +3,7 @@ label BDG_duo_2:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Irene's perspective."
+    "*下面的情节是从艾琳的视角出发的."
 
 
 
@@ -11,35 +11,35 @@ label BDG_duo_2:
 
 
 
-    "Afternoon, in Uno’s room, Irene and Uno are having a good time together... ..."
+    "下午，在乌诺的房间里，艾琳和乌诺在一起玩得很开心... ..."
 
 
 
     scene bdg_duo_2_2 with dissolve
 
-    d "*Breathing heavily* Huh... huh... huh... huh... ..."
+    d "*大口喘气* Huh... huh... huh... huh... ..."
 
 
 
-    d "I won, Uno~ Now you are my capture again~"
+    d "我赢了，乌诺~现在你又是我的俘虏了~"
 
 
 
-    g "Awwwww... ... Why we have to wrest on bed?"
+    g "Awwwww... ...为什么我们要在床上搏斗？"
 
 
 
-    d "Because it's fun~"
+    d "因为这很有趣~"
 
 
 
     scene bdg_duo_2_1 with tstmgr
 
-    d "Humph~ humph~ as the winner of this wrestling, I can do whatever I want to your lovely plumpy body~"
+    d "Humph~ humph~ 作为这次摔跤的胜利者，我可以对你可爱的丰满的身体做任何事情~"
 
 
 
-    g "Yaaaah~~ Help~~~ Irene is bullying me again~"
+    g "呀~~救命啊~~~艾琳又在欺负我了~"
 
 
 
@@ -57,15 +57,15 @@ label BDG_duo_2:
 
 
 
-    d "Be quiet, big booty, no one is going to save you from me~"
+    d "安静点，大屁股，没人能从我手里救你~"
 
 
 
-    g "Master will save me after he gets home~"
+    g "主人回家后会救我的~"
 
 
 
-    g "And he will spank you hard for bullying me~"
+    g "他还会因为你欺负我而狠狠地打你的屁股.~"
 
 
 
@@ -79,7 +79,7 @@ label BDG_duo_2:
 
     $ flashlight()
 
-    d "Humph~ It will take hours before he comes back. We have enough time to have fun~"
+    d "Humph~ 要过几个小时他才会回来.我们有足够的时间去玩~"
 
 
 
@@ -101,11 +101,11 @@ label BDG_duo_2:
 
 
 
-    g "Irene, can you actually spank me harder?"
+    g "艾琳，你能不能真的用力打我的屁股？"
 
 
 
-    d "Huh? That’s so impolite! I am just a small thin girl who can hardly unscrew the bottle cap! You can’t expect me to spank you as hard as [P]!"
+    d "啊？这太不礼貌了！我只是个瘦小的女孩，连瓶盖都拧不动.你不能指望我打你的屁股有多用力像 [P]一样"
 
 
 
@@ -119,43 +119,31 @@ label BDG_duo_2:
     play sound spank
     $ flashlight()
 
-    g "Awwwww... ... Sorry~"
+    g "Awwwww... ... 对不起~"
 
 
 
     scene bdg_duo_2_5 with tstmgr
 
-    g "*Laughing happily* Hee hee~~ hee hee~~"
+    g "*笑得很开心* Hee hee~~ hee hee~~"
 
 
 
-    d "What are you laughing about?"
+    d "你在笑什么呢？"
 
 
 
-    g "Irene’s fluid is flowing out from pussy and wetting my hair and neck~~ It feels itchy~"
+    g "艾琳的爱液从小穴流出来，打湿了我的头发和脖子~~感觉很痒~"
 
 
 
-    g "Irene must be super excited to spank me~"
-
-
-
-    scene bdg_duo_2_6 with tstmgr
-
-    d "*Wiggling her cute little butt* Shut up! Shut up!"
-
-
-
-    scene bdg_duo_2_5 with tstmgr
-
-    pause
+    g "她一定是对打我的屁股超级兴奋~"
 
 
 
     scene bdg_duo_2_6 with tstmgr
 
-    pause
+    d "*扭动着她可爱的小屁股* 闭嘴! 闭嘴!"
 
 
 
@@ -171,25 +159,37 @@ label BDG_duo_2:
 
 
 
-    g "Irene is so cute!~"
+    scene bdg_duo_2_5 with tstmgr
+
+    pause
 
 
 
-    d "Humph! Let’s see if you can still laugh when I do this~"
+    scene bdg_duo_2_6 with tstmgr
+
+    pause
+
+
+
+    g "艾琳太可爱了！~"
+
+
+
+    d "哼! 让我们看看我这样做的时候你还能不能笑出来~"
 
 
 
     scene bdg_duo_2_7 with tstmgr
 
-    d "*Sucking Uno’s pussy* Sip~~ sip~~ glug~~ sip~~ glug~~"
+    d "*舔乌诺的小穴* Sip~~ sip~~ glug~~ sip~~ glug~~"
 
 
 
-    g "Awwwww~~~ Irene's little tongue is so agile~"
+    g "Awwwww~~~ 艾琳的小舌头是那么的灵活~"
 
 
 
-    g "But I still prefer master's big tongue~"
+    g "但我还是喜欢主人的大舌头~"
 
 
 
@@ -201,7 +201,7 @@ label BDG_duo_2:
 
     scene bdg_duo_2_10 with tstmgr
 
-    b "*Opened the door and came inside* Hi, uno, you didn't come to the bookstore for work this afternoon, so I just want to check if everything's okay... ..."
+    b "*打开门走了进来* 嗨，乌诺，你今天下午没有来书店上班，所以我只是想看看是否一切正常.... ..."
 
 
 
@@ -213,7 +213,7 @@ label BDG_duo_2:
 
     scene bdg_duo_2_9 with tstmgr
 
-    "Irene and Uno" "Hmmmmmmm?"
+    "艾琳和乌诺" "Hmmmmmmm?"
 
 
 
@@ -223,15 +223,15 @@ label BDG_duo_2:
 
     scene bdg_duo_2_12 with tstmgr
 
-    b "*Passed out and fell on the ground* ... ... ... ..."
+    b "*昏倒在地* ... ... ... ..."
 
 
 
-    g "Senning... fainted again. Awwwww... ... [P] will be angry at us for making her faint."
+    g "森柠... 又晕倒了. Awwwww... ... [P]会因为我们让她晕倒而生气的."
 
 
 
-    d "Let’s... let’s set her on the bed and... ... glug... ... let her have a rest."
+    d "让我们......让我们把她放在床上，然后......咕噜......让她休息一下.."
 
 
 

@@ -8,55 +8,55 @@ label store_1_bl_playlet1:
 
     scene store_1_bl_playlet1_1 with tstmgr
 
-    "Posia" "Ahhh~~~ hhh~~~ yes, ohhhh~~~"
+    "波西亚""Ahhh~~~ hhh~~~ yes, ohhhh~~~"
 
 
 
     scene store_1_bl_playlet1_2 with tstmgr
 
-    "Posia" "Yeeeeeeeeee~~~~~~~ ahhh~~~"
+    "波西亚""Yeeeeeeeeee~~~~~~~ ahhh~~~"
 
 
 
     scene store_1_bl_playlet1_3 with tstmgr
 
-    "Posia" "The might of the chosen cock... ... ... ... unbelievable..."
+    "波西亚""这个被选中鸡巴的力量............难以置信..."
 
 
 
     scene store_1_bl_playlet1_4 with tstmgr
 
-    "Posia" "Unbeliiiiiiiiiii~~~~~~~ Ohhhhhhhhhhh~~~~~~"
+    "波西亚""难以~~~~~~~Ohhhhhhhhhhh~~~~~~"
 
 
 
     scene store_1_bl_playlet1_5 with tstmgr
 
-    "Posia" "I will... I will never forget this mighty cock... ... I... I... ..."
+    "波西亚""我...我永远不会忘记这根强大的鸡巴......我...我......"
 
 
 
     scene store_1_bl_playlet1_6 with tstmgr
 
-    "Posia" "I... ... can’t... ... think... anymore... ... ... ..."
+    "波西亚""我......无法......思...考了............"
 
 
 
     scene store_1_bl_playlet1_7 with tstmgr
 
-    "Posia" "AWWWWWWWWWWWWWWW~~~~~~~~~~~"
+    "波西亚""AWWWWWWWWWWWWWWW~~~~~~~~~~~"
 
 
 
-    player "Ahhhhhhh... ... sorry, Posia... I just came inside..."
+    player "Ahhhhhhh......抱歉,波西亚...我射在里面了..."
 
 
 
-    "Posia" "The chosen one’s... ... dirty cum... ..."
+    "波西亚""被选中的人的......肮脏的精液......"
 
 
 
-    "Posia" "The more... ... the better... ..."
+    "波西亚""越多......越好......"
 
 
 

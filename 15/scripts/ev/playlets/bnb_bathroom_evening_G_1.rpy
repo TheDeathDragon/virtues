@@ -2,17 +2,17 @@ label bnb_bathroom_evening_G_1:
 
     scene void with tstmgr
 
-    "Uno was calling my name in the bathroom."
+    "乌诺在浴室里叫我的名字."
 
 
 
     scene bnb_bathroom_evening_g_1_1 with tstmgr
 
-    g "[P], have you seen my body lotion? I can't find it anywhere."
+    g "[P],你看见我的护肤乳了吗?我到处都找不到."
 
 
 
-    player "Eh, I don't know. I'll ask Vera when she gets back."
+    player "Eh,我不知道.等薇拉回来时我问问她."
 
 
 
@@ -20,11 +20,11 @@ label bnb_bathroom_evening_G_1:
 
 
 
-    player "You should at least wear a bath towel the next time when you want to talk to me during shower."
+    player "下次你洗澡并想跟我说话的时候,你应该至少裹一条浴巾."
 
 
 
-    "Shit, I think this girl has some issues with exhibitionism."
+    "Shit,我认为这个女孩有点暴露狂."
 
 
 

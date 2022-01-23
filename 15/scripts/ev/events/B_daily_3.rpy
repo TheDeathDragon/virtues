@@ -5,27 +5,27 @@ label B_daily_3:
 
     narrator "... ... ... ..."
 
-    narrator "Later, at a class..."
+    narrator "后来,在一节课上..."
 
     scene b_class_normal with tstmgr
 
-    b "So, how are you doing? You told me that you have found two jobs. Does everything go well?"
+    b "你最近怎么样?你告诉我你已经找了两份工作了.一切都好吗?"
 
-    player "Eh, yeah, everything seems fine."
+    player "Eh,yeah,一切似乎都好."
 
-    player "And actually, now I have also started my own business besides those two jobs."
+    player "事实上,除了这两份工作,我现在也开始了自己的事业."
 
     scene b_class_surprise with tstmgr
 
-    b "Your own business? What does that mean?"
+    b "自己的事业吗?这是什么意思?"
 
-    narrator "Should I tell her about the B&B stuff now?"
+    narrator "我现在应该告诉她关于民宿的事情吗?"
 
     narrator "... ... ... ..."
 
-    narrator "Nevermind, I will tell her about it after I make sure the business is on the right track."
+    narrator "没关系,等我确定生意做对了再告诉她."
 
-    player "I would like to keep that as a secret for now, because this business is still in an early stage. I'm not sure about how far it will go. You don't need to know that since I may shut it down at anytime."
+    player "我想暂时保密,因为这个业务还处于初期阶段.我不确定它能走多远.你不需要知道,因为我可能随时关闭它."
 
     scene b_class_normal with tstmgr
 
@@ -33,41 +33,41 @@ label B_daily_3:
 
     scene b_class_smile with tstmgr
 
-    b "Alright. It's fine if you don't want to tell me now."
+    b "好吧.如果你现在不想告诉我也没关系."
 
-    b "If there is anything I can help, please please let me know. I really want to do something for you."
+    b "如果有什么我能帮忙的,请告诉我.我真的想为你做点什么."
 
-    player "I appreciate it, Sen. It's my luck to have a friend like you. In fact, I do need to ask you for a favor."
+    player "我很感激,森,有你这样的朋友是我的幸运.事实上,我确实需要你帮个忙."
 
-    b "Just say it, whatever it is."
+    b "说吧,是什么."
 
-    player "Thank you."
+    player "谢谢你."
 
-    player "Well, you see, I may be not able to have as much time to spend on studying as before."
+    player "嗯,你看,我可能没有以前那么多时间花在学习上了."
 
     scene b_class_normal with tstmgr
 
-    b "I understand that. You will definitely have a lot of business things to worry about in the future."
+    b "我理解.你将来肯定会有很多事业上的事情要担心."
 
-    player "So if I happen to miss one course or two, will you help me in review the lessons?"
+    player "所以如果我碰巧错过了一两节课,你能帮我复习功课吗?"
 
     scene b_class_smile with tstmgr
 
-    b "Sure, no problem at all. You don't even need to mention that."
+    b "当然,没问题.你不用说我也会的."
 
-    player "Thank you, Senning."
+    player "谢谢你,森柠."
 
-    b "By the way, [P.name], do you have any place to stay? I know you lived in a hotel before all these happened, but now you would not be able to afford it anymore, right?"
+    b "顺便说一下,[P.name],你有地方住吗?我知道在这一切发生之前你住过酒店,但现在你再也负担不起了?"
 
-    player "Yes, I've already moved out from it. Don't worry, my father left me a house in this city before he got in trouble. Now I'm living in that place."
+    player "是的,我已经搬出去了.别担心,我爸爸在遇到麻烦之前给我在这个城市留了一所房子.现在我住在那个地方."
 
-    b "It's nice to hear that."
+    b "很高兴听到这个."
 
     scene class_background with tstmgr
 
-    narrator "The professor came into the class at this moment."
+    narrator "教授这时走进了教室."
 
-    "Professor Keith" "How's it going, students? Let's do a pop quiz before we start."
+    "基斯教授""同学们,最近怎么样?我们开始前做个突击测验吧."
 
     narrator "... ... ... ..."
 

@@ -2,33 +2,33 @@ label beach_afternoon_G_2:
 
     scene beach_afternoon_g_2_1 with tstmgr
 
-    "Boy" "Mommy, what is she doing?"
+    "男孩""妈咪,她在干什么?"
 
 
 
-    "Mother" "Emmmm?"
+    "母亲""Emmmm?"
 
 
 
     scene beach_afternoon_g_2_2 with tstmgr
 
-    "Boy" "The lady in that hut, what is she doing?"
+    "男孩""平房里的那位女士,她在做什么?"
 
 
 
     scene beach_afternoon_g_2_3 with tstmgr
 
-    "Boy" "It looks like something is punching her butt over and over again..."
+    "男孩""看起来好像有什么东西一遍又一遍地打她的屁股..."
 
 
 
-    "Mother" "Oh, no, that's... ..."
+    "母亲""Oh,no,这......"
 
 
 
     scene beach_afternoon_g_2_4 with tstmgr
 
-    g "*Noticed the boy* Eh?"
+    g "*注意到这个男孩*Eh?"
 
 
 
@@ -44,11 +44,11 @@ label beach_afternoon_G_2:
 
 
 
-    "Boy" "Oh no, there is someone behind her. Is she in some kind of danger? Should we call the police?"
+    "男孩""Ohno,有人在她身后.她有危险吗?我们应该报警吗?"
 
 
 
-    "Mother" "No... I think... they are just playing a game. Let's leave this place now, honey."
+    "母亲""No...我认为...他们只是在玩游戏.我们现在离开这里吧,亲爱的."
 
 
 

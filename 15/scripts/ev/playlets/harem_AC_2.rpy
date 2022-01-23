@@ -8,41 +8,41 @@ label harem_AC_2:
 
     scene harem_ac_2_1 with dissolve
 
-    a "The... Theo... ... You really don’t have to do this to me..."
+    a "狄奥... ... 你真的不需要这样对我..."
 
 
 
-    a "I can... wash myself... by myself... ..."
+    a "我... 我可以自己洗的... 我自己可以的... ..."
 
 
 
-    c "Don’t be a stranger~ We are sisters now~"
+    c "不要怕~我们现在是姐妹,又不是路人~"
 
 
 
     scene harem_ac_2_2 with tstmgr
 
-    c "I heard that [P] sometimes would lather you too?"
+    c "我听说[P]有时也会帮你洗澡?"
 
 
 
-    a "Eh, yeah, no, I mean, he was actually... ..."
+    a "嗯,是的,不,我的意思是,他实际上是... ..."
 
 
 
-    c "Relax, I’m not jealous~"
+    c "放松,我不是在吃醋~"
 
 
 
-    c "I bet he doesn’t do the job as well as I do, right? That idiot doesn’t know how to gently treat a girl."
+    c "我打赌他做的没有我做的好,对吗?那个白痴不知道如何温柔地对待一个女孩."
 
 
 
-    a "No... actually [P] was... very gentle... ..."
+    a "不......实际上[P]是......非常温和的... ..."
 
 
 
-    c "Huh? But can he do this?"
+    c "嗯?但他能做到吗?"
 
 
 
@@ -76,27 +76,27 @@ label harem_AC_2:
 
 
 
-    a "Wow... ... Theo, I have never had such an amazing experience before~"
+    a "Wow... ... 狄奥, 我以前从来没有过这样惊人的经历~"
 
 
 
-    c "Humph~ Now you know why [P] loves tits so much~ They can do more than you think~"
+    c "Humph~ 现在你知道为什么[P]这么喜欢奶子了吧~它们能做的比你想象的要多.~"
 
 
 
-    c "Now, get down and show me your ass~"
+    c "现在,趴下,让我看看你的屁股~"
 
 
 
-    a "What? But... ..."
+    a "什么? 但是... ..."
 
 
 
-    c "Just do as I said, girl."
+    c "按我说的做,乖女孩."
 
 
 
-    a "Okay... ..."
+    a "好吧... ..."
 
 
 
@@ -112,7 +112,7 @@ label harem_AC_2:
 
 
 
-    a "Theo’s huge soft tits... ... are pressing my butt... ..."
+    a "狄奥’s huge soft tits... ... are pressing my butt... ..."
 
 
 
@@ -172,7 +172,7 @@ label harem_AC_2:
 
 
 
-    a "But I can do this to him sometimes~ Thanks for teaching me this, Theo!"
+    a "But I can do this to him sometimes~ Thanks for teaching me this, 狄奥!"
 
 
 

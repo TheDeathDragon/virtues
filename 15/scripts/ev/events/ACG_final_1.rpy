@@ -3,7 +3,7 @@ label ACG_final_1:
     scene void with tstmgr
     play music sorrow
 
-    "*This is the happy harem ending for Vera&Theo&Uno, it happens in a route which you only have Vera, Theo, and Uno in your harem. You will be able to reexperience this scene in your room.*"
+    "*这是薇拉&西奥&乌诺的幸福后宫结局,它发生在你的后宫中只有薇拉、西奥和乌诺的路线中.你可以在你的房间里重新体验这个场景."
 
 
 
@@ -15,45 +15,45 @@ label ACG_final_1:
 
 
 
-    "When did my life become like this? I couldn’t really remember. I guess it has been weeks, or months, I don’t know."
+    "我的生活是什么时候变成这样的?我真的记不清了.我猜已经有几周了,或者几个月了,我不知道."
 
 
 
-    "Every day is like a day in paradise, every day feels so fleeting. It’s like I am experiencing one of those unforgettable childhood summer breaks. The difference is, I know this ‘summer break’ will never end."
+    "每一天都像在天堂一样,每一天都感觉如此短暂.这就像我正在经历那些难忘的童年暑假.不同的是,我知道这个'暑假'将永远不会结束."
 
 
 
     scene acg_final_1_1 with dissolve
 
-    "Theodora... ..."
+    "狄奥多拉... ..."
 
 
 
     scene acg_final_1_2 with tstmgr
 
-    "Vera... ..."
+    "薇拉... ..."
 
 
 
     scene acg_final_1_3 with tstmgr
 
-    "Uno... ..."
+    "乌诺... ..."
 
 
 
-    "My beloved girls, my beloved harem~"
+    "我心爱的女孩,我心爱的后宫~"
 
 
 
-    "The three of them have very different personalities, but they immediately became best friends after living together with me."
+    "她们三个的性格迥异,但和我生活在一起后,她们立即成为最好的朋友."
 
 
 
-    "I must be the greediest man in the world who dared to have these three cuties’ hearts. And I must be the luckiest one too~"
+    "我一定是世界上最贪婪的人,敢于拥有这三个小可爱的心.而我也一定是最幸运的人~"
 
 
 
-    "Sometimes I would question myself, do I really deserve to have them? They are living angels. They have brought so much joy to my life. They make me feel like I am the king of the world."
+    "有时我会怀疑自己,我真的值得拥有她们吗?她们是活生生的天使.她们给我的生活带来了如此多的快乐.她们让我觉得我是世界上最幸福的人."
 
 
 
@@ -63,7 +63,7 @@ label ACG_final_1:
 
 
 
-    "Well, there is only one thing... ..."
+    "嗯,只有一件事... ..."
 
 
 
@@ -73,7 +73,7 @@ label ACG_final_1:
 
 
 
-    "Morning... ..."
+    "早上... ..."
 
 
 
@@ -95,126 +95,126 @@ label ACG_final_1:
 
     scene acg_final_1_7 with tstmgr
 
-    player "*Waking up* Ehhhhhh... ... ... ..."
+    player "*起身* Ehhhhhh... ... ... ..."
 
 
 
     scene acg_final_1_8 with tstmgr
 
-    player "(It’s... morning already... ...)"
+    player "(oh... 已经早上了... ...)"
 
 
 
-    "How long have we slept? 7 hours, or 8 maybe? But damn, I still feel so tired."
+    "我们睡了多长时间了?7个小时,或者8个小时吧?但该死的,我还是觉得很累."
 
 
 
-    "Don’t get me wrong, I’m not saying I was tired from the sex party last night. My dick is still in its best condition."
+    "别误会,我不是说昨晚的性爱派对让我很累.我的小弟弟仍然处于最佳状态."
 
 
 
-    "I was talking about my arms and shoulders."
+    "我说的是我的手臂和肩膀."
 
 
 
-    "No matter what position we slept last night, I would always wake up the next day with at least two girls lying on top of me."
+    "无论我们昨晚以什么姿势睡觉,第二天醒来时我总会发现至少有两个女孩躺在我身上."
 
 
 
-    "My arms are really sore... ..."
+    "我的胳膊真的很酸.... ..."
 
 
 
-    "I have implied them several times that they are a little bit too heavy for my arms to handle, but it didn’t help. My body is still like a magnet that would attract them after they fall asleep."
+    "我已经暗示过她们几次,说她们有点太重了,我的手臂无法承受,但这并没有帮助.我的身体就像一块磁铁,会在她们睡着后吸引她们."
 
 
 
     scene acg_final_1_9 with tstmgr
 
-    "But, well, that means they love me very much, right? It’s a... eh... happy trouble to me~"
+    "但是,这意味着她们非常爱我,对吗?这对我来说是一个......呃......幸福的烦恼~"
 
 
 
     scene acg_final_1_10 with tstmgr
 
-    a "*Waking up* ... ... ... ..."
+    a "*起身* ... ... ... ..."
 
 
 
     scene acg_final_1_11 with tstmgr
 
-    a "Good morning, my love~"
+    a "早上好,小可爱~"
 
 
 
     scene acg_final_1_12 with tstmgr
 
-    player "Oh, morning, Vera~"
+    player "Oh, 早上好, 薇拉~"
 
 
 
     scene acg_final_1_13 with tstmgr
 
-    c "*Waking up* ... ... ... ..."
+    c "*起身* ... ... ... ..."
 
 
 
     scene acg_final_1_14 with tstmgr
 
-    c "Morning... ..."
+    c "早... ..."
 
 
 
     scene acg_final_1_15 with tstmgr
 
-    a "Good morning, Theo~"
+    a "早啊, 西奥~"
 
 
 
-    a "How were your sleep last night? I had a wonderful dream~"
+    a "你昨天晚上睡得怎么样?我做了一个美妙的梦~"
 
 
 
-    c "Me too~"
+    c "我也是~"
 
 
 
-    a "What about you, my love?"
+    a "你呢, 亲爱的?"
 
 
 
     scene acg_final_1_16 with tstmgr
 
-    player "Eh... ... I was fine~"
+    player "Eh... ... 我很好~"
 
 
 
-    "Regardless of my sore arms... ... I did have a good night."
+    "不管我的手臂是否酸痛......我确实有一个美好的夜晚."
 
 
 
     scene acg_final_1_160 with tstmgr
 
-    a "*Gently kissing on my chest* ... ... ... ..."
+    a "*轻轻地吻着我的胸膛* ... ... ... ..."
 
 
     scene acg_final_1_17 with tstmgr
 
-    a "Glad to hear that~ Now it’s time to get up and prepare the breakfast~"
+    a "很高兴听到这个消息~现在是时候起床准备早餐了~"
 
 
 
-    a "See you later~"
+    a "晚点见~"
 
 
 
-    player "See you... ..."
+    player "晚点见... ..."
 
 
 
     scene acg_final_1_18 with tstmgr
 
-    "Vera then left the bed and went out of the room nakedly."
+    "薇拉起身下了床,一丝不挂地走出了房间."
 
 
 
@@ -224,37 +224,37 @@ label ACG_final_1:
 
     scene acg_final_1_19 with tstmgr
 
-    c "Sorry to make your arm numb again... ..."
+    c "对不起,又让你的手臂发麻了... ..."
 
 
 
-    player "Oh, don’t worry about that~ You know how strong your husband is."
+    player "哦,别担心,你知道你丈夫有多强壮.."
 
 
 
-    player "But... seriously, does it really feel good to lie on my arm?"
+    player "但是......说真的,躺在我的手臂上真的感觉很好吗??"
 
 
 
     scene acg_final_1_20 with tstmgr
 
-    c "Well, it is obviously not the best bed, I don’t even know why I always lie on your arm after I fall asleep."
+    c "嗯,这显然不是最好的床,我甚至不知道为什么我睡着后总是躺在你的胳膊上.."
 
 
 
     scene acg_final_1_21 with tstmgr
 
-    c "Maybe I just want to be closer to you unconsciously~"
+    c "也许我只是不自觉地想更靠近你~"
 
 
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
 
     scene acg_final_1_22 with tstmgr
 
-    c "I’ll go help Vera, see you later~"
+    c "我去帮薇拉了,待会见~"
 
 
 
@@ -264,23 +264,23 @@ label ACG_final_1:
 
     scene acg_final_1_23 with tstmgr
 
-    "Theodora then left the room too, nakedly, of course."
+    "狄奥多拉也离开了房间,当然是同样不着寸缕地离开.."
 
 
 
-    "Influenced by Uno, both Theo and Vera have become nudists. They said it is a way for them to ‘be completely honest with each other’."
+    "受乌诺的影响,西奥和薇拉都成为了裸体主义者.她们说这是她们 ’对彼此完全诚实’的一种方式.."
 
 
 
-    "But... ... I guess the real reason is, they just want to make it easier for me to fuck them whenever I want."
+    "但是......我想真正的原因是,她们只是想让我更容易地在我想的时候操她们."
 
 
 
-    "... ... Or they are just tired of cleaning the seminal stains on the clothes everyday? I don't know~"
+    "... ... 又或者她们只是厌倦了每天清洗衣服上的精液污渍?我不知道~"
 
 
 
-    "Anyway, I don’t resent them for staying naked. We canceled the bnb service sometime earlier so I’m the only male in the house all the time. I love to see my girls walking around the house with their huge tits bouncing like crazy."
+    "不管怎么说,我并不反感她们保持裸体.我们早些时候取消了出租服务,所以我一直是家里唯一的男性.我喜欢看到我的女孩们在房子里走来走去,她们的大奶子疯狂地跳动着."
 
 
 
@@ -290,7 +290,7 @@ label ACG_final_1:
 
 
 
-    "Now there is only one sleepy head who is still in dream~"
+    "现在只有一个小懒虫还在梦中~"
 
 
 
@@ -300,11 +300,11 @@ label ACG_final_1:
 
 
 
-    player "Wake up, Uno~"
+    player "起来了, 乌诺~"
 
 
 
-    g "*Murmuring in dream* Just... another bite... ..."
+    g "*梦中的呓语* 只是......再吃一口... ..."
 
 
 
@@ -312,13 +312,13 @@ label ACG_final_1:
 
 
 
-    "Uno is always the last one waking up, and she is also the deadliest sleeper among us."
+    "乌诺总是最后一个醒来的人,她也是我们中睡得最沉的."
 
 
 
     scene acg_final_1_26 with tstmgr
 
-    "And... well, I know exactly what I should do to wake her up~"
+    "而且......好吧,我知道我应该做什么来叫醒她.~"
 
 
 
@@ -336,7 +336,7 @@ label ACG_final_1:
 
 
 
-    g "Awww... ... hhhhh... ... wait... ... wwwwwww... ..."
+    g "Awww... ... hhhhh... ... 等等... ... wwwwwww... ..."
 
 
 
@@ -346,31 +346,31 @@ label ACG_final_1:
 
 
 
-    g "What... is happening? Awwwwwww~~~~"
+    g "发生....什么了? Awwwwwww~~~~"
 
 
 
-    player "Are you awake now, Uno?"
+    player "Are you awake now, 乌诺?"
 
 
 
-    g "Hee hee... master... ... master is so fat~ even fatter than Uno~~~ Want to... take a bite~~"
+    g "Hee hee... 主人... ... 主人好胖啊~比乌诺还胖~~~想...吃一口~~"
 
 
 
-    "Okay, it looks like she is still in dream, and... shit, what the fuck is she dreaming about?"
+    "Okay, 看起来还没清醒, 还有... 我去, 她特么到底梦到了些什么?"
 
 
 
-    g "Wuuuuuhhh~~ awwwww... ... Why is... everything shaking? Earthquake... ... help... ..."
+    g "Wuuuuuhhh~~ awwwww... ... 为什么......在摇晃?地震......救命... ..."
 
 
 
-    g "Master... where is my master... ..."
+    g "主人... 我的主人在哪... ..."
 
 
 
-    player "Your master is using you to ease his morning wood~ You’d better wake up now, otherwise you will miss all the fun~"
+    player "你的主人正在用你来缓解他的晨勃~你最好现在就醒过来,否则你会错过你最想要的~"
 
 
     stop sound
@@ -380,39 +380,39 @@ label ACG_final_1:
 
 
 
-    g "Ahhh... hhh... ... Master’s fat penis~~ so steady~~"
+    g "Ahhh... hhh... ... 主人的粗大鸡巴~~好厉害~~"
 
 
 
-    player "Oh, you awake now?"
+    player "Oh, 你现在醒了?"
 
 
 
-    g "Have to... hold it still so... the earthquake won’t affect me~"
+    g "必须......按住它,这样......地震就不会影响我了~"
 
 
 
-    g "I should hold it... inside me... with my pussy~ Hee hee, even the worst earthquake won’t make me fall~"
+    g "我应该把它......放在我的身体里......用我的小穴~ 嘻嘻,即使是再厉害的地震也不会让我倒下~"
 
 
 
-    player "Still in dream... ... What a lazy piggy... ..."
+    player "还在梦中......多么懒惰的小猪... ..."
 
 
 
-    g "Master’s penis~~ love it... ... love it~~ Uno wants to... marry master’s penis~~ Fat penis... ... for Uno’s fat ass~~~~"
+    g "主人的阴茎~~爱死它了......爱死它了~~乌诺想......嫁给主人的阴茎~~胖阴茎......为了乌诺的肥臀~~~~"
 
 
 
-    g "Awwwwwwww... ... Why is the earthquake still on?"
+    g "啊啊啊啊......为什么还在地震?"
 
 
 
-    "Seriously, I really would like to hear more of her dream talking. Her pussy gets wetter every time she talks more. It’s really cute."
+    "说真的,我真想多听听她的梦话.她每多说一句,她的小穴就会变得更湿.这真的很可爱."
 
 
 
-    "But... now I’m going to cum~"
+    "但是......现在我就要射了~"
 
 
     stop sound
@@ -450,7 +450,7 @@ label ACG_final_1:
     play sound cumshot
     $ flashlight()
 
-    player "Ahhhhhhhhh-haaa!! Take it, Uno! Today’s first load~~~~~~"
+    player "Ahhhhhhhhh-haaa!! 拿去吧, 乌诺! 今天的第一发~~~~~~"
 
 
 
@@ -460,43 +460,43 @@ label ACG_final_1:
 
     scene acg_final_1_31 with tstmgr
 
-    g "*Suddenly awaked&* Wha wha wha what’s going on?!"
+    g "*忽然醒过来&* 发 发 发 发生了什么?!"
 
 
 
-    g "Something so hot... is flowing in my pussy... ..."
+    g "有些很热的东西......在我的阴道里......"
 
 
 
-    "It looks like she is finally awake."
+    "看来她终于醒了."
 
 
 
     scene acg_final_1_32 with tstmgr
 
-    g "Oh, master!~ Good morning!~ I thought I was still in a dream~"
+    g "Oh, 主人!~ 早上好!~ 我想我还在做梦~"
 
 
 
-    player "Do you like the waking up service?"
+    player "你喜欢这个叫起床服务吗?"
 
 
 
     scene acg_final_1_33 with tstmgr
 
-    g "It was a pity that I didn’t feel master’s thrust awake, but... ... I did have a good dream~"
+    g "很遗憾,我没有清醒的感觉到主人的推力,但是......我确实做了一个好梦~"
 
 
 
-    player "Ha~ I’ll take that as a yes~"
+    player "Ha~ 我认为这是个肯定的答案~"
 
 
 
-    player "Now it’s time to get up. Remember to say good morning to Theo and Vera. You forgot to do that yesterday."
+    player "现在是时候起床了.记住要对西奥和薇拉说早安.你昨天忘了这么做."
 
 
 
-    g "I will~"
+    g "我会的~"
 
 
 
@@ -506,37 +506,37 @@ label ACG_final_1:
 
 
 
-    "Sometime later, in the bathroom, all the family members are here to wash up... ..."
+    "不知什么时候,在浴室里,所有的家庭成员都在这里洗漱.... ..."
 
 
 
     scene acg_final_1_34 with dissolve
 
-    a "Ah! Uno! You brushed your teeth for too short!"
+    a "Ah! 乌诺! 你刷牙的时间太短了!"
 
 
 
     scene acg_final_1_35 with tstmgr
 
-    g "But they are clean already~ Look, look~"
+    g "但它们已经很干净了~看,看~"
 
 
 
-    a "No they are not. Go back and brush them again for at least one minute."
+    a "不,它们没有.回去再刷一遍,至少一分钟."
 
 
 
-    "Vera has become a full-time housewife after she quited her jobs. It seems like being a housewife can grow one’s mental age effectively as well. Although Vera is not a mother yet, she has showed amazing motherly qualities towards the other family members."
+    "薇拉辞去工作后成为了一名全职家庭主妇.看来当家庭主妇也能有效地增长人的心理年龄.虽然薇拉还没有成为母亲,但她对其他家庭成员表现出了惊人的母性品质."
 
 
 
-    c "This... feels really weird. You sound exactly like my mom... ..."
+    c "这......感觉真的很奇怪.你的声音和我妈妈一模一样......"
 
 
 
     scene acg_final_1_36 with tstmgr
 
-    a "Oh, Lady Shinyrost, I mean, your mom, she did teach me a lot about... childcare."
+    a "哦,新光女士,我是说你妈妈,她确实教了我很多......育儿知识."
 
 
 
@@ -546,23 +546,23 @@ label ACG_final_1:
 
     scene acg_final_1_37 with tstmgr
 
-    g "*Running away* Goodbye, Mama Vera!~"
+    g "*跑走* 拜拜, 薇拉妈妈!~"
 
 
 
-    "Uno ran out of the room."
+    "乌诺跑出了房间."
 
 
 
     scene acg_final_1_38 with tstmgr
 
-    a "Ah! Wait! Come back and brush your teeth again! It's for your own good!"
+    a "Ah! 等等! 回来刷牙！这是为你自己好!"
 
 
 
     scene acg_final_1_39 with tstmgr
 
-    "Vera then left the room to chase Uno... ..."
+    "薇拉随即离开房间去追乌诺... ..."
 
 
 
@@ -572,77 +572,77 @@ label ACG_final_1:
 
     scene acg_final_1_40 with tstmgr
 
-    c "Seriously, you should make her have her own kid as soon as you can. She has addicted to playing the mother’s role already."
+    c "说真的,你应该尽快让她怀孕.她已经对扮演母亲的角色上瘾了.."
 
 
 
-    player "I... I’ll try."
+    player "额... 我尽力."
 
 
 
     scene acg_final_1_41 with tstmgr
 
-    c "And... there is something that you might want to know."
+    c "还有......有件事你可能想知道."
 
 
 
-    c "A journalist from a magazine wants to interview you."
+    c "一个杂志的记者想采访你."
 
 
 
     scene acg_final_1_42 with tstmgr
 
-    player "What’s for?"
+    player "为了什么?"
 
 
 
     scene acg_final_1_43 with tstmgr
 
-    c "You know you are really famous on the internet, right? A notorious billionaire’s son who has three supermodel-level wives. People want to know your story."
+    c "你知道你在互联网上真的很有名,对吗?一个臭名昭著的亿万富翁的儿子,有三个超级名模级别的妻子.人们想知道你的故事."
 
 
 
     scene acg_final_1_44 with tstmgr
 
-    player "Ha~ but I don’t want to tell anyone about our story. All those sweet memories between the four of us... ... I’m not generous enough to share them with others."
+    player "但我不想告诉任何人我们的故事.我们四个人之间所有那些甜蜜的回忆... ... 我没有慷慨地与他人分享它们的意思."
 
 
 
     scene acg_final_1_45 with tstmgr
 
-    c "Humph~ I thought you would say that too, so I rejected the interview for you already~"
+    c "Humph~ 我也觉得你会这么说,所以我已经为你拒绝了采访~"
 
 
 
     scene acg_final_1_46 with tstmgr
 
-    player "My good wife~"
+    player "我的好太太~"
 
 
 
     scene acg_final_1_47 with tstmgr
 
-    player "Come here, give me a morning kiss~"
+    player "来来来,给我一个早晨的吻~"
 
 
 
-    c "Wait, have you brushed your teeth long enough?"
+    c "等等,你刷牙的时间够吗?"
 
 
 
     scene acg_final_1_48 with tstmgr
 
-    player "Eh... ... about that... ..."
+    player "Eh... ... 关于这个... ..."
 
 
 
-    c "Humph, I guess so. No lip contact then~"
+    c "Humph, 我想是的,那么没有早安吻了~"
 
 
 
     scene acg_final_1_47 with tstmgr
 
-    player "Nah, Vera is not here, no one can save you now~"
+    player "Nah, 薇拉可不在这, 现在可没人能救你~"
 
 
 
@@ -662,15 +662,15 @@ label ACG_final_1:
 
 
 
-    c "Why... kissing and... fucking... at the same time~~~"
+    c "为什么......接吻和......性交......一起的话~~~"
 
 
 
-    c "You are... so bad~~~"
+    c "你......太坏了~~~"
 
 
 
-    player "Your mouth... and your pussy... are all mine to kiss~"
+    player "你的嘴唇... 和你的小穴... 都是我亲吻的对象~"
 
 
 
@@ -678,7 +678,7 @@ label ACG_final_1:
 
 
 
-    c "Don't... suck my tongue... ohhhhhhhhh~~~"
+    c "不要... 吸我的舌头... ohhhhhhhhh~~~"
 
 
 
@@ -692,39 +692,39 @@ label ACG_final_1:
 
 
 
-    c "Yes~~~ big cock... in my pussy... ... kissing... ... yes~~"
+    c "Yes~~~ 大鸡巴... 在我的小穴... ... 亲吻着... ... 对~~"
 
 
 
-    c "Wuuuummmmm... ... keep... keep doing that~"
+    c "Wuuuummmmm... 继续... 对... 就是这样~"
 
 
 
-    c "Give my vagina a... long French kiss with your big cock~~~"
+    c "用你的大鸡巴给我的小穴一个......长长的法式湿吻吧~~~"
 
 
 
-    player "Theo, I love you~ Huuumm~~"
+    player "西奥, 我爱你~ Huuumm~~"
 
 
 
-    c "Wuuummm~~ wuummm~~~~~~ I love you too~~~~"
+    c "Wuuummm~~ wuummm~~~~~~ 我也爱你~~~~"
 
 
 
-    c "My mouth, my pussy... are all so desperate for your kiss~"
+    c "我的嘴, 我的小穴... 都渴望着你的吻~"
 
 
 
-    c "Give me your cum~~ my good husband~~ wwwuuuuuummm~~~~ I can't take it anymore~~"
+    c "把你的精液给我~~我的好丈夫~~ wwwuuuuuummm~~~~ 我受不了了~~"
 
 
 
-    player "You will have what you want, Theo~"
+    player "你会得到你想要的, 西奥~"
 
 
 
-    player "I’m cumming!~~~~~"
+    player "这就射给你!~~~~~"
 
 
     stop sound
@@ -736,17 +736,17 @@ label ACG_final_1:
 
 
 
-    c "Haaah~~~ So good... ... Ha... ..."
+    c "Haaah~~~ 太棒了... ... Ha... ..."
 
 
 
-    player "Just... don't tell Vera about I kissed you without brushing teeth first, okay?"
+    player "只是... 不要告诉薇拉关于我没刷牙就吻了你的事, okay?"
 
 
 
     scene acg_final_1_52 with tstmgr
 
-    c "I'll... ... keep it as a secret between us~"
+    c "我会... ... 保守这个我们俩的秘密~"
 
 
 
@@ -760,71 +760,70 @@ label ACG_final_1:
 
 
 
-    "Sometime later, after the four of us had the breakfast together... ..."
+    "后来,在我们四个人一起吃完早餐后的某个时候... ..."
 
 
 
     scene acg_final_1_53 with dissolve
 
-    player "Thanks for the meal, Vera~ It was delicious as always."
+    player "谢谢你的饭菜,薇拉~它一如既往地美味."
 
 
 
-    a "As long as you like it~"
+    a "只要你喜欢就好~"
 
 
 
     scene acg_final_1_54 with tstmgr
 
-    a "Ah~ don’t leave yet. Let me clean your mouth for you~"
+    a "Ah~ 先别走.让我为你清洗嘴巴~"
 
 
 
-    player "Oh, alright."
+    player "Oh, 好的."
 
 
 
-    "And here comes another little ‘family tradition’ of ours, the mouth cleaning service after a meal."
+    "我们的另一个小 ’ 家庭传统’ 来了,饭后的口腔清洁服务.."
 
 
 
     scene acg_final_1_161 with tstmgr
 
-    a "Come on, my love, clean your mouth with my body as you want~"
+    a "来吧,亲爱的,用我的身体清洗你的嘴,就像你想要的那样~"
 
 
 
-    player "Vera... ..."
+    player "薇拉... ..."
 
 
 
     scene acg_final_1_55 with tstmgr
 
-    player "*Immersing head into Vera’s boobs* Ahhhh... ... ... ..."
+    player "*把头浸入薇拉的胸部奶子"
+
+
+    "在这个家庭里,妻子们负责用自己的身体为主人提供口腔清洁服务~"
 
 
 
-    "In this family, wives are responsible for providing mouth cleaning service for the master of the house with their bodies~"
-
-
-
-    "I wantonly rubbed the food residue from my lips on her breasts. It might sound a little gross, but shit, I really love to enjoy my privilege of being the master of the house in this way~"
+    "我肆意地把嘴唇上的食物残渣擦在她的乳房上.这听起来可能有点恶心,但是,我真的很喜欢以这种方式享受我作为主人的特权~"
 
 
 
     scene acg_final_1_56 with tstmgr
 
-    g "I want to be master’s meat napkin too!"
+    g "我也想成为主人的肉巾！"
 
 
 
-    "Meat napkin, I like that name~"
+    "肉巾,我喜欢这个名字~"
 
 
 
     scene acg_final_1_57 with tstmgr
 
-    c "Well, Uno, you will have your chance tomorrow~ Now you should join me to do the dishes. Give them for a while~"
+    c "嗯, 乌诺, 你明天会有机会的~现在你应该和我一起洗碗了.给她们一点时间~"
 
 
 
@@ -834,7 +833,7 @@ label ACG_final_1:
 
     scene acg_final_1_58 with tstmgr
 
-    "Theodora and Uno then left for doing dishes together..."
+    "狄奥多拉和乌诺然后一起离开去洗碗了..."
 
 
 
@@ -844,67 +843,67 @@ label ACG_final_1:
 
     scene acg_final_1_59 with tstmgr
 
-    player "Huh... ... Thanks for your service, Vera~"
+    player "Huh... ... 感谢你的服务, 薇拉~"
 
 
 
-    a "You are always welcome, my love."
+    a "不用客气,亲爱的."
 
 
 
-    a "It's about time, you need to go for work."
+    a "时间到了,你需要去工作了."
 
 
 
     scene void with tstmgr
 
-    "Well, yeah, I still need to go to work. I have to feed my family on my own."
+    "嗯,是的,我仍然需要去工作.我必须靠自己的力量养活我的家人."
 
 
 
-    "My dad’s case has taken a turn for the worse, he is going to stay in jail for a few years more."
+    "我爸爸的案子有了改变,他要在监狱里多呆几年."
 
 
 
-    "I took Theodora’s position in the Shinyrost Inc after she quited. The work is heavy but there is nothing to complain about."
+    "狄奥多拉辞职后,我接替了她在新光公司的职位.工作虽然繁重,但没有什么可抱怨的."
 
 
 
     scene acg_final_1_60 with dissolve
 
-    player "You know there is one more thing I need to do before I go to work, right?"
+    player "你知道我在上班前还有一件事要做,对吗??"
 
 
 
-    player "I will always make your pussies full of my sperm before I go for work, until the three of you all get pregnant~"
+    player "我将在上班前让你们的小穴都充满我的精子,直到你们三个人都怀孕.~"
 
 
 
     scene acg_final_1_61 with tstmgr
 
-    a "I know... ... but you don’t really have to do that every morning. You know, if you feel a little tired or something... ..."
+    a "我知道... ... 但你并不是真的要每天早上都这样做.你知道,如果你觉得有点累或什么的... ..."
 
 
 
     scene acg_final_1_62 with tstmgr
 
-    a "I don’t mind being the last one who gets pregnant~"
+    a "我并不介意成为最后一个怀孕的人~"
 
 
 
-    player "Ah shut up, you want a baby so bad that you even began to treat Uno like she is a kid."
+    player "Ah 才不是这样,你这么想生孩子,甚至开始把乌诺当做一个孩子来对待.."
 
 
 
     scene acg_final_1_63 with tstmgr
 
-    a "Oh, did I?"
+    a "Oh,我有 ?"
 
 
 
     scene acg_final_1_64 with tstmgr
 
-    g "*Shouting from the kitchen* Yep! But I was enjoying it! Good job, Mama Vera~"
+    g "*厨房里的呼喊声* 是的! 但我很享受这个过程! 薇拉妈妈~"
 
 
 
@@ -912,7 +911,7 @@ label ACG_final_1:
 
 
 
-    player "Now just put your ass up and be ready to be fertilized~"
+    player "现在只要把你的屁股抬起来,准备受精就可以了~"
 
 
 
@@ -928,35 +927,35 @@ label ACG_final_1:
 
 
 
-    a "Awwwwww~~~ My love... it's so hard... ... Why you never get tired?"
+    a "Awwwwww~~~ 我的爱人......太难了.......为什么你永远不累?"
 
 
 
-    a "Every day and night... ... always so energetic... ... always so obsessed with pussies."
+    a "每天晚上............总是那么精力充沛............总是那么痴迷于小穴."
 
 
 
-    player "Well, that’s why I dare to marry three horny wives~ It is a man’s responsibility to satisfy his wives’ desire~"
+    player "嗯,所以我才敢娶三个好色的老婆~满足老婆的欲望是男人的责任~"
 
 
 
-    a "Humph... I... I don’t have so much desire that needs to be satisfied~"
+    a "Humph... 我没有那么多需要满足的欲望~"
 
 
 
-    player "Then why is your pussy getting so wet?"
+    player "那为什么你的小穴变得这么湿?"
 
 
 
-    a "That’s because... ... ohhhhh~~~ it is reaching so deep... ..."
+    a "那是因为............哦~~~~它伸得很深......"
 
 
 
-    player "What is reaching so deep?"
+    player "什么东西伸得这么深?"
 
 
 
-    a "Your... big cock... ... my love's big cock, my favorite big cock~~~"
+    a "你的......大鸡巴......我爱人的大鸡巴,我最喜欢的大鸡巴~~~"
 
 
     stop sound
@@ -966,39 +965,39 @@ label ACG_final_1:
 
 
 
-    a "Your belt... is hitting my ass every time you thrust... ..."
+    a "你的皮带......每次插入都会打到我的屁股......"
 
 
 
-    a "It hurts a little, but it’s nothing comparing to the pleasure that your big cock brings me~"
+    a "有点疼,但和你的大鸡巴带给我的快乐相比,这不算什么~"
 
 
 
-    a "I’m so proud of... my husband’s cock~~~"
+    a "我真为......我丈夫的鸡巴感到骄傲~~~"
 
 
 
-    "Her big ass was shaking happily under my moves. I really love this scene."
+    "她的大屁股在我的动作下快乐地抖动着.我真的很喜欢这个场景."
 
 
 
-    a "So good... so strong... ... ohhhhh... ... my dear husband~~~ fuck me, yes~~~"
+    a "好爽......好强............哦......我亲爱的老公~~~操我,好~~~"
 
 
 
-    "Vera didn’t use to say words like ‘cock’ or ‘fuck’, but she has learned to do that from Theo. It’s not a bad thing though, dirty talk should be as dirty as possible."
+    "薇拉以前不说'鸡巴'或'操'这样的词,但她已经从西奥那里学会了这样做.不过,这并不是一件坏事,特别是做爱时的淫语."
 
 
 
-    a "Yes~~~ ohhhh~~~ please... more~~ cock... ... awwwwwww~~~"
+    a "对~~~ ohhhh~~~ 对... 用力~~ 鸡巴... ... awwwwwww~~~"
 
 
 
-    player "I’m cumming, Vera~"
+    player "我要射了, 薇拉~"
 
 
 
-    a "Yes, yes, give me a full squirt, make me pregnant~ my dear husband!~~~~~~"
+    a "是的,是的,用力的射进来,让我怀孕~我亲爱的丈夫!~~~~~~"
 
 
     stop sound
@@ -1006,31 +1005,31 @@ label ACG_final_1:
     play sound cumshot
     $ flashlight()
 
-    a "Ahhhhhh~~~ hhhhhh~~ Yes, yes, so much... in the deep!~~~~~~"
+    a "Ahhhhhh~~~ hhhhhh~~ 对, 对, 好深... 在最深的里面!~~~~~~"
 
 
 
-    "It was the third orgasm I had this morning, but my cum was still so thick that I can hardly get my dick out of her pussy."
+    "这是我今天早上的第三次射精,但我的精液仍然很浓,我几乎无法把我的鸡巴从她的小穴里抽出来."
 
 
 
-    a "A... creampie... for dessert, it’s perfect~"
+    a "A......奶油派......作为甜点,这很完美~"
 
 
 
-    g "*Crashing a glass plate* ... ... ... ..."
+    g "*砸碎一个玻璃盘子* ... ... ... ..."
 
 
 
-    g "Oh no!"
+    g "Oh 不!"
 
 
 
-    c "Shit, I told you not to put all your attention on their sex when you are washing dishes!"
+    c "我告诉过你,在洗碗的时候不要把注意力全部放在她们的做爱上！"
 
 
 
-    a "Don’t... don’t worry... ... I’ll clean that up... ... just... give me a moment... ..."
+    a "别......别担心.......我会把它洗干净的... ...只是...给我一点时间... ..."
 
 
 
@@ -1040,38 +1039,38 @@ label ACG_final_1:
 
 
 
-    "After breakfast, it is time to go to work, but there is still something I need to do before leaving home."
+    "吃完早餐后,就该去工作了,但在离家之前,我还有一些事情要做."
 
 
 
-    "It is my favorite part of our family tradition..."
+    "这是我们家庭传统中我最喜欢的部分..."
 
 
 
     scene acg_final_1_68 with dissolve
 
-    "The goodbye kiss... ... on the nipple~"
+    "告别之吻......在乳头上的吻~"
 
 
 
-    "Look, my three titty slaves have already stood in a line, put hands behind their back, and waited for my kiss."
+    "看,我的三个乳奴已经站成一排,把手放在背后,等着我的吻.."
     scene acg_final_1_69 with tstmgr
 
-    g "Don’t forget the kiss, master. Your titty slaves are waiting~"
+    g "不要忘记亲亲,主人你的奶子奴隶在等着呢~"
 
 
 
-    "Ohhhh~~~ I really should take a picture of their gorgeous boobs and set as my computer wallpaper."
+    "哦~~~~我真应该给她们美丽的胸部拍张照片,设置为我的电脑壁纸."
 
 
 
-    "Now let’s do the kiss~"
+    "现在我们来亲吻吧~"
 
 
 
     scene acg_final_1_70 with tstmgr
 
-    "Starting with Vera... ..."
+    "从薇拉开始... ..."
 
 
 
@@ -1107,25 +1106,25 @@ label ACG_final_1:
 
     scene acg_final_1_76 with tstmgr
 
-    "Six gentle kisses on my submissive wives’ boobs every morning will keep me in a good mood all day."
+    "每天早上在我可爱顺从妻子们的乳房上轻轻地亲吻六下,会让我一整天都有好心情.."
 
 
 
     scene acg_final_1_77 with tstmgr
 
-    g "Have a nice day, master~"
+    g "祝你有美好的一天, 主人~"
 
 
 
-    a "Please come back as early as you can~"
+    a "请尽早回来吧~"
 
 
 
-    c "Don’t flirt with other women in the company~"
+    c "不要和公司里的其他女人调情~"
 
 
 
-    "Oh my angels... ... Harem is the best!"
+    "哦,我的天使......后宫真的太棒了！"
 
 
 
@@ -1139,15 +1138,15 @@ label ACG_final_1:
 
 
 
-    "I wish I could live a life like that forever, however... ..."
+    "我希望我可以永远过着这样的生活,然而......"
 
 
 
-    "Soon after that day, something happened and it changed everything... ... My life could never be the same anymore."
+    "在那一天之后不久,发生了一些事情,它改变了一切......我的生活再也不可能一样了."
 
 
 
-    "Well... but it was a good change though~"
+    "嗯......虽然这是一个好的改变,虽然~"
 
 
 
@@ -1155,11 +1154,11 @@ label ACG_final_1:
 
 
 
-    "Six months later, one night... ..."
+    "半年后的一个晚上... ..."
 
 
 
-    player "I’m home, girls~"
+    player "我回来了,女孩们~"
 
 
 
@@ -1167,63 +1166,63 @@ label ACG_final_1:
 
     $ flashlight()
 
-    g "Welcome home, master..."
+    g "欢迎回家, 主人..."
 
 
 
     scene acg_final_1_77 with flashback
 
-    "They used to complain about why they hadn’t gotten pregnant for so long. I almost began to worry if there was something wrong with my fertility. Well, now I don’t need to worry about it anymore~"
+    "她们曾经抱怨过为什么这么长时间都没有怀孕.我几乎开始担心我的生育能力是否出了问题.嗯,现在我不需要再担心这个问题了.~"
 
 
 
     scene acg_final_1_78 with flashback
 
-    "About three months ago, they found out they got pregnant almost at the same time."
+    "大约三个月前,她们发现自己几乎同时怀孕了."
 
 
 
-    "I’m finally going to be a dad~"
+    "我终于要当爸爸了~"
 
 
 
     scene acg_final_1_79 with tstmgr
 
-    "My wives’ bodies are preparing them for becoming a mother. Their breasts and hips became huger as their bellies bumped up. It’s just amazing to observe the change of their bodies everyday."
+    "我妻子们的身体正在为成为母亲做准备.她们的乳房和臀部随着肚子的隆起而变得更加丰满.每天观察她们身体的变化,实在令人惊讶."
 
 
 
-    "Every day I come home and see them get a little chubbier. I guess that means babies are growing well. This gives me such a great sense of accomplishment."
+    "每天我回到家,看到她们变得更胖了一些.我猜这意味着婴儿成长得很好.这让我有了很大的成就感."
 
 
 
-    "Meanwhile I was worried that they might have perinatal anxiety or something, but it looked like I was wrong, the three of them look after each other very well and they are still as happy as they used to be."
+    "同时我还担心她们会有围产期焦虑症或其他问题,但看起来我错了,她们三个人互相照顾得非常好,她们仍然像以前一样快乐.."
 
 
 
     scene acg_final_1_80 with tstmgr
 
-    player "How are babies today?"
+    player "宝宝们今天好吗?"
 
 
 
-    g "The boy is quiet and well-behaved as always~ never kicks his mommy, only got excited when daddy comes home."
+    g "这孩子一如既往地安静和乖巧~从不踢他妈妈,只有在爸爸回家时才会兴奋."
 
 
 
-    g "I'm sure he will be a nice little gentleman just like his daddy~"
+    g "我相信他一定会像他爸爸一样成为一个优雅的小绅士.~"
 
 
 
     scene acg_final_1_81 with tstmgr
 
-    a "Well, I wish my girl can be that quiet too, but she was so naughty and energetic all the time... ..."
+    a "嗯,我希望我的女儿也能那么安静,但她总是那么调皮和精力充沛.... ..."
 
 
 
     scene acg_final_1_82 with tstmgr
 
-    player "Come here, babes~~"
+    player "来这里, 宝贝们~~"
 
 
 
@@ -1249,35 +1248,35 @@ label ACG_final_1:
 
     scene acg_final_1_83 with tstmgr
 
-    player "I love you so much... ..."
+    player "我爱你们......"
 
 
 
-    a "You should say that to Theo too. You have spent enough time on us~"
+    a "你也应该对西奥这么说.你在我们身上花的时间已经够多了~"
 
 
 
-    "Well, I didn’t leave Theo alone on purpose. It’s just... I only have two hands."
+    "嗯,我不是故意让西奥一个人呆着的.只是......我只有两只手."
 
 
 
-    a "I’m going to prepare the dinner. Come with me, Uno~ I will need your help."
+    a "我去准备晚餐了.和我一起去吧,乌诺~我需要你的帮助."
 
 
 
     scene acg_final_1_84 with tstmgr
 
-    g "Aye aye, Mama Vera!"
+    g "Aye aye, 薇拉妈妈!"
 
 
 
-    a "Stop calling me that, Uno, you are about to be a mother yourself!"
+    a "别再这么叫我了,乌诺,你都快当妈妈了.!"
 
 
 
     scene acg_final_1_85 with tstmgr
 
-    "The two girls then left for the kitchen..."
+    "两个女孩随后离开去了厨房..."
 
 
 
@@ -1287,84 +1286,84 @@ label ACG_final_1:
 
 
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
 
-    "Theodora's beauty and sexiness have not declined because of her pregnancy at all. She is as gorgeous as she used to be."
+    "狄奥多拉的美丽和性感丝毫没有因为怀孕而下降.她还是和以前一样漂亮.."
 
 
-    player "Come here, Theo~"
+    player "来这里, 西奥~"
 
 
 
     scene acg_final_1_87 with tstmgr
 
-    player "Did you have a good day?"
+    player "这一天过得好吗?"
 
 
 
     scene acg_final_1_88 with tstmgr
 
-    c "Well, as long as the four of us are together, every day is a good day."
+    c "嗯, 只要我们四个人在一起,每天都是好日子."
 
 
 
     scene acg_final_1_89 with tstmgr
 
-    c "God, I can’t believe I just said that... ... That was gross."
+    c "天, 我不能相信我刚才说的......这很恶心."
 
 
 
-    c "Sigh... ... Sometimes I couldn’t even recognize myself anymore. I have become a completely different person after living with you..."
+    c "唉......有时我甚至都认不出自己了.和你一起生活后,我已经变成了一个完全不同的人..."
 
 
 
-    player "Well, yeah, love changes people~"
+    player "额, yeah,爱能改变一个人~"
 
 
 
     scene acg_final_1_90 with tstmgr
 
-    c "No, love only makes people stupid."
+    c "不, 爱情只会让人变蠢."
 
 
 
     scene acg_final_1_91 with tstmgr
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
 
     scene acg_final_1_92 with tstmgr
 
-    player "Come here, give your husband a kiss~"
+    player "来这里,给你的丈夫一个吻~"
 
 
 
-    c "*Kissing* Wuuuuummm~~~ [P]~~~"
+    c "*亲吻* Wuuuuummm~~~ [P]~~~"
 
 
 
-    c "Wuum~~ love you~~ uuummm~~~"
+    c "Wuum~~ 爱你~~ uuummm~~~"
 
 
 
     scene acg_final_1_93 with tstmgr
 
-    player "Did you use a new lipstick? It tastes better."
+    player "你用了新的唇膏吗?它的味道更好l."
 
 
 
-    c "Ha, Uno bet that you wouldn’t find it~"
+    c "Ha,乌诺打赌,你不会找到它的~"
 
 
 
-    c "Let’s go to dinner. You must be hungry by now~"
+    c "我们去吃饭吧.你现在一定很饿了~"
 
 
 
-    player "Whatever you say, my dear wife~"
+    player "不管怎么样,亲爱的~"
 
 
 
@@ -1378,35 +1377,35 @@ label ACG_final_1:
 
 
 
-    "Later that night... ..."
+    "稍后的晚上... ..."
 
 
 
     scene acg_final_1_94 with dissolve
 
-    "After a tiring day at work, the master of the house is enjoying a relaxing moment with his beloved wives."
+    "经过一天劳累的工作,主人正在和他心爱的妻子们享受轻松的时刻."
 
 
 
-    "Even after they got pregnant, the wives are still eager to serve their mutual husband with their plumpy body."
+    "即使在她们怀孕之后,妻子们仍然渴望用她们丰满的身体为她们共同的丈夫服务."
 
 
 
-    "The master of the house is resting his head on Vera’s huge tits and sucking Theodora’s nipple at the same time."
+    "主人把头靠在薇拉的巨乳上,同时吮吸着狄奥多拉的乳头.."
 
 
 
-    player "Zimm... summmmm... ... I think the milk is about to come out~"
+    player "Zimm... summmmm... ... 我想奶汁就要出来了~"
 
 
 
-    c "Stop lying to yourself~ It’s still too early. You need to wait for at least another month for that~"
+    c "不要再自欺欺人了~现在还太早.你至少需要再等一个月才行.~"
 
 
 
     scene acg_final_1_95 with tstmgr
 
-    g "Master is a big baby who wants nothing but milk! Master is so childish~"
+    g "主人像个大孩子,除了奶水什么都不要! 主人太可爱了~"
 
 
 
@@ -1416,49 +1415,49 @@ label ACG_final_1:
 
     scene acg_final_1_96 with tstmgr
 
-    player "How dare you to make fun of your master?"
+    player "竟敢取笑你的主人?"
 
 
 
-    g "Awwwwwwww~~~~ Sorry~~~~~"
+    g "Awwwwwwww~~~~ 对不起~~~~~"
 
 
 
-    player "And now I’m ordering you to join me."
+    player "现在我命令你加入我."
 
 
 
     scene acg_final_1_97 with tstmgr
 
-    g "Awwwwwwuuummm~~~~ Theo~~ huuumm~~~ sorry~~~"
+    g "Awwwwwwuuummm~~~~ 西奥~~ huuumm~~~ 对不起~~~"
 
 
 
-    c "Ahhhhhh~~~ Nipples... are being sucked by two babies at the same time... ... "
+    c "Ahhhhhh~~~ 乳头......被两个小孩同时吮吸......."
 
 
 
-    g "Theo’s nipples... so tasty~~~"
+    g "西奥的乳头......太棒了~~~"
 
 
 
     scene acg_final_1_98 with tstmgr
 
-    c "Ohhh... hhhh~~~~ This feels so great... Yes, yes~~ Suck me more~~"
+    c "Ohhh... hhhh~~~~ 这感觉太棒了... 对, 对~~ 多吸我一点~~"
 
 
 
-    a "Theo looks so enjoying... ..."
+    a "西奥看起来那么享受... ..."
 
 
 
     scene acg_final_1_99 with tstmgr
 
-    "Well, this is how we spend every night together. The three girls still recognize themselves as my titty slaves after we got married and they are willing to do everything to please me with their huge tits."
+    "好吧,我们就是这样一起度过每个夜晚的.我们结婚后,这三个女孩仍然承认自己是我的乳奴,她们愿意用自己的巨乳来取悦我,做一切事情."
 
 
 
-    "They bring me unimaginable joy every day and they are happy just to see me happy. I can’t imagine to live a life without them anymore."
+    "她们每天都给我带来难以想象的快乐,只要看到我开心,她们就很高兴.我无法想象没有她们的生活会是怎样的.."
 
 
 
@@ -1470,59 +1469,59 @@ label ACG_final_1:
 
     scene acg_final_1_100 with tstmgr
 
-    c "So, master, tonight, are you ready to satisfy us?"
+    c "所以,主人,今晚,你准备好满足我们了吗??"
 
 
 
-    player "Of course~~"
+    player "当然~~"
 
 
 
-    "Ah... yeah, the night has just begun~"
+    "Ah... yeah, 夜晚才刚刚开始~"
 
 
 
-    "They have all entered the second trimester of pregnancy, which means they are okay to have sex again."
+    "她们都已经进入了怀孕的第六个月,这意味着她们可以再次做爱了."
 
 
 
     scene acg_final_1_101 with tstmgr
 
-    g "Uno will take the first round~"
+    g "乌诺是第一个~"
 
 
 
     scene acg_final_1_102 with tstmgr
 
-    "Uno wiggled her big ass and came closer to me."
+    "乌诺扭着丰满的屁股,向我走来."
 
 
 
-    c "Why do you always be the first one?"
+    c "为什么你总是第一个?"
 
 
 
     scene acg_final_1_103 with tstmgr
 
-    g "Because I am the youngest~ The little sister always gets some privileges."
+    g "因为我是最小的~小妹妹总是能得到一些特权."
 
 
 
     scene acg_final_1_104 with tstmgr
 
-    g "Irene told me that~"
+    g "这是艾琳告诉我的~"
 
 
 
     scene acg_final_1_103 with tstmgr
 
-    c "Huh, tell me about it... ..."
+    c "Huh, 告诉我... ..."
 
 
 
     scene acg_final_1_105 with tstmgr
 
-    player "Alright, stop showing off your big butt~ Let me help you~"
+    player "好了,别再炫耀你的大屁股了,我来帮你吧~"
 
 
 
@@ -1540,17 +1539,17 @@ label ACG_final_1:
 
     scene acg_final_1_107 with tstmgr
 
-    g "Ha~ Master’s penis is inside me like a key in the lock~"
+    g "Ha~ 主人的阴茎在我体内就像一把钥匙在锁里一样~"
 
 
 
     scene acg_final_1_108 with tstmgr
 
-    g "Please let me know if I am too heavy for this position, master~"
+    g "请让我知道,我是个很好的锁,主人~"
 
 
 
-    player "Don’t worry, you are fine."
+    player "不要担心, 你很好."
 
 
 
@@ -1560,39 +1559,39 @@ label ACG_final_1:
 
 
 
-    g "Master~~~ Ohhhhh~~~ master~~~ so strong~"
+    g "主人~~~ Ohhhhh~~~ 主人~~~ 太厉害了~"
 
 
 
-    "Uno's huge tits are bouncing on my arms as I fuck her. Those soft heavy meat hammers turned me so on~~"
+    "在我操她的时候,乌诺的巨乳在我的手臂上跳动.那些柔软沉重的肉锤让我兴奋~~"
 
 
 
-    g "Master~~~ master's penis is keeping getting bigger~~~"
+    g "主人~~~主人的阴茎在不断变大~~~"
 
 
 
-    g "This is so good... ohhh~~~ soo good~~~"
+    g "这真好......哦~~~~真好~~~~"
 
 
 
-    g "I am much heavier than before, but master can still carry me so easily."
+    g "我比以前重多了,但主人还是能很轻松地抱着我."
 
 
 
-    g "I feel... so light~"
+    g "我感觉......好轻~"
 
 
 
-    g "Ohhh~~ I love it so much~~ Haaahhhhh~~~~"
+    g "哦~~~我太喜欢了~~~哈哈~~~~~~"
 
 
 
-    g "Master~~ master~~ this is so great~~~"
+    g "主人~~主人~~这真是太棒了~~~"
 
 
 
-    g "Ahhhhhhh... ... hhhh... ... yes... ... ohhhh~~~"
+    g "Ahhhhhhh... ... hhhh... ... 太棒了... ... ohhhh~~~"
 
 
     stop sound
@@ -1602,27 +1601,27 @@ label ACG_final_1:
 
 
 
-    player "You have such a lewd body, Uno. Everything about you is so meaty and juicy~"
+    player "你有如此淫荡的身体,乌诺.你的一切都那么淫乱,那么骚浪~"
 
 
 
-    g "I am... master’s chubby piggy~~"
+    g "我是......主人的小胖猪~~"
 
 
 
-    g "Oink~~ oink~~ I am a slutty piggy~~"
+    g "Oink~~ oink~~我是一只淫荡的猪~~"
 
 
 
-    "Well, after she got pregnant, she stopped playing the cat role and became obsessive about playing as a pig."
+    "嗯,在她怀孕后,她不再扮演猫的角色,而开始痴迷于扮演猪."
 
 
 
-    "That’s... even more lewd, to be honest."
+    "那是......更淫荡了,说实话."
 
 
 
-    g "Oink~ oink~ Master is bringing me to the heaven again~~"
+    g "Oink~~ oink~~主人又把我带到天堂了~~"
 
 
     stop sound
@@ -1634,17 +1633,17 @@ label ACG_final_1:
 
 
 
-    g "Master... ... master is squirting so much milk inside me~"
+    g "主人... ... 主人在我体内射了那么多的精液牛奶~"
 
 
 
     scene acg_final_1_112 with tstmgr
 
-    c "Uh-huh, you got that orgasm face again, you shameless pig!"
+    c "Uh-huh, 你又要高潮了吗,你这个不知羞耻的母猪!"
 
 
 
-    g "Theo... ... oink~~"
+    g "西奥... ... oink~~"
 
 
 
@@ -1664,7 +1663,7 @@ label ACG_final_1:
 
     scene acg_final_1_115 with tstmgr
 
-    c "Hah! You fat pig! You got so excited when I slap you and insult you, right? You are so helpless~"
+    c "Hah! 你的大鸡巴! 每当我打你,羞辱你的时候,你很兴奋,对吗?你是如此无助~"
 
 
 
@@ -1676,7 +1675,7 @@ label ACG_final_1:
 
 
 
-    g "Theo~~~ I... I’m going to cum again~~~"
+    g "西奥~~~ 我... 我又要去了~~~"
 
 
 
@@ -1688,21 +1687,21 @@ label ACG_final_1:
 
 
 
-    "Theo really knows how to make Uno hyped. Uno orgasmed even wilder than one minute ago."
+    "西奥真的知道如何让乌诺兴奋起来.乌诺的高潮比一分钟前还要狂野."
 
 
 
     scene acg_final_1_117 with tstmgr
 
-    g "Thank you... Theo~~ You are really the kindest person I have ever known~"
+    g "谢谢你...... 西奥~~你真的是我所认识的最善良的人~"
 
 
 
-    c "Uh, you are welcome. I just happen to be good at being ‘kind’ to people~"
+    c "呃,不客气.我只是碰巧擅长对人'好心'而已~"
 
 
 
-    c "Now move your ass up. It’s my turn."
+    c "现在把你的屁股挪开.轮到我了."
 
 
 
@@ -1728,31 +1727,31 @@ label ACG_final_1:
 
 
 
-    c "The dirty cock... with Uno’s fluid and [P]’s cum... in my wet pussy~~~"
+    c "肮脏的鸡巴......带着乌诺的爱液和[P]的精液......在我潮湿的小穴里~~~"
 
 
 
-    "Theodora’s sexual desire became extremely high after she got pregnant. She doesn’t need any foreplay to turn herself on, so I just skipped that part and began fucking straightforwardly."
+    "狄奥多拉怀孕后,性欲变得异常旺盛.她不需要任何前戏就能让自己兴奋起来,所以我直接跳过前戏部分,直接开干."
 
 
 
-    "I can’t move so fast since she is pregnant, but she still enjoys my every thrust very much."
+    "由于她怀孕了,我的动作不能那么快,但她还是非常享受我的每一次插入."
 
 
 
-    c "Yes~ yes~~ fuck my pussy like that~ ohhhhh~~ yes~~~"
+    c "是的~是的~~这样操我的小穴~~哦~~是的~~~"
 
 
 
-    "Her oversize breasts are bouncing like crazy. Damn... I really love to see tits bouncing, now their tits got huger than before and that makes the bounce even more breathtaking."
+    "她那丰满的奶子疯狂地跳动着.该死的... 我真的很喜欢看奶子的甩动,现在她们的奶子比以前更丰满了,这使得甩动更加令人惊叹."
 
 
 
-    c "Awwww~~ I can think about nothing but your cock in my head~~~ How can a horny sex slave be a good mother? Awwwwwwww~~~~ How am I going to survive without you~~"
+    c "啊啊啊~~我脑子里除了你的鸡巴,什么都想不出来~~~一个好色的性奴怎么可能是个好妈妈?Awwwwwwww~~~~,没有你,我怎么生存下去~~"
 
 
 
-    player "Theo... ..."
+    player "西奥... ..."
 
 
     stop sound
@@ -1762,35 +1761,35 @@ label ACG_final_1:
 
 
 
-    c "[P]~~~ [P]~~~ fuck me~~ fuck me harder~~~"
+    c "[P]~~~ [P]~~~ 操我~~ 用力的操我~~~"
 
 
 
-    c "My lewd body... my fat lewd body... is all yours~~~"
+    c "我淫荡的身体......我丰满淫荡的身体......都是你的~~~"
 
 
 
-    c "Come on, filled my wet pussy with your cum like you always do~~~ please~~"
+    c "来吧,用你的精液填满我湿润的小穴,就像你一直做的那样~~~求求你了~~"
 
 
 
-    player "I will, Theo!"
+    player "我会的, 西奥!"
 
 
 
-    c "Awwwwww~ I love you~~ [P]~~ I love you so much~~~"
+    c "Awwwwww~ 我爱你~~ [P]~~ 我好爱你~~~"
 
 
 
-    "Theo doesn’t hesitate to express her feeling anymore. She has become much more outgoing after the four of us live together."
+    "西奥 她不再犹豫不决地表达自己的感受.我们四个人住在一起后,她变得更加外向了.."
 
 
 
-    player "I love you too, Theo... ... I'm about cumming!"
+    player "我也爱你, 西奥... ... 我要射给你了!"
 
 
 
-    c "Let’s cum together!"
+    c "让我们一起去吧!"
 
 
 
@@ -1803,17 +1802,17 @@ label ACG_final_1:
 
 
 
-    "That was a great orgasm. I came a lot in her deepest area. Let’s hope we didn’t interrupt the baby."
+    "这是一个很棒的高潮.我在她最深的地方射了很多.希望我们没有打扰到孩子的成长."
 
 
 
     scene acg_final_1_122 with tstmgr
 
-    player "People said a mother is very likely to have the colostrum after a sexual orgasm. Let’s have a try~"
+    player "人们说,母亲在性高潮后很可能会有初乳的出现.让我们来试一试~"
 
 
 
-    c "What?... ..."
+    c "什么?... ..."
 
 
 
@@ -1843,7 +1842,7 @@ label ACG_final_1:
 
     scene acg_final_1_125 with tstmgr
 
-    c "Awwwwww~~ I told you it was too early yet~~~"
+    c "Awwwwww~~ 我告诉过你现在还太早了~~~"
 
 
 
@@ -1873,31 +1872,31 @@ label ACG_final_1:
 
     scene acg_final_1_126 with tstmgr
 
-    player "Whatever~ it’s fun to just play these fun bags anyway~"
+    player "管他呢~反正玩这些好玩的包包很有意思.~"
 
 
 
     scene acg_final_1_125 with tstmgr
 
-    c "Fuck you... ..."
+    c "去你的... ..."
 
 
 
     scene acg_final_1_123 with tstmgr
 
-    g "Knock, knock, Theo’s baby~~ Remember to cover your ears up~ Your mommy loves to say F-word. Don't be like her when you grow up~"
+    g "咚咚咚,西奥的宝贝~~记得把耳朵捂起来~~你妈妈喜欢说脏话.你长大了可别学她啊~"
 
 
 
-    g "Don't be scared, Auntie Uno is here~~"
+    g "别怕,乌诺阿姨来了~~"
 
 
 
-    g "*Kissing Theo’s belly* Mua~~~ Mua~~~"
+    g "*亲吻西奥的肚子* Mua~~~ Mua~~~"
 
 
 
-    c "What’s the wrong with you... ..."
+    c "你这是怎么了......"
 
 
 
@@ -1907,35 +1906,35 @@ label ACG_final_1:
 
 
 
-    "Vera kept silence during the whole time I had fun with Theo and Uno. She is a dedicated person who never competes with others and is willing to be the last one in the line."
+    "薇拉在我与西奥和乌诺一起玩耍的整个过程中保持沉默.她是一个专心致志的人,从不与人竞争,愿意做队伍中的最后一名."
 
 
 
-    "Even if she wants something as much as the others, she would patiently wait until her turn."
+    "即使她和其他人一样想要什么,她也会耐心地等待,直到轮到自己."
 
 
 
-    "Being too kind is actually a weakness. People would take advantage at her all the time. "
+    "太善良其实是一个弱点.人们会一直在她那里占便宜."
 
 
 
-    "But luckily, no one will take advantage at her in this family."
+    "但幸运的是,在这个家里没有人会占她的便宜."
 
 
 
     scene acg_final_1_128 with tstmgr
 
-    c "Sorry to make you wait so long, Vera~"
+    c "对不起,让你等了这么久,薇拉~"
 
 
 
-    a "Oh, it’s okay, don’t worry about me."
+    a "哦,没关系,不用担心我.."
 
 
 
     scene acg_final_1_129 with tstmgr
 
-    g "Mama Vera! Kiss!"
+    g "薇拉妈妈! 亲亲!"
 
 
 
@@ -1947,13 +1946,13 @@ label ACG_final_1:
 
     scene acg_final_1_131 with tstmgr
 
-    a "Oh, thanks for... that."
+    a "Oh, 谢谢...那."
 
 
 
     scene acg_final_1_132 with tstmgr
 
-    c "Alright sweetie, now it’s your turn. Just lie yourself down~"
+    c "好了,亲爱的,现在轮到你了.躺下吧~"
 
 
 
@@ -1967,21 +1966,21 @@ label ACG_final_1:
 
     $ flashlight()
 
-    c "Go get her, [P]~ bring her the pleasure that we felt."
+    c "去吧,[P]~把我们感受到的快乐带给她."
 
 
 
-    g "Come on, master!~ Mama Vera is waiting!~"
+    g "来吧,主人！~薇拉妈妈在等着呢！~"
 
 
 
     scene acg_final_1_134 with tstmgr
 
-    a "*Smiling* ... ... ... ..."
+    a "*笑容满面* ... ... ... ..."
 
 
 
-    player "You don’t even need to ask~"
+    player "你根本不需要问~"
 
 
 
@@ -1997,43 +1996,43 @@ label ACG_final_1:
 
 
 
-    "Theodora and Uno took Vera’s hands while I started fucking her. It’s not because they want to restrict her from escaping, they just want to feel what Vera feels."
+    "狄奥多拉和乌诺拉着薇拉的手,而我开始操她.这不是因为她们想限制她逃跑,她们只是想感受一下薇拉的感受."
 
 
 
-    a "Awwww... ... you guys... ..."
+    a "啊呀............你们......"
 
 
 
-    "Vera’s boobs are waving so hard as I move. This makes my dick even harder~"
+    "随着我的动作,薇拉的胸脯挥舞得很厉害.这让我的小弟弟更硬了~"
 
 
 
-    a "[P]’s sticky cock... awwww~~ so hot~~~"
+    a "[P]的粘稠的鸡巴......啊呜~~好热~~"
 
 
 
-    g "Mama Vera looks so happy."
+    g "薇拉妈妈看起来很开心."
 
 
 
-    c "Make her happier, [P]~"
+    c "让她更开心, [P]~"
 
 
 
-    player "I’m trying~~"
+    player "当然~~"
 
 
 
-    a "Awwww~~ my love... and my sisters... ... I am so happy~~~"
+    a "Awwww~~我的爱人......还有我的姐妹们......我太高兴了~~~"
 
 
 
-    c "We can feel you, Vera. Just moan out and let loose of your mind, immersing yourself in his cock~"
+    c "我们能感觉到你,薇拉.只要叫出来,放开你的思想,沉浸在他的鸡巴里~"
 
 
 
-    g "We are all here with you, Mama Vera~"
+    g "我们都在这里陪你,薇拉妈妈~"
 
 
     stop sound
@@ -2043,31 +2042,31 @@ label ACG_final_1:
 
 
 
-    a "Ohhhhhh~~~ yes~~ yes~~ that energetic cock~~~"
+    a "Ohhhhhh~~~ 是的~~是的~~那精力充沛的鸡巴~~"
 
 
 
-    a "This is soooooo good~~~"
+    a "这真是太爽了~~~"
 
 
 
-    a "I can feel how much you love me by your powerful moves~~~"
+    a "我可以从你有力的动作中感受到你有多爱我~~~"
 
 
 
-    player "Yes, Vera, I love you so much~"
+    player "是的, 薇拉, 我爱你~"
 
 
 
-    g "Me too! We all love Mama Vera!~"
+    g "我也是! 我们都爱薇拉妈妈!~"
 
 
 
-    a "Awwwwwww~~~ I’m so happy~~~"
+    a "Awwwwwww~~~ 我好开心~~~"
 
 
 
-    player "I’m cumming!!~"
+    player "我要高潮了!!~"
 
 
     stop sound
@@ -2079,23 +2078,23 @@ label ACG_final_1:
 
 
 
-    "I ejaculated my last load in her pussy... as a good finish of tonight’s sex party."
+    "我在她的小穴里射出了我的最后一发子弹......作为今晚性爱派对的一个完美落幕."
 
 
 
-    c "What a magnificent orgasm~"
+    c "多么壮观的高潮啊~"
 
 
 
-    g "Master made the three of us so satisfied tonight, like every night, like all the nights~"
+    g "主人今晚让我们三个人都很舒服,就像每天晚上一样,就像所有的晚上一样~"
 
 
 
-    "Yep, this is just... another normal night of my endless harem life~"
+    "是的,这只是......我无尽的后宫生活中又一个普通的夜晚~"
 
 
 
-    "Now my wives’ pussies are all filled with my white cum. It is time to rest."
+    "现在我妻子们的小穴都被我的白色精液填满了.是时候休息了."
 
 
 
@@ -2105,31 +2104,31 @@ label ACG_final_1:
 
 
 
-    "Sometime later, on the bed..."
+    "稍后,在床上..."
 
 
 
     scene acg_final_1_138 with dissolve
 
-    player "You know, sometimes I would ask myself... ... will I really be a good dad. I don’t think I’m ready for this whole child-educating thing."
+    player "你们知道,有时我会问自己......我真的会成为一个好爸爸吗?我不认为我已经准备好接受教育孩子的这件事.."
 
 
 
     scene acg_final_1_139 with tstmgr
 
-    a "No one can say it is ready for being a parent before the day actually comes. Let’s just... try our best."
+    a "在这一天真正到来之前,没有人可以说自己已经准备好做父母了.我们只是......尽力而为吧."
 
 
 
     scene acg_final_1_140 with tstmgr
 
-    c "At least you won’t be worse than my dad. That jerk abandoned his family, you won’t do that, right?"
+    c "至少你不会比我爸爸更糟.那个混蛋抛弃了他的家人,你不会这样做的,对吗??"
 
 
 
     scene acg_final_1_141 with tstmgr
 
-    player "Shit, of course I won’t do that. To be with the three of you is the greatest luck in my life. I will treasure this luck forever."
+    player "我当然不会这么做.能和你们三个在一起是我一生中最大的幸运.我将永远珍惜这份幸运."
 
 
 
@@ -2141,123 +2140,123 @@ label ACG_final_1:
 
     scene acg_final_1_143 with tstmgr
 
-    a "It’s not really about... luck."
+    a "这并不是真的要......运气."
 
 
 
     scene acg_final_1_144 with tstmgr
 
-    c "Yeah, we love you because you deserve our loves, not because you are lucky. We don’t just fall in love with a random ‘lucky’ guy."
+    c "Yeah, 我们爱你是因为你值得我们爱,而不是因为你很幸运.我们不会随便爱上一个 ’幸运 ’的人.."
 
 
 
     scene acg_final_1_145 with tstmgr
 
-    g "Master is the most charming man in the world!~"
+    g "主人是世界上最有魅力的人!~"
 
 
 
     scene acg_final_1_146 with tstmgr
 
-    a "The most thoughtful one too~"
+    a "也是最贴心的一个~"
 
 
 
     scene acg_final_1_147 with tstmgr
 
-    c "And you have great performance on bed, that’s a great bonus."
+    c "而且你在床上很厉害,这是个很好的奖励"
 
 
 
-    g "Yeah, master got a magical dick!"
+    g "是的,主人有根很厉害的魔法棒！"
 
 
 
     scene acg_final_1_148 with tstmgr
 
-    player "Babes... ..."
+    player "孩子们... ..."
 
 
 
     scene acg_final_1_149 with tstmgr
 
-    a "And don’t worry about the babies. They will have the love from three mothers and one father, and they will grow up with two same-aged siblings... ..."
+    a "而且不用担心孩子.她们将有来自三个母亲和一个父亲的爱,她们将和两个同龄的兄弟姐妹一起成长......"
 
 
 
-    g "They are going to be the happiest kids in the world!"
+    g "她们将成为世界上最幸福的孩子！"
 
 
 
     scene acg_final_1_150 with tstmgr
 
-    c "Siblings are annoying most of time... ..."
+    c "兄弟姐妹们大多数时候都很烦人... ..."
 
 
 
     scene acg_final_1_151 with tstmgr
 
-    c "But... something is better than nothing~"
+    c "但是......有总比没有好~"
 
 
 
     scene acg_final_1_152 with tstmgr
 
-    player "Well, then I guess you girls need to be prepared to be mothers too~"
+    player "好吧,那么我想你们这些女孩也需要做好做母亲的准备~"
 
 
 
-    player "How about starting with wearing something in the house again? I mean, what if you get a cold? Think about the babies."
+    player "在从家里穿上衣服开始怎么样?我是说,如果你感冒了怎么办?为孩子们想想吧."
 
 
 
     scene acg_final_1_153 with tstmgr
 
-    c "The air conditioner is on everyday so... we won’t get cold."
+    c "空调每天都开着,所以......我们不会觉得冷."
 
 
 
     scene acg_final_1_154 with tstmgr
 
-    player "And do you know how much money we have to spend on electricity every month?"
+    player "那你知道我们每个月要花多少钱在电费上吗??"
 
 
 
     scene acg_final_1_155 with tstmgr
 
-    c "Well, no one forced you to marry three wives. You made your own decision, so you have to take the responsibility and be prepared to spend all your money on us~"
+    c "好吧,没有人强迫你娶三个妻子.你自己做了决定,所以你必须承担起责任,并准备把你的钱都花在我们身上.~"
 
 
 
     scene acg_final_1_156 with tstmgr
 
-    player "Ha... fair enough..."
+    player "Ha... 有道理..."
 
 
 
     scene acg_final_1_157 with tstmgr
 
-    c "And soon there will be three mouths more waiting to be fed~~~ Babies are expensive, you have to work harder to provide them a best life~"
+    c "很快就会多三张嘴等着被喂养~~~养孩子可是很贵的,你必须更努力地工作,为她们提供一个最好的生活.~"
 
 
 
-    player "I will try my best."
+    player "一定会的."
 
 
 
     scene acg_final_1_158 with tstmgr
 
-    player "Good night, girls."
+    player "晚安, 女孩们."
 
 
 
     scene acg_final_1_159 with tstmgr
 
-    "Girls" "Good night, [P]~"
+    "Girls" "晚安, [P]~"
 
 
 
-    a "We will... see each other later... in the dream~"
+    a "我们将......再见面......在梦中~"
 
 
 

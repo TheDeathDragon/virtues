@@ -10,23 +10,23 @@ label beach_afternoon_F_1:
 
     scene beach_afternoon_f_1_2 with tstmgr
 
-    f "What is it, [P]?"
+    f "怎么了, [P]?"
 
 
 
-    player "Your swimsuit, why did you buy such a swimsuit?"
+    player "你的泳装,你为什么要买这样的泳装?"
 
 
 
     scene beach_afternoon_f_1_3 with tstmgr
 
-    f "This one on my body?"
+    f "我身上的这个?"
 
 
 
     scene beach_afternoon_f_1_4 with tstmgr
 
-    f "Because it looks like a V, V for victory!~ It will bring me good luck~"
+    f "因为它看起来像一个V,V代表VICTORY!~它将给我带来好运~"
 
 
 
@@ -36,21 +36,21 @@ label beach_afternoon_F_1:
 
     scene beach_afternoon_f_1_5 with tstmgr
 
-    f "What’s wrong with my swimsuit?"
+    f "我的泳装有什么问题?"
 
 
 
-    player "Nothing, it looks super beautiful and sexy on you... ..."
+    player "没什么,你穿上它看起来超级漂亮和性感... ..."
 
 
 
     scene beach_afternoon_f_1_6 with tstmgr
 
-    f "Really? I am sexy?"
+    f "真的? 我,性感?"
 
 
 
-    f "Awwwwww~ Thanks for saying that~~~~"
+    f "Awwwwww~ 谢谢夸奖~~~~"
 
 
 

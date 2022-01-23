@@ -10,19 +10,19 @@ label bnb_bathroom_morning_A_1:
 
 
 
-    player "Sorry, I didn't know you are in here."
+    player "对不起,我不知道你在这里."
 
 
 
-    a "I'll be done in a minute. Please... wait outside."
+    a "我马上就好.请...在外面等一会."
 
 
 
-    player "Okay, of course, take your time."
+    player "Okay,当然,不着急."
 
 
 
-    "I left the room."
+    "我离开了房间."
 
 
 

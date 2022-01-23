@@ -2,41 +2,41 @@ label park_exercise_morning_F_1:
 
     scene void with tstmgr
 
-    "I encountered with Rachel in the park this morning."
+    "我今天早上在公园碰到瑞秋."
 
 
 
     scene f_wood_smile2 with tstmgr
 
-    f "Hi there, my friend. I’m going for a jog. Are you with me?"
+    f "嗨,我的朋友.我要去慢跑.你要和我一起吗?"
 
 
 
-    player "Eh... ... yeah, sure."
+    player "Eh......yeah,当然."
 
 
 
     scene f_wood_frown with tstmgr
 
-    f "Why do you sound like you are already tired?"
+    f "为什么听起来你已经很累了?"
 
 
 
-    f "Are you not happy hanging with me?"
+    f "你不喜欢和我在一起吗?"
 
 
 
-    player "No... absolutely not... ..."
+    player "不...绝对不是......"
 
 
 
-    player "It's just... too early. I'm still half asleep."
+    player "它只是...太早了.我还有点迷糊."
 
 
 
     scene f_wood_wink with tstmgr
 
-    f "Oh, okay. Don't worry, you will feel better after a 20-minute jogging."
+    f "Oh,okay.别担心,慢跑20分钟后你会感觉好些的."
 
 
 

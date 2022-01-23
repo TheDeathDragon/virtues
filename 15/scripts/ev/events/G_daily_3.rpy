@@ -3,43 +3,43 @@ label G_daily_3:
     scene myroom_original_background with tstmgr
     play music sorrow
 
-    "*Knock, knock, knock.*"
+    "*咚,咚,咚.*"
 
-    player "The door isn't locked, come in."
+    player "门没锁,进来吧."
 
     "... ... ... ..."
 
     g "Hi, [P]."
 
-    player "Uno? Anything I can help you with?"
+    player "乌诺?有什么我能帮你的吗?"
 
     g "... ... ... ..."
 
-    g "I want to show you a video."
+    g "我想给你看一段视频."
 
-    player "A video?"
+    player "一段视频?"
 
-    player "Eh, sure. What is it about?"
+    player "Eh,好吧,关于什么的?"
 
-    g "My porn."
+    g "我的色情片."
 
     player "... ... ... ..."
 
     player "... ... the fuck?"
 
-    player "This is so weird. Are you serious?"
+    player "这太奇怪了.你是认真的?"
 
-    "Uno nodded her head as an answer."
+    "乌诺点点头作为回答."
 
-    g "You are the only one who knows this secret of mine. So... I guess you are the only one who can give me some advice."
+    g "你是唯一知道我这个秘密的人.所以...我想你是唯一能给我一些建议的人."
 
-    player "(Swallowing)... ... ... ..."
+    player "(吞咽)............"
 
-    "What am I now? A porn filming advisor?"
+    "我现在是什么?色情拍摄顾问?"
 
-    "Well, that sounds not bad, to be honest."
+    "Well,老实说,听起来不错."
 
-    player "O... Okay, then."
+    player "好...好吧."
 
     scene void with dissolve
 
@@ -77,109 +77,109 @@ label G_daily_3:
 
     scene void with dissolve
 
-    "Video ends."
+    "视频结束."
 
     scene g_daily3_2 with tstmgr
 
     "... ... ... ..."
 
-    g "Any comment?"
+    g "有什么想说的吗?"
 
-    player "Ehhhh... how should I put this.."
+    player "Ehhhh...我该怎么说呢.."
 
-    player "It's... a nice video, but not a nice porn."
+    player "这...视频不错,但不是一个好的色情片."
 
     scene g_daily3_3 with tstmgr
 
-    player "See, there are tons of free porn videos on the internet, if you want to stand out from the competition, you need to show something more than just... general breasts-touching. Do you know what I mean?"
+    player "你看,互联网上有成千上万的免费色情视频,如果你想在竞争中脱颖而出,你需要展示的不仅仅是...胸部揉弄.你明白我的意思吗?"
 
     scene g_daily3_4 with tstmgr
 
-    g "You are suggesting me to do something more... explicit?"
+    g "你是在建议我拍的更...色情一点?"
 
-    player "Yeah, such as a masturbation. People love to watch that."
+    player "Yeah,比如手淫.人们喜欢看这个."
 
     scene g_daily3_5 with tstmgr
 
     g "... ... ... ..."
 
-    g "But I don't want to shoot that sort of thing. "
+    g "但我不想拍那种东西."
 
-    g "I don't want to, let people see my... pussy."
+    g "我不想拍摄我的...阴部."
 
-    player "Uh... you feel embarrassed about it?"
+    player "Uh...你为此感到尴尬?"
 
     scene g_daily3_4 with tstmgr
 
-    "Uno nodded again."
+    "乌诺又点了点头."
 
-    player "So you'll play with your bare breasts for the whole world to see...but touching yourself a bit is off limits?"
+    player "你拍了不止一个关于你的裸胸的视频,但你不知怎么地对拍摄手淫感到尴尬?"
 
-    player "I must say it's a bit hard to follow your logic, girl."
+    player "我不得不说,这对我来说很难理解,女孩."
 
     scene g_daily3_5 with tstmgr
 
     g "... ... ... ..."
 
-    player "But nevermind, there is another way which can dramatically improve your videos."
+    player "不过没关系,还有另一种方法可以极大地改善你的视频质量."
 
     scene g_daily3_6 with tstmgr
 
-    g "What is it then?"
+    g "是什么?"
 
-    player "Let me join you."
+    player "让我加入你."
 
     g "Ha? "
 
-    player "If you insist to make videos about nothing further than breasts-touching, fine, just let me be the one who touchs your breasts on the cemera."
+    player "如果你坚持拍关于抚摸胸部的视频,就让我在摄像机前抚摸你的胸吧."
 
     scene g_daily3_5 with tstmgr
 
-    g "I'm not sure..."
+    g "我不确定..."
 
     scene g_daily3_3 with tstmgr
 
-    player "It will definitely turn people on when they see it. Besides..."
+    player "当人们看到它时,肯定会兴奋起来."
 
     scene g_daily3_7 with tstmgr
 
-    player "You're already used to my touch, aren't you?"
+    player "何况你已经习惯我的抚摸了,不是吗?"
 
-    g "Stop, you already used your 30 seconds earlier today."
+    g "停,你今天已经摸了30秒了."
 
-    player "Then I will take an advance on tomorrow's limit."
+    player "那我就透支明天的时间."
 
     scene g_daily3_8 with tstmgr
 
-    g "That's... not how it works."
+    g "这...不能这样..."
 
     scene g_daily3_9 with tstmgr
 
-    g "No, stop..."
+    g "不,停下..."
 
-    player "You are expecting this, aren't you?"
+    player "你在期待这个,不是吗?"
 
-    player "You came to my room alone late at night with shis nightgown and show me your erotic video. You're tempting me, right?"
+    player "深夜一个人穿着睡衣来我房间给我看你的色情录像.你在引诱我,对吧?"
 
     scene g_daily3_10 with tstmgr
 
-    g "I... ... ... ..."
+    g "我............"
 
-    player "So, do you accept me showing in your next video?"
+    player "所以,你同意我加入你的下一个视频吗?"
 
     scene g_daily3_11 with tstmgr
 
-    g "Okay, okay, I accept it, now please just let me go."
+    g "Okay,okay,我接受,请让我走吧."
 
-    g "Please..."
+    g "拜托..."
 
-    "She seemed on the verge of tears."
+    "她几乎要掉眼泪了."
 
     player "... ... ... ..."
 
-    player "Relax, I'm just kidding."
+    player "放松点,我只是开个玩笑."
 
-    player "Just... don't cry."
+    player "只是...别哭了."
 
     scene void with tstmgr
 

@@ -3,241 +3,241 @@ label ACG_duo_5:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, there is a strange meeting going on in my bedroom... ..."
+    "深夜,我的卧室里正在进行一场奇怪的会议... ..."
 
 
 
     scene acg_duo_5_1 with dissolve
 
-    c "Alright, this is the first meeting of the family council."
+    c "好了,这是家庭委员会的第一次会议."
 
 
 
-    c "In order to maintain peace and harmony for this little family of ours, such meetings should be held every once in a while."
+    c "为了维护我们这个小家庭的和平与和谐,这样的会议应该每隔一段时间就举行一次.."
 
 
 
-    c "We will use such meetings to solve the family issues and decide the family rules together."
+    c "我们将利用这种会议来解决家庭问题,并共同决定家庭规则."
 
 
 
     scene acg_duo_5_2 with tstmgr
 
-    c "My name is Theodora and it’s my pleasure to take the chair in this first meeting. Nice to meet you all, attendees."
+    c "我叫西奥多拉,很高兴能在第一次会议上担任主席.很高兴见到大家,参会人员们."
 
 
 
     scene acg_duo_5_3 with tstmgr
 
-    a "Nice to meet you too!"
+    a "也很高兴见到你!"
 
 
 
     scene acg_duo_5_4 with tstmgr
 
-    g "Nice to meet you three!"
+    g "很高兴见到你们三个!"
 
 
 
-    player "*Swallowing hard* ... ... ... ..."
+    player "*艰难的吞咽* ... ... ... ..."
 
 
 
-    "Okay, I know this looks like a hilarious skit, but it seems like the three girls are really taking it serious... ..."
+    "好吧,我知道这看起来像一个搞笑的短剧,但看起来这三个女孩真的很认真... ..."
 
 
 
     scene acg_duo_5_5 with tstmgr
 
-    c "Cough, cough, now, dear attendees, shall we begin?"
+    c "咳,咳,现在,亲爱的与会者,我们开始吧?"
 
 
 
-    g "Yes, Theodora looks so professional~"
+    g "是的,西奥多拉看起来很专业~"
 
 
 
     scene acg_duo_5_6 with tstmgr
 
-    c "Hmmmm... ... Am I being too serious?"
+    c "Hmmmm... ... 我是不是太认真了?"
 
 
 
     scene acg_duo_5_7 with tstmgr
 
-    player "A little, yeah... ..."
+    player "有一点,是的... ..."
 
 
 
     scene acg_duo_5_8 with tstmgr
 
-    c "Then you’d better get used to it since you guys wanted me to be the chairwoman~"
+    c "那你最好习惯一下,因为你们想让我当女主席~"
 
 
 
     scene acg_duo_5_9 with tstmgr
 
-    c "Anyway, there is only one topic that we should discuss tonight, which is..."
+    c "总之,今晚我们只应该讨论一个话题,那就是..."
 
 
 
     scene acg_duo_5_10 with tstmgr
 
-    c "The sleeping rule~"
+    c "睡眠规则~"
 
 
 
-    player "The... what?"
+    player "什... 么?"
 
 
 
     scene acg_duo_5_11 with tstmgr
 
-    c "In the other words, we need to discuss about who should sleep with the man in the house everyday?"
+    c "换句话说,我们需要讨论谁应该每天和家里的男人睡觉的问题?"
 
 
 
     scene acg_duo_5_12 with tstmgr
 
-    a "I... I think we can do that in sequence, like... I will do it today, Theo tomorrow, and Uno the day after tomorrow. That must be the fairest way."
+    a "我想我们可以按顺序来做,比如... 我今天做,西奥明天做,乌诺后天做.这一定是最公平的方式."
 
 
 
-    c "I see..."
+    c "emmmm..."
 
 
 
     scene acg_duo_5_13 with tstmgr
 
-    g "I agreed, but... I think we should do that on a weekly basis so we can avoid to sleep with him during our period~"
+    g "我同意,但是... 我认为我们应该每周做一次,这样我们就可以避免在月经期间和他上床."
 
 
 
-    c "Hmmm... that also makes sense."
+    c "Hmmm... 这也说得通."
 
 
 
     scene acg_duo_5_14 with tstmgr
 
-    a "But that means each of us will have to wait for two weeks before sleeping with him again!"
+    a "但这意味着我们每个人都要等上两个星期才能再和他上床!"
 
 
 
-    "Awwww~~ This must be the happiest trouble that a man can ever have! It sounds like they are distributing me like I am a property or something, but... ..."
+    "Awwww~~ T他一定是一个人所能遇到的最幸福的麻烦! 听起来他们好像在分配我,好像我是一个财产或什么,但... ..."
 
 
 
-    "Hell yeah, take me as a property, girls, distribute me as the way you want~"
+    "请务必把我当作财产,女孩们,以你们想要的方式分配我.~"
 
 
 
     scene acg_duo_5_15 with tstmgr
 
-    player "Ehhh... ... Can’t we just sleep together every night?"
+    player "Ehhh... ... 我们就不能每天晚上都睡在一起吗?"
 
 
 
-    "Girls" "... ... ... ..."
+    "姑娘们" "... ... ... ..."
 
 
 
     scene acg_duo_5_16 with tstmgr
 
-    c "Ah... that sounds exactly like something you would say, you greedy bastard."
+    c "啊......这听起来完全像你会说的话,你这个贪婪的混蛋."
 
 
 
     scene acg_duo_5_17 with tstmgr
 
-    g "Yeah, master is too greedy, phewwwww~~~~"
+    g "是的,主人太贪婪了, phewwwww~~~~"
 
 
 
-    player "... ... Nevermind then... ..."
+    player "... ... 那就别管它了... ..."
 
 
 
     scene acg_duo_5_18 with tstmgr
 
-    c "But that will still be counted as one available proposal. Now it’s time to vote~"
+    c "但这仍将被算作一个可用的提案.现在是投票的时候了~"
 
 
 
-    c "Raise your hand if you agree with Vera’s proposal."
+    c "同意薇拉提议的请举手."
 
 
 
     scene acg_duo_5_19 with tstmgr
 
-    "Vera raised her hand."
+    "薇拉举起了她的手."
 
 
 
-    c "Now raise your hand if you agree with Uno’s proposal."
+    c "现在,如果你同意乌诺的提议,请举手.."
 
 
 
     scene acg_duo_5_20 with tstmgr
 
-    "Uno raised her hand."
+    "乌诺举起了她的手."
 
 
 
     scene acg_duo_5_21 with tstmgr
 
-    c "And now raise your hand if you agree with [P]’s proposal."
+    c "现在,如果你同意[P]的提议,请举手."
 
 
 
-    "I raised my hand, of course."
+    "我举起了手,理所当然."
 
 
 
-    c "It seems like we are having a draw here~"
+    c "似乎我们在这里有一个平局~"
 
 
 
-    c "But... ..."
+    c "但是... ..."
 
 
 
     scene acg_duo_5_22 with tstmgr
 
-    "At this moment, Theodora raised her hand too."
+    "这时,西奥多拉也举起了手."
 
 
 
-    "Girls" "?"
+    "姑娘们" "?"
 
 
 
     scene acg_duo_5_23 with tstmgr
 
-    c "Alright~ The final result has been set. [P]’s proposal won~"
+    c "好了~最终结果已经确定.[P]的提案获胜~"
 
 
 
-    a "Theo? Why did you agree with him?"
+    a "西奥?你为什么同意他?"
 
 
 
     scene acg_duo_5_25 with tstmgr
 
-    c "Because I do think his proposal is the most viable one."
+    c "因为我确实认为他的建议是最可行的."
 
 
 
-    c "See, both of you girls kinda understand the original intention of making this sleeping rule wrong."
+    c "看,你们两个女孩都有点明白制定这条睡眠规则的初衷是错误的."
 
 
 
     scene acg_duo_5_24 with tstmgr
 
-    c "We are not here to separate and carve his time up so each of us can have one piece of it exclusively. That might be fair, yes, but that’s against the core tenet of this family, which is sharing."
+    c "我们在这里不是要把他的时间分割开来,以便我们每个人都能独享其中的一部分.这可能是公平的,是的,但这违反了这个家庭的核心宗旨,即分享."
 
 
 
-    c "Sharing everything together and never trying to have anything to oneself, that’s what we should do to avoid jealousy and to keep the family in harmony."
+    c "分享一切,永远不要试图拥有自己单独的东西,这就是我们应该做的,以避免嫉妒,保持家庭和谐."
 
 
 
@@ -249,59 +249,59 @@ label ACG_duo_5:
 
 
 
-    "Awwww~~ I think I’m gonna cry. Theodora is a real angel!"
+    "Awwww~~ 我想我要哭了.西奥多拉是一个真正的天使!"
 
 
 
     scene acg_duo_5_26 with tstmgr
 
-    a "I... I understand now. Thanks for telling us about this, Theo!"
+    a "我现在明白了.谢谢你告诉我们这件事,西奥!"
 
 
 
     scene acg_duo_5_27 with tstmgr
 
-    g "How are we going to live without Theodora’s instruction?... ..."
+    g "没有西奥多拉的指导,我们该如何生活?... ..."
 
 
 
-    c "From now on, we all have the right to sleep with him every night. His bed is big enough for all of us anyway~"
+    c "F从现在开始,我们都有权利每晚和他一起睡.反正他的床对我们所有人来说都足够大~"
 
 
 
-    c "And of course, if any of us wants to have some private space, she can still choose to stay in her room for a night."
+    c "当然,如果我们中的任何一个人想拥有一些私人空间,她仍然可以选择在她的房间里呆上一晚.."
 
 
 
-    player "Eh... ... What if I am the one who wants to have some private space?"
+    player "Eh... ... 如果我是想拥有一些私人空间,怎么办?"
 
 
 
     scene acg_duo_5_28 with tstmgr
 
-    c "Well, you can definitely tell us about your claim. We are all reasonable girls~"
+    c "那么,你肯定可以告诉我们你的主张.我们都是讲道理的女孩~"
 
 
 
-    c "But you will have to make each of us satisfied first, otherwise we won’t allow you to have a rest, even for a single night~"
+    c "但你必须先让我们每个人都满意,否则我们不会允许你休息,哪怕是一个晚上~"
 
 
 
-    c "That's the price you have to pay for your harem ambition~"
+    c "这就是你为你的后宫野心所必须付出的代价~"
 
 
 
-    player "*Swallowing hard* It sounds like a challenge... but okay, I get it~"
+    player "*艰难的吞咽* 这听起来像是个挑战...但好吧,我明白了~"
 
 
 
-    "If I can’t even make the three of them satisfied, I am not eligible for having a harem at all."
+    "如果我连他们三个都不能满足,我根本没有资格拥有后宫."
 
 
 
     scene acg_duo_5_29 with tstmgr
 
-    c "Alright, now, since we have decided the sleeping rule... ..."
+    c "好了,现在,既然我们已经决定了睡眠规则... ..."
 
 
 
@@ -309,15 +309,15 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    c "I think it’s time to sleep~"
+    c "我想是时候睡觉了~"
 
 
 
-    a "Oh... ... yeah... ..."
+    a "Oh... ... 确实... ..."
 
 
 
-    "We are going to... sleep together?"
+    "我们要... ...睡在一起?"
 
 
 
@@ -329,7 +329,7 @@ label ACG_duo_5:
 
 
 
-    g "Wow~ Uno is coming too~"
+    g "Wow~ 乌诺也来了~"
 
 
 
@@ -337,11 +337,11 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    g "Master~ Please give Uno more of your love~"
+    g "主人~请给乌喏更多的爱~"
 
 
 
-    player "Girls... ..."
+    player "姑娘们... ..."
 
 
 
@@ -353,67 +353,67 @@ label ACG_duo_5:
 
     scene acg_duo_5_33 with dissolve
 
-    a "[P]’s wide chest... makes me feel so safe~"
+    a "[P]宽阔的胸膛......让我感到如此的安全~"
 
 
 
-    g "Master’s chest is wide enough for all of us to lay heads on~"
+    g "主人的胸膛很宽,足以让我们所有人的头躺在上面~"
 
 
 
     scene acg_duo_5_34 with tstmgr
 
-    "Oh dear, this feels so amazing. The hot soft bodies of the two gorgeous were pressing against me desperately as if they are trying to become one with me~"
+    "哦,天啊,这感觉太奇妙了.两位美女火热柔软的身体拼命地压在我身上,仿佛要与我融为一体~"
 
 
 
     scene acg_duo_5_35 with tstmgr
 
-    c "Ah... ... Where are your manners, ladies? Don’t be like two dogs that only know to jump on your master's body all the time."
+    c "啊......女士们,你们的礼仪在哪里?不要像两只狗一样,只知道一直扑在主人的身上."
 
 
 
-    g "Woof~ Woof~~"
+    g "汪~ 汪~~"
 
 
 
-    c "You are so hopeless, Uno... ..."
+    c "你真是无药可救,乌诺... ..."
 
 
 
     scene acg_duo_5_36 with tstmgr
 
-    g "Humph~ Master’s dick is my hope~"
+    g "Humph~ 主人的鸡巴是我的药~"
 
 
 
     scene acg_duo_5_37 with tstmgr
 
-    g "Master’s huge dick... huge cute dick~~~"
+    g "主人的巨大鸡巴... ...巨大的可爱鸡巴~~~"
 
 
 
     scene acg_duo_5_38 with tstmgr
 
-    a "I... I want to feel it too... ..."
+    a "我...我也想感受一下... ..."
 
 
 
-    a "[P]’s glans... ... is already covered with sticky fluid~"
+    a "[P]的龟头......已经被粘稠的液体覆盖~"
 
 
 
-    player "Oh... girls, wait... ..."
+    player "哦... ...女孩们,等等... ..."
 
 
 
-    "I’m going to cum in less than two minutes if I let these two soft little hands keep stimulating my dick..."
+    "如果再让这两只柔软的小手继续刺激我的小弟弟,不到两分钟我就要射了... ..."
 
 
 
     scene acg_duo_5_39 with tstmgr
 
-    player "Theo, would you mind to... eh, help me out?"
+    player "西奥,你能不能......呃,帮我一下?"
 
 
 
@@ -425,31 +425,31 @@ label ACG_duo_5:
 
     scene acg_duo_5_41 with tstmgr
 
-    c "Coming~"
+    c "来了~"
 
 
 
     scene acg_duo_5_42 with tstmgr
 
-    c "Alright, you nasty bitches~ Where are your senses of shame? Your big asses are wiggling like whores~"
+    c "好了,你们这些下流的母狗~你们的羞耻感在哪里?你们的大屁股像妓女一样扭动着~"
 
 
 
-    c "Do you want to get penetrated by that dirty cock this bad?"
+    c "你们就这么想被那根肮脏的鸡巴插吗?"
 
 
 
     scene acg_duo_5_43 with tstmgr
 
-    a "Awwwww... ... Theo... ..."
+    a "Awwwww... ... 西奥... ..."
 
 
 
-    g "We... are... master’s bitches~~~"
+    g "我们... 是... 主人的母狗~~~"
 
 
 
-    "Hmmmmm... ... Vera and Uno seemed to become more excited after hearing Theodora’s humiliation."
+    "Hmmmmm... ... 薇拉和乌诺在听到西奥多拉的羞辱后似乎变得更加兴奋了."
 
 
 
@@ -461,13 +461,13 @@ label ACG_duo_5:
 
     scene acg_duo_5_45 with tstmgr
 
-    c "Cough, cough, as the rotating chair of the family council, I have right to punish you for your misbehaviors."
+    c "咳,咳,作为家庭委员会的轮值主席,我有权对你的不端行为进行惩罚."
 
 
 
     scene acg_duo_5_46 with tstmgr
 
-    c "So now... ..."
+    c "所以,现在... ..."
 
 
 
@@ -505,7 +505,7 @@ label ACG_duo_5:
 
 
 
-    a "Ahhhh~~ Wait~~~"
+    a "Ahhhh~~ 等一下~~~"
 
 
 
@@ -559,7 +559,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_52 with tstmgr
 
-    g "Theo~~ You are so mean~~"
+    g "西奥~~ 你太坏了~~"
 
 
 
@@ -579,7 +579,7 @@ label ACG_duo_5:
 
 
 
-    c "Quiet, bitch!"
+    c "安静, 母狗!"
 
 
 
@@ -601,11 +601,11 @@ label ACG_duo_5:
 
     scene acg_duo_5_55 with tstmgr
 
-    a "Why spanking me again? I didn’t say a thing!~"
+    a "为什么又要打我的屁股?我什么都没说!~"
 
 
 
-    c "I can do whatever I want to your wiggling shameless asses~"
+    c "我可以对你们这些扭动的无耻的屁股做任何我想做的事~"
 
 
 
@@ -615,25 +615,25 @@ label ACG_duo_5:
 
 
 
-    a "Theo got too carried away!"
+    a "西奥太得意忘形了!"
 
 
 
     scene acg_duo_5_57 with tstmgr
 
-    g "Yes, Theo is the one that should be punished!"
+    g "是的,西奥才是应该受到惩罚的人!"
 
 
 
     scene acg_duo_5_58 with tstmgr
 
-    "Girls" "*Turning around* ... ... ... ..."
+    "姑娘们" "*转* ... ... ... ..."
 
 
 
     scene acg_duo_5_59 with tstmgr
 
-    c "Hmmmmm? What are you doing?"
+    c "Hmmmmm? 你在搞什么?"
 
 
 
@@ -641,23 +641,23 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    "Vera and Uno pinned Theodora down on the bed..."
+    "薇拉和乌诺将西奥多拉按在床上..."
 
 
 
     scene acg_duo_5_61 with tstmgr
 
-    a "Now it’s our turn, Theo~"
+    a "现在轮到我们了,西奥~"
 
 
 
     scene acg_duo_5_60 with tstmgr
 
-    g "We want to know... what a bitch you will become~"
+    g "我们想知道...你将成为一个什么样的婊子~"
 
 
 
-    c "What are you talking... ..."
+    c "你在说什么呢... ..."
 
 
 
@@ -669,48 +669,48 @@ label ACG_duo_5:
 
 
 
-    c "My nipples!!!~~~~ Don’t bite them!!!~~~~~"
+    c "我的奶头!!!~~~~ 别咬了!!!~~~~~"
 
 
 
     scene acg_duo_5_63 with tstmgr
 
-    a "Theo’s... precious fruit... ..."
+    a "西奥的... 宝贵果实... ..."
 
 
 
     scene acg_duo_5_64 with tstmgr
 
-    a "So tasty... and so bouncy... ..."
+    a "真美味... 真弹... ..."
 
 
 
-    g "*Sucking* Simmmmm~~~ Zummmmmmmm~~~"
+    g "*吮吸* Simmmmm~~~ Zummmmmmmm~~~"
 
 
 
-    g "*Mumbling* Now we know... huuuuuuv~~~ what Theo’s biggest weakness is, she can no longer... zummmmm~~~ pretend to be tough in front of us."
+    g "*嗫嚅* 现在我们知道了...huuuuuuv~~~西奥最大的弱点是什么,她不能再...zummmmm~~~在我们面前装作很坚强了."
 
 
 
-    c "Can you let my nipple go before you talk? Fuck you!"
+    c "在你说话之前,你能放开我的乳头吗?操你妈的!"
 
 
 
     scene acg_duo_5_65 with tstmgr
 
-    g "Stop being tough~~ Theo~~~"
+    g "别再逞强了~~西奥~~~~"
 
 
 
-    g "Yumm yumm yummy~~~"
+    g "好吃,好吃,真好吃~~~"
 
 
 
-    c "*Moaning with lust* Ahh~ huhh~ Please~~ stop... ... I... I will~~ Ohhhh~~~ huuuuhhh~"
+    c "*淫荡的呻吟* 啊~~啊~~请~~停止...I... "
 
 
-    a "Theodora is so cute~~"
+    a "西奥多拉真可爱~~"
 
 
 
@@ -718,12 +718,12 @@ label ACG_duo_5:
 
 
 
-    c "Ahhh~ No~~~ Nipples~~ So numb~~~~ Hhhhhh~~~"
+    c "Ahhh~ 不~~~乳头~~~好麻~~~~ Hhhhhh~~~"
 
 
 
 
-    c "I can’t take it anymore!!!!!"
+    c "我要不行了!!!!!"
 
 
 
@@ -739,17 +739,17 @@ label ACG_duo_5:
 
 
 
-    "Theodora came in the midst of violent trembling and her dirty fluid quirted out of pussy like a fountain~"
+    "西奥多拉在剧烈的颤抖中高潮了,她的淫液像喷泉一样从阴部喷涌而出~"
 
 
 
     scene acg_duo_5_69 with tstmgr
 
-    g "Wow, how could you cum so much by nipple sucking only?"
+    g "哇,你怎么能通过吸奶子射这么多?"
 
 
 
-    a "Theo is definitely the horniest girl I have ever seen... ..."
+    a "西奥绝对是我见过的最淫荡的女孩... ..."
 
 
 
@@ -759,17 +759,17 @@ label ACG_duo_5:
 
     scene acg_duo_5_70 with tstmgr
 
-    g "And now, master, it’s your turn~"
+    g "而现在,主人,轮到你了~"
 
 
 
     scene acg_duo_5_71 with tstmgr
 
-    a "Please bring her the real orgasm... and make her a real bitch~"
+    a "请给她带来真正的高潮...让她成为真正的婊子~"
 
 
 
-    player "Alright, now... ..."
+    player "好吧,现在... ..."
 
 
 
@@ -793,35 +793,35 @@ label ACG_duo_5:
 
 
 
-    c "This is... this is so unfair!~~"
+    c "这不... 这不公平!~~"
 
 
 
-    c "Three of you... verses one of me... ... So despicable!"
+    c "三打一... ... 这太卑鄙了!!"
 
 
 
-    g "No no, we are just trying to give you more pleasure~"
+    g "不,不,我们只是想给你更多的快乐~"
 
 
 
-    a "Yes, we are expressing our gratefulness for our beloved rotating chair of the family council~"
+    a "是的,我们正在表达w对我们心爱的家庭委员会轮值主席的感激之情~"
 
 
 
-    c "Fuck you~~~~~~"
+    c "草你老母~~~~~~"
 
 
 
-    c "Ah~~ ahh~~ Oww~~ [P]... ... Wait, wait~~~~"
+    c "Ah~~ ahh~~ Oww~~ [P]... ... 等一下, 等一下~~~~"
 
 
 
-    c "Don’t hit the upper part of my uterine orifice like that~~~~"
+    c "不要就这样打我的子宫口的上部~~~~"
 
 
 
-    player "That’s your most sensitive part, isn’t it? Here we go~~"
+    player "这是你最敏感的部分,不是吗?所以就在这里,我们开始~~"
 
 
     stop sound
@@ -831,43 +831,43 @@ label ACG_duo_5:
 
 
 
-    c "Ahh~~ So good~~ So strong~~ Big cock, yes, big cock~~~"
+    c "啊~~好爽~~好强~~大鸡巴,对,大鸡巴~~~"
 
 
 
-    c "Yes yes yes yes!!~~~ Awwww~~ ~~ I’m really going to be enslaved by you~~~"
+    c "yes,yes,yes!!!~~ 我要被你的大鸡巴奴役了~~~"
 
 
 
-    c "This cock~~~ Awwwuuummmm~~~ I’m gonna marry this cock... ... I love it sooooo much~~~~~"
+    c "这个鸡巴~~~Awwwuuummmm~~~我要嫁给这个鸡巴... ...我太爱它了~~~~~"
 
 
 
-    g "Wow... I have never seen Theo so cute like this before."
+    g "哇... 我以前从未见过西奥这么可爱的样子."
 
 
 
-    a "Yeah, she pretends like a cool girl all the time. That’s so cunning~"
+    a "是的,她一直装得像个酷女孩.真够狡猾的~"
 
 
 
-    c "Ahhh~~~ Can't... can't think anymore... ... Big cock~~~ Awwwww~ Love~~~"
+    c "Ahhh~~~ 不能... ...不能思考了... ...鸡巴....大鸡巴 "
 
 
 
-    player "I... I’m about to... ..."
+    player "我... 我要... ..."
 
 
 
-    c "Yes, yes, give me all your sperm~"
+    c "Yes, yes, 把你的精液全部给我~"
 
 
 
-    player "But I have to ask it first, do you actually love me or my cock more?"
+    player "但我要先问一下,你到底是爱我还是爱我的鸡巴多一点?"
 
 
 
-    c "I... I... I... I... ..."
+    c "我... 我... 我... 我... ..."
 
 
     stop sound
@@ -875,11 +875,11 @@ label ACG_duo_5:
     play sound cumshot
     $ flashlight()
 
-    c "Love you love you love you love you love youuuuuuuohhhhhhhhhhhhhhhh!!!!~~~~~~"
+    c "爱你爱你爱你爱你爱你爱你最爱你你你你你你你你你!!!!~~~~~~"
 
 
 
-    "We orgasmed basically at the same time and she fainted right away from the sheer pleasure."
+    "我们在同一时间达到了高潮,她马上就被这种纯粹的快感弄晕了."
 
 
 
@@ -889,15 +889,15 @@ label ACG_duo_5:
 
 
 
-    "My ejaculation lasted longer than I thought. In fact... I have never came so much before."
+    "我的射精持续时间比我想象中的长.事实上... 我以前从未射过这么多."
 
 
 
-    "My dick kept injecting hot sperm into the deepest of her body. It looks like I am peeing in her pussy or something."
+    "我的小弟弟不断地将热乎乎的精液注入她身体的最深处.看起来就像我在她的穴道里撒尿或什么的."
 
 
 
-    "Okay... ... Billions of my semen, do the job, will you? I just need one of you guys to get into her womb~"
+    "哦... ... 我数以亿计的孩儿啊,努力起来吧,竞争吧!我只需要你们中的一个人进入她的子宫~"
 
 
 
@@ -907,41 +907,41 @@ label ACG_duo_5:
 
 
 
-    "My ejaculation ended half a minute later, and..."
+    "我的射精在半分钟后结束,而..."
 
 
 
     scene acg_duo_5_72 with dissolve
 
-    c "Cock... I am... the slave of that cock... ..."
+    c "鸡巴... 我是......那只鸡巴的奴隶... ..."
 
 
 
-    "It looks like Theo has completely lost herself~"
+    "看起来西奥已经完全失去了自我~"
 
 
 
-    player "Alright, now, who’s next?"
+    player "好了,现在,谁是下一个?"
 
 
 
-    "I actually began to worry that I may not have enough storage of sperm for tonight, but well, I’m not gonna surrender anyway~"
+    "我实际上已经开始担心我今晚有没有足够的精子储备了,但是,无论如何我不会投降的~"
 
 
 
     scene acg_duo_5_73 with tstmgr
 
-    "Uno crawled to me lovingly, like a kitten that wanted to be petted."
+    "乌诺可可爱爱地爬到我身边,就像一只想被抚摸的小猫."
 
 
 
-    g "Master~ Me, me~"
+    g "主人~ 我, 我~"
 
 
 
     scene acg_duo_5_74 with tstmgr
 
-    player "Ah, yes, it’s time to give my loyalest pet some rewards~"
+    player "啊,没错,现在是时候给我最忠诚的宠物一些奖励了~"
 
 
 
@@ -951,23 +951,23 @@ label ACG_duo_5:
 
 
 
-    g "Awwww~ Master’s dick... is inside me now... ..."
+    g "Awwww~ 主人的鸡巴......现在就在我体内... ..."
 
 
 
-    g "It is still so hard~~~"
+    g "还跟铁棒一样硬~~~"
 
 
 
     scene acg_duo_5_84 with tstmgr
 
-    g "Sorry, Vera, for being a step ahead of you~"
+    g "对不起,薇拉,我比你快了一步~"
 
 
 
     scene acg_duo_5_85 with tstmgr
 
-    a "It's totally fine, Uno. I will... ... play with myself when you are having fun..."
+    a "这完全没问题,乌诺.我将......在你玩得开心的时候自己解决需求..."
 
 
 
@@ -977,43 +977,43 @@ label ACG_duo_5:
 
 
 
-    g "Master~~ Master~~ Wuuuuhhh... ... Nyaaaa~~~"
+    g "主人~~主人~~呜... ...喵~~~~"
 
 
 
-    "Eh... ‘Nya’? Damn that’s cute."
+    "Eh... ‘喵’? 该死的,太可爱了."
 
 
 
-    a "It makes me so horny just looking at Uno’s happy face~ Awwww... ... ... ..."
+    a "看着乌诺快乐的脸庞,我就觉得很饥渴~ Awwww... ... ... ..."
 
 
 
-    g "Vera... Yahhhh... Master... ... Ohhhhhhh~~~~"
+    g "薇拉... 呀呀呀... ...主人......哦~~~~~~~~"
 
 
 
-    g "Uno’s little pussy is getting so wet by master’s big bad penis, and... ..."
+    g "乌诺的小穴被主人的大坏蛋鸡巴弄得湿漉漉的,而且... ..."
 
 
 
-    g "Awwwww... ... Vera’s pussy is getting so wet too~ Your fluid just splashed on Uno’s mouth~"
+    g "Awwwww... ...薇拉的小穴也变得如此湿润~你的淫液刚刚溅到了乌诺的嘴上~"
 
 
 
-    a "Oh... I’m so sorry, Uno. I didn’t mean to... ..."
+    a "Oh... 我很抱歉,乌诺.我不是有意要... ..."
 
 
 
-    g "Uno... wants to taste more of Vera’s horny fluid~"
+    g "乌诺......想品尝更多薇拉的淫液~"
 
 
 
-    g "And master, Uno’s pussy wants to taste more of your fluid too~~~"
+    g "主人,乌诺的小穴也想品尝更多你的精液（原文中精液和淫液都是用液体/fluid来表示）~~~"
 
 
 
-    player "As you wish, my little pet~"
+    player "如你所愿,我的小宠物~"
 
 
     stop sound
@@ -1023,43 +1023,43 @@ label ACG_duo_5:
 
 
 
-    g "Wuuuuuuu... ... Vera, why are you hitting Uno’s face with your titties?"
+    g "Wuuuuuuu... ... 薇拉,你为什么要用你的奶子打乌诺的脸?"
 
 
 
-    a "Because you are so so so lovely~ I just can’t help~~"
+    a "因为你是那么那么的可爱~我就是忍不住了~~"
 
 
 
-    g "Wuuuumm~~ Yuuummm~~ Bad Vera~~ Master will punish you later... ..."
+    g "Wuuuumm~~ Yuuummm~~ 坏薇拉~~主人以后会惩罚你的... ..."
 
 
 
-    g "Awwwww... Master, master, why don’t you say anything?"
+    g "Awwwww... 主人,主人,你为什么不说话?"
 
 
 
-    player "Eh... ... Sorry, I’m too busy at fucking you right now~"
+    player "Eh... ... 对不起,我现在正忙操你呢~"
 
 
 
-    g "Bad master!~~~~"
+    g "坏主人!~~~~"
 
 
 
-    player "This warm tight pussy... and this fat ass... ... Especially this fat ass of yours... ... There are ripples on your bouncy butt meat when I hit your deep~ This is so damn lewd."
+    player "这温暖紧致的小穴... ...和这肥大的屁股... ....特别是你的这个肥臀... ... 当我打到你的深处时,你那弹力十足的臀肉上便会捡起涟漪~这真是太他妈淫荡了."
 
 
 
-    player "Ahhhhhhhh~~ Uno, I’m so crazy about you!"
+    player "Ahhhhhhhh~~ 乌诺,我为你痴狂!"
 
 
 
-    g "See, Vera, I am... his favorite~"
+    g "看,薇拉,我是... ...他的最爱~"
 
 
 
-    player "And now... ... ... ..."
+    player "现在... ... ... ..."
 
 
 
@@ -1085,7 +1085,7 @@ label ACG_duo_5:
     play sound cumshot
     $ flashlight()
 
-    player "I’m cumming!!!!!!~~~~~~~~"
+    player "射了!!!!!!~~~~~~~~"
 
 
 
@@ -1093,15 +1093,15 @@ label ACG_duo_5:
 
 
 
-    g "Hot fluid~~~ Master’s hot fluid~~~~~ Ohhhhhh~~~~~~"
+    g "热乎乎的精液~~~ 主人热乎乎的精液~~~~~ Ohhhhhh~~~~~~"
 
 
 
-    "This time my ejaculation didn’t last as long as the last time, but the amount was still objective. I shot everything I had for this round into Uno’s pussy and made sure she didn’t spill out any drop of my sperm."
+    "这次我的射精时间没有上次长,但数量仍然很客观.我把这一轮的所有东西都射进了乌诺的骚穴,并确保她没有溢出我的任何一滴精子."
 
 
 
-    "Hewww~ Damn, I actually began to be proud of myself. I guess... eh... ... having a harem actually makes me have stronger performance on bed?"
+    "Hewww~ 该死的,我居然开始为自己感到骄傲了.我想... ...呃... ...拥有一个后宫实际上使我在床上有更强的表现?"
 
 
 
@@ -1111,33 +1111,33 @@ label ACG_duo_5:
 
 
 
-    "The two girls are lying on the bed in shameless poses, and now... ..."
+    "两个女孩毫无廉耻地躺在床上,而现在... ..."
 
 
 
     scene acg_duo_5_75 with tstmgr
 
-    player "Sorry to make you wait so long, Vera..."
+    player "对不起,让你等了这么久,薇拉..."
 
 
 
-    a "Are you sure you don’t need to catch a breath first?"
+    a "你确定你不需要先喘口气吗?"
 
 
 
-    player "Have some faith in me, okay? I’m still... ..."
+    player "对我有点信心,好吗?我仍然... ..."
 
 
 
     scene acg_duo_5_76 with tstmgr
 
-    a "*Interrupting* Alright, alright~"
+    a "*打断* 好吧,好吧~"
 
 
 
     scene acg_duo_5_77 with tstmgr
 
-    a "You don't need to play a hero in front of me. Now just Lie yourself down and have a rest, please~ I will be... at top... ..."
+    a "你不需要在我面前逞强.现在请你躺下休息一下吧~我会... ...在上面的... ..."
 
 
 
@@ -1145,7 +1145,7 @@ label ACG_duo_5:
 
 
 
-    "Honestly, I am indeed a little tired now... ... Thanks, Vera, you are so thoughtful~"
+    "说实话,我现在确实有点累了.......谢谢你,薇拉,你真是太体贴了~"
 
 
 
@@ -1161,35 +1161,35 @@ label ACG_duo_5:
 
 
 
-    "Vera rode on my body and began to move herself, and I was lying comfortably on the bed enjoying her service."
+    "薇拉骑在我的身上,开始动了起来,我舒服地躺在床上享受她的服务."
 
 
 
-    "Ahhhh... This feels really good, no, this is more than good~"
+    "Ahhhh... 这感觉真的很好,不,不只是好~"
 
 
 
-    a "How... do you... like it? This is... my first time being so active... ..."
+    a "你...喜欢它吗?这是...我第一次这么活跃... ..."
 
 
 
-    a "You were... always like a conqueror during our sex, but I know you were just trying to make me enjoy sex in a passive and relaxing way... ..."
+    a "你... ...在我们做爱时总是像个征服者,但我知道你只是想让我以被动和放松的方式享受性爱... ..."
 
 
 
-    a "I know... ... you are actually a man with a soft and virtuous heart. You’d rather hurt yourself than hurt us... ..."
+    a "我知道... ...你其实是个心地善良的人.你宁可伤害自己也不愿伤害我们... ..."
 
 
 
-    a "That's why... awwww~~~ That’s why Theo, Uno, and I love you so much~~~"
+    a "这就是为什么... ...啊哦~~~这就是为什么西奥、乌诺和我如此爱你的原因~~~"
 
 
 
-    a "Love you, [P]~~ Love you~~~"
+    a "爱你,[P]~~爱你~~~"
 
 
 
-    player "I... love you too, Vera... ..."
+    player "我...也爱你,薇拉... ..."
 
 
     stop sound
@@ -1199,35 +1199,35 @@ label ACG_duo_5:
 
 
 
-    "Her beautiful boobs are bouncing so hard while she was doing her love confession."
+    "在她表白的时候,她美丽的双乳猛烈的跳动着."
 
 
 
-    "This scene... is simply gorgeous~ I’m going to remember it forever!"
+    "这一幕......简直太美了~我将永远记住它!"
 
 
 
-    a "[P]~~ Awwwwww~~ [P]~~ Love, love you so much~~~"
+    a "[P]~~ Awwwwww~~ [P]~~ 爱你,爱你,非常爱你~~~"
 
 
 
-    a "My tits, my pussy, my ass, every inch of my skin belong to you~~~~"
+    a "我的奶子,我的小穴,我的屁股,我的每一寸皮肤都属于你~~~~"
 
 
 
-    a "Please~ please cum together with me and give me all of your cum, just like you did to Theo and Uno... ..."
+    a "Please~ please cum together with me and give me all of your cum, just like you did to 狄奥 and Uno... ..."
 
 
 
-    player "I’m... almost... ..."
+    player "我... 要... ..."
 
 
 
-    a "Ahhh~ I can feel it~~ I can feel it~~ Yes, yes~~~"
+    a "Ahhh~ 我能感觉到它~~我能感觉到它~~ Yes, yes~~~"
 
 
 
-    player "I’m cumming!!!!~~~~~~~"
+    player "我射了!!!!~~~~~~~"
 
 
     stop sound
@@ -1235,19 +1235,19 @@ label ACG_duo_5:
     play sound cumshot
     $ flashlight()
 
-    a "Me toooooooooooooooooooooooo!!!!~~~~~~~~~~"
+    a "我也是是是是是!!!!~~~~~~~~~~"
 
 
 
-    "Vera and I came together... ..."
+    "薇拉和我一起来到了高潮... ..."
 
 
 
-    a "So... so much... ... How could you... still have so much... ..."
+    a "那么......那么多......你怎么能... ...还拥有这么多... ..."
 
 
 
-    a "I am... filled now... ... ... ..."
+    a "我现在... 被充满了... ... ... ..."
 
 
 
@@ -1259,25 +1259,25 @@ label ACG_duo_5:
 
     scene acg_duo_5_95 with tstmgr
 
-    "Vera collapsed on my body and breathed heavily. I guess we are all exhausted now."
+    "薇拉倒在我的身上,大口大口地呼吸.我想我们现在都很累了."
 
 
 
-    "And this... should be the end of tonight’s sex marathon."
+    "而这......应该是今晚性爱马拉松的终点."
 
 
 
-    a "What happened tonight... is likely to happen at every future night."
+    a "W今晚发生的事情......可能会在未来的每个夜晚发生."
 
 
 
-    a "Be prepared, my love... ... ... ..."
+    a "准备好吧,我的挚爱... ... ... ..."
 
 
 
     scene acg_duo_5_96 with tstmgr
 
-    "She passed out after finishing those words..."
+    "她在说完这些话后就昏了过去......"
 
 
 
@@ -1287,11 +1287,11 @@ label ACG_duo_5:
 
 
 
-    player "Anyone awake?"
+    player "还要人没睡吗?"
 
 
 
-    "No one responded me."
+    "寂静的回响."
 
 
 
@@ -1299,11 +1299,11 @@ label ACG_duo_5:
 
 
 
-    player "Alright then, let’s just... sleep... ..."
+    player "好吧, 那就... 睡吧... ..."
 
 
 
-    player "Good night, girls."
+    player "晚安,姑娘们."
 
 
 

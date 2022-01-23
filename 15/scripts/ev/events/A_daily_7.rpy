@@ -3,21 +3,21 @@ label A_daily_7:
     scene a_room_night_normal with tstmgr
     play music sorrow
 
-    player "Hi, Vera. Senning just sent me a movie yesterday, do you want to watch it with me?"
+    player "Hi,薇拉.昨天森柠给我发了一部电影,你想和我一起看吗?"
 
-    a "Eh... What movie?"
+    a "Eh...什么电影?"
 
-    player "I don't know. A classic Korean romantic movie she said. "
+    player "我不知道.她说这是一部经典的韩国爱情电影."
 
-    a "She didn't tell you the name?"
+    a "她没告诉你名字吗?"
 
-    player "She did, but I forgot. Most East Asian movie names don't make any sense when they are translated into English anyway. "
+    player "她说了,但我忘了.而且,大多数东亚电影的名字被翻译成英语是没有任何意义的."
 
-    a "Okay... ..."
+    a "嗯......"
 
     scene a_room_night_smile with tstmgr
 
-    a "Let's watch it then."
+    a "那我们看看吧."
 
     scene void with tstmgr
 
@@ -25,67 +25,67 @@ label A_daily_7:
 
     scene a_daily7_1 with tstmgr
 
-    "We came to my room together and started to watch the movie."
+    "我们一起来到我的房间,开始看电影."
 
     scene a_daily7_2 with tstmgr
 
     "... ... ... ..."
 
-    "Well, the movie seems like a good one, but I soon found something that was even more attractive to me."
+    "Well,这部电影看起来不错.但我很快发现了更吸引我的东西."
 
     scene a_daily7_3 with tstmgr
 
     "... ... ... ..."
 
-    "Yeah, this scene is definitely better than the movie."
+    "Yeah,这个场景绝对比电影好看."
 
-    "She seems to put all her attention into the movie as it nears its climax. I guess now it's the time for me to do something."
+    "她似乎把所有的注意力都放在了电影上,电影即将进入高潮.我想现在该是我做点什么的时候了."
 
     "... ... ... ..."
 
     scene a_daily7_4 with tstmgr
 
-    "I gently put my hand around her waist. She didn't even notice it."
+    "我轻轻地把手放在她的腰上.她甚至没有注意到."
 
     scene a_daily7_5 with tstmgr
 
-    "And I pulled her in my arm."
+    "我把她拉进我的手臂."
 
     scene a_daily7_6 with tstmgr
 
-    "She groaned out with surprise and turned to look at me. "
+    "她惊讶地嗯了一声,转过身来看着我."
 
-    "I looked at her back with a prankish smile, but didn't say anything."
+    "我带着恶作剧的微笑望着她,但什么也没说."
 
     scene a_daily7_7 with tstmgr
 
     a "... ... ... ..."
 
-    "She wanted to say something, but somehow she didn't. "
+    "她想说点什么,但不知怎么的却没说."
 
-    "Seems like she has acquiesced in my action."
+    "看来她默许了我的行为."
 
     scene a_daily7_8 with tstmgr
 
-    "We then kept this position and continued to watch that movie, pretended like nothing happened."
+    "然后我们保持这个姿势,继续看那部电影,假装什么都没发生."
 
-    "But I am wondering if I should do something more..."
+    "但是我想知道我是否应该做更多的事情..."
 
     menu:
-        "This is enough":
+        "这就够了":
 
 
-            "Nevermind. It will become sexual harassment if I do anything further. I don't want to make her mad."
+            "如果我再进一步的话,就会变成性骚扰了.我不想让她生气."
 
-            "And this movie is about to end anyway."
+            "而且这部电影就要结束了."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Test her limit":
+        "测试她的底线":
 
 
-            "Yeah, I should definitely give it a try."
+            "Yeah,我一定要试一试."
 
             scene a_daily7_9 with tstmgr
 
@@ -95,23 +95,23 @@ label A_daily_7:
 
             scene a_daily7_10 with tstmgr
 
-            a "What are you doing?"
+            a "你在做什么?"
 
             player "... ... ... ..."
 
             scene a_daily7_11 with tstmgr
 
-            a "(Slightly moaning) Emmm... ... ... ..."
+            a "(轻微的呻吟)Emmm............"
 
-            a "Can you just... focus on the movie?"
+            a "你能...专心看电影吗?"
 
-            "She acquiesced in my action again, oh my God..."
+            "她又默许了我的行为,天啊..."
 
             scene a_daily7_12 with tstmgr
 
             "... ... ... ..."
 
-            "We kept this position until the movie ended. I think we should have movie nights more often..."
+            "我们一直保持这个姿势直到电影结束.我想我们应该经常这样看电影..."
 
             scene void with tstmgr
 

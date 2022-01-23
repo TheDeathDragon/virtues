@@ -3,155 +3,155 @@ label A_daily_3:
     scene home_livingroom_night_background with tstmgr
     play music sorrow
 
-    narrator "It has been a few days since I posted this house on a B&B website."
+    narrator "在我在民宿网站上发布这所房子之后,已经过了好几天了."
 
-    narrator "Vera and I thought it might take a while to have our first guest, but this house has been full of guests ever since day one."
+    narrator "一开始,薇拉和我认为我们可能需要一段时间才能迎来第一位客人.但事实是,这所房子从一开始就住满了客人."
 
-    narrator "I guess it's not too surprising. This house has several advantages that attract people."
+    narrator "这并不奇怪.这所房子有许多吸引人的优点."
 
-    narrator "It's in a wonderful location not far from the university and downtown with lovely decor, private bathrooms in each bedroom, and most importantly, an affordable price. All of these things make it quite popular on the B&B website."
+    narrator "它有一个很好的位置,离大学和市中心不远.它装修得很好,每个卧室都有一个私人卫生间.更重要的是,价格也是可以承受的.所有这些使得它在民宿网站上很受欢迎."
 
-    narrator "Now Vera gets up before dawn every day and quietly cleans the living room and the public bathrooms before cooking breakfast for the guests."
+    narrator "现在薇拉每天黎明前起床.她会先悄悄地打扫客厅和公共浴室,然后开始为客人准备早餐."
 
-    narrator "She is indeed quite good at cooking, just as what she said."
+    narrator "正如她所说,她确实很擅长烹饪."
 
-    narrator "The guests have been impressed by the meals she's prepared and they all want to thank her in person, but Vera is gone by the time they are awake and asleep. Most of them haven't even gotten a chance to meet her yet."
+    narrator "客人们对她做的早餐印象深刻.他们想当面感谢薇拉,但薇拉每天在他们起床前就离家上班,每天在他们入睡后才回家.他们中的大多数人还没有机会见到她."
 
-    narrator "So far only one guest has encountered Vera by chance."
+    narrator "在这些日子里,只有一位老先生偶然遇到了薇拉."
 
-    narrator "According to that guest, one night he woke up and went to the kitchen for some water, but suddenly heard a sound from the hallway."
+    narrator "这位先生睡得很浅.据他说,有一天晚上,他醒来后去厨房取水,但突然听到走廊里传来一个声音."
 
     scene rcsj_a1 with tstmgr
 
-    narrator "He went to the hallway with curiosity and saw that Vera was just coming in the house from outside and changing her shoes."
+    narrator "他好奇地走到走廊上,看见薇拉刚从外面进来换鞋."
 
-    narrator "The guest didn't even realize Vera was the mysterious hostess at first. He thought a woman with such great cleaning and cooking skill must not be younger than 30 and did not expect to see a beautiful girl barely over 20."
+    narrator "客人一开始甚至没有意识到薇拉就是那位神秘的女主人.他认为拥有如此出色的清洁和烹饪技能的女人不应该低于30岁,也没有想到会看到一个不到20岁的漂亮女孩."
 
     scene rcsj_a2 with tstmgr
 
-    narrator "After Vera noticed him, she gave him a warm greeting. Although she was already exhausted from work, her smile was still very energetic."
+    narrator "薇拉注意到他后,对他热情地打招呼.虽然她已经累坏了,但她的微笑仍然充满活力."
 
     scene home_livingroom_night_background with tstmgr
 
-    narrator "When the other guests heard this story, they started to blame me for letting Vera work outside until midnight."
+    narrator "当其他客人从他那里听到这个故事时,他们开始责怪我让薇拉在外面工作到半夜."
 
-    narrator "Well, I kinda blame myself for that, too."
+    narrator "我也有点怪自己."
 
-    narrator "I know Vera is severly overloaded with work. She currently has four jobs to do every day and almost has no time to rest. She only can afford to sleep for about four to five hours a day."
+    narrator "我知道薇拉的工作非常繁重.现在她每天有四份工作要做,几乎没有时间休息.她每天只能睡四到五个小时."
 
-    narrator "My work is so easy compared to hers."
+    narrator "我的工作比她的容易多了."
 
-    narrator "I need to find a way to ease her burden. Let's start by helping her with the housekeeping."
+    narrator "我得想办法减轻她的负担.我先帮她做家务吧."
 
-    narrator "So I got up very early today and found her in the kitchen."
+    narrator "所以我今天起得很早,发现她在厨房里."
 
     scene rcsj_a3 with tstmgr
 
-    player "Morning."
+    player "早上好."
 
     scene rcsj_a4 with tstmgr
 
-    a "Eh? You got up so early today."
+    a "Eh?你今天怎么起得这么早."
 
-    player "Well, I'm here to help."
+    player "Well,我想来帮你."
 
     scene rcsj_a5 with tstmgr
 
-    a "That's very kind of you."
+    a "你真好."
 
-    player "So is there anything I can do, ma'am?"
+    player "有什么我能帮忙的吗,女士?"
 
-    a "Ma'am? No one's ever called me that before."
+    a "女士吗?以前没人这么叫我."
 
-    a "If you would like, you can go clean up the living room, but please be quiet. The guests are still in their dreams."
+    a "如果你愿意,你可以去打扫客厅,但请保持安静.客人们还在睡梦中."
 
-    player "Aye aye, ma'am."
+    player "好的,女士."
 
     scene home_livingroom_night_background with tstmgr
 
-    narrator "I took a while to clean the living room. It' not easy to clean without making any noise. I have to be very careful and try twice as hard."
+    narrator "我花了一些时间打扫客厅.把所有的东西都打扫干净而不发出一点声音是不容易的.我必须非常小心,加倍努力."
 
-    narrator "It's hard to believe Vera does this willingly every day. It must be painstaking for her."
+    narrator "很难想象薇拉每天都要这样做.这对她来说一定很辛苦."
 
-    narrator "I feel guilty about it."
+    narrator "我为此感到内疚."
 
     narrator "... ... ... ..."
 
     scene rcsj_a4 with tstmgr
 
-    a "Have you finished cleaning?"
+    a "你打扫过房间了吗?"
 
-    player "Ah, yes."
+    player "Ah,是的."
 
-    player "Tomorrow I will do it again. And not just tomorrow, from now on, I will help you with housekeeping every day. Let's do it together."
+    player "明天我再做一次.不仅仅是明天,从现在开始,我每天都会帮你做家务.让我们一起做吧."
 
     a "... ... ... ..."
 
-    a "Thank you."
+    a "谢谢你."
 
-    player "And..."
+    player "还有..."
 
     scene rcsj_a6 with tstmgr
 
-    a "Is there anything on your mind?"
+    a "什么?"
 
-    player "Well, now that our business is on the right track, have you thought about quitting your other jobs and becoming my full-time B&B assistant?"
+    player "瞧,现在我们的生意走上正轨了.你有没有想过辞去销售员的工作,成为我的全职民宿助理?"
 
-    player "I will... I will pay you a wage. It won't be much for now, but at least you won't be so tired every day."
+    player "我可以...我给你发工资.现在不会太多,但至少你不会每天都那么累."
 
     a "... ... ... ..."
 
     scene rcsj_a5 with tstmgr
 
-    a "Thank you..."
+    a "谢谢你..."
 
-    a "But no, not yet."
+    a "但是我现在还不需要."
 
-    a "I have to earn as much money as I can to support my mom. I am still young, I can handle all these jobs without a doubt."
+    a "我必须挣尽可能多的钱来养活我妈妈.我还年轻,毫无疑问,我能胜任所有这些工作."
 
-    player "But if you keep overburdening yourself with work, your body will break down soon or later."
+    player "但是如果你一直让自己的工作负担过重,你的身体迟早会垮掉的."
 
     a "... ... ... ..."
 
-    a "I am okay, don't worry."
+    a "我很好,别担心."
 
-    player "But..."
+    player "但是..."
 
-    a "You really don't need to worry about me. I didn't feel any tired."
+    a "你真的不用担心我.我一点也不觉得累."
 
-    narrator "I can't persuade this stubborn girl. She has her own insistence."
+    narrator "我无法说服这个固执的女孩.她有自己的想法."
 
-    narrator "And I can't force her to quit those jobs, either. I have to respect her choice."
+    narrator "我也不能强迫她辞掉那些工作.我必须尊重她的选择."
 
-    player "Fine. If you are okay with it, I won't say anything again. But let's make a deal."
+    player "很好.如果你觉得自己能行的话,我不会再说什么了.但是让我们做个交易."
 
-    a "What deal?"
+    a "什么交易?"
 
-    player "Once this B&B business grows big enough, I will pay you wage comprable to all of your current wages combined And you will quit those jobs to be my full-time B&B assistant. Do you accept?"
+    player "当这家民宿发展到足够大的时候,我将付给你更高的工资,这将会是你从其他工作中所能得到的总和.你要辞掉那些工作,做我的全职民宿助理.你接受吗??"
 
     scene rcsj_a7 with tstmgr
 
     a "... ... ... ..."
 
-    a "But you don't have to do this."
+    a "但你不需要这么做."
 
-    player "I insist."
+    player "我就要呢."
 
     scene rcsj_a5 with tstmgr
 
     a "... ... ... ..."
 
-    a "Alright, I accept that deal."
+    a "好吧,我接受这个交易."
 
-    a "Thank you."
+    a "谢谢你."
 
-    player "Thank you, too."
+    player "也谢谢你."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    player "(I need to do something to make this B&B business more profitable. That's the only way to let Vera quit the other jobs.)"
+    player "(我需要做点什么让这家民宿生意更赚钱.这是让薇拉辞掉其他工作的唯一办法.)"
 
     narrator "... ... ... ..."
 

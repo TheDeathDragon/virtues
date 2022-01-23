@@ -6,31 +6,31 @@ label downtown_forenoon_G_1:
 
 
 
-    g "Hmm? What?"
+    g "Hmm?什么?"
 
 
 
-    player "Are you sure you want to eat those for lunch?"
+    player "你确定午餐要吃这些吗?"
 
 
 
     scene downtown_forenoon_g_1_2 with tstmgr
 
-    g "Of course."
+    g "当然."
 
 
 
-    player "Aren’t you afraid of... you know, gaining weight?"
+    player "你不怕...你知道,体重增加?"
 
 
 
-    g "Not at all~"
+    g "一点也不怕~"
 
 
 
     scene downtown_forenoon_g_1_3 with tstmgr
 
-    g "The weight will go to my breasts anyway."
+    g "总之长的肉会跑到我胸上去."
 
 
 

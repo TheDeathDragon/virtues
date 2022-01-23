@@ -195,8 +195,6 @@ init 1 python:
             if results:
                 event['results'] = parse_results(results)
             
-            
-            
             try:
                 Event(**event)
             except Exception as e:

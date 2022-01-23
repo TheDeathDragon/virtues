@@ -7,37 +7,37 @@ label B_love_4:
 
 
 
-    "In the afternoon."
+    "下午."
 
 
 
-    "*The following plot is from Senning’s perspective.*"
+    "*下面的情节是森柠的视角.*"
 
 
 
     scene b_love_4_1 with tstmgr
 
-    b "So much for the studying. Now I should have some tea..."
+    b "学习就到这里.现在我该喝点茶了..."
 
 
 
     scene b_love_4_2 with tstmgr
 
-    b "Oh, I need to do the laundry first."
+    b "Oh,我需要先洗衣服."
 
 
 
-    b "My dresses, skirts, pants, and..."
+    b "我的裙子,衣服,裤子,还有..."
 
 
 
-    b "[P]’s white shirt."
+    b "[P]的白衬衫."
 
 
 
     scene void with tstmgr
 
-    "I put all the clothes in a basket and headed to the laundry room."
+    "我把所有的衣服放在篮子里,然后去了洗衣房."
 
 
 
@@ -45,31 +45,31 @@ label B_love_4:
 
 
 
-    "But I suddenly stopped."
+    "但是我突然停了下来."
 
 
 
-    b "His... shirt..."
+    b "他的...衬衫..."
 
 
 
-    "I took [P]’s shirt in my hands, and couldn’t help holding it up to my nose."
+    "我把[P]的衬衣拿在手上,忍不住把它举到鼻子边."
 
 
 
-    b "His... scent... ..."
+    b "他的...气味......"
 
 
 
-    b "His... new perfume..."
+    b "他的...新香水..."
 
 
 
-    b "So strong... ..."
+    b "好强烈......"
 
 
 
-    b "And smells so good..."
+    b "闻起来好香..."
 
 
 
@@ -79,7 +79,7 @@ label B_love_4:
 
     scene b_love_4_3 with tstmgr
 
-    b "Hmm? What am I doing? I should go."
+    b "Hmm?我在做什么?我应该走了."
 
 
 
@@ -89,7 +89,7 @@ label B_love_4:
 
     scene b_love_4_4 with tstmgr
 
-    b "But... his scent will be gone if I wash this shirt..."
+    b "但是...如果我洗了这件衬衫,他身上的气味就会消失..."
 
 
 
@@ -97,23 +97,23 @@ label B_love_4:
 
 
 
-    b "Maybe... I should..."
+    b "也许...我应该..."
 
 
 
-    b "wear it on... for a minute... before I wash it."
+    b "穿上...一分钟...在我洗之前."
 
 
 
     scene b_love_4_5 with tstmgr
 
-    b "Wait, what am I thinking? That is too creepy."
+    b "等等,我在想什么?太恐怖了."
 
 
 
     scene b_love_4_4 with tstmgr
 
-    b "But... if only for a minute..."
+    b "但是...一分钟就好了..."
 
 
 
@@ -123,21 +123,21 @@ label B_love_4:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene b_love_4_6 with dissolve
 
-    b "Wow... this is strange. I have never wore other’s clothes before."
+    b "Wow...这太奇怪了.我从来没有穿过别人的衣服."
 
 
 
-    b "Ahhh... his scent is all over me right now."
+    b "Ahhh...他的气味现在弥漫在我身上."
 
 
 
-    b "It feels so warm and secure."
+    b "它感觉如此温暖和安全."
 
 
 
@@ -145,73 +145,73 @@ label B_love_4:
 
     $ flashlight()
 
-    b "It’s like... he is holding me in his arms."
+    b "这就像...他把我抱在怀里."
 
 
 
-    b "And we are both naked..."
+    b "我们都赤身裸体..."
 
 
 
     scene b_love_4_8 with tstmgr
 
-    b "His hands are exploring my body... such two powerful hands... ..."
+    b "他的手在探索我的身体...如此有力的双手......"
 
 
 
-    b "We are like... lovers..."
+    b "我们就像...情人..."
 
 
 
     scene b_love_4_9 with tstmgr
 
-    b "Oh... wait... [P]... ..."
+    b "Oh...等等...[P]......"
 
 
 
-    b "Awww... Don’t touch my breasts like this..."
+    b "Awww...别这样摸我的胸部..."
 
 
 
-    b "I feel... weird..."
+    b "我感觉...怪怪的..."
 
 
 
     scene b_love_4_10 with tstmgr
 
-    b "What are you doing? I didn’t allow you to do that!"
+    b "你在干什么?我不允许你那样做!"
 
 
 
-    b "But... nevermind. You always make me surprise. That’s why I like you so much."
+    b "但是...算了.你总是给我惊喜.所以我才那么喜欢你."
 
 
 
-    b "Ohh... your hand is... scratching my pussy..."
+    b "Ohh...你的手在...摸我的小穴..."
 
 
 
-    b "Your rough, masculine hand... ..."
+    b "你强壮,充满肌肉的手......"
 
 
 
     scene b_love_4_11 with tstmgr
 
-    b "Ahhh... Don’t stick your finger in it..."
+    b "Ahhh...不要把手指伸进去..."
 
 
 
-    b "My secret place... is not for play."
+    b "我的秘密区域...不是用来玩的."
 
 
 
-    b "Owww... but it feels so good."
+    b "Owww...但感觉太棒了."
 
 
 
     scene b_love_4_12 with tstmgr
 
-    b "Someone... someone may hear us..."
+    b "别...别人可能会听到..."
 
 
 
@@ -221,7 +221,7 @@ label B_love_4:
 
     scene b_love_4_13 with tstmgr
 
-    b "Your hands have magic. I can’t feel anything except pleasure right now."
+    b "你有一双神奇的手.我现在除了快乐什么都感觉不到."
 
 
 
@@ -231,21 +231,21 @@ label B_love_4:
 
     scene b_love_4_14 with tstmgr
 
-    b "I’m... I’m about to cum... ..."
+    b "我...我要泄了......"
 
 
 
-    b "I’m going to be a dirty slut enslaved by your fingers!!!"
+    b "我要成为你手指的奴隶!!!"
 
 
 
     scene b_love_4_15 with tstmgr
 
-    b "Ahhhh... ... ... ... No... ..."
+    b "Ahhhh............别......"
 
 
 
-    b "I’m cuming!!!"
+    b "我泄了!!!"
 
 
 
@@ -275,21 +275,21 @@ label B_love_4:
 
 
 
-    b "What... was that?"
+    b "我...这是怎么了?"
 
 
 
-    b "What happened to me? I... Did I just... masturbate?"
+    b "我怎么了?我...我刚才...手淫了?"
 
 
 
-    b "Was that my imagination?"
+    b "这是我的想象吗?"
 
 
 
     scene b_love_4_18 with tstmgr
 
-    b "Oh no... Senning, how did you become such a dirty girl? You should be so ashamed."
+    b "Oh不...森柠,你怎么变的这么淫荡了?你应该感到羞耻."
 
 
 
@@ -299,7 +299,7 @@ label B_love_4:
 
     scene void with tstmgr
 
-    b "Sigh... ... ... ... ... ..."
+    b "唉.................."
 
 
 

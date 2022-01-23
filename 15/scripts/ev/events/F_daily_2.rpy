@@ -3,13 +3,13 @@ label F_daily_2:
     scene void with tstmgr
     play music happy
 
-    "I encountered with Rachel again in the park."
+    "我在公园里又遇见了瑞秋."
 
 
 
     scene f_wood_smile2 with tstmgr
 
-    f "Hi there, you look heavier than the last time we met."
+    f "嗨,你看起来比我们上次见面时胖了."
 
 
 
@@ -17,51 +17,51 @@ label F_daily_2:
 
 
 
-    player "That’s... probably the worst greeting I have ever heard."
+    player "这...可能是我听过的最糟糕的问候."
 
 
 
     scene f_wood_weird with tstmgr
 
-    f "Oh... sorry."
+    f "Oh...抱歉."
 
 
 
     scene f_wood_smile with tstmgr
 
-    f "I mean, you look stronger than the last time we met."
+    f "我是说,你看起来比我们上次见面时健壮多了."
 
 
 
-    player "Yeah, that’s much better."
+    player "Yeah,听起来好多了."
 
 
 
     scene f_wood_frown with tstmgr
 
-    f "I don’t talk with boys very often, so... please go easy on me."
+    f "我不常和男孩子说话,所以...请对我宽容一点."
 
 
 
-    player "Emmm... about that..."
+    player "Emmm...这样吗..."
 
 
 
-    player "How is that possible? You are an outgoing girl, I thought you would talk with a lot of people everyday."
+    player "这怎么可能?你是一个外向的女孩,我以为你每天都会和很多人聊天."
 
 
 
-    f "Hmmm... I spent 9 years in girl’s schools before I got into college."
+    f "Hmmm...我上大学前在女子学校呆了9年."
 
 
 
     scene f_wood_wink with tstmgr
 
-    f "So... yeah, I don’t really have the experience of getting along with boys."
+    f "所以...yeah,我真的没有和男孩子相处的经验."
 
 
 
-    f "And you are my first boy friend in college! Congratulations!"
+    f "你是我大学里的第一个男性朋友!祝贺你!"
 
 
 
@@ -69,27 +69,27 @@ label F_daily_2:
 
 
 
-    player "It’s my pleasure."
+    player "这是我的荣幸."
 
 
 
     scene f_wood_smile2 with tstmgr
 
-    f "So, do you want to have a workout with me?"
+    f "所以,你想和我一起锻炼吗?"
 
 
 
-    player "Of course. Let’s go."
+    player "当然.我们走."
 
 
 
     scene f_wood_wink with tstmgr
 
-    f "And I want to go eat some burgers after that!"
+    f "之后我想去吃点汉堡!"
 
 
 
-    player "Sounds great to me."
+    player "听起来不错."
 
 
 
@@ -97,7 +97,7 @@ label F_daily_2:
 
 
 
-    player "Wait, burgers after a workout? Seriously?"
+    player "等等,锻炼后吃汉堡?认真的?"
 
 
 

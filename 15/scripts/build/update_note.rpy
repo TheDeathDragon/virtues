@@ -4,211 +4,212 @@ define update_note_text = '''{size=+2}{color=#ffcd5c}   Thanks for playing our g
 {/color}{color=#df0000}{/color}{/size}
 
 v15:
-    - New personal plots for Uno and Irene
-    - New harem plots for "Theo&Uno&Vera", "Uno&Senning&Irene", "Theodora&Elisa"
-    - New scene for Lady Minna
-    - The happy harem ending for "Theo&Uno&Vera"
-    - 450 new pictures &animated scenes
+    - 乌诺和艾琳的新个人情节
+    - 为 "西奥&乌诺&维拉"、"乌诺&森柠&艾琳"、"狄奥多拉&伊利莎 "新增后宫剧情
+    - 米娜女士的新场景
+    - 西奥&乌诺&薇拉 "的幸福后宫结局
+    - 450张新图片和动画场景
 
 ''' + past_note_link_text
 
 define past_update_note_text = '''v14.5:
-    - New submissive training option for Elisa: Bondage training
-    - New sexskill training option for Elisa: Mother roleplay
-    - New shameless training option for Theodora: Cabinet sex
-    - New submissive training option for Uno: Pet training 
-    - New personal plots for Irene
-    - New harem plots for Vera&Uno&Theo, Theo&Elisa, Uno&Senning
-    - Now there will be red dot guidance in Minna's store and Posia's store
+    - 伊莉莎的新顺从训练选项：捆绑训练
+    - 伊莉莎的新性技能训练选项：母亲的角色扮演
+    - 为西奥多拉新增无耻的训练选项。内阁性爱
+    - 为乌诺提供新的顺从训练选项。宠物训练 
+    - 艾琳的新个人情节
+    - 为薇拉&乌诺&西奥、西奥&艾丽莎、乌诺&森柠新增后宫地块
+    - 现在在米娜的商店和波西娅的商店里将有红点指导。
 
 v14:
-    - New personal plots for Theodora, Senning, Rachel
-    - New harem plots for "Theo&Uno&Vera", "Theo&Irene", "Vera&Senning"
-    - New storyline for Lady Minna, try raise Senning's harem acceptance point to unlock
-    -600 new pictures & animated scenes
+    - 西奥多拉、森柠、瑞秋的新个人情节
+    - 新的后宫情节："西奥&乌诺&薇拉"，"西奥&艾琳"，"薇拉&森柠"
+    - 米娜女士的新故事情节，尝试提高森柠的后宫接受度以解锁。
+    -600张新图片和动画场景
 
 v13.5:
-    - You can now take Vera to dungeon/pool/outdoors after her submissiveness/intimacy/shamelessness level reaches 2
-    - You can now take Elisa to outdoors after her shamelessness level reaches 2
-    - The following incompleted events are now finished, you can replay them in your room 
-    Pet training - Irene, Uno
-    Swimming pool - Irene, Elisa
-    - Finished Elisa's alternative ending, you can replay it in your room
-    - New harem plots for 'girls in your house (Vera, Theo, Uno)'
-    - New personal plots for Elisa
-    - Several bugs/typoes fixed
+    - 在薇拉的顺从性/亲密性/无耻性等级达到2级后，你现在可以带她去地牢/游泳池/户外。
+    - 在伊莉莎的无耻程度达到2级后，你现在可以带她去户外活动了。
+    - 以下未完成的事件现在已经完成，你可以在你的房间里重新播放它们 
+    宠物训练--艾琳，乌诺
+    游泳池--艾琳、伊莉莎
+    - 完成了艾莉莎的另一个结局，你可以在你的房间里重放它。
+    - 为 "你家里的女孩（薇拉、西奥、尤诺）"新增后宫情节
+    - 伊莉莎的新个人情节
+    - 修复了几个错误/类型
 
 v13:
-    - You can now take Theodora to the dungeon
-    - New personal plots for Theodora, Irene, and Uno
-    - New harem plots for 'mother & daughters'
-    - New 'sleeping with' option: Girls in your house
-    - 590 new pictures & animated scenes
+    - 你现在可以带狄奥多拉去地牢了
+    - 西奥多拉、艾琳和乌诺的新个人情节
+    - 新增 "母亲和女儿 "的后宫剧情
+    - 新的 "同床 "选项。你家里的女孩
+    - 590张新图片和动画场景
 
 v12:
-    - You can now replay all alternative endings in your room
-    - Uno's alternative ending has been implemented
-    - You can now take Uno to the basement pool after her intimacy reachs level 2
-    - You can now take Senning outdoors after her shamelessness reachs level 3
-    - Enhanced the color of dots
-    - New personal plots for Vera, Senning, Elisa, and Rachel
-    - New harem plots for 'mother & daughters' and 'girls in your house'
-    - 690 new pictures & animated scenes
+    - 你现在可以在你的房间里重放所有备选结局
+    - 乌诺的另类结局已经实现
+    - 在乌诺的亲密关系达到2级后，你现在可以带她去地下室的游泳池。
+    - 在森柠的无耻达到3级后，你现在可以把她带到户外。
+    - 增强了圆点的颜色
+    - 为薇拉、森柠、伊莉莎和雷切尔新增个人情节
+    - 新增 "母女 "和 "家中女孩 "的后宫剧情
+    - 690个新图片和动画场景
 
 v11:
-    - Rollbacked the version of Renpy engine from 7.4.2 to 7.3.5
-    - You can take Uno and Theodora outdoors after their shamelessness levels reach 2
-    - You can take Irene to the basement pool after her intimacy level reaches 2
-    - New interactions with Lady Minna
-    - New personal plots for Vera, Irene, and Uno
-    - New harem plots for 'mother & daughters' and 'girls in your house'
-    - 590 new pictures & animated scenes
+    - 将Renpy引擎的版本从7.4.2回滚到7.3.5
+    - 当尤诺和西奥多拉的无耻程度达到2级后，你可以带他们去户外活动。
+    - 在艾琳的亲密程度达到2级后，你可以带她去地下室的游泳池。
+    - 与米娜女士的新互动
+    - 维拉、艾琳和乌诺的新个人情节
+    - 新的后宫剧情："母亲和女儿 "和 "你家里的女孩"。
+    - 590张新图片和动画场景
 
 v10:
-    - Expand your house: A dungeon and a swimming pool.
-    - New gameplay: You can now take girls to certain areas and have fun with them
-    - New location: Minna's Shop.
-    - Added an alternative ending for Senning.
-    - Vera, Senning, Theodora, Elisa now have new plots.
-    - 692 new pictures & animated scenes
-    - 24 new plots & events
+    - 扩大你的房子。一个地牢和一个游泳池。
+    - 新的玩法。你现在可以带女孩去某些地方，和她们一起玩耍
+    - 新的地点。米娜的商店。
+    - 增加了森柠的另一个结局。
+    - 薇拉、森柠、西奥多拉、伊丽莎现在有了新的情节。
+    - 692张新图片和动画场景
+    - 24个新剧情和事件
     
 v9:
-    - Added a new sound effect for spanking.
-    - Reduced the price for Posia's services from $500/$1000/$2000 to $200/$500/$800.
-    - Theodora, Irene, Elisa, Rachel, Uno now have new plots.
-    - Rewrote two Prologue events. 
-    - 18 new main story events & plots
-    - 2 new training options
-    - 14 new animated scenes
-    - 16 new short events
+    - 增加了一个新的打屁股的声音效果。
+    - 将波西亚的服务价格从500美元/1000美元/2000美元降至200美元/500美元/800美元。
+    - 狄奥多拉, 艾琳, 伊莉莎, 瑞秋, 乌诺现在有新的情节。
+    - 重写了两个序幕事件。
+    - 18个新的主要故事事件和剧情
+    - 2个新的训练选项
+    - 14个新的动画场景
+    - 16个新的短事件
 
 v8:
-    - Implemented the new gallery system. It should have fixed all the known gallery issues
-    - Implemented sex sound effects & more bgms
-    - Implemented shopping system. You can now spend your money in Posia's shop
-    - New locations: Bungalow, Posia's shop
-    - 16 new main story events & plots
-    - 3 new training events
-    - 15 new short events
-    - 12 new animated scenes
-    - 9 new shop events
+    - 实施了新的画廊系统。它应该已经解决了所有已知的画廊问题
+    - 实施了性爱的声音效果和更多的bgms
+    - 实施了购物系统。你现在可以在波西亚的商店里花钱了。
+    - 新的地点。平房、波西亚的商店
+    - 16个新的主要故事事件和剧情
+    - 3个新的训练事件
+    - 15个新的简短事件
+    - 12个新的动画场景
+    - 9个新的商店事件
 
 v7:
-    - The new interaction system
-    You can now unlock abundant repeatable "training events" after you leveled up girls' attributes
-    - The wallpaper system
-    You can now change the wallpaper of girl's rooms
-    - Removed the Outfit Change system
-    - The new type of repetitive short events: Harem events
-    Such events will show on the map with a pink heart badge. You can raise the girl's harem acceptance levels by experiencing such events.
-    - Greatly reworked the prologue
-    - Reworked Senning's sexskill lv.1 scene
-    - Some routes of the following incompleted events are now finished
-    The event of "Vera and Uno in the laundry room"
-    The event of "Irene and Elisa in the swimming pool"
-    The event of "Vera and Uno in the bikini fighter dresses"
-    The event of "go to the beach with Senning"
-    - Senning, Theodora, Irene, Rachel will have new plots. And you can now improve your relationship with Theodora
-    - 22 new short events with 95 new pictures
-    - 14 New main story events & plots with 425 new pictures
-    - 5 New Training events with 107 pictures
-    - 12 New animated scenes
+    - 新的互动系统
+    你现在可以在提高女孩的属性水平后解锁丰富的可重复的 "训练事件"。
+    - 壁纸系统
+    你现在可以改变女孩房间的墙纸。
+    - 删除了服装更换系统
+    - 新类型的重复性短事件。后宫事件
+    这类事件会在地图上显示一个粉红色的心形徽章。你可以通过体验此类事件来提高女孩的后宫接受程度。
+    - 大幅重写了序幕
+    - 重做了森柠的sexskill lv.1场景
+    - 以下未完成的事件的部分路线现已完成
+    维拉和乌诺在洗衣房 "的事件
+    艾琳和伊丽莎在游泳池 "的事件
+    薇拉和乌诺穿着比基尼战士的衣服 "的事件
+    "和森柠一起去海滩 "的活动
+    - 森柠，西奥多拉，艾琳，雷切尔将有新的情节。而且你现在可以改善你与西奥多拉的关系
+    - 22个新的短事件，95张新图片
+    - 14个新的主要故事事件和情节，425张新图片
+    - 5个新的培训事件，有107张图片
+    - 12个新的动画场景
 
 v0.6:
-    - New mechanic: Girl's attributes
-    {size=-4}Their attributes will show up after your relationships with girls improved. You can level them up and trigger the corresponding plots by raising girls' love points as you did before.{/size}
-    - Replaced girls' "lust point" with a new system: "Harem acceptance"
-    {size=-4}All the plots & events that have more than just one girl in will now raise the H.A points of those girls{/size}
-    - Added a new original song in the game
-    {size=-4}It is used as the main menu's background music{/size}
-    - New location: Beach
-    - 21 new short events with 60 new pictures.
-    - 22 New main story events & plots with 524 new pictures.
-    - 12 New animated scenes.
-    - Reworked 27 old pictures.
-    - Reworked the "drunk rape" scene with Vera.
+    - 新机制：女孩的属性
+    {size=-4}在你与女孩的关系改善后，她们的属性会显示出来。你可以像以前一样，通过提高女孩的爱情点数来提升她们的等级，并触发相应的情节。{/size}。
+    - 用一个新的系统取代了女孩的 "情欲点"。"后宫接受度"
+    {size=-4}所有有不止一个女孩加入的情节和事件，现在将提高这些女孩的H.A点{/size}。
+    - 在游戏中增加了一首新的原创歌曲
+    {size=-4}它被用作主菜单的背景音乐{/size}。
+    - 新的地点。海滩
+    - 21个新的短事件，有60张新图片。
+    - 22个新的主要故事事件和情节，524张新图片。
+    - 12个新的动画场景。
+    - 重新制作了27张旧图片。
+    - 重新制作了与维拉的 "醉酒强奸 "场景。
 
 V0.5a:
-    - Added 1 new outfit for Irene
-    - Reworked the interactions with Irene after the change of your relationship
-    - Now you can press E to open a simple debugging tool
-    - Fixed bugs
-    - Reworked 3 pictures
-    - 27 new pictures
+    - 为艾琳增加了1套新衣服
+    - 在你的关系改变后，重新修改了与艾琳的互动。
+    - 现在你可以按E键来打开一个简单的调试工具。
+    - 修正了一些错误
+    - 重做了3张图片
+    - 27张新图片
 
 V0.5:
-    - Add a new mechanic to raise girls' loves: 
-        Girls will now show up randomly at different locations with more than 100 unique repetitive short events.
-    - New location: Dark Alley, Downtown. Location removed: Giftstore.
-    - 1 new outfit for Vera.
-    - You can now improve your relationship with Irene.
-    - 101 new short events as I mentioned above.
-    - 540 new pictures & animations. 
-    - 20 new plots with Vera, Senning, Irene, and Theodora. 
-    - 10 new animated scenes. 
-    - Bugs fixed
+    - 添加一个新的机制来提高女孩的爱。
+        女孩现在会随机出现在不同的地点，有超过100个独特的重复的短事件。
+    - 新的地点。市中心的黑暗小巷。移除的地点。礼品店。
+    - 薇拉的1套新装备。
+    - 你现在可以改善你与艾琳的关系。
+    - 101个新的短事件，正如我上面提到的。
+    - 540个新的图片和动画。
+    - 20个与薇拉、森柠、艾琳和西奥多拉的新情节。 
+    - 10个新的动画场景。
+    - 修复的错误
 
 V0.4:
-    - v0.3 saves are now compatible with the new update.
-    - Huge UI improvements, even huger than what we did in v0.3.
-    - Some of the new 60fps animations will now include head-moving and emotion-changing
-    - You can replay scenes with branches in your bedroom now.
-    - Temporarily removed the MC's Studying & Working & Sporting levels. They will be back in the future after a total rework.
-    - School & Elisa's Mansion will now play similar roles to your B&B house.
-    - Reworked 12 old pictures. 
-    - Now it is easier to increase the love of Vera, Senning, Theodora, and Rachel.
-    - New outfit for Senning.
-    - You can now change the relationship with Senning.
-    - You can now observe girls' actions in school and in Elisa's mansion. 
-    - 387 new pictures & animations.
-    - 19 new events & interactions with Vera, Senning, Irene, Elisa, Rachel, and Uno. 
+    - v0.3版本的保存现在与新的更新兼容。
+    - 巨大的用户界面改进，甚至比我们在v0.3中所做的更大。
+    - 一些新的60fps动画现在将包括头部移动和情绪变化。
+    - 你现在可以在你的卧室里重放有分支的场景。
+    - 暂时删除了MC的学习&工作&运动等级。它们将在未来完全重做后回来。
+    - 学校和伊莉莎的房子现在将扮演与你的民宿房子类似的角色。
+    - 重做了12张老照片。 
+    - 现在更容易增加维拉、森柠、西奥多拉和雷切尔的爱。
+    - 森柠的新装束。
+    - 现在你可以改变与森柠的关系。
+    - 现在你可以观察女孩在学校和伊莉莎的豪宅中的行为。 
+    - 387张新图片和动画。
+    - 19个新的事件和与维拉、森柠、艾琳、伊莉莎、瑞秋和乌诺的互动。 
 
 v0.31: 
-    - Bugs fixed
-    - Minor UI adjustments
+    - 修复的错误
+    - 小小的UI调整
     
 V0.30:
-    - Huge UI improvements.
-    - You can now replay the memory by right-clicking the scenes in the gallery.
-    - More information has been added in the saves description.
-    - You can rename your saves now.
-    - A red badge will show up on the locations if there is any new event.
-    - New game icon for the PC version.
-    - Implemented outfit-change system.
-    - Implemented the "Relationship" system.
-    - Implemented the "Subplots Replay" system.
-    - You can now observe girl's actions in your house.
-    - Deleted the "Weekend Plan", "General Hints", and "Credits".
-    - Rewrote the girl's profile pages and the hints.
-    - Reworked the B&B system.
-    - Reworked 32 old pictures.
-    - Rewrote a subsequence plot about Vera if you chose to get her with force at that drunk night.
-    - You will now spend 25% less time on unlocking Senning's plots.
-    - You will now spend 25% less time on unlocking Theodora's plots.
-    - 372 new pictures.
-    - 18 new events & interactions with Vera, Theodora, and Uno
+    - 巨大的UI改进。
+    - 现在你可以通过右键点击画廊中的场景来重放记忆。
+    - 在保存的描述中增加了更多的信息。
+    - 你现在可以重命名你的保存。
+    - 如果有任何新的事件，在地点上会显示一个红色徽章。
+    - PC版的新游戏图标。
+    - 实施了服装更换系统。
+    - 实施了 "关系 "系统。
+    - 实现了 "次要情节回放 "系统。
+    - 现在你可以观察女孩在你家里的行动。
+    - 删除了 "周末计划"、"一般提示 "和 "信用"。
+    - 重写了女孩的档案页和提示。
+    - 重做了B&B系统。
+    - 重写了32张老照片。
+    - 重写了关于薇拉的后续情节，如果你选择在那个醉酒之夜用武力得到她。
+    - 你现在花在解锁森柠的情节上的时间将减少25%。
+    - 你现在花在解锁西奥dora的剧情上的时间将减少25%。
+    - 372张新图片。
+    - 与维拉、西奥多拉和乌诺的18个新事件和互动
 
 v0.21:
-    - Added "General Hints" button in the game.
-    - Now when you unlock a new "Weekend Event", a badge will show up on "Weekend Plan" button. 
-    - Optimized Theodora's anime icon.
-    - New app icon for Android version.
-    - Optimized UIs in Android version.
-    - Fixed bugs & minor changes in dialogs.
+    - 在游戏中增加了 "一般提示 "按钮。
+    - 现在当你解锁一个新的 "周末活动 "时，"周末计划 "按钮上会显示一个徽章。
+    - 优化了狄奥多拉的动漫图标。
+    - 安卓版的新应用图标。
+    - 优化了安卓版的UI。
+    - 修正了对话框中的错误和微小的变化。
+
 v0.2: 
-    - Highly reduce the game size while keeping the image quality unchanged.
-    - Added one no-copyright BGM in the game.
-    - Created a sound effect for clicking/tapping.
-    - Added some simple tutorials in the game.
-    - New buttons for "B&B Panel" and "Weekend Plan Panel".
-    - Decreased the EXP requirement for leveling up MC's ability from 8 to 6.
-    - Decreased the weekly land tax & utility fees from $2000 to $1600.
-    - Increased the probability for increasing Vera's love through finding her at her workplaces from 55% to 70%.
-    - Reworked 61 old images.
-    - New branch route at that drunken night with Vera.
-    - 19 new events.
-    - Theodora, Irene and Elisa now have their first interaction option.
-    - Introduce the 7th girl: Uno.
+    - 在保持图像质量不变的情况下，高度减少了游戏的大小。
+    - 在游戏中添加了一个无版权的BGM。
+    - 创建了一个点击/敲击的声音效果。
+    - 在游戏中加入了一些简单的教程。
+    - 增加了 "B&B面板 "和 "周末计划面板 "的按钮。
+    - 把提高MC能力的EXP要求从8降到6。
+    - 将每周的土地税和公用事业费从2000美元减少到1600美元。
+    - 通过在维拉的工作场所找到她来增加她的爱的概率从55%提高到70%。
+    - 重新制作了61张老照片。
+    - 在与薇拉的那个醉酒之夜，新的分支路线。
+    - 19个新事件。
+    - 狄奥多拉, 艾琳和伊莉莎现在有了他们的第一个互动选项。
+    - 引入第七个女孩。乌诺。
 '''
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

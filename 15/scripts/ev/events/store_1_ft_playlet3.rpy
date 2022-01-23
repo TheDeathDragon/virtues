@@ -8,15 +8,15 @@ label store_1_ft_playlet3:
 
     scene store_1_ft_playlet3_1 with dissolve
 
-    "Posia" "The next day will be your lucky day... ... Wummmm~~~"
+    "波西亚""明天就是你的幸运日了......Wummmm~~~"
 
 
 
-    "Posia" "You will please your manager at work... and have lunch with her together~"
+    "波西亚""你会在工作中取悦你的经理...和她一起吃午饭~"
 
 
 
-    "Posia" "And her mother will let you nap on her legs... ..."
+    "波西亚""她妈妈会让你睡在她腿上......"
 
 
 

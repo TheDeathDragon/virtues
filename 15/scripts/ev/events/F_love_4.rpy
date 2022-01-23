@@ -3,7 +3,7 @@ label F_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "It has been a few days since I met Rachel the last time. Now it may be the time to pay her a visit."
+    "距离我上次见到瑞秋已经有几天了.现在可能是时候去拜访她了."
 
 
 
@@ -11,69 +11,69 @@ label F_love_4:
 
 
 
-    "*Door knocking sound* Knock, knock, knock... ..."
+    "*敲门的声音*咚,咚,咚......"
 
 
 
-    f "Coming!"
+    f "进来!"
 
 
 
     scene f_love_4_1 with tstmgr
 
-    f "(Opened the door) Hah! [P]! I was waiting for you so bad! Come in, come in~~"
+    f "(打开门)Hah![P]!我一直在等你!进来,进来~~"
 
 
 
-    player "(Got surprised at her enthusiasm) Oh, okay, eh, good afternoon... ..."
+    player "(对她的热情感到惊讶)Oh,okay,eh,下午好......"
 
 
 
     scene f_love_4_2 with tstmgr
 
-    f "Ah, give me a second!"
+    f "Ah,给我点时间!"
 
 
 
     scene f_love_4_3 with tstmgr
 
-    player "Oh, sure..."
+    player "Oh,当然..."
 
 
 
     scene void with tstmgr
 
-    "She gave me a wink and ran away while I closed the door."
+    "我关上门时,她对我眨了眨眼就跑开了."
 
 
 
-    "Then I turned around and saw... ... ... ..."
+    "我回头一看............"
 
 
 
     scene f_love_4_4 with tstmgr
 
-    f "Would you please touch me like the last time?"
+    f "你能像上次那样抚摸我吗?"
 
 
 
-    player "Holy... wait, wait, can you put your clothes on first?"
+    player "Holy...等等,你能先把衣服穿上吗?"
 
 
 
     scene f_love_4_5 with tstmgr
 
-    f "Huh? But... ..."
+    f "Huh?但是......"
 
 
 
-    player "Let’s... talk first, okay?"
+    player "让我们...先聊聊,okay?"
 
 
 
     scene f_love_4_6 with tstmgr
 
-    f "Fine... ..."
+    f "好吧......"
 
 
 
@@ -85,15 +85,15 @@ label F_love_4:
 
     scene f_love_4_7 with tstmgr
 
-    f "So... what do you want to talk about?"
+    f "所以...你想聊什么?"
 
 
 
-    f "You look strange today..."
+    f "你今天看起来很奇怪..."
 
 
 
-    player "Alright, see, Rachel, the touching thing that you want me to do is actually very inappropriate. It should be an intimate activity between lovers, not friends."
+    player "Alright,听着,瑞秋,你想让我做的抚摸行为其实是非常不合适的.它应该是恋人之间的亲密活动,而不是朋友之间的."
 
 
 
@@ -103,7 +103,7 @@ label F_love_4:
 
 
 
-    player "I... I shouldn’t do such things to you before. I took them as pranks and I went too far. I’m sorry... ..."
+    player "我...我以前不应该对你做这种事.我把它们当成了恶作剧,我做得太过分了.我很抱歉......"
 
 
 
@@ -113,97 +113,97 @@ label F_love_4:
 
     scene f_love_4_9 with tstmgr
 
-    f "I have... already guessed that those were not just normal interactions between friends."
+    f "我...我已经猜到这不仅仅是朋友间的正常互动."
 
 
 
-    f "Similar things had happened before. I tried to make friends with some boys, they wanted to touch me, I didn’t reject them, and then my girl friends showed up and kicked them away."
+    f "类似的事情以前也发生过.我试着和一些男孩交朋友,他们想要碰我,我没有拒绝他们,然后我的女性朋友出现了,把他们踢走了."
 
 
 
-    f "For a long time I didn’t know why my friends were so afraid of me getting along with boys. Girls told me that what those boys wanted to do to me was sexual harassment, but they were too shy to explain what sexual harassment really meant."
+    f "很长一段时间,我不知道为什么我的朋友们如此害怕我和男孩相处.女孩们告诉我,那些男孩想对我做的是性骚扰,但她们太害羞了,无法解释性骚扰的真正含义."
 
 
 
-    player "And you never tried to figure out yourself?"
+    player "你从来没有试着了解自己?"
 
 
 
-    f "No, because I was too busy at training. My parents and my coaches said that I was born to be an Olympic champion. I was trained rigorously in girl-only schools ever since I was 10. So... ... I don’t have the chance to think about other things at all."
+    f "No,因为我太忙于训练了.我的父母和教练都说我天生就是奥运冠军.我从10岁起就在女子学校接受严格的训练.所以...我没有机会去想其他的事情."
 
 
 
-    player "The school didn’t teach you anything about it?"
+    player "学校什么都没教你?"
 
 
 
     scene f_love_4_10 with tstmgr
 
-    f "I don’t remember... ... Maybe I skipped those minor classes for training."
+    f "我不记得了...也许我是为了训练而翘了辅修课."
 
 
 
     scene f_love_4_11 with tstmgr
 
-    player "That was... so bad... ..."
+    player "这...太糟糕了......"
 
 
 
-    player "But... you can always get some information on your phone or laptop, right?"
+    player "但是...你总是可以从你的手机或笔记本电脑上得到一些信息,对吧?"
 
 
 
     scene f_love_4_8 with tstmgr
 
-    f "I don’t have a laptop, and my phone... ..."
+    f "我没有笔记本电脑,至于手机......"
 
 
 
     scene f_love_4_12 with tstmgr
 
-    f "Da-lah~~ it can’t even connect to the Internet~~"
+    f "Da-lah~~它甚至不能连网~~"
 
 
 
-    player "Oh my... ... ... ..."
+    player "我的天............"
 
 
 
     scene f_love_4_11 with tstmgr
 
-    f "Anyway, thanks for telling me that. You are such a reliable friend!"
+    f "不管怎样,谢谢你告诉我.你真是个可靠的朋友!"
 
 
 
     scene f_love_4_8 with tstmgr
 
-    f "And there is another thing I want to know... ... Perhaps you can tell me something about it, too?"
+    f "还有一件事我想知道...也许你也能告诉我一些关于它的情况?"
 
 
 
-    player "Sure, what do you want to know?"
+    player "当然,你想知道什么?"
 
 
 
     scene f_love_4_13 with tstmgr
 
-    f "I was always wondering... what it means to have sex with someone?"
+    f "我一直在想...和某人发生性关系意味着什么?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    "Oh my God, that was definitely one of the most difficult question in the world. I used to imagine what I would say to my children when they ask me such a question 20 years later, but I didn’t expect to explain it to a 19-year-old girl now!"
+    "天啊,这绝对是世界上最难的问题之一.我曾经想象过,20年后,当孩子们问我这样一个问题时,我会对他们说些什么,但我没想到现在会向一个19岁的女孩解释这个问题!"
 
 
 
-    "I... I have to avoid this question. There is no way I can explain it well!"
+    "我...我不得不回避这个问题.我不可能解释得很好!"
 
 
 
-    player "That was... hard to explain..."
+    player "这...很难解释..."
 
 
 
@@ -213,29 +213,29 @@ label F_love_4:
 
 
 
-    player "How about this? I will go find you a DVD about sexual education so you can learn it yourself. It will definitely teach you much better than I do."
+    player "这样怎么样?我会给你找一张关于性教育的DVD,这样你就可以自己学习了.它肯定会教你比我更好的东西."
 
 
 
     scene f_love_4_11 with tstmgr
 
-    f "Oh, yeah, that sounds good."
+    f "Oh,yeah,听起来不错."
 
 
 
-    player "Alright then, I’ll... I’ll see you again soon."
+    player "好了,我...我很快就会再找你."
 
 
 
     scene f_love_4_7 with tstmgr
 
-    f "Wait, you are going to leave?"
+    f "等等,你要走了?"
 
 
 
     scene f_love_4_8 with tstmgr
 
-    f "Are you really sure... you don’t want to... touch me or something?"
+    f "你真的确定...你不想...摸我还是什么?"
 
 
 
@@ -245,21 +245,21 @@ label F_love_4:
 
     scene f_love_4_14 with tstmgr
 
-    player "Nope, you should save that till you find someone you love."
+    player "Nope,你应该把这些留到你找到的那个你爱的人."
 
 
 
-    player "I’m leaving now..."
+    player "我现在要走了..."
 
 
 
     scene void with tstmgr
 
-    "I left her room without looking back, because I was afraid that I might lose myself and took advantages at her again."
+    "我头也不回地离开了她的房间,因为我怕自己会迷失,再一次占她的便宜."
 
 
 
-    "*Door shutting sound* Bung... ... ... ..."
+    "*门关闭声音*砰............"
 
 
 
@@ -269,11 +269,11 @@ label F_love_4:
 
 
 
-    f "Awww... ... But I have been expecting today for so long... ..."
+    f "Awww......但是我期待今天已经很久了......"
 
 
 
-    f "That was so boring~~~"
+    f "太无聊了~~~"
 
 
 
@@ -283,13 +283,13 @@ label F_love_4:
 
 
 
-    f "I really want to have that feeling again... ... ... ..."
+    f "我真的很想再次体验那种感觉............"
 
 
 
     scene f_love_4_17 with tstmgr
 
-    f "(Rubbing crotch unintentionally) ... ... ... ..."
+    f "(无意中摩擦的胯部)............"
 
 
 
@@ -299,17 +299,17 @@ label F_love_4:
 
 
 
-    f "Touching this place feels... quite good... ..."
+    f "触摸这个地方感觉...很好......"
 
 
 
-    f "It must be better if he is the one who is touching me right now..."
+    f "如果现在是他在摸我,那就更好了..."
 
 
 
     scene f_love_4_19 with tstmgr
 
-    f "Maybe I really should find myself a boyfriend... ... ... ..."
+    f "也许我真的应该给自己找个男朋友了............"
 
 
 

@@ -3,7 +3,7 @@ label G_daily_2:
     scene g_daily2_1 with tstmgr
     play music happy
 
-    "It seems like Senning and Uno are having a good conversation."
+    "看来森柠和乌诺谈得很愉快."
 
     scene g_daily2_2 with tstmgr
 
@@ -11,33 +11,33 @@ label G_daily_2:
 
     scene g_daily2_3 with tstmgr
 
-    b "Hi, [P]. It's good to see you here."
+    b "Hi,[P].很高兴在这里见到你."
 
-    player "Hi, Sen..."
+    player "Hi,森..."
 
-    player "and Uno."
+    player "还有乌诺."
 
-    "Uno answered with a nod."
+    "乌诺点头应答."
 
     scene g_daily2_4 with tstmgr
 
-    b "Wait, you two know each other?"
+    b "等等,你们两个认识?"
 
-    player "Yeah, well, she is a friend of a friend, and she is currently living in my place as a B&B guest."
+    player "Yeah,well,她是我朋友的朋友,她目前是我民宿的一位客人."
 
-    b "Why would she do that?"
+    b "她为什么住你那?"
 
-    player "Well... she didn't have anywhere else to go after she left home."
+    player "Well...她离开家之后就没有别的地方可去了."
 
-    "Uno nodded again."
+    "乌诺又点了点头."
 
     b "... ... ... ..."
 
     scene g_daily2_5 with tstmgr
 
-    g "He has a... competitive price."
+    g "他给出了一个...诱人的价格."
 
-    "Competitive price?"
+    "诱人的价格?"
 
     scene g_daily1_6 with flashback
 
@@ -45,19 +45,19 @@ label G_daily_2:
 
     scene g_daily2_5 with flashback
 
-    "Well... if she says so..."
+    "Well...如果她这么说..."
 
-    b "I see... ..."
+    b "我明白了......"
 
     scene g_daily2_6 with tstmgr
 
-    b "I will pay you guys a visit when I have time."
+    b "我有空的时候会去拜访你们的."
 
-    g "I'm looking forward to it."
+    g "我很期待."
 
     scene g_daily2_7 with tstmgr
 
-    g "I have to go check the comics section now, see you two later."
+    g "我现在要去看漫画了,待会儿再见."
 
     scene g_daily2_8 with tstmgr
 
@@ -65,29 +65,29 @@ label G_daily_2:
 
     scene g_daily2_9 with tstmgr
 
-    "And now it's just me and Senning."
+    "现在就剩下我和森柠了."
 
-    player "Seems like you two are getting along with each other."
+    player "看来你们两个相处得很好."
 
-    b "Yeah, we have a lot in common."
+    b "Yeah,我们有很多共同点."
 
-    "Well, I have some reservations about that. I mean, Senning would never go to a public area in a skimpy nightgown or film amateur porn."
+    "Well,我对此保留我的意见.我的意思是,森柠绝不会穿着暴露的睡衣去公共场所,也不会做一个业余的色情摄影师."
 
     scene g_daily2_10 with tstmgr
 
-    b "She likes to read, and she has some unique insights on philosophy. She doesn't talk much, but what she does say is full of wisdom!"
+    b "她喜欢读书,对哲学有独到的见解.她话不多,但她说的每一句话都充满智慧!"
 
-    b "I think we can be best friends."
+    b "我想我们可以成为最好的朋友."
 
     player "Eh... ... ... ..."
 
-    player "*Forcing a smile* I'm...sure you will be. I'm happy for you."
+    player "(勉强的微笑)很高兴...听你这么说.我为你感到高兴."
 
     scene void with tstmgr
 
     "... ... ... ..."
 
-    "I spent some time with Senning in the bookstore."
+    "我和森柠在书店呆了一会儿."
 
     stop music fadeout 1.0
 

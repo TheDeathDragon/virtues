@@ -3,11 +3,11 @@ label C_daily_10:
     scene void with tstmgr
     play music happy
 
-    "I encountered Theo in the company."
+    "我在公司里遇到了狄奥."
 
 
 
-    player "Eh, hi, Theo."
+    player "Eh,hi,狄奥."
 
 
 
@@ -17,19 +17,19 @@ label C_daily_10:
 
 
 
-    c "You need to call me ‘manager’ at work."
+    c "你工作时要叫我“经理”."
 
 
 
-    "Strange. She acted as if nothing had happened that night."
+    "奇怪.她表现得好像那天晚上什么都没发生."
 
 
 
-    player "Do you want to talk about... that night?"
+    player "你想谈谈...那晚的事吗?"
 
 
 
-    c "That... night?"
+    c "那...晚?"
 
 
 
@@ -37,13 +37,13 @@ label C_daily_10:
 
     scene c_daily10_2 with tstmgr
 
-    c "Is this a chat room? Get back to your work, now."
+    c "这是聊天室吗?现在,回去工作."
 
 
 
     scene c_daily10_3 with tstmgr
 
-    c "I’m going out for a meeting. Text me if you have any questions at work."
+    c "我要出去开会.如果你在工作中有任何问题,发短信给我."
 
 
 
@@ -51,7 +51,7 @@ label C_daily_10:
 
 
 
-    c "Nothing happened... that night."
+    c "什么都没有发生...那晚."
 
 
 

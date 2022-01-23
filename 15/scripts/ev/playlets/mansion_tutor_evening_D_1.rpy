@@ -2,35 +2,35 @@ label mansion_tutor_evening_D_1:
 
     scene void with tstmgr
 
-    "This evening, I was tutoring Irene in her room... ..."
+    "今天晚上,我在艾琳的房间里辅导她......"
 
 
 
     scene rcsj_d13 with tstmgr
 
-    d "It is already late. I think you should stay here for tonight, [P]."
+    d "已经很晚了.我想你今晚应该呆在这里,[P]."
 
 
 
-    player "Eh, I'd like to, but I have other things to do."
+    player "Eh,我很乐意,但我还有别的事要做."
 
 
 
-    d "What things?"
+    d "什么事?"
 
 
 
-    player "I need to pick up a friend after she gets off work."
+    player "我需要在朋友下班后去接她."
 
 
 
     scene rcsj_d14 with tstmgr
 
-    d "A she?"
+    d "她?"
 
 
 
-    player "Don't think too much, now concentrate on your homework."
+    player "不要想太多,现在专心做你的作业."
 
 
 
@@ -40,7 +40,7 @@ label mansion_tutor_evening_D_1:
 
 
 
-    d "Fine... ..."
+    d "好吧......"
 
 
 

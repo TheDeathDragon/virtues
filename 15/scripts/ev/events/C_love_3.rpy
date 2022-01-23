@@ -3,83 +3,83 @@ label C_love_3:
     scene void with tstmgr
     play music sorrow
 
-    "Midnight, in Elisa's mansion."
+    "午夜,在伊莉莎的别墅."
 
-    "*The following plot is from Theodora's perspective*"
+    "*下面的情节是狄奥多拉的视角*"
 
     scene c_love_3_1 with tstmgr
 
-    c "I'm home."
+    c "我回来了."
 
-    "No one answers."
+    "无人应答."
 
     scene c_love_3_2 with tstmgr
 
     c "... ... ... ..."
 
-    c "Uh, they must be asleep by now."
+    c "Uh,她们现在一定睡着了."
 
     scene c_love_3_3 with tstmgr
 
-    "I stood in this dark empty living room alone and sighed out."
+    "我独自站在这个黑暗空旷的客厅里,叹了口气."
 
-    c "This place is just like what it used to be, full with emptiness."
+    c "这个地方和以前一样,充满了空虚."
 
     scene void with tstmgr
 
-    "Irene always critized me for moving out from her and mom. She said I did that because I don't love them. Well, that's not true."
+    "艾琳总是批评我搬离她和妈妈.她说我这么做是因为我不爱她们.实际上不是这样的."
 
-    "I moved out only because I hate this place. I started hating it ever since we moved in here 15 years ago."
+    "我搬出去只是因为我讨厌这个地方.自从15年前我们搬到这里,我就开始讨厌它了."
 
-    "This mansion is too big for a family of three, way too big. I feel like I am drowning in the endless emptiness everytime when I step into this place, so I chose to run away from it when I finally got the chance."
+    "这幢别墅对于一个三口之家来说太大了,太大了.每次踏进这个地方,我都觉得自己淹没在无尽的空虚中,所以当我终于有机会的时候,我选择了逃避."
 
     scene c_love_3_3 with tstmgr
 
     c "... ... ... ..."
 
-    c "(Sighing) But why I came back here again tonight..."
+    c "(叹息)但为什么我今晚又回到这里..."
 
     c "... ... ... ..."
 
-    c "Guess I miss my bed..."
+    c "我想我的床了..."
 
-    c "And that big bathtub..."
+    c "还有那个大浴缸..."
 
     scene void with dissolve
 
-    "I walked to the bathroom quietly, opened the light, filled the tub with warm water, and took my clothes off."
+    "我静静地走进浴室,打开灯,往浴缸里注满热水,然后脱下衣服."
 
     scene c_love_3_4 with longdissolve
 
-    c "(Moaning with comfort) Ah... this feels good..."
+    c "(舒服的呻吟)Ah...这感觉很好..."
 
-    c "Nothing can be better than a bath after work."
+    c "没有什么比下班后洗个澡更好的了."
 
     scene c_love_3_5 with tstmgr
 
-    c "The only place that I can get rid of the pain... both physicaly and mently."
+    c "这里是我唯一能摆脱痛苦的地方...无论是身体上还是精神上."
 
     c "... ... ... ..."
 
     scene c_love_3_6 with tstmgr
 
-    c "I wish [P] is here so he can give me a massage."
+    c "我希望[P]在这,这样他就可以给我按摩了."
 
     scene c_love_3_7 with tstmgr
 
-    c "Hmm... what?"
+    c "Hmm...什么?"
 
-    c "Weird thought. I must be too tired. "
+    c "奇怪的想法.我一定是太累了."
 
-    c "I should just... finish this and go to bed."
+    c "我应该...做完这个然后上床睡觉."
 
     scene void with tstmgr
 
-    "And suddenly, the door opened."
+    "突然,门开了."
 
     scene c_love_3_8 with tstmgr
 
-    player "Holy... ..."
+    player "天啊......"
 
     scene c_love_3_9 with tstmgr
 
@@ -87,27 +87,27 @@ label C_love_3:
 
     scene c_love_3_10 with tstmgr
 
-    c "What the fuck?! "
+    c "他妈的什么鬼?!"
 
     scene c_love_3_8 with tstmgr
 
-    player "Sorry, I didn't know you are in here."
+    player "对不起,我不知道你在这里."
 
     scene c_love_3_10 with tstmgr
 
-    c "Why the fuck are you in my mom's house at this time?"
+    c "你他妈的为什么这个时候在我妈妈家里?"
 
     scene c_love_3_8 with tstmgr
 
-    player "Eh... Irene has an exam tomorrow, and your mom asked me to stay here tonight so I could help her review until late."
+    player "Eh...艾琳明天有考试,你妈妈让我今晚留下来帮她复习,然后就弄到很晚."
 
-    player "Why did you... ..."
+    player "你怎么在......"
 
     scene c_love_3_10 with tstmgr
 
-    c "Not a good time to chat, idiot!"
+    c "现在不是聊天的时候,笨蛋!"
 
-    c "Get out of this roo..."
+    c "现在离开这房间..."
 
     scene c_love_3_9 with tstmgr
 
@@ -115,13 +115,13 @@ label C_love_3:
 
     scene c_love_3_11 with tstmgr
 
-    c "(What is... that...)"
+    c "(这...)"
 
-    player "Eh... okay, will do, sorry again. "
+    player "Eh...okay,好吧,再次抱歉."
 
     scene void with tstmgr
 
-    "He left the room and shut the door."
+    "他离开房间,关上了门."
 
     scene c_love_3_12 with tstmgr
 
@@ -133,17 +133,17 @@ label C_love_3:
 
     scene c_love_3_14 with tstmgr
 
-    c "This is... ..."
+    c "这真是......"
 
     scene c_love_3_15 with tstmgr
 
-    c "How on earth could he..."
+    c "这究竟..."
 
     "... ... ... ..."
 
     scene void with tstmgr
 
-    "By the time I came out of the bathroom, [P] was already gone. He must have thought I was angry and decided to run away from me."
+    "当我从浴室出来的时候,[P]已经离开了.他一定以为我生气了."
 
     "... ... ... ..."
 

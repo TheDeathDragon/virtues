@@ -1,8 +1,8 @@
 label outdoors_C:
     menu:
-        "Take a walk":
+        "散步":
             jump outdoors_C.c_outdoors_1
-        "Masturbation":
+        "自慰":
 
             jump outdoors_C.c_outdoors_2
 
@@ -18,7 +18,7 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_1 with dissolve
 
-    c "*Walking* ... ... ... ..."
+    c "*散步*............"
 
 
 
@@ -28,7 +28,7 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_2 with tstmgr
 
-    c "*Walking* ... ... ... ..."
+    c "*散步*............"
 
 
 
@@ -38,11 +38,11 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_3 with tstmgr
 
-    c "What’s the problem?"
+    c "有什么问题?"
 
 
 
-    player "I thought... you would feel... at least embarrassed, but you walk like nothing happened."
+    player "我以为...你会觉得...至少很尴尬,但你走路的样子好像什么都没发生过."
 
 
 
@@ -52,29 +52,29 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_4 with tstmgr
 
-    c "I am the woman who reveal my bra to the public everyday, so yeah, I don’t really feel embarrassed to walk without it."
+    c "我是那种每天都向公众展示胸罩的女人,所以我不觉得不穿胸罩走路很尴尬."
 
 
 
-    c "Besides, I know there are no other people around."
+    c "而且,我知道周围没有其他人."
 
 
 
-    player "How do you know?"
+    player "你怎么知道?"
 
 
 
     scene c_outdoors_1_5 with tstmgr
 
-    c "No one can keep quiet when seeing my naked body, and we haven’t heard any voice yet."
+    c "没有人能在看到我赤裸的身体时保持冷静,我们还没有听到任何声音."
 
 
 
-    player "That was... persuasive."
+    player "有...有道理."
 
 
 
-    player "Alright~ Let’s see if you can keep calm after I do this~"
+    player "Alright~我这么做之后,看看你能不能保持冷静~"
 
 
 
@@ -104,23 +104,23 @@ label outdoors_C.c_outdoors_1:
 
 
 
-    "And this is it, my secret weapon tonight, the clothespins~"
+    "这就是我今晚的秘密武器,晒衣夹~"
 
 
 
     scene c_outdoors_1_10 with tstmgr
 
-    c "What... what the fuck... is this... ..."
+    c "这他妈的是...什么......"
 
 
 
     scene c_outdoors_1_11 with tstmgr
 
-    c "Nipples~~~~~ Ohhhhhh~~~~ I can’t take it~~~~"
+    c "乳头~~~~~Ohhhhhh~~~~我受不了了~~~~"
 
 
 
-    c "I can’t!!! I can’t!!! This is too hard!!~~ Ohhhhhhhh~~~~~~~"
+    c "我!!!我!!!这太刺激了!!~~Ohhhhhhhh~~~~~~~"
 
 
 
@@ -142,7 +142,7 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_14 with tstmgr
 
-    "Oh my... ... She got orgasms twice in a row in less than 10 seconds after I put those clothespins on her nipples. How magnificent~"
+    "Ohmy......在我用晒衣夹夹住她乳头后不到10秒她就连续高潮了两次.太妙了~"
 
 
 
@@ -150,7 +150,7 @@ label outdoors_C.c_outdoors_1:
 
 
 
-    "And she just kept orgasming and couldn’t stop..."
+    "她就一直高潮,停不下来..."
 
 
 
@@ -166,21 +166,21 @@ label outdoors_C.c_outdoors_1:
 
     scene c_outdoors_1_16 with tstmgr
 
-    "It seems like Theo has lost all her power and couldn’t stand anymore."
+    "看起来西奥已经失去了她所有的力量再也无法忍受了."
 
 
 
     scene c_outdoors_1_17 with tstmgr
 
-    player "Are you alright, Theo?"
+    player "你还好吗,西奥?"
 
 
 
-    c "Take them off!!~~~ Take them off!!~~~"
+    c "把它们取下来!!~~~把它们取下来!!~~~"
 
 
 
-    player "Oh, sorry... ..."
+    player "Oh,抱歉......"
 
 
 
@@ -190,13 +190,13 @@ label outdoors_C.c_outdoors_1:
 
 
 
-    player "I didn’t know this can be so... effective."
+    player "我不知道事情会这样...见效."
 
 
 
     scene c_outdoors_1_19 with tstmgr
 
-    c "Fuck you!"
+    c "去你的!"
 
 
 
@@ -215,13 +215,13 @@ label outdoors_C.c_outdoors_2:
 
     scene c_outdoors_2_1 with tstmgr
 
-    c "You want to record my... masturbation in the phone booth?"
+    c "你想录下我在电话亭里......自慰的过程?"
 
 
 
     scene c_outdoors_2_2 with tstmgr
 
-    c "Yeah, sure, whatever~ I don’t masturbate very often. This may be a fun experience."
+    c "Yeah,当然,随便啦~我不经常自慰.这可能是一个有趣的经历."
 
 
 
@@ -233,19 +233,19 @@ label outdoors_C.c_outdoors_2:
 
     scene c_outdoors_2_3 with dissolve
 
-    c "Can you see clearly from the outside?"
+    c "从外面看的清楚吗?"
 
 
 
-    player "Yep, the view is perfect."
+    player "Yep,这个视角好极了."
 
 
 
-    player "But I can’t really hear you well. The sound isolation of this glass is better than I thought."
+    player "但我听不太清楚.这玻璃的隔音效果比我想象的要好."
 
 
 
-    c "Ah, whatever, I’m starting now~"
+    c "Ah,不管怎样,我现在要开始了~"
 
 
 
@@ -255,11 +255,11 @@ label outdoors_C.c_outdoors_2:
 
 
 
-    "Ah... ... This scene is just beautiful. It’s like I’m watching a private live porn."
+    "Ah......这景色真美.就像我在看私人黄播."
 
 
 
-    "I can’t really hear her moaning from outside, but the silence actually stimulated the visual impact and made it even more stunning."
+    "我在外面听不到她的呻吟,但寂静实际上刺激了视觉冲击,使它更加强烈."
 
 
 
@@ -269,7 +269,7 @@ label outdoors_C.c_outdoors_2:
 
 
 
-    "Look at those hanging tits. They are just amazing~"
+    "看看这奶子.它们真是太棒了~"
 
 
 
@@ -277,21 +277,21 @@ label outdoors_C.c_outdoors_2:
 
 
 
-    player "Damn, I can’t just stand here and watch. I want to join her~"
+    player "Damn,我不能只是站在这里看着.我想加入她~"
 
 
 
-    "And so be it~"
+    "那就这样~"
 
 
 
     scene c_outdoors_2_6 with tstmgr
 
-    c "Hmmmm? Why did you get in?"
+    c "Hmmmm?你怎么进来了?"
 
 
 
-    player "Let me... help you... ..."
+    player "我来...帮你......"
 
 
 
@@ -301,7 +301,7 @@ label outdoors_C.c_outdoors_2:
 
 
 
-    c "I’m... I’m just about to... ..."
+    c "我...我要......"
 
 
 
@@ -309,21 +309,21 @@ label outdoors_C.c_outdoors_2:
     play sound cumshot
     $ flashlight()
 
-    c "Cummmmming~~~~~~"
+    c "高潮了~~~~~~"
 
 
 
-    player "Magnificent... ... You wouldn’t be able to cum so much without me, right?"
+    player "太刺激了...没有我你不可能泄这么多,对吧?"
 
 
 
-    c "Fuck... you... ... ... ..."
+    c "去...你的............"
 
 
 
     scene c_outdoors_2_9 with tstmgr
 
-    c "Are you... still... recording?"
+    c "你还在...拍吗?"
 
 
 
@@ -331,7 +331,7 @@ label outdoors_C.c_outdoors_2:
 
 
 
-    c "Fuck... you... ..."
+    c "去...你的......"
 
 
 

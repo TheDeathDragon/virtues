@@ -7,13 +7,13 @@ label D_love_6:
 
 
 
-    player "Good afternoon, Aunt Elisa."
+    player "下午好,伊莉莎阿姨."
 
 
 
     scene d_love_6_1 with tstmgr
 
-    e "Hello, [P]. Are you here for the tutoring?"
+    e "Hello,[P].你是来辅导的吗?"
 
 
 
@@ -27,7 +27,7 @@ label D_love_6:
 
 
 
-    d "Let’s go to my room! Quick, quick~~"
+    d "我们去我的房间吧!快,快~~"
 
 
 
@@ -37,29 +37,29 @@ label D_love_6:
 
 
 
-    e "It seems like you two have become... quite intimate these days."
+    e "看来你们俩这两天...变得很亲密."
 
 
 
-    e "It’s good for you... I guess... ..."
+    e "这样挺好的...我猜......"
 
 
 
     scene d_love_6_4 with tstmgr
 
-    e "(Why did I start to worry about Theodora all of a sudden?)"
+    e "(为什么我突然开始担心起狄奥多拉了?)"
 
 
 
     scene void with tstmgr
 
-    "Later, in Irene’s room."
+    "稍后,在艾琳的房间里."
 
 
 
     scene d_daily7_1 with tstmgr
 
-    d "[P]~~ I want to sit on your legs! Please~~~"
+    d "[P]~~我想坐在你的腿上!拜托~~~"
 
 
 
@@ -67,11 +67,11 @@ label D_love_6:
 
 
 
-    "I have gotten used to this kind of strange requests from her."
+    "我已经习惯了她这种奇怪的要求."
 
 
 
-    player "Alright, come here... ..."
+    player "好吧,过来......"
 
 
 
@@ -83,17 +83,17 @@ label D_love_6:
 
     scene d_love_6_6 with tstmgr
 
-    d "(Satisfied humphing) Hee hee... ..."
+    d "(满意的哼)Heehee......"
 
 
 
-    player "Stop jiggling around, will you?"
+    player "别再晃来晃去了,好吗?"
 
 
 
     scene d_love_6_5 with tstmgr
 
-    d "You know, Uno bought me a bikini suit on Internet the other day."
+    d "你知道吗,乌诺前几天在网上给我买了一套比基尼."
 
 
 
@@ -103,55 +103,55 @@ label D_love_6:
 
     scene d_love_6_6 with tstmgr
 
-    d "And I just decided to wear it at the Comicon coming next weekend with those neko ears!"
+    d "而且我决定在下周末的动漫展上戴上这双猫耳朵!"
 
 
 
     scene d_love_6_7 with tstmgr
 
-    player "Wait, you want to wear a bikini suit in front of thousands of people? I don’t think that’s a good idea."
+    player "等等,你想在成千上万的人面前穿比基尼?我认为那不是个好主意."
 
 
 
-    d "Hah, hah, you sound like my nanny."
+    d "Hah,hah,你说话像我的保姆."
 
 
 
-    player "Whatever you say, but I can’t let you do that. I’ll tell your mom if it’s necessary."
+    player "随你怎么说,但我不能让你这么做.如果有必要我会告诉你妈妈的."
 
 
 
     scene d_love_6_9 with tstmgr
 
-    d "But I like that suit. I really want someone to see me wearing it."
+    d "但我喜欢那套衣服.我真的希望有人看我穿它."
 
 
 
     scene d_love_6_8 with tstmgr
 
-    d "How about I show it to you right here?"
+    d "我在这儿穿给你看看怎么样?"
 
 
 
-    player "Ehh, what?"
+    player "Ehh,什么?"
 
 
 
-    d "Sounds like a good idea! And there is another special little thing I can show you as well."
+    d "听起来是个好主意!我还可以给你看另一个特别的小东西."
 
 
 
-    d "Wait here, I will be back in a moment."
+    d "在这里等一下,我一会儿就回来."
 
 
 
-    player "But... what about your homework?"
+    player "但是...你的家庭作业呢?"
 
 
 
     scene void with tstmgr
 
-    "She ran into her cloakroom like a wind."
+    "她飞快地跑进衣帽间."
 
 
 
@@ -159,11 +159,11 @@ label D_love_6:
 
 
 
-    player "Nevermind... It's always good to see a beautiful girl in a bikini suit anyway."
+    player "算了,能看到一个穿比基尼的漂亮女孩也挺好."
 
 
 
-    "Some time later."
+    "一段时间后."
 
 
 
@@ -175,33 +175,33 @@ label D_love_6:
 
 
 
-    player "Holy... ..."
+    player "天啊......"
 
 
 
-    d "What do you think?"
+    d "你觉得如何?"
 
 
 
-    player "You look... great... ..."
+    player "你看起来...棒极了......"
 
 
 
-    d "Great? Is that it?"
+    d "棒极了?真的?"
 
 
 
-    player "Yeah. I mean, no, that’s not the right word. I think you look... cute and sexy at the same time."
+    player "Yeah.我的意思是,不,这个词用错了.我觉得你看起来...可爱与性感并存."
 
 
 
-    d "Yes! That’s what I like to hear!"
+    d "是的!这就是我想听的!"
 
 
 
     scene d_love_6_11 with tstmgr
 
-    d "Am I even sexier than Theo?"
+    d "我比狄奥还性感吗?"
 
 
 
@@ -209,81 +209,81 @@ label D_love_6:
 
 
 
-    "That’s a tricky question. I need to think carefully before answering. But suddenly, I noticed something strange."
+    "这是个棘手的问题.我需要仔细考虑一下再回答.但突然,我注意到一件奇怪的事."
 
 
 
-    player "Wait a moment... ..."
+    player "等一会儿......"
 
 
 
     scene d_love_6_12 with tstmgr
 
-    "I noticed the abnormal twitching of her legs."
+    "我注意到她的腿不正常地抽搐."
 
 
 
-    player "How did you put that tail on your body?"
+    player "你是怎么把尾巴弄在身上的?"
 
 
 
-    d "I... ..."
+    d "我......"
 
 
 
     scene d_love_6_13 with tstmgr
 
-    d "I didn’t put it on... ..."
+    d "我把它放在......"
 
 
 
-    d "I put it “in”, actually... ..."
+    d "实际上,我把它放“在”......"
 
 
 
-    d "Take a look yourself."
+    d "你自己看吧."
 
 
 
     scene d_love_6_14 with tstmgr
 
-    "She turned around and showed me the tail between her anal lobes. And the tail was naughtily jumping up and down along with the moving of her peachy butt. Oh my... ..."
+    "她转过身来,让我看她臀瓣之间的尾巴.这个尾巴随着那桃色的屁股调皮地上下跳动着.哦,我的天......"
 
 
 
-    "It is inside her ass, for God sakes."
+    "在她的屁股里,看在上帝的份上."
 
 
 
-    d "Meow~~"
+    d "喵呜~~"
 
 
 
     scene d_love_6_15 with tstmgr
 
-    d "Do you like me wearing it?"
+    d "你喜欢我戴着它吗?"
 
 
 
-    player "Why... are you doing this? Don’t you know it’s inappropriate to let me see it?"
+    player "你为什么...要这么做?你不知道让我看不太合适吗?"
 
 
 
-    player "I don’t know if you think it’s a game or something, but I may not be able to control myself if you keep doing such things in front of me. I am warning you."
+    player "我不知道你是否认为这是一场游戏,但如果你一直在我面前这样,我可能无法控制自己.我警告你."
 
 
 
     scene d_love_6_16 with tstmgr
 
-    d "So you are saying that... I am sexy enough to make you lose yourself?"
+    d "你是说...我的性感足以让你迷失自我?"
 
 
 
-    player "I am a healthy male with normal sexual orientation!"
+    player "我是一个健康的男性,性取向正常!"
 
 
 
-    d "So... ... right now, do you take me more as a woman, or your little sister?"
+    d "所以...现在,你觉得我更像个女人,还是你的小妹妹?"
 
 
 
@@ -294,27 +294,27 @@ label D_love_6:
     label D_love_6_choice_1:
 
     menu:
-        "Woman":
+        "女人":
 
 
-            player "You have grown up, Irene..."
+            player "你已经长大了,艾琳..."
 
-            player "You have grown up into a very attractive woman."
+            player "你已经成长为一个很有魅力的女人了."
 
-            player "I can’t take you as the little girl you were before."
+            player "我不能把你当成以前的小女孩了."
 
-            d "Then don’t. Just treat me in the way you treat my sister."
+            d "那就像你对待我姐姐那样对待我."
 
-            d "You are not a coward, are you? My dearest brother-in-law."
+            d "你不是胆小鬼,对吗?我最亲爱的姐夫."
 
-            "Shit, I know she is trying to provoke me, but I can’t hold it anymore. I want to make this naughty kitty pay, right here, right now!"
+            "Shit,我知道她想激怒我,但我再也控制不住了.我要让这只淘气的小猫付出代价,就在这里,就在现在!"
 
             scene d_love_6_17 with tstmgr
 
-            d "(Moaning with lust) Awwwww... ... ... ..."
+            d "(充满欲望的呻吟)Awwwww............"
 
-            player "You are right. I am not a coward."
-        "Little sister":
+            player "你是对的.我不是胆小鬼."
+        "小妹妹":
 
 
 
@@ -323,57 +323,57 @@ label D_love_6:
 
             $ sub(P, P.virtue, 1)
 
-            player "You are always my little sister."
+            player "你永远是我的小妹妹."
 
-            d "So you mean that you could lose yourself by looking at your own little sister?"
+            d "你是说你看着自己的小妹妹就会迷失自我?"
 
-            d "What a jerk you are, oniichan. You disgust me."
+            d "你真是个混蛋,哥哥(日语中装可爱的说法).你让我恶心."
 
-            "Shit, I know she is trying to provoke me, but I just can’t hold it anymore. I want to make this naughty kitty pay, right here, right now!"
+            "Shit,我知道她想激怒我,但我再也控制不住了.我要让这只淘气的小猫付出代价,就在这里,就在现在!"
 
             scene d_love_6_17 with tstmgr
 
-            d "(Moaning with lust) Awwwww... ... ... ..."
+            d "(充满欲望的呻吟)Awwwww............"
 
-            player "You are right. I am indeed a jerk."
-
-
+            player "你是对的.我就是个混蛋."
 
 
 
-    player "Now tell me, what do you want me to do with you?"
+
+
+    player "现在告诉我,你要我拿你怎么办?"
 
 
 
-    d "I... ... ... ..."
+    d "我............"
 
 
 
-    d "I want you to fuck me like you fuck my sister..."
+    d "我要你像操我姐姐那样操我..."
 
 
 
-    player "Wait, what?"
+    player "等等,什么?"
 
 
 
-    "That was... way more straightforward than I thought."
+    "这...比我想象的直接多了."
 
 
 
-    d "Mom always says that we sisters should share good things together. I can’t let Theo have you all to herself."
+    d "妈妈总是说我们姐妹应该一起分享好东西.我不能让狄奥独自拥有你."
 
 
 
-    player "Irene... ..."
+    player "艾琳......"
 
 
 
-    d "We all grew up together, how could she get the chance to be your future wife but not me? It’s not fair."
+    d "我们都是一起长大的,为什么是她有机会成为你未来的妻子而不是我呢?这不公平."
 
 
 
-    d "I was the one who liked you in the first place... ..."
+    d "我是第一个喜欢你的人......"
 
 
 
@@ -381,31 +381,31 @@ label D_love_6:
 
 
 
-    player "Irene... ..."
+    player "艾琳......"
 
 
 
     scene d_love_6_18 with tstmgr
 
-    "I can’t help myself touching her body with my hands. Damn, this feels so good."
+    "我情不自禁地用手触摸她的身体.该死,这感觉真好."
 
 
 
-    "Her body is so small comparing to me. It made me feel like I am touching an amazing sex doll."
+    "她的身体和我比起来太小了.这让我觉得我正在触摸一个美妙的性玩偶."
 
 
 
-    "But no doubt it has become a mature body with full of female attraction already."
+    "但毫无疑问,这已经是一个成熟的身体了,充满了女性的吸引力."
 
 
 
     scene d_love_6_19 with tstmgr
 
-    d "My breasts... Are they as good as Theo’s?"
+    d "我的胸...它们和狄奥一样棒吗?"
 
 
 
-    player "They are the cutest little things I have ever seen in my life."
+    player "它们是我一生中见过的最可爱的小东西."
 
 
 
@@ -415,21 +415,21 @@ label D_love_6:
 
 
 
-    "Personally, I’m the type of man who thinks the bigger tits the better. But I changed my mind by the second I grabbed her good-looking normal-sized breasts in my hand."
+    "就我个人而言,我是那种认为胸越大越好的人.但当我第一次把她那漂亮的正常大小的胸抓在手里的时候,我改变了主意."
 
 
 
-    "They are just... something different."
+    "这是种...不同的感觉."
 
 
 
-    "She seemed to be happy by hearing what I said and licked my finger harder, just like a real kitty."
+    "听到我说的话,她似乎很高兴,更用力地舔我的手指,就像一只真正的小猫."
 
 
 
     scene d_love_6_22 with tstmgr
 
-    player "And your nipples are getting so hard."
+    player "你的乳头越来越硬了."
 
 
 
@@ -437,21 +437,21 @@ label D_love_6:
 
 
 
-    player "What a horny kitty you are..."
+    player "你真是个好色的小猫..."
 
 
 
-    player "I want to see more of your horny looks... ..."
+    player "我想看更多你饥渴的样子......"
 
 
 
     scene d_love_6_23 with tstmgr
 
-    d "Are you going to... fuck me now?"
+    d "你现在要...操我了吗?"
 
 
 
-    "Oh dear, how could she say such words in such a lovely innocent tone? No man could ever resist this temptation."
+    "噢,天哪,她怎么能用那么可爱天真的语气说这样的话呢?没有人能抗拒这种诱惑."
 
 
 
@@ -459,21 +459,21 @@ label D_love_6:
 
 
 
-    "I don’t care if I took her as my own sister for the last 15 years or what. Yes, I want to fuck her, now!"
+    "我不在乎过去15年我是否把她当成自己的妹妹.是的,我想上她,就现在!"
 
 
 
     scene d_love_6_24 with tstmgr
 
-    "I showed my dick out and put it against her butt."
+    "我掏出我的鸡儿,贴在她的屁股上."
 
 
 
-    d "Yes, I am so happy that you finally decide to fuck me!"
+    d "是的,我很高兴你终于决定上我了!"
 
 
 
-    d "Theo is going to be pissed, hah hah!"
+    d "狄奥会很气的,hahhah!"
 
 
 
@@ -483,49 +483,49 @@ label D_love_6:
 
 
 
-    d "Wait..."
+    d "等等..."
 
 
 
-    d "Wait, wait..."
+    d "等等,等等..."
 
 
 
     scene d_love_6_26 with tstmgr
 
-    d "What is that???!!!"
+    d "这是什么???!!!"
 
 
 
-    d "No no no... It can’t get in. It will break me!"
+    d "Nonono...它不能进去,它会撕碎我的!"
 
 
 
-    player "But you were expecting me to do this, weren’t you?"
+    player "但你希望我这么做,不是吗?"
 
 
 
-    d "I didn’t know you have such a huge... thing!"
+    d "我不知道你有这么大的...东西!"
 
 
 
     scene d_love_6_25 with tstmgr
 
-    d "I have a cheerleading activity tomorrow. I can’t go there with a tearing pussy!"
+    d "我明天有一个啦啦队活动.我不能带着撕裂的小穴去!"
 
 
 
-    player "Hmmm... how about we trying anal for once?"
+    player "Hmmm...那我们试一下肛门怎么样?"
 
 
 
     scene d_love_6_27 with tstmgr
 
-    d "Anal?"
+    d "肛门?"
 
 
 
-    player "Yeah. Your anus may be able to hold my dick in since you already have put something weird in it before, like that cat tail."
+    player "Yeah.你的肛门可以容纳我的鸡儿,因为你之前已经放了一些奇怪的东西在里面了,比如猫的尾巴."
 
 
 
@@ -539,17 +539,17 @@ label D_love_6:
 
     scene d_love_6_28 with tstmgr
 
-    d "You can give it a... ... AHHHHHHHHHHHHH!!!!!"
+    d "你可以给它......AHHHHHHHHHHHHH!!!!!"
 
 
 
-    "I sticked my dick in her anus a little, didn’t even wait her to finishing her words."
+    "我把我的鸡儿插进了她的肛门里,没等她说完."
 
 
 
     scene d_love_6_29 with tstmgr
 
-    d "No no no no no!!! It hurts so much! Pull it out! Pull it out!"
+    d "Nonononono!!!太疼了!拔出来!拔出来!"
 
 
 
@@ -560,44 +560,44 @@ label D_love_6:
     label D_love_6_choice_2:
 
     menu:
-        "Keep doing it (Sex partner route)":
+        "继续(性伴侣的路线)":
 
 
-            "I didn’t stop."
+            "我没有停."
 
-            "I have tolerated her seduction for so long. Now it’s my turn to fight back. Nothing can stop me now!"
+            "我忍受她的诱惑已经很久了.现在轮到我反击了.什么也阻挡不了我!"
 
             scene d_love_6_43 with tstmgr
             play sound d_love_6_43 loop
             pause
 
-            d "(Crying) Wahhhh... ... [P]... I hate you... ..."
+            d "(哭泣)Wahhhh......[P]...我恨你......"
 
-            d "I will tell my mom about this... ... ... ..."
+            d "我会告诉我妈妈这件事的............"
 
-            player "This is the punishment you deserve for flirting with me, Irene. You deserve it!"
+            player "这是你对我调情的惩罚,艾琳.这是你应得的!"
 
-            d "This is a... punishment?"
+            d "这是一个...惩罚吗?"
 
-            "She trembled hard with repeating the word ‘punishment’. And her moaning became much more lewd after that."
+            "她重复了一遍“惩罚”这个词,吓得浑身发抖.之后,她的呻吟变得更加淫荡了."
 
             scene d_love_6_44 with tstmgr
 
-            d "I am a... bad girl... ..."
+            d "我是一个...坏女孩......"
 
-            d "I try to seduce... my sister’s future husband... ..."
+            d "我试图勾引...我姐姐未来的丈夫......"
 
-            d "Yes... yes... I deserve to be punished."
+            d "Yes...yes...我应该受到惩罚."
 
             scene d_love_6_45 with tstmgr
 
-            d "(Moan with lust) Awww... awww... awwww... ..."
+            d "(欲望的呻吟)Awww...awww...awwww......"
 
-            d "Punish me... punish me harder... [P]... ..."
+            d "惩罚我...用力的惩罚我...[P]......"
 
             "Ehhh... ... ... ..."
 
-            "I think this girl definitely has some issues with masochism. Hmm... but I guess that’s not a bad thing, right?"
+            "我觉得这个女孩肯定有受虐的倾向.嗯...但我想这不是一件坏事,对吧?"
 
             stop sound
             scene d_love_6_46 with tstmgr
@@ -606,17 +606,17 @@ label D_love_6:
 
             d "Owwwwwwww!!~~~~~"
 
-            d "It’s not that hurts anymore~~~"
+            d "不那么疼了~~~"
 
-            d "Yes, yes, just like this, keep punishing me, keep punishing your bad kitty!"
+            d "Yes,yes,就这样,继续惩罚我,继续惩罚你的坏猫咪!"
 
-            player "You hopeless naughty girl... ..."
+            player "你这个不可救药的淘气女孩......"
 
-            player "Alright, now get prepared for my load!"
+            player "好了,现在准备接受我的精液吧"
 
-            d "Ah? What?~~"
+            d "Ah?什么?~~"
 
-            player "I’m cumming!!!"
+            player "我泄了!!!"
 
             stop sound
             scene d_love_6_47 with tstmgr
@@ -632,32 +632,32 @@ label D_love_6:
 
             scene d_love_6_49 with tstmgr
 
-            player "Irene... How do you feel right now? Does it still hurt?"
+            player "艾琳...你现在感觉怎么样?还疼吗?"
 
-            d "No, I feel... awesome... ..."
+            d "No,我感觉...妙不可言......"
 
-            d "I didn’t know anal sex could be so comfortable..."
+            d "我不知道肛交会这么舒服..."
 
-            d "Can we do it again tomorrow?"
+            d "我们可以明天再做一次吗?"
 
-            "I can see the expectant light through her big eyes."
+            "我能透过她的大眼睛看到那期待的光芒."
 
-            player "Ehh... ... I... ..."
+            player "Ehh......我......"
 
             scene d_love_6_48 with tstmgr
 
-            d "But we can’t let Theo know about this. It’s a secret between us, right?"
+            d "但我们不能让狄奥知道这件事.这是我们之间的秘密,对吧?"
 
             player "... ... ... ..."
 
-            player "Yeah... I guess you are right."
+            player "Yeah...我猜你是对的."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
             $ D.relation = "sexpartner"
-        "Pull it out (Girlfriend route)":
+        "拔出来(女朋友路线)":
 
 
 
@@ -666,69 +666,69 @@ label D_love_6:
 
             player "Ehhh... okay..."
 
-            "That’s right. I’m not a asshole that would fuck a girl against her will."
+            "这是对的.我不是那种违背女孩意愿去干她的混蛋."
 
-            player "Sorry, Irene."
+            player "对不起,艾琳."
 
             scene d_love_6_30 with tstmgr
 
-            "Now things are getting a little awkward between us."
+            "现在我们之间有点尴尬了."
 
-            player "So... what should we do now?"
+            player "所以...我们现在该怎么办?"
 
             d "... ... ... ..."
 
-            d "Sorry, [P]. I... I messed it up."
+            d "对不起,[P].我...我搞砸了."
 
-            "Well, I’m indeed frustrated right now, but how can I blame this innocent silver kitty for this?"
+            "Well,我现在确实很沮丧,但是我怎么能责怪这个无辜的银色小猫咪呢?"
 
-            player "I understand. It’s not your fault."
+            player "我理解.这不是你的错."
 
-            d "I didn’t know it would hurt so much."
+            d "我不知道会那么疼."
 
-            d "Guess I’m not ready for this yet..."
+            d "我想我还没准备好..."
 
             d "Hmmmmm... ... ... ..."
 
             scene d_love_6_31 with tstmgr
 
-            d "Oh yeah! I can make it up for you with my mouth! Uno told me about how to do a blowjob!"
+            d "Oh,yeah!我可以用我的嘴来补偿你!乌诺告诉过我如何口交!"
 
-            player "What? What the hell did she teach you?"
+            player "什么?她到底教了你些什么?"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "A few moments later."
+            "几分钟后."
 
             scene d_love_6_32 with tstmgr
 
             d "Wooow... ... ... ..."
 
-            d "I think it might be even longer than my face..."
+            d "我想它可能比我的脸还长..."
 
             scene d_love_6_33 with tstmgr
 
             d "... ... ... ..."
 
-            "The kitty held my penis in her hands like holding a fish."
+            "小猫把我的鸡儿握在手里,就像抓着鱼一样."
 
-            d "It makes me scared... but... ..."
+            d "它让我害怕...但......"
 
             scene d_love_6_34 with tstmgr
 
-            d "(Licking) Simmm... sim... ... ... ..."
+            d "(舔)Simmm...sim............"
 
-            "And now the kitty started to eat her fish."
+            "现在小猫开始吃她的鱼."
 
             scene d_love_6_35 with tstmgr
 
             d "Wumm... wum... wum... wum... ... ... ..."
 
-            "Her little mouth is so warm that made me worry if it’s gonna melt my glans down."
+            "她的小嘴是如此温暖,我担心它会融化我的龟头."
 
-            d "It’s... not that hard... ..."
+            d "这...没有那么难......"
 
             scene d_love_6_36 with tstmgr
 
@@ -736,11 +736,11 @@ label D_love_6:
 
             d "Wumm... wum... wum... wum... ..."
 
-            "She is trying her best to swallow and she is doing quite a good work as a beginner. Shit, I wish she can put this enthusiasm on studying..."
+            "作为一个初学者,她正在尽最大努力帮我口,而且她做得相当不错.妈的,我真希望她能把这种热情用在学习上..."
 
             d "Wumm... wum... wum... ..."
 
-            player "I’m... I’m cuming!"
+            player "我...我要射了!"
 
             scene d_love_6_38 with tstmgr
 
@@ -750,11 +750,11 @@ label D_love_6:
 
             scene d_love_6_39 with tstmgr
 
-            d "(Breathing harshly) Huh... huh... huh... ..."
+            d "(呼吸急促)Huh...huh...huh......"
 
             scene d_love_6_40 with tstmgr
 
-            d "(Swallowing) ... ... ... ..."
+            d "(吞下)............"
 
             scene d_love_6_41 with tstmgr
 
@@ -762,21 +762,21 @@ label D_love_6:
 
             scene d_love_6_37 with tstmgr
 
-            d "We can’t let Theo know about this, right? It’s a secret between us."
+            d "我们不能让狄奥知道这件事,对吧?这是我们之间的秘密."
 
             player "... ... ... ..."
 
-            player "Yeah... I guess so."
+            player "Yeah...我想是吧."
 
             scene d_love_6_42 with tstmgr
 
             d "Hee hee... ..."
 
-            d "Now I need to get changed and wash my face. I don’t want mom to notice anything strange."
+            d "现在我需要换衣服,洗脸.我不想让妈妈注意到任何异常."
 
-            d "And we can have the tutoring lesson later."
+            d "然后我们可以在晚些时候上辅导课."
 
-            player "Okay... ..."
+            player "嗯......"
 
             scene void with tstmgr
 

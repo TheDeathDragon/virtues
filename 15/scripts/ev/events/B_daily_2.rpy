@@ -3,9 +3,9 @@ label B_daily_2:
     scene school_day_background with tstmgr
     play music happy
 
-    narrator "Senning and I are on the way to a class."
+    narrator "我和森柠在去上课的路上."
 
-    player "You haven't answered me last time. Why would you choose to study abroad?"
+    player "你上次没有回答我.你为什么选择出国留学?"
 
     scene b_school_day_frown with tstmgr
 
@@ -13,41 +13,41 @@ label B_daily_2:
 
     scene b_school_day_smile with tstmgr
 
-    b "Hmm... Because I have a spirit of adventure?"
+    b "Hmm...因为我有冒险精神?"
 
-    player "You don't look like an adventurous girl to me."
+    player "在我看来你不像个爱冒险的女孩."
 
     b "Emm... ..."
 
-    b "Maybe I just want to try to embrace a new culture when I am still young."
+    b "也许我只是想在年轻的时候尝试接受一种新的文化."
 
-    player "That is even more make-no-sense."
+    player "这就更没有意义了."
 
     scene b_school_day_frown with tstmgr
 
-    b "Why did you say that?"
+    b "你为什么这么说?"
 
-    player "See, you live in a school apartment, do nothing but studying every day. How can you embrace our culture by that?"
+    player "你看,你住在学校的公寓里,每天除了学习什么都不做.你怎么能接受我们的文化呢?"
 
-    b "Emm... good point."
+    b "Emm...说得好."
 
-    b "So, do you have any suggestions?"
+    b "你有什么建议吗?"
 
-    player "First, you should move out from the school apartment and rent a place in town."
+    player "首先,你应该搬出学校的公寓,在城里租个地方住."
 
     scene b_school_day_smile with tstmgr
 
-    b "Uh-huh, I can do that."
+    b "Uh-huh,我觉得可以."
 
-    b "Is there a \"second\"?"
+    b "\"其次\"呢?"
 
-    player "And second, you should go find a local boyfriend. Just take me as the standard."
+    player "其次,你应该去找一个当地的男朋友.就以我为标准吧."
 
     scene b_school_day_frown with tstmgr
 
     b "... ... ... ..."
 
-    b "I'll think about that."
+    b "我会考虑的."
 
     scene school_day_background with tstmgr
 

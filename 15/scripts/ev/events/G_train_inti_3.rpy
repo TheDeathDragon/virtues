@@ -3,197 +3,197 @@ label G_train_inti_3:
     scene void with tstmgr
     play music happy
 
-    "Late night, in Uno’s room... ..."
+    "在一个幽深的夜晚，寂静阴森，外面的风阴冷的嚎叫着，时不时可以听到风吹树叶的沙沙声，黑暗而遥远的角落，轻微的哭声半流质地蜿蜒，被雨融化在空气里，轮廓被洗刷，只留薄薄的一层，像死人的皮肤，除了偶然一两声狗的吠叫，冷落的街道是寂静无声。而在乌诺的房间中！！！"
 
 
 
     scene g_train_inti_3_1 with dissolve
 
-    g "Hmmmmmmmm... ... ... ..."
+    g "Emmmmmmm啊啊啊啊~~啊啊啊啊啊！！！"
 
 
 
-    "Uno is having a hard time after she saw the number showing on the weighing scale."
+    "乌诺在看到秤上显示的数字后感到很难过。很难过！很难过呀很难过~哪个女孩看到都难过~"
 
 
 
     scene g_train_inti_3_2 with tstmgr
 
-    g "I am... one pound heavier... than a week ago... ..."
+    g "我TM比一个星期前重了一磅！焯... ..."
 
 
 
-    g "Something is definitely wrong with this scale. I had one time of fried chicken less than last week, how could I be heavier instead?"
+    g "这个量表肯定有问题。什么破表！我比上周还少吃了一次炸鸡，怎么变得更胖了?"
 
 
 
-    player "Eh... ... good question."
+    player "漂亮！干得好！"
 
 
 
     scene g_train_inti_3_3 with tstmgr
 
-    g "Oh, maybe I should take off my clothes and try again."
+    g "也许我该脱掉衣服再试一次。"
 
 
 
     scene void with tstmgr
 
-    "Sometime later... ..."
+    "过了一会-----"
 
 
 
     scene g_train_inti_3_4 with tstmgr
 
-    g "Ha! I knew it! Now my weight is even fewer than the last week~"
+    g "哈哈哈哈啊哈哈哈!我就知道!脱了衣服我的体重甚至比上周还轻~"
 
 
 
     scene g_train_inti_3_5 with tstmgr
 
-    g "My weight is not near the red line at all~ Yeah!"
+    g "我的体重根本不在红线附近~好耶!"
 
 
 
-    player "Don't lie to yourself, girl. You didn’t take off your clothes last week."
+    player "别骗自己了，hxd。你上周没脱衣服。这什么鸡巴称！rnm退钱"
 
 
 
     scene g_train_inti_3_6 with tstmgr
 
-    g "Did I?"
+    g "退nm！"
 
 
 
     scene g_train_inti_3_7 with tstmgr
 
-    player "Seriously, you need a healthy recipe if you really wish to reduce some weight. You should at least stay away from the junk food."
+    player "说真的，如果你真的想减肥的话，你需要一个健康的食谱，远离垃圾食品，然后天天和我啪啪啪，欸嘿嘿~"
 
 
 
-    g "So what should I eat exactly?"
+    g "那么我到底应该吃什么呢?（叉腰）"
 
 
 
-    player "Something with high protein and low fat, I guess, like egg white powder."
+    player "你应该吃高蛋白低脂肪的食物，比如蛋白粉。"
 
 
 
     scene g_train_inti_3_8 with tstmgr
 
-    g "But that tastes bad... ... ewwwww... ... I don’t want that... ..."
+    g "那味道不好...我不喜欢，哼~"
 
 
 
     scene g_train_inti_3_9 with tstmgr
 
-    g "Is there any other way to reduce weight effectively?"
+    g "还有其他减肥的方法吗?"
 
 
 
-    player "... ... ... ..."
+    player "呜呜呜... ... ..."
 
 
 
     label G_train_inti_3_choice_1:
 
     menu:
-        "Recommend another meal replacement":
+        "推荐另一种恰饭方式":
 
 
-            player "Well, there is something I know that has similar nutrition with egg white powder. You have actually had it for many times."
+            player "嗯，我知道有一种东西和蛋白粉有类似的营养。你已经用过很多次了。"
 
             scene g_train_inti_3_10 with tstmgr
 
-            g "What is it?"
+            g "是啥?"
 
-            player "My sperm~"
+            player "我的精子~"
 
             scene g_train_inti_3_11 with tstmgr
 
-            g "Oh, wow, that is... ... definitely more tasty than the egg white thing~"
+            g "哇，那... ...肯定比蛋清好吃多了~"
 
             scene g_train_inti_3_12 with tstmgr
 
-            g "And master always has a great amount of cum during an orgasm. I think... it may really be a great meal replacement for me~"
+            g "主人在高潮的时候总是有大量的精液。我认为……对我来说，这可能真的是一个很好的替代餐~"
 
             scene g_train_inti_3_13 with tstmgr
 
-            player "Wait, shit, you really took that serious? I was just kidding."
+            player "等等，卧槽，你真的这么认真吗?我只是在开玩笑。"
 
-            player "I mean, think about it, how can you get full just by eating my cum? It can’t be enough."
+            player "你想想，你怎么可能只吃我的精液就饱了呢?这还不够。"
 
             scene g_train_inti_3_14 with tstmgr
 
-            g "You really have no idea about how much you can cum, master~"
+            g "你真的不知道你能射多少，主人~"
 
-            player "Huh... ... ... ..."
+            player "啊啊啊啊啊... ... ... ..."
 
             scene g_train_inti_3_15 with tstmgr
 
-            g "I think we should at least give it a try, master!~"
+            g "我觉得我们至少应该试一试, 主人!~"
 
             scene g_train_inti_3_16 with tstmgr
 
-            g "What do you think is the best way to get the most out of your ejaculation by using Uno’s mouth?"
+            g "你认为射乌诺的嘴里最有效的方法是什么?"
 
-            player "Ehh... ... Well, if it is only with the mouth, then... deep throat, I guess?"
+            player "呃,……好吧，如果只是用嘴，那么…我猜是深喉吧?"
 
             scene g_train_inti_3_17 with tstmgr
 
-            g "Yes! Let’s do that, deep throat! I don’t exactly know how to do that but that sounds fun!"
+            g "是的!来吧，深喉!我不知道怎么做，但听起来很有趣!"
 
-            player "It may get a little rough, are you sure about that?"
+            player "可能会有点刺激，你确定吗?"
 
             scene g_train_inti_3_18 with tstmgr
 
-            g "That sounds even better~ I love master being rough to me... ..."
+            g "这听起来更好~我喜欢主人对我粗暴... ..."
 
-            player "Oh, yeah, that’s... right."
+            player "哦,是的,那没错。"
 
-            player "Alright then, just... lie down on the bed and I will... give it a try."
+            player "好吧，那我就……躺在床上，我会…试试吧。"
 
             scene g_train_inti_3_17 with tstmgr
 
-            g "Thank you, master!~"
+            g "谢谢，我的主人!~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later... ..."
+            "过了一会... ..."
 
             scene g_train_inti_3_19 with tstmgr
 
-            g "I’m ready, master. Here, here, master’s penis, in the mouth~"
+            g "老娘们儿我已经准备好了。你隔那干啥呢，把阴茎给老娘插进来呗，你插哪呐！在这里！我嘴在这里呢~嘴都要插歪要你何用呐！"
 
-            "Oh dear, she is really cute when looking at me with those innocent eyes and asking me for my penis~"
+            "喔！亲爱的~她正在用天真的眼神看着我，噢！真该死，问我要阴茎的时候，她真的太可爱了~"
 
-            "But... ..."
-
-            scene g_train_inti_3_20 with tstmgr
-
-            player "No, this is not the best position for deep throat. I mean, it’s not like normal blowjob, I need to literally thrust my dick in your throat. You’d better keep your throat parallel to my dick so it can go smoother."
-
-            g "Oh, but how should I do that exactly?"
-
-            scene g_train_inti_3_21 with tstmgr
-
-            player "How about lying down on your back and tilt your head backwards?"
-
-            g "Okay, I’ll try!"
-
-            scene g_train_inti_3_22 with tstmgr
-
-            player "Hmmm... Wait a second first~"
-
-            scene g_train_inti_3_21 with tstmgr
-
-            player "Let me... play your nipple with my dick for a few seconds more~"
+            "但是... ..."
 
             scene g_train_inti_3_20 with tstmgr
 
-            player "It’s really fun~"
+            player "欧不，这不是深喉的最佳位置。我是说，这不是普通的口交，我需要真的把我的老二插进你的喉咙。你最好让你的喉咙和我的老二平行这样才能更顺滑。"
+
+            g "打咩！打咩得死！"
+
+            scene g_train_inti_3_21 with tstmgr
+
+            player "欧！我的上帝，你应该躺下，然后轻轻的把头向后倾斜~"
+
+            g "雅蔑蝶！"
+
+            scene g_train_inti_3_22 with tstmgr
+
+            player "嗯…等我一下先~"
+
+            scene g_train_inti_3_21 with tstmgr
+
+            player "让我……用你的乳头和我的老二再玩几秒钟~一秒过去了！两秒过去了！三秒过去了！弱い！弱い！挤上公交的是我DIO哒！！！wryyyyyyyyy~~~~   七秒钟过去了 我真是high到不行啊！"
+
+            scene g_train_inti_3_20 with tstmgr
+
+            player "真的太有趣了~感觉人生到达了巅峰"
 
             scene g_train_inti_3_21 with tstmgr
 
@@ -225,67 +225,67 @@ label G_train_inti_3:
 
             scene g_train_inti_3_20 with tstmgr
 
-            player "Damn... I can do this all day~"
+            player "该死的……我可以做一整天~"
 
-            g "Master is so childish~"
+            g "主人真是幼稚~"
 
-            player "Cough, cough, anyway, let’s move on, you can lie yourself down now."
+            player "咳咳，咳咳，我们走吧，你现在可以躺下了"
 
-            g "Okay!"
+            g "好嘞!"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "A few moments later..."
+            "几分钟后..."
 
             scene g_train_inti_3_23 with tstmgr
 
-            g "I’m ready, master!~~~"
+            g "我准备好了~~我准备好了~~我们去抓水母吧！主人~"
 
             scene g_train_inti_3_24 with tstmgr
 
-            g "Just give me your big penis~"
+            g "快把你的老二掏出来给我~我想去抓水母"
 
             scene g_train_inti_3_25 with tstmgr
 
-            "Uno lay down on the bed obediently as I told her to."
+            "抓你妈的水母，乌诺听我的吩咐，乖乖地躺在床上，来抓我的大鸡巴！"
 
-            player "Alright then~"
+            player "啊对对对对~"
 
             scene g_train_inti_3_26 with tstmgr
 
-            g "Awwwwwwwww~~~ I have never seen master’s penis in this position. This is so magnificent~"
+            g "哦吼~~~我从来没见过主人的阴茎在这个位置。这真是太壮观了~"
 
-            player "Get ready, Uno, it may be suffering, just let me know if you want me to stop."
+            player "卧槽！我阴茎不长在这长在那的？长我脑子里？行了，准备好，乌诺，可能有呢么一丢丢痛苦，如果你想让我停下来，就告诉我。但是男人怎么可以停下来！"
 
-            g "Suffer? Even better!~"
+            g "会痛?卧槽那感情好啊!～我就是抖m"
 
-            player "... ... Okay."
+            player "... ... 好耶."
 
             scene g_train_inti_3_27 with tstmgr
 
             pause
 
-            "I carefully aimed put my dick in her mouth, and... ..."
+            "我小心翼翼地把我的老二放进她的嘴里，然后... ..."
 
             scene g_train_inti_3_28 with tstmgr
 
             pause
 
-            g "Glug... ... mmmmmmm... ... wummmmmmm... ..."
+            g "biubiubiu！... ... mmmmmmm... ... wummmmmmm... ..."
 
-            "I thrust my penis into her throat like a rude conquerer. Uno couldn’t say anything but making a peculiar gurgling sound from her stuffed throat."
+            "我把我的小弟弟插进她的喉咙，就像小母牛追公牛——牛逼极了。乌诺什么也说不出来，只是从她塞住的喉咙里发出一种奇怪的汩汩声。"
 
-            player "Just remember to give me a sign if you can’t take it anymore."
+            player "小宝贝儿~如果你受不了了，记得给我个暗示呀，比心~"
 
             scene g_train_inti_3_29 with tstmgr
 
             g "... ... ... ..."
 
-            "Uno didn’t make any sound out, instead she put her hands down to her pussy. Shit, she began to masturbate herself."
+            "乌诺没有发出任何声音，而是把她的手放在她的阴户。嗷该死，她开始自慰了。是我的太小了吗！"
 
-            player "You are... such a masochist~"
+            player "你是…这样一个小骚逼~"
 
             scene g_train_inti_3_30 with tstmgr
 
@@ -327,167 +327,167 @@ label G_train_inti_3:
 
             pause
 
-            "She is now attacking by the plugging sensation in throat, queasiness, and sensation of choking. However, all those sufferings she has have converted into sexual pleasure."
+            "她现在有喉咙堵塞感，恶心和窒息感。然而，所有这些痛苦，她已经转化为性快感。"
 
-            "I mercilessly used her throat as if it was an masturbation cup, ahhhhh... ... shit, this is so good~~~"
+            "我无情地用她的喉咙，好像它是一个自慰杯，啊哈... ...妈的，这太棒了~~~"
 
-            "And now... ..."
+            "而现在... ..."
 
-            player "I’m... ... cumming!"
+            player "卧槽... ... 我要冲了!"
 
             scene g_train_inti_3_32 with tstmgr
             play sound cumshot
             $ flashlight()
 
-            g "Glug... ... glug... ... glug... ... awww... ..."
+            g "biubiubiu... ... 噗噗噗... ... wryyyyyy... ... ohhhhhhhh... ..."
 
-            "I ejected my white cum directly through her throat into her stomach. She doesn’t even need to swallow~"
+            "我那雪白雪白的精液直接穿过她的喉咙射入她的胃里。这把孩子都吓傻了，她甚至不需要吞~"
 
             scene g_train_inti_3_33 with tstmgr
             play sound cumshot
             $ flashlight()
 
-            "She had a great orgasm too as she suffers to the limit. Her fluid gushed out from her pussy like it was a fountain."
+            "她也有一个梦想，那就是让高潮再次变得伟大，她已经舒服到难以用文字表示。就在这时体液像喷泉一样从她的阴部喷涌而出，好似在下雨，晶莹透明的水花打湿了我的衣裳"
 
-            "This... is... enough for now."
+            "这个…是……足够的现在。"
 
-            "I quickly took my dick out of her throat... ..."
+            "我赶紧把我的老二从她喉咙里掏出来... ..."
 
             scene g_train_inti_3_34 with tstmgr
 
-            g "Huh... huh... huh... huh... ..."
+            g "Huh... huh... huh... huh... ...（被大佬骂了不整活了）"
 
-            g "I feel... full~ master... ..."
+            g "我觉得……完整~主人……"
 
-            g "we should do that... more often~~"
+            g "我们应该那样做……多~ ~"
 
-            g "Master’s sperm... is indeed a great meal replacement~"
-        "Suggest her do exercise":
-
-
+            g "主人的精子……真是一个伟大的食物~"
+        "建议她做运动":
 
 
 
 
-            player "Well, if you don’t like the food therapy, maybe we should just do the old way, you know, work out, exercise, things like that."
+
+
+            player "如果你不喜欢饮食疗法，也许我们应该用老方法，你知道的，锻炼，诸如此类的。"
 
             scene g_train_inti_3_11 with tstmgr
 
-            g "I don’t like working out. My breasts will bounce like crazy and it is really suffering."
+            g "我不喜欢健身。我的胸会疯狂地弹跳，这真的很难受。"
 
-            player "Girl... ... weight reducing is not an easy job, you have to put in enough effort to get a good result."
+            player "女孩……减肥不是一件容易的工作，你必须付出足够的努力才能得到一个好的结果。"
 
             scene g_train_inti_3_12 with tstmgr
 
-            g "Isn’t there any easy way to consume calories?"
+            g "难道没有什么简单的方法来摄入卡路里吗?"
 
             scene g_train_inti_3_13 with tstmgr
 
-            g "What about sex? I always get exhausted and sweat hard during sex. That can consume calories too, right?"
+            g "关于性的什么?我做爱的时候总是很累，出很多汗。这也可以消耗卡路里，对吧?"
 
-            player "Hmmmmm... ... Yeah, sexual intercourse is kind of a vigorous exercise, it consumes calories just like all the other exercises."
+            player "Hmmmmm……是的，性交是一种剧烈的运动，它和其他运动一样消耗卡路里。"
 
-            player "I haven’t gone to a gym for months, but I still have those nice-looking abs. I think that’s because sex made me use my stomach muscles everyday so they keep fit."
+            player "我已经好几个月没去健身房了，但我的腹肌还是很漂亮。我想那是因为做爱让我每天都锻炼我的腹肌，这样它们就能保持健康。"
 
             scene g_train_inti_3_15 with tstmgr
 
-            g "Great! Come on, master~ fuck me as you like and make me slimmer!~"
+            g "太棒了!来吧，主人~爱怎么操就怎么操，让我瘦下来!～"
 
-            player "Well, nope, I’m not going to fuck you, you should fuck me instead."
+            player "不，我不会上你的，你应该上我。"
 
             scene g_train_inti_3_11 with tstmgr
 
             g "Huh?"
 
-            player "I mean, you can’t just lie down and do nothing during we fuck, that’s not an exercise."
+            player "我是说，我们做爱的时候你不能躺下什么都不做，那不是练习。"
 
-            player "You should get on my top and move yourself, you know, use your muscles~"
+            player "你应该爬到我身上，动一动，你知道，用你的肌肉~"
 
-            player "No, actually, let’s step up the difficulty. I want you to get on my top, move yourself, but you can’t kneel down nor put my dick in your pussy, you can only rub my dick with your labia~"
+            player "不，实际上，让我们把难度加大。我要你爬到我的上面，移动你自己，但你不能跪下，也不能把我的鸡巴放进你的阴户，你只能用你的阴唇摩擦我的鸡巴~"
 
             scene g_train_inti_3_12 with tstmgr
 
-            g "How... how’s that gonna work?"
+            g "如何……那要怎么做呢?"
 
-            player "It will be like deep squatting, sounds like a good way to burn your fat, right?"
+            player "就像深蹲，听起来是个燃烧脂肪的好方法，对吧?"
 
             scene g_train_inti_3_16 with tstmgr
 
-            g "I don’t know... ... That sounds hard."
+            g "我不知道... ...这听起来很难。"
 
             scene g_train_inti_3_17 with tstmgr
 
-            g "But... I will try, because it was on order from master~"
+            g "但是…我试试看，因为这是主人的订单"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later... ..."
+            "一段时间后……"
 
             scene g_train_inti_3_35 with dissolve
 
-            g "Master... ... This is... really hard... ..."
+            g "主人……这是……真的很难……"
 
             scene g_train_inti_3_36 with tstmgr
 
-            g "How am I going to keep balance in this position? I think I will fall any second."
+            g "我该如何保持这个位置的平衡呢?我想我随时都会摔倒。"
 
             scene g_train_inti_3_37 with tstmgr
 
-            g "My breasts are too heavy... ..."
+            g "我的胸部太重了... ..."
 
             scene g_train_inti_3_38 with tstmgr
 
-            player "Oh, how about now?~"
+            player "哦，现在呢?～"
 
-            "I reached out my hands and carried her huge heavy breasts."
+            "我伸出双手，抱着她那丰满的乳房。"
 
-            g "Ha~ Now is much better!"
+            g "哈哈~现在好多了!"
 
-            player "Now just try move yourself up and down, be careful, don’t let my dick slip into your pussy, in other words, don’t squat too hard."
+            player "现在试着上下移动，小心点，别让我的鸡巴溜进你的阴部，换句话说，别蹲得太紧。"
 
-            g "Awwwwww... ... It sounds so difficult... ..."
+            g "Awwwwww……这听起来很难... ..."
 
-            g "But I’ll... try my best, master."
+            g "但我会……尽我所能，主人。"
 
             scene g_train_inti_3_39 with tstmgr
 
             pause
 
-            g "Up... and down... ... Up... and down... ..."
+            g "向上下……向上下……"
 
-            g "Awwwwww... ... I hate squatting!"
+            g "Awwwwww……我讨厌蹲!"
 
-            g "But I can bear it since... master’s penis is here~"
+            g "但我能忍受，因为……主人的阴茎在这里~"
 
-            player "Yes, Uno, keep it on. You are doing a good job."
+            player "是的，乌诺，开着。你做得很好。"
 
-            g "Master~~~ You have to hold me tight, otherwise I will fall immediately."
+            g "主人~~~你一定要抱紧我，否则我马上就会摔下来。你做得很好。"
 
-            player "Of course, no one can take my hands off from boobs!~"
+            player "当然，没人能把我的手从胸上挪开!～"
 
-            "These huge sweet melons... I’d rather die than taking my hands off from them."
+            "这些巨大的甜瓜……我宁愿死也不愿放手。"
 
-            g "Master is so reliable~"
+            g "主人是如此可靠~"
 
             scene g_train_inti_3_40 with tstmgr
 
             pause
 
-            g "Master’s penis... so hard and hot~~~ I think it is going to burn my labia~"
+            g "主人的阴茎……又硬又热~~~我想我的阴唇都要烫了~"
 
-            "Uno’s love juice was keeping flowing out from her pussy. The amount was so big that I almost began to wonder if she was actually peeing."
+            "乌诺的爱之汁不断地从她的阴部流出。数量如此之大，以至于我几乎开始怀疑她是否真的在小便。"
 
-            g "It’s so strange... ... I don’t feel the tiredness anymore. I feel like... I can keep squatting for another hour!"
+            g "太奇怪了... ...我再也不觉得累了。我觉得……我可以再蹲一个小时!"
 
-            "The sexual pleasure has overwhelmed her sense of tiredness. Ha~ I know it was a good idea to let her exercise in this way~"
+            "性的愉悦压倒了她的疲劳感。哈哈~我知道让她这样锻炼是个好主意~"
 
-            "And she is not the only one who is having a good time. I am enjoying the way she rubs my dick with her tender labia too."
+            "她并不是唯一一个玩得很开心的人。我也很享受她用她温柔的阴唇抚摸我老二的方式。"
 
-            "And her her boobs in my hands... ohhh... ... they are just so lovely~"
+            "还有她，她的胸部在我手里…噢……他们太可爱了~"
 
-            "This is so damn good~~~"
+            "这真是太棒了~~~"
 
             scene g_train_inti_3_41 with tstmgr
 
@@ -495,19 +495,19 @@ label G_train_inti_3:
 
             g "Hmmmmmmmm?"
 
-            g "Oh no, master... ... Your penis just... slipped into my pussy a little... ..."
+            g "哦，不，主人... ...你的阴茎…溜进我的小穴... ..."
 
-            g "But I can’t... get it out... ... My legs are so sore~"
+            g "但是我不能……把它弄出来... ...我的腿好疼"
 
             scene g_train_inti_3_42 with tstmgr
 
             $ flashlight()
 
-            "Uno tried to stand up and get away my dick, but she failed and made my dick penetrate her pussy even deeper."
+            "乌诺试图站起来，并摆脱我的老二，但她失败了，使我的老二渗透她的阴部更深。"
 
-            g "Ohhhhhhhhhh~~~ I can’t... ... Master~~~ Master’s penis is so huge~~~"
+            g "哦~~~我不能... ...大师~~~大师的阴茎好大~~~"
 
-            player "Ahhhh~~~ Forget it, I’m gonna give you a good creampie! I’m cumming!"
+            player "啊~~~算了，我要给你一个好的体内射精!我冲了!"
 
             scene g_train_inti_3_43 with tstmgr
             play sound cumshot
@@ -515,21 +515,21 @@ label G_train_inti_3:
 
             g "Ohhhhhhhhhhhhhhhhh!!!!~~~~~~~~~"
 
-            "I occupied her beautiful vagina with my sperm again."
+            "我又用我的精子占据了她美丽的阴道。"
 
-            g "Master~~~ Master~~~ Master’s cum~~~ so much~~~ inside me~~~"
+            g "主人~~~ 主人~~~ 主人的大鸡鸡~~~ 填满我~~~"
 
             scene g_train_inti_3_44 with tstmgr
 
-            g "I’m so sorry... ... Master said I couldn’t have master’s penis inside me, I tried so hard, but I still failed... ..."
+            g "我很抱歉... ...主人说我不能把主人的阴茎插在我体内，我努力了，但还是失败了... ..."
 
-            player "It’s okay, silly girl~"
+            player "没关系的，傻女孩~"
 
-            g "Master~~ Do you think I can really reduce some weight by doing this?"
+            g "主人~~你觉得我真的可以通过这样来减肥吗?"
 
-            player "With enough frequency, yes, I think so."
+            player "有足够的频率，是的，我想是的。"
 
-            g "Then let’s do it every day! I will do better next time, I promise!~"
+            g "那就让我们每天都做吧!下次我会做得更好，我保证!～"
 
             player "Ha~"
 

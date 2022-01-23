@@ -4,7 +4,7 @@ label run_interaction:
 
     $ set_scene("Action")
 
-    call expression cInteraction.nz_code + "_PreInteraction"
+    call expression cInteraction.nz_code + "_PreInteraction" from _call_expression
 
     jump expression cInteraction.label + "_" + cInteraction.nz.relation
 

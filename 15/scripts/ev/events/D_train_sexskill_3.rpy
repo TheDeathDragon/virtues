@@ -3,7 +3,7 @@ label D_train_sexskill_3:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Shinyrost mansion... ..."
+    "深夜，在新光家... ..."
 
 
 
@@ -13,11 +13,11 @@ label D_train_sexskill_3:
 
 
 
-    d "Hee hee hee~ This feels better than I thought~~"
+    d "Hee hee hee~ 这感觉比我想象的还要好~~"
 
 
 
-    d "I should have learned this earlier... ..."
+    d "我应该早点学会这个... ..."
 
 
 
@@ -25,23 +25,23 @@ label D_train_sexskill_3:
 
 
 
-    d "[P]’s horrific huge penis... ... I used to be so afraid of being penetrated by it. It was like a monster to me~"
+    d "[P]的可怕的巨大阴茎......我以前很害怕被它插进来，它对我来说就像一个怪物~"
 
 
 
-    d "But now it is just a poor plaything at my feet~"
+    d "但现在它只是我脚下的一个可怜的玩物~"
 
 
 
-    player "Oh my... ... Your feet are so... tender, there are no callus or dead skin at all. They are like a baby’s feet."
+    player "哦，天呐......。你的脚是如此的......细嫩，根本没有老茧或死皮。它们就像婴儿的脚。"
 
 
 
-    d "Humph~ humph~ I do foot care every week~"
+    d "哼哼~哼哼~我每周都做足部护理~"
 
 
 
-    player "This feels... so amazing!~"
+    player "这感觉......太神奇了!~"
 
 
 
@@ -51,27 +51,27 @@ label D_train_sexskill_3:
 
 
 
-    d "Has anyone served your penis with feet before?"
+    d "以前有人用脚服侍过你的小弟弟吗？"
 
 
 
-    player "Eh... definitely not like this~ You are doing so great!"
+    player "呃......从来没有~你做得太好啦！"
 
 
 
-    d "It’s kinda tiring though, moving my feet up and down... ... but it worths when seeing [P]’s enchanted face~"
+    d "虽然有点累，不停的移动我的脚......但当看到[P]好像被施了魔法的脸时，这就值得了~"
 
 
 
-    d "It is getting strong, the pulse! Your penis is pulsing like crazy. You are about to cum, right?"
+    d "越来越强烈了，在跳！你的阴茎在不停地跳动。你的阴茎正疯狂地跳动着。你就要射了，对吗？"
 
 
 
-    d "Irene can make you cum only by her feet!~ Irene is so good!"
+    d "艾琳只靠她的脚就能让你射出来！~艾琳太厉害了！"
 
 
 
-    player "I... I’m cumming!"
+    player "我......我在射了！"
 
 
 
@@ -83,35 +83,35 @@ label D_train_sexskill_3:
 
 
 
-    d "Oh, wow, this is the first time I look at your orgasm in this distance. It’s... shocking... ..."
+    d "Oh, wow, 这是我第一次以这种距离看你的高潮。太......令人震惊了... ..."
 
 
 
     scene d_train_sexskill_3_4 with tstmgr
 
-    "She then obediently put her face close to my dick and started licking the cum left on it."
+    "然后，她乖巧地把脸靠近我的鸡巴，开始舔它上面残留的精液。."
 
 
 
     scene d_train_sexskill_3_5 with tstmgr
 
-    "Ah... ... shit, I really love this clean-up service~"
+    "Ah... ... 靠, 我真的太爱这种清理服务了~"
 
 
 
     scene d_train_sexskill_3_6 with tstmgr
 
-    d "Look... look... [P]~~~"
+    d "看... 看... [P]~~~"
 
 
 
     scene d_train_sexskill_3_7 with tstmgr
 
-    d "*Swallowing hard* Wuuuuummmm... ... ... ..."
+    d "*用力的吞咽* Wuuuuummmm... ... ... ..."
 
 
 
-    d "Glug... ... ... ..."
+    d "咕噜... ... ... ..."
 
 
 
@@ -121,51 +121,51 @@ label D_train_sexskill_3:
 
 
 
-    d "That was so thick... ..."
+    d "这是那么的浓厚......"
 
 
 
-    "Ohhh... ... It’s so damn amazing to see this cute creature trying so hard to swallow my sperm~~~"
+    "哦......看到这个可爱的生物如此努力地吞下我的精液，真是太爽了~~~"
 
 
 
     scene d_train_sexskill_3_9 with tstmgr
 
-    d "Did I do a good job?"
+    d "我做的好吗?"
 
 
 
-    player "Of course, Irene~"
+    player "当然, 艾琳~"
 
 
 
     scene d_train_sexskill_3_10 with tstmgr
 
-    d "Humph~ I have practiced my feet and my tongue a lot recently, with a cucumber~"
+    d "Humph~ 我最近经常练习我的脚和我的舌头，用黄瓜~"
 
 
 
     scene d_train_sexskill_3_11 with tstmgr
 
-    d "So... you know, if you spend the night here more often, I will... learn more tricks to... make you happy~"
+    d "所以......你知道，如果你经常在这里过夜，我就会......学会更多的招数来......让你快乐~"
 
 
 
-    "Irene hasn’t graduated from highschool and does not yet have the freedom of leaving home at night, so I have to come to her if I want to spend a night with her."
+    "艾琳还没有高中毕业，所以晚上必须留在家，而如果我想和她过夜，就一定要来找她。."
 
 
 
     scene d_train_sexskill_3_12 with tstmgr
 
-    d "Love you~"
+    d "爱你~"
 
 
 
-    player "Irene... ..."
+    player "艾琳... ..."
 
 
 
-    player "You don’t need to learn anything just to please me. I’m here for you, not for your service. I’ll be super happy even if we just sit here and chat for a night."
+    player "你不需要为了取悦我而学习什么。我是为你而来，不是为你的服务。即使我们只是坐在这里聊一晚上，我也会非常高兴。."
 
 
 
@@ -177,17 +177,17 @@ label D_train_sexskill_3:
 
     scene d_train_sexskill_3_14 with tstmgr
 
-    d "But I don’t want to chat with you for a night... ..."
+    d "但我不想和你聊一晚上... ..."
 
 
 
     scene d_train_sexskill_3_15 with tstmgr
 
-    d "I want [P]’s... big big cucumber~~ hee hee~~"
+    d "我想要[P]的......大大的黄瓜~~嘻嘻~~"
 
 
 
-    "Shit, my dick got hard again immediately after she mentioned the cucumber thing."
+    "靠，在她提到黄瓜的事情后，我的鸡巴马上又硬了起来."
 
 
 
@@ -197,7 +197,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Irene, I'm going to give you the big cucumber you like!"
+    player "艾琳，这就把你最喜欢的大黄瓜给你。!"
 
 
 
@@ -205,7 +205,7 @@ label D_train_sexskill_3:
 
     $ flashlight()
 
-    d "Ah-yah! Wait a second!"
+    d "Ah-yah! 等一下!"
 
 
 
@@ -215,23 +215,23 @@ label D_train_sexskill_3:
 
 
 
-    d "Ohhhh~~~ Wait, this... this position... is so strange~~~~"
+    d "Ohhhh~~~ 等等，这个......这个姿势......太奇怪了~~~~"
 
 
 
-    d "You are taking my leg as a joystick!"
+    d "你把我的腿当成了操纵杆！"
 
 
 
-    d "Wuuuuuwww... ... My body... feels so light~"
+    d "Wuuuuwww... ... 我的身体......感觉很轻~"
 
 
 
-    d "I can only feel... a big hot cucumber inside me~~~"
+    d "我只能感觉到......一根又大又热黄瓜在我体内~~~"
 
 
 
-    d "Ahhhhh~~ hhhh~~ This is so good~~~"
+    d "啊~~~~~~~~~~这真是太棒了~~~"
 
 
     stop sound
@@ -241,19 +241,19 @@ label D_train_sexskill_3:
 
 
 
-    "Her delicate buttock is so small that I can easily cover it with my hand. Damn... she is so cute~"
+    "她精致的臀部是如此小巧，以至于我可以轻松地用手盖住它。该死的......她太可爱了~"
 
 
 
-    "I can see the beads of sweat slid down her lovely spine. That made her look even more beautiful under the dim light."
+    "我可以看到汗珠从她可爱的脊背上滑落。这使她在昏暗的灯光下显得更加美丽。"
 
 
 
-    d "Ahhhh~~ [P]~~ [P]~~ Yes... ohhhhh~~~"
+    d "啊~~~[P]~~[P]~~是的......哦~~~~"
 
 
 
-    "Irene’s moaning resounded throughout the room. I hope Aunt Elisa won’t be waked up."
+    "艾琳的呻吟声响彻整个房间。我希望艾丽莎姨妈不会因此被吵醒."
 
 
     stop sound
@@ -263,19 +263,19 @@ label D_train_sexskill_3:
 
 
 
-    d "Big cucumber~~~ this big cucumber is driving me crazy~~~~~~"
+    d "大黄瓜~~~这个大黄瓜让我疯狂~~~~~~"
 
 
 
-    d "Awwwww~~~ cucumber juice~~ I want your cucumber juice~~ Fill Irene's little pussy with it, please~~ please~~"
+    d "啊啊啊~~~黄瓜汁~~~我要你的黄瓜汁~~~用它填满艾琳的小穴，拜托~~拜托~~"
 
 
 
-    d "Huhhhh, awwwwww~~~ Big big cucumber is destroying me~~~~"
+    d "啊啊啊，啊啊啊~~~大大的黄瓜~~~我要坏掉惹~~~~"
 
 
 
-    player "Hang in there, Irene, I'm cumming!"
+    player "坚持住，艾琳，我要射了！"
 
 
     stop sound
@@ -287,17 +287,17 @@ label D_train_sexskill_3:
 
 
 
-    d "Cucumber juice... ... white thick juice... ... so much... inside me... ..."
+    d "黄瓜汁......白色的浓汁......这么多......在我体内......"
 
 
 
-    player "That was hell of a creampie~ Are you alright, Irene?"
+    player "那么激烈的做爱~你还好吗，艾琳？?"
 
 
 
     scene d_train_sexskill_3_21 with tstmgr
 
-    d "Yeah, yes, I... ..."
+    d "Yeah,是的, 我... ..."
 
 
 
@@ -307,11 +307,11 @@ label D_train_sexskill_3:
 
 
 
-    player "Hmmmm? Irene?"
+    player "Hmmmm? 艾琳?"
 
 
 
-    "It looks like she lost consciousness after that intense orgasm."
+    "看起来她已经因为过于猛烈的高潮后失去了知觉."
 
 
 
@@ -319,7 +319,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Have a good night then, my girl~"
+    player "祝你有个美好的夜晚，我的女孩~"
 
 
 

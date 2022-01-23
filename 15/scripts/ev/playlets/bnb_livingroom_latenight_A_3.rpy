@@ -2,13 +2,13 @@ label bnb_livingroom_latenight_A_3:
 
     scene bnb_livingroom_latenight_a_3_1 with tstmgr
 
-    a "Seems like people are all asleep by now."
+    a "现在大家好像都睡着了."
 
 
 
     scene bnb_livingroom_latenight_a_3_2 with tstmgr
 
-    player "So no one is going to bother us, right?"
+    player "所以没人会打扰我们,对吧?"
 
 
 
@@ -18,23 +18,23 @@ label bnb_livingroom_latenight_A_3:
 
     scene bnb_livingroom_latenight_a_3_3 with tstmgr
 
-    a "It's only me and you now~"
+    a "现在只有你和我~"
 
 
 
     scene bnb_livingroom_latenight_a_3_4 with tstmgr
 
-    a "Awww~~ Wait~~"
+    a "Awww~~等等~~"
 
 
 
     scene bnb_livingroom_latenight_a_3_5 with tstmgr
 
-    a "Are you trying to... make me cum here?"
+    a "你是想...让我在这里高潮?"
 
 
 
-    a "Let's... go to your room, okay? I don't want to... let the guests step into the stain of my fluid tomorrow~"
+    a "让我们...回你房间去,好吗?我不想...让客人们明天踩到我的淫水~"
 
 
 

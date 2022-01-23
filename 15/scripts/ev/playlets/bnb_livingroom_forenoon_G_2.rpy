@@ -2,35 +2,35 @@ label bnb_livingroom_forenoon_G_2:
 
     scene void with tstmgr
 
-    "I was in the livingroom with Uno."
+    "我和乌诺在客厅里."
 
 
 
     scene bnb_livingroom_forenoon_g_2_1 with tstmgr
 
-    g "Say cheese... ... ... ..."
+    g "说茄子............"
 
 
 
-    player "Cheese... ... ... ..."
+    player "茄子............"
 
 
 
-    g "Okay, it's done."
+    g "Okay,搞定了."
 
 
 
     scene bnb_livingroom_forenoon_g_2_2 with tstmgr
 
-    g "I'm going to tweet this photo. Don't worry, I won't reveal your face."
+    g "我要在推特上发这张照片.别担心,我不会露出你的脸."
 
 
 
-    g "'Just had the breakfast with my handsome landlord, lol #Unothecutiest.'"
+    g "'刚和我英俊的房东吃完早餐,哈哈#Unothecutiest(此处为'最可爱的乌诺'的话题).'"
 
 
 
-    player "Uno the cutiest, huh... ... ... ..."
+    player "最可爱的乌诺,huh............"
 
 
 

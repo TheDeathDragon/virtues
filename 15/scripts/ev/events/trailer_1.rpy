@@ -7,73 +7,73 @@ label trailer_1:
 
 
 
-    "I came to Posia’s store this afternoon..."
+    "我今天下午来到波西亚的商店"
 
 
 
     scene trailer_1_1 with dissolve
 
-    "Posia" "So, the chosen one, what service do you need from me today?"
+    "波西亚" "那么,天命之子,你今天需要我提供什么服务?"
 
 
 
-    player "Well, I’m kinda short of money these days, so... ... how about let’s just talk today?"
+    player "好吧,我最近有点缺钱,所以............我们今天就谈谈如何?"
 
 
 
-    "Posia" "As you wish, the chosen one~"
+    "波西亚" "如你所愿,天命之子~"
 
 
 
     scene trailer_1_2 with tstmgr
 
-    "Posia" "... ... ... ..."
+    "波西亚" "... ... ... ..."
 
 
 
-    "Posia" "Actually, can I ask you for one thing?"
+    "波西亚" "实际上,我能要求你做一件事吗?"
 
 
 
-    player "Emm? Yeah, of course."
+    player "Emm? 当然了."
 
 
 
     scene trailer_1_3 with tstmgr
 
-    "Posia" "Would you please help me collect some superhero comic books?"
+    "波西亚" "请你帮我收集一些超英的漫画书好吗?"
 
 
 
-    player "Huh? You mean like Justice League?"
+    player "哼,你是说像正义联盟那样?"
 
 
 
     scene trailer_1_4 with tstmgr
 
-    "Posia" "Yes, just like that~"
+    "波西亚" "是的,就像那样~"
 
 
 
-    player "I’m really surprised, Posia. I didn’t know you are a comic lover."
+    player "我真的很惊讶,波西亚.我不知道你是一个漫画爱好者."
 
 
 
-    "Posia" "I am not, but a friend of mine is. I am just trying to prepare her a gift."
+    "波西亚" "我不是,但我的一个朋友是.我只是想为她准备一份礼物."
 
 
 
-    player "Wow, this actually surprised me again. I never knew you have other friends."
+    player "哇,真让我吃惊.我从来不知道你还有其他朋友."
 
 
 
     scene trailer_1_5 with tstmgr
 
-    "Posia" "Hmmmmmm... ... Technically she cannot be counted as my friend, she is more like my family. We are somehow blood-related."
+    "波西亚" "hummm.......严格来说,她不能算作我的朋友,她更像是我的家人.我们在某种程度上有血缘关系."
 
 
 
-    "Somehow?"
+    "某种程度上说?"
 
 
 
@@ -81,105 +81,105 @@ label trailer_1:
 
 
 
-    player "I will help you, but what I can get in return?"
+    player "我愿意帮助你,但我能得到什么回报?"
 
 
 
     scene trailer_1_6 with tstmgr
 
-    "Posia" "One time of free service~"
+    "波西亚" "一次免费服务~"
 
 
 
-    player "Sounds fair to me. Can I use this free service today?"
+    player "对我来说听起来还行.我今天可以使用这项免费服务吗?"
 
 
 
     scene trailer_1_7 with tstmgr
 
-    "Posia" "No, you have to bring me the comic books first. A deal is a deal~"
+    "波西亚" "当然不行,你必须先把漫画书带给我.一言为定~"
 
 
 
-    player "Alright then... ..."
+    player "好吧... ..."
 
 
 
-    player "Oh, actually I have a question for you too."
+    player "哦,其实我也有一个问题要问你."
 
 
 
-    "Posia" "What is it, the chosen one?"
+    "波西亚" "是什么,天命之子?"
 
 
 
-    player "I want to know... ..."
+    player "我想要知道... ..."
 
 
 
-    player "Am I the only ‘chosen one’?"
+    player "我是唯一的天命之子吗?"
 
 
 
     scene trailer_1_8 with tstmgr
 
-    "Posia" "You are, in this dimension."
+    "波西亚" "你当然是,起码在这个位面."
 
 
 
-    player "Huh? What do you mean by dimension?"
+    player "Huh? 这个位面?"
 
 
 
-    player "Wait a minute, are you suggesting that there are parallel worlds where exist other... chosen ones?"
+    player "等一下,你是说有平行世界存在其他......天命之子吗?"
 
 
 
     scene trailer_1_9 with tstmgr
 
-    "Posia" "do you believe the existence of parallel worlds?"
+    "波西亚" "你相信多元宇宙吗?"
 
 
 
     label trailer_1_choice_1:
 
     menu:
-        "Yes":
+        "是":
 
 
-            player "Well, science fiction is definitely my thing so... yeah, I believe it~"
-
-            scene trailer_1_10 with tstmgr
-
-            "Posia" "Hooo?~~"
-
-            "Posia" "Then you should understand that there will definitely be people like you in other worlds~"
-
-            player "... ... ... ..."
-
-            player "Why am I getting this feeling that you have actually been to other worlds? Otherwise how could you be so sure about it?"
-
-            scene trailer_1_11 with tstmgr
-
-            "Posia" "Haha~ What a great joke~"
-        "No":
-
-
-
-
-            player "Not really... ..."
+            player "是的,我相信它"
 
             scene trailer_1_10 with tstmgr
 
-            "Posia" "Then just forget about what I said~"
+            "波西亚" "Hooo?~~"
+
+            "波西亚" "那么你应该明白,在其他世界肯定会有像你这样的人~"
 
             player "... ... ... ..."
 
-            player "Shit, why am I getting this feeling that you just don’t care to explain to me the existence of a well-known truth?"
+            player "为什么我有这种感觉,你真的去过其他世界?否则你怎么会这么肯定呢?"
 
             scene trailer_1_11 with tstmgr
 
-            "Posia" "Haha~ You are just thinking too much~"
+            "波西亚" "Haha~ 真好笑~"
+        "不":
+
+
+
+
+            player "不太... ..."
+
+            scene trailer_1_10 with tstmgr
+
+            "波西亚" "那就假装我没有说过吧~"
+
+            player "... ... ... ..."
+
+            player "妈的,为什么我有这种感觉,你就是不屑于向我解释一个众所周知的真理?"
+
+            scene trailer_1_11 with tstmgr
+
+            "波西亚" "Haha~ 你想太多啦~"
 
 
 
@@ -187,7 +187,7 @@ label trailer_1:
 
 
 
-    player "Whatever, it’s none of my business anyway."
+    player "管他呢,反正也不关我的事."
 
 
 
@@ -197,7 +197,7 @@ label trailer_1:
 
 
 
-    "I spent some time with Posia in her store... ..."
+    "我和波西亚在她的店里呆了一段时间... ..."
 
 
 
@@ -225,43 +225,43 @@ label trailer_1:
 
 
 
-    "Time, unkown. Location, unknown..."
+    "时间,不详.地点,不详..."
 
 
 
-    "A young man walked into an empty bookshop..."
+    "一个年轻人走进一家空荡荡的书店..."
 
 
 
-    "???" "Afternoon, Pocia."
+    "???" "下午好,波西亚."
 
 
 
     scene trailer_1_12 with dissolve
 
-    "Pocia" "Ah-rah, welcome~"
+    "波西亚""啊-拉,欢迎~"
 
 
 
-    "???" "I wonder if there are any works available? You know, the business is getting worse recently. I almost got killed last night."
+    "???" "我想知道有没有我可以干工作?你知道,最近的生意越来越差.我昨天晚上差点被杀了."
 
 
 
     scene trailer_1_13 with tstmgr
 
-    "Pocia" "Don’t worry about it, you know I always have works for you~"
+    "波西亚" "别担心,你知道我一直为你留着工作~"
 
 
 
     scene trailer_1_14 with tstmgr
 
-    "???" "*Swallowing hard* Oh... thanks... ... ... ..."
+    "???" "*用力吞咽*哦......谢谢............"
 
 
 
     scene trailer_1_15 with tstmgr
 
-    "Pocia" "*Smiling flirtingly* Hum~ Can't move your eyes away from my boobs?"
+    "波西亚" "*微笑着挑拨* 哼~你的眼睛不能从我的胸部移开?"
 
 
 
@@ -269,17 +269,17 @@ label trailer_1:
 
 
 
-    "???" "Seriously, why can’t you just dress... a little more decently maybe?"
+    "???" "说真的,为什么你就不能穿得......更体面一点?"
 
 
 
-    "Pocia" "Why would I? No one will come here besides you anyway~"
+    "波西亚" "我为什么要这样做?反正除了你,没有人会来这里~"
 
 
 
     scene trailer_1_16 with tstmgr
 
-    "Pocia" "That’s why you are the chosen one~"
+    "波西亚" "这就是为什么你是天命之子~"
 
 
 
@@ -293,12 +293,10 @@ label trailer_1:
 
 
 
-    "*That was just a little trailer for our next game.*"
+    "*那只是我们下一个游戏的一个小预告片.*"
 
 
-
-    "*Becoming a patron to know more information about it~*"
-
+    "*成为赞助人,了解更多相关信息~*"
     stop music fadeout 1.0
 
     jump event_post

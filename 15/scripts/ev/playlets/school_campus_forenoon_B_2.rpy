@@ -2,27 +2,27 @@ label school_campus_forenoon_B_2:
 
     scene b_school_day_smile with tstmgr
 
-    b "You stayed up late last night, am I right?"
+    b "你昨晚熬夜了,对吗?"
 
 
 
-    player "Eh... ... yeah. How did you find out?"
+    player "Eh......yeah.你是怎么知道的?"
 
 
 
-    b "There is a weird scent on your body."
+    b "你身上有一种奇怪的气味."
 
 
 
-    b "And it smells... rotten."
+    b "闻起来...虚弱."
 
 
 
-    player "How could you... ..."
+    player "你怎么......"
 
 
 
-    b "I got a keen sense of smell."
+    b "我有敏锐的嗅觉."
 
 
 

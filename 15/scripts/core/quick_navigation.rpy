@@ -1,7 +1,7 @@
 init python:
     if 'mouseup_3' in config.keymap["game_menu"]:
         config.keymap["game_menu"].remove('mouseup_3')
-
+        
     def quick_navigation():
         if _menu:
             _invoke_game_menu()
@@ -118,28 +118,28 @@ screen quick_navigation():
 
         if not _in_replay and not _replaying_event:
 
-            textbutton _("Gallery") at qnbtn action Hide("quick_navigation"), ShowMenu("gallery")
+            textbutton _("画廊") at qnbtn action Hide("quick_navigation"), ShowMenu("gallery")
 
-        textbutton _("History") at qnbtn action Hide("quick_navigation"), ShowMenu("history")
+        textbutton _("历史") at qnbtn action Hide("quick_navigation"), ShowMenu("history")
 
-        textbutton _("Setting") at qnbtn action Hide("quick_navigation"), ShowMenu("preferences")
+        textbutton _("设置") at qnbtn action Hide("quick_navigation"), ShowMenu("preferences")
 
         if not _in_replay and not _replaying_event:
 
-            textbutton _("Load") at qnbtn action Hide("quick_navigation"), ShowMenu("load")
+            textbutton _("读档") at qnbtn action Hide("quick_navigation"), ShowMenu("load")
 
-            textbutton _("Save") at qnbtn action Hide("quick_navigation"), Show("show_save_menu")
+            textbutton _("存档") at qnbtn action Hide("quick_navigation"), Show("show_save_menu")
 
         if cAction or cEvent or cPlaylets or cInteraction or cLabel:
-            textbutton _("Hide") at qnbtn action Hide("quick_navigation"), HideInterface()
+            textbutton _("隐藏") at qnbtn action Hide("quick_navigation"), HideInterface()
 
         if _in_replay:
 
-            textbutton _("End Replay") at qnbtn action Hide("quick_navigation"), EndReplay(confirm=False)
+            textbutton _("结束回放") at qnbtn action Hide("quick_navigation"), EndReplay(confirm=False)
 
         if _replaying_event or (config.developer and is_scene("Event")):
 
-            textbutton _("End Replay") at qnbtn action Hide("quick_navigation"), Jump("event_post")
+            textbutton _("结束回放") at qnbtn action Hide("quick_navigation"), Jump("event_post")
 
 
 
@@ -148,10 +148,10 @@ screen quick_navigation():
 
 
 
-        textbutton _("Escape") at qnbtn action Call("escape")
+        textbutton _("逃脱") at qnbtn action Call("escape")
 
         if renpy.variant("pc") or renpy.variant("android"):
 
 
-            textbutton _("Quit Game" if _in_replay else "Quit") at qnbtn action Quit(confirm=not main_menu)
+            textbutton _("退出游戏" if _in_replay else "退出") at qnbtn action Quit(confirm=not main_menu)
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

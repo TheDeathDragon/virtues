@@ -4,7 +4,7 @@ label park_exercise_morning_F_4:
 
     scene park_exercise_morning_f_4_1 with tstmgr
 
-    player "Good morning, Rachel~"
+    player "早上好,瑞秋~"
 
 
 
@@ -12,13 +12,13 @@ label park_exercise_morning_F_4:
 
 
 
-    player "I noticed that you didn't wear your favorite vest today."
+    player "我注意到你今天没有穿你最喜欢的背心."
 
 
 
     scene park_exercise_morning_f_4_2 with tstmgr
 
-    f "Yeah... ... I think it revealed too much of my skin... ..."
+    f "Yeah......我觉得太暴露我的肌肤了......"
 
 
 
@@ -26,7 +26,7 @@ label park_exercise_morning_F_4:
 
 
 
-    "She really has changed a lot after receiving that DVD from me..."
+    "收到我给的那张DVD后,她真的变了好多..."
 
 
 

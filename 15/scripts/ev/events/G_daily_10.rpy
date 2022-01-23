@@ -3,7 +3,7 @@ label G_daily_10:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, in Uno’s room..."
+    "今晚晚些时候,在乌诺的房间里..."
 
 
 
@@ -13,31 +13,31 @@ label G_daily_10:
 
 
 
-    player "Uno... Your body is so soft... ..."
+    player "乌诺...你的身体好软......"
 
 
 
-    "Here I am again, seeking comfort in Uno’s lovely body after I got stuck with my college assignments."
+    "在完成大学作业后,我又在乌诺可爱的身体上寻找安慰."
 
 
 
     scene g_daily10_2 with tstmgr
 
-    g "Emmmmm~~~ Do you... feel better now?"
+    g "Emmmmm~~~你...现在觉得好些了吗?"
 
 
 
     scene g_daily10_3 with tstmgr
 
-    player "Yeah, thank you very much, Uno... I am now fully refreshed."
+    player "Yeah,非常感谢,乌诺...我现在精神完全恢复了."
 
 
 
-    g "Glad to hear that. Now you should... go back to your work~"
+    g "很高兴听到这个消息.现在你应该...回去工作了~"
 
 
 
-    player "I will... ..."
+    player "我会的......"
 
 
 
@@ -47,103 +47,103 @@ label G_daily_10:
 
 
 
-    player "Actually, would you mind if I ask..."
+    player "事实上,你介意我问一下吗..."
 
 
 
-    player "Why are you always... so obedient to me, Uno?"
+    player "你为什么总是...这么听话,乌诺?"
 
 
 
     scene g_daily10_5 with tstmgr
 
-    g "Obedient?"
+    g "听话?"
 
 
 
-    player "Yeah... ... I always come to you like this at late night, touch you, pet you. I take it as a way to reduce my stress, but I never really considered your feeling of it. I am just... being selfish... ..."
+    player "Yeah......我总是在深夜这样来到你身边,爱抚你.我认为这是一种减轻压力的方式,但我从来没有真正考虑过你的感受.我只是...很自私......"
 
 
 
-    player "You know, if you don’t like this, you can just tell me and I won’t do it anymore. The deal of ‘30 seconds tits touching everyday’ no longer exists since we are together now. You don’t owe me anything."
+    player "你知道,如果你不喜欢这样,你可以告诉我,我不会再这样做了.自从我们现在在一起,“每天30秒的摸胸”的交易不再存在.你不欠我任何东西."
 
 
 
-    g "Why would you think that I may not like it?"
+    g "为什么你会认为我可能不喜欢这样?"
 
 
 
-    player "Because... you are basically just passively enduring my touching all the time."
+    player "因为...你基本上只是一直被动地忍受我的爱抚."
 
 
 
     scene g_daily10_4 with tstmgr
 
-    g "Not enduring it, I’m enjoying it~"
+    g "不是忍受,而是享受~"
 
 
 
-    g "The touching of your hands... make me feel safe~"
+    g "你爱抚的手...让我感到安全~"
 
 
 
-    player "Wow... It’s so good to hear that."
+    player "Wow...听到这个消息真是太好了."
 
 
 
-    g "You are right about one thing though~ I am indeed... obedient to you. Don’t you like it?"
+    g "不过有一件事你是对的~我确实是...很听你话.你不喜欢吗?"
 
 
 
-    player "I... I like it, but you don’t have to... ..."
+    player "我...我很喜欢,但你没必要......"
 
 
 
     scene g_daily10_6 with tstmgr
 
-    g "You know, when I was a little girl, my dream is to live like a pet after I grow up."
+    g "你知道,当我还是个小女孩的时候,我的梦想就是长大后像宠物一样生活."
 
 
 
-    g "Because pets don’t worry about everything. I really wanted to... find someone I love, give all myself to him, and let him take care of everything for me. All I need is to cuddle up with him everyday and be like an obedient pet~"
+    g "因为宠物不用操心很多事情.我真的想...找一个我爱的人,把自己的一切都给他,让他为我打理一切.我所需要的就是每天和他依偎在一起,像一只听话的宠物~"
 
 
 
     scene g_daily10_7 with tstmgr
 
-    g "Sounds irresponsible, right? Well, you can’t expect more because I was just a little girl back then."
+    g "听起来不负责任,对吧?嗯,你不能要求太多,因为那时候我还是个小女孩."
 
 
 
     scene g_daily10_8 with tstmgr
 
-    g "And now... the first part of that little girl’s dream has come true. I have found the man I love~~"
+    g "而现在...那个小女孩梦想的一部分实现了.我找到了我爱的人~~"
 
 
 
-    player "Uno... ... ... ..."
+    player "乌诺............"
 
 
 
-    g "Ah, wait a moment~"
+    g "Ah,等一会~"
 
 
 
     scene void with tstmgr
 
-    "She suddenly got up from bed, opened the light, and found something in her drawers."
+    "她突然从床上起来,打开灯,在她的抽屉里找一些东西."
 
 
 
     scene g_daily10_9 with dissolve
 
-    g "I got this pair of cat ears from Irene. What do you think?"
+    g "我从艾琳那里拿了一对猫耳朵.你觉得如何??"
 
 
 
     scene g_daily10_10 with tstmgr
 
-    player "You look... very lovely with it."
+    player "你看起来...非常可爱."
 
 
 
@@ -151,55 +151,55 @@ label G_daily_10:
 
 
 
-    g "Do you want to help me achieve the second part of that dream? Do you want to... have Uno as a pet of yours?"
+    g "你想帮我实现我梦想的剩下部分吗?你想...把乌诺当宠物吗?"
 
 
 
-    player "But I’m your master already. You are my tits slave, remember?"
+    player "但我已经是你的主人了.记住,你是我奶子奴隶?"
 
 
 
     scene g_daily10_11 with tstmgr
 
-    g "Don’t get used to that. That was just... a role play for our porn videos."
+    g "不是这样的.那只是...我们色情视频的角色扮演所需要的."
 
 
 
-    player "Isn't this a role play too?"
+    player "这不是角色扮演吗?"
 
 
 
     scene g_daily10_12 with tstmgr
 
-    g "It is~ But the different thing is, this is the role I want to play~"
+    g "是~但不同的是,这是我想扮演的角色~"
 
 
 
-    player "Oh, so you don’t really like that tits slave role?"
+    player "Oh,所以你并不是很喜欢奶子奴隶的角色?"
 
 
 
-    g "That name doesn’t even make any sense."
+    g "这个名字都读不通."
 
 
 
     scene g_daily10_13 with tstmgr
 
-    player "Okay. Then let’s stop playing that in our next video."
+    player "Okay.那下个视频我就不说了."
 
 
 
-    g "Meow~~ Thank you, [P]~"
+    g "Meow~~谢谢你,[P]~"
 
 
 
-    player "How do I deserve to own such an angelic kitty like you?"
+    player "我怎么配拥有像你这样天使般的小猫呢?"
 
 
 
     scene g_daily10_14 with tstmgr
 
-    player "Oh... I have something for you."
+    player "Oh...我有东西要给你."
 
 
 
@@ -213,7 +213,7 @@ label G_daily_10:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
@@ -225,25 +225,25 @@ label G_daily_10:
 
     scene g_daily10_16 with tstmgr
 
-    g "A collar?"
+    g "一个项圈?"
 
 
 
-    player "Do you like it? Every domestic cat needs a collar~"
+    player "你喜欢吗?家猫都需要项圈~"
 
 
 
     scene g_daily10_17 with tstmgr
 
-    g "I like it... ... ... ..."
+    g "我喜欢............"
 
 
 
-    g "But... why did you have a collar? Have you planned this for a long time?"
+    g "但是...你为什么有项圈?你已经计划很久了吗?"
 
 
 
-    player "I... no, it was just... ... ... ..."
+    player "我...没有,只是............"
 
 
 
@@ -257,45 +257,45 @@ label G_daily_10:
 
     $ flashlight()
 
-    g "Whatever, I love this gift, thank you, master~"
+    g "无论如何,我喜欢这个礼物,谢谢你,主人~"
 
 
 
-    player "Ohhhh... Uno’s titty attack!"
+    player "Ohhhh...乌诺的胸袭!"
 
 
 
     scene g_daily10_20 with tstmgr
 
-    player "You big-titty slutty cat. I'm definitely going to lose myself in your boobs one day~"
+    player "你这大胸放荡的小猫咪.总有一天我会在你的胸里迷失自己~"
 
 
 
     scene g_daily10_21 with tstmgr
 
-    g "This pair of boobs only belongs to you, master~~"
+    g "这对乳房是你的,主人~~"
 
 
 
-    player "Awww... My beloved kitty... ... ..."
+    player "Awww...我亲爱的猫咪........."
 
 
 
-    player "Can we have sex tonight, Uno?"
+    player "我们今晚可以做爱吗,乌诺?"
 
 
 
-    g "Uno loves to... But you still got assignments due tomorrow, right, master?"
+    g "乌诺很乐意...但你明天还有作业要交,对吧,主人?"
 
 
 
-    player "Ehhhh... ... Yeah, you are right..."
+    player "Ehhhh......Yeah,你说得对..."
 
 
 
     scene void with tstmgr
 
-    "I left Uno’s room reluctantly and got back to work after petting her for an hour."
+    "我不情愿地离开了乌诺的房间,在爱抚了她一个小时后,我回去做作业了."
 
 
 

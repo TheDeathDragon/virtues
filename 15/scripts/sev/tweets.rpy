@@ -3,21 +3,21 @@ init 1 python:
     A.tweets = {
 
         "general": [
-            "Have you seen yesterday's soccer game? That was insane.", 
-            "I'm afraid I've put on some weight recently... What do you think?", 
-            "There will be one new guest coming tomorrow night."
+            "你看了昨天的足球比赛了吗,真让人疯狂.",
+            "恐怕我最近胖了些...你觉得呢?",
+            "明天晚上会有一位新客人来."
         ],
 
         "girlfriend": [
-            "I was thinking about you all day. Please stay with me for a while.",
-            "I like you wearing this shirt. Very handsome.",
-            "I made some cookies for you, all are in heart shape." 
+            "我一整天都在想你.请和我呆一会儿.",
+            "我喜欢你穿这件衬衫.非常帅.",
+            "我给你做了一些饼干,都是心形的."
         ],
 
         "sexpartner": [
-            "Don't stare at me like that... It's a little embarrassing...",
-            "I like you wearing this shirt. Very handsome",
-            "I made some cookies for you. You can find them in the kitchen."
+            "别那样盯着我看...有点尴尬...",
+            "我喜欢你穿这件衬衫.非常帅",
+            "我给你做了些饼干.放在厨房了."
         ]
     }
 
@@ -25,82 +25,82 @@ init 1 python:
     B.tweets = {
 
         "general": [
-            "Are you ready for the next exam?", 
-            "Do you want me to teach you some Chinese words?", 
-            "Let's talk about the stock market. I've just analyzed a little about the time series of the stock index.",
-            "Let's talk about the stock market. I've just analyzed a little about the time series of the stock index."
+            "你准备好下次考试了吗?",
+            "你想让我教你一些中文单词吗?",
+            "我们来谈谈股票市场.我刚刚分析了一下股票指数的时间序列.",
+            "我们来谈谈股票市场.我刚刚分析了一下股票指数的时间序列."
         ],
         "girlfriend": [
-            "Ah, [P], I was... waiting for you... ...",
-            "I made you some tea, with... my special recipe."
+            "Ah,[P],我...在等你......",
+            "我给你泡了些茶.用的是...我特别的方法."
         ],
         "sexpartner": [
-            "Your scent... can really turns me on...",
-            "[P]... come closer, please... ..."
+            "你的气味...真的能让我兴奋...",
+            "[P]...靠近点,拜托......"
         ]
     }
 
     C.tweets = {
         "general": [
-            "Aren't you suppose to work in your office now?", 
-            "Stop staring at my breasts, you pathetic.", 
-            "Do you have any trouble with your work?"
+            "你现在不应该在办公室工作吗?",
+            "别盯着我的胸看了,你这可怜虫.",
+            "你的工作上有什么困难吗?"
         ],
         "fiancee": [
-            "Aren't you suppose to work in your office now? Miss me already?", 
-            "Stop staring at my breasts, you can touch them if you want."
+            "你现在不是应该在办公室工作吗?已经开始想我了吗?",
+            "别盯着我的胸看,如果你想,你可以摸一下."
         ]
     }
 
     D.tweets = {
         "general": [
-            "I got an A in the last quiz! Am I great?", 
-            "Theo didn't look well last night. Did you two have an argument?", 
-            "My mom won't be at home tonight... You know..."
+            "我上次测验得了A!我棒不棒?",
+            "狄奥多拉昨晚看起来不太舒服.你们俩吵架了吗?",
+            "我妈妈今晚不在家...你知道吧..."
         ],
          "girlfriend": [
-            "[P], [P], hug me, hug me!"
+            "[P],[P],抱抱我,抱抱我!"
         ],
         "sexpartner": [
-            "[P], [P], hug me, hug me!"
-        ]    
+            "[P],[P],抱抱我,抱抱我!"
+        ]
     }
 
     E.tweets = {
         "general": [
-            "Do you like to have something to drink? My cousin sent me some top-grade coffee from South America several days ago.", 
-            "Do you think I should dye my hair silver?", 
-            "Thanks for coming, [P]. I am quite lonely these days."
+            "你想喝点什么吗?几天前,我的表弟从南美给我寄来了一些高档咖啡.",
+            "你认为我应该把头发染成银色吗?",
+            "谢谢你过来,[P].这些天我很孤独."
         ],
         "lover": [
-            "Come to your auntie now~ ",
-            "I want to... stay with you in private for a day~"
+            "现在就到阿姨这里来~",
+            "我想...私下和你呆一天~"
         ]
     }
 
     F.tweets = {
         "general": [
-            "Hi there, my friend. Wanna do something together?", 
-            "Our coach said that I could make it to the Olympics if I practice harder.", 
-            "I am saving money for a travel, but haven’t decided where to go. Any advice?"
+            "你好,我的朋友.想一起做点什么吗?",
+            "我们的教练说如果我更努力地训练,就能参加奥运会.",
+            "我在为旅行攒钱,但还没决定去哪儿.有什么建议吗?"
         ]
     }
 
     G.tweets = {
         "general": [
-            "My favorite anime series? JoJo.",
-            "... ... ... ... I'm hungry.",
-            "The next comic-con is near. Will you be there?"
+            "我最喜欢的动漫系列?JoJo.",
+            "............我饿了.",
+            "下一届动漫大会即将召开.你会去吗?"
         ],
         "girlfriend": [
-            "When are we going to make another porn video?",
-            "Do you need me to help you... reduce the stress?",
-            "Please... stay with me for a while..." 
+            "我们什么时候再拍一个色情视频?",
+            "需要我帮你...减轻压力吗?",
+            "请...和我呆一会儿..."
         ],
         "sexpartner": [
-            "When are we going to make another porn video?",
-            "Your tits slave awaits... ...",
-            "What is on your mind, master?"
+            "我们什么时候再拍一个色情视频?",
+            "你的奶子奴隶等着你......",
+            "你在想什么,主人?"
         ]
     }
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

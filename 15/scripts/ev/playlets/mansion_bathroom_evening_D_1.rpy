@@ -2,11 +2,11 @@ label mansion_bathroom_evening_D_1:
 
     scene mansion_bathroom_evening_d_1_1 with dissolve
 
-    "I was having a bath in Aunt Elisa's house."
+    "我正在伊莉莎阿姨家洗澡."
 
 
 
-    "*Door Knocking sound* Dong-dong dong-dong... ..."
+    "*敲门的声音*咚咚咚......"
 
 
 
@@ -14,19 +14,19 @@ label mansion_bathroom_evening_D_1:
 
 
 
-    e "Sorry to bother, [P], but do you know where Irene is? I couldn't find her anywhere."
+    e "很抱歉打扰了,[P],但你知道艾琳在哪里吗?我到处都找不到她."
 
 
 
-    player "Eh... I don't know, sorry, Aunt Elisa. Maybe she is playing hide-and-seek with me again. This house is just too big. You won't be able to find her unless she wants to be found."
+    player "Eh...我不知道,对不起,伊莉莎阿姨.也许她又在和我玩捉迷藏了.这房子实在太大了.除非她想被发现,否则你是找不到她的."
 
 
 
-    e "Hmmmmm... ... I think you are right. Thanks, [P]."
+    e "Hmmmmm......我认为你是对的.谢谢,[P]."
 
 
 
-    player "Don't worry, Aunt Elisa."
+    player "别担心,伊莉莎阿姨."
 
 
 
@@ -36,15 +36,15 @@ label mansion_bathroom_evening_D_1:
 
     scene mansion_bathroom_evening_d_1_2 with tstmgr
 
-    d "Is she gone yet? Is she gone yet?"
+    d "她走了吗?她走了吗?"
 
 
 
-    player "I... I think she is gone... ..."
+    player "我...我想她已经走了......"
 
 
 
-    d "Hee hee~~~ Let's keep bathing then~"
+    d "Heehee~~~那我们继续洗澡吧~"
 
 
 

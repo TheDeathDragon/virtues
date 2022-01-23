@@ -2,23 +2,23 @@ label harem_CE_3:
 
     scene harem_ce_3_1 with tstmgr
 
-    e "[P]... ... How do you feel right now?"
+    e "[P]... ... 你现在的感觉如何?"
 
 
 
     scene harem_ce_3_2 with tstmgr
 
-    player "This is so damn good... ..."
+    player "这真是太他妈好了... ..."
 
 
 
-    "I’m being flanked by Elisa and Theodora’s lewd boobs. My stomach and back are being pressed by boobs at the same time and my dick was held by Elisa’s soft hand too. Nothing can be better than this~"
+    "我被伊莉莎和狄奥多拉的淫荡的胸部包围着.我的腹部和背部同时被胸部压着,我的阴茎也被伊莉莎柔软的手握着.没有什么能比这更好了~"
 
 
 
     scene harem_ce_3_3 with tstmgr
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
@@ -76,11 +76,11 @@ label harem_CE_3:
 
 
 
-    player "Ahhh... I’m cumming!~~~~"
+    player "Ahhh... 我tm社保!~~~~"
 
 
 
-    "Harem is the best!!!"
+    "后宫是最棒的!!!"
 
 
 

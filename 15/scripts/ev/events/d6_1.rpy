@@ -4,17 +4,17 @@ label d6_1:
 
     narrator "... ... ... ..."
 
-    narrator "The next day, morning."
+    narrator "第二天早上."
 
-    narrator "Today is Saturday, maybe I should go find Senning. Hope she has cooled down from yesterdays' anger."
+    narrator "今天是星期六,也许我应该去找森柠.希望她从昨天的愤怒中冷静下来."
 
     narrator "... ... ... ..."
 
     scene school_day_background with tstmgr
 
-    narrator "I came to the campus."
+    narrator "我来到了校园."
 
-    player "Hi, Senning."
+    player "嗨,森柠."
 
     scene b_school_day_unhappy with tstmgr
 
@@ -22,15 +22,15 @@ label d6_1:
 
     scene school_day_background with tstmgr
 
-    player "(Shit, she still doesn't want to talk with me)."
+    player "(妈的,她还是不想和我说话)."
 
-    player "(She probably thinks that I have become a bad student)."
+    player "(她可能认为我已经成为一个坏学生)."
 
-    player "(I should prove to her that I am not)"
+    player "(我应该向她证明我不是)"
 
-    call screen hint("To make Senning stop being mad at you, you'd better go to class more often to convice her that you are still a good student")
+    call screen hint("为了让森柠不要生你的气,你最好多去上课,让她相信你还是个好学生")
 
-    call screen hint("From now on, there will be more available locations and actions showing on the map. Try to work out your daily schedule wisely.")
+    call screen hint("从现在开始,将会有更多的可用地点和行动显示在地图上.明智地制定你的每日计划.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

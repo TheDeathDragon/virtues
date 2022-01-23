@@ -7,37 +7,37 @@ label E_train_sexskill_1:
 
 
 
-    "One afternoon, in the company... ..."
+    " 一天下午,在公司... ..."
 
 
 
     scene e_train_sexskill_1_1 with dissolve
 
-    e "(Sigh... ... my body is getting worse as my age grows.)"
+    e "(叹息......随着年龄的增长,我的身体越来越差.)"
 
 
 
-    e "(Now I would feel tired as long as I work for more than two hours... ...)"
+    e "(现在只要工作超过两小时,我就会觉得很累......)"
 
 
 
-    e "(Especially my shoulders... ... they are sore as hell now... ...)"
+    e "(尤其是我的肩膀......现在酸得要命......)"
 
 
 
     scene e_train_sexskill_1_2 with tstmgr
 
-    c "Hmmm? Hi, mom."
+    c "Hmmm? 嗨,妈妈."
 
 
 
     scene e_train_sexskill_1_3 with tstmgr
 
-    e "Oh, hi, Theo and [P]. I was just about to go home~"
+    e "哦,你好,狄奥和[P].我正准备回家~"
 
 
 
-    player "Ahh... ... I wish I can get off work whenever I want too... ..."
+    player "啊......我希望我也能随时下班... ..."
 
 
 
@@ -47,13 +47,13 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_4 with tstmgr
 
-    c "What’s wrong with your shoulder, mom?"
+    c "妈妈,你的肩膀怎么了?"
 
 
 
     scene e_train_sexskill_1_5 with tstmgr
 
-    e "It’s just a bit sore, don’t worry about me~"
+    e "只是有点痛,不用担心我~"
 
 
 
@@ -63,13 +63,13 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_6 with tstmgr
 
-    c "Well, I happen to know a pretty good masseur who is good at shoulder massage~"
+    c "好吧,我碰巧认识一个相当不错的按摩师,他擅长肩部按摩~"
 
 
 
     scene e_train_sexskill_1_7 with tstmgr
 
-    c "*Looking at you* ... ... ... ..."
+    c "*望着你* ... ... ... ..."
 
 
 
@@ -79,17 +79,17 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_8 with tstmgr
 
-    c "Let him go home with you and give you a massage, mom, and let me know if he doesn’t please you well."
+    c "让他和你一起回家,给你按摩,妈妈,如果他不能很好地取悦你,请告诉我.."
 
 
 
     scene e_train_sexskill_1_7 with tstmgr
 
-    player "Why does it sound like I am a servant of yours?"
+    player "为什么听起来像我是你的仆人?"
 
 
 
-    c "Do you want this half day-off or not?"
+    c "你是否想要这半天的假期?"
 
 
 
@@ -99,19 +99,19 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_8 with tstmgr
 
-    player "Let’s go, Auntie~ I’m sure you will enjoy my service~"
+    player "走吧,阿姨~我相信你会喜欢我的服务的.~"
 
 
 
     scene e_train_sexskill_1_9 with tstmgr
 
-    e "Okay, thank you... ..."
+    e "好的,谢谢... ..."
 
 
 
     scene e_train_sexskill_1_10 with tstmgr
 
-    c "See you guys tonight then, bye~"
+    c "那就今晚见吧,再见~"
 
 
 
@@ -121,21 +121,21 @@ label E_train_sexskill_1:
 
 
 
-    "Theodora walked back to her office alone..."
+    "狄奥多拉独自走回她的办公室..."
 
 
 
-    e "Theo is really thoughtful~"
+    e "狄奥真的很有想法~"
 
 
 
     scene e_train_sexskill_1_12 with tstmgr
 
-    player "Should we... go to your house or the bungalow, Elisa?~"
+    player "我们应该......去你的房子还是平房,伊莉莎?~"
 
 
 
-    e "I think I’m too tired to walk through that forest today, so... ... my house then~"
+    e "我想我今天太累了,无法走过那片森林,所以......那么我的房子~"
 
 
 
@@ -149,27 +149,27 @@ label E_train_sexskill_1:
 
 
 
-    "Sometime later, in Elisa’s room..."
+    "稍后,在伊莉莎的房间里..."
 
 
 
     scene e_train_sexskill_1_13 with dissolve
 
-    e "Oh, my little [P]~~~"
+    e "Oh, 我的[P]~~~"
 
 
 
-    e "You are... indeed professional as Theodora said. Where did you learn this skill?"
+    e "你......确实如狄奥多拉所说的那样专业.你在哪里学的这种技能?"
 
 
 
-    player "Eh, mostly from the internet. I take it as a skill that I have to master..."
+    player "呃,主要是来自互联网.我把它当作我必须掌握的一项技能 ..."
 
 
 
     scene e_train_sexskill_1_14 with tstmgr
 
-    e "In order to serve women like me and Theodora who are bothered by the weight of huge breasts?"
+    e "为了服务像我和狄奥多拉这样被巨大乳房的重量所困扰的女人?"
 
 
 
@@ -177,51 +177,51 @@ label E_train_sexskill_1:
 
 
 
-    e "That's so sweet of you~"
+    e "你真是太贴心了~"
 
 
 
     scene e_train_sexskill_1_15 with tstmgr
 
-    player "Oh, yeah, Auntie, take this..."
+    player "哦,对了,姑妈,接着这个..."
 
 
 
-    "I began to rub her shoulder with my elbow."
+    "我开始用我的手肘摩擦她的肩膀."
 
 
 
-    e "Wow... ... This feels amazing!"
+    e "哇......这感觉太棒了!"
 
 
 
-    player "Ha~ Glad to know you like it~"
+    player "哈~很高兴知道你喜欢它~"
 
 
 
-    player "Theo doesn’t like it when I did this to her, said it hurt too much."
+    player "狄奥不喜欢我这样对她,说太疼了."
 
 
 
     scene e_train_sexskill_1_17 with tstmgr
 
-    e "Yes, Theodora needs to be carefully cared for. She is like a rose, beautiful, thorny, but vulnerable too."
+    e "是的,狄奥多拉需要被精心呵护.她就像一朵玫瑰,美丽,有刺,但也很脆弱."
 
 
 
     scene e_train_sexskill_1_16 with tstmgr
 
-    e "But you don’t need to be so careful with me because I am already a rough-skinned old woman~"
+    e "但你不需要对我如此小心,因为我已经是一个粗枝大叶的老妇人了~"
 
 
 
-    player "Auntie... ..."
+    player "姑妈... ..."
 
 
 
     scene e_train_sexskill_1_18 with tstmgr
 
-    player "I don’t allow you to belittle yourself. You are still in your best age."
+    player "我不允许你轻视自己.你仍然处于你最好的年龄."
 
 
 
@@ -231,29 +231,29 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_19 with tstmgr
 
-    e "Alright, this is it. You have massaged me long enough. Are you tired yet?"
+    e "好了,这就是了.你已经为我按摩了很久.你累了吗 ?"
 
 
 
-    player "Just a little... ..."
+    player "一点点而已... ..."
 
 
 
-    e "Now you should have a rest~ Do you want to lie your head on Auntie’s lap again?"
+    e "现在你应该休息一下了~你想再把头放在阿姨的腿上吗?"
 
 
 
-    player "Elisa’s lap pillow... ... Can I really do that?"
+    player "伊莉莎的膝枕.......我真的可以吗?"
 
 
 
-    e "What are you talking about? Of course you can~"
+    e "你在说什么 你当然可以~"
 
 
 
     scene e_train_sexskill_1_20 with tstmgr
 
-    e "As I said, you don’t need to be so careful with me~"
+    e "我说过,你不需要对我这么小心翼翼的~"
 
 
 
@@ -265,21 +265,21 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_21 with dissolve
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
-    player "I wanted to say this a long time ago... you smell so good... ..."
+    player "我很久以前就想这么说了......你闻起来真不错... ..."
 
 
 
     scene e_train_sexskill_1_22 with tstmgr
 
-    player "The mature ladies’ amazing odor... combining with baby’s milk flavor. Wow... it’s just... wow... ..."
+    player "成熟女士的惊人气味... ...与婴儿的奶味相结合.哇...这真是...哇... ..."
 
 
 
-    e "Then just fall into dreamland while smelling auntie’s odor~"
+    e "然后一边闻着阿姨的气味一边进入梦乡. ~"
 
 
 
@@ -289,31 +289,31 @@ label E_train_sexskill_1:
 
 
 
-    player "It's a pity that I can’t really see your face from here. Half of my view was blocked by this pair of jelly mountains~"
+    player "很遗憾,从这里我无法真正看到你的脸.我一半的视线被这对果冻山挡住了~"
 
 
 
     scene e_train_sexskill_1_24 with tstmgr
 
-    player "*Closing eyes* Good night, mom~"
+    player "*闭上眼睛*晚安,妈妈~"
 
 
 
     scene e_train_sexskill_1_25 with tstmgr
 
-    e "What did you just say?!"
+    e "你说什么?!"
 
 
 
     scene e_train_sexskill_1_23 with tstmgr
 
-    player "Uh? I was just... eh... joking. Sorry, Auntie..."
+    player "呃 我只是......呃......开玩笑的.对不起,姨妈..."
 
 
 
     scene e_train_sexskill_1_25 with tstmgr
 
-    e "No, no, I... I want to hear that from you again!"
+    e "不,不,我... 我想再次听到你的声音!"
 
 
 
@@ -321,53 +321,53 @@ label E_train_sexskill_1:
 
 
 
-    player "Mom?"
+    player "妈?"
 
 
 
     scene e_train_sexskill_1_26 with tstmgr
 
-    e "Yes~ Yes~ Oh... my honey~~~"
+    e "是的~是的~哦...我的宝贝~~~"
 
 
 
-    e "I have taken you as a half-son to me for 20 years, it feels so good to hear you really call me mom~"
+    e "20年来,我一直把你当作干儿子,听到你真的叫我妈妈,感觉非常好.~"
 
 
 
     scene e_train_sexskill_1_21 with tstmgr
 
-    player "I... I want to have a mother like you for my entire life too... ..."
+    player "我也想有一个像你这样的母亲,陪伴我的一生... ..."
 
 
 
-    player "Luckily you are not my real mother, otherwise it would make us incest~"
+    player "幸好你不是我的亲生母亲,否则我们就会变成乱伦~"
 
 
 
-    player "But... if it can make you happy, I’m willing to call you mom all the time~"
+    player "但是......如果这能让你高兴,我愿意一直叫你妈妈~"
 
 
 
     scene e_train_sexskill_1_24 with tstmgr
 
-    player "Mom, I love you~"
+    player "妈妈,我爱你~"
 
 
 
     scene e_train_sexskill_1_26 with tstmgr
 
-    e "Ohhh... ... My baby, I love you too~"
+    e "哦... ... 我的宝贝,我也爱你~"
 
 
 
     scene e_train_sexskill_1_27 with tstmgr
 
-    player "Mom... your baby is hungry now~"
+    player "妈妈...你的宝宝现在饿了~"
 
 
 
-    e "I see~"
+    e "我明白了~"
 
 
 
@@ -383,53 +383,53 @@ label E_train_sexskill_1:
 
 
 
-    e "You can have as much mommy’s milk as you want~"
+    e "你想喝多少妈妈的奶就喝多少~"
 
 
 
-    player "Wow, mom... ..."
+    player "哇,妈妈... ..."
 
 
 
-    player "Wait a minute... ..."
+    player "等一下... ..."
 
 
 
     scene e_train_sexskill_1_30 with tstmgr
 
-    player "Why are your nipples... inverted?"
+    player "为什么你的乳头... 是内陷的?"
 
 
 
-    e "You haven’t noticed it before? I see... ... they must have already popped out every time when you see them."
+    e "你以前没有注意到吗 我明白了......每次你看到它们时,它们一定已经跳出来了."
 
 
 
-    e "They will pop out when I am excited or when I have full of milk."
+    e "当我兴奋的时候,或者当我充满了奶的时候,它们就会跳出来.."
 
 
 
-    e "Sigh... ... Sorry to let you see this. They are ugly, aren’t they?"
+    e "叹息.......抱歉让你看到这个.他们很丑陋,不是吗?"
 
 
 
     scene e_train_sexskill_1_31 with tstmgr
 
-    player "What are you talking about? Inverted nipples are the best!"
+    player "你在说什么 内陷的乳头是最棒了!"
 
 
 
-    e "Oh, wow, thanks for saying that..."
+    e "哦,哇,谢谢你这么说..."
 
 
 
-    player "Now let me... help you get them out~"
+    player "现在让我......帮你把它们拿出来~"
 
 
 
     scene e_train_sexskill_1_32 with tstmgr
 
-    "I put my mouth on one of her inverted nipples and gently rub it with my lips..."
+    "我把我的嘴放在她的一个内陷的乳头上,用我的嘴唇轻轻地摩擦它..."
 
 
 
@@ -447,39 +447,39 @@ label E_train_sexskill_1:
 
 
 
-    "I suddenly poked a finger into her another nipple."
+    "我突然用手指戳了一下她的另一个乳头."
 
 
 
-    e "Ohhhhhhhhh! What are you doing!?"
+    e "Ohhhhhhhhh! 你在干什么!?"
 
 
 
     scene e_train_sexskill_1_34 with tstmgr
 
-    player "Does it hurt, mom?"
+    player "疼吗, 妈?"
 
 
 
-    e "Not... really, but... ..."
+    e "不是......真的,但... ..."
 
 
 
-    e "What... is this feeling? I have never felt anything like it before~"
+    e "这......是什么感觉 我从来没有过这样的感觉~"
 
 
 
-    player "Your inverted nipple is like a mini pussy... ... and I just penetrated it with my finger~"
+    player "你的内陷的乳头就像一个小型的小穴......而我刚刚用手指插入了它~"
 
 
 
-    e "Awwww~~ Don’t describe it that way!~"
+    e "Awwww~~不要这样描述它!~"
 
 
 
     scene e_train_sexskill_1_35 with tstmgr
 
-    "At this moment, I began to suck her another nipple with my mouth."
+    "此刻,我开始用嘴吮吸她的另一个乳头."
 
 
 
@@ -517,11 +517,11 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_36 with tstmgr
 
-    e "Yeeeeeee!!!!~~~~ You are making me crazy!"
+    e "Yeeeeeee!!!!~~~~ 你让我发疯了!"
 
 
 
-    player "*Sucking harder* Wuuumm~~~ simmmmm~~~ summm~~~"
+    player "*用力吸吮* Wuuumm~~~ simmmmm~~~ summm~~~"
 
 
 
@@ -541,17 +541,17 @@ label E_train_sexskill_1:
 
 
 
-    player "Oh, look, mom, this one is out now~"
+    player "哦,看,妈妈,这个现在已经出来了~"
 
 
 
-    "I easily sucked one of her nipples out with my mouth..."
+    "我轻松地用嘴吸出了她的一个乳头..."
 
 
 
     scene e_train_sexskill_1_38 with tstmgr
 
-    "But as for the other one... ..."
+    "但至于另一个人... ..."
 
 
 
@@ -585,7 +585,7 @@ label E_train_sexskill_1:
 
 
 
-    "It actually feels good to play with her massive boob like this, and I am really enjoying the situation that my finger is stuck in her wet tight pussy... no, I mean nipple, wet tight nipple~"
+    "这样玩弄她巨大的胸部其实感觉很好,而且我真的很享受我的手指插在她湿润紧致的小穴......不,我是说乳头,湿润紧致的乳头的情况.~"
 
 
 
@@ -595,11 +595,11 @@ label E_train_sexskill_1:
 
 
 
-    e "I... can’t hold it anymore~"
+    e "我......再也忍不住了~"
 
 
 
-    e "Something... ... is coming out of my breasts!!!~~~~"
+    e "有东西......从我的乳房里出来了!!!~~~~"
 
 
 
@@ -611,25 +611,25 @@ label E_train_sexskill_1:
 
 
 
-    "Elisa’s milk gushed out like streams... This is just magnificent~"
+    "伊莉莎的乳汁如溪水般涌出...... 这实在是太壮观了~"
 
 
 
-    player "*Drinking hard* Glug... glug... glug... glum... ... glummm... ... ... ..."
+    player "*用力喝* 咕噜... 咕噜... 咕噜... 咕噜... 咕噜... ...咕噜嗯... ... ... ..."
 
 
 
-    player "Mom’s milk... ... so warm... so sweet... ..."
+    player "妈妈的牛奶......如此温暖......如此甜蜜... ..."
 
 
 
     scene e_train_sexskill_1_42 with tstmgr
 
-    e "Son... ... my son... ... please... drink all of them. Mom's milk... is all yours~"
+    e "儿子......我的儿子......请你......把它们都喝了.妈妈的奶水... ...都是你的~"
 
 
 
-    e "Mom is... so happy... ..."
+    e "妈妈是......如此快乐... ..."
 
 
 
@@ -639,11 +639,11 @@ label E_train_sexskill_1:
 
 
 
-    "I spent the entire afternoon with Elisa and played this mother-son game all along..."
+    "我和伊莉莎度过了整个下午,一直在玩这个母子游戏..."
 
 
 
-    "And I left her nipples until her milk bags were empty~"
+    "我离开她的乳头,直到她的奶袋空空如野~"
 
 
 

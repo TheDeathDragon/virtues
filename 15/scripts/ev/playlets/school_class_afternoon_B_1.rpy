@@ -2,11 +2,11 @@ label school_class_afternoon_B_1:
 
     scene school_class_afternoon_b_1_1 with tstmgr
 
-    player "Hi, Sen... ..."
+    player "Hi,森......"
 
 
 
-    player "Can I sit with you?"
+    player "我可以坐你旁边吗?"
 
 
 
@@ -14,11 +14,11 @@ label school_class_afternoon_B_1:
 
 
 
-    player "But... there is no other seat."
+    player "但是...没有其他座位了."
 
 
 
-    player "Please~~~"
+    player "拜托~~~"
 
 
 
@@ -34,7 +34,7 @@ label school_class_afternoon_B_1:
 
     scene school_class_afternoon_b_1_1 with tstmgr
 
-    b "But I'm not forgiving you!"
+    b "但我不会原谅你的!"
 
 
 

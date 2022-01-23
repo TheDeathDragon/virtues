@@ -2,11 +2,11 @@ label harem_DG_1:
 
     scene harem_dg_1_1 with tstmgr
 
-    g "Meow! Get away from me!"
+    g "Meow!离我远一点!"
 
 
 
-    d "Meow meow meow~~ No way! I'm going to stay on your cute plump soft body for the whole day!"
+    d "Meowmeowmeow~~没门!我要在你可爱丰满柔软的身体上待一整天!"
 
 
 
@@ -14,13 +14,13 @@ label harem_DG_1:
 
 
 
-    "The two kitties are having a good time together and didn't even notice me..."
+    "这两只小猫在一起玩得很开心,甚至没有注意到我..."
 
 
 
     scene harem_dg_1_2 with tstmgr
 
-    g "You are so annoying! I'm going to tell [P] that you are bullying me~"
+    g "你真讨厌!我要告诉[P]你欺负我~"
 
 
 
@@ -30,23 +30,23 @@ label harem_DG_1:
 
     scene harem_dg_1_3 with tstmgr
 
-    d "*Sucking nipple* Yummmmmmm... ..."
+    d "*吸吮乳头*Yummmmmmm......"
 
 
 
-    g "Awwwwwwww~~~~ Irene~~~~"
+    g "Awwwwwwww~~~~艾琳~~~~"
 
 
 
     scene harem_dg_1_4 with tstmgr
 
-    g "Hmmmmmm? [P]? Help~ help me~~"
+    g "Hmmmmmm?[P]?救命~救救我~~"
 
 
 
     scene harem_dg_1_5 with tstmgr
 
-    d "Oh no, it's time for tutoring already?"
+    d "Ohno,已经到了辅导的时间了?"
 
 
 
@@ -56,11 +56,11 @@ label harem_DG_1:
 
     scene harem_dg_1_6 with tstmgr
 
-    d "Okay~ I will be there after this... one last lick~"
+    d "Okay~再舔最后一下...我就来~"
 
 
 
-    g "Ohhhhhh~ I hate you!~~~~"
+    g "Ohhhhhh~我恨你!~~~~"
 
 
 

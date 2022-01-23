@@ -7,15 +7,15 @@ label E_train_sub_1:
 
 
 
-    "Hmmmmmm... ... I have had sex with Aunt Elisa, I think I should be happy, but... ... nope, not really."
+    "Hmmmmmm......我和伊莉莎阿姨上过床,我想我应该高兴,但是...不,不是真的."
 
 
 
-    "It’s hard to admit but... I know I didn’t really satisfy her last time. I came inside her for 5 times, but it was just not enough."
+    "很难承认,但是...我知道我上次并没有真正让她满意.我内射了她5次,但还是不够."
 
 
 
-    "I have to change this, otherwise I will be pathetic. I think she is looking for some more stimulations. But what kind of stimulations would she like?"
+    "我必须改变这一点,否则我会很可悲.我想她正在寻找更多的刺激.但是她想要什么样的刺激呢??"
 
 
 
@@ -25,15 +25,15 @@ label E_train_sub_1:
 
     scene e_love_8_60 with flashback
 
-    e "My head and my arm... are both being restrained. I can’t even move my neck, but... ..."
+    e "我的头和胳膊...都受到了限制.我的脖子都动不了,但是......"
 
 
 
-    e "This is exactly what I want! I love the feeling of being restrained!~"
+    e "这正是我想要的!我喜欢被束缚的感觉!~"
 
 
 
-    "Humm... ... yeah, she said she loves to be restrained. That’s part of masochism, right? Maybe I can use that little fetish she has... ..."
+    "Humm......yeah,她说她喜欢束缚.这是受虐的一部分,对吧?也许我可以利用她的小癖好......"
 
 
 
@@ -43,155 +43,155 @@ label E_train_sub_1:
 
 
 
-    "Later that day, I came to the bungalow again after receiving Elisa's call... ..."
+    "那天晚些时候,接到伊莉莎的电话后,我又来到了那间平房......"
 
 
 
-    "Well, we all know what she called me for~"
+    "Well,我们都知道她叫我干什么~"
 
 
 
     scene e_train_sub_1_1 with dissolve
 
-    e "Welcome, [P], thanks for coming."
+    e "欢迎,[P],谢谢你能来."
 
 
 
     scene e_train_sub_1_2 with tstmgr
 
-    player "How long have you been here, Auntie?"
+    player "你来这儿多久了,阿姨?"
 
 
 
-    e "Not long. You must be thirsty, let me make you some tea~"
+    e "没多久.你一定渴了,我给你沏点茶吧~"
 
 
 
     scene e_train_sub_1_3 with tstmgr
 
-    player "Well, I am thirsty indeed, but I prefer to have the water coming out from your pussy~"
+    player "Well,我确实渴了,但我更愿意喝你小穴流出来的水~"
 
 
 
     scene e_train_sub_1_4 with tstmgr
 
-    e "Young people are always so impatient..."
+    e "年轻人总是那么没耐心..."
 
 
 
     scene e_train_sub_1_5 with tstmgr
 
-    player "You are the one who couldn’t even wait to undress yourself until I arrived, Auntie."
+    player "你才是那个在我来之前都迫不及待要脱衣服的人,阿姨."
 
 
 
-    e "Humph~ Bad boy... ..."
+    e "Humph~坏男孩......"
 
 
 
     scene e_train_sub_1_6 with tstmgr
 
-    e "So, what new tricks do you have this time? Auntie is waiting to be satisfied~"
+    e "那么,这次你又有什么新花样?阿姨正等着你满足我呢~"
 
 
 
     scene e_train_sub_1_7 with tstmgr
 
-    player "Ha, don’t worry, Elisa, you will be surprised~"
+    player "Ha,别担心,伊莉莎,你会大吃一惊的~"
 
 
 
     scene e_train_sub_1_8 with tstmgr
 
-    e "Hmmmm? What is this?"
+    e "Hmmmm?是什么?"
 
 
 
     scene e_train_sub_1_9 with tstmgr
 
-    e "A blinder? Wow~ this can definitely spice things up a little..."
+    e "眼罩?Wow~这绝对可以让事情变得有趣一点..."
 
 
 
     scene e_train_sub_1_10 with tstmgr
 
-    player "And it’s not over yet..."
+    player "远不止这些..."
 
 
 
-    e "Huhh? Are you... tying my arms up? Awww~~ such a bad boy, I’m getting excited already~"
+    e "Huhh?你是...要把我的手臂绑起来?Awww~~真是个坏孩子,我已经开始兴奋了~"
 
 
 
     scene e_train_sub_1_11 with tstmgr
 
-    e "Owww~~ Yes, tie me harder and make sure I can’t get rid of it."
+    e "Owww~~Yes,把我绑紧,确保我挣脱不了它."
 
 
 
     scene e_train_sub_1_12 with tstmgr
 
-    e "Wow... And my feet, too?"
+    e "Wow...还有我的脚?"
 
 
 
-    e "This is getting more and more interesting~"
+    e "这变得越来越有趣了~"
 
 
 
     scene e_train_sub_1_13 with tstmgr
 
-    e "Bad boy... ... Now I can’t move at all. What’s next?"
+    e "坏男孩...现在我完全不能动了.然后呢?"
 
 
 
     scene e_train_sub_1_14 with tstmgr
 
-    player "Now tell me, Auntie, how does it feel to be tied up like this?"
+    player "阿姨,现在告诉我,像这样被绑起来是什么感觉?"
 
 
 
-    e "It feels... amazing... ..."
+    e "感觉...太棒了......"
 
 
 
-    e "I can’t move my hands nor my feet. I am totally defenseless right now~"
+    e "我的手和脚都动不了.我现在完全没有反抗能力了~"
 
 
 
-    e "My body... is not in my control anymore~"
+    e "我的身体...已经不在我的掌控之中了~"
 
 
 
-    player "Why would you like to be treated like this? You enjoy the feeling of being defenseless?"
+    player "为什么你希望被这样对待?你喜欢无法反抗的感觉?"
 
 
 
-    e "Yes, it’s so exciting, don’t you think?"
+    e "Yes,这太令人兴奋了,你不觉得吗?"
 
 
 
     scene e_train_sub_1_15 with tstmgr
 
-    player "Hmmmm... I don’t know if I would be excited when someone ties me up, but I’m definitely excited to deal with a tied up gorgeous lady myself~"
+    player "Hmmmm...我不知道当有人把我绑起来的时候,我是否会兴奋,但我确实很兴奋把一个漂亮女士绑起来~"
 
 
 
     scene e_train_sub_1_16 with tstmgr
 
-    player "I am excited to... run my finger slowly over your tender neck... ..."
+    player "我很兴奋...用我的手指在你柔软的脖子上缓缓滑过......"
 
 
 
     scene e_train_sub_1_17 with tstmgr
 
-    player "Your smooth chest... ..."
+    player "你的光滑的胸部......"
 
 
 
     scene e_train_sub_1_18 with tstmgr
 
-    player "Your juicy nipple... ..."
+    player "你多汁的乳头......"
 
 
 
@@ -205,21 +205,21 @@ label E_train_sub_1:
 
 
 
-    player "This is so magnificent... Your body is full of miracles, Elisa... ..."
+    player "这太壮观了...你的身体充满了奇迹,伊莉莎......"
 
 
 
-    e "Bad boy~ Auntie is not your toy..."
+    e "坏男孩~阿姨不是你的玩具..."
 
 
 
-    player "Whatever, Auntie... ... You have left the control of your body to me~"
+    player "不管怎样,阿姨...你把你身体的控制权交给了我~"
 
 
 
     scene e_train_sub_1_21 with tstmgr
 
-    player "And now... let’s take a look at your pussy..."
+    player "而现在...让我们看看你的小穴..."
 
 
 
@@ -227,31 +227,31 @@ label E_train_sub_1:
 
 
 
-    player "Wow... Your wet pussy is dropping water on the ground. You must be super horny right now~"
+    player "Wow...你小穴的水都滴到地上了.你现在一定很想要~"
 
 
 
     scene e_train_sub_1_22 with tstmgr
 
-    e "I... I am... ... because I want you to fuck me so bad... ..."
+    e "我...我......因为我很想让你操我......"
 
 
 
-    e "I want you to fuck me while I am being tied up like a defenseless... cow... ..."
+    e "我要你操我,而我却被绑得像个无法反抗的...奶牛......"
 
 
 
-    e "Can you... achieve my wish?"
+    e "你能...满足我的愿望吗?"
 
 
 
     scene e_train_sub_1_23 with tstmgr
 
-    player "Elisa... ..."
+    player "伊莉莎......"
 
 
 
-    player "Well, how can I reject such a little quest from my dearest Auntie?"
+    player "Well,我怎么能拒绝我最亲爱的阿姨的这样一个小要求呢?"
 
 
 
@@ -259,13 +259,13 @@ label E_train_sub_1:
 
 
 
-    "Things are going really well. She has never been so hyped before. Maybe this time I’ll finally be able to satisfy her lust..."
+    "事情进展得很顺利.她从来没有被这样对待过.也许这次我终于可以满足她的欲望了..."
 
 
 
     scene void with tstmgr
 
-    "And now... ... ... ..."
+    "那么现在............"
 
 
 
@@ -275,43 +275,43 @@ label E_train_sub_1:
 
 
 
-    e "Wow~~ This is... even better than I thought~"
+    e "Wow~~这...比我想象的还要好~"
 
 
 
-    e "Your move... is So intense, so wild~"
+    e "你的动作...如此强烈,如此狂野~"
 
 
 
-    player "Do you like me being wild?"
+    player "你喜欢我的狂野吗?"
 
 
 
-    e "Yes, yes, the wilder the better~ I want you to be like a conqueror and treat me, your captive as hard as you can~"
+    e "Yes,yes,越狂野越好~我希望你尽你所能的像征服者一样对待我,你的俘虏~"
 
 
 
     scene e_train_sub_29 with tstmgr
 
-    e "Nipples... are keeping rubbing the tatami ground. It hurts a little, but... ..."
+    e "乳头...在不停地摩擦榻榻米.有点疼,但是......"
 
 
 
     scene e_train_sub_24 with tstmgr
 
-    e "I love it so much~~"
+    e "我爱死这种感觉了~~"
 
 
 
-    e "Ohhhhhh~~~ My future son-in-law’s big dick is driving me crazy~~~"
+    e "Ohhhhhh~~~我未来女婿的大鸡巴快把我爽翻了~~~"
 
 
 
-    "Ahhh... I think it worked! Now her pussy is wetter than ever and she is keeping having minor orgasms!"
+    "Ahhh...我想这样真的有用!现在她的小穴比以往任何时候都湿,她轻微的高潮就没断过!"
 
 
 
-    "This strong woman has waited to be conquered for twenty years, and now let me give her what she wants!"
+    "这个坚强的女人等待被征服已经二十年了,现在让我给她她想要的!"
 
 
 
@@ -320,7 +320,7 @@ label E_train_sub_1:
     play sound cumshot
     $ flashlight()
 
-    player "I’m cumming!!!"
+    player "我泄了!!!"
 
 
 
@@ -330,25 +330,25 @@ label E_train_sub_1:
 
     scene e_train_sub_26 with tstmgr
 
-    e "So much hot fluid... came into my womb... ..."
+    e "这么多滚烫的液体...流进我的子宫......"
 
 
 
-    e "Thanks, honey, I have never been such satisfied before~"
+    e "谢谢,亲爱的,我从来没有这么满意过~"
 
 
 
-    player "You are welcome, Auntie, and it’s not over yet!"
+    player "不用客气,阿姨,事情还没有结束呢!"
 
 
 
     scene e_train_sub_27 with tstmgr
 
-    e "Ohhh... such a rude boy~"
+    e "Ohhh...真是个粗鲁的男孩~"
 
 
 
-    e "Ready for the second round already? What a beast~~"
+    e "准备好进入第二轮了吗?真是个野兽~~"
 
 
 
@@ -362,23 +362,23 @@ label E_train_sub_1:
 
 
 
-    e "[P]... you are... so strong~"
+    e "[P]...你...好强壮~"
 
 
 
-    e "I’m being fucked so hard~ and I can’t do anything about it... ..."
+    e "我被操得太狠了~我什么也做不了......"
 
 
 
-    e "I can only... wag my ass to you like an animal and ask for more of your dick~"
+    e "我只能...像动物一样对你摇我的屁股,并且无度的索求你的鸡巴~"
 
 
 
-    e "Yes~~ Yes~~ fuck me more~~ fuck me harder~~"
+    e "Yes~~Yes~~操我~~用力操我~~"
 
 
 
-    e "I... ... I’m going to... ..."
+    e "我......我要......"
 
 
 
@@ -387,25 +387,25 @@ label E_train_sub_1:
     play sound cumshot
     $ flashlight()
 
-    e "Cumming!!!!!!!~~~~~~~"
+    e "高潮了!!!!!!!~~~~~~~"
 
 
 
-    "That was her greatest orgasm so far. Guess I really have done a good job~"
+    "这是她到目前为止最强烈的高潮.我想我真的做得很好~"
 
 
 
     scene e_train_sub_31 with tstmgr
 
-    e "*Breathing heavily* Huhh... huh... huh... huh... ..."
+    e "*喘着粗气*Huhh...huh...huh...huh......"
 
 
 
-    e "I didn’t expect... it to be this good... ..."
+    e "我没想到...能这么爽......"
 
 
 
-    player "Let's talk about it later! I’m cumming too!"
+    player "待会再说这个!我也要射了!"
 
 
 
@@ -417,37 +417,37 @@ label E_train_sub_1:
 
 
 
-    e "I... can’t believe it... ... That was... the best sex in my life~~"
+    e "我...真不敢相信...这...这是我这辈子最棒的一次性爱~~"
 
 
 
-    "That was such a hard battle, but I was the winner. I have successfully satisfied Aunt Elisa and overpowered her with my dick~"
+    "这是一场艰苦的‘战斗’,但我是胜利者.我成功地使伊莉莎姨妈满意了,用我的鸡巴制服了她~"
 
 
 
-    "She doesn’t even have the strength to talk anymore, but I am not much better, either. Now I just want to... untie her and rest myself on her warm soft body."
+    "她甚至连说话的力气都没有了,但我也好不到哪里去.现在我只想...解开她,在她温暖柔软的身体上休息."
 
 
 
     scene e_train_sub_33 with tstmgr
 
-    player "Did you have a good time, Elisa?"
+    player "你玩得开心吗,伊莉莎?"
 
 
 
-    e "You don’t even... need to ask that... ..."
+    e "你这不是...明知故问......"
 
 
 
-    e "Thanks, [P], for giving me such an amazing experience~"
+    e "谢谢你,[P],给了我如此美妙的经历~"
 
 
 
-    e "I love you~"
+    e "我爱你~"
 
 
 
-    player "Love you too, Elisa~"
+    player "我也爱你,伊莉莎~"
 
 
 

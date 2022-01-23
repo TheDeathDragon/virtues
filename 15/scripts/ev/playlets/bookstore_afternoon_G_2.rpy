@@ -2,51 +2,51 @@ label bookstore_afternoon_G_2:
 
     scene void with tstmgr
 
-    "Later, in the staffroom of the bookstore..."
+    "之后,在书店的员工休息室里..."
 
 
 
     scene bookstore_afternoon_g_2_1 with tstmgr
 
-    "Bookstore clerk A" "Hey man, does Uno have a boyfriend?"
+    "书店店员A""兄弟,乌诺有男朋友吗?"
 
 
 
-    "Bookstore clerk B" "Why do you want to know that? You are into her?"
+    "书店店员B""你为什么想知道这个?你喜欢她?"
 
 
 
-    "Bookstore clerk A" "Yeah... she is the reason that I found a job in this bookstore."
+    "书店店员A""Yeah...她是我在这家书店工作的原因."
 
 
 
-    "Bookstore clerk B" "Wow, that’s cool. You should definitely tell her how you feel about her."
+    "书店店员B""Wow,那很酷.你一定要告诉她你对她的感觉."
 
 
 
-    "Bookstore clerk B" "I have been working with her for months, and I don’t think she has a boyfriend yet."
+    "书店店员B""我和她一起工作好几个月了,我想她还没有男朋友."
 
 
 
-    "Bookstore clerk A" "Thanks for telling me that! I’ll... ..."
+    "书店店员A""谢谢你告诉我!我要......"
 
 
 
     scene bookstore_afternoon_g_2_2 with tstmgr
 
-    "Bookstore clerk A" "I will talk to her when I get a chance."
+    "书店店员A""我一有机会就和她谈谈."
 
 
 
-    "Bookstore clerk B" "Be quick, man. Don’t let the others get ahead of you."
+    "书店店员B""尽快吧,伙计.机会不等人."
 
 
 
-    "Bookstore clerk B" "Good luck!"
+    "书店店员B""祝你好运!"
 
 
 
-    "Bookstore clerk A" "Thanks, senpai!"
+    "书店店员A""谢谢你,前辈!"
 
 
 

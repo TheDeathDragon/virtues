@@ -4,182 +4,182 @@ label pcsj:
 
     narrator "... ... ... ..."
 
-    narrator "The rest of the week was uneventful. But things are getting better, I can tell you that."
+    narrator "这周剩下的时间没发生什么.但我可以告诉你,情况正在好转."
 
-    narrator "Now my relations with Vera and with Senning have been magnificently improved. This is inspiring."
+    narrator "现在我和薇拉以及森柠的关系都有了极大的改善.这是令人振奋的."
 
-    narrator "I thought my life would be easy like this forever, but I was wrong. In the morning of the next Monday, my life was entirely changed by a phone call."
+    narrator "我以为我的生活会永远像这样轻松,但我错了.下个星期一早上,我的生活完全被一个电话改变了."
 
-    narrator "*Phone Ringing* Dududu, dududu, dududu, dududu..."
+    narrator "*电话铃声*Dududu,dududu,dududu,dududu..."
 
-    narrator "*Phone Ringing* Dududu, dududu, dududu..."
+    narrator "*电话铃声*Dududu,dududu,dududu,dududu..."
 
-    player "... What happened?"
+    player "...发生什么事了?"
 
-    player "Who would call so early?"
+    player "谁会这么早打电话来?"
 
-    player "(Yawning) (Picking up cellphone) Hello? Who is this?"
+    player "(打呵欠)(拿起手机)喂?谁啊?"
 
     scene e_pcsj_normal with tstmgr
 
-    e "Hello, [P.name], it's me, Elisa."
+    e "你好,[P.name],是我,伊莉莎."
 
-    player "Oh, Aunt Elisa, hello there. What's going on?"
+    player "Oh,伊莉莎阿姨,你好.怎么了?"
 
-    e "I don't know if you have seen the news already..."
+    e "我不知道你是否已经看过新闻了..."
 
-    player "Eh... I didn't care about the news lately, is there anything I need to know?"
+    player "Eh...我不关心最近的新闻,有什么我需要知道的吗?"
 
-    e "It's your dad. He is in trouble."
+    e "是关于你爸爸的.他有麻烦了."
 
-    player "My dad? What kind of trouble?"
+    player "我爸爸?什么麻烦?"
 
-    e "He is suspected to manipulate the city council election. The police has arrested him."
+    e "他被怀疑操纵市议会选举.警察已经逮捕了他."
 
-    player "Is today April 1st????? Aunt Elisa, it's not funny."
+    player "今天是愚人节吗?伊莉莎阿姨,一点都不好笑."
 
-    e "I wasn't joking. It is true. You can go search it on the internet."
+    e "我不是在开玩笑.这是真的.你可以在网上看."
 
-    e "His personal property has been temporarily frozen, and he is now being investigated by the government. He won't get paroled during the investigation, and he won't be able to contact you for a fairly long time."
+    e "他的个人财产已被暂时冻结,目前政府正在对他进行调查.在调查期间他不会被假释,在相当长的一段时间内他也不会和你联系."
 
-    player "Damn!"
+    player "该死!"
 
-    player "Where is he now? I need to see him."
+    player "他现在在哪里?我要见他."
 
-    e "He is arrested in the Capital City. But don't worry, he will get through this. He has the best lawyers you can find in this country."
+    e "他在首都被捕了.但别担心,他会挺过去的.他有这个国家最好的律师."
 
-    e "And now, you have a more important issue to deal with."
+    e "现在,你有一个更重要的问题要处理."
 
-    player "What is even more important than my dad?"
+    player "什么比我爸爸更重要?"
 
-    e "Haven't I told you about your father's personal property is frozen right now?"
-
-    player "... ... ... ..."
-
-    player "Oh, shit."
-
-    narrator "I have no jobs, no savings. Every penny I spend is from my dad. If his property is frozen, then..."
-
-    narrator "Now I have become a pauper?"
-
-    e "Your father is a precise man, I don't think the police would find any evidence that can convict him. He is fine."
-
-    e "But you are not. As far as I know, you will lose all your income sources after your dad goes to jail. Am I right?"
-
-    player "Eh... that's right..."
-
-    e "So do you have any plan?"
-
-    player "I, I don't know, Aunt Elisa. I'm in a mess..."
-
-    e "Do you have any savings?"
-
-    player "Eh, no..."
-
-    player "But... Aunt Elisa, you are going to help me, right?"
-
-    e "Of course I am going to help."
-
-    player "Thank you."
-
-    e "Don't thank me so quickly yet. I won't spoil you like your dad did. I can only help you with offering you a job at my company. You will work under Theodora's lead."
-
-    e "You have to work for a living by yourself, and it is also a chance for you to get along with Theodora. She is a prideful girl who only admires the strong. You need to prove yourself to her."
+    e "我没告诉你你爸爸的私人财产现在被冻结了吗?"
 
     player "... ... ... ..."
 
-    player "Is this the only job I can get? "
+    player "Oh,操."
 
-    e "No, but this is the best job I can offer you."
+    narrator "我没有工作,没有积蓄.我花的每一分钱都是我爸爸给的.如果他的财产被冻结,那么..."
 
-    player "I, I see."
+    narrator "现在我变成了一个乞丐?"
 
-    player "I'll take the job, Aunt Elisa."
+    e "你爸爸是个严谨的人,我认为警方不会找到任何能定罪的证据.他应该没事."
 
-    e "Good, [P.name], don't let me down."
+    e "但你不是.据我所知,你爸爸入狱后,你将失去所有的收入来源.我说的对吗?"
 
-    player "And I have another question..."
+    player "Eh...是的..."
 
-    player "Where should I live right now?"
+    e "你有什么计划吗?"
 
-    narrator "If I can't use my dad's money, I won't be able to live in this hotel anymore."
+    player "我,我不知道,伊莉莎阿姨.我现在一团糟..."
 
-    narrator "It will be great if Aunt Elisa can have me in her mansion. I know she has a lot of empty rooms at her place. And I will be able to live with her and Irene together. That sounds not bad."
+    e "你有存款吗?"
 
-    e "You are a grown man. You ought to fix this problem yourself."
+    player "Eh,没有..."
+
+    player "但是...伊莉莎阿姨,你会帮我的,对吗?"
+
+    e "我当然会帮忙."
+
+    player "谢谢你."
+
+    e "别这么快就谢我.我不会像你爸爸那样宠你.我只能帮你提供一份我公司的工作.你将在狄奥多拉的领导下工作."
+
+    e "你必须自己工作谋生,这也是你与狄奥多拉相处的机会.她是一个只崇拜强者的骄傲的女孩.你需要向她证明你自己."
 
     player "... ... ... ..."
 
-    narrator "That's... sad..."
+    player "这是我唯一能找到的工作吗?"
 
-    player "Alright, Aunt Elisa, I get it."
+    e "不是,但这是我能给你的最好的工作."
 
-    e "Great. You can come to work start from the next Monday. Theodora will tell you about the detail."
+    player "我...我明白了."
 
-    player " I really appreciate it, Aunt Elisa."
+    player "我会接受这份工作的,伊莉莎阿姨."
 
-    e "You are half a son to me. I really hope you can overcome this situation."
+    e "很好,[P.name],不要让我失望."
 
-    e "Oh, and here is another thing."
+    player "我还有一个问题..."
 
-    e "Beside what I have just offered, I have another job for you, a private job."
+    player "我现在应该住在哪里?"
 
-    player "What's that, Aunt Elisa? I will accept every opportunity."
+    narrator "如果我不能用我爸爸的钱,我就不能再住在这家旅馆了."
 
-    e "It's glad to see you have such a passion."
+    narrator "如果伊莉莎阿姨能让我住在她的公寓里就太好了.我知道她家里有很多空房间.我就能和她,狄奥多拉和艾琳住在一起了.听起来不错."
 
-    e "I want you to be Irene's private tutor. You know, she doesn't do well in studies. I wish you can help her."
+    e "你是个成年人了.你应该自己解决这个问题."
 
-    e "You can come to our house and tutor her everyday after she gets home from school. You can decide how many times you would come for a week. And of course, you'll get paid for that."
+    player "... ... ... ..."
 
-    player "I'm very happy to do that. Thanks again, Aunt Elisa."
+    narrator "这真让人...难过..."
 
-    e "That's all I have to say, [P.name]. I wish you can stay strong and work out this situation."
+    player "好的,伊莉莎阿姨,我知道了."
 
-    player "I will try my best, Aunt Elisa. I promise."
+    e "很好.你可以从下周一开始上班.狄奥多拉会告诉你细节."
 
-    e "Goodbye, [P.name]."
+    player "我真的很感激,伊莉莎阿姨."
 
-    player "Bye, Aunt Elisa."
+    e "你是我的半个儿子.我真的希望你能克服这种情况."
+
+    e "Oh,还有一件事."
+
+    e "除了我刚刚提供的工作,我还有另一份工作给你,一份私人的工作."
+
+    player "那是什么,伊莉莎阿姨?我会接受每一个机会."
+
+    e "很高兴看到你这么有激情."
+
+    e "我想让你做艾琳的私人教师.你知道,她学习不好.我希望你能帮助她."
+
+    e "你可以每天在她放学回家后到我们家来辅导她.你可以决定一周来几次.当然,你会因此得到报酬."
+
+    player "我很高兴这样做.再次谢谢你,伊莉莎阿姨."
+
+    e "我说完了,[P.name].我希望你能保持坚强,解决这个问题."
+
+    player "我会尽力的,伊莉莎阿姨.我保证."
+
+    e "拜拜,[P.name]."
+
+    player "拜拜,伊莉莎阿姨."
 
     scene void with tstmgr
 
-    narrator "I hung up the phone."
+    narrator "我挂掉电话."
 
     narrator "... ... ... ..."
 
-    player "Damn, dad. What have you done?"
+    player "该死的,爸爸.你做了什么??"
 
-    player "Manipulating election? You are truly a fuxking genius!"
+    player "操纵选举?你真是个天才!"
 
-    player "what am I supposed to do now? I can't do anything without my dad's money."
-
-    player "... ... ... ..."
-
-    player "Maybe I can borrow some money from my wealthy friends, and repay them once the bank unfreezes my dad's property?"
+    player "我现在该怎么办?没有我爸爸的钱,我什么都做不了."
 
     player "... ... ... ..."
 
-    player "But if I do such things, Aunt Elisa and my dad will definitely be disappointed. They seem to expect me to get through this situation by myself."
-
-    player "I think I'll just listen to Aunt Elisa and accept those two jobs. I won't ask friends for borrowing money unless it is the only solution left."
-
-    player "As for the housing..."
-
-    player "I'd better move to the house which Vera is living right now. That is my own estate after all."
+    player "也许我可以从我有钱的朋友那里借些钱,等银行解冻我爸爸的财产后再还他们?"
 
     player "... ... ... ..."
 
-    player "I don't know if she is okay with me being her housemate."
-    narrator "But I think she'll understand."
+    player "但如果我这样做,伊莉莎阿姨和我爸爸一定会很失望.他们似乎希望我能独自度过这个难关."
+
+    player "我想我还是听从伊莉莎阿姨的话,接受那两份工作吧.我不会向朋友借钱,除非这是唯一的解决办法."
+
+    player "至于住处..."
+
+    player "我最好搬到薇拉现在住的房子去.那毕竟是我自己的财产."
+
+    player "... ... ... ..."
+
+    player "我不知道她是否同意我做她的室友."
+    narrator "但我想她会理解的."
 
     narrator "... ... ... ..."
 
-    call screen hint("The game is getting into a new stage. From now on, you are not that rich boy you used to be anymore. You will need to work for a living and manage your own business.")
+    call screen hint("游戏正进入一个新的阶段.从现在开始,你不再是以前那个富有的男孩了.你需要工作谋生,管理自己的生意.")
 
-    call screen hint("And don't forget, you still need to build relations with girls. Try to manage your time wisely.")
+    call screen hint("别忘了,你仍然需要和女孩建立关系.明智地管理你的时间.")
 
-    call screen hint("Good luck, have fun.")
+    call screen hint("祝你好运,玩得开心.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

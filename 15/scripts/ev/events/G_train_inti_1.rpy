@@ -3,45 +3,45 @@ label G_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "It’s not hard to find out that Uno is treating me differently ever since our relationship got improved."
+    "不难发现,自从我们的关系改善后,乌诺对我的态度就不一样了."
 
 
 
-    "For example..."
+    "例如..."
 
 
 
-    "1 month ago... ..."
+    "1个月前......"
 
 
 
     scene g_train_inti_1_1 with flashback
 
-    "*Keyboard tapping sound* papapapapapapapapapapapa... ... ... ..."
+    "*键盘敲打的声音*papapapapapapapapapapapa............"
 
 
 
     scene g_train_inti_1_2 with tstmgr
 
-    g "*Walking closer* ... ... ... ..."
+    g "*走近*............"
 
 
 
     scene g_train_inti_1_3 with tstmgr
 
-    g "*Sitting down* ... ... ... ..."
+    g "*坐下*............"
 
 
 
     scene g_train_inti_1_4 with tstmgr
 
-    g "What are you doing?"
+    g "你在做什么?"
 
 
 
     scene g_train_inti_1_5 with tstmgr
 
-    player "Oh, hi, Uno, I am working on an economic project. It's... eh, quite important."
+    player "Oh,hi,乌诺,我在做一个经济项目.这是...嗯,很重要."
 
 
 
@@ -51,13 +51,13 @@ label G_train_inti_1:
 
     scene g_train_inti_1_6 with tstmgr
 
-    "She then took out her phone and started to play games. I guess she was trying to show her friendliness by accompanying me."
+    "然后她拿出手机开始玩游戏.我猜她是想通过陪伴我来表示她的友好."
 
 
 
     scene void with tstmgr
 
-    "She stayed with me there until I finished my project, but she never spoke to me during the whole time. She basically just ignored me and immersed in her own world."
+    "她一直和我在这里,直到我完成我的项目,但在整个过程中她从未和我说过话.她基本上就是无视我,沉浸在自己的世界里."
 
 
 
@@ -65,41 +65,41 @@ label G_train_inti_1:
 
 
 
-    "But now... ..."
+    "但是现在......"
 
 
 
     scene g_train_inti_1_1 with dissolve
 
-    "*Keyboard tapping sound* papapapapapapapapapapapa... ... ... ..."
+    "*键盘敲打的声音*papapapapapapapapapapapa............"
 
 
 
     scene g_train_inti_1_2 with tstmgr
 
-    g "*Walking closer* ... ... ... ..."
+    g "*走近*............"
 
 
 
     scene g_train_inti_1_3 with tstmgr
 
-    g "*Sitting down* ... ... ... ..."
+    g "*坐下*............"
 
 
 
     scene g_train_inti_1_4 with tstmgr
 
-    g "What are you doing?"
+    g "你在做什么?"
 
 
 
     scene g_train_inti_1_5 with tstmgr
 
-    player "Hmm? Oh, hi, Uno, I didn’t notice you."
+    player "Hmm?Oh,hi,乌诺,我没注意到你."
 
 
 
-    player "I am, eh, dealing with my final paper."
+    player "我在,eh,处理我的期末论文."
 
 
 
@@ -109,13 +109,13 @@ label G_train_inti_1:
 
     scene g_train_inti_1_6 with tstmgr
 
-    "She then took out her phone and started to play games."
+    "然后她拿出手机开始玩游戏."
 
 
 
     scene g_train_inti_1_7 with tstmgr
 
-    "About 3 minutes later..."
+    "大约3分钟后..."
 
 
 
@@ -127,23 +127,23 @@ label G_train_inti_1:
 
     scene g_train_inti_1_9 with tstmgr
 
-    g "*Broke the silence* How long will it take you to finish this?"
+    g "*打破了沉默*你要多长时间才能做完?"
 
 
 
-    player "Hmmmmm... ... I don’t know. It’s a freaking 20-page-long paper, a pain in the ass."
+    player "Hmmmmm......我不知道.这是一份20页长的该死的文章,让人讨厌."
 
 
 
     scene g_train_inti_1_10 with tstmgr
 
-    player "But I just got some inspirations, so it might be easier than I thought."
+    player "但我已经有思路了,所以这可能比我想象的要容易."
 
 
 
     scene g_train_inti_1_8 with tstmgr
 
-    "*Keyboard tapping sound* papapapapapapapapapapapa... ... ... ..."
+    "*键盘敲打的声音*papapapapapapapapapapapa............"
 
 
 
@@ -157,7 +157,7 @@ label G_train_inti_1:
 
 
 
-    "Another 3 minutes later..."
+    "又三分钟后..."
 
 
 
@@ -173,7 +173,7 @@ label G_train_inti_1:
 
     scene g_train_inti_1_11 with tstmgr
 
-    g "*Getting closer* ... ... ... ..."
+    g "*越来越近*............"
 
 
 
@@ -181,27 +181,27 @@ label G_train_inti_1:
 
 
 
-    player "What are you doing?"
+    player "你在做什么?"
 
 
 
-    g "I’m... curious."
+    g "我...好奇."
 
 
 
     scene g_train_inti_1_12 with tstmgr
 
-    "Well, she never showed any curiosity to my works before~"
+    "Well,她以前从来没有对我的工作表现出任何好奇~"
 
 
 
-    player "Do you want me to spend some time with you?"
+    player "你想让我和你待在一起吗?"
 
 
 
     scene g_train_inti_1_13 with tstmgr
 
-    g "No, you should focus on your paper~"
+    g "No,你应该专注于你的论文~"
 
 
 
@@ -211,7 +211,7 @@ label G_train_inti_1:
 
     scene g_train_inti_1_14 with tstmgr
 
-    "*Keyboard tapping sound* papapapapapapapapapapapa... ... ... ..."
+    "*键盘敲打的声音*papapapapapapapapapapapa............"
 
 
 
@@ -221,11 +221,11 @@ label G_train_inti_1:
 
     scene g_train_inti_1_15 with tstmgr
 
-    g "*Poking, poking* ... ..."
+    g "*戳,戳*......"
 
 
 
-    player "*Was too concentrating on the paper and didn’t realize anything else* ... ..."
+    player "*太专注于文章而没有意识到*......"
 
 
 
@@ -245,11 +245,11 @@ label G_train_inti_1:
 
 
 
-    player "Uno?"
+    player "乌诺?"
 
 
 
-    g "Don’t mind me~"
+    g "不用管我~"
 
 
 
@@ -259,33 +259,33 @@ label G_train_inti_1:
 
 
 
-    "She is a girl with pet personality and she used to be like a quiet cat who always stood aloof from others, but now..."
+    "她是一个有宠物性格的女孩,她曾经像一只安静的猫,总是高高在上,但现在..."
 
 
 
-    "She has become a spoiled cat who would lie on your keyboard just to get your attention."
+    "她已经变成了一只被宠坏的猫,会躺在你的键盘上只是为了吸引你的注意."
 
 
 
-    player "Alright then... ..."
+    player "好吧......"
 
 
 
     scene g_train_inti_1_19 with tstmgr
 
-    player "You have interrupted my work, naughty girl. Now tell me, how should I deal with you?"
+    player "你打断了我的工作,淘气的女孩.现在告诉我,我该拿你怎么办?"
 
 
 
-    "She looked up to me with those limpid eyes. It’s like she is expecting something. Oh... man, my heart is going to melt by staring at her pretty little face."
+    "她用那双清澈的眼睛仰望着我.她好像在期待什么.哦...天哪,看着她那漂亮的小脸,我的心都要融化了."
 
 
 
-    g "Are you angry at me?"
+    g "你生我的气了吗?"
 
 
 
-    player "Eh... ... not really."
+    player "Eh......也不是."
 
 
 
@@ -295,27 +295,27 @@ label G_train_inti_1:
 
 
 
-    "Did I say anything wrong?"
+    "我说错什么了吗?"
 
 
 
     scene g_train_inti_1_21 with tstmgr
 
-    g "*Pressed the power button of my laptop* ... ... ... ..."
+    g "*按下我笔记本电脑的电源键*............"
 
 
 
     scene g_train_inti_1_22 with tstmgr
 
-    player "Hey, what are you doing?"
+    player "Hey,你在干什么?"
 
 
 
-    "She shut my laptop down."
+    "她关掉了我的笔记本电脑."
 
 
 
-    g "Are you angry at me now?"
+    g "你现在生我的气了吗?"
 
 
 
@@ -325,47 +325,47 @@ label G_train_inti_1:
 
 
 
-    player "A little bit, yeah..."
+    player "一点儿,yeah..."
 
 
 
-    "Well, she was trying to provoke me, but all my unsaved documents can be recovered so I’m not really worrying about anything."
+    "Well,她想激怒我,但我所有未保存的文件都可以恢复,所以我真的不担心任何事情."
 
 
 
-    "But... ... let’s just pretend that she successfully provoked me anyway~"
+    "但是...我们就假装她成功地激怒了我吧~"
 
 
 
-    g "So what you are going to do to me?"
+    g "所以你要对我做什么?"
 
 
 
-    player "Hmmmmm... ... I don’t know. Fuck you on the table, maybe?"
+    player "Hmmmmm......我不知道.在桌子上操你,也许吧?"
 
 
 
     scene g_train_inti_1_24 with tstmgr
 
-    g "Ah~ I like that idea~"
+    g "Ah~我喜欢这个想法~"
 
 
 
     scene g_train_inti_1_25 with tstmgr
 
-    "She then climbed on the table and lied down like a kitty waiting to be petted."
+    "然后她爬到桌子上,像小猫一样躺下来等着被抚摸."
 
 
 
-    g "Can you put your white shirt on? I like you with the white shirt more~"
+    g "你能穿上你的白衬衫吗?我更喜欢你这件白衬衫~"
 
 
 
-    player "(Wow... I was just joking, but okay.)"
+    player "(Wow...我只是开个玩笑,不过没关系.)"
 
 
 
-    player "Eh... yeah, sure..."
+    player "Eh...yeah,当然..."
 
 
 
@@ -377,37 +377,37 @@ label G_train_inti_1:
 
     scene g_train_inti_1_26 with dissolve
 
-    player "So... you interrupted my work just for getting fucked? You are such a slutty kitty~"
+    player "所以...你打断我的工作就为了跟我上床?你真是个放荡的小猫咪~"
 
 
 
     scene g_train_inti_1_27 with tstmgr
 
-    g "I just wished to get more of your attention..."
+    g "我只是想引起你更多的注意..."
 
 
 
-    "Ohh... she is so adorable~"
+    "Ohh...她太可爱了~"
 
 
 
     scene g_train_inti_1_28 with tstmgr
 
-    player "And why would you wish to do that?"
+    player "你为什么要这么做呢?"
 
 
 
-    g "Because... because... ... I like being with you... ..."
+    g "因为...因为...我喜欢和你在一起......"
 
 
 
     scene g_train_inti_1_29 with tstmgr
 
-    "Yeah... I guess every pet likes being with it’s master."
+    "Yeah...我想每只宠物都喜欢和主人在一起."
 
 
 
-    "And now it’s time to reward her with my pet toy~"
+    "现在是时候用我的宠物玩具来奖励她了~"
 
 
 
@@ -415,19 +415,19 @@ label G_train_inti_1:
 
     $ flashlight()
 
-    g "*Getting penetrated by dick* Ahhhhhhhhhhh!~~~~~~~~"
+    g "*被鸡巴刺入*Ahhhhhhhhhhh!~~~~~~~~"
 
 
 
-    player "Is this what you want?"
+    player "这就是你想要的吗?"
 
 
 
-    g "Yeeeeeees~~~ I have waited for a whole day!~~~"
+    g "Yeeeeeees~~~我已经等了一整天了!~~~"
 
 
 
-    player "Alright then..."
+    player "好吧..."
 
 
 
@@ -437,23 +437,23 @@ label G_train_inti_1:
 
 
 
-    g "Ahhh~~~ the table is shaking~"
+    g "Ahhh~~~桌子在晃动~"
 
 
 
-    player "Your body is shaking, too. What are so you excited about?"
+    player "你的身体也在颤抖.有什么让你如此兴奋?"
 
 
 
-    g "Because... people may see us here~"
+    g "因为...人们可能会在这里看到我们~"
 
 
 
-    player "You are expecting people to see us ?"
+    player "你在等人来看到我们?"
 
 
 
-    g "No~ but it is excited to imagine it~"
+    g "No~但一想到这些,就很兴奋~"
 
 
 
@@ -461,7 +461,7 @@ label G_train_inti_1:
 
 
 
-    "It seems like her fetish of exhibitionism has gotten worse... ..."
+    "她的裸露癖似乎变得更严重了......"
 
 
 
@@ -480,31 +480,31 @@ label G_train_inti_1:
 
 
 
-    g "I want more... more... more of your love~"
+    g "我想要更多...更多...更多你的爱~"
 
 
 
-    player "I think someone is looking at us at the door~"
+    player "我想有人正在门口看着我们~"
 
 
 
-    "That was a lie, of course, but it has a great result. Uno’s pussy became much tighter and wetter after hearing my words."
+    "当然,这是一个谎言,但它有一个很棒的结果.听了我的话,乌诺的小穴变得更紧更湿了."
 
 
 
-    g "Re... really?"
+    g "真...真的?"
 
 
 
-    player "I just heard the footsteps~"
+    player "我只听到脚步声~"
 
 
 
-    g "What... no, no, we should stop... ..."
+    g "什么...no,no,我们应该停下......"
 
 
 
-    g "But... wait... wait..."
+    g "但是...等等...等等..."
 
 
 
@@ -516,11 +516,11 @@ label G_train_inti_1:
 
     $ flashlight()
 
-    g "I'm cumming!!!!!!~~~~~~~"
+    g "我高潮了!!!!!!~~~~~~~"
 
 
 
-    "Her body shook so hard along with water spraying out from her pussy."
+    "她的身体颤抖得很厉害,淫水从她的小穴喷出来."
 
 
 
@@ -528,7 +528,7 @@ label G_train_inti_1:
 
 
 
-    player "Uno! I’m cumming, too!"
+    player "乌诺!我也要射了!"
 
 
 
@@ -542,51 +542,51 @@ label G_train_inti_1:
 
 
 
-    player "Ahhh... damn, this is so good~"
+    player "Ahhh...damn,这太棒了~"
 
 
 
     scene g_train_inti_1_35 with tstmgr
 
-    g "Love... fluid... ... so much... ... inside... ..."
+    g "爱...水......好多......在里面......"
 
 
 
-    g "Pregnant... ... Uno is going to... ... be pregnant... ..."
+    g "怀孕......乌诺要......怀孕了......"
 
 
 
     scene g_train_inti_1_36 with tstmgr
 
-    player "*Petting* Good girl, good girl~"
+    player "*爱抚*好女孩,好女孩~"
 
 
 
-    g "*Comfortably moaning* Wummmmmmmm~~~"
+    g "*舒服地呻吟*Wummmmmmmm~~~"
 
 
 
-    player "And I was lying, there was no people watching at us~"
+    player "我在撒谎,没有人看着我们~"
 
 
 
     scene g_train_inti_1_37 with tstmgr
 
-    g "Ah? How could you... ..."
+    g "Ah?你怎么......"
 
 
 
     scene g_train_inti_1_38 with tstmgr
 
-    g "*Biting finger* ... ... ... ..."
+    g "*咬手指*............"
 
 
 
-    player "Oh, ouch! Sorry, sorry~~"
+    player "Oh,ouch!对不起,抱歉~~"
 
 
 
-    "Well, I guess every pet would bite its master on occasion~"
+    "Well,我想每个宠物都会偶尔咬它的主人~"
 
 
 
@@ -596,7 +596,7 @@ label G_train_inti_1:
 
 
 
-    "I spent sometime with Uno in the livingroom and forgot my paper at all... ..."
+    "我和乌诺在客厅里呆了一段时间,完全忘记了我的论文......"
 
 
 

@@ -2,45 +2,45 @@ label alley_evening_G_1:
 
     scene alley_evening_g_1_1 with tstmgr
 
-    player "So, why did you ask me to be here with you?"
+    player "所以你为什么喊我和你来这?"
 
 
 
-    g "This neighborhood has the highest crime rate of this city."
+    g "这个社区的犯罪率是全市最高的."
 
 
 
-    player "Yeah... ... so?"
+    player "Yeah......所以?"
 
 
 
     scene alley_evening_g_1_2 with tstmgr
 
-    g "So it’s... exciting~"
+    g "所以这...很令人兴奋~"
 
 
 
-    player "eh... no, not at all. It’s only dangerous."
+    player "eh...no,根本不是.这里只有危险."
 
 
 
     scene alley_evening_g_1_3 with tstmgr
 
-    g "I want to know what it feels like to live here."
+    g "我想知道住在这里是什么感觉."
 
 
 
-    player "Then you should talk with Vera. She once lived here for a couple months."
+    player "那你应该和薇拉谈谈.她曾经在这里住过几个月."
 
 
 
     scene alley_evening_g_1_4 with tstmgr
 
-    g "For real?!"
+    g "真的?!"
 
 
 
-    g "Wow... She is so cool..."
+    g "Wow...她太酷了..."
 
 
 

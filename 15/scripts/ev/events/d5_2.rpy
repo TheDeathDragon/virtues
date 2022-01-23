@@ -2,61 +2,61 @@ label d5_2:
 
     scene void with tstmgr
 
-    narrator "The next day, morning."
+    narrator "第二天早上."
 
     scene a_apartment_background_day with tstmgr
 
-    narrator "This place... looks so terrible... And it smells really bad..."
+    narrator "这个地方...看起来很糟糕...而且闻起来很难闻..."
 
-    narrator "I am here again in front of Vera's apartment building."
+    narrator "我又来到了薇拉的公寓楼前."
 
-    narrator "She lives in a slum... God, this place stinks..."
+    narrator "她住在贫民窟里...天啊,这地方真臭..."
 
-    narrator "Well, she may not like my appearance, so l'd better not to let her know that I'm here."
+    narrator "Well,她可能不想看到我出现在这里,所以我最好不要让她知道我在这里."
 
-    narrator "You may wonder why I came here. Well, you know, it's what a man of virtue needs to do when he commits a mistake, he tries to fix it up. And this will be my first step."
+    narrator "你可能想知道我为什么来这里.嗯,你知道,这是一个有美德的人需要做的,他犯了一个错误,他试图弥补它.这是我的第一步."
 
     scene slum_door_background with tstmgr
 
-    narrator "I went into the apartment and soon found her cell. It's 7 o'clock in the morning. I think she should still be in her room."
+    narrator "我走进公寓,很快就找到了她的房间.现在是早上7点.我想她应该还在她的房间里."
 
-    narrator "I put a pill bottle, some name cards, and a letter on the ground in front of her door."
+    narrator "我把一个药瓶,一些名片和一封信放在她门前的地上."
 
-    player "Okay, that will do."
+    player "Okay,行了."
 
-    narrator "Then I left this place in quiet."
+    narrator "然后我安静地离开了这个地方."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Sometime later."
+    narrator "晚些时候."
 
     scene a_door_curious with tstmgr
 
-    a "(Opened door and noticed things on the ground) Hm?"
+    a "(打开门,注意到地上有东西)Hm?"
 
     scene a_door_letter with tstmgr
 
-    a "(Picked them up) What are...?"
+    a "(把它们捡起来)这是...?"
 
-    a "A letter of apology, a bottle of pills, and doctor's name cards?"
+    a "一封道歉信,一瓶药,还有医生的名片?"
 
-    narrator "Vera opened the letter."
+    narrator "薇拉打开了信."
 
-    narrator "{i}Hi, Vera. It's me, [P]. I don’t dare to ask for your forgiveness, but I want you to know that I am deeply sorry for everything I have done to you.{/i}"
+    narrator "{i}嗨,薇拉.是我,[P].我不敢请求你的原谅,但我想让你知道,我对我对你所做的一切深感抱歉.{/i}"
 
-    narrator "{i}What I did was absolutely despicable. You have every reason to hate me, but I still hope that you could take these things.{/i}"
+    narrator "{i}毕竟是我的错.你有理由恨我,但我还是希望你能接受这些东西.{/i}"
 
-    narrator "{i}The pills inside that bottle are for emergency contraception. I tried my best to recall what happened that night, and I remembered that I didn't... you know... inside you, but there is still a small possibility for pregnancy. So I think you'll need this.{/i}"
+    narrator "{i}瓶子里的药片是紧急避孕药.我尽力回忆那天晚上发生的事,我记得我没有...你知道的...在你体内,但仍然有怀孕的可能性.所以我想你需要这个.{/i}"
 
-    narrator "{i}And there are some famous doctors' name cards. If you want to do a health check or something, just call them and schedule an appointment. It will be totally free, just tell the doctor my name.{/i}"
+    narrator "{i}还有一些著名医生的名片.如果你想做健康检查或其他什么,打电话给他们,安排一个预约.它将是完全免费的,只要告诉医生我的名字.{/i}"
 
-    narrator "{i}At last, again, I'm sorry for everything and I really want to make up for you if you could give me a chance. Here is my number: 5XX 2XX 4XXX. Just call me if you need any help.{/i}"
+    narrator "{i}最后,再说一次,我很抱歉,如果你能给我一个机会,我真的很想弥补你.这是我的电话号码:5XX2XX4XXX.如果你需要任何帮助,尽管打电话给我.{/i}"
 
     a "... ... ... ..."
 
-    a "He... ..."
+    a "他......"
 
     narrator "... ... ... ... ... ..."
 
@@ -71,29 +71,29 @@ label d5_2_bLine:
 
     scene void with tstmgr
 
-    "The next day’s morning..."
+    "第二天早上..."
 
 
 
     scene d5_2_1 with dissolve
 
-    "Here I am again, in front of Vera’s apartment building."
+    "我又来了,在薇拉的公寓大楼前."
 
 
 
-    "She lives in a slum. This place... looks so terrible... and it smells really bad..."
+    "她住在贫民窟里.这个地方...看起来很可怕的...而且味道很难闻..."
 
 
 
     scene d5_2_2 with tstmgr
 
-    a "Hmm? What are you doing here?"
+    a "Hmm?你在这里干什么?"
 
 
 
     scene d5_2_4 with tstmgr
 
-    a "Wait, what’s your name again?"
+    a "等等,请再说一次你的名字?"
 
 
 
@@ -101,59 +101,59 @@ label d5_2_bLine:
 
 
 
-    player "I just want to check around, you know, to see if there is anything I can help you with... ..."
+    player "我只是想四处看看,你知道,看看有什么我可以帮你的......"
 
 
 
-    player "I am sorry for what happened that night and... ..."
+    player "我为那天晚上发生的事感到抱歉......"
 
 
 
     scene d5_2_5 with tstmgr
 
-    a "Sigh... It was not your fault. It’s not like you raped me or forced me to do anything. We were drunk, remember?"
+    a "唉...这不是你的错.又不是你强奸了我或者强迫我做什么.记得吗,我们喝醉了?"
 
 
 
     scene d5_2_6 with tstmgr
 
-    a "I think I’m going to regret that day for the rest of my life, but I don’t really blame you for that..."
+    a "我想我的余生都会为那一天而后悔,但我并不真的为此责怪你..."
 
 
 
-    player "But... ..."
+    player "但是......"
 
 
 
     scene d5_2_7 with tstmgr
 
-    a "Ehhh... ... My waist... still hurts... ..."
+    a "Ehhh......我的腰...还疼......"
 
 
 
-    player "Is it serious? I can drive you to a hospital if you want."
+    player "认真的吗?如果你愿意我可以开车送你去医院."
 
 
 
     scene d5_2_8 with tstmgr
 
-    a "Thanks, but I think I’ll be fine..."
+    a "谢谢,不过我想我能行..."
 
 
 
-    a "Please just... leave me alone. I don’t need you to remind me of what happened that night..."
+    a "请...别打扰我了.我不需要你提醒我那晚发生了什么..."
 
 
 
     scene d5_2_9 with tstmgr
 
-    a "Now I’m going to work. See you, oh no, I mean, farewell... ..."
+    a "现在我要去工作了.再见,哦不,我是说,再也不见......"
 
 
 
     scene d5_2_1 with tstmgr
 
-    "She then ignored me and limped off towards the street..."
+    "然后她不理我了,一瘸一拐地朝街上走去..."
 
 
 
@@ -161,7 +161,7 @@ label d5_2_bLine:
 
 
 
-    "She is really a special girl. Her pride doesn’t allow her to receive my help, but... I think there must be something else I can do for her..."
+    "她真是个特别的女孩.她的自尊心不允许她接受我的帮助,但是...我想我还能为她做些什么..."
 
 
 

@@ -5,11 +5,11 @@ label D_daily_12:
     play music happy
 
     if _in_replay:
-        "In order to replay this plot, I need to know this first."
+        "为了重演这个情节,我得先知道这个."
         menu:
-            "Theodora has moved into your house":
+            "狄奥多拉搬进了你的房子":
                 jump D_daily_12.line_a
-            "Theodora hasn't moved into your house":
+            "狄奥多拉还没搬进你的房子":
                 jump D_daily_12.line_b
     else:
         if seen("C_daily_12"):
@@ -27,35 +27,35 @@ label D_daily_12.end:
 
 label D_daily_12.line_a:
 
-    "*Door bell sound* Ding-dong~ Ding-dong~"
+    "*门铃的声音*叮咚~叮咚~"
 
-    d "Hello! Anybody home? Uno? Let’s go to a movie!"
+    d "Hello!有人在家吗?乌诺?我们去看电影吧!"
 
     scene d_daily12_24 with dissolve
 
-    c "*Opened the door* Ahhh... ... I really don’t want to open this door... ..."
+    c "*打开门*Ahhh......我真的不想打开这扇门......"
 
     scene d_daily12_25 with tstmgr
 
-    d "Theodora? What are you doing here?"
+    d "狄奥多拉?你在这里做什么?"
 
-    c "I live here now. Didn’t mom tell you that?"
+    c "我现在住在这里.妈妈没告诉你吗?"
 
     scene d_daily12_26 with tstmgr
 
-    d "What? You and [P] live together now? That’s so not fair!"
+    d "什么?你和[P]住在一起了?这太不公平了!"
 
-    c "Hah, and we will get married next month."
+    c "Hah,我们下个月就要结婚了."
 
     scene d_daily12_27 with tstmgr
 
-    d "What the hell?!"
+    d "什么鬼?!"
 
     scene void with tstmgr
 
     $ flashlight()
 
-    "???" "Uhhhhhhhhhh!!!!! What?!!!!"
+    "???" "Uhhhhhhhhhh!!!!!什么?!!!!"
 
     scene d_daily12_28 with dissolve
 
@@ -63,31 +63,31 @@ label D_daily_12.line_a:
 
     scene d_daily12_29 with tstmgr
 
-    d "*Hiding behind Theodora* Awwwww... ..."
+    d "*躲在狄奥多拉后面*Awwwww......"
 
     scene d_daily12_32 with tstmgr
 
-    b "Mamamamama... married?"
+    b "Mamamamama...结婚?"
 
-    "It seems like Irene didn’t close the door and Senning just happened to get in after her."
+    "看来艾琳并没有关门,森柠只是跟着她进来的."
 
     scene d_daily12_30 with tstmgr
 
-    c "Ah, you must be Senning. [P] has told me about you."
+    c "Ah,你一定就是森柠了.[P]告诉过我关于你的事."
 
-    c "My name is Theodora, a... tenant. What I said was just a joke, don’t take it serious."
+    c "我叫狄奥多拉,一个...租户.我开个玩笑,你不要当真."
 
     scene d_daily12_31 with tstmgr
 
-    c "And this is my sister, Irene."
+    c "这是我的妹妹,艾琳."
 
     scene d_daily12_33 with tstmgr
 
-    b "It’s a pleasure to meet you. I... I’m sorry. I was overreacting... ..."
+    b "很高兴认识你.我...我很抱歉.我反应过度了......"
 
     scene d_daily12_34 with tstmgr
 
-    d "Yeah, you’d better be sorry, young lady! You just freaked me out!"
+    d "Yeah,你最好道歉,小姐!你吓到我了!"
 
     scene d_daily12_35 with tstmgr
 
@@ -97,73 +97,73 @@ label D_daily_12.line_a:
 
     scene d_daily12_29 with tstmgr
 
-    d "*Hiding behind Theodora again* Awwwwww... ... what’s her problem?"
+    d "*又躲在狄奥多拉后面*Awwwwww......她什么毛病?"
 
-    b "*Murmuring* So cute... ..."
+    b "*喃语*好可爱......"
 
-    c "Pardon?"
+    c "啊哈?"
 
-    b "*Murmuring* Irene... ... so cute... ..."
+    b "*喃语*艾琳...太可爱了......"
 
     scene d_daily12_36 with tstmgr
 
-    d "Oh, thank you for saying that. You are cute, too~"
+    d "Oh,谢谢你这么说.你也很可爱~"
 
     scene d_daily12_37 with tstmgr
 
-    d "Wait, no, strange lady! You freaked me out again! You are not cute at all!"
+    d "等等,不,陌生的女士!你又吓到我了!你一点都不可爱!"
 
-    b "*Swallowing hard* ... ... ... ..."
+    b "*使劲吞咽*............"
 
-    c "You don’t look so well. Are you okay, Senning?"
+    c "你看起来不太好.你还好吗,森柠?"
 
-    b "I... I’m fine. I’m totally fine, I just... ..."
+    b "我...我很好.我很好,只是......"
 
     scene d_daily12_38 with tstmgr
 
-    b "I have never seen... anyone... so cute like that... ..."
+    b "我从来没见过...有人能...这么可爱......"
 
-    b "I need to... ... ... ..."
+    b "我需要............"
 
-    c "Senning?"
+    c "森柠?"
 
     scene d_daily12_39 with tstmgr
 
-    "Senning suddenly lost balance and fell forward."
+    "森柠突然失去平衡,向前摔倒了."
 
-    c "Senning!"
+    c "森柠!"
 
-    d "Oh my God! What happens to her?"
+    d "OhmyGod!她怎么样了?"
 
     c "... ... ... ..."
 
-    c "Typical low-blood-sugar issue. She fainted because she got too excited. Let’s put her on the ground."
+    c "典型的低血糖的问题.她因为太激动而晕倒了.我们把她放在地上."
 
-    d "Oh no! Does she need an ambulance? How can we help her?"
+    d "Ohno!她需要救护车吗?我们怎么帮她?"
 
-    c "I think she will be back to normal in minutes. It is not really a big issue."
+    c "我想她几分钟内就会恢复正常.这不是什么大问题."
 
-    d "Is it my fault that caused she fainted?"
+    d "她晕倒是我的错吗?"
 
     scene d_daily12_40 with tstmgr
 
-    c "I don’t know, maybe... ..."
+    c "我不知道,也许吧......"
 
-    c "She fainted because of your... cuteness? That sounds... strange... ..."
+    c "她晕倒是因为你...可爱吗?这听起来...怪怪的......"
 
     scene d_daily12_41 with tstmgr
 
-    d "Awwwwww... ... I feel so sorry though I don’t know what was really going on here."
+    d "Awwwwww......我很抱歉,虽然我不知道到底发生了什么."
 
-    c "Don’t worry, let’s just get her to the livingroom and she will recover soon."
+    c "别担心,我们把她送到客厅去,她很快就会好起来的."
 
-    b "So... cute... ... Kawaii... ..."
+    b "好...可爱...卡哇伊......"
 
     scene void with tstmgr
 
     "... ... ... ..."
 
-    "*Senning has become friends with Theodora and Irene.*"
+    "*森柠与狄奥多拉和艾琳成了朋友.*"
 
     "... ... ... ..."
 
@@ -171,109 +171,109 @@ label D_daily_12.line_a:
 
 label D_daily_12.line_b:
 
-    "*Door bell sound* Ding-dong~ Ding-dong~"
+    "*门铃的声音*叮咚~叮咚~"
 
 
 
-    d "Hello! Anybody home?"
+    d "Hello!有人在家吗?"
 
 
 
-    a "Coming~"
+    a "来了~"
 
 
 
     scene d_daily12_1 with tstmgr
 
-    a "*Opened the door* Oh, hi, Irene. What brings you here?"
+    a "*开门*Oh,hi,艾琳.什么风把你吹来了?"
 
 
 
     scene d_daily12_2 with tstmgr
 
-    d "I’m here to visit you and Uno! Am I welcome here?~"
+    d "我是来看你和乌诺的!不欢迎吗?~"
 
 
 
     scene d_daily12_3 with tstmgr
 
-    a "Oh, of course, come on in~ But unfortunately Uno and [P] are not at home right now."
+    a "Oh,当然欢迎,请进吧~但不幸的是乌诺和[P]现在不在家."
 
 
 
-    b "*Flushed* ... ... ... ..."
+    b "*脸红*............"
 
 
 
     scene d_daily12_4 with tstmgr
 
-    a "Hmm? Oh, sorry, I forgot to do the introduction."
+    a "Hmm?Oh,抱歉,我忘了介绍了."
 
 
 
     scene d_daily12_5 with tstmgr
 
-    a "Senning, this is Irene, [P] is her private tutor."
+    a "森柠,这是艾琳,[P]是她的家庭教师."
 
 
 
-    a "And Irene, this is Senning, [P]’s college friend~"
+    a "艾琳,这位是森宁,[P]的大学朋友~"
 
 
 
     scene d_daily12_6 with tstmgr
 
-    d "Nice to meet you, Senning."
+    d "很高兴认识你,森柠."
 
 
 
-    b "*Flushed* ... ... ... ..."
+    b "*脸红*............"
 
 
 
     scene d_daily12_7 with tstmgr
 
-    a "Sen?"
+    a "森?"
 
 
 
     scene d_daily12_8 with tstmgr
 
-    b "Hi... ... Nice to... meet you... ..."
+    b "Hi......很高兴...见到你......"
 
 
 
     scene d_daily12_9 with tstmgr
 
-    d "Are you alright? You look terrible."
+    d "你还好吗?你看起来很糟糕."
 
 
 
-    b "*Murmuring* So cute... ..."
+    b "*喃语*好可爱......"
 
 
 
-    d "Pardon?"
+    d "啊哈?"
 
 
 
     scene d_daily12_11 with tstmgr
 
-    b "*Murmuring* You look... ... so cute... ..."
+    b "*喃语*你看起来...太可爱了......"
 
 
 
     scene d_daily12_10 with tstmgr
 
-    d "Thank you for saying that. You are cute, too~"
+    d "谢谢你这么说.你也很可爱~"
 
 
 
-    b "*Swallowing hard* ... ... ... ..."
+    b "*使劲吞咽*............"
 
 
 
-    b "Can I... have a little hug with you, please, Miss Irene?"
+    b "我可以...抱抱你吗,艾琳小姐?"
 
 
 
@@ -293,103 +293,103 @@ label D_daily_12.line_b:
 
     scene d_daily12_13 with tstmgr
 
-    d "Wow... Your heart beats so fast. Are you sure you are alritght?"
+    d "Wow...你的心跳得太快了.你确定你没事吗?"
 
 
 
     scene d_daily12_14 with tstmgr
 
-    b "I... I’m fine. I’m totally fine, I just... ..."
+    b "我...我很好.我很好,只是......"
 
 
 
     scene d_daily12_15 with tstmgr
 
-    b "I have never seen... someone... cute like you... ..."
+    b "我从来没见过...有人...能像你这么可爱......"
 
 
 
     scene d_daily12_16 with tstmgr
 
-    b "I need to... ... ... ..."
+    b "我需要............"
 
 
 
-    a "Sen?"
+    a "森?"
 
 
 
     scene d_daily12_17 with tstmgr
 
-    "Senning suddenly lost balance and fell backward."
+    "森柠突然失去平衡,向后跌倒."
 
 
 
     scene d_daily12_18 with tstmgr
 
-    a "Sen!"
+    a "森!"
 
 
 
-    "Vera caught Senning on time before she fell on the ground."
+    "薇拉在摔倒在地之前及时抓住了森宁."
 
 
 
     scene d_daily12_19 with tstmgr
 
-    d "Oh my God! What happens to her?"
+    d "OhmyGod!她怎么样了?"
 
 
 
-    a "[P] once told me that she has this low-blood-sugar issue. She may faint when she gets super excited in a very short time."
+    a "[P]有一次告诉我她有低血糖的问题.当她在很短的时间内变得超级兴奋时,她可能会晕倒."
 
 
 
     scene d_daily12_20 with tstmgr
 
-    d "Oh no! Does she need an ambulance? How can we help her?"
+    d "Ohno!她需要救护车吗?我们怎么帮她?"
 
 
 
-    a "I... think she will be back to normal in minutes. It is not really a big issue... ..."
+    a "我...我想她几分钟后就会恢复正常.这不是什么大问题......"
 
 
 
-    d "Is it my fault that caused she fainted?"
+    d "她晕倒是我的错吗?"
 
 
 
     scene d_daily12_21 with tstmgr
 
-    a "Eh... Maybe, I... I don’t know... ..."
+    a "Eh...也许吧,我...我不知道......"
 
 
 
-    a "She fainted because of your... cuteness? That sounds... strange... ..."
+    a "她晕倒是因为你...可爱吗?这听起来...怪怪的......"
 
 
 
     scene d_daily12_22 with tstmgr
 
-    d "Awwwwww... ... I feel so sorry though I don’t know what was really going on here."
+    d "Awwwwww......我很抱歉,虽然我不知道到底发生了什么."
 
 
 
-    a "Don’t worry, let’s get her to the livingroom and she will wake up just in minutes."
+    a "别担心,我们把她带到客厅去,她几分钟后就会醒."
 
 
 
-    a "You two will be good friends, I’m pretty sure of that~"
+    a "你们俩会成为好朋友的,我很确定~"
 
 
 
     scene d_daily12_23 with tstmgr
 
-    d "I want to be friends with her too. She looks like a super interesting girl!~"
+    d "我也想和她做朋友.她看起来像个超级有趣的女孩!~"
 
 
 
-    b "So... cute... ... Kawaii... ..."
+    b "好...可爱...卡哇伊......"
 
 
 
@@ -399,7 +399,7 @@ label D_daily_12.line_b:
 
 
 
-    "*Irene and Senning have become friends.*"
+    "*艾琳和森柠成了朋友.*"
 
 
 

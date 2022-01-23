@@ -2,33 +2,33 @@ label TouchBody_F_general:
 
     scene f_general_1_smile with tstmgr
 
-    bubble_f "You want to touch my body?"
+    bubble_f "你想摸我的身体吗?"
 
-    bubble_f "Like... the last time?"
+    bubble_f "就像...那次?"
 
-    bubble_f "Okay... ..."
+    bubble_f "嗯......"
 
 
 
     scene f_general_1_touching_1 with tstmgr
 
-    f "Starting with my butt?"
+    f "从我的屁股开始?"
 
-    f "You know, I always like to celebrate with my teammates by slapping their butts."
+    f "你知道,我总是喜欢和我的队友们拍屁股庆祝."
 
     scene f_general_1_touching_2 with tstmgr
 
-    f "And... my breast?"
+    f "还有...我的胸?"
 
-    f "Now it starts to be funny."
+    f "现在开始变得有趣了."
 
     scene f_general_1_touching_3 with tstmgr
 
     f "Owww... ... [P]... ..."
 
-    f "This is so comfortable... ..."
+    f "这太舒服了......"
 
-    f "Keep doing it. Don’t stop... ..."
+    f "继续,别停......"
 
     scene void with tstmgr
 

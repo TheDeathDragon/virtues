@@ -3,47 +3,47 @@ label Special_4:
 
     scene void with tstmgr
     play music sorrow
-    "Later tonight... ..."
+    "今晚稍后... ..."
 
 
 
-    "Well, Senning and Theodora want me to talk with their mothers, so... ..."
+    "很好,森柠和西奥都希望我能和她们的的母亲谈谈,所以... ..."
 
 
 
     scene special_4_1 with dissolve
 
-    "Here we go~"
+    "我们来了~"
 
 
 
     scene special_4_2 with tstmgr
 
-    e "Why is this woman here too?"
+    e "为什么这个女人也在这里?"
 
 
 
     scene special_4_3 with tstmgr
 
-    "Lady Minna" "Huh? I was just going to ask the same question!"
+    "明娜女士" "Huh? 我也正想问同样的问题!"
 
 
 
-    player "Hey, hey, relax, ladies."
+    player "Hey, hey, 放轻松, 女士们."
 
 
 
-    player "Eh... ... Theodora and Senning are worried about you. They don’t know why their mothers suddenly become hostile to each other."
+    player "Eh... ... 西奥和森都很担心你们.她们想知道为什么她们的母亲突然变得相互敌视起来."
 
 
 
     scene special_4_1 with tstmgr
 
-    player "They asked me to do some interceding work, so... I called you ladies here and see if we can work out a solution."
+    player "她们想要我做一些调停工作,所以.我把你们这些女士叫到这里,看看我们是否能想出一个解决方案."
 
 
 
-    player "First of all, I just want you to know that I don’t want to interfere with your dispute at all. Maybe I am not even qualified to interfere. You ladies are all big shots in business, you won’t fight for some silly minor issues."
+    player "首先,我只想让你知道,我不想干涉你们的问题.或许我甚至没有资格干涉.你们都是生意场上的大人物,不会为了一些愚蠢的小问题而吵起来."
 
 
 
@@ -53,91 +53,92 @@ label Special_4:
 
 
 
-    e "Actually... ..."
+    e "实际上... ..."
 
 
 
     scene special_4_5 with tstmgr
 
-    "Lady Minna" "We just realized yesterday that our fight... was silly indeed."
+    "明娜女士" "我们昨天才意识到,我们的争吵......确实很愚蠢."
 
 
 
     scene special_4_6 with tstmgr
 
-    e "Because it’s not up to us to decide who is the winner."
+    e "因为不是由我们来决定谁是赢家的."
 
 
 
     scene special_4_7 with tstmgr
 
-    "Lady Minna" "It’s up to you."
+    "明娜女士" "决定权在你手上."
 
 
 
     scene special_4_8 with tstmgr
 
-    player "Huh? Me? Wait, you are fighting for... me?"
+    player "Huh? 我? 等等, 你们吵起来的原因是... 我?"
 
 
 
-    "Lady Minna" "Sort of~"
+    "明娜女士" "某种程度上来说~"
 
 
 
     scene special_4_9 with tstmgr
 
-    "Lady Minna" "Look, young man, we don’t mind you being in love with our daughters at the same time, as long as you can make them happy."
+    "明娜女士" "看, 年轻人, 我们不介意你同时爱上我们的女儿,只要你能让她们幸福."
 
 
 
     scene special_4_10 with tstmgr
 
-    "Lady Minna" "But there is one realistic question, that you can only have one lawful, wedded wife."
+    "明娜女士" "但有一个很现实的问题,那就是你只能有一个合法的婚姻妻子."
 
 
 
-    e "Which of them do you think will have this position? Theodora, or Senning."
+    e "你认为她们中的哪一个会拥有这个位置?西奥?还是森宁?."
 
 
 
-    player "I... ... ... ..."
+    player "我... ... ... ..."
 
 
 
-    "Wait, this is so hard to believe. This is the reason they fight?"
+    "等等,这太难相信了.这就是她们吵架的原因?"
 
 
 
-    e "Looks like our prince haven’t thought of it yet~"
+    e "看来我们的王子还没有想到呢~"
 
 
 
-    player "My lawful... wedded wife? Does it even matter?"
+    player "我的合法...妻子?这有什么关系吗?"
 
 
 
-    "Lady Minna" "It matters to me."
+    "明娜女士" "这对我来说很重要."
 
 
 
     scene special_4_11 with tstmgr
 
-    "Lady Minna" "Tell me, kid, what do I have to do to make Senning your lawful wife?"
+    
+    "明娜女士" "告诉我,孩子,我要怎么做才能让森柠成为你的合法妻子?"
 
 
 
-    "Lady Minna" "You know, you can ask for anything~"
+    "明娜女士" "你知道,你可以提任何要求~"
 
 
 
-    e "Wait, are you trying to seduce him? What a shameless bitch."
+    e "等等,你想勾引他吗?多么无耻的婊子啊."
 
 
 
     scene special_4_12 with tstmgr
 
-    "Lady Minna" "What’s the matter? The bitch always gets what her wants~"
+    "明娜女士" "怎么了?婊子总是能得到她想要的东西."
 
 
 
@@ -147,7 +148,7 @@ label Special_4:
 
     scene special_4_13 with tstmgr
 
-    e "Well, you know what? You are not the only shameless bitch here~"
+    e "很好,你知道吗?你不是这里唯一无耻的婊子~"
 
 
 
@@ -161,19 +162,19 @@ label Special_4:
 
     $ flashlight()
 
-    e "Sweetie~ What can I do to help you make up your mind?~"
+    e "亲爱的~我能做些什么来帮助你做出决定呢?~"
 
 
 
     scene special_4_16 with tstmgr
 
-    "Lady Minna" "Huh?"
+    "明娜女士" "Huh?"
 
 
 
     scene special_4_17 with tstmgr
 
-    "Lady Minna" "It looks like... we are really the same kind of person~"
+    "明娜女士" "这看起来... 我们确实是同一类人~"
 
 
 
@@ -181,43 +182,43 @@ label Special_4:
 
     $ flashlight()
 
-    "Lady Minna" "This is going to be a fun competition~"
+    "明娜女士" "这会是一场很有趣的比赛~"
 
 
 
-    player "What competition are we talking about exactly?"
+    player "我们究竟在讨论什么竞争?"
 
 
 
     scene void with tstmgr
 
-    "Things suddenly went in a direction I didn’t expect... ... Eh, no, actually it wasn’t that unexpected at all."
+    "事情突然朝着我没想过的方向发展.......额,不,其实也没那么意外."
 
 
 
     scene special_4_19 with tstmgr
 
-    player "Are you... trying to buy me off. Seriously, why is it so important to be my lawful wedded wife? Love doesn’t need to be proven by any law... ..."
+    player "你是不是......想收买我.说真的,为什么做我的合法妻子这么重要呢?爱情不需要用任何法律来证明... ..."
 
 
 
-    "Lady Minna" "It is important to me... and Senning."
+    "明娜女士" "这对我很重要... 对森柠也是."
 
 
 
     scene special_4_20 with tstmgr
 
-    e "Actually I don’t really care if you are going to make Theodora your lawful wife or not..."
+    e "其实我并不关心你是否要让西奥成为你的合法妻子...."
 
 
 
     scene special_4_21 with tstmgr
 
-    e "But I won’t let this crazy woman get what she wants."
+    e "但我不会让这个疯女人得到她想要的东西."
 
 
 
-    "Lady Minna" "The one who serves him better wins!"
+    "明娜女士" "谁能更好地服侍他,谁就赢了!"
 
 
 
@@ -225,41 +226,41 @@ label Special_4:
 
     $ flashlight()
 
-    "Lady Minna suddenly jumped on top of me and rubbed her warm, soft flesh against my chest."
+    "明娜女士突然跳到我身上,用她温暖柔软的肉体摩擦我的胸膛."
 
 
 
-    "My nose was buried in her deep cleavage and immersed into her unique body fragrance. It was a fragrance that combined a mature woman’s strong body scent and an unique tasting perfume. Oh my... ... this fragrance made me feel dizzy~"
+    "我的鼻子埋在她深深的乳沟里,沉浸在她独特的体香中.那是一种结合了成熟女人强烈的体香和独特味道香水的香味.哦,我的......这香味让我感到头晕目眩~"
 
 
 
-    "At the same time, someone is unzipping my pants..."
+    "与此同时,有人正在解开我的裤子......"
 
 
 
     scene special_4_23 with tstmgr
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
-    e "Let aunty use my mouth and hands to... ..."
+    e "让阿姨用我的嘴和手来... ..."
 
 
 
     scene special_4_24 with tstmgr
 
-    "Lady Minna" "Nope, it’s not your turn yet~"
+    "明娜女士" "不,还没轮到你呢~"
 
 
 
-    e "What, how could you?"
+    e "什么,你怎么能这样?"
 
 
 
     scene special_4_25 with tstmgr
 
-    "Lady Minna" "This cock... is mine~"
+    "明娜女士""这根鸡巴...是我的~"
 
 
 
@@ -281,11 +282,11 @@ label Special_4:
 
 
 
-    "Oh... ... shit... ... This feels so amazing~~~"
+    "哦............该死.......这感觉太不可思议了~~~"
 
 
 
-    "Lady Minna" "We don’t... need her at all~ I can make you satisfied in every way you like~"
+    "明娜女士" "我们根本不......需要她~我可以用你喜欢的各种方式让你满意~"
 
 
 
@@ -295,7 +296,7 @@ label Special_4:
 
     scene special_4_27 with tstmgr
 
-    e "I’m not letting you have him alone~"
+    e "我不会让你独占他的"
 
 
 
@@ -303,55 +304,55 @@ label Special_4:
 
 
 
-    "Elisa pressed her breasts hard against Minna’s butt. Now my penis is experiencing the unparalleled pleasure that was brought by boobs, buttocks, and a milf’s pussy together."
+    "伊莉莎把她的乳房用力压在明娜的屁股上.现在我的肉棒正体验着胸部、屁股和小奶牛的骚穴一起带来的无与伦比的快感."
 
 
 
-    "Ah, shit, this is the service that a man can die for."
+    "啊,妈的,这就是一个可以让男人死心塌地的服务."
 
 
 
     scene special_4_28 with tstmgr
 
-    "My penis is now buried in those magnificent meat hills and damn... ... those oversized boobs and buttocks are making my penis look pathetically small."
+    "我的肉棒现在被埋在那些巨大的肉山里,该死的......那丰腴的胸部和臀部让我的鸡巴看起来小得可怜."
 
 
 
-    "It won’t survive for more than 2 minutes, not because it is weak, but because its enemies are just too damn strong."
+    "它活不过2分钟,不是因为它弱,而是因为它的敌人太他妈强了."
 
 
 
     scene special_4_29 with tstmgr
 
-    "Lady Minna" "Hmmmm... ... Wait, why am I feeling wet on my butt?"
+    "明娜女士" "嗯... ... ...... 等等,为什么我的屁股感觉湿漉漉的?"
 
 
 
     scene special_4_30 with tstmgr
 
-    "Lady Minna" "Shit, is that your... milk?"
+    "明娜女士" "那是你的......奶水吗?"
 
 
 
-    e "Uh-huh, and you are free to go away if you don’t want my milk to be all over your ass~"
+    e "嗯哼,如果你不想让我的牛奶沾满你的屁股,你可以赶快走开~"
 
 
 
     scene special_4_31 with tstmgr
 
-    "Lady Minna" "Well, I’m okay with a milk bath~"
+    "明娜女士""嗯,我蛮喜欢牛奶浴的~"
 
 
 
     scene special_4_32 with tstmgr
 
-    "Lady Minna" "And I want [P]’s milk on my ass too~"
+    "明娜女士" "同时我也想 [P]的牛奶也沾满我的屁股~"
 
 
 
     scene special_4_33 with tstmgr
 
-    "Oh dear, here they come... ..."
+    "哦,亲爱的,她们来了... ..."
 
 
 
@@ -379,15 +380,15 @@ label Special_4:
 
 
 
-    "Lady Minna" "What are you waiting for? I can’t be the only one moving~ Now move your milk bags up and down~"
+    "明娜女士" "你还在等什么?总不能只有我一个人在动吧~现在把你的奶袋甩起来~"
 
 
 
-    e "I thought you said you don’t need me at all~"
+    e "你不是说你根本不需要我吗~"
 
 
 
-    "Lady Minna" "Ah shut up~"
+    "明娜女士" "Ah 闭嘴~"
 
 
 
@@ -443,11 +444,11 @@ label Special_4:
 
 
 
-    "My penis is like a drowning man struggling in the giant waves, trying to hold on so hard but its fate is already doomed."
+    "我的鸡巴就像一个在巨浪中挣扎的溺水者,极力想坚持下去,但它的命运早已经注定."
 
 
 
-    player "I... I’m cumming... ..."
+    player "我...我.要射了... ..."
 
 
 
@@ -501,7 +502,7 @@ label Special_4:
 
 
 
-    "I had a great orgasm under the siege of boobs and buttocks."
+    "在奶子和屁股的围攻下,我狠狠的射了出来."
 
 
 
@@ -513,35 +514,35 @@ label Special_4:
 
     scene special_4_38 with tstmgr
 
-    "Lady Minna" "Huh~"
+    "明娜女士" "Huh~"
 
 
 
     scene special_4_39 with tstmgr
 
-    "Lady Minna" "It looks like you just had a great round~ So, [P], which of us won?"
+    "明娜女士" "看起来你刚刚经历了一个很棒的回合~那么,[P],我们谁赢了?"
 
 
 
-    player "I... ... ... ..."
+    player "我... ... ... ..."
 
 
 
-    "Damn it, I can’t decide the winner between them, otherwise I will definitely piss the other one off. I’d rather mess with a tiger than a mature woman!"
+    "该死的,我不能在她们之间决定胜负,否则我一定会把另一方惹毛的.我宁愿去惹一只老虎,也不愿去惹一个成熟的女人!"
 
 
 
-    "But... if there is no winner between them... ..."
+    "但是......如果她们之间没有赢家......"
 
 
 
     scene special_4_40 with tstmgr
 
-    "Lady Minna" "Couldn’t decide yet? Alright~ let’s begin a new round~"
+    "明娜女士" "还不能决定吗?那好吧~让我们开始新一轮的比赛~"
 
 
 
-    player "Wait, I... ..."
+    player "等等, 我... ..."
 
 
 
@@ -551,7 +552,7 @@ label Special_4:
 
 
 
-    "The next thing I know, was that I got stripped naked and pushed on the bed."
+    "我知道的下一件事是,我被脱光了衣服,给推到了床上.."
 
 
 
@@ -561,13 +562,13 @@ label Special_4:
 
 
 
-    "Lady Minna was at the top of me and got my dick tightly in her crotch. I’m now totally her prey... ..."
+    "明娜女士骑在我身上,把我的鸡巴紧紧地夹在她的阴部.我现在完全成了她的猎物......"
 
 
 
     scene special_4_42 with tstmgr
 
-    "Lady Minna" "I’ll squeeze everything out of your cock~"
+    "明娜女士" "我要把你的牛奶全部挤出来"
 
 
 
@@ -579,11 +580,11 @@ label Special_4:
 
 
 
-    "Oh... hhhh... ... Lady Minna is really a master of cowgirl style~ This feels even more amazing than I thought!~"
+    "哦......呵.......明娜女士真的是一位了不起的女骑士~这感觉比我想象的还要神奇!~"
 
 
 
-    "Lady Minna" "Can you feel that? Mature women like me can control our vaginal meat and squeeze anything in our pussy in the way we want~"
+    "明娜女士" "你能感觉到吗?像我这样的成熟女性可以控制我们的穴肉,以我们想要的方式挤压阴道里的任何东西~"
 
 
 
@@ -591,23 +592,23 @@ label Special_4:
 
 
 
-    "Lady Minna" "Oh, you can’t even do that, Elisa? You must had a poor sex life during the past two decades~"
+    "明娜女士" "哦,你连这个都做不到,伊莉莎?在过去的二十年里,你的性生活一定很糟糕~"
 
 
 
-    e "Tell me about it... ..."
+    e "告诉我吧......"
 
 
 
-    "Lady Minna" "I guess... I will take the free win... ... I... ... wait... ..."
+    "明娜女士" "我想... 我赢得很简单... ... 我......等等......"
 
 
 
-    "Lady Minna" "This cock... is... ..."
+    "明娜女士" "这....鸡巴...这是......"
 
 
 
-    "Lady Minna" "Ohhhhhhhhhh~~~~~"
+    "明娜女士" "Ohhhhhhhhhh~~~~~"
 
 
     stop sound
@@ -617,35 +618,35 @@ label Special_4:
 
 
 
-    "Lady Minna just had a sudden, mild orgasm, but she still didn’t stop her moves. Well, that’s professional."
+    "明娜女士刚刚突然有了一个轻微的高潮,但她仍然没有停止她的动作.嗯,这很专业."
 
 
 
-    e "Humph~ It seems like you won’t get that free win today~"
+    e "哼~看来你今天赢不了~"
 
 
 
-    "Lady Minna" "My husband... never... reaches that spot... ... my most sensitive spot... ... ohhhhhh~~~"
+    "明娜女士" "我的丈夫......从来没有......进去过那个地方......我最敏感的地方......哦~~~~"
 
 
 
-    "Lady Minna" "This cock... has magic... ..."
+    "明娜女士" "这个鸡巴......有魔力......"
 
 
 
-    "Lady Minna" "I’m gonna be addicted to this~~~ Ohhhhhhhh~~~ I begin to envy my daughter~~~"
+    "明娜女士" "我要沉迷于鸡巴了~~~ Ohhhhhhhh~~~ 我开始羡慕我的女儿了~~~"
 
 
 
-    "Lady Minna" "It is so good~~ so so good~~~ how could it be so good~~~~"
+    "明娜女士" "这太棒了~~ 太~太了不起了~~~ 怎么可以那么厉害~~~~"
 
 
 
-    "Lady Minna still struggled to control her vaginal meat, trying to make me cum and save her face, but the harder she is trying, the more pleasure she gets, the more orgasms she has."
+    "明娜女士仍在努力控制她的穴肉,想要让我射精,借此挽回面子,但她越是努力,她得到的快感就越多,她的高潮次数也就越多."
 
 
 
-    "Lady Minna" "This is crazy~~~~~~~ I... I... ..."
+    "明娜女士" "这太疯狂了~~~~~~~ 我... 我... ..."
 
 
     stop sound
@@ -653,11 +654,11 @@ label Special_4:
     play sound cumshot
     $ flashlight()
 
-    "Lady Minna" "Ohhhhhhhhhhhhhhhhh!!!~~~~~~~"
+    "明娜女士" "Ohhhhhhhhhhhhhhhhh!!!~~~~~~~"
 
 
 
-    "Lady Minna and I came at the same time."
+    "明娜女士和我一起高潮了."
 
 
 
@@ -667,37 +668,37 @@ label Special_4:
 
 
 
-    "Lady Minna" "I saw... stars in my eyes... ..."
+    "明娜女士" "我... 我.实在是. .太舒服了.."
 
 
 
     scene special_4_47 with tstmgr
 
-    e "I would call that a pathetic failure, Lady Minna. You were dominated by [P]~"
+    e "我只能说这是可悲的失败,明娜女士.你完全被[P]支配了~"
 
 
 
-    "Lady Minna" "You won’t do any better than me... ..."
+    "明娜女士" "你不可能比我做得更好......"
 
 
 
-    e "Well, that’s not important anymore~ The important thing is, you won’t be the winner today~"
+    e "好吧,这已经不重要了~重要的是,你不会是今天的赢家~"
 
 
 
     scene special_4_48 with tstmgr
 
-    e "So now I’ll just... enjoy my round... ..."
+    e "所以,我现在只需要... 享受...这一切..."
 
 
 
     scene void with tstmgr
 
-    player "Elisa... ..."
+    player "伊莉莎... ..."
 
 
 
-    e "[P]~ I hope your penis is still hard~"
+    e "[P]~ 我希望你的鸡巴在送那个疯女人高潮后,依然能够满足我~"
 
 
 
@@ -707,31 +708,31 @@ label Special_4:
 
 
 
-    "Here we go again, another mature woman is sitting on the top of me and trying to make me cum."
+    "又来了,又是一个成熟的女人坐在我身上,想让我射出来."
 
 
 
-    "Actually I’ve thought about acting more aggressively and taking control of this situation, but what’s the point of doing that? I still wouldn’t be able to decide the winner between them anyway."
+    "其实我也想过表现得更积极一些,控制住这个局面,但这样做有什么意义呢?反正我还是无法决定她们之间的胜负."
 
 
 
-    "So right now I guess I’ll just lie down and... enjoy their service in a passive way. It feels really relaxed~~"
+    "所以现在我想我就躺好,......以被动的方式享受她们的服务.感觉真的很轻松~~"
 
 
 
-    e "I’m... not like that arrogant bitch. I know exactly about... what you are capable of, sweetie... ..."
+    e "我...不像那个傲慢的婊子.我很清楚......你的能力,亲爱的......"
 
 
 
-    e "You can evolve yourself by every sex you have. Your body will automatically memorize the girl’s weakness so you can conquer her easily the next time you have sex with her."
+    e "你可以通过你的每一次性爱来进化自己.你的身体会自动记住女孩的弱点,这样你就可以在下次和她做爱时轻松征服她."
 
 
 
-    e "I... ... ohhhhh... ... I remember you were just an energetic kid with immature sex skills when we had sex for the first time, but now... ..."
+    e "我...... ...哦...... ....我记得我们第一次做爱时,你只是一个精力充沛的孩子,不成熟的性爱技巧,但现在......"
 
 
 
-    e "Look... what you have become~ a harem master~~~"
+    e "看......你变成什么样子了~~后宫的主人~~~"
 
 
     stop sound
@@ -741,35 +742,35 @@ label Special_4:
 
 
 
-    e "Awwwww~~ I can’t... control my move~~~~~~"
+    e "Awwwww~~我不能......控制我的动作~~~~~~"
 
 
 
-    e "No woman... can keep a conscious mind during sex with you~"
+    e "没有女人......能在和你做爱时保持头脑清醒~"
 
 
 
-    "Elisa’s boobs are waving violently, it made her milk spill all on my body and even my mouth, damn that’s so lewd~"
+    "伊莉莎的淫乳剧烈的摆动,让她的乳汁全部洒在我的身上,甚至我的嘴里,该死的,太淫荡了~"
 
 
 
-    e "I... am not as experienced as Lady Minna... ... I can’t control my vaginal meat... ..."
+    e "我......没有明娜女士那样的经验.......我无法控制我的穴肉......"
 
 
 
-    e "But... ... I’ll try my best to serve~~~"
+    e "但是.......我会尽力服侍你的,我的女婿~我的丈夫~~我的主人~~~"
 
 
 
-    player "Elisa... ..."
+    player "伊莉莎...你..."
 
 
 
-    e "Awwww~~ I... I can feel it~~ your quivering~~~ Ohhhhhhhh~~~~"
+    e "Awwww~~ 我... 我能感觉到它~~鸡巴的颤抖~~~ Ohhhhhhhh~~~~"
 
 
 
-    e "I must have... served you well~~~"
+    e "我一定要......把你伺候好了~~~"
 
 
     stop sound
@@ -781,43 +782,43 @@ label Special_4:
 
 
 
-    "Ohhhh... ... mature ladies... I love mature ladies~~~"
+    "Ohhhh... ... 熟女们... 我太爱这些熟女了~~~"
 
 
 
-    "I ejaculated everything I got in Elisa's horny pussy..."
+    "我把所有的东西都射在了伊莉莎那淫荡的骚穴里..."
 
 
 
     scene special_4_52 with tstmgr
 
-    "My balls go empty after three times of orgasm in a roll. It would be a problem if the ladies look for another round, but... ..."
+    "我的蛋蛋在滚滚而来的三次高潮后就空了.如果女士们还想要的话,这会是一个问题,但... ..."
 
 
 
     scene special_4_53 with tstmgr
 
-    "Luckily... ..."
+    "真幸运... ..."
 
 
 
     scene special_4_54 with tstmgr
 
-    "They are all exhausted now~"
+    "她们现在都已经筋疲力尽了~"
 
 
 
     scene special_4_55 with tstmgr
 
-    e "Guess... there won’t be a winner tonight... ..."
+    e "我猜... 今晚不会有赢家... ..."
 
 
 
-    e "But Lady Minna won’t give up. You need to... be prepared... ... sweetie... ..."
+    e "但明娜女士不会放弃的.你需要......做好准备...... ...亲爱的... ...."
 
 
 
-    player "I... I will... ..."
+    player "我... 我会的... ..."
 
 
 

@@ -20,47 +20,47 @@ label A_daily_15.end:
 
 label A_daily_15.line_c:
 
-    "*The following plot is from Vera’s perspective*"
+    "*下面的情节来自薇拉的视角*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    g "Good morning, Vera... ..."
+    g "早上还,薇拉... ..."
 
 
 
     scene a_daily15_2 with tstmgr
 
-    a "Oh, hi, Uno~ Why are you up so early today?"
+    a "哦,嗨,乌喏,你今天怎么起得这么早??"
 
 
 
     scene a_daily15_3 with tstmgr
 
-    g "*Yawning* Ah... ... hh... ...hhh... ..."
+    g "*打哈欠* 啊... ... hh... ...hhh... ..."
 
 
 
     scene a_daily15_4 with tstmgr
 
-    g "I just got up to pee... ... Will... go back to my bed right away."
+    g "我只是上个厕所而已... 马... 马......上就回去睡了."
 
 
 
-    a "Oh, do you want any breakfast?"
+    a "哦,你想吃点什么早餐吗?"
 
 
 
     scene a_daily15_5 with tstmgr
 
-    g "No, I’m fine, mommy, thank you for asking~"
+    g "不,我很好,老妈,谢谢你的关心~."
 
 
 
     scene a_daily15_6 with tstmgr
 
-    a "Mommy... ... I am not that old!~"
+    a "老妈.......我还没那么老! ~"
 
 
 
@@ -68,31 +68,31 @@ label A_daily_15.line_c:
 
 
 
-    g "I’m sure you will be a great mommy after you have a kid~"
+    g "我相信在你有了孩子之后,你会成为一个伟大的母亲~."
 
 
 
     scene a_daily15_7 with tstmgr
 
-    a "A... kid... ..."
+    a "一个... 孩子... ..."
 
 
 
-    g "How can you get up so early everyday and still be full of energy? Life is so not fair~"
+    g "你怎么能每天都起得这么早,而且还精力充沛?人生是如此的不公平~."
 
 
 
-    g "See you tonight, have a good day~"
+    g "今晚见,祝你有个愉快的一天~."
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "You have a good dream~"
+    a "好梦~"
 
 
 
-    "Uno left the livingroom and went to sleep again."
+    "乌诺离开客厅,又去睡觉了."
 
 
 
@@ -104,7 +104,7 @@ label A_daily_15.line_c:
 
     scene a_daily15_10 with tstmgr
 
-    a "(Hummm~ It’s about time to wake [P] up~)"
+    a "(嗯~是时候把[P]叫醒了~.)"
 
 
 
@@ -116,19 +116,19 @@ label A_daily_15.line_c:
 
     scene a_daily15_12 with tstmgr
 
-    a "(Wait a second... ... I feel... ...)"
+    a "(等一下......我觉得......)"
 
 
 
     scene a_daily15_13 with tstmgr
 
-    a "(Ewwwwww... ... I... I think I’m going to vomit... ...)"
+    a "(Ewwwwww... ...我...我想我要吐了... ...)"
 
 
 
     scene void with tstmgr
 
-    "Vera ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "薇拉以最快的速度跑向厕所,甚至忘了关掉煤气炉......"
 
 
 
@@ -144,49 +144,49 @@ label A_daily_15.line_c:
 
     scene a_daily15_14 with dissolve
 
-    a "*Left the toilet* Ah... ... This is strange, it never happened before."
+    a "*离开厕所* 啊... ... 真奇怪,以前从没发生过这种症状."
 
 
 
     scene a_daily15_15 with tstmgr
 
-    a "Do I have a stomach problem?"
+    a "我是得了胃病吗?"
 
 
 
-    a "Or... ... ... ..."
+    a "或者... ... ... ..."
 
 
 
-    a "Was that actually a morning sickness?"
+    a "这实际上是一种晨昏颠倒的现象吗?"
 
 
 
     scene a_daily15_16 with tstmgr
 
-    a "I... didn’t have my period this month either."
+    a "我......这个月也没有来月经."
 
 
 
-    a "Am I... pregnant?"
+    a "我是不是......怀孕了?"
 
 
 
     scene a_daily15_5 with flashback
 
-    g "I’m sure you will be a great mommy after you have a kid~"
+    g "我相信在你有了孩子之后,你会成为一个伟大的母亲~."
 
 
 
     scene a_daily15_16 with flashback
 
-    a "Oh dear... ... ... ..."
+    a "哦,亲爱的... ... ... ..."
 
 
 
     scene a_daily15_17 with tstmgr
 
-    a "Am I going to be a mother?"
+    a "我这就将成为一个母亲了吗??"
 
 
 
@@ -198,75 +198,75 @@ label A_daily_15.line_c:
 
 label A_daily_15.line_d:
 
-    "*The following plot is from Vera’s perspective*"
+    "*下面的情节来自维拉的视角*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    "BnB Guest" "Good morning, Vera... ..."
+    "民宿客人""早上好,薇拉......... ..."
 
 
 
     scene a_daily15_2 with tstmgr
 
-    a "Oh, hi, Mrs. Smith~ The breakfast is about ready~"
+    a "哦,你好,史密斯夫人,早餐已经准备好了."
 
 
 
-    "BnB Guest" "Ah, I really would like to have it, but I’m going to an interview now, so... ..."
+    "民宿客人" "啊,我很期待这份早餐,但我现在要去参加一个面试,所以......."
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "It’s okay~ Good luck with the interview. You can do it!"
+    a "没关系~祝你面试成功.你能做到的!"
 
 
 
-    "BnB Guest" "I will, thanks..."
+    "民宿客人" "我会的,谢谢..."
 
 
 
-    "BnB Guest" "... ... ... ..."
+    "民宿客人" "... ... ... ..."
 
 
 
-    "BnB Guest" "I wish I could have a mom like you... ..."
+    "民宿客人" "我希望我能有一个像你一样的妈妈... ..."
 
 
 
     scene a_daily15_6 with tstmgr
 
-    a "Huh?"
+    a "蛤??"
 
 
 
-    "BnB Guest" "Oh, I mean... you are such a virtuous woman, I’ve only been here for a few days but you have already given me a feeling of being cared like a family... ..."
+    "民宿客人" "哦,我是说......你是一个如此贤惠的女人,我只在这里呆了几天,但你已经给了我一种像家人一样被关心的感觉.... ..."
 
 
 
-    "BnB Guest" "I’m sure you will be a great mom after you have a kid~"
+    "民宿客人" "我相信在你有了孩子之后,你会成为一个伟大的母亲.~"
 
 
 
     scene a_daily15_7 with tstmgr
 
-    a "A... kid... ..."
+    a "一个... 孩子... ..."
 
 
 
-    "BnB Guest" "Anyway, see you tonight, Vera, have a good day~"
+    "民宿客人" "总之,今晚见,薇拉,祝你有个愉快的一天~"
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "You too, Mrs. Smith~"
+    a "你也是,史密斯夫人~"
 
 
 
-    "The lady guest then left the house for the interview... ..."
+    "这位女客人随后离开了,去接受采访.... ..."
 
 
 
@@ -278,7 +278,7 @@ label A_daily_15.line_d:
 
     scene a_daily15_10 with tstmgr
 
-    a "(Hummm~ It’s about time to wake [P] up~)"
+    a "(嗯~是时候把[P]叫醒了~)"
 
 
 
@@ -290,19 +290,19 @@ label A_daily_15.line_d:
 
     scene a_daily15_12 with tstmgr
 
-    a "(Wait a second... ... I feel... ...)"
+    a "(等一下... ... 我觉得... ...)"
 
 
 
     scene a_daily15_13 with tstmgr
 
-    a "(Ewwwwww... ... I... I think I’m going to vomit... ...)"
+    a "(Ewwwwww... ...我...我想我要吐了... ...)"
 
 
 
     scene void with tstmgr
 
-    "Vera ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "薇拉以最快的速度跑向厕所,甚至忘了关掉煤气炉...."
 
 
 
@@ -316,49 +316,49 @@ label A_daily_15.line_d:
 
     scene a_daily15_14 with dissolve
 
-    a "*Left the toilet* Ah... ... This is strange, it never happened before."
+    a "离开厕所* 啊... ...这很奇怪,它以前从未发生过."
 
 
 
     scene a_daily15_15 with tstmgr
 
-    a "Do I have a stomach problem?"
+    a "我是得了胃病吗?"
 
 
 
-    a "Or... ... ... ..."
+    a "或者... ... ... ..."
 
 
 
-    a "Was that actually a morning sickness?"
+    a "这实际上是一种晨昏颠倒的现象吗?"
 
 
 
     scene a_daily15_16 with tstmgr
 
-    a "I... didn’t have my period this month either."
+    a "我......这个月也没有来月经."
 
 
 
-    a "Am I... pregnant?"
+    a "我是不是......怀孕了?"
 
 
 
     scene a_daily15_6 with flashback
 
-    "BnB Guest" "I’m sure you will be a great mom after you have a kid~"
+    "民宿客人" "我相信在你有了孩子之后,你会成为一个伟大的母亲.~"
 
 
 
     scene a_daily15_16 with flashback
 
-    a "Oh dear... ... ... ..."
+    a "哦,亲爱的... ... ... ..."
 
 
 
     scene a_daily15_17 with tstmgr
 
-    a "Am I really going to be a mother?"
+    a "我真的会成为一个母亲吗?"
 
 
 

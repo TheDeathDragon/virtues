@@ -1,8 +1,8 @@
-define gui.about = _('''Patreon:  {a=https://www.patreon.com/NoMeme}https://www.patreon.com/NoMeme{/a}
-Discord:   {a=https://discord.gg/F5wXs8C}https://discord.gg/F5wXs8C{/a}
-Email:     {a=mailto:nomemestudio@outlook.com}NoMemeStudio@Outlook.com{/a}
+define gui.about = _('''此汉化由@夜尽天明,@克鲁鲁,仅供交流学习使用 
+{a=https://jq.qq.com/?_wv=1027&k=wpKhXeGE}点击加群{/a}
+
 {size=-4}
-We would love to hear your feedbacks, suggestions and bug reports.{/size}''')
+加群可以第一时间获取最新版本汉化哦～{/size}''')
 
 define gui.about1 = _('''{color=#ffcd5c}V.I.R.T.U.E.S is a free game. The official download link is on our Patreon and Discord. Downloading the game anywhere else may be risky.{/color}''')
 

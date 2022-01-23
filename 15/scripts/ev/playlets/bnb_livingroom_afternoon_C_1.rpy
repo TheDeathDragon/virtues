@@ -2,27 +2,27 @@ label bnb_livingroom_afternoon_C_1:
 
     scene bnb_livingroom_afternoon_c_1_1 with tstmgr
 
-    player "Hey, Theo, I bought some bananas, do you want one?"
+    player "Hey,狄奥,我买了一些香蕉,你想要一个吗?"
 
 
 
     scene bnb_livingroom_afternoon_c_1_2 with tstmgr
 
-    c "I'm in the middle of something, can you just put one in my cleavage?"
+    c "我正忙着呢,你能帮我在乳沟里放一个吗?"
 
 
 
-    player "Put it in your... ... huh?"
+    player "放在你的......huh?"
 
 
 
     scene bnb_livingroom_afternoon_c_1_3 with tstmgr
 
-    player "You mean, like this?"
+    player "你是说像这样?"
 
 
 
-    c "Thanks~"
+    c "谢谢~"
 
 
 
@@ -44,11 +44,11 @@ label bnb_livingroom_afternoon_C_1:
 
 
 
-    player "Shit, it's a fucking banana, what the fuck are you doing with it?"
+    player "Shit,这是根该死的香蕉,你拿它干什么?"
 
 
 
-    "Ahhh... I'd better go before I start to be jealous at that banana, that will be pathetic."
+    "Ahhh...在我开始嫉妒那个香蕉之前,我最好还是走吧,那太可怜了."
 
 
 

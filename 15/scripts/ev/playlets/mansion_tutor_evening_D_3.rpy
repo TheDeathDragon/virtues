@@ -2,11 +2,11 @@ label mansion_tutor_evening_D_3:
 
     scene mansion_tutor_evening_d_3_1 with tstmgr
 
-    d "[P], I want to go to a movie... ..."
+    d "[P],我想去看电影......"
 
 
 
-    player "You can go nowhere until you understand this concept."
+    player "除非你理解了这个概念,否则你哪也不能去."
 
 
 
@@ -16,19 +16,19 @@ label mansion_tutor_evening_D_3:
 
     scene mansion_tutor_evening_d_3_2 with tstmgr
 
-    d "I don't care! I don't care! I want to go to a movie!"
+    d "我不在乎!我不在乎!我想去看电影!"
 
 
 
     scene mansion_tutor_evening_d_3_3 with tstmgr
 
-    player "Are you trying to provoke me?"
+    player "你想激怒我吗?"
 
 
 
     scene mansion_tutor_evening_d_3_4 with tstmgr
 
-    d "Are you going to slap my butt again? Are you going to slap my butt again?"
+    d "你又要打我屁股吗?你又要打我屁股吗?"
 
 
 
@@ -38,21 +38,21 @@ label mansion_tutor_evening_D_3:
 
 
 
-    player "Why would I do that?"
+    player "我为什么要这么做?"
 
 
 
-    d "Please~~~"
+    d "拜托~~~"
 
 
 
-    player "Stop, concentrating on your homework, or I will be pissed for real."
+    player "停,专心做作业,否则我就真的生气了."
 
 
 
     scene mansion_tutor_evening_d_3_6 with tstmgr
 
-    d "But... ..."
+    d "但是......"
 
 
 

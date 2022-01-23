@@ -2,21 +2,21 @@ label d5_3:
 
     scene library_background with tstmgr
 
-    narrator "Afternoon, In the library."
+    narrator "下午,在图书馆."
 
-    narrator "Senning is helping me go through last day's lecture slides which I missed in class while sleeping."
+    narrator "森柠正在帮我复习前一天的讲课幻灯片,这是我睡觉时在课堂上错过的.."
 
     scene b_library_smile with tstmgr
 
-    b "Is there anything in my note you still not understand?"
+    b "我的备注里还有什么你不明白的吗?"
 
-    player "No, I'm fine now. Thank you, Senning, you are such a good teacher."
+    player "没了.谢谢你,森柠,你真是个好老师."
 
     scene library_background with tstmgr
 
-    narrator " My phone suddenly started to ring. It's a call from Jake."
+    narrator "我的电话突然响了起来.是杰克打来的电话."
 
-    player "Sorry, Sen, I have to take this."
+    player "抱歉,森,我得接这个电话."
 
     scene b_library_normal2 with tstmgr
 
@@ -24,57 +24,57 @@ label d5_3:
 
     scene library_background with tstmgr
 
-    player "Hi, Jake? How's it work? Did you find anything useful?"
+    player "嗨,杰克?如何了?你发现什么有用的东西了吗?"
 
-    "Jake" "Of course I did. I found Vera's neighbor, that Jennifer, bought her some drinks, then she told me everything she knows."
+    "杰克""我当然发现了.我找到薇拉的邻居,詹妮弗,给她买了一些饮料,然后她把她知道的一切都告诉了我."
 
-    "Jake" "According to her, that Vera was from a poor countryside family. She came to this city alone last month, trying to make a better life."
+    "杰克""据她说,薇拉来自一个贫穷的农村家庭.上个月她独自来到这个城市,想要过上更好的生活."
 
-    "Jake" "She now has two jobs to do every day, morning at a cafe as a waitress, afternoon at a clothing store as a salesperson. And as far as I know, she has just found another job at Uzi Bar, and she will be there tonight for her first day at work."
+    "杰克""现在她每天有两份工作要做,上午在咖啡馆当服务员,下午在服装店当售货员.据我所知,她刚刚在Uzi酒吧找到了另一份工作,今晚她将第一天上班."
 
-    player "What? Uzi Club?Why would she go there?"
+    player "什么?Uzi酒吧吗?她为什么要去那里?"
 
-    "Jake" "Eh, I don't know, man. It may be because of the wage. You know, that pub pays a considerable amount of money to female employees."
+    "杰克""Eh,我不知道,伙计.可能是因为工资的原因.你知道,那家酒吧付给女雇员一大笔钱."
 
-    player "I see..."
+    player "我明白了..."
 
-    narrator "This is not good, because there is a reason for Uzi Club offering high wage to girls."
+    narrator "这并不好,因为Uzi酒吧给女孩提供高工资是有原因的."
 
-    narrator "I need to do something about it."
+    narrator "我需要做点什么."
 
-    player "Alright, bro, I will be there tonight to check her out. Thank you."
+    player "好吧,兄弟,我今晚会去看她的.谢谢你."
 
-    "Jake" "Nothing. You take care."
+    "杰克""小事儿.你看着办."
 
-    narrator "I hung up the phone."
+    narrator "我挂掉电话."
 
-    player "Sorry, Senning, where were we?"
+    player "抱歉,森柠,我们说到哪儿了?"
 
     scene b_library_angry with tstmgr
 
-    b "(Looking angry)... ... ... ..."
+    b "(看起来生气)............"
 
-    player "Eh, what's wrong?"
+    player "呃,怎么了?"
 
-    b "What are you going to do tonight?"
+    b "你今晚打算做什么?"
 
-    player "Eh, it's not like what you think."
+    player "Eh,不是你想的那样."
 
-    b "You just had a hangover yesterday, and now you are going to a nightclub again? Haven't you learned anything?"
+    b "你昨天宿醉了,今晚又要去夜店?你还没长记性吗?"
 
-    b "You are just hopeless! I'm leaving."
+    b "你真是没救了!我要走了."
 
-    player "Hey, let me explain... Damn..."
+    player "Hey,听我解释...该死..."
 
     scene library_background with tstmgr
 
-    narrator "She left angrily."
+    narrator "她生气的走了."
 
-    narrator "Well, this is Senning. She is like a sheep in most cases, but she would become a lion when she gets angry."
+    narrator "这就是森柠.她在大多数情况下像一只绵羊,但是当她生气的时候,她会变成一只狮子."
 
-    narrator "I pissed two girls off in the last two days. What a genius I am."
+    narrator "两天的时间我就把两个女孩惹毛了.我真是个天才."
 
-    narrator "Anyway, now the most important thing is to find Vera tonight. And let's see if I can do something to make Senning cool down tomorrow. "
+    narrator "无论如何,现在最重要的是今晚找到薇拉.我们来看看明天能不能做点什么让森柠消消气."
 
     scene void with tstmgr
 

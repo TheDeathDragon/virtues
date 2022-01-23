@@ -2,29 +2,29 @@ label downtown_latenight_B_1:
 
     scene downtown_latenight_b_1_1 with tstmgr
 
-    "Senning and I are walking along the street..."
+    "森宁和我沿着街道走着..."
 
 
 
-    player "Sen... It’s glad to see that you are okay with dressing like this on the street now~"
+    player "森...很高兴看到你现在能在街上穿成这样了~"
 
 
 
     scene downtown_latenight_b_1_2 with tstmgr
 
-    b "There are... not many people on the street at such a late night..."
+    b "因为...已经很晚了,街上没有多少人..."
 
 
 
-    b "Besides, you are holding my hand~ so there is nothing I need to worry about~"
+    b "而且,你牵着我的手,所以我没什么好担心的~"
 
 
 
-    b "Promise me you will not loose my hand~"
+    b "答应我,你不会松开我的手~"
 
 
 
-    player "I won't~"
+    player "我不会的~"
 
 
 
@@ -34,7 +34,7 @@ label downtown_latenight_B_1:
 
 
 
-    b "*Murmuring* Love you~"
+    b "*喃语*爱你~"
 
 
 

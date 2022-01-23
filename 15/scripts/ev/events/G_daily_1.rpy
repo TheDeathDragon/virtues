@@ -5,55 +5,55 @@ label G_daily_1:
 
     player "Hmm?"
 
-    "I arrived at home and heard footsteps coming from the kitchen so I decide to head over to say hi."
+    "我刚到家就听到厨房里传来脚步声,所以我决定去那里打个招呼."
 
-    "And I saw... ..."
+    "然后我看见......"
 
     scene g_daily1_1 with longdissolve
 
-    g "Good morning, [P]."
+    g "早上好,[P]."
 
-    player "Holy shit..."
+    player "天呐..."
 
-    player "Why are you dressed like this in the public area?"
+    player "你为什么在公共场所穿成这样?"
 
-    g "Why shouldn't I?"
+    g "为什么我不能?"
 
     scene g_daily1_2 with tstmgr
 
-    player "This is... oversexy."
+    player "这真是...太性感了."
 
     "... ... ... ..."
 
-    player "You'll drive our male guests crazy wearing this around the house."
+    player "你这身睡衣甚至会让柳下惠都把持不住."
 
     scene g_daily1_3 with tstmgr
 
-    g "I would take that as a praise. Thank you."
+    g "我认为这是一种赞美.谢谢你."
 
-    player "Thanks is not enough..."
+    player "仅仅感谢是不够的..."
 
     scene g_daily1_4 with tstmgr
 
-    "I boldly grabbed her tits in my hands and enjoyed the heavenly softness."
+    "我大胆地把她的乳房抓在手里,享受着这天赐的温柔."
 
-    "30 seconds of breasts-touching everyday, God, I love this deal."
+    "每天30秒胸部接触,上帝,我喜欢这."
 
     scene g_daily1_5 with tstmgr
 
-    g "Okay, take your time. "
+    g "Okay,把握好你的时间."
 
     scene g_daily1_6 with tstmgr
 
     g "... 26, 25, 24..."
 
-    "And she started to count."
+    "她开始数数."
 
     scene g_daily1_7 with tstmgr
 
     g "... 14, 13, 12..."
 
-    "Well, this is disturbing, but these immaculate breasts are worth it."
+    "倒计时令人不安,但我习惯了."
 
     scene g_daily1_6 with tstmgr
 
@@ -61,23 +61,23 @@ label G_daily_1:
 
     scene g_daily1_5 with tstmgr
 
-    g "Okay, time is up."
+    g "Okay,时间到了."
 
     scene g_daily1_8 with tstmgr
 
     player "... ... ... ..."
 
-    player "Just... dress in something less revealing, okay?"
+    player "只是...别穿得那么暴露,好吗?"
 
     scene g_daily1_9 with tstmgr
 
-    g "You are, worring about me."
+    g "你在为我担心."
 
-    g "Thank you for that."
+    g "谢谢."
 
-    g "I will be careful, the next time."
+    g "下次我会小心的."
 
-    player "Well... Good to hear."
+    player "Well...很高兴听到你这么说."
 
     scene void with tstmgr
 

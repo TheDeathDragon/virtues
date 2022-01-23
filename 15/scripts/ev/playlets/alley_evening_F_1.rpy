@@ -2,11 +2,11 @@ label alley_evening_F_1:
 
     scene alley_evening_f_1_1 with tstmgr
 
-    f "Strange. Why did you come out and attack me all of a sudden? I don't even know you."
+    f "奇怪.你为什么突然袭击我?我都不认识你."
 
 
 
-    "Thug" "I... ... I'm sorry... ..."
+    "暴徒""我......我很抱歉......"
 
 
 
@@ -16,11 +16,11 @@ label alley_evening_F_1:
 
 
 
-    f "Can you call this sir an ambulance? I think I might just broke his jaw by accident."
+    f "你能给这位先生叫辆救护车吗?我想我可能不小心把他的下巴给打烂了."
 
 
 
-    player "Ehh... ... I'd better call the police first."
+    player "Ehh......我最好先报警."
 
 
 

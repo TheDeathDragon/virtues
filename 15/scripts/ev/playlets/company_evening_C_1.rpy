@@ -6,25 +6,25 @@ label company_evening_C_1:
 
 
 
-    "Theodora is still working while everyone else had gone home."
+    "其他人都回家了,狄奥多拉还在工作."
 
 
 
     scene company_evening_c_1_2 with tstmgr
 
-    c "Hmm? Why are you still here?"
+    c "Hmm?你怎么还在这?"
 
 
 
-    player "I... ... ... ..."
+    player "我............"
 
 
 
-    c "Nevermind, since you are here, why don't you join me and do some extra works?"
+    c "算了,既然你来了,为什么不跟我一起做些额外的工作呢?"
 
 
 
-    player "Will I get extra paid?"
+    player "我能得到额外的报酬吗?"
 
 
 
@@ -38,7 +38,7 @@ label company_evening_C_1:
 
 
 
-    player "Fine... ..."
+    player "好吧......"
 
 
 

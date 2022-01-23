@@ -3,35 +3,35 @@ label A_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight..."
+    "今晚晚些时候..."
 
 
 
-    "Vera and I have arrived home together from her workplace."
+    "薇拉和我一起从她工作的地方回到家"
 
 
 
     scene a_train_inti_1_1 with dissolve
 
-    player "Can I get the chance to spend the night with you?"
+    player "我能有机会和你共度今夜吗??"
 
 
 
-    a "I... I’d love to, but I’m so tired today, sorry... ... I’ll see you tomorrow."
+    a "我...我很想,但是我今天很累,对不起...明天见."
 
 
 
-    player "Oh, okay, have a good sleep."
+    player "Oh,okay,好好睡一觉."
 
 
 
     scene a_train_inti_1_2 with tstmgr
 
-    a "Thank you~"
+    a "谢谢你~"
 
 
 
-    a "Now I need to go to the toilet first and then have a quick shower before going to bed..."
+    a "现在我需要先去上厕所,然后在睡觉前快速冲个澡..."
 
 
 
@@ -41,7 +41,7 @@ label A_train_inti_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
@@ -49,11 +49,11 @@ label A_train_inti_1:
 
 
 
-    player "Vera, you have been in the toilet for more than 20 minutes, are you alright?"
+    player "薇拉,你在厕所里呆了20多分钟了,你还好吗?"
 
 
 
-    "She didn’t respond."
+    "她没有回应我."
 
 
 
@@ -61,37 +61,37 @@ label A_train_inti_1:
 
 
 
-    "I decided to open the door of the toilet myself and check what happened in there."
+    "我决定自己打开厕所的门,看看里面发生了什么."
 
 
 
-    "And I see..."
+    "然后我看见..."
 
 
 
     scene a_train_inti_1_3 with dissolve
 
-    a "*Slightly snoring* Zzzzz... ... Zzz... ... Zzz... ..."
+    a "*轻微的打鼾*Zzzzz......Zzz......Zzz......"
 
 
 
-    player "Shit, are you okay, Vera?"
+    player "Shit,你还好吗,薇拉?"
 
 
 
     scene a_train_inti_1_4 with tstmgr
 
-    a "*Opening eyes with difficulties* [P]... ... ... ..."
+    a "*艰难的睁开眼睛*[P]............"
 
 
 
-    a "I’m... okay. I’m just... ... too tired... ..."
+    a "我...没事.我就是......太累了......"
 
 
 
     scene a_train_inti_1_3 with tstmgr
 
-    "She closed her eyes again and fell asleep right away."
+    "她又闭上眼睛,马上睡着了."
 
 
 
@@ -103,15 +103,15 @@ label A_train_inti_1:
 
 
 
-    player "I told you not to dedicate too much of your time to those jobs... ..."
+    player "我告诉过你不要在那些工作上投入太多......"
 
 
 
-    "Well, I can’t leave her like this. She just came home after a day of heavy works and she needs to at least take a shower before going to bed."
+    "Well,我不能就这样离开她.她刚结束一天的繁重工作回到家,她至少需要洗个澡再睡觉."
 
 
 
-    player "Alright, I’ll help you with the shower, babe."
+    player "好吧,我来帮你洗澡,宝贝."
 
 
 
@@ -121,7 +121,7 @@ label A_train_inti_1:
 
 
 
-    "Sometime later..."
+    "一段时间后..."
 
 
 
@@ -139,35 +139,35 @@ label A_train_inti_1:
 
     scene a_train_inti_1_7 with tstmgr
 
-    a "[P]? What are you doing?"
+    a "[P]?你在干什么?"
 
 
 
-    player "Ah, you are awake~"
+    player "Ah,你醒啦~"
 
 
 
-    player "Do not move, I am almost done with your back."
+    player "别动,我已经快洗完你的背了."
 
 
 
     scene a_train_inti_1_8 with tstmgr
 
-    a "Oh, you are... ... washing my body for me... ... okay... ..."
+    a "Oh,你在......帮我洗澡......okay......"
 
 
 
-    a "Thank you~"
+    a "谢谢你~"
 
 
 
     scene a_train_inti_1_9 with tstmgr
 
-    a "I remembered that my mom used to help me take the bath when I was a little girl~"
+    a "我记得当我还是个小女孩的时候,我妈妈经常帮我洗澡~"
 
 
 
-    player "I can do this for you everyday if you want."
+    player "如果你愿意,我每天都可以为你做这件事."
 
 
 
@@ -177,23 +177,23 @@ label A_train_inti_1:
 
     scene a_train_inti_1_10 with tstmgr
 
-    a "You don’t have to be so kind to me. I will be spoiled..."
+    a "你不必对我这么好.我会被宠坏的..."
 
 
 
     scene a_train_inti_1_11 with tstmgr
 
-    player "*Kissing Vera’s shoulder* Well, that’s exactly what I’m going to do. I will spoil you so hard and treat you like a princess."
+    player "*亲吻薇拉的肩膀*Well,这正是我要做的.我会宠坏你,像对待公主一样对待你."
 
 
 
     scene a_train_inti_1_12 with tstmgr
 
-    player "Cough! Cough! Cough! Cough!!"
+    player "咳!咳!咳!咳!!"
 
 
 
-    a "Wait, did you just kiss on the soap? You are ridiculous~"
+    a "等等,你刚才亲到肥皂了吗?你好搞笑~"
 
 
 
@@ -203,19 +203,19 @@ label A_train_inti_1:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene a_train_inti_1_13 with tstmgr
 
-    player "Alright, Vera, could you turn around, please?"
+    player "好了,薇拉,你能转过身来吗?"
 
 
 
     scene a_train_inti_1_14 with tstmgr
 
-    player "Vera?"
+    player "薇拉?"
 
 
 
@@ -223,25 +223,25 @@ label A_train_inti_1:
 
 
 
-    player "Fell in sleep again? That’s... efficiently."
+    player "又睡着了?这...真快."
 
 
 
     scene a_train_inti_1_13 with tstmgr
 
-    "It must be a really long day for her. I should try not to wake her up again."
+    "对她来说这一天一定很漫长.我应该尽量不要再吵醒她."
 
 
 
     scene a_train_inti_1_15 with tstmgr
 
-    "I slowly turned her around and cleaned her front body as careful as I could. Luckily, she didn’t wake up~"
+    "我慢慢地把她转过来,尽可能小心地清洗她的胸.幸运的是,她没有醒来~"
 
 
 
     scene a_train_inti_1_16 with tstmgr
 
-    a "*Satisfied breathing* ... ... ... ..."
+    a "*满足的呼吸*............"
 
 
 
@@ -249,21 +249,21 @@ label A_train_inti_1:
 
 
 
-    "What a sleeping beauty... ..."
+    "真是个睡美人......"
 
 
 
-    "Well, I really want to cum on those lovely tits right now, but... nope, not this time."
+    "Well,我现在真的很想吸吸那些可爱的乳头,但是...不,这次不行."
 
 
 
-    "Now I should take the sleeping beauty back to her bed and let her have a good sleep~"
+    "现在我应该把睡美人带回她的床上,让她好好睡一觉~"
 
 
 
     scene a_train_inti_1_17 with tstmgr
 
-    a "*Talking in the dream* [P]... ... love you... ... ... ..."
+    a "*梦呓*[P]......爱你............"
 
 
 
@@ -273,7 +273,7 @@ label A_train_inti_1:
 
     scene a_train_inti_1_18 with tstmgr
 
-    "On the second thought, maybe I should sleep with her tonight, so I can count how many times she will say my name during sleep~"
+    "再一想,也许我今晚应该和她一起睡,这样我就能数出她在睡觉的时候会叫我名字多少次~"
 
 
 

@@ -2,17 +2,17 @@ label mansion_tutor_afternoon_E_1:
 
     scene d_room_background with tstmgr
 
-    "At the time when I was tutoring Irene, Aunt Elisa opened the door with a crack quietly and looked inside."
+    "当我在辅导艾琳的时候,伊莉莎阿姨轻轻地打开了门,往里面看了看."
 
 
 
     scene e_droom_smile with tstmgr
 
-    e "([P] is doing a quite good job. Irene seems to enjoy the way he teaches as well.)"
+    e "([P]教的很好.艾琳似乎也喜欢他的教学方式.)"
 
 
 
-    e "(Such a reliable young man he is, just like what his father used to be.)"
+    e "(他是一个如此可靠的年轻人,就像他爸爸过去一样.)"
 
 
 
@@ -22,7 +22,7 @@ label mansion_tutor_afternoon_E_1:
 
 
 
-    player "Why I felt like someone is watching me?"
+    player "为什么我觉得有人在看着我?"
 
 
 

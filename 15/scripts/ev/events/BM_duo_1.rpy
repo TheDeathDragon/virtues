@@ -3,11 +3,11 @@ label B_final_1:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, I came to Senning's apartment..."
+    "下午，我来到了森柠的公寓..."
 
 
 
-    player "*Opening the front door from outside* ... ... ... ..."
+    player "*从外面打开门* ... ... ... ..."
 
 
 
@@ -17,73 +17,73 @@ label B_final_1:
 
 
 
-    player "Lady Minna? Eh... Hi~"
+    player "明娜女士? Eh... Hi~"
 
 
 
     scene bm_duo_1_2 with tstmgr
 
-    "Lady Minna" "Look who is here~"
+    "明娜女士" "看看谁在这~"
 
 
 
     scene bm_duo_1_3 with tstmgr
 
-    "Lady Minna" "Looking for my daughter? Unfortunately she is not here. She went to a movie with a friend."
+    "明娜女士" "找我的女儿？不幸的是，她不在这里.她和朋友去看电影了."
 
 
 
     scene bm_duo_1_4 with tstmgr
 
-    "Lady Minna" "Ra... Rachel, yeah, that’s the name."
+    "明娜女士" "瑞... 瑞秋, yeah, 就是叫这个."
 
 
 
-    player "So... what are you doing here?"
+    player "所以... 你来这干什么?"
 
 
 
     scene bm_duo_1_5 with tstmgr
 
-    "Lady Minna" "Well, you know, just checking around and looking for something interesting, like diaries or dildos, every parent does this shit~"
+    "明娜女士" "好吧，你知道的，就是到处看看，找些有趣的东西，比如日记或假阳具，每个父母都会做这种事~"
 
 
 
-    player "That’s... pretty honest of you... ..."
+    player "你......很诚实啊... ..."
 
 
 
     scene bm_duo_1_6 with tstmgr
 
-    "Lady Minna" "Sigh... ... I just want to know what I have missed about her during the past three years. After that day in Elisa’s house, I realized there are so many things I don’t know about her."
+    "明娜女士" "唉... ... 我只是想知道在过去的三年里我错过了她的什么。在伊莉莎家的那一天之后，我意识到有很多关于她的事情我都不知道。"
 
 
 
-    "Lady Minna" "I didn’t know she has a low-blood-sugar issue, and I didn’t know she is so sensitive to your scent... ... Sigh, it’s only been 3 years."
+    "明娜女士" "我不知道她有低血糖的问题，我也不知道她对你的气味如此敏感......唉，才3年时间。"
 
 
 
-    player "Ha, I understand that feeling. My dad used to complain about the same thing~"
+    player "哈，我理解这种感觉。我爸爸以前也抱怨过同样的事情~"
 
 
 
-    player "So, have you found anything interesting?"
+    player "那么，你有没有发现什么有趣的事情？"
 
 
 
     scene bm_duo_1_7 with tstmgr
 
-    "Lady Minna" "*Waving the book* Actually I do~ Check this out~"
+    "明娜女士" "*挥洒书香* 其实我是这样想的~看看这个~"
 
 
 
-    player "What is this? Don’t tell me it’s her diary?"
+    player "这是什么，别告诉我是森柠的日记?"
 
 
 
     scene bm_duo_1_8 with tstmgr
 
-    "Lady Minna" "It’s her diary~"
+    "明娜女士" "正是如此~"
 
 
 
@@ -93,39 +93,39 @@ label B_final_1:
 
     scene bm_duo_1_9 with tstmgr
 
-    "Lady Minna" "It looks like she started writing them since she first came to this college and she recorded everything happened during the last three years."
+    "明娜女士" "看起来她从刚来这所大学时就开始写了，这记录了过去三年中发生的一切。."
 
 
 
     scene bm_duo_1_10 with tstmgr
 
-    "Lady Minna" "Do you want to know the contents?"
+    "明娜女士" "你想知道内容吗？"
 
 
 
-    player "Eh... reading someone’s diary... is not right, is it?"
+    player "呃......看别人的日记......是不对的，是吗?"
 
 
 
     scene bm_duo_1_11 with tstmgr
 
-    "Lady Minna" "Ha? I thought you don’t have such a high level of moral standard, I mean, you have already fucked her mom~"
+    "明娜女士" "Ha? 我以为你没有这么高的道德标准，我是说，你已经上了她妈妈~"
 
 
 
-    player "That’s... true... ..."
+    player "那是......也是... ..."
 
 
 
     scene bm_duo_1_12 with tstmgr
 
-    "Lady Minna" "Whatever, she wrote them in Chinese, you can’t read them anyway~"
+    "明娜女士" "管它呢，她用中文写的，反正你也看不懂。~"
 
 
 
     scene bm_duo_1_13 with tstmgr
 
-    "Lady Minna" "It’s such a pity for you~ Do you know how many times she mentioned you in the book? Damn, I can’t believe she had a crush on you on her first day of college but she didn’t tell you anything until three years later."
+    "明娜女士" "你真是太可惜了~你知道她在书中提到了多少次你吗？说实话，我不相信她在上大学的第一天就对你有好感，但她直到三年后才告诉你。."
 
 
 
@@ -133,85 +133,85 @@ label B_final_1:
 
 
 
-    "Well, Senning did tell me about that before~"
+    "好吧，森柠之前确实告诉过我这一点~"
 
 
 
     scene b_daily15_15 with flashback
 
-    b "You acted like a handsome prince-like guy from a Korean TV series. No 18-year-old girl can reject you in that situation."
+    b "你的行为就像韩国电视剧中的一个英俊王子般的人。在这种情况下，没有一个18岁的女孩能拒绝你."
 
 
 
     scene b_daily15_16 with tstmgr
 
-    player "Did you start to like me since then?"
+    player "从那时起，你开始喜欢我了吗？"
 
 
 
-    b "Sort of... ..."
+    b "算是吧... ..."
 
 
 
     scene bm_duo_1_14 with flashback
 
-    "Lady Minna" "Do you want to know what else she wrote on the night of her first encounter with you? Translation service is for free~"
+    "明娜女士" "你想知道她在与你第一次见面的晚上还写了什么吗？免费的翻译服务哦~"
 
 
 
     label BM_duo_1_choice_1:
 
     menu:
-        "Yes":
+        "好啊":
 
 
             player "Yeah... ..."
 
-            "Lady Minna" "Ha, I like you being honest~"
-        "No":
+            "明娜女士" "Ha, 我喜欢你的诚实~"
+        "还是算了":
 
 
 
 
-            player "Not really, it’s... her privacy, I shouldn’t... ..."
+            player "不，这是......她的隐私，我不应该... ..."
 
             scene bm_duo_1_15 with tstmgr
 
-            "Lady Minna" "Humph, I’m going to tell you anyway, because it is interesting~"
+            "明娜女士" "Humph, 我还是要告诉你，因为这很有意思~"
 
 
 
     scene bm_duo_1_16 with tstmgr
 
-    "Lady Minna" "Hang on, I’m not really good at translating this into English, let me try... ..."
+    "明娜女士" "等一下，我不太擅长把这个翻译成英文，让我试试... ..."
 
 
 
     scene bm_duo_1_17 with tstmgr
 
-    "Lady Minna" "‘That man... he told me that his name is [P]. I’m not sure if I’m spelling it right. Awwwwwwww... ... He is so handsome!’"
+    "明娜女士" "‘那个人......他告诉我，他的名字叫[P]。我不确定我是否拼写正确。Awwwwwwww... ... 他太帅了！'"
 
 
 
-    "Lady Minna" "‘Will we meet again? I want to meet him again already! We are in the same college so there are definitely a lot of chances, right?’"
+    "明娜女士" "'我们还会见面吗？我已经想再见到他了! 我们在同一所大学，所以肯定有很多机会，对吗？"
 
 
 
-    "Lady Minna" "‘Wait a second... ... Did he mention about his age? Awwww... he must did, but I didn’t understand 80%% of his words. I have to practice my English harder!’"
+    "明娜女士" "'等一下......。他有没有提到他的年龄？啊......他肯定提到了，但我没有听懂他80%的内容。我必须更加努力地练习我的英语！'"
 
 
 
-    "Lady Minna" "‘What if he is way older than me? He looks... so mature, maybe he is a graduate student? That’s not good. I mean, I don’t really care about his age, but what if he thinks I am too young or something?’"
+    "明娜女士" "'如果他比我大得多怎么办？他看起来......那么成熟，也许他是个研究生？那就不好了。我的意思是，我并不关心他的年龄，但如果他认为我太年轻或什么的怎么办?’"
 
 
 
-    player "Shit, what? Do I really look that old? I was only a freshman when she wrote this!"
+    player "我去, 什么? 我真的看起来那么老吗？她写这篇文章时，我只是个大一新生!"
 
 
 
     scene bm_duo_1_18 with tstmgr
 
-    "Lady Minna" "Eh... ... you look fine, don’t worry about it. We easterners think all the westerners look maturer than their real age because we all look young as fuck."
+    "明娜女士" "Eh... ... 你看起来很好，不用担心。我们东方人认为所有西方人看起来都比他们的实际年龄成熟，因为我们都看起来年轻得要命。."
 
 
 
@@ -221,17 +221,17 @@ label B_final_1:
 
     scene bm_duo_1_19 with tstmgr
 
-    "Lady Minna" "So, what I want to know is, my daughter was too shy to confess her love to you, but what about you? Why didn’t you pursue her in the past three years?"
+    "明娜女士" "所以，我想知道的是，我女儿不好意思向你表白，但你呢？在过去的三年里，你为什么不追求她？?"
 
 
 
     scene bm_duo_1_20 with tstmgr
 
-    "Lady Minna" "You... don’t love my daughter as much as my daughter loves you?"
+    "明娜女士" "你......不爱我的女儿，就像我女儿爱你一样？"
 
 
 
-    "Lady Minna’s eyes suddenly sharpened. I could feel the coldness in her words."
+    "明娜女士的眼睛突然变得尖锐起来。我可以感觉到她话语中的冷漠."
 
 
 
@@ -239,43 +239,43 @@ label B_final_1:
 
 
 
-    player "Senning was an introverted girl, I didn’t know what she really thought of me. I valued the friendship with her and I was afraid to pursue her because I didn’t want to make things difficult for her."
+    player "森柠是个内向的女孩，我不知道她对我的真实想法。我很珍惜和她的友谊，所以不敢追求她，因为我不想让她为难。"
 
 
 
-    player "What if she didn’t like me and we couldn’t even be friends anymore after I told her about my feeling?"
+    player "如果她不喜欢我，在我告诉她我的感觉后，我们甚至不能再做朋友，怎么办？?"
 
 
 
     scene bm_duo_1_21 with tstmgr
 
-    "Lady Minna" "Humm... ... Yeah, you have a point. She is a conservative oriental girl who was not good at expressing her feeling."
+    "明娜女士" "Humm... ... Yeah, 你说得很有道理。她是一个保守的东方女孩，不善于表达自己的感受。."
 
 
 
     scene bm_duo_1_22 with tstmgr
 
-    "Lady Minna" "That’s why I love the hookup culture here. The way you guys deal with a relationship is just... more efficient."
+    "明娜女士" "这就是为什么我喜欢这里的勾搭文化。你们处理关系的方式只是...更有效率."
 
 
 
     scene bm_duo_1_23 with tstmgr
 
-    "Lady Minna" "Anyway, I want to thank you, [P]. Thank you for not breaking my daughter’s heart."
+    "明娜女士" "无论如何，我想感谢你，[P]。谢谢你没有伤我女儿的心。"
 
 
 
-    player "Oh... eh... You are welcome... ... but what do you mean by 'breaking her heart' exactly?"
+    player "哦......呃......不客气... ...但你说的'伤她的心'到底是什么意思？"
 
 
 
-    "Lady Minna" "Well, you know, Senning is the jewel of my family. She was spoiled hard and she has never suffered any setbacks since she was a child."
+    "明娜女士" "嗯，你知道，森柠是我家里的掌上明珠。她被宠坏了，从小到大都没有受过任何挫折."
 
 
 
     scene bm_duo_1_24 with tstmgr
 
-    "Lady Minna" "But our overprotection made her very vulnerable as well. She would definitely be heartbroken if you didn’t response to her love after she put her heart on you for more than three years."
+    "明娜女士" "但我们的过度保护使她也非常脆弱。如果她把心思放在你身上三年多，你还不回应她的爱，她肯定会心碎的。."
 
 
 
@@ -285,52 +285,52 @@ label B_final_1:
 
     scene bm_duo_1_25 with tstmgr
 
-    "Lady Minna" "Luckily, you did response to her love~~ and I thank you for that."
+    "明娜女士" "幸运的是，你确实回应了她的爱~~我为此感谢你。"
 
 
 
-    "Lady Minna" "I will leave this country very soon, and I believe you will take care of Senning well. No, I believe you will take care of her even better than I do."
+    "明娜女士" "我很快就会离开这个国家，我相信你会好好照顾森柠的。不，我相信你会把她照顾得比我还好。."
 
 
 
     scene bm_duo_1_26 with tstmgr
 
-    "Lady Minna" "You took a piece of chocolate all the time, even when you are only wearing a pair of swim trunks, just to prevent her from having a low-blood-suger problem. That was really impressive."
+    "明娜女士" "你一直拿着一块巧克力，即使你只穿了一条泳裤，只是为了防止她出现低血糖问题。这真是令人印象深刻."
 
 
 
-    player "Ha~ ha ha. It’s nothing~"
+    player "Ha~ ha ha. 这没什么~"
 
 
 
     scene bm_duo_1_27 with tstmgr
 
-    "Lady Minna" "You know, you really have a lot of similarities with my husband when he was young~"
+    "明娜女士" "你知道，你和我丈夫年轻时真的有很多相似之处~"
 
 
 
-    player "Oh, do I?"
+    player "哦，我有吗？"
 
 
 
-    "Lady Minna" "I almost want to stay in this country for some months more because of you~"
+    "明娜女士" "因为你，我几乎想在这个国家多呆几个月。~"
 
 
 
     scene bm_duo_1_28 with tstmgr
 
-    "Lady Minna" "Now, there is one thing I have to do again before I leave this country... ..."
+    "明娜女士" "现在，在我离开这个国家之前，有一件事我必须再做一次... ..."
 
 
 
     scene bm_duo_1_34 with tstmgr
     $ flashlight()
 
-    "Lady Minna" "I wanna have some more fun with my future son-in-law~~~"
+    "明娜女士" "我想和我未来的女婿多玩一会儿~~~"
 
 
 
-    player "Lady Minna... ..."
+    player "明娜女士... ..."
 
 
 
@@ -340,23 +340,23 @@ label B_final_1:
 
 
 
-    "Sometime later... ..."
+    "稍后的某个时间... ..."
 
 
 
-    b "*Opening the front door from outside* Hmmmmm? Why isn’t my door locked?"
+    b "*从外面打开前门* 嗯？为什么我的门没有锁?"
 
 
 
     scene bm_duo_1_29 with dissolve
 
-    b "Has anyone been here when I was not around?"
+    b "我不在的时候有人来过这里吗？?"
 
 
 
     scene bm_duo_1_30 with tstmgr
 
-    b "Mama? ... ... [P]?... ... Are you there?"
+    b "妈妈? ... ... [P]?... ... 你在吗？?"
 
 
 
@@ -366,13 +366,13 @@ label B_final_1:
 
     scene bm_duo_1_31 with tstmgr
 
-    b "Strange... ..."
+    b "奇怪... ..."
 
 
 
     scene void with tstmgr
 
-    "Meanwhile, at the balcony..."
+    "与此同时，在阳台上..."
 
 
 
@@ -382,27 +382,27 @@ label B_final_1:
 
 
 
-    player "Oh... shit, didn’t you say she wouldn’t be back in two hours? It’s only been 5 minutes."
+    player "Oh... 你不是说她两小时内不会回来吗？现在才5分钟而已."
 
 
 
-    "Lady Minna" "Ha~ how the fuck should I know?"
+    "明娜女士" "Ha~ 我怎么知道?"
 
 
 
-    player "We can’t let Senning see this."
+    player "我们不能让森柠看到这个。"
 
 
 
-    "Lady Minna" "You don’t have to remind me that... ..."
+    "明娜女士" "不用你提醒我，......"
 
 
 
-    "Lady Minna" "But it’s gonna be hard... to hold myself from moaning out loud~~~"
+    "明娜女士" "但这很难......让自己不大声呻吟~~~"
 
 
 
-    "Lady Minna" "This young energetic cock... ... awwwwww... ... so good... ..."
+    "明娜女士" "这个年轻有活力的鸡巴............啊啊啊......好爽......"
 
 
     stop sound
@@ -412,59 +412,59 @@ label B_final_1:
 
 
 
-    b "Hmmmm? My diary? Why is it here?"
+    b "Hmmmm? 我的日记? 为什么会在这?"
 
 
 
-    "Lady Minna" "*Restricted moaning* Ahhh... ... Yes... ... so deep... ... awww~~~"
+    "明娜女士" "*压抑的呻吟* Ahhh... ... 对... ... 好深啊... ... awww~~~"
 
 
 
-    "Lady Minna" "Young man’s big cock... is the best~~~"
+    "明娜女士" "年轻人的大鸡巴...真是太好了~~~"
 
 
 
-    player "Shhhhh... ... Senning is going to hear you."
+    player "森... ... 森柠会听到你的声音."
 
 
 
-    "Lady Minna" "Awwww... I am such a bad mother~~"
+    "明娜女士" "Awwww... 我真是个坏妈妈~~"
 
 
 
-    "Lady Minna" "Huhhhh~~~~ Yeeees... ... that thrust... oh my god~~~"
+    "明娜女士" "Huhhhh~~~~ Yeeees... ... 那个深度......哦，我的上帝~~~"
 
 
 
-    "Lady Minna" "Can’t... hold myself much longer... ..."
+    "明娜女士" "不能......再忍耐下去了... ..."
 
 
 
-    "Lady Minna" "Just cum... ohhhh... ... just cum inside me and finish this~~~~~"
+    "明娜女士" "就要去了... ohhhh... ...在我里面射出来....快...中出我 ~~~~~"
 
 
 
-    player "Beg me, Minna~"
+    player "求我, 明娜~"
 
 
 
-    "Lady Minna" "What? You... ..."
+    "明娜女士" "什么? 你... ..."
 
 
 
-    "Lady Minna" "Awwwww... ... fuck... ... ... ..."
+    "明娜女士" "Awwwww... ... 去你的... ... ... ..."
 
 
 
-    "Lady Minna" "Please give me your thick sperm, [P], in my sinful dirty pussy~~ I beg you~~~"
+    "明娜女士" "请给我你浓稠的精液, [P], 在我下贱淫乱的阴户里~~ 求你了~~~"
 
 
 
-    player "Very well~"
+    player "很好~"
 
 
 
-    player "I’m cumming, Minna~"
+    player "我要射了, 明娜~"
 
 
     stop sound
@@ -472,41 +472,41 @@ label B_final_1:
     play sound cumshot
     $ flashlight()
 
-    "Lady Minna" "*Restricted moaning* Ohhhhhmmmmm~~~~"
+    "明娜女士" "*压抑的呻吟声* Ohhhhhmmmmm~~~~"
 
 
 
-    "Lady Minna couldn’t help but moan out, I hope Senning didn’t hear it."
+    "明娜忍不住的呻吟出声，我希望森柠没有听到。."
 
 
 
     scene bm_duo_1_36 with tstmgr
 
-    "Lady Minna" "Huh... huh... haha~~~"
+    "明娜女士" "Huh... huh... haha~~~"
 
 
 
-    "Lady Minna" "That was... so great~"
+    "明娜女士" "这真的是... 太棒了~"
 
 
 
     scene bm_duo_1_37 with tstmgr
 
-    "Lady Minna" "Ha~ It always feels so good to be brimmed with a man's cum... ... It reminds me how good it is to be a woman."
+    "明娜女士" "Ha~ 被男人的精液填满的感觉真是太好了... ... 它提醒着我做一个女人是多么美好的事情."
 
 
 
-    "Lady Minna" "Now we should... dress up before Senning finds us."
+    "明娜女士" "现在我们应该......在森柠发现我们之前穿好衣服."
 
 
 
     label BM_duo_1_choice_2:
 
     menu:
-        "This is it":
+        "就这样吧":
 
 
-            player "Okay, let’s just be careful."
+            player "Okay, 还是小心为妙."
 
             scene bm_duo_1_39 with tstmgr
 
@@ -514,27 +514,27 @@ label B_final_1:
 
             scene bm_duo_1_40 with tstmgr
 
-            f "Senning! I found my wallet, let’s go to the theater! We can still catch the movie from the middle!~"
+            f "森柠！我找到钱包了，我们去看电影吧! 还来得及!~"
 
             scene bm_duo_1_41 with tstmgr
 
-            b "Oh, okay, but... ..."
+            b "Oh, okay, 但是... ..."
 
             scene bm_duo_1_42 with tstmgr
 
             b "... ... ... ..."
 
-            b "*Looking at the balcony with a weird look* ... ... ... ..."
+            b "*用奇怪的眼神看着阳台* ... ... ... ..."
 
             scene bm_duo_1_43 with tstmgr
 
-            b "*Talking to Rachel* I’m coming."
+            b "*和瑞秋说话* 我来了."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "After Senning went out with Rachel again, Lady Minna and I dressed up and left the apartment... ..."
+            "森柠又和瑞秋出去后，明娜女士和我整理了一下，离开了公寓... ..."
         "Not yet":
 
 
@@ -542,85 +542,85 @@ label B_final_1:
 
             scene bm_duo_1_38 with tstmgr
 
-            player "Wait... ..."
+            player "等等... ..."
 
-            "Lady Minna" "Hmmmmm?"
+            "明娜女士" "Hmmmmm?"
 
-            player "Let’s do another round~"
+            player "让我们再干一次~"
 
-            "Lady Minna" "What are you talking about? Senning will find us any second."
+            "明娜女士" "你在说什么呢？森柠随时会找到我们."
 
-            player "Not if we be careful enough."
+            player "只要我们足够小心就不会."
 
             scene bm_duo_1_39 with tstmgr
 
-            b "*Noticed something* Awww?... ..."
+            b "*注意到一些东西* Awww?... ..."
 
-            b "I think I heard some noise from the balcony... ..."
+            b "阳台上好像有些声音... ..."
 
             scene bm_duo_1_44 with tstmgr
 
-            b "*Sniffing, sniffing* ... ... ... ..."
+            b "*嗅，嗅* ... ... ... ..."
 
             scene bm_duo_1_45 with tstmgr
 
-            b "There was a strange smell coming from the balcony too... ..."
+            b "阳台上也有一股奇怪的气味传来。... ..."
 
             scene bm_duo_1_46 with tstmgr
             play sound bm_duo_1_46 loop
             pause
 
-            b "Is there something on the balcony?"
+            b "阳台上有什么东西吗？"
 
-            "Lady Minna" "She is going to... find out~~~"
+            "明娜女士" "她要......发现了~~~"
 
-            b "I’d better check it myself."
+            b "我还是自己去看看吧。"
 
-            "Lady Minna" "Oh... no... ..."
+            "明娜女士" "哦......不......"
 
-            "At this desperate moment..."
+            "在这个紧张的时刻..."
 
             scene bm_duo_1_48 with tstmgr
 
-            f "Senning! I found my wallet, let’s go to the theater! We can still catch the movie from the middle~"
+            f "森柠！我找到钱包了，我们去看电影吧! 还来得及~"
 
-            b "Oh, okay, but... ..."
+            b "Oh, okay, 但是... ..."
 
             scene bm_duo_1_47 with tstmgr
 
             b "... ... ... ..."
 
-            b "I’m coming."
+            b "我要去了."
 
             scene bm_duo_1_49 with tstmgr
 
-            "Senning then left the room. It looks like she won’t be back any time soon."
+            "森柠随后离开了房间。看来她短时间不会再回来了."
 
             stop sound
             scene bm_duo_1_50 with tstmgr
             play sound bm_duo_1_50 loop
             pause
 
-            "Lady Minna" "That was... so close~~~"
+            "明娜女士" "真是......好险啊~~~"
 
-            player "Lady Minna, your vagina became so damn tight after you heard Senning was coming in."
+            player "明娜女士，你的小穴在听到森柠要进来后，变得好紧。"
 
-            player "You are really a helpless slut~"
+            player "你真是个无可救药的荡妇~"
 
-            "Lady Minna" "Awwwwwwwwww~~~~~ No~~~~"
+            "明娜女士" "Awwwwwwwwwwww~~~~~ 不~~~~"
 
-            player "And just let you know, we are fucking at the balcony, everyone in the building across the street can see your horny face and dancing boobs."
+            player "告诉你，我们在阳台上做爱，对面楼里的人都能看到你淫荡的脸和舞动的奶子."
 
             stop sound
             scene bm_duo_1_51 with tstmgr
             play sound bm_duo_1_51 loop
             pause
 
-            "Lady Minna" "Ohhhhhhh~~~ You are making me so excited!~~~~~"
+            "明娜女士" "Ohhhhhhh~~~ 你让我那么兴奋！~~~~~"
 
-            "Lady Minna" "Yes, yes, I want everyone in that building to see me~~ I want everyone to know what a bitch I am~~~"
+            "明娜女士" "是的，是的，我想让这栋楼里的所有人都看到我~~我想让所有人都知道我是一个什么样的婊子~~"
 
-            "Lady Minna" "I’m cumming!!!!!!!~~~~~~~"
+            "明娜女士" "我要去了!!!!!!!~~~~~~~"
 
             player "Me too!"
 
@@ -629,21 +629,21 @@ label B_final_1:
             play sound cumshot
             $ flashlight()
 
-            "Lady Minna" "Yeeeeeeeeeeeeees!!!!!!!~~~~~~~~~"
+            "明娜女士" "Yeeeeeeeeeeeeees!!!!!!!~~~~~~~~~"
 
-            "We had a great orgasm together. Lady Minna moaned out so loud that I think people might even hear it on the street."
+            "我们一起达到了最棒的高潮。明娜女士大声呻吟着，我想人们甚至在街上都可能听到。."
 
             scene bm_duo_1_53 with tstmgr
 
-            "Lady Minna" "Huh... huh... huh... huh..."
+            "明娜女士" "Huh... huh... huh... huh..."
 
-            "Lady Minna" "That was... crazy... ..."
+            "明娜女士" "这真的是... 太疯狂了... ..."
 
             scene bm_duo_1_54 with tstmgr
 
-            "Lady Minna" "Oh, look, someone is looking at us from the building across the street."
+            "明娜女士" "Oh, 看，有人在街对面的大楼里看着我们。"
 
-            "Lady Minna" "I hope he will imagine something about me during his next masturbation~"
+            "明娜女士" "我希望他在下次手冲时能想象到关于我的事情~"
 
             scene bm_duo_1_55 with tstmgr
 
@@ -651,13 +651,13 @@ label B_final_1:
 
             scene bm_duo_1_56 with tstmgr
 
-            "Lady Minna" "You know, son, our bodies are really in tune with each other. I will miss you so much after I go back to my country."
+            "明娜女士" "你知道吗，孩子，我们的身体真的很合拍。我回国后会非常想念你的。"
 
-            "Lady Minna" "It would be best if you and Senning can leave this country with me together~"
+            "明娜女士" "如果你和森柠能和我一起离开这个国家，那就好了~"
 
-            "Lady Minna" "Forget it, I was just joking~"
+            "明娜女士" "算了吧，我只是在开玩笑~"
 
-            "Leave this country... with Lady Minna?"
+            "离开这个国家......和明娜女士?"
 
             player "... ... ... ..."
 

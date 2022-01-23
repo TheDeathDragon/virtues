@@ -3,23 +3,23 @@ label hint_clean:
     scene void with tstmgr
     play music happy
 
-    "In the morning, while I was cleaning the house with Vera..."
+    "早上,当我和薇拉打扫房子的时候..."
 
 
 
     scene hint_clean_1 with dissolve
 
-    a "You know, there is something strange about this house..."
+    a "你知道,这房子有点奇怪..."
 
 
 
-    player "What do you mean?"
+    player "什么意思?"
 
 
 
     scene hint_clean_2 with tstmgr
 
-    a "Don't you think the livingroom and the kitchen are little bit... too small for such a big house?"
+    a "你不觉得客厅和厨房有点...对这么大的房子来说太小了?"
 
 
 
@@ -27,11 +27,11 @@ label hint_clean:
 
 
 
-    "I think she has a point. I have never seen a big house with such a small livingroom and kitchen before. It's like... someone built a wall and cut them in the middle."
+    "我觉得她说的有道理.我从来没见过客厅和厨房这么小的大房子.这就像...有人建了一堵墙,把它们从中间切开了."
 
 
 
-    player "I don't know... I will see if I can get a layout map of this house."
+    player "我不知道...我看看能不能弄到这房子的布局图."
 
 
 
@@ -39,9 +39,9 @@ label hint_clean:
 
     "... ... ... ..."
 
-    call screen hint("You will have to do the cleaning for a few more times to discover what is hidden in your house.")
+    call screen hint("你可以多做几次房子清洁,以发现隐藏在你的房子的空间.")
 
-    call screen hint("There will always be a red dot on the button of 'cleaning'. It will be gone after you discover something.")
+    call screen hint("在“清洁”按钮上总是会有一个红点.等你发现了什么,它就会消失.")
 
     stop music fadeout 1.0
 

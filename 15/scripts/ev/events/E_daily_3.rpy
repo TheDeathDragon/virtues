@@ -3,21 +3,21 @@ label E_daily_3:
     scene void with tstmgr
     play music happy
 
-    "Later tonight, in the bathroom of Elisa’s mansion."
+    "今天晚些时候,在伊莉莎家的浴室里."
 
 
 
     scene e_daily3_1 with tstmgr
 
-    d "How is my massaging skill, mommy? [P] taught me this."
+    d "妈咪,我的按摩技巧怎么样?[P]教我的."
 
 
 
-    e "It feels amazing, honey. You are so sweet."
+    e "感觉棒极了,亲爱的.你真贴心."
 
 
 
-    e "A massage is exactly what I need. I have been exhausted."
+    e "我现在正需要一些按摩.我已经筋疲力尽了."
 
 
 
@@ -27,35 +27,35 @@ label E_daily_3:
 
 
 
-    d "Yeah, of course you are exhausted."
+    d "Yeah,你当然累了."
 
 
 
     scene e_daily3_3 with tstmgr
 
-    d "With that pair of huge breasts, hmmm... ... ... ..."
+    d "带着这对巨乳,hmmm............"
 
 
 
-    d "Mom, am I really your biological daughter?"
+    d "妈妈,我真的是你的亲生女儿吗?"
 
 
 
-    e "Don’t be silly, honey."
+    e "别傻了,亲爱的."
 
 
 
     scene e_daily3_4 with tstmgr
 
-    d "But... why my breasts are so small comparing with you and Theo? That’s not fair."
+    d "但是...为什么我的胸部跟你和狄奥多拉比起来那么小?这不公平."
 
 
 
-    e "You are still growing, my little girl. Besides, you don’t need a bigger chest to increase your attractiveness. You are already the prettiest girl in your school."
+    e "你还在发育,我的小女孩.此外,你不需要更大的胸来增加你的吸引力.你已经是你们学校最漂亮的女孩了."
 
 
 
-    d "Thanks for comforting me, mom. I wish one day I can be as beautiful as you."
+    d "谢谢你安慰我,妈妈.我希望有一天我能像你一样漂亮."
 
 
 
@@ -65,39 +65,39 @@ label E_daily_3:
 
     scene e_daily3_5 with tstmgr
 
-    d "Mommy, can I have “that”, please?"
+    d "妈咪,我可以“这样”吗?"
 
 
 
-    e "“That”? You mean... ..."
+    e "“这样”?你的意思是说......"
 
 
 
-    d "Can I have a taste of your milk?"
+    d "我可以尝尝你的奶奶吗?"
 
 
 
-    e "Irene... ..."
+    e "艾琳......"
 
 
 
     scene e_daily3_6 with tstmgr
 
-    e "You are not a baby anymore. Why do you... ..."
+    e "你不再是小孩子了.你为什么......"
 
 
 
-    d "I think my breasts will be bigger if I drink it a lot."
+    d "我想如果我喝很多的话,我的胸部会更大."
 
 
 
-    e "You know there is no scientific proof for that."
+    e "你知道这没有科学依据."
 
 
 
     scene e_daily3_7 with tstmgr
 
-    d "But... mommy... pleeeeease... ..."
+    d "但是...妈咪...拜拜拜拜拜托......"
 
 
 
@@ -107,13 +107,13 @@ label E_daily_3:
 
     scene e_daily3_8 with tstmgr
 
-    e "Okay, girl, come here."
+    e "好吧,女孩,过来."
 
 
 
     scene e_daily3_3 with tstmgr
 
-    d "Nice! You are the best mom in the world!"
+    d "棒!你是世界上最好的妈妈!"
 
 
 
@@ -123,19 +123,19 @@ label E_daily_3:
 
 
 
-    "A few moments later..."
+    "不一会儿..."
 
 
 
     scene e_daily3_9 with tstmgr
 
-    d "Seriously, mom. I think your breast is even bigger than my head."
+    d "老实说,妈妈.我觉得你的胸比我的头还大."
 
 
 
     scene e_daily3_10 with tstmgr
 
-    d "Ahhh... I’m so jealous at you..."
+    d "Ahhh...我真羡慕你..."
 
 
 
@@ -147,55 +147,55 @@ label E_daily_3:
 
     scene e_daily3_13 with tstmgr
 
-    e "Oh... Irene... ..."
+    e "Oh...艾琳......"
 
 
 
-    e "Don’t... suck it too hard... ..."
+    e "别...吸的太用力......"
 
 
 
     scene e_daily3_12 with tstmgr
 
-    d "(Sucking sound) Zmmm... Zmmm... Zmm... ... ... ..."
+    d "(吮吸声)Zmmm...Zmmm...Zmm............"
 
 
 
     scene e_daily3_14 with tstmgr
 
-    d "Zmmm... ... Mom’s breast... ... so tasty... ..."
+    d "Zmmm......妈妈的胸......真好喝......"
 
 
 
-    e "Ohhh... Irene, it is about to come out... ... ... ..."
+    e "Ohhh...艾琳,快出来了............"
 
 
 
-    e "My milk... ... ..."
+    e "我的乳汁........."
 
 
 
-    d "(Sucking sound) Zmmm... Zmmm... Zmm... ... ... ..."
+    d "(吮吸声)Zmmm...Zmmm...Zmm............"
 
 
 
     scene e_daily3_15 with tstmgr
 
-    e "Owww... it is coming out... ..."
+    e "Owww...它出来了......"
 
 
 
-    d "(Drinking sound) Sip... sip... sip... sip... ... ... ..."
+    d "(喝的声音)Sip...sip...sip...sip............"
 
 
 
-    d "Mmmm... so sweet... the best drink in the world..."
+    d "Mmmm...太甜了...世界上最好的饮料..."
 
 
 
     scene e_daily3_18 with tstmgr
 
-    e "It is going to... ... spray out... ..."
+    e "它要......喷出来了......"
 
 
 
@@ -209,13 +209,13 @@ label E_daily_3:
 
 
 
-    d "So tasty... yum... yum... yum... ..."
+    d "真好喝...yum...yum...yum......"
 
 
 
     scene e_daily3_17 with tstmgr
 
-    e "Ommmm... it is keeping spraying out... ..."
+    e "Ommmm...它一直在喷......"
 
 
 
@@ -225,7 +225,7 @@ label E_daily_3:
 
     scene e_daily3_19 with tstmgr
 
-    e "Irene... wait, don’t bite my nipple like that!"
+    e "艾琳...等等,别那样咬我的乳头!"
 
 
 
@@ -235,11 +235,11 @@ label E_daily_3:
 
     scene e_daily3_20 with tstmgr
 
-    e "(All the milk in my left breast is wasted...)"
+    e "(我左乳里的奶都浪费了...)"
 
 
 
-    e "(I wish... someone else can take my left breast...)"
+    e "(我希望...有人可以握着我的左乳...)"
 
 
 
@@ -253,21 +253,21 @@ label E_daily_3:
 
 
 
-    e "Oww... Irene... ..."
+    e "Oww...艾琳......"
 
 
 
-    e "You are making me so comfortable."
+    e "你弄的我很舒服."
 
 
 
     scene e_daily3_29 with tstmgr
 
-    e "(I didn't even realize that I have so much milk in my breasts.)"
+    e "(我甚至没有意识到我的乳房里有这么多的奶.)"
 
 
 
-    e "(Maybe... I should buy a breast pump and collect my milk...)"
+    e "(也许...我应该买一个吸乳器把我的奶都吸出来...)"
 
 
 
@@ -277,19 +277,19 @@ label E_daily_3:
 
 
 
-    "Some time later..."
+    "一段时间后..."
 
 
 
     scene e_daily3_21 with tstmgr
 
-    d "Hmmm... mom, I think I have had enough of your milk."
+    d "Hmmm...妈妈,我想我已经喝够了你的奶."
 
 
 
     scene e_daily3_22 with tstmgr
 
-    e "Alright, Irene... come here."
+    e "好吧,艾琳...来这里."
 
 
 
@@ -299,7 +299,7 @@ label E_daily_3:
 
 
 
-    e "(If she keep sucking my nipple for another minute, I might just have reached the orgasm in front of my own daughter...)"
+    e "(如果她再吸吮我的乳头一分钟,我可能就会在我女儿面前达到高潮了...)"
 
 
 
@@ -309,11 +309,11 @@ label E_daily_3:
 
     scene e_daily3_24 with tstmgr
 
-    d "Mom, why do you still have milk? I thought women would only be able to lactate when they have babies."
+    d "妈妈,为什么你还有奶?我以为女人只有生了孩子才能分泌乳汁."
 
 
 
-    e "Guess my body is special. I was able to lactate even before I was married."
+    e "我想我的身体有点特别.我甚至在结婚前就能分泌乳汁."
 
 
 
@@ -323,35 +323,35 @@ label E_daily_3:
 
 
 
-    d "Does Theo have milk, too?"
+    d "狄奥多拉也有奶吗?"
 
 
 
-    d "I mean, both of you have sensitive nipples and huge breasts."
+    d "我是说,你们两个都有敏感的乳头和巨大的乳房."
 
 
 
-    e "I don’t know. Maybe you can ask her someday."
+    e "我不知道.也许哪天你可以问问她."
 
 
 
     scene e_daily3_26 with tstmgr
 
-    d "Uh... no. Even if she has milk, I’m sure it won’t be as sweet as yours."
+    d "Uh...不.即使她有奶,我敢肯定也不会像你的那么甜."
 
 
 
-    d "Hers might be sour. Ew... ... ... ..."
+    d "她的可能是酸的.Ew............"
 
 
 
-    e "Don’t talk about your sister like this. Both of you are my dearest baby girls."
+    e "别这样说你姐姐.你们俩都是我最亲爱的宝贝女儿."
 
 
 
     scene e_daily3_27 with tstmgr
 
-    d "Oww... ... mommy... ..."
+    d "Oww......妈咪......"
 
 
 
